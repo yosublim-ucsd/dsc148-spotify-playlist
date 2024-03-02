@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-414 songs - 23 hr 29 min
+415 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 | 2020-12-18 |  |
 | [Change of Heart](https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Louise Harris](https://open.spotify.com/artist/4QVYXgffO3RSW3aIVPHqJj) | [Change of Heart](https://open.spotify.com/album/0fHNf3Ms5KaVq2dqDLoaPG) | 2:35 | 2021-12-04 | 2023-04-29 |
 | [Changes](https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [Changes](https://open.spotify.com/album/4tx98D2IVwR6lqnDcBPrzi) | 2:38 | 2023-08-04 |  |
+| [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2024-03-01 |  |
 | [Chemicals](https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Chemicals](https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV) | 2:36 | 2023-02-03 | 2024-02-24 |
 | [Cinematic](https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Cinematic](https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS) | 4:48 | 2021-12-17 | 2022-01-08 |
 | [Cir•cles](https://open.spotify.com/track/6jxyuE21MK18ua5nFQcJKH) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [Jupiter](https://open.spotify.com/album/7sIa0oG6B3TFs8M1c9SxG5) | 4:05 | 2021-11-11 | 2021-11-27 |

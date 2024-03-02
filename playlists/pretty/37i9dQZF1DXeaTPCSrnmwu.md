@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 29 | [La Paloma \- Yradier](https://open.spotify.com/track/5z9sMwPllzSNYvac81Hdup) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 3:15 |
 | 30 | [Desafinado](https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:12 |
 | 31 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
-| 32 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
-| 33 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
+| 32 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
+| 33 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
 | 34 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
 | 35 | [Setembro](https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 5:32 |
 | 36 | [Las colinas del priorato](https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Las colinas del priorato](https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 | 50 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 
-Snapshot ID: `MCxlMjlmNGM0NzI5YzUyZWI2N2M4NjA3ZGU3MmRlZGIwZmQwM2Y1YzMx`
+Snapshot ID: `MCwwMzYzMWUwZTVjYmYzMjJjZmU5YmU3OWJiNDM4ZGM1N2U5ZGRkMDk4`

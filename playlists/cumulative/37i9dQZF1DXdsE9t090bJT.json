@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201818,
       "name": "15 Besos",
       "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 185568,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 187789,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 216226,
       "name": "Broche de Oro",
       "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Es Mejor Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/25IaD63F6Qf5rc4BjuOBa6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186816,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3zEdskwuNfLeF0NfOPfpUn"
+    },
+    {
+      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 177399,
       "name": "Lo Tienes Todo",
       "url": "https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI"
@@ -1932,10 +1950,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "album": {
+        "name": "Mis 30 Aniversario, Vol. 2",
+        "url": "https://open.spotify.com/album/2RGfkZxD9S8VExEzWHymTA"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO"
     },
     {
       "album": {
@@ -2040,7 +2080,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188413,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
@@ -2408,7 +2448,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
@@ -2516,7 +2556,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178431,
       "name": "Quiero Darte",
       "url": "https://open.spotify.com/track/2A9og47Yp9p3cpfJ8qgcoF"
@@ -2806,7 +2846,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 270668,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
@@ -3096,7 +3136,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204545,
       "name": "Un Hombre con Suerte",
       "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 384405,
+  "2024-03-02": 384397,
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Angelina Mango",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Il Tre",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -2758,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "il problema ero io",
+        "url": "https://open.spotify.com/album/0ACp7I86LSwsRr4NCOMp16"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "il problema ero io",
+      "url": "https://open.spotify.com/track/1IW2xjoKjXIRsWHAY6y2S8"
+    },
+    {
+      "album": {
         "name": "INCOLMABILE",
         "url": "https://open.spotify.com/album/2SywZjY7wHMeGZRQmGC6VG"
       },
@@ -4057,7 +4075,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166000,
       "name": "Non ti voglio pi\u00f9 vedere",
       "url": "https://open.spotify.com/track/4wlfHVP0BJALiYR1EpUTtk"
@@ -4885,7 +4903,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166371,
       "name": "quando realizzi che non ti aveva capito",
       "url": "https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI"
@@ -6197,6 +6215,24 @@
       "duration_ms": 151500,
       "name": "una canzone al giorno",
       "url": "https://open.spotify.com/track/6y9aoXQMdsJxPg2FIxdmdv"
+    },
+    {
+      "album": {
+        "name": "ORA D'ARIA",
+        "url": "https://open.spotify.com/album/3e3QTPyeIRp0lkTdbAWgxC"
+      },
+      "artists": [
+        {
+          "name": "Ethos",
+          "url": "https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Una stella in cielo",
+      "url": "https://open.spotify.com/track/5HyTee9UYav7DYngohVycc"
     },
     {
       "album": {

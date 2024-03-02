@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2032651,
+  "num_followers": 2032742,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQ1MjIsZjEzN2UyOTViZmRiMjU2YTZhYmNkZjJkOGU4NDk1YTMxOTVkMmFkMw==",
+  "snapshot_id": "MTQ1MjgsYjI3N2U4MmU0YzdlMWVlMWJkMDljNWRkZGQyMWVkZGRjZTU0YzUyZg==",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -867,6 +867,62 @@
       "duration_ms": 88740,
       "name": "DNA",
       "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
+    },
+    {
+      "added_at": "2024-03-01 21:09:44",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1W3AezxuF7d3NiTVGhskc8"
+      },
+      "artists": [
+        {
+          "name": "Siik",
+          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5lPnSJBGv9jVG2uKYCayWH"
+    },
+    {
+      "added_at": "2024-03-01 19:27:12",
+      "album": {
+        "name": "Kernkraft 400",
+        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        }
+      ],
+      "duration_ms": 126915,
+      "name": "Kernkraft 400",
+      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
+    },
+    {
+      "added_at": "2024-03-01 19:28:00",
+      "album": {
+        "name": "Voyage Voyage (Techno Remix)",
+        "url": "https://open.spotify.com/album/0fz3AiFKCurJbYdUY6PVDl"
+      },
+      "artists": [
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        }
+      ],
+      "duration_ms": 129931,
+      "name": "Voyage Voyage - Techno Remix",
+      "url": "https://open.spotify.com/track/4A7QhMjQjJ55SremtfhE0W"
     },
     {
       "added_at": "2024-02-13 18:17:25",

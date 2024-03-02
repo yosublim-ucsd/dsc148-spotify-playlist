@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maisha Kanna
 
-3,143 songs - 8 day 1 hr 4 min
+3,145 songs - 8 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2272,6 +2272,7 @@
 | [Rise Up](https://open.spotify.com/track/3V0S53CdiEZnprXP2e31GG) | [The Barley Hops](https://open.spotify.com/artist/76ttYjWb7CNp34bNtbuB2v) | [Rise Up](https://open.spotify.com/album/40OB1BuN3vffdz5ACb4WAn) | 4:21 | 2023-05-11 | 2023-05-26 |
 | [Rita](https://open.spotify.com/track/31uy711lxcvsYmDcm8UwX8) | [The Nail](https://open.spotify.com/artist/6a7dGwrL6tCTxNA4zsIMH2) | [Rita](https://open.spotify.com/album/1alwjeI2o1qPYph78nKr2R) | 4:46 | 2022-04-14 | 2022-05-06 |
 | [Rock n Roll](https://open.spotify.com/track/18ZKn8Ag9e88LXbii42xvh) | [Blvenails](https://open.spotify.com/artist/6iV5umiyfXXiJHZJezhRox) | [Rock n Roll](https://open.spotify.com/album/7pZ8BWXjyeshmXA8fO5v6K) | 3:55 | 2023-06-08 | 2023-06-23 |
+| [Rock N' Rolla](https://open.spotify.com/track/6D1yuW0CCKPR1IshvwM8qw) | [Burgundy](https://open.spotify.com/artist/33YZb6W25FDb2kn5mKDrvl) | [Rock N' Rolla](https://open.spotify.com/album/79WYxe1LDATJqRlDeofr9v) | 4:37 | 2024-03-01 |  |
 | [Romansa](https://open.spotify.com/track/7vEaynQikpCHqcy5W5Z6oa) | [Pop at Summer](https://open.spotify.com/artist/7mbdRb6N5UlK7bXsZYkW9z) | [Romansa](https://open.spotify.com/album/5ASKk7uxGhkFcvXPjq1JQA) | 4:54 | 2023-06-22 | 2023-07-07 |
 | [Romansa \- Acoustic Version, Melodius No.15](https://open.spotify.com/track/79Wao15rVokoCPhPKUVFTR) | [Assalova](https://open.spotify.com/artist/3hnoz4NKu6cGiWPjGWPQWe) | [Romansa \(Acoustic Version, Melodius No.15\)](https://open.spotify.com/album/3GlA4sHptoU0kPjkU0fiG2) | 3:58 | 2022-01-06 | 2022-01-14 |
 | [Romansa Muda](https://open.spotify.com/track/6CBRGxmxeDG3lkFlKgUnxr) | [Magidate](https://open.spotify.com/artist/1RaW9DpxE6otiFDkcTbBm3) | [Romansa Muda](https://open.spotify.com/album/55al9KpX869QiH7XYeQ6FN) | 4:15 | 2023-06-22 | 2023-07-07 |
@@ -2352,6 +2353,7 @@
 | [Satu Hari Sempurna](https://open.spotify.com/track/7vXOyKQos8Ts1DMPn6ezJG) | [Lucky Octavian](https://open.spotify.com/artist/2T0Pqu9PDFck2kh9pxVTp8) | [Satu Hari Sempurna](https://open.spotify.com/album/36epMamuZGG8kqoFDeTlTX) | 4:05 | 2022-10-20 | 2022-11-25 |
 | [Satu Notasi \- Live From Hetero Space 2023](https://open.spotify.com/track/4Kyot4NTW0FcCPaj1ywXVh) | [Hyndia](https://open.spotify.com/artist/6rz8KB9pctNbwzJVvRb4sK) | [HY Session Winter Song Album Live From Hetero Space 2023](https://open.spotify.com/album/5ChHbCUkbv7hllHZ40HErT) | 4:57 | 2024-02-02 | 2024-02-16 |
 | [Satu Tahun Cahaya](https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd) | [Suara Lima](https://open.spotify.com/artist/3b20SopLWIzoAeE3WW4QDA), [Carla Vania](https://open.spotify.com/artist/1DApabURVjotLcHbWka1S2) | [Satu Tahun Cahaya](https://open.spotify.com/album/4AzsnehZMJ8FAYkFZk26aO) | 4:18 | 2022-06-02 | 2022-06-24 |
+| [Satu Tangan Lagi](https://open.spotify.com/track/67vdiH5roe0kAL6z7nBqo0) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Satu Tangan Lagi](https://open.spotify.com/album/5XWAHhmaGGKP4DSXBdyicJ) | 3:37 | 2024-03-01 |  |
 | [Saturdate](https://open.spotify.com/track/4Pg8QC1plmWGybAPS5Wtru) | [Sugartaste](https://open.spotify.com/artist/1N3HUqrk8kFRCQDccgLuMs) | [Saturdate](https://open.spotify.com/album/0YzBxG0KbHq4O5S5dESErk) | 3:07 | 2023-02-03 | 2023-02-17 |
 | [Saturday Morning](https://open.spotify.com/track/1wekRN8crWITTZIdfZexDJ) | [Langitjiwa](https://open.spotify.com/artist/3DxPjyuEJayd24Xy0yiBP2) | [Saturday Morning](https://open.spotify.com/album/50rBhpdtPE7rvK53p3jDJI) | 3:54 | 2024-02-08 | 2024-02-23 |
 | [Saturday Night](https://open.spotify.com/track/1IjgRvB84ShOBxAO1iTqLt) | [GHO$$](https://open.spotify.com/artist/74k9TFZjvOyebE5pWByAdR) | [Saturday Night](https://open.spotify.com/album/2GeoZP9K0qs6zr40BbAOJX) | 3:01 | 2022-11-17 | 2022-12-01 |

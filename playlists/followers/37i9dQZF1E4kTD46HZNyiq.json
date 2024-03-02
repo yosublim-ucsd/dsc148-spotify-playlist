@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1701,
+  "2024-03-02": 1701,
   "date_first_scraped": "2021-12-01",
   "description": "With By The Coast, LAVE, VICTORS and more",
   "name": "NIGHT TRAVELER Radio",
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/6lUpzSb4oXUvqAoAgwiKqB"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 313640,
       "name": "Anew",
       "url": "https://open.spotify.com/track/1irbTMG2ULyD9mmr3fpSk5"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 226640,
       "name": "At Home",
       "url": "https://open.spotify.com/track/2Dzhwe90lhHXVU6lk7Nx0H"
@@ -2973,7 +2973,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 200603,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/0qW8j0n0ep5iXXRZ0n7iiI"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18"
@@ -3237,7 +3237,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 149363,
       "name": "Cadillac Dreams",
       "url": "https://open.spotify.com/track/2Vmc0X3NrwMOAZugemfARw"
@@ -4237,7 +4237,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 267493,
       "name": "Coma / Smoke",
       "url": "https://open.spotify.com/track/1oM6lNCuv3ymSZ9VwcqmyW"
@@ -4803,7 +4803,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 279480,
       "name": "Deep Burn Blue",
       "url": "https://open.spotify.com/track/3cArmShnXQh0ZsCWtfMOZZ"
@@ -5729,7 +5729,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
@@ -5765,7 +5765,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 226960,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/0cTVzoITYEAIWUCNPB76y0"
@@ -7483,7 +7483,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 340217,
       "name": "From the Dust",
       "url": "https://open.spotify.com/track/6TaNnpPhKPVjw4YMv1diNK"
@@ -7843,7 +7843,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
@@ -11247,7 +11247,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 226274,
       "name": "Keep You Warm",
       "url": "https://open.spotify.com/track/6B5SkEnCTAsGVxckkuMRr4"
@@ -11785,7 +11785,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 209586,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6GBFX3Yg9sAJsVks6ch8ty"
@@ -11972,6 +11972,24 @@
     },
     {
       "album": {
+        "name": "lmho",
+        "url": "https://open.spotify.com/album/7vKo7mnIuqUHg4DM5biEv1"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "lmho",
+      "url": "https://open.spotify.com/track/0cBohovCcJEFKOdEsw2g5F"
+    },
+    {
+      "album": {
         "name": "Young + Naive",
         "url": "https://open.spotify.com/album/2nJABvkPfOviMjOcDa14aD"
       },
@@ -12091,7 +12109,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 389094,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
@@ -13223,7 +13241,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 379100,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4c37fNeMZH98oIqGYVGF0o"
@@ -13259,7 +13277,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 316132,
       "name": "MI",
       "url": "https://open.spotify.com/track/0QoeVtODnoQBgdNOlEiH6Y"
@@ -15001,7 +15019,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 251704,
       "name": "Obvious (Remix)",
       "url": "https://open.spotify.com/track/5del7XGTt8Ndw6IJwlnUkM"
@@ -15221,7 +15239,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/3R09tujAEHItiHfiPgC4Lc"
@@ -15713,7 +15731,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 273650,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/3IXBvJvpUHNwwqnjzNg7Ih"
@@ -16209,7 +16227,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 204464,
       "name": "pLAyed Out",
       "url": "https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT"
@@ -16227,7 +16245,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 316733,
       "name": "Portland",
       "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
@@ -16325,7 +16343,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 302266,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4"
@@ -16419,7 +16437,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203600,
       "name": "Put Your Money on Me",
       "url": "https://open.spotify.com/track/4Q1pnbP3KrfMus9LeqorGB"
@@ -16815,7 +16833,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 262266,
       "name": "Revelator Eyes",
       "url": "https://open.spotify.com/track/4RE5Ob7hHtHqVKfgtNsVyW"
@@ -16945,7 +16963,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 247175,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5uFHPDXEHYrp8R24xo6mel"
@@ -18337,7 +18355,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 249359,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0BLaMt13XVMgdJth85U9Lo"
@@ -18885,7 +18903,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -20643,7 +20661,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 176640,
       "name": "Thousand Stars",
       "url": "https://open.spotify.com/track/5SXWvv9e1KKEO2RYBE13kx"
@@ -21421,7 +21439,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217950,
       "name": "Veins",
       "url": "https://open.spotify.com/track/4wdEpS3727zs26eMMrPSPa"
@@ -23063,7 +23081,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 266155,
       "name": "You Don't Love Me (Like You Used To)",
       "url": "https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-528 songs - 2 day 1 hr 56 min
+529 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,8 @@
 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 | 2023-11-17 |  |
 | [Love In Outer Space](https://open.spotify.com/track/1kA0WS8fUBILMQ00yRsML3) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Solo Piano Venice 1977](https://open.spotify.com/album/4NJwE76xcx59v4vdw2c2rx) | 5:02 | 2023-11-17 |  |
 | [Love Theme From Spartacus \- Live At Bohemian Caverns, D.C./1965](https://open.spotify.com/track/0BCJLiotCCrEiOzlTuXPIQ) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [The In Crowd \(Expanded Edition\)](https://open.spotify.com/album/2uTk68gta8bfoIS5cmO7zd) | 7:09 | 2022-01-13 | 2022-01-17 |
-| [Love Theme From Spartacus \- Rudy Van Gelder Remaster / 2006](https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:11 | 2023-11-17 |  |
+| [Love Theme From Spartacus \- Remastered 2023](https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:15 | 2023-11-17 |  |
+| [Love Theme From Spartacus \- Rudy Van Gelder Remaster / 2006](https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:11 | 2023-11-17 | 2024-03-02 |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2022-09-16 | 2022-12-03 |
 | [Love's Serenade](https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS) | [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Dance Of The Soul](https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh) | 4:31 | 2022-03-18 | 2022-04-29 |
 | [Lover Man](https://open.spotify.com/track/59yXnb4uEKjlQvq1xO0PMh) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 3:19 | 2022-01-17 | 2022-02-19 |

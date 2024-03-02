@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121219,
+  "num_followers": 121225,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2RmZGRiYjUyNTczZWE1MzY0NmMwZjg1ZDg4NGQzMzE4MzlhNWM3",
+  "snapshot_id": "MCwzNGIxMTc0ODRmOTViYjUwNmY0MzUzOTcyNDIxMjJjZDBmMTgwNzY3",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 223682,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 239548,
       "name": "NaturHaus",
       "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 223682,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -563,18 +563,38 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
       "artists": [
         {
           "name": "Alex Lustig",
           "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
         }
       ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -599,42 +619,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Pro's & Con's (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv"
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
       "artists": [
         {
-          "name": "Ishi",
-          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Nia Brock",
-          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
         }
       ],
-      "duration_ms": 304440,
-      "name": "Pro\u2019s & Con\u2019s - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -655,18 +651,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+        "name": "Pro's & Con's (Kraak & Smaak Remix)",
+        "url": "https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+          "name": "Ishi",
+          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Nia Brock",
+          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
         }
       ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
+      "duration_ms": 304440,
+      "name": "Pro\u2019s & Con\u2019s - Kraak & Smaak Remix",
+      "url": "https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -743,22 +747,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
       "artists": [
         {
           "name": "Alex Lustig",
           "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
         }
       ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -787,26 +787,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Too Many Questions (Remix)",
-        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
       "artists": [
         {
           "name": "Yamil",
           "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        },
-        {
-          "name": "Humanice",
-          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
-        },
-        {
-          "name": "Soble",
-          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
         }
       ],
-      "duration_ms": 293529,
-      "name": "Too Many Questions - Soble Remix",
-      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -951,18 +943,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+        "name": "Too Many Questions (Remix)",
+        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
       "artists": [
         {
           "name": "Yamil",
           "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Humanice",
+          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
+        },
+        {
+          "name": "Soble",
+          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
         }
       ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+      "duration_ms": 293529,
+      "name": "Too Many Questions - Soble Remix",
+      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 284205,
       "name": "009A1",
       "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
     },
     {
       "added_at": "2024-02-29 23:00:00",

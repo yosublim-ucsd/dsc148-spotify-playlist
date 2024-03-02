@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4h8xh5PZ1CNVW9vTdqRYAL"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214814,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -417,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Ryan Amador",
+        "url": "https://open.spotify.com/album/0fDhnwGhz9Mzq7s8IMUtEF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Amador",
+          "url": "https://open.spotify.com/artist/1ihU4zSTmY0qQXhx8jEXWT"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355533,
+      "name": "Instead",
+      "url": "https://open.spotify.com/track/6Ed1ziyANcIOJOyHbfr8ie"
+    },
+    {
+      "album": {
         "name": "John Denver's Greatest Hits",
         "url": "https://open.spotify.com/album/4zn2Kj85Hew0USyxc4TJEX"
       },
@@ -616,6 +652,24 @@
       "duration_ms": 204133,
       "name": "Out There",
       "url": "https://open.spotify.com/track/6eO8bUr6vsBKuA6nLfsvUY"
+    },
+    {
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3TFoEJe5zNuHZStRboWPxg"
     },
     {
       "album": {
@@ -970,6 +1024,24 @@
       "duration_ms": 205473,
       "name": "You should be sad",
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     }
   ],
   "url": "https://open.spotify.com/playlist/2MRjDGxeIYDgOxA1acUM4z"

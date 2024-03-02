@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,986 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,987 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 45 | [Bee Suits](https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB) | [LIJO](https://open.spotify.com/artist/4fELglS1jHSC3lUA5A2SHC) | [Bee Suits](https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ) | 3:51 |
 | 46 | [simpel leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 |
 | 47 | [Alleen In Bed](https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ) | [Véras](https://open.spotify.com/artist/4xXJqw435dtoVF6WsncUcn), [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Het Niets](https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL) | 3:03 |
-| 48 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 |
+| 48 | [Child Of Sin](https://open.spotify.com/track/6Z3o0LKIaqvfAnqFVROUzY) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/27pijtvIJCfkZh6f9LQc2o) | 3:50 |
 | 49 | [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 |
 | 50 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 |
 | 51 | [Into Your Head](https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 |
 | 60 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 |
 
-Snapshot ID: `MCw1OTEyMDFiZTlkZGRhNjIzZmM3MGIwMzkxNzY2MGNiYTYzN2RjOTQ5`
+Snapshot ID: `MCxmOTFmMjZiN2NlNDg0NDMxNDA1OWEzNGFhYzRjMTNlOTQzZTc5N2Nh`

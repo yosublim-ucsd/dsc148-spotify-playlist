@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-248 songs - 14 hr 48 min
+249 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [So Many Girls \(feat\. Wale, Tyga & Roscoe Dash\)](https://open.spotify.com/track/754Nn1HILpvQccXy2uvgZf) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:29 | 2024-02-07 |  |
 | [Someone Else](https://open.spotify.com/track/0vRFKF7dGdL5XxZMXzpCpF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:48 | 2024-02-07 |  |
 | [Something Like A Party](https://open.spotify.com/track/4eK6USiH1iymBHWevSZtkH) | [School Gyrls](https://open.spotify.com/artist/4zfTcqK4VudzZgd0T8g1Fi) | [School Gyrls](https://open.spotify.com/album/0RPhaTlFP3JfmAQGKgqo24) | 4:19 | 2024-02-07 |  |
-| [Special](https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:54 | 2024-02-07 |  |
+| [Special](https://open.spotify.com/track/3m7IYU7ySuFMwdm7OCShQN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:54 | 2024-02-07 | 2024-03-02 |
+| [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2024-03-01 |  |
 | [Stadium](https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W) | [The Melisizwe Brothers](https://open.spotify.com/artist/2CbEuEC9M3rUxpzYV3pZ8O) | [Stadium](https://open.spotify.com/album/1gTLQYbs9p41kfvNE9zdvk) | 3:27 | 2024-02-07 |  |
 | [Super Villain](https://open.spotify.com/track/3JKSCrtSnNdVWDACLVffRh) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Somewhere On The Other Side Of Nowhere](https://open.spotify.com/album/3sHUnrTHcNRTQurrUEoDbz) | 3:45 | 2024-02-07 |  |
 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 | 2024-02-07 |  |

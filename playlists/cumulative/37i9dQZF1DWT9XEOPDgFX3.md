@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-453 songs - 1 day 4 hr 7 min
+456 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Autumn Fire](https://open.spotify.com/track/5vUe3qj4P2ZjA5pxghdYQn) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Jesse Maranger](https://open.spotify.com/artist/7wbrCaklJessMP9kVk9nIW) | [Autumn Fire](https://open.spotify.com/album/3p5HZYDrL9axAPth0QBhoh) | 4:49 | 2022-04-13 | 2022-07-28 |
 | [Avalanche](https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [Avalanche](https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP) | 2:59 | 2022-01-21 | 2023-02-08 |
 | [Axis Bent](https://open.spotify.com/track/1udkP1oYCF62JdxJwlx059) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Course In Fable](https://open.spotify.com/album/1gChGzAPyg0F4PoGa2nUdj) | 4:19 | 2022-01-21 | 2022-07-29 |
-| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 |  |
+| [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 | 2024-03-02 |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Bad Taste](https://open.spotify.com/track/5SmTHQfqmBWbaak0mCyYi4) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Bad Taste](https://open.spotify.com/album/2hxdsShdy5Z7NxXJMHOBna) | 3:31 | 2023-11-10 | 2024-01-29 |
 | [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-19 | 2023-07-23 |
@@ -90,7 +90,7 @@
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2022-04-13 | 2023-03-11 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 | 2023-08-08 |
-| [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 |  |
+| [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-10-13 | 2024-03-02 |
 | [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 | 2023-12-25 |
 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 | 2023-07-21 | 2024-01-29 |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2023-09-16 |
@@ -272,6 +272,7 @@
 | [Mother](https://open.spotify.com/track/6YYInRSnBw8cbEx9sN1ocI) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/1ceVlojqwgJjJUQFia6k16) | 3:15 | 2022-04-13 | 2022-07-29 |
 | [Mouse Me Cat You](https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Mouse Me Cat You](https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS) | 3:37 | 2023-08-25 | 2023-09-30 |
 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 | 2023-10-20 | 2024-02-18 |
+| [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 | 2024-03-01 |  |
 | [My Blue Suit](https://open.spotify.com/track/4AeMm4h6EIiVDBVgzfE2Qf) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [My Blue Suit](https://open.spotify.com/album/417TS9g3Cjst35yPEMSJph) | 2:36 | 2022-01-21 | 2022-07-28 |
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-11-13 |
@@ -339,8 +340,9 @@
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2024-02-16 |  |
-| [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 |  |
+| [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 | 2024-03-02 |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |
+| [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 | 2024-03-01 |  |
 | [Shades Of You](https://open.spotify.com/track/5P0xYk06k6jT5Cujyx5TLX) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Surf The Sun](https://open.spotify.com/album/4P86SbCNGivegXvti0I0hX) | 4:14 | 2023-05-19 | 2023-07-03 |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shine Your Light on Me](https://open.spotify.com/track/2mgf213BYLDjWPPthhQ7nk) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Shine Your Light on Me](https://open.spotify.com/album/6RS8ZU3E0tfqM9OqKXLd6o) | 3:56 | 2022-01-21 | 2022-07-28 |
@@ -424,6 +426,7 @@
 | [Ultraviolet](https://open.spotify.com/track/0atoPGT6rAGWcMnaPUuCtn) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V) | [Ultraviolet](https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd) | 3:50 | 2022-04-13 | 2022-11-14 |
 | [Under the Sky](https://open.spotify.com/track/1pU3Ujy096uOmEd68Doqi3) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/3onCVtegEMRsrgiysa4m1P) | 4:18 | 2022-04-29 | 2022-12-10 |
 | [Under the Sky](https://open.spotify.com/track/3vbBc820WrJ6xMjwxB4bxM) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss the Night](https://open.spotify.com/album/29WmMuLngwP4b4j1ExcwBv) | 4:18 | 2022-04-13 | 2022-07-29 |
+| [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-01 |  |
 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 | 2023-10-20 |  |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 | 2023-04-11 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-21 |  |

@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
+    },
+    {
+      "album": {
         "name": "INTERMITENTE",
         "url": "https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j"
       },
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 144799,
       "name": "Las Jordans",
       "url": "https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167419,
       "name": "L\u00e1grimas | CROSSOVER #4",
       "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
@@ -3131,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "NAVI",
+        "url": "https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "NAVI",
+      "url": "https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc"
+    },
+    {
+      "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
@@ -3230,6 +3266,28 @@
       "duration_ms": 171360,
       "name": "No Lo Pienses M\u00e1s",
       "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
+    },
+    {
+      "album": {
+        "name": "No Te Pases",
+        "url": "https://open.spotify.com/album/4tbJ7goF6LCXBFOxsiM8zW"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143693,
+      "name": "No Te Pases",
+      "url": "https://open.spotify.com/track/3PzVTVMVGrOPRkNQXQOb20"
     },
     {
       "album": {
@@ -3562,7 +3620,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"

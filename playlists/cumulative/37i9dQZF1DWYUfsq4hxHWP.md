@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-2,171 songs - 4 day 21 hr 51 min
+2,172 songs - 4 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [Grey Sky Blue](https://open.spotify.com/track/41uuv3ZxqclyxmHHjbFk2U) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Grey Sky Blue](https://open.spotify.com/album/09q2M3T9Mm7jFDBdeJ4g1D) | 2:46 | 2022-03-16 | 2022-04-27 |
 | [Grow Apart](https://open.spotify.com/track/6N0qG07TcuMaLQi8p5YXTJ) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Grow Apart](https://open.spotify.com/album/5qXLMQx2T9NWyHVPB0HEuT) | 3:29 | 2022-10-26 | 2022-12-01 |
 | [Growing Pains](https://open.spotify.com/track/2thZV7jasrRTgIb3ZpTWsP) | [Mallory Moorefield](https://open.spotify.com/artist/1V32usoUfoIJj0XYBadOhU) | [Growing Pains](https://open.spotify.com/album/2chTRGYg4JYiUZ5zfFZIwx) | 4:23 | 2022-05-05 | 2022-06-16 |
+| [Grown](https://open.spotify.com/track/4zZXtKoDZpyqUeefvAZ4kd) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Grown](https://open.spotify.com/album/5HDLlFvJuYDUo6HYFyIYNj) | 3:34 | 2024-03-01 |  |
 | [GTB](https://open.spotify.com/track/5ffu5HBOPbEdniXSyZ0zix) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [GTB](https://open.spotify.com/album/6wjC7YOSSynu9XgUo2iaRy) | 2:43 | 2022-05-05 | 2022-06-16 |
 | [Guess The Cowboys](https://open.spotify.com/track/6kfZitV2IozK5HmJT4mwW0) | [Elana Jane](https://open.spotify.com/artist/3GeXBx0MyPjWdHRClsrJHN) | [Guess The Cowboys](https://open.spotify.com/album/5GLaz19ZaOPD6ZUM3ZbVO3) | 2:59 | 2023-09-13 | 2023-11-30 |
 | [Guilty](https://open.spotify.com/track/0sZN4IEXTqXqKMrPYUdpt9) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/0FJNCv0IHoRqpd1EmIxMNa) | 3:17 | 2023-09-20 | 2023-10-09 |

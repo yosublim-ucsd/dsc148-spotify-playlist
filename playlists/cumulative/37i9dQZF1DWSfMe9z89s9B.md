@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Rhyan Douglas
+> Leaders of the new school...Alternative R&B\. Cover: Asha Imuno
 
-1,099 songs - 2 day 10 hr 28 min
+1,102 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-19 | 2022-07-30 |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2023-12-01 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-08 |  |
+| [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-03 | 2023-03-11 |
 | [Addiction](https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 1: Disillusion](https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu) | 2:55 | 2021-06-18 | 2022-06-09 |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-14 |  |
@@ -310,7 +311,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternal Sunshine \(Fire Pit\)](https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:16 | 2023-03-03 | 2023-07-22 |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
-| [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 |  |
+| [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 | 2024-03-02 |
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 | 2023-12-17 |
 | [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 |  |
@@ -384,6 +385,7 @@
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2021-03-19 | 2022-01-28 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [gin + juice](https://open.spotify.com/track/6LFO0ho7EEn1jvXfMuEshi) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [gin + juice](https://open.spotify.com/album/05XVgeZiIiW6e20fiUSFZd) | 2:45 | 2022-05-13 | 2022-07-16 |
+| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-03-01 |  |
 | [girl meets world \- demo](https://open.spotify.com/track/75Ik7rEJ3jWYAQvuSj0XFf) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [girl meets world \(demo\)](https://open.spotify.com/album/4Qp2V1GKu39CIEyPPmI0rm) | 3:18 | 2022-11-18 | 2023-09-02 |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-28 | 2023-06-03 |
 | [Give Me Your Love](https://open.spotify.com/track/0uWdYu6qICiGf3S1is8aAO) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [INTO THE RED ZONE](https://open.spotify.com/album/2beUWRoxQCUKdwe9r44Mv2) | 3:16 | 2022-08-05 | 2022-10-15 |
@@ -457,6 +459,7 @@
 | [Home Maker \(Edit\)](https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Home Maker](https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU) | 3:52 | 2022-03-21 | 2022-12-09 |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2023-02-03 | 2023-06-24 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-04-01 | 2022-04-15 |
+| [HONEY \(feat\. bLAck pARty\)](https://open.spotify.com/track/6jTytYwbjNGK0dRQMSJZRq) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [PINS & NEEDLES](https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u) | 3:15 | 2024-03-01 |  |
 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-10 | 2024-02-23 |
 | [Hope](https://open.spotify.com/track/2QLNDKL7hZyh2OZ8UL9WrV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:59 | 2022-04-01 | 2022-04-16 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-02-11 |
@@ -478,7 +481,7 @@
 | [I Got It](https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [I Got It](https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb) | 3:27 | 2022-04-01 | 2022-10-29 |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 | 2023-12-09 |
 | [I Lied \(Part 1\)](https://open.spotify.com/track/7nN2CPpWGYUMCDoLgAF3GP) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 1:30 | 2022-02-03 | 2022-04-14 |
-| [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-02-10 |  |
+| [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-02-10 | 2024-03-02 |
 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 | 2023-02-04 |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-04-01 | 2022-04-07 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 | 2023-03-04 |
@@ -951,7 +954,7 @@
 | [Test What I Know](https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Test What I Know](https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3) | 2:34 | 2023-07-21 | 2024-02-24 |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2022-04-01 | 2022-04-13 |
 | [The Bloom](https://open.spotify.com/track/6fdzX7Qy7LN5uaJ0ukH6p5) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 1:54 | 2022-12-10 | 2024-01-20 |
-| [The Candy Lady](https://open.spotify.com/track/20uAh3tlJ8foTmOGxCc8tc) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 2:59 | 2023-04-28 |  |
+| [The Candy Lady](https://open.spotify.com/track/20uAh3tlJ8foTmOGxCc8tc) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 2:59 | 2023-04-28 | 2024-03-02 |
 | [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-03-19 | 2022-07-30 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-05 |  |
 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 | 2024-02-24 |

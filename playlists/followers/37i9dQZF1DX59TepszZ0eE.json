@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 56205,
+  "2024-03-02": 56339,
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=DGNulj14TvmcL1mE7I6rdg\">Spirit Of Praise</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg?si=I0rZSdqUTwKrOF49ctEZzQ\">Thinah Zungu</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -197,6 +197,28 @@
       "duration_ms": 300714,
       "name": "Bayazibuza",
       "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
+    },
+    {
+      "album": {
+        "name": "Worship House Celebration 20 (Live at Worship House Church Limpopo , 2023)",
+        "url": "https://open.spotify.com/album/5kS4SrOqx8pLnYZs6efJeO"
+      },
+      "artists": [
+        {
+          "name": "Worship House",
+          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
+        },
+        {
+          "name": "Khangeziwe Sdudla",
+          "url": "https://open.spotify.com/artist/4iiGAjeApongUu5VQ8erBF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369919,
+      "name": "Bayede (Live at Worship House Church Limpopo , 2023) (feat. Khangeziwe Sdudla)",
+      "url": "https://open.spotify.com/track/05kKU4RHDouwVkh3mJUTKu"
     },
     {
       "album": {
@@ -714,6 +736,32 @@
     },
     {
       "album": {
+        "name": "Hlala Nami",
+        "url": "https://open.spotify.com/album/07cYBRfHObsvUZ5OVujoWo"
+      },
+      "artists": [
+        {
+          "name": "Nonka",
+          "url": "https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA"
+        },
+        {
+          "name": "BON",
+          "url": "https://open.spotify.com/artist/1YyPQgqgBWK1kD6rqJ7h2D"
+        },
+        {
+          "name": "DJ SNEJA",
+          "url": "https://open.spotify.com/artist/2fUmQBDeQstKIyrfLjj4Xt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397800,
+      "name": "Hlala Nami",
+      "url": "https://open.spotify.com/track/4k6skd7Ptkq24UKyWFvgnT"
+    },
+    {
+      "album": {
         "name": "Hold On (Live)",
         "url": "https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS"
       },
@@ -841,6 +889,24 @@
       "duration_ms": 294954,
       "name": "Indodana",
       "url": "https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2"
+    },
+    {
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/5HKL6I7wz52Q60jEzUzuyW"
+      },
+      "artists": [
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318101,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/3mtMlm1meJtVVL2GGiYliC"
     },
     {
       "album": {
@@ -1630,6 +1696,28 @@
     },
     {
       "album": {
+        "name": "The Gift, Vol. 1",
+        "url": "https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186456,
+      "name": "Mercy (Hlabelela)",
+      "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
+    },
+    {
+      "album": {
         "name": "New Dawn (Live)",
         "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
       },
@@ -1895,6 +1983,24 @@
       "duration_ms": 513913,
       "name": "Ngithol\u2019 uMhlobo (Live)",
       "url": "https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn"
+    },
+    {
+      "album": {
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "album": {

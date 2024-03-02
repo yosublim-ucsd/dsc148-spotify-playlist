@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231160,
       "name": "Bhaio Bhin",
       "url": "https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 336040,
       "name": "Dui mutthi",
       "url": "https://open.spotify.com/track/1rbdePMcbIrKU2d78CeaET"
@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC"
+      },
+      "artists": [
+        {
+          "name": "Ki & the Band",
+          "url": "https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf"
+    },
+    {
+      "album": {
         "name": "Explosive Moods",
         "url": "https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag"
       },
@@ -1968,6 +1986,24 @@
       "duration_ms": 236133,
       "name": "Soca Bhangra",
       "url": "https://open.spotify.com/track/1hEDFirSFxTFM4p6FHbSL5"
+    },
+    {
+      "album": {
+        "name": "Sweet Music",
+        "url": "https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa"
+      },
+      "artists": [
+        {
+          "name": "Savita Singh TT",
+          "url": "https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187103,
+      "name": "Sweet Music",
+      "url": "https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA"
     },
     {
       "album": {

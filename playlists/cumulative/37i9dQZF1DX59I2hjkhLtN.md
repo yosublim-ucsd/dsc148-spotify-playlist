@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-719 songs - 1 day 12 hr 18 min
+720 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Fim do Mundo \- The Kid Trap](https://open.spotify.com/track/5IMBVlcYrel3FgKAIsI6f5) | [OG Intenso](https://open.spotify.com/artist/2T9C1lNJTgX30wD4Fdz0x4) | [Fim do Mundo \(The Kid Trap\)](https://open.spotify.com/album/6QgQtMh8876LeSjUEoTg8w) | 2:50 | 2023-12-01 |  |
 | [Fina](https://open.spotify.com/track/5nEWejRvxVZy0YAa6ttt2i) | [Jxl](https://open.spotify.com/artist/56RRj6l8qlke1ynxqZQgiX) | [Fina](https://open.spotify.com/album/2BYQS9P4D31N6noQBzQwc2) | 2:45 | 2023-01-20 | 2023-04-07 |
 | [Finesse](https://open.spotify.com/track/4gnh6WEDOk9aHpceClyAe0) | [ZA](https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Finesse](https://open.spotify.com/album/2rNUd5o48hVoYBfhtmQv28) | 2:30 | 2023-03-03 | 2023-05-19 |
-| [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 | 2023-09-14 |  |
+| [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 | 2023-09-14 | 2024-03-02 |
+| [FLEX](https://open.spotify.com/track/5gQ2ydTW2kQfFH2vbgOK1r) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/7ucFwRGanISNilfByQyILP) | 2:44 | 2024-01-19 |  |
 | [flex, drip & bitches](https://open.spotify.com/track/1orVmP8BVQBY4nWmsGRBtg) | [AST](https://open.spotify.com/artist/67vcpA34s4OqbK5gIHSia6), [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [vinil amarelo](https://open.spotify.com/album/5UEhWbEDdXMXgoMqtf9mhh) | 2:42 | 2023-03-17 | 2023-05-26 |
 | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/track/18fRGty4s8QQSKxVrvOVUs) | [Kappa Young](https://open.spotify.com/artist/7BjaRn4pph6TUOZ33JfiDG), [Fred Mineiro](https://open.spotify.com/artist/1jtX2PZFt5F9F9bjZwLQDS) | [Flores \(feat\. Fred Mineiro\)](https://open.spotify.com/album/01XAxuMmJgrR74yZZBhERv) | 3:15 | 2023-07-27 | 2023-11-10 |
 | [Flow](https://open.spotify.com/track/1Pb2N00UhC3ZRixWmtIgv8) | [Rastalyon](https://open.spotify.com/artist/0XDHxCSuzHM2tPfWCnumQE) | [Flow](https://open.spotify.com/album/6kak6DjKK5k2Asb2BQZo7b) | 3:02 | 2022-08-01 | 2022-09-30 |

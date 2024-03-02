@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 89 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 89 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 40 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
 | 41 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 |
 | 42 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 |
-| 43 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
-| 44 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 |
-| 45 | [Ex](https://open.spotify.com/track/1wRwr5JQIVSsUbLbjsokNd) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:06 |
-| 46 | [Bad For My Health \(Stripped\)](https://open.spotify.com/track/4vpQz6adwHuqzKcNiQvzOw) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad For My Health \(Stripped\)](https://open.spotify.com/album/5KaxWmfiDaHJqxiXc8Fn8g) | 2:16 |
+| 43 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 |
+| 44 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
+| 45 | [Bad For My Health \(Stripped\)](https://open.spotify.com/track/4vpQz6adwHuqzKcNiQvzOw) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad For My Health \(Stripped\)](https://open.spotify.com/album/5KaxWmfiDaHJqxiXc8Fn8g) | 2:16 |
+| 46 | [Ex](https://open.spotify.com/track/1wRwr5JQIVSsUbLbjsokNd) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:06 |
 | 47 | [Förlora mig](https://open.spotify.com/track/6jqfdx0A1KcpQ0jf88lxx3) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mellan hägg och syrén](https://open.spotify.com/album/5LnC7V6eorCnMISq9JAXbs) | 4:36 |
 | 48 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
 | 49 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 55 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 |
 | 56 | [Glömd&Begraven](https://open.spotify.com/track/0yNXh5Js8rYPKzczlUmTyd) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 3:19 |
 | 57 | [Like You](https://open.spotify.com/track/60B6GgDJmbHH9OCEb4Ltdq) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/4VQuG8kX3s0Oo1VSGdtXQs) | 3:24 |
-| 58 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
-| 59 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 58 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 59 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
 | 60 | [För bra för att va sant](https://open.spotify.com/track/520XKC8d8bAet1txRq1xop) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [För bra för att va sant](https://open.spotify.com/album/1SGDAuJ6p6689iDBaluvKB) | 2:49 |
 | 61 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
 | 62 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 88 | [Forever Yours](https://open.spotify.com/track/6O7cIKJCZc3qHcbdyQ7tRp) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 2:52 |
 | 89 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Mjg0ODc2NDAsMDAwMDAwMDA0NTcyY2ZlMzhlZDIyNGViMmYzZWU0NDRjZmMxM2ZlMg==`
+Snapshot ID: `Mjg0ODkwODAsMDAwMDAwMDBhZWQ3NDc1MTdhZDQ5YzM0ZDJjNzcxOGUyNWUzYzljMw==`

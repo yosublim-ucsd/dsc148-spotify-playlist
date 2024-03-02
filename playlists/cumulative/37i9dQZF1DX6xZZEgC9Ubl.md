@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood\. Cover: The Kid LAROI
+> Emo feels for the misunderstood\. Cover: iann dior
 
-935 songs - 1 day 18 hr 23 min
+936 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 | 2022-07-22 | 2023-01-28 |
 | [I Need U \(Remix\)](https://open.spotify.com/track/0ff3846wYbdNnwW3y8b4vH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [I Need U \(Remix\)](https://open.spotify.com/album/1bwZzeGu857JVuC8pLIYSm) | 2:21 | 2021-03-14 | 2022-07-13 |
 | [i remember how your lips still taste](https://open.spotify.com/track/2hqQJzu0QzkFfkqXJgDqoq) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [i remember how your lips still taste](https://open.spotify.com/album/7Mucc93sEq1ZytQqNZcGxP) | 2:24 | 2024-02-23 |  |
+| [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 | 2024-03-01 |  |
 | [i think you're really cool](https://open.spotify.com/track/78cIbVjU1xn7mbQ9i35avl) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [i think you're really cool](https://open.spotify.com/album/5MwIUCqx7rO5LQpS3KOzW6) | 2:40 | 2022-07-22 | 2022-09-24 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-31 |  |
 | [I Was Wrong](https://open.spotify.com/track/4ukPrlH60dvXKoBzXexjib) | [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc), [Suckerpunk](https://open.spotify.com/artist/2L8M2YfSc8u0pqdWmWwjhe) | [I Was Wrong](https://open.spotify.com/album/3c18vCCkfHwQrprrWjbgpa) | 2:39 | 2020-12-13\* | 2021-01-15 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,151 songs - 2 day 16 hr 27 min
+1,155 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [AM\-PM \(Gluttony\)](https://open.spotify.com/track/5ylRcQigJwkw9Od0HgV4lI) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [AM\-PM \(Gluttony\)](https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52) | 2:48 | 2024-01-26 |  |
 | [Angel in to the Darkness](https://open.spotify.com/track/0JA55NXbehGujYk7mpS1Dg) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Angel in to the Darkness](https://open.spotify.com/album/3mTm5JDYQTxeV8JolyklYd) | 3:33 | 2023-07-08 |  |
 | [Anger In The Nation](https://open.spotify.com/track/76EpojR09zjVX00daVTxsM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Anger In The Nation](https://open.spotify.com/album/1DaUt4X7ij9DgxmkpJC9dJ) | 2:40 | 2023-03-12 |  |
+| [Anger Is My Acid \(Wrath\)](https://open.spotify.com/track/0HCWlxXCNWTRBXjawcFYwG) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Anger Is My Acid \(Wrath\)](https://open.spotify.com/album/4f2aGncI7gCK24eY40VgeG) | 3:38 | 2024-03-01 |  |
 | [Animal](https://open.spotify.com/track/7kq3KF19rE2UfIoSivfNtU) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Animal](https://open.spotify.com/album/7IloSRa7QgsIxfxLjMmOvj) | 3:22 | 2023-07-28 |  |
 | [Another Dimension](https://open.spotify.com/track/0SytrfuI2bC2WjWjk01rJe) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Mike Reverie](https://open.spotify.com/artist/66BGGk95uamfiRchHngiCz) | [Another Dimension](https://open.spotify.com/album/7JMY7qLHYjZTXS3b0g1co2) | 3:43 | 2022-10-03 |  |
 | [Anthem XX](https://open.spotify.com/track/1Q8vx2Oj9d5dysswuWmDrM) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM) | [Anthem XX](https://open.spotify.com/album/3XJ2lKX3hueMN1pSEYRyEN) | 2:58 | 2023-10-06 |  |
@@ -293,6 +294,7 @@
 | [Drowning](https://open.spotify.com/track/644oQ5hRyJjMfKwpgT3XUN) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Drowning](https://open.spotify.com/album/4IzQ00DACiJn9CmRhsrsKF) | 2:34 | 2023-08-28 |  |
 | [Drums In My Hand](https://open.spotify.com/track/1MF01Zh5bFl5llhaHtyIKc) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Drums In My Hand](https://open.spotify.com/album/6zyLcpTafY55gOacmCfMkT) | 3:05 | 2023-01-16 |  |
 | [DUAL BREAKER XX](https://open.spotify.com/track/5GZ4Y1rxkPQtvUQyacov0E) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [DUAL BREAKER XX](https://open.spotify.com/album/150pHH4cdSPGn13EbgHeZe) | 2:24 | 2023-01-09 |  |
+| [Dum Dubi Doom \- Alaguan Radio Mix](https://open.spotify.com/track/0wSc5xV7Aau36yx2pgb2JK) | [No Left Turn](https://open.spotify.com/artist/60oreIOeO1GZOVmPiUtcSX), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Dum Dubi Doom \(Alaguan Radio Mix\)](https://open.spotify.com/album/5cX8fMM68RvsPdlBgNaevK) | 3:08 | 2024-03-01 |  |
 | [Dynamite \(TNT\)](https://open.spotify.com/track/6hJNSbwK0M1yuTJvBXpMNL) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Dynamite \(TNT\)](https://open.spotify.com/album/0eqZ2gpCg63LLg0cqQnaQD) | 3:02 | 2022-08-29 |  |
 | [DYSTOPIA](https://open.spotify.com/track/2s3qh1aHq88hBgQ9tBxwmR) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [DYSTOPIA](https://open.spotify.com/album/45mEvrczzQ1PEgxJLzgC2r) | 2:54 | 2023-02-11 |  |
 | [Early Uptempo Mash](https://open.spotify.com/track/3bzay4OfqLDujCzt2SnYQe) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Early Uptempo Mash](https://open.spotify.com/album/0QAIlM5c2oE1rul1Dyi0EE) | 3:07 | 2022-09-21 |  |
@@ -780,8 +782,10 @@
 | [Piece Of My Heart \- Radio Mix](https://open.spotify.com/track/0eZdQSqNtB1pgPrNxyrc7a) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [DJ GTA](https://open.spotify.com/artist/2ecpxuSu9raggQt9gZ8hrn) | [Piece Of My Heart](https://open.spotify.com/album/4JrPat8qvqDPo7qhQx1nlt) | 3:16 | 2023-05-09 |  |
 | [Piepkicks en Zaagkicks](https://open.spotify.com/track/3FSDtQ37FK8mFfcTM0uCxC) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Piepkicks en Zaagkicks](https://open.spotify.com/album/2pdGkihq40cvyWRxmlqJCr) | 2:08 | 2023-08-11 |  |
 | [Pistols](https://open.spotify.com/track/7pzEtKjXo6OAGFTEcIfQPq) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Pistols](https://open.spotify.com/album/2y7o3C3hB0xjIyoKQm2lWG) | 3:00 | 2023-10-06 |  |
+| [PIXEL PARTY](https://open.spotify.com/track/3eWLQHlsQUoPYfKTnB1i1L) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [PIXEL PARTY](https://open.spotify.com/album/7EQxu54EynXz5k7gX7CRri) | 2:24 | 2024-03-01 |  |
 | [Play With The Rhythm](https://open.spotify.com/track/7H5Aeqv7YZ58Scxc31sUIP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Play With The Rhythm](https://open.spotify.com/album/3jqQFwOaAKQX7j7Fl3aXoY) | 2:59 | 2022-09-06 |  |
 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2022-09-09 |  |
+| [Playing With Fire](https://open.spotify.com/track/7qAToOokrKtIZsO2X2kJnQ) | [Kreation](https://open.spotify.com/artist/3xDNY0vcZ7JBBX5fhdbT83) | [Playing With Fire EP](https://open.spotify.com/album/3sfbacruRehMkcruWiBab2) | 3:07 | 2024-03-01 |  |
 | [Poedersneeuw 5.0](https://open.spotify.com/track/5rVzUHCSkH2LjK1ofGQfx6) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Poedersneeuw 5.0](https://open.spotify.com/album/5FRORa9GaUex3InbzgUFC3) | 3:20 | 2022-12-22 |  |
 | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/track/4QzhzKPrduGWqUU6nfXiyh) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/album/7dmkSNhEhI9k6h72gQ4bDa) | 4:13 | 2023-12-08 |  |
 | [Pray](https://open.spotify.com/track/6HYHztsGgR6knevrHHAOsN) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 3:17 | 2022-11-04 |  |

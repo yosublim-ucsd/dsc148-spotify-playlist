@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Central Cee
+> Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Cardi B
 
-190 songs - 9 hr 23 min
+191 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-16 | 2024-02-23 |
 | [Let It Spray](https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Let It Spray](https://open.spotify.com/album/6olqZhsmwWGWx27MEogmk8) | 2:30 | 2023-09-22 | 2023-11-17 |
 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 | 2023-12-08 |  |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 |  |
 | [LLTK](https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [LLTK](https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV) | 2:52 | 2023-10-05 | 2023-11-03 |
 | [Long Live](https://open.spotify.com/track/5fpPyPGQoQ7yVjaBkXfBEQ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Long Live](https://open.spotify.com/album/5gRInWJuQo14YK0lGhjwTY) | 2:34 | 2023-12-14 |  |
 | [LOVERBOY](https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [LOVERBOY](https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C) | 2:49 | 2023-12-04 | 2024-01-05 |

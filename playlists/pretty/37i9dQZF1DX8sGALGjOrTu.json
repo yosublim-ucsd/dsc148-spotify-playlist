@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 463406,
+  "num_followers": 463627,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDE3N2MwNzJiMDRjYWJmMDdhYmI2YWI1ZTQxODQ4ZjNjYTkzZmM5",
+  "snapshot_id": "MCxmZmVkY2RlZjhkNzU4YmViZDYxMDJjMDFlOTExZmY4MjBiOTQyMmZm",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "His Last Walk",
-        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Guys Like You Make Us Look Bad",
-      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Illusion of Safety",
-        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+        "name": "His Last Walk",
+        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Deadbolt",
-      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
+      "duration_ms": 235640,
+      "name": "Guys Like You Make Us Look Bad",
+      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1083,6 +1067,22 @@
       "duration_ms": 203706,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Illusion of Safety",
+        "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Deadbolt",
+      "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 171831,
-      "name": "Error Operator",
-      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "When Broken Is Easily Fixed",
         "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 222813,
       "name": "Smashed Into Pieces",
       "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
     },
     {
       "added_at": "2023-03-28 16:00:32",

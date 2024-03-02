@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 111394,
+  "num_followers": 111589,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjIwNGVkOWMxYzE5MDJhYTkwZmU0NjU1NmQ2YjQxYTYwNDMyNGFl",
+  "snapshot_id": "MCwxNWUxZjI3MDkyODllNTA1M2E2YzdiN2ZmZDE4ZWU4N2ExZjRiNzUw",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 312725,
+      "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Good Plans / Doxology",
-        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 495246,
-      "name": "Good Plans / Doxology",
-      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "I will pray",
         "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Fragrance",
-        "url": "https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV"
+        "name": "Good Plans / Doxology",
+        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
       },
       "artists": [
         {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 267337,
-      "name": "Fragrance",
-      "url": "https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq"
+      "duration_ms": 495246,
+      "name": "Good Plans / Doxology",
+      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -907,6 +887,22 @@
       "duration_ms": 183213,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "One Name (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 559267,
+      "name": "One Name (Jesus) - Live",
+      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -943,18 +939,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "One Name (Jesus) [Live]",
-        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+        "name": "Fragrance",
+        "url": "https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
         }
       ],
-      "duration_ms": 559267,
-      "name": "One Name (Jesus) - Live",
-      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
+      "duration_ms": 267337,
+      "name": "Fragrance",
+      "url": "https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 504992,
+      "name": "Sing Hallelujah (with Natalie Grant) - Live",
+      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 225000,
       "name": "Pain To Praise",
       "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 504992,
-      "name": "Sing Hallelujah (with Natalie Grant) - Live",
-      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Firm Foundation (Live)",
-        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 380666,
-      "name": "Firm Foundation (He Won\u2019t) - Live",
-      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250477,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "How To Start A Housefire (Pt. III)",
         "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "That's My King",
-        "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250477,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Altar (Hosanna)",
         "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
       },
@@ -1507,38 +1523,26 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+        "name": "New Heart",
+        "url": "https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Crowns Down (Live)",
-        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+          "name": "Anthem Worship",
+          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        },
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
         }
       ],
-      "duration_ms": 406671,
-      "name": "Crowns Down - Live",
-      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
+      "duration_ms": 202736,
+      "name": "New Heart",
+      "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1567,6 +1571,26 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 406671,
+      "name": "Crowns Down - Live",
+      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -1587,30 +1611,6 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "New Heart",
-        "url": "https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z"
-      },
-      "artists": [
-        {
-          "name": "Anthem Worship",
-          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
-        },
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        },
-        {
-          "name": "Mass Anthem",
-          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "New Heart",
-      "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
     }
   ],
   "unique_name": "Praise and Worship",

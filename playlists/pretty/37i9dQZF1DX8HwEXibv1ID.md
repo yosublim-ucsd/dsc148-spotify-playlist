@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,941 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,982 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 27 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
 | 28 | [So In Love](https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Tears And Laughter](https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD) | 4:27 |
 | 29 | [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition\)](https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ) | 3:03 |
-| 30 | [I Am In Love \- Remastered](https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
-| 31 | [My Heart Belongs To Daddy](https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 2:54 |
+| 30 | [My Heart Belongs To Daddy](https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 2:54 |
+| 31 | [I Am In Love \- Remastered](https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 |
 | 32 | [Don't Fence Me In](https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Their Greatest Hits And Finest Performances](https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh) | 3:07 |
 | 33 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 34 | [You're The Top](https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCw5OTdmOTgyYzI5ZDQ4MGRhMTcyMzU1N2E5MDRlNmFhMzZkYWNmZDFi`
+Snapshot ID: `MCwzZDBjNmRjNDA0MTU4YjM0NzEyMDk5MjE5NzZkNDNlYzExZWYxZGM1`

@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-76 songs - 5 hr 13 min
+78 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2023-02-07 | 2023-11-30 |
 | [Celestia](https://open.spotify.com/track/6I6PNGL4RLUMI0pfTC8gqP) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Celestia](https://open.spotify.com/album/36awCHquAZcSqExCImIUjT) | 2:07 | 2024-02-16 | 2024-02-24 |
 | [Circles](https://open.spotify.com/track/7BpRe7He8r2MV6MZPqAKmj) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:47 | 2023-02-07 |  |
-| [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 | 2023-02-10 |  |
+| [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 | 2023-02-10 | 2024-03-02 |
 | [Danser seul \(Ne suffit pas\)](https://open.spotify.com/track/1Dy89Uwb65YjAp5CC1sUzN) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [CLUB 12345](https://open.spotify.com/album/0QbPKsLZqu9OhiotHNINhr) | 3:54 | 2023-02-07 | 2023-11-16 |
 | [Dawn of the Dead](https://open.spotify.com/track/7shiQ7egWBwnPPHaX1UT83) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh) | 3:26 | 2023-02-07 | 2023-11-16 |
 | [Deer Teeth](https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Deer Teeth](https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm) | 3:51 | 2024-02-16 |  |
@@ -33,6 +33,7 @@
 | [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 | 2024-02-16 |  |
 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 | 2023-02-07 |  |
 | [Get Myself Into It](https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Pieces Of The People We Love](https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf) | 4:39 | 2023-02-07 | 2024-02-17 |
+| [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 | 2024-03-01 |  |
 | [Heartbreaker](https://open.spotify.com/track/6DaYun5YOndnPYkwn6KwU8) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/00KfMW922SvIZ1FPWU7bzF) | 3:12 | 2023-11-29 | 2024-02-17 |
 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 | 2023-02-07 | 2023-12-13 |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2023-11-15 |  |
@@ -70,7 +71,7 @@
 | [Second Life](https://open.spotify.com/track/06OEFGpAn2Y2ZEACTiXruB) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP) | [Second Life](https://open.spotify.com/album/73UKqssJXWES4fRrF6R19r) | 2:47 | 2024-02-16 |  |
 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 | 2023-02-07 | 2024-02-17 |
 | [Slyd](https://open.spotify.com/track/46lfv99D2euxzpZeSDZZUv) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg) | [Thr!!!er](https://open.spotify.com/album/1J2PN5tgc2Z5wz4Vb0xHkn) | 4:14 | 2023-02-07 | 2024-02-17 |
-| [Sourire](https://open.spotify.com/track/41qv3QU0O4zM2KLtkO5x28) | [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1), [Vendredi](https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0) | [Sourire](https://open.spotify.com/album/3PxbtialTHwR0r70FpgBtm) | 2:34 | 2024-02-23 |  |
+| [Sourire](https://open.spotify.com/track/41qv3QU0O4zM2KLtkO5x28) | [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1), [Vendredi](https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0) | [Sourire](https://open.spotify.com/album/3PxbtialTHwR0r70FpgBtm) | 2:34 | 2024-02-23 | 2024-03-02 |
 | [Space and the Woods \- Cenzo Townshend Mix](https://open.spotify.com/track/1ShnAaEZXE9Px2chAVLZUk) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 3:43 | 2023-02-07 | 2023-11-16 |
 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 | 2023-02-07 | 2023-11-16 |
 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 | 2023-02-07 |  |
@@ -78,6 +79,7 @@
 | [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 | 2023-02-07 |  |
 | [Time To Dance](https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z) | [The Shoes](https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP), [ANTHONIN TERNANT](https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE) | [Crack My Bones](https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx) | 3:16 | 2023-02-07 |  |
 | [Toop Toop](https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [15 Again \(Deluxe Edition\)](https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB) | 2:47 | 2023-02-07 | 2023-11-16 |
+| [TRANSMISSION](https://open.spotify.com/track/74aCGPb3BPylVKgM3FXCWj) | [Canblaster](https://open.spotify.com/artist/0IUKzbO8Ak6iMVUae225Wk) | [LIBEROSIS \(ACT II\)](https://open.spotify.com/album/0uiCEFi6FM8LTWv6RsxnnC) | 4:26 | 2024-03-01 |  |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2023-02-07 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2023-02-07 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-11-29 |  |

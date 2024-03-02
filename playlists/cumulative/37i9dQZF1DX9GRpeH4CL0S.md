@@ -4,7 +4,7 @@
 
 > The greatest Alternative Rock songs through the decades\. Cover: Gorillaz
 
-396 songs - 1 day 1 hr 18 min
+397 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Don't Look Back into the Sun](https://open.spotify.com/track/5dXPWPrGtW4HwhBP5LlL8T) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Time for Heroes \- The Best of The Libertines](https://open.spotify.com/album/4gq5rvmYsXX99ZBzlGcnnq) | 3:00 | 2022-05-30 | 2022-11-13 |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2020-07-23 |  |
 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 | 2020-07-23 | 2024-02-08 |
+| [Echoes](https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf) | 3:06 | 2024-02-07 |  |
 | [Elderly Woman Behind the Counter in a Small Town \- Remastered](https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:16 | 2020-07-23 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2020-07-23 |  |
 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 | 2020-07-23 |  |
@@ -159,7 +160,7 @@
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2022-05-30 | 2023-08-18 |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 | 2020-07-23 |  |
 | [I Disappear](https://open.spotify.com/track/53Qpn8LPa0IhFCTiPO0Bbm) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/5sk3ucGQiM4YHOqCGb28IR) | 4:07 | 2020-07-23 | 2022-07-29 |
-| [I Disappear](https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP) | 4:07 | 2022-05-30 |  |
+| [I Disappear](https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP) | 4:07 | 2022-05-30 | 2024-03-02 |
 | [I Disappear](https://open.spotify.com/track/7GvCLKD1eezLTDDT1oad68) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [I Disappear](https://open.spotify.com/album/7zPdJhkbs0hSf2GCfJVoEH) | 4:08 | 2022-05-30 | 2022-11-12 |
 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 | 2022-05-30 |  |
 | [I Miss You](https://open.spotify.com/track/3jBvVySFsir2Cn8kGH90Ah) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \(Explicit Version\)](https://open.spotify.com/album/2ghxwONTYbBQNxkROvij6C) | 3:47 | 2020-07-23 | 2022-07-29 |

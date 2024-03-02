@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,218 likes - 97 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,213 likes - 97 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 67 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
 | 68 | [Pure Love](https://open.spotify.com/track/0cSFoCPPaQ4vDyUktA7iL2) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Pure Love](https://open.spotify.com/album/5qbYvtDCC4YDNTe0jSRxML) | 2:56 |
 | 69 | [Some Loud Thunder \- Piano & Voice](https://open.spotify.com/track/7zQlksSi9qI787xyTkbOrt) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Piano & Voice](https://open.spotify.com/album/5RIaMtbUbs0Pb2tHAzxwer) | 4:11 |
-| 70 | [Moving On](https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV) | 3:22 |
+| 70 | [Moving On](https://open.spotify.com/track/2xMj8iLw8x1QXXEnAYmd47) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5JlKLylWzD893DIM0hthV5) | 3:22 |
 | 71 | [Say Goodbye](https://open.spotify.com/track/44mw4OdRaYz6KkRVP5PEjN) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Say Goodbye](https://open.spotify.com/album/3n66BWhi8FGqDOHFbkON6y) | 3:58 |
 | 72 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 73 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 90 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 91 | [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 |
 | 92 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
-| 93 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 |
+| 93 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 94 | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/track/47gkKdc32LL8pnBxWUIynq) | [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/album/2tGEZnwR4yxXmOM4CnpDnW) | 3:09 |
 | 95 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 |
 | 96 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 |
 | 97 | [Follow Through \- Live](https://open.spotify.com/track/4UZ99247TMJabvsyAFRIHN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Live In London](https://open.spotify.com/album/51CY8OpXGch76u6R5xlGHy) | 4:10 |
 
-Snapshot ID: `MCxhODEyMjY4OGZhNzMzOGVkODc1MTlkNmVjMWViN2MxNDE1OTk1MWJk`
+Snapshot ID: `MCw3NzVmODU5OWY3ODUyNTE2YWZmNzUzNGI4ZGY3MTNjMGRmYzZjZDNj`

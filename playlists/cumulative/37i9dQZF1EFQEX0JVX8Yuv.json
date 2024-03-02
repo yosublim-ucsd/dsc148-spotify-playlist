@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Eintausend Teile",
+        "url": "https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143013,
+      "name": "Eintausend Teile",
+      "url": "https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6"
+    },
+    {
+      "album": {
         "name": "TURN OFF THE LIGHT",
         "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
       },

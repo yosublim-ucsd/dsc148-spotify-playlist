@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-573 songs - 1 day 8 hr 12 min
+574 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Amphibious](https://open.spotify.com/track/6BOzOhp0lkineq7GADZNs5) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Polite](https://open.spotify.com/album/0WgipZtpMYTd3nTZ8iG8HR) | 3:37 | 2021-06-16 | 2022-03-31 |
 | [Amsterdam \(Deep Inside\)](https://open.spotify.com/track/1vigRz7ggzSPlx3oHZHtSD) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Black Marble](https://open.spotify.com/album/2ghv8mmhJRmTwUyqRxD52D) | 2:16 | 2022-12-02 | 2023-07-20 |
 | [Angel](https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52) | 3:22 | 2022-02-03 | 2022-03-31 |
+| [Another Night \(with Fi Sullivan\)](https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA) | 2:31 | 2024-03-01 |  |
 | [ANSWERS](https://open.spotify.com/track/6giF69se8doTga9JDiGAGp) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [3034](https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx) | 3:51 | 2022-11-03 | 2023-01-30 |
 | [ANTHEM](https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:00 | 2023-02-22 | 2023-10-06 |
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |

@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198324,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
@@ -10641,6 +10641,24 @@
     },
     {
       "album": {
+        "name": "Leap Years",
+        "url": "https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Leap Years",
+      "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
+    },
+    {
+      "album": {
         "name": "Leave A Light On",
         "url": "https://open.spotify.com/album/6Juv4i05iXyKSJoZ6l3NQJ"
       },
@@ -15347,6 +15365,28 @@
     },
     {
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE"
+      },
+      "artists": [
+        {
+          "name": "Satic\u00f6y",
+          "url": "https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO"
+        },
+        {
+          "name": "Connor Musarra",
+          "url": "https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157721,
+      "name": "Safe Side",
+      "url": "https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/73ThcGjqsQuiNbzQuiEc70"
       },
@@ -19984,7 +20024,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 214523,
       "name": "Waiting On Better Days",
       "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"

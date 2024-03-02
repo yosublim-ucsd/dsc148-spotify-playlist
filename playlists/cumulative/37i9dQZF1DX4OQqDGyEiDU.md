@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-570 songs - 1 day 8 hr 20 min
+571 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 | 2023-02-10 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 | 2024-01-04 | 2024-01-31 |
+| [Kafu\-eine](https://open.spotify.com/track/2MtLVsDeMdTsslO6qqmS2h) | [Hiiragi Magnetite](https://open.spotify.com/artist/3wcmaCLMuQjUbID0CNUDOz) | [Kafu\-eine](https://open.spotify.com/album/17k1xca8sGZXwiAJZh8Ild) | 2:32 | 2024-02-29 |  |
 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 | 2023-08-24 |  |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
 | [Kashika](https://open.spotify.com/track/5fB9g1BgUXcmsRFr0YgePK) | [Ryo Haruka](https://open.spotify.com/artist/7kzVP3eplt8khwLbV5BKev), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Kashika](https://open.spotify.com/album/36xYHE6YjoI0klBipjeG44) | 3:58 | 2023-01-03 | 2023-02-17 |
@@ -460,7 +461,7 @@
 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 | 2022-06-28 |  |
 | [十面相](https://open.spotify.com/track/16zu7t8izVogABmYT63Ul5) | [YM](https://open.spotify.com/artist/43zhUQXVj58enyEAbKyYai) | [十面相](https://open.spotify.com/album/7dvqy5hKOV6GRJTIWr7XH3) | 3:43 | 2022-06-23 | 2022-06-25 |
 | [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 | 2022-07-26 | 2022-10-14 |
-| [可不ェイン](https://open.spotify.com/track/5ymC9IssJM5v6cRjpTtbPS) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [可不ェイン](https://open.spotify.com/album/6yOcFTQoDPXMNC1149PTmx) | 2:32 | 2024-02-29 |  |
+| [可不ェイン](https://open.spotify.com/track/5ymC9IssJM5v6cRjpTtbPS) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [可不ェイン](https://open.spotify.com/album/6yOcFTQoDPXMNC1149PTmx) | 2:32 | 2024-02-29 | 2024-03-02 |
 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 | 2023-11-07 |  |
 | [君が生きてなくてよかった](https://open.spotify.com/track/2CNKxSQ5HrP6tEZXUH6Q06) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [零号](https://open.spotify.com/album/1td6420oV2v558v9rQhgrq) | 4:24 | 2022-06-09 | 2022-07-29 |
 | [君の神様になりたい](https://open.spotify.com/track/0SaFvT8yBgA3d7wJsQbvLT) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [白紙](https://open.spotify.com/album/0XPTOGQ7kNbRvJy2Hv5evk) | 4:15 | 2022-06-14 | 2022-07-10 |

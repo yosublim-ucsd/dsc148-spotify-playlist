@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 84692,
+  "2024-03-02": 84769,
   "date_first_scraped": "2021-12-28",
   "description": "Les hits tunisiens du moment. Cover: Samara",
   "name": "Hit Tounsi",
@@ -2310,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "Msamhin",
+        "url": "https://open.spotify.com/album/4NkimMrINW8489T3ug2ZpG"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247487,
+      "name": "Msamhin",
+      "url": "https://open.spotify.com/track/4vWQUabxtxQvoSpkNNQVnT"
+    },
+    {
+      "album": {
         "name": "NABRA",
         "url": "https://open.spotify.com/album/4WZ5m8u3ryE3VQb8ahNgyE"
       },
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 252581,
       "name": "Noum Elil",
       "url": "https://open.spotify.com/track/7D9vjMrVVF9cG2z4vB6SQY"

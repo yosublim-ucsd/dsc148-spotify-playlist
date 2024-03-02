@@ -4719,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Vou",
+        "url": "https://open.spotify.com/album/7DDXhKNEvEuva0tXKsnWnQ"
+      },
+      "artists": [
+        {
+          "name": "Puro L",
+          "url": "https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210352,
+      "name": "J\u00e1 Vou",
+      "url": "https://open.spotify.com/track/48s7VUIilTfaLMZlkSuIxV"
+    },
+    {
+      "album": {
         "name": "Kala Boka (Freestyle)",
         "url": "https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB"
       },

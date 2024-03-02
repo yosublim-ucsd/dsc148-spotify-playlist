@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Zélie
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,461 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,475 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 | 50 | [Tombé du ciel](https://open.spotify.com/track/4uur0nZJPXC1PZIbmof6Ym) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tombé du ciel](https://open.spotify.com/album/0Rx6ZyEPT9SvoitKf6h7Fu) | 3:49 |
 
-Snapshot ID: `MCxlODYzOWMyYWM3NzkwY2UwNzc0MzI4OGM5NDk3NmVhYjY1YjliZDZj`
+Snapshot ID: `MCw2YzBmY2EyY2QxYzlhYTlmMjlkOGUyMzM3ZTQ0NGQ3YmZjZTUyODA2`

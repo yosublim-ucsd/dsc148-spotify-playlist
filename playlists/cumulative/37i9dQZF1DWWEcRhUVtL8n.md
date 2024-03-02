@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Wallows
 
-1,778 songs - 3 day 21 hr 44 min
+1,779 songs - 3 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 |  |
+| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
@@ -908,6 +908,7 @@
 | [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-09 | 2023-02-04 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-04-21 |
 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 | 2022-03-04 | 2022-04-18 |
+| [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 | 2024-03-01 |  |
 | [Last Week On A Friday](https://open.spotify.com/track/0UpdNPlHt0URGZzaU5aTxx) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Last Week On A Friday](https://open.spotify.com/album/0duCmbNg3WovtYaj09Zr61) | 3:20 | 2021-05-03 | 2021-10-12 |
 | [Last Year’s Model Club](https://open.spotify.com/track/0FpuPOz4BJbdapF0ExvffH) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Last Year’s Model Club](https://open.spotify.com/album/67HqD9ogSvBiB0rXRLJncY) | 3:00 | 2022-01-21 | 2022-04-21 |
 | [Late Bloomer](https://open.spotify.com/track/52aZ5tnhNOsYeQQskmDTqo) | [Zeke Finn](https://open.spotify.com/artist/6NN2RYVrasbgm0qtgGSWXg) | [Late Bloomer](https://open.spotify.com/album/03VhLwzCFAiNhnyWGahDHh) | 2:53 | 2022-02-25 | 2022-04-20 |

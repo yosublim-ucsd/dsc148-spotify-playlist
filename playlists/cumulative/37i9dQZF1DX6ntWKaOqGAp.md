@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: Teikoku Kissa\(帝国喫茶\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,337 songs - 3 day 11 hr 50 min
+1,338 songs - 3 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [In Your Life](https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4) | 3:55 | 2023-06-27 | 2023-06-29 |
 | [In Your Life](https://open.spotify.com/track/5s94xrIDUhNwtZt26V0MiN) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [In Your Life](https://open.spotify.com/album/20yZQbH7TZ1cCZ0MRyrGVh) | 3:55 | 2023-06-27 | 2023-08-09 |
 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 | 2023-04-06 | 2023-05-26 |
+| [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-02-29 |  |
 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 | 2023-11-14 | 2023-12-13 |
 | [Intruder](https://open.spotify.com/track/6ksDpdIAvw6tXUV8oKEYIx) | [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw) | [Ranhansha](https://open.spotify.com/album/0lKwDRBDmPOZCDfkIASQg2) | 4:58 | 2023-12-07 | 2024-01-23 |
 | [Isshoukonomama](https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Isshoukonomama](https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh) | 4:43 | 2023-05-30 | 2023-07-05 |
@@ -491,7 +492,7 @@
 | [PIP](https://open.spotify.com/track/5do7C5GwLyh3ZnEHkhxdy2) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ) | 3:05 | 2023-07-11 | 2023-07-19 |
 | [PIP](https://open.spotify.com/track/6J6XYfPFeeOXlJ9BPyuPza) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7) | 3:05 | 2023-07-11 | 2023-07-13 |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-04-18 | 2024-01-24 |
-| [POISON](https://open.spotify.com/track/6vAFHbnJTexYSzm4MJHmGl) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2), [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [POISON](https://open.spotify.com/album/2mV5XTa1kZQyAoP9Ivbt6V) | 4:13 | 2024-02-29 |  |
+| [POISON](https://open.spotify.com/track/6vAFHbnJTexYSzm4MJHmGl) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2), [Takashi Sorimachi](https://open.spotify.com/artist/4vQ7seGB4Mgvqt162vcgXG) | [POISON](https://open.spotify.com/album/2mV5XTa1kZQyAoP9Ivbt6V) | 4:13 | 2024-02-29 |  |
 | [Portrait](https://open.spotify.com/track/3rrVjrKZsqfEvQJK1MYkV8) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [Portrait](https://open.spotify.com/album/0zA9ivzofydgFII9B04DIb) | 4:04 | 2024-02-20 | 2024-02-28 |
 | [PRAY.](https://open.spotify.com/track/13wvSdNG2gmOXLpKyaqr3X) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:31 | 2023-03-07 | 2023-03-25 |
 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-02-13 |  |
@@ -826,7 +827,7 @@
 | [イエスタデイ](https://open.spotify.com/track/0MhkBYW595Cx3tNKMPKIxo) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [DUH](https://open.spotify.com/album/5b5I6tRKOYHUWqlIotXSWw) | 3:10 | 2024-01-23 | 2024-02-28 |
 | [イエロー](https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [イエロー](https://open.spotify.com/album/0eHdWFvgTbDhrI0GImMGyA) | 5:19 | 2024-02-28 |  |
 | [イマジネーション \- New Version \-](https://open.spotify.com/track/2jFXcYFDLmdB4tXWrc9fVD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション \- New Version \-](https://open.spotify.com/album/5buxh2cnDTTIWOumSjmKG3) | 2:55 | 2023-09-26 | 2023-10-13 |
-| [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-02-29 |  |
+| [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-02-29 | 2024-03-02 |
 | [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 | 2023-12-08 |
 | [インビジブル](https://open.spotify.com/track/2Vn3cY3C0kv40G0jqnwknc) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [インビジブル](https://open.spotify.com/album/2OH56POP2QHcbk6mJfnvvy) | 5:01 | 2024-01-25 | 2024-02-14 |
 | [イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム](https://open.spotify.com/track/2p4pU9Hxjd5UEeJJAe6ezh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [イーアーティエイチスィーナーエイチキューカーエイチケームビーネーズィーウーオム](https://open.spotify.com/album/1m7JxZB7GaLWYxDNEhDVdA) | 3:53 | 2023-06-27 | 2023-06-29 |

@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Kacey Musgraves 🌼
+> A new shade of Country\. Cover: Shane Smith & the Saints
 
-539 songs - 1 day 9 hr 10 min
+540 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2023-01-14 |
 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2023-07-22 |
 | [Born Tough](https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Born Tough](https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6) | 3:51 | 2022-08-26 | 2023-03-04 |
-| [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 |  |
+| [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 | 2024-03-02 |
 | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR) | [Ashley Ray](https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/album/3ZwAfNsL44QuYkOA0rCzk0) | 3:36 | 2023-06-16 | 2023-09-30 |
 | [Breaking Point](https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:50 | 2021-12-17 | 2022-01-22 |
 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2023-10-06 |  |
@@ -169,6 +169,7 @@
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-03-25 | 2022-07-30 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-12-15 |  |
 | [Fire in the Ocean](https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Fire in the Ocean](https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4) | 3:58 | 2022-10-21 | 2023-06-17 |
+| [Fire in the Sky](https://open.spotify.com/track/21KtzK2Ca651OjwqmSLuLF) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Norther](https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO) | 3:39 | 2024-03-01 |  |
 | [Fire Line](https://open.spotify.com/track/2HMrDjNB4Qw3x28hlXVPJz) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:34 | 2021-12-17 | 2023-04-15 |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-03 | 2023-04-01 |
 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 | 2021-12-17 | 2022-03-12 |

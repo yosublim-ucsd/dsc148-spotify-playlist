@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 502802,
+  "2024-03-02": 502835,
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: ATRIP",
+  "description": "The home for alternative electronic music. Cover: SG Lewis",
   "name": "Altar",
   "tracks": [
     {
@@ -3144,6 +3144,24 @@
     },
     {
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/0YYKgJkUYIzyr07rUSgaia"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1MGsikUV7Y0q4Yr1rju8xz"
+    },
+    {
+      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -3323,6 +3341,28 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
     },
     {
       "album": {
@@ -3511,7 +3551,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 153904,
       "name": "Dancing With A Ghost",
       "url": "https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc"
@@ -4928,6 +4968,32 @@
     },
     {
       "album": {
+        "name": "Every Time I Fall (Model Man Remix)",
+        "url": "https://open.spotify.com/album/6a6ShcVFNtYQpcylEwxLth"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        },
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Every Time I Fall - Model Man Remix",
+      "url": "https://open.spotify.com/track/6QEa7yYa712s2l1HE1JDuZ"
+    },
+    {
+      "album": {
         "name": "Every Time That I Land (Skibadee Version)",
         "url": "https://open.spotify.com/album/6vEGi0naSYvX8MWyPJOSJp"
       },
@@ -6113,7 +6179,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
@@ -6733,6 +6799,24 @@
       "duration_ms": 226971,
       "name": "Head Back",
       "url": "https://open.spotify.com/track/25XeeZe1GNgCsnjJwubdMW"
+    },
+    {
+      "album": {
+        "name": "Head Round",
+        "url": "https://open.spotify.com/album/0SlqGG9O3GIFMvN9A21JfS"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Head Round",
+      "url": "https://open.spotify.com/track/5WEQFJ8tHLEhI5WQ864ij8"
     },
     {
       "album": {
@@ -8071,7 +8155,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 317765,
       "name": "Its me ( g 8 )",
       "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
@@ -9316,6 +9400,24 @@
     },
     {
       "album": {
+        "name": "Love Me Less",
+        "url": "https://open.spotify.com/album/1kQ9n9hkHGbAGb6hgNZyjH"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176722,
+      "name": "Love Me Less",
+      "url": "https://open.spotify.com/track/1h4Q3swgqHz12t6xoQYIVs"
+    },
+    {
+      "album": {
         "name": "Rave Science Vol. 2",
         "url": "https://open.spotify.com/album/6N34SARO7TlWBdBBfTKS1K"
       },
@@ -10375,7 +10477,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 211176,
       "name": "Move Like Shadows (Digital Underground)",
       "url": "https://open.spotify.com/track/19O8DSwLxkhJs4JQV603xH"
@@ -14704,6 +14806,32 @@
     },
     {
       "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "album": {
         "name": "Steamin",
         "url": "https://open.spotify.com/album/00ciJacke9mRfbm616SfWq"
       },
@@ -15325,7 +15453,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
@@ -15495,7 +15623,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 302444,
       "name": "The Highest Level",
       "url": "https://open.spotify.com/track/6KCjvxiLvEXDgLMhd6UuHQ"
@@ -16883,7 +17011,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 206637,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5lBKGuWoDoNXd0r4sICyK2"
@@ -17193,6 +17321,32 @@
       "duration_ms": 230445,
       "name": "We Still Believe",
       "url": "https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ"
+    },
+    {
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
     },
     {
       "album": {

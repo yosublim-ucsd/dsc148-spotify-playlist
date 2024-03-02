@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-229 songs - 12 hr 4 min
+230 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [COMING UP](https://open.spotify.com/track/5Slg73y7Ul41nQ4rY9QHlg) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [RAP GODDESS](https://open.spotify.com/album/1H2Cs63eKn7PPuBCjHZCu1) | 2:57 | 2023-05-12 | 2023-06-02 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 | 2023-07-21 |
 | [Confident](https://open.spotify.com/track/1q27kOWtftfdf4go5TVZG9) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Confident](https://open.spotify.com/album/66cj7tHg9EZ6lqwwp5pPcN) | 3:39 | 2023-06-29 | 2023-11-18 |
-| [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 | 2023-08-23 |  |
+| [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 | 2023-08-23 |  |
 | [Damh](https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 2:45 | 2023-12-06 |  |
 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 | 2023-04-16 |  |
 | [Dayein Bayein](https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Dayein Bayein](https://open.spotify.com/album/1JrHE6GJZg6brN76ueQ1rI) | 2:28 | 2023-03-29 | 2023-04-17 |
@@ -188,6 +188,7 @@
 | [Rehem](https://open.spotify.com/track/0kxygsw2zngxvhsmNMbpwj) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Rehem](https://open.spotify.com/album/0xsZ9ulRB98Df9mTZqPWQn) | 2:24 | 2023-12-13 | 2024-01-18 |
 | [Ride Slow](https://open.spotify.com/track/3AcwYeqbN22Ko2xRJyMQJa) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Ride Slow](https://open.spotify.com/album/7DJNO9v8VnJPem8sNn2ruO) | 4:24 | 2023-03-29 | 2023-04-17 |
 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 | 2023-03-29 | 2023-07-21 |
+| [Rudali](https://open.spotify.com/track/5IbcfJPO1LQ97hzaNIXF3L) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Rudali](https://open.spotify.com/album/6qrGSiZRziEDlAQq0PZFKh) | 3:28 | 2024-03-01 |  |
 | [RVAB](https://open.spotify.com/track/3H6YvlZ35ed4vD7AXYwHcj) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/7kkeViLxDfmxJeNUClsQWk) | 4:28 | 2023-08-08 | 2023-10-27 |
 | [SAARI SAARI RAAT](https://open.spotify.com/track/3MeNlgFQHyVMhATxsJEN2g) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [SAARI SAARI RAAT](https://open.spotify.com/album/0pCFes7vyy7vavgedlkwYv) | 2:49 | 2023-03-29 | 2023-04-17 |
 | [Sab Kuch](https://open.spotify.com/track/4wZ9N55zJvZbsi868fb3Wt) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Sab Kuch](https://open.spotify.com/album/1xqZjW5tYNPApXAZRu8VVf) | 2:20 | 2023-12-13 | 2024-01-13 |

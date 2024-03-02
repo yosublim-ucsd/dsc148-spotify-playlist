@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 63736,
+  "num_followers": 63730,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTgxMSwyOGU5YTJmOWYyMGFmZTQ5NTkzYmNiMWM5NTVhM2U4NzE4OGQ0MDBh",
+  "snapshot_id": "MTgxNiwyNjZiZjIwNWFlNjcyZTIzY2VmOWJkOGQ2NGJlMzgyZjgxMGMxYjBj",
   "tracks": [
+    {
+      "added_at": "2024-03-01 12:45:21",
+      "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
+    },
     {
       "added_at": "2024-02-23 13:42:58",
       "album": {
@@ -71,6 +87,38 @@
       "duration_ms": 180426,
       "name": "A Chloris in E Major (Arr. for Piano by William Youn)",
       "url": "https://open.spotify.com/track/6eIUmf25GrdAyFzKVvTlhm"
+    },
+    {
+      "added_at": "2024-03-01 12:46:08",
+      "album": {
+        "name": "Christine's Theme",
+        "url": "https://open.spotify.com/album/76LfYcCT4zSe8Twa9ec8XK"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Christine's Theme",
+      "url": "https://open.spotify.com/track/6kjGo5VERVKcVs0pt7mtuK"
+    },
+    {
+      "added_at": "2024-03-01 12:46:37",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 91920,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ"
     },
     {
       "added_at": "2024-02-23 13:46:12",
@@ -163,6 +211,22 @@
       "duration_ms": 362366,
       "name": "Violin Concerto in E Major, BWV 1042/II. Adagio",
       "url": "https://open.spotify.com/track/00Rn6Rj9GYAJWN1hi3tTxK"
+    },
+    {
+      "added_at": "2024-03-01 12:44:57",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/2j3lFcnI7wqnXA7oNGStN4"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "duration_ms": 306386,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/0nmYFxpO3YHuMa1dlkkCPP"
     },
     {
       "added_at": "2024-02-05 13:30:11",

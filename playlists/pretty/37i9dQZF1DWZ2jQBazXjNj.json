@@ -1,12 +1,12 @@
 {
   "description": "Corridos aesthetic y rolitas pa' las buchifresas \ud83c\udf53\ud83c\udf51",
-  "num_followers": 62223,
+  "num_followers": 62375,
   "original_name": "Corridos Aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDIyOThiZDk3MThlN2UxODY3N2Y5ODExNWU2M2NmNWJlYmMzOGM2",
+  "snapshot_id": "MCw3NjA4ZGY5MmFjODExMWUzNmNmMTE1NDhkZDhkM2UyZTdkZTVlN2U3",
   "tracks": [
     {
       "added_at": "2024-02-20 19:26:32",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Gotas de Agua Dulce",
-        "url": "https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
-        }
-      ],
-      "duration_ms": 175438,
-      "name": "Gotas de Agua Dulce",
-      "url": "https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 193171,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Gotas de Agua Dulce",
+        "url": "https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
+        }
+      ],
+      "duration_ms": 175438,
+      "name": "Gotas de Agua Dulce",
+      "url": "https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB"
     },
     {
       "added_at": "2024-02-20 19:26:32",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-20 19:26:32",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok"
-      },
-      "artists": [
-        {
-          "name": "Latente",
-          "url": "https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz"
-        }
-      ],
-      "duration_ms": 246682,
-      "name": "Antolog\u00eda",
-      "url": "https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM"
-    },
-    {
-      "added_at": "2024-02-20 19:26:32",
-      "album": {
         "name": "Los Santos",
         "url": "https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 243448,
       "name": "Los Santos",
       "url": "https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk"
+    },
+    {
+      "added_at": "2024-02-20 19:26:32",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok"
+      },
+      "artists": [
+        {
+          "name": "Latente",
+          "url": "https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz"
+        }
+      ],
+      "duration_ms": 246682,
+      "name": "Antolog\u00eda",
+      "url": "https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM"
     },
     {
       "added_at": "2024-02-20 19:26:32",

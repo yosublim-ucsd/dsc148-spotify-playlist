@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country Music that rocks. Cover: Warren Zeiders",
+  "description": "Country Music that rocks. Cover: Austin Snell",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 169915,
       "name": "ALL GAS",
       "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Blackout Betty",
+      "url": "https://open.spotify.com/track/3D71o5wgyMshda5rzaBa1d"
+    },
+    {
+      "album": {
         "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
         "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
       },
@@ -944,6 +962,24 @@
       "duration_ms": 151148,
       "name": "Call It Country",
       "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+    },
+    {
+      "album": {
+        "name": "Candle In The Dark",
+        "url": "https://open.spotify.com/album/3usMJx3KAQC39y4tAmKcRU"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269667,
+      "name": "Candle In The Dark",
+      "url": "https://open.spotify.com/track/5NFZ0EDMwedt9fKXlDPNYm"
     },
     {
       "album": {
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 174280,
       "name": "Dirt Road When I Die",
       "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198591,
       "name": "Dragging Me Down",
       "url": "https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1"
@@ -2312,7 +2348,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177997,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/5r0fqmv3eSRFcEeGIWhMac"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 182503,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/6l7PkVZnsaZU8rm5NzlD5e"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194670,
       "name": "I Thought Wrong",
       "url": "https://open.spotify.com/track/5Yzw0PsR0v3sNk4ZwfMHGH"
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 209836,
       "name": "Looking Back Now",
       "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
@@ -3588,6 +3624,24 @@
       "duration_ms": 222653,
       "name": "Midnight Train To Memphis",
       "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "album": {
+        "name": "Midwest Rock & Roll",
+        "url": "https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231672,
+      "name": "Midwest Rock & Roll",
+      "url": "https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S"
     },
     {
       "album": {
@@ -4510,7 +4564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 146189,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/7p66Vq5NrmkK1UW7jNyn87"
@@ -6260,7 +6314,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194378,
       "name": "Young & Hungry",
       "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"

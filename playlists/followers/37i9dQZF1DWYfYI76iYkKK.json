@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 123934,
+  "2024-03-02": 123950,
   "date_first_scraped": "2022-06-09",
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
   "name": "\u9031\u672b\u6e05\u807d",
@@ -165,6 +165,24 @@
       "duration_ms": 200000,
       "name": "can't get over you",
       "url": "https://open.spotify.com/track/1S1crJ0Ebb2XOrhBCnlNGK"
+    },
+    {
+      "album": {
+        "name": "Countdown",
+        "url": "https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM"
+      },
+      "artists": [
+        {
+          "name": "Maderlin Weng",
+          "url": "https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237646,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX"
     },
     {
       "album": {
@@ -3048,6 +3066,24 @@
     },
     {
       "album": {
+        "name": "BEFORE 20",
+        "url": "https://open.spotify.com/album/2nvrFeW0LkgAGhavukF8pm"
+      },
+      "artists": [
+        {
+          "name": "Yinson Lee",
+          "url": "https://open.spotify.com/artist/2JPCNCkjhkJzy4Dm2yR2L5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274055,
+      "name": "\u5c31\u611b\u6211",
+      "url": "https://open.spotify.com/track/2NOZoZhsUFd1VWJp21B4i0"
+    },
+    {
+      "album": {
         "name": "\u7d66\u5929\u738b\u661f",
         "url": "https://open.spotify.com/album/15FjDCRuVnJFVHiTFuj0Fp"
       },
@@ -3401,7 +3437,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
@@ -6171,7 +6207,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 218000,
       "name": "\u8ddf\u6211\u4f86 - Acoustic Version",
       "url": "https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF"

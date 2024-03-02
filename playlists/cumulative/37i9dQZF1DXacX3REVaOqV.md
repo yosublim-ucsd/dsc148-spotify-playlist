@@ -4,7 +4,7 @@
 
 > The best in house music
 
-392 songs - 1 day 3 hr 27 min
+393 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,8 @@
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-17 |  |
 | [We Are The One](https://open.spotify.com/track/4uz0UYsssS48EJhUoxizFQ) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Brillstein](https://open.spotify.com/artist/1kSRf6gfG0ogCiEszdaHER), [DJ Vas](https://open.spotify.com/artist/1OkLz8h6zrd7o9GPsYj3sU) | [Play It Down 100](https://open.spotify.com/album/4uQ9tLHsZ1E4TRqiBhQBQF) | 6:19 | 2022-04-14 | 2023-06-03 |
 | [We Are The One](https://open.spotify.com/track/6DP4GiIbMupB6X9aExpLTT) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Brillstein](https://open.spotify.com/artist/1kSRf6gfG0ogCiEszdaHER), [DJ Vas](https://open.spotify.com/artist/1OkLz8h6zrd7o9GPsYj3sU) | [Play It Down 100](https://open.spotify.com/album/2QfqR0h7cBP7Q8TjKlb8lU) | 6:19 | 2023-06-08 | 2024-03-01 |
-| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-02-29 |  |
+| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-02-29 | 2024-03-02 |
+| [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-02-29 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-07 |  |
 | [What You Gonna Do](https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr) | [ELIA](https://open.spotify.com/artist/0t2RtejVOID76P2r4iqEzV), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [What You Gonna Do](https://open.spotify.com/album/7vdyYBkfJqXmnUzXsxECJK) | 4:07 | 2023-12-01 |  |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-12 | 2024-02-01 |

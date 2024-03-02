@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring day2k\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,176 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,200 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 2 | [100 DE 10](https://open.spotify.com/track/14Whe4NkVM0uY9VKeFreXa) | [MURA](https://open.spotify.com/artist/7o3EeWfsf7BzwHdvJv3JwR), [SAMME](https://open.spotify.com/artist/3YfhditwXImtzqRlLe2ULH), [Bolishe One](https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA) | [100 DE 10](https://open.spotify.com/album/47KqopPElMdJe5R2iXyHJd) | 2:30 |
 | 3 | [Carro Caro](https://open.spotify.com/track/1VJI9IOEPGGs4BX8lFrdgX) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Carro Caro](https://open.spotify.com/album/3YVNR6B4eVBtBdC8dWGVse) | 2:21 |
 | 4 | [Viceversa](https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL) | [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Viceversa](https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD) | 3:39 |
-| 5 | [TODO LO QUE HICE MAL \- MI MALA SUERTE](https://open.spotify.com/track/7n7UEsIabEUy07PhQdk6Vu) | [Los Niños Vudú](https://open.spotify.com/artist/0TPI9iuwI8KUQEOgzWYEGu) | [TODO LO QUE HICE MAL \(MI MALA SUERTE\)](https://open.spotify.com/album/61qocpn3G4ReVkjOWtshBV) | 3:19 |
+| 5 | [TODO LO QUE HICE MAL \(MI MALA SUERTE\)](https://open.spotify.com/track/7n7UEsIabEUy07PhQdk6Vu) | [Los Niños Vudú](https://open.spotify.com/artist/0TPI9iuwI8KUQEOgzWYEGu) | [TODO LO QUE HICE MAL \(MI MALA SUERTE\)](https://open.spotify.com/album/61qocpn3G4ReVkjOWtshBV) | 3:19 |
 | 6 | [Modern Love](https://open.spotify.com/track/4xoK5sgTph7B7Z2nfNyt0x) | [AVEPARADISO](https://open.spotify.com/artist/4zbxpLFyPdF7tSA1TPpJuL), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Amore Moderno](https://open.spotify.com/album/34urb47wcAKpv3t2CcvwwZ) | 4:29 |
 | 7 | [Días Intensos](https://open.spotify.com/track/3Bajl2IJEPKvqreFTG7NcQ) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9) | [Días Intensos](https://open.spotify.com/album/4FgdkHfhnyuUVUsj6ouz65) | 3:13 |
 | 8 | [Por Ti Soy](https://open.spotify.com/track/0iDIHJSEryGobhtRDPmLf5) | [Pater](https://open.spotify.com/artist/2sbjEYfp8Zb7B3SjgremW4) | [Por Ti Soy](https://open.spotify.com/album/3otVC9yJOR2Yug4R2fF90k) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Perfect Match](https://open.spotify.com/track/4ejqsSAogGBnJSqyDW6sr1) | [Juli Martorell](https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV), [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Perfect Match](https://open.spotify.com/album/64SVVk4xClSiwM4WAsi5BW) | 1:59 |
 | 50 | [Hasta las manos](https://open.spotify.com/track/36UPJ8XnApUd2tOx20bgNh) | [Negro Jacinto](https://open.spotify.com/artist/1vmU64v5EuGkNp3eaYesik) | [Hasta las manos](https://open.spotify.com/album/6YkdJV21k6UvB3b0lneE5Z) | 3:35 |
 
-Snapshot ID: `MCwxMTc3MWJjOTg5YzlhZmVjMDZhNTY3YzU5ZmIzMTA2NTY2ODY5NWNm`
+Snapshot ID: `MCw3MzIyM2E0ZGUxZDkyZjMwZjExZjY3OTljYzFmMjI2NWVkOTNhYzg3`

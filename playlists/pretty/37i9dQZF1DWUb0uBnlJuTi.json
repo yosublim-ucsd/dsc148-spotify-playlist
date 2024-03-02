@@ -1,13 +1,33 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 331081,
+  "num_followers": 331228,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzlhNzQxMjkyODUwYzJmMDFmZmRkNzMzYzlhNDA5MjdkY2Q4ZmM0",
+  "snapshot_id": "MCwyMjgzN2MyZmQ1ZWMwMzAwODdhMTc2ZGRiMTA1NjE4OGYwZDI4ZDgw",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Big Brother",
+        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Daniel Wytanis",
+          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
+        }
+      ],
+      "duration_ms": 361482,
+      "name": "Big Brother",
+      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
@@ -177,24 +197,24 @@
       "url": "https://open.spotify.com/track/1ytNQaSmAcMnnWtzC4eLjt"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "No, No, No Pt. 2",
-        "url": "https://open.spotify.com/album/2giHV2PIregp4L6fJdwR85"
+        "name": "Exotic Rose",
+        "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
       },
       "artists": [
         {
-          "name": "Sly5thAve",
-          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
         },
         {
-          "name": "Jonathan Mones",
-          "url": "https://open.spotify.com/artist/1eLGtP5vWAvZuBmL51J1gD"
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
         }
       ],
-      "duration_ms": 284250,
-      "name": "No, No, No Pt. 2",
-      "url": "https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy"
+      "duration_ms": 290341,
+      "name": "Exotic Rose",
+      "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1767,26 +1787,6 @@
       "duration_ms": 231573,
       "name": "Black Octopus",
       "url": "https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Longseller Tornado",
-        "url": "https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI"
-      },
-      "artists": [
-        {
-          "name": "EXOTIC SKATES",
-          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
-        },
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "Longseller Tornado",
-      "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
     },
     {
       "added_at": "2023-03-03 05:01:00",

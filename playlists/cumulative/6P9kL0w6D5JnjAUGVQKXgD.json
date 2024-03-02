@@ -2735,6 +2735,32 @@
     },
     {
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/1jtuYTrpnltK4WaZI59L9c"
+      },
+      "artists": [
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/28Fbhrn9EUigsCk7U2g0gy"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG"
+    },
+    {
+      "album": {
         "name": "Because The Night",
         "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
       },
@@ -6158,6 +6184,28 @@
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
+    },
+    {
+      "album": {
+        "name": "Crave Your Love",
+        "url": "https://open.spotify.com/album/4LBDFIy2ggp9I2QapYRz7Y"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Katie Coleman",
+          "url": "https://open.spotify.com/artist/55oQc2N7Exqb9w9Ya0HhIT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Crave Your Love",
+      "url": "https://open.spotify.com/track/0faJm8CQ7zFaXsxgvJ9wg7"
     },
     {
       "album": {
@@ -15976,7 +16024,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193568,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk"
@@ -29786,7 +29834,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 161538,
       "name": "To Die For - Madism Remix",
       "url": "https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v"

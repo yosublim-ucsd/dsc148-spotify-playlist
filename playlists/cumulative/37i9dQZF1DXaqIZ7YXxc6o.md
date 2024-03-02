@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Flight Facilities, Owl Eyes
 
-2,040 songs - 4 day 17 hr 3 min
+2,041 songs - 4 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,8 @@
 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 | 2023-09-08 |
 | [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 | 2023-12-19 | 2024-01-19 |
 | [everything i wanted](https://open.spotify.com/track/4aj4ht3wzKU1SioSYASQWJ) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Tori White](https://open.spotify.com/artist/59twikx8I5LEKNI0ckZHCD) | [everything i wanted](https://open.spotify.com/album/0vh8NSUmjJ8ajtxSQ9VdcO) | 2:34 | 2023-08-17 | 2023-09-01 |
-| [Everything You Do](https://open.spotify.com/track/5QvcIzVFohVArFMYUWx1Xu) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do](https://open.spotify.com/album/2HXV37PReTqdpVEjLPlvn5) | 3:03 | 2024-02-29 |  |
+| [Everything You Do](https://open.spotify.com/track/5QvcIzVFohVArFMYUWx1Xu) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do](https://open.spotify.com/album/2HXV37PReTqdpVEjLPlvn5) | 3:03 | 2024-02-29 | 2024-03-02 |
+| [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4) | 3:03 | 2024-02-29 |  |
 | [exactly the same](https://open.spotify.com/track/7KAFWdeDgkekYrjFomiXkB) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [exactly the same](https://open.spotify.com/album/6QWdwdcEsYCXHmvp9GVzAx) | 2:31 | 2023-10-26 | 2023-11-25 |
 | [Exodia](https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Exodia](https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo) | 2:55 | 2023-05-18 | 2023-06-16 |
 | [Eye Contact](https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Eye Contact](https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0) | 3:50 | 2023-08-17 | 2023-09-15 |

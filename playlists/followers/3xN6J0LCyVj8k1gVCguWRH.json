@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 107811,
+  "2024-03-02": 107801,
   "date_first_scraped": "2019-09-29",
   "description": "Favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024",
@@ -2711,6 +2711,24 @@
       "duration_ms": 186230,
       "name": "Alone Like Me",
       "url": "https://open.spotify.com/track/4HnbVHbV2e0i20rdcejLGv"
+    },
+    {
+      "album": {
+        "name": "Alone Time",
+        "url": "https://open.spotify.com/album/6i6SzsQih0wTtOYnyfC50o"
+      },
+      "artists": [
+        {
+          "name": "Misty Drinx",
+          "url": "https://open.spotify.com/artist/559o8HtOOixk4WwPgZpVSX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324727,
+      "name": "Alone Time",
+      "url": "https://open.spotify.com/track/0YuY9HjYEtDsrJdy0cbYIb"
     },
     {
       "album": {
@@ -13331,6 +13349,24 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "album": {
+        "name": "Distractions",
+        "url": "https://open.spotify.com/album/1NVEj4PpxuARqIOPFlvfhk"
+      },
+      "artists": [
+        {
+          "name": "Ms. Jesso",
+          "url": "https://open.spotify.com/artist/7Ilc61qxkIiL8JwuMxWBEA"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "Distractions",
+      "url": "https://open.spotify.com/track/3HXvfZz5jwVY1jMS4WjaQ6"
     },
     {
       "album": {
@@ -34719,7 +34755,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 142135,
       "name": "Nana",
       "url": "https://open.spotify.com/track/3s5BFU2hJyXDJMaiBDrPsZ"
@@ -51051,6 +51087,24 @@
       "duration_ms": 261027,
       "name": "Time Goes \"Bye\"",
       "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
+    },
+    {
+      "album": {
+        "name": "Time Goes By",
+        "url": "https://open.spotify.com/album/6oJi9ttaZV1L6c79KgQsKs"
+      },
+      "artists": [
+        {
+          "name": "Vince O'Brien",
+          "url": "https://open.spotify.com/artist/2k54BvTF6w4iIk3Iia0KJ2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226057,
+      "name": "Time Goes By",
+      "url": "https://open.spotify.com/track/1KFPSpqW4FY8CymMg5vdri"
     },
     {
       "album": {

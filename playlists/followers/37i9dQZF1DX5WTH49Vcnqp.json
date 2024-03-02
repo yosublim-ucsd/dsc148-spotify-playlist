@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 564478,
+  "2024-03-02": 564498,
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Royel Otis",
+  "description": "Music that's hard to define but easy to love. Cover: Good Neighbours",
   "name": "Front Left",
   "tracks": [
     {
@@ -975,6 +975,24 @@
       "duration_ms": 210110,
       "name": "Alma Mater",
       "url": "https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb"
+    },
+    {
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172966,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
       "album": {
@@ -4234,6 +4252,24 @@
     },
     {
       "album": {
+        "name": "Under The Light",
+        "url": "https://open.spotify.com/album/0gYjFl2KLiE1kxCBz3wDyq"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Consequence",
+      "url": "https://open.spotify.com/track/4sb5qz20HEPHDT9AJzAnmQ"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -4991,7 +5027,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175781,
       "name": "Desert Land",
       "url": "https://open.spotify.com/track/2SklmBvPC7WFFZVVI5Qnig"
@@ -5956,6 +5992,24 @@
     },
     {
       "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -6111,6 +6165,24 @@
       "duration_ms": 227000,
       "name": "Empty Spaces",
       "url": "https://open.spotify.com/track/4JHCwcCEqwhN34m7qR1lNt"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -6409,7 +6481,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
@@ -8615,7 +8687,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 247399,
       "name": "Guard My Heart",
       "url": "https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA"
@@ -9815,7 +9887,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
@@ -12642,6 +12714,24 @@
     },
     {
       "album": {
+        "name": "Liquid Gold",
+        "url": "https://open.spotify.com/album/3dQeHKIbPUWd4qvL8ofWPw"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177427,
+      "name": "Liquid Gold",
+      "url": "https://open.spotify.com/track/6U3I3ewbSwfQJYJVdotOOa"
+    },
+    {
+      "album": {
         "name": "Little Bother (feat. Foushe\u00e9)",
         "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
       },
@@ -12799,7 +12889,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 225157,
       "name": "LONG in the tOOth (feat. Pos of De La Soul & The Budos Band)",
       "url": "https://open.spotify.com/track/65d4dP3o6k2zlj14eNKW50"
@@ -15264,6 +15354,24 @@
     },
     {
       "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
+    },
+    {
+      "album": {
         "name": "Nothing Yet",
         "url": "https://open.spotify.com/album/75ICG7rsbwX2n92kDQDgUv"
       },
@@ -16080,6 +16188,24 @@
     },
     {
       "album": {
+        "name": "Overcompensate",
+        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190733,
+      "name": "Overcompensate (edit)",
+      "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
+    },
+    {
+      "album": {
         "name": "Overstimulated",
         "url": "https://open.spotify.com/album/6Lcak4JnxsK4mB4gMhP8wT"
       },
@@ -16327,7 +16453,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 261798,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
@@ -17945,7 +18071,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 223587,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
@@ -18755,7 +18881,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 162375,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA"
@@ -19754,6 +19880,32 @@
     },
     {
       "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/0fErWusPc0l3B0TCClnnuo"
       },
@@ -20545,7 +20697,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 131933,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL"
@@ -20798,6 +20950,24 @@
     },
     {
       "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/11YG6IiTP7EMM1OX2RBmF6"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187206,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/4B3dUUKsFILIxMuYbAWnxT"
+    },
+    {
+      "album": {
         "name": "tears in the club (feat. the weeknd)",
         "url": "https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY"
       },
@@ -20835,6 +21005,24 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/3fcPv6ZWPfIwWENirt7w2w"
+    },
+    {
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "album": {
@@ -22120,6 +22308,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "album": {
         "name": "Too Much Fun",
         "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
       },
@@ -22707,7 +22913,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 131546,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
@@ -23151,7 +23357,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 174294,
       "name": "We Don't Talk About It",
       "url": "https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,823 likes - 33 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,895 likes - 33 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 8 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 |
 | 9 | [Heartbeat \- Extended mix](https://open.spotify.com/track/2H5wRJv2e6j8Q0SAHfI8Vm) | [Nathalie](https://open.spotify.com/artist/3W8kVE6uZx0cTBIkk3SQc3) | [Bratt Sinclaire Eurobeat Style Vol.4](https://open.spotify.com/album/39FRScp5tMptT0duSLAl6F) | 5:05 |
 | 10 | [BACK ON THE ROCKS](https://open.spotify.com/track/71vDXik9RZPIueEK69F3p6) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 |
-| 11 | [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 |
+| 11 | [Save Me](https://open.spotify.com/track/1yTUxb67iHkOScKNIWnJcL) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [Initial Delta Eurobeat Soundtrack Vol\. 1](https://open.spotify.com/album/6zZBJgwt3ZY16gKyD0ee3Y) | 4:32 |
 | 12 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 |
 | 13 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 |
 | 14 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 32 | [SPACE BOY \- feat\. MOTSU](https://open.spotify.com/track/7mogXiwfyDlSp5pyO31zfR) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [SPACE BOY \(feat\. MOTSU\)](https://open.spotify.com/album/09DSKsiXa71yFjxKk5jfGs) | 4:23 |
 | 33 | [DEJA VU \- Yuta Imai Remix](https://open.spotify.com/track/7xGdck3GbTSk7b3uSFQ91w) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [DEJA VU \(Yuta Imai Remix\)](https://open.spotify.com/album/24aoHrgiGdSC6JSwxR55rM) | 3:02 |
 
-Snapshot ID: `MCw3NjU2ZGVlYjkxYzY2YzY4NDI5OGRiOTM5M2Q4MTMzY2YwNmNmY2Uw`
+Snapshot ID: `MCw5NmRjNTU5ZTE5MzAxY2UwNzBjNDEyOWI0NWVkNmE3YmFiMmJkNTA5`

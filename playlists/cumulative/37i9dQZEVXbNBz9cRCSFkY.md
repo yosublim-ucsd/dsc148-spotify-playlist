@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-788 songs - 1 day 23 hr 18 min
+789 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Lucky](https://open.spotify.com/track/7MQ5qQZkeVI4eBOYEXm75v) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/2ZTIEsWdfacwU4xcEpq8vB) | 3:03 | 2023-01-21 | 2023-02-01 |
 | [lutang](https://open.spotify.com/track/33a5I5tDvZoI3iIucwrho5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/1ux9VroIw8jgLBtezrI5mb) | 4:32 | 2021-09-18 | 2021-10-03 |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2021-10-03 | 2021-12-11 |
-| [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-10-25 |  |
+| [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-10-25 | 2024-03-02 |
 | [LWKY](https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/2WxToasDkI0DOskvErULto) | 3:14 | 2023-07-29 | 2023-08-09 |
 | [LWKY](https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC) | [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun), [SwKeith](https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b), [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF) | [LWKY](https://open.spotify.com/album/6DzQl3sVnvW7QlNwmQDlWE) | 3:14 | 2023-08-08 | 2023-12-01 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-23 |  |
@@ -788,6 +788,7 @@
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-11 | 2021-04-20 |
 | [You Got It](https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [For You](https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h) | 3:23 | 2021-03-27\* | 2021-04-09 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-24 |
+| [You'll Be Safe Here](https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [You'll Be Safe Here](https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG) | 5:04 | 2024-03-01 |  |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2023-06-04 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-23 |
 | [Your Song](https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4) | 2:48 | 2021-03-27\* | 2022-03-13 |

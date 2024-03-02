@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 102262,
+  "2024-03-02": 102329,
   "date_first_scraped": "2022-01-25",
   "description": "The calming space of Japanese Ambient and Environmental music. Masayoshi Fujita on cover.",
   "name": "Ambient Japan",
@@ -1073,6 +1073,24 @@
       "duration_ms": 227973,
       "name": "Energy Flow (Ki No Nagare)",
       "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
+    },
+    {
+      "album": {
+        "name": "Planetary Vision / \u60d1\u661f\u306e\u30d3\u30b8\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1K3cMdPAW2O4r7a8MzvtHd"
+      },
+      "artists": [
+        {
+          "name": "nubo",
+          "url": "https://open.spotify.com/artist/0RtoXCR1PcmkcM2iZ3d8L6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Esperanza / \u5e0c\u671b",
+      "url": "https://open.spotify.com/track/1DzMkx08Zq6aDDhsRDVnPb"
     },
     {
       "album": {

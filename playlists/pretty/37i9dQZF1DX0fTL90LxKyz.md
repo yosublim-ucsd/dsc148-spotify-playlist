@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,970 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,984 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 19 | [Corn](https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn) | [2smokeyy](https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2) | [Corn](https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8) | 3:21 |
 | 20 | [Commitment Issues](https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Commitment Issues](https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX) | 2:30 |
 | 21 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
-| 22 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
+| 22 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
 | 23 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
-| 24 | [Crep Shop](https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [SJ](https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Savage](https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH) | 3:20 |
+| 24 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
 | 25 | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW) | 2:39 |
 | 26 | [Ei8ht Mile \(feat\. Aitch\)](https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Ei8ht Mile](https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN) | 2:56 |
 | 27 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 43 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
 | 44 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
 | 45 | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/track/5TazMTxxEsLZMwnjjdb5t9) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/album/0CnIY05VI9uCGgZ8ufPXHS) | 2:59 |
-| 46 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
-| 47 | [Lagga](https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU) | 3:26 |
+| 46 | [Lagga](https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU) | 3:26 |
+| 47 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 | 48 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 49 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 | 50 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 
-Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`
+Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`

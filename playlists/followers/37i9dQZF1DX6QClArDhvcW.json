@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 105670,
+  "2024-03-02": 105770,
   "date_first_scraped": "2022-05-26",
   "description": "Laid-back beats for an easygoing morning.",
   "name": "Mellow Lofi Morning",
@@ -3389,7 +3389,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 139035,
       "name": "Hush",
       "url": "https://open.spotify.com/track/0oVdYE1SsrvUKvtzemXJQ9"
@@ -4639,6 +4639,24 @@
       "duration_ms": 223235,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4"
+    },
+    {
+      "album": {
+        "name": "marzipan shuffle",
+        "url": "https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "marzipan shuffle",
+      "url": "https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17"
     },
     {
       "album": {
@@ -6474,6 +6492,24 @@
     },
     {
       "album": {
+        "name": "rolling",
+        "url": "https://open.spotify.com/album/0LMHOwkYVvz59LiHohbFtj"
+      },
+      "artists": [
+        {
+          "name": "Collinsworthy",
+          "url": "https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128660,
+      "name": "rolling",
+      "url": "https://open.spotify.com/track/6b0G1mrrgS9isDGFnd8yCd"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/1JAaWsmBJkPF7pDS7nsUkt"
       },
@@ -7272,6 +7308,24 @@
     },
     {
       "album": {
+        "name": "spring is coming",
+        "url": "https://open.spotify.com/album/73luBiXIl3X7Gi3m1zskU7"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "spring is coming",
+      "url": "https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc"
+    },
+    {
+      "album": {
         "name": "Starfew Alley",
         "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
       },
@@ -7887,6 +7941,24 @@
       "duration_ms": 126951,
       "name": "Tall Grass",
       "url": "https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45"
+    },
+    {
+      "album": {
+        "name": "Tea",
+        "url": "https://open.spotify.com/album/2v9Ft3rcbvfKsnt8N0kSsK"
+      },
+      "artists": [
+        {
+          "name": "Osian Lewis",
+          "url": "https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130593,
+      "name": "Tea",
+      "url": "https://open.spotify.com/track/2a2Cu4OIJIhmlVCaSGkngS"
     },
     {
       "album": {

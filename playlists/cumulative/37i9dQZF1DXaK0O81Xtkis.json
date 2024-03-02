@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Audrey Nuna",
+  "description": "make it pop! cover: Yung Gravy & Jesse McCartney",
   "name": "soda",
   "tracks": [
+    {
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250595,
+      "name": "'Cause You Have To",
+      "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
+    },
     {
       "album": {
         "name": "100 boys",
@@ -74,7 +92,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165056,
       "name": "16",
       "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
@@ -2033,6 +2051,46 @@
     },
     {
       "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/63h57g2255TS4fojZzu63M"
+      },
+      "artists": [
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        },
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145894,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/2XKjhJbd57Jiqdy5SCZNWh"
+    },
+    {
+      "album": {
+        "name": "Can I Make You Jealous",
+        "url": "https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Can I Make You Jealous",
+      "url": "https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b"
+    },
+    {
+      "album": {
         "name": "Last Birthday",
         "url": "https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt"
       },
@@ -2156,6 +2214,24 @@
       "duration_ms": 219373,
       "name": "Capsize",
       "url": "https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm"
+    },
+    {
+      "album": {
+        "name": "Car Trouble",
+        "url": "https://open.spotify.com/album/72HCvZNzt1VB7QjqY1QYVV"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313343,
+      "name": "Car Trouble",
+      "url": "https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM"
     },
     {
       "album": {
@@ -3120,7 +3196,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158647,
       "name": "Dangerous Game",
       "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
@@ -3430,7 +3506,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197250,
       "name": "Different Lives",
       "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
@@ -6003,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
       },
@@ -6912,6 +7006,24 @@
       "duration_ms": 182658,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143346,
+      "name": "I Think You Should Go",
+      "url": "https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA"
     },
     {
       "album": {
@@ -7902,6 +8014,24 @@
       "duration_ms": 183873,
       "name": "Kismet",
       "url": "https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0Bg6ZeJaMHyGOALyRFbcyF"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181744,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/5lMrt5KYxHSwaOjTtJosLY"
     },
     {
       "album": {
@@ -9048,6 +9178,28 @@
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
+    },
+    {
+      "album": {
+        "name": "Make A Baby (feat. Yung Gravy)",
+        "url": "https://open.spotify.com/album/26jkS6OX6tUpVYFBYSugEW"
+      },
+      "artists": [
+        {
+          "name": "Jesse McCartney",
+          "url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130253,
+      "name": "Make A Baby (feat. Yung Gravy)",
+      "url": "https://open.spotify.com/track/37bFHkEAi61i9bNGBANB7B"
     },
     {
       "album": {
@@ -12872,7 +13024,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164783,
       "name": "Somewhere in Vegas",
       "url": "https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G"
@@ -13231,6 +13383,24 @@
     },
     {
       "album": {
+        "name": "Still Yours (From The Doc)",
+        "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158008,
+      "name": "Still Yours (From The Doc)",
+      "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
+    },
+    {
+      "album": {
         "name": "The Humid Summer",
         "url": "https://open.spotify.com/album/0CWif3WSQ1qKAiTyMYtNzz"
       },
@@ -13426,6 +13596,24 @@
       "duration_ms": 213976,
       "name": "Street You Live On",
       "url": "https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3"
+    },
+    {
+      "album": {
+        "name": "Stressed Out",
+        "url": "https://open.spotify.com/album/7nyspUQuLKsHDmz49P9Y50"
+      },
+      "artists": [
+        {
+          "name": "Calabasas",
+          "url": "https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/13NsokXoQWXEggE6c4yLd7"
     },
     {
       "album": {
@@ -15950,6 +16138,24 @@
       "duration_ms": 219266,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV"
+    },
+    {
+      "album": {
+        "name": "Wild Things",
+        "url": "https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Wild Things",
+      "url": "https://open.spotify.com/track/24HWZczGAczojNdUnupoo4"
     },
     {
       "album": {

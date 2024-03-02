@@ -1,13 +1,73 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 137025,
+  "num_followers": 137090,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2I4NTY5NTE0NDE5OTRkMGU5ZWEyYTNhMDg4OWVlYWVlYzg2MmJm",
+  "snapshot_id": "MCwzOTM0Y2IyN2I1ZGI1YzVmYTBlMzQ5OWI5ZmYxYzY0NmIxZGIyMjM2",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2uJBZSZBJIqHlvpzzTzXBu"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/54g0aYmHUeHrvJdtZRtnwT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "duration_ms": 206145,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0OX8m4MzzXlra5JQ9jTqi8"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Could We Be Whole",
+        "url": "https://open.spotify.com/album/0Zs5zKQsW2FFjfXtoyGmjk"
+      },
+      "artists": [
+        {
+          "name": "Afra Kane",
+          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
+        }
+      ],
+      "duration_ms": 242222,
+      "name": "Death in My Dreams",
+      "url": "https://open.spotify.com/track/0PvE4WhqyDQ3yNbG5moaZR"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
@@ -339,54 +399,6 @@
       "duration_ms": 248087,
       "name": "You're the Top",
       "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Lift Up",
-        "url": "https://open.spotify.com/album/2SWKzOtvhfK9tYwmwTvwk3"
-      },
-      "artists": [
-        {
-          "name": "Afra Kane",
-          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
-        }
-      ],
-      "duration_ms": 272589,
-      "name": "Lift Up",
-      "url": "https://open.spotify.com/track/1tJZ9m3sh63N6A1FVrFogr"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/4MmAnWcCqMKw1NUjpnkRSI"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 269294,
-      "name": "Illumination",
-      "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
     },
     {
       "added_at": "2024-01-19 05:01:00",
@@ -1651,22 +1663,6 @@
       "duration_ms": 285602,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Earthenya",
-        "url": "https://open.spotify.com/album/7nZZUnGI8D3Db6q5GwCJk5"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 242480,
-      "name": "Don't Be Mean",
-      "url": "https://open.spotify.com/track/4nQWn8Xz3cjaQgZUTA9NqL"
     },
     {
       "added_at": "2022-10-28 04:01:00",

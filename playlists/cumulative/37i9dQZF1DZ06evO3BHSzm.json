@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Live At Leeds (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Fortune Teller - Live",
+      "url": "https://open.spotify.com/track/1p33A9znBatARO8KI0cLPS"
+    },
+    {
+      "album": {
         "name": "Quadrophenia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02qpXPd0YbBzTp6Aro9Rs4"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 129880,
       "name": "I Am The Sea",
       "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/164fXVq2STSUorItsuHg6o"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"

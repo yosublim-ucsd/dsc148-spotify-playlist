@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-620 songs - 1 day 4 hr 22 min
+621 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 | 2022-08-13 |
 | [Sunday](https://open.spotify.com/track/1xC8KNH4EqU5BLB8SPRy9m) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Sunday](https://open.spotify.com/album/6WKLcyxc89SFBuHWNPVky4) | 3:32 | 2021-11-16 | 2022-02-26 |
 | [Sunday In Soho](https://open.spotify.com/track/3lLiqdaYoNwxN0TQjlPv9b) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [NYC Summer Pack '23](https://open.spotify.com/album/6n85sHJDfGLkxapcmYgSW5) | 2:46 | 2023-08-18 |  |
+| [sunfalls pm](https://open.spotify.com/track/0u4pHpK3WcNR8hBft7FSpM) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [sunfalls \(am + pm\)](https://open.spotify.com/album/0JImpPCrD21mUTA3uXcKsH) | 3:36 | 2024-03-01 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-04-06 | 2022-06-11 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-03 | 2022-10-15 |
 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2022-04-11 | 2022-08-09 |

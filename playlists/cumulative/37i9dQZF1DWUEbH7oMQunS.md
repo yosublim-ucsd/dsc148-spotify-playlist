@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-152 songs - 10 hr 31 min
+153 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All Is Not Lost](https://open.spotify.com/track/1hxWqVqA9w1a8RiNgiU03u) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/0yqtrHyclhTchWJPvK3XvO) | 3:48 | 2018-02-14 | 2023-07-29 |
 | [All Is Not Lost](https://open.spotify.com/track/5RGTm1UzGhSuNAkrq1XIrA) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 3:48 | 2018-02-14 | 2022-07-29 |
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2023-07-28 |  |
-| [Anchor](https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [Anchor](https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG) | 5:01 | 2023-07-28 |  |
+| [Anchor](https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [Anchor](https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG) | 5:01 | 2023-07-28 | 2024-03-02 |
 | [Anthem](https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4) | 5:46 | 2023-07-28 |  |
 | [Be Kind To Yourself](https://open.spotify.com/track/1wGT5V8UDHe2Hd4UU9YFuM) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [The Burning Edge Of Dawn](https://open.spotify.com/album/4entt8rqr2zBv3UyyhnTsc) | 2:44 | 2018-02-14 | 2022-07-29 |
 | [Be Kind to Yourself](https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [The Burning Edge of Dawn](https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW) | 2:44 | 2018-02-14 |  |
@@ -46,6 +46,7 @@
 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 | 2023-07-28 |  |
 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 | 2018-02-14 |  |
 | [Faith Fall \- pensive piano](https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:18 | 2023-07-28 | 2024-02-05 |
+| [Faith Fall \- pensive piano](https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8) | 4:18 | 2023-07-28 |  |
 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 | 2023-07-28 |  |
 | [For the One \(Instrumental\)](https://open.spotify.com/track/5lIzS6ZG36fw5LK6pDri7R) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/3oeoGMDFnsw8FCnQuIghpx) | 4:01 | 2018-02-14 | 2022-07-29 |
 | [For The One \- Instrumental](https://open.spotify.com/track/7ph250c2s06TIsL18QceuA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 4:01 | 2018-02-14 |  |
@@ -71,11 +72,11 @@
 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 | 2018-02-14 | 2023-07-29 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-07-28 |  |
 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 | 2023-07-28 |  |
-| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 | 2024-02-26 |
+| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 |  |
 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 | 2018-02-14 |  |
 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 | 2023-07-28 |  |
 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 | 2023-07-28 |  |
-| [I Won't Let Go](https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn) | 3:52 | 2023-07-28 |  |
+| [I Won't Let Go](https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won't Let Go](https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn) | 3:52 | 2023-07-28 | 2024-03-02 |
 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 | 2018-02-14 |  |
 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 | 2018-02-14 |  |
 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 | 2023-07-28 |  |

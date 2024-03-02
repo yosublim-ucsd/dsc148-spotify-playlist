@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: goddard., Cat Burns
 
-559 songs - 1 day 5 hr 23 min
+560 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,8 @@
 | [We Ain't Here For Long](https://open.spotify.com/track/427747J57kLmFjqk7PZrpp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9) | 2:55 | 2024-02-02 |  |
 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-02-02 | 2024-02-03 |
 | [We Come 1](https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [We Come 1](https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW) | 2:58 | 2021-12-17 | 2022-04-29 |
-| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-03-01 |  |
+| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-03-01 | 2024-03-02 |
+| [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-01 |  |
 | [Weekend](https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA) | [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Weekend](https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF) | 2:50 | 2021-11-03\* | 2021-11-05 |
 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-02-24 | 2023-06-23 |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 | 2023-01-27 | 2023-03-25 |

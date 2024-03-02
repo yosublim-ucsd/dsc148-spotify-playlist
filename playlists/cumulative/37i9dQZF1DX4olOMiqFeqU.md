@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: KZ Tandingan
+> 100% Pinoy hits from your favorite artists! Cover: Up Dharma Down
 
 141 songs - 10 hr 15 min
 

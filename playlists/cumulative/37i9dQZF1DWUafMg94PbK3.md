@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-109 songs - 3 hr 48 min
+111 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,9 @@
 | [Freight Train](https://open.spotify.com/track/0ZNnVSjkU5TycXwvbJjC6X) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Flower](https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG) | 2:58 | 2019-10-29 |  |
 | [Freight Train Boogie/Choo Choo Ch'Boogie](https://open.spotify.com/track/1lQ0L938tQgoNQxjxoBpQm) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [All Aboard!](https://open.spotify.com/album/75ChgvAlfFOk9145qwMzD6) | 2:43 | 2019-10-29 |  |
 | [Go, Fire Truck, Go](https://open.spotify.com/track/5w1H9AcQAUrxCRaILcW9Iw) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Smile in My Heart](https://open.spotify.com/album/4dYhbLticgz5Q4AWigzVSH) | 2:29 | 2019-10-29 |  |
+| [I Love My Garbage Truck](https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love My Garbage Truck](https://open.spotify.com/album/6Hij9YO3vsLCiNuO38woCm) | 2:46 | 2024-03-01 |  |
 | [Let's Go For a Ride](https://open.spotify.com/track/5PubI4gBAyms9yfChFjMP2) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing In the Car](https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM) | 1:14 | 2019-10-29 |  |
+| [Let’s Drive \- Acoustic](https://open.spotify.com/track/7xAPNbxoHpksH9tfVe0OAB) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Acoustic Adventures](https://open.spotify.com/album/4rYU8RoFHKio4aHeCYCzUb) | 2:43 | 2024-03-01 |  |
 | [Listen to My Motorcycle](https://open.spotify.com/track/73yF5Be9XySlc0g89WoUbt) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing In the Car](https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM) | 2:01 | 2019-10-29 |  |
 | [Little Broken Truck](https://open.spotify.com/track/6xjbHJOvjGR1gO1DKysKTZ) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:59 | 2023-11-08 |  |
 | [Little Red Caboose](https://open.spotify.com/track/08W5oVrQo75y6wd15SHvhp) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 2:23 | 2019-10-29 |  |

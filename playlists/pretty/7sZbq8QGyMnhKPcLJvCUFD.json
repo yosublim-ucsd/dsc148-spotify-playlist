@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 742042,
+  "num_followers": 742045,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTU5NSwwY2ZiNGZkNGQ1ZDA0NmU5YmMyOTgwZDFlNzc1MzkzYzhkY2YwOGVk",
+  "snapshot_id": "NTU5OSw2NWZkMDM1YWZlNDMyZGFmMTFlMDVmMWFiMjgzZGJkMTBmNzk5ZGMz",
   "tracks": [
     {
       "added_at": "2024-02-27 10:19:23",
@@ -141,6 +141,50 @@
       "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
     },
     {
+      "added_at": "2024-03-01 10:22:00",
+      "album": {
+        "name": "Got A Feeling",
+        "url": "https://open.spotify.com/album/6MjM00oS1aMPvQcbppe89q"
+      },
+      "artists": [
+        {
+          "name": "Raul Ojamaa",
+          "url": "https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Soundy",
+          "url": "https://open.spotify.com/artist/2NnFxf6CSfa5tjPSOymEiY"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Got A Feeling",
+      "url": "https://open.spotify.com/track/3LgEiXnBZGyhBFcoyG5Hql"
+    },
+    {
+      "added_at": "2024-03-01 10:22:16",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0"
+    },
+    {
       "added_at": "2024-02-29 10:15:47",
       "album": {
         "name": "Move Your Body",
@@ -201,7 +245,7 @@
       "artists": [
         {
           "name": "sumu",
-          "url": "https://open.spotify.com/artist/0SkJYSbgi7TLXTShixp1AF"
+          "url": "https://open.spotify.com/artist/3VJrstLqhMNsvGJ7wpScsB"
         }
       ],
       "duration_ms": 142236,
@@ -1871,42 +1915,6 @@
       "duration_ms": 134404,
       "name": "Pill",
       "url": "https://open.spotify.com/track/2e3wKwNMrYIvMgAS484EXQ"
-    },
-    {
-      "added_at": "2024-02-27 10:19:23",
-      "album": {
-        "name": "Dreams pt. II",
-        "url": "https://open.spotify.com/album/3STuD6KaHYbv2OX6cRlj2Y"
-      },
-      "artists": [
-        {
-          "name": "Sara Skinner",
-          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
-        },
-        {
-          "name": "Lost Sky",
-          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "Dreams pt. II",
-      "url": "https://open.spotify.com/track/7kaux342y0B446JgJgojAi"
-    },
-    {
-      "added_at": "2024-02-27 10:19:23",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP"
-      },
-      "artists": [
-        {
-          "name": "Diamond Eyes",
-          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH"
     }
   ],
   "unique_name": "NCS Releases",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,585 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,652 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 24 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
 | 25 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 |
 | 26 | [Amor de Fim de Noite](https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Amor de Fim de Noite](https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM) | 3:41 |
-| 27 | [Respeitada](https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Respeitada](https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz) | 2:20 |
-| 28 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
+| 27 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
+| 28 | [Respeitada](https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Respeitada](https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz) | 2:20 |
 | 29 | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy) | 3:54 |
 | 30 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 31 | [Sagitário](https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCwzMTE3ZWJkNjU5ODllYjcxYTAzY2E3MDU0NGJlZjA1NDhmYzJiYzE4`
+Snapshot ID: `MCwzN2NmNGVjMDJjZTFmY2M1NDFkNzQ5MzIzMzMyNGRlNDM0ZTI1NjE1`

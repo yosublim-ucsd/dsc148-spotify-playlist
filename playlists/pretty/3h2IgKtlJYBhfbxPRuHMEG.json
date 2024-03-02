@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "ODk0LDEzYzAyNDdmNmNmNGI4YjJlN2I3OTQ0M2ZjODE2MDljYTRkMjYzZmU=",
+  "snapshot_id": "ODk3LGFlMzczM2JjNWMzZWU0ZTNmODdmZDM1MTMwNTIxYjc5Mjk0MGE5MjA=",
   "tracks": [
     {
       "added_at": "2024-02-26 06:31:16",
@@ -155,6 +155,26 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2024-03-01 14:35:55",
+      "album": {
+        "name": "Everywhere, Nowhere",
+        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Everywhere, Nowhere",
+      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
     },
     {
       "added_at": "2024-02-26 06:31:16",
@@ -1951,22 +1971,6 @@
       "duration_ms": 207179,
       "name": "Alive - One True God Remix",
       "url": "https://open.spotify.com/track/72B9xPjLnAYyigLEgy1Z2E"
-    },
-    {
-      "added_at": "2024-02-26 06:31:16",
-      "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm"
-      },
-      "artists": [
-        {
-          "name": "LOthief",
-          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
-        }
-      ],
-      "duration_ms": 175039,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4"
     }
   ],
   "unique_name": "Bass Drop",

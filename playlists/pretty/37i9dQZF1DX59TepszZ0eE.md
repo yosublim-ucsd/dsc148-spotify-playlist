@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg?si=I0rZSdqUTwKrOF49ctEZzQ">Thinah Zungu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,205 likes - 94 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,339 likes - 94 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 93 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 |
 | 94 | [Ukholo](https://open.spotify.com/track/6XXwIEbcmh6IKl1qGd3J5i) | [Asanda Mqiki](https://open.spotify.com/artist/0778udtHEQ5T3HZQEDelAf), [StussyV](https://open.spotify.com/artist/3CAwqYTdNKxX52nrkSf52s), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Nonka](https://open.spotify.com/artist/7owh85VxGfhYd41wHZ9nZA), [DJ GHETTO HD](https://open.spotify.com/artist/21B7fICxbXLlcfr3Es8jiS) | [Ukholo](https://open.spotify.com/album/2Io8Y6e1kUIcn4mYL1dfLq) | 5:53 |
 
-Snapshot ID: `MCxkNDQzYjkzZTE4YTExZDVmOWQ1MzQ4ZGU4ZjA3MzA3Zjc3NzYxNzll`
+Snapshot ID: `MCw2ZjJhMDkzOWM5ZTA1YzQ0OWFiZGQwMTljNDhmZTY3NGIxYWM4YTQy`

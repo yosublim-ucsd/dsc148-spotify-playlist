@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 75307,
+  "num_followers": 75374,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh",
+  "snapshot_id": "MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -975,54 +975,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Good Luck (Deluxe)",
         "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
       },
@@ -1043,6 +995,54 @@
       "duration_ms": 120754,
       "name": "Drama",
       "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
+    },
+    {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2023-04-27 17:13:18",

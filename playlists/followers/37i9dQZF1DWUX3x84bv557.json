@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 161492,
+  "2024-03-02": 161538,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Sterre Koning",
+  "description": "De nieuwste Nederlandse pop! Cover: MEAU",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 171496,
       "name": "1 Laatste Keer",
       "url": "https://open.spotify.com/track/5dRfb6MQJmJyO6jsstRekk"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 143520,
       "name": "Achterna",
       "url": "https://open.spotify.com/track/7uPCo7TJUYlMICfuCavnCf"
@@ -2786,6 +2786,24 @@
     },
     {
       "album": {
+        "name": "Achtentwintig (Deluxe)",
+        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "Een Beatle & Een Stone",
+      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
+    },
+    {
+      "album": {
         "name": "Een Beetje Meer",
         "url": "https://open.spotify.com/album/0LjN6nmQuz6bQEHTlFIKfz"
       },
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 108489,
       "name": "Friemelen",
       "url": "https://open.spotify.com/track/2dkw6pe4LbTcJCxlxfsXvW"
@@ -4714,6 +4732,24 @@
     },
     {
       "album": {
+        "name": "Keuzestress",
+        "url": "https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI"
+      },
+      "artists": [
+        {
+          "name": "Raffie",
+          "url": "https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146353,
+      "name": "Keuzestress",
+      "url": "https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk"
+    },
+    {
+      "album": {
         "name": "Kleine Versie Van Mezelf",
         "url": "https://open.spotify.com/album/1ThUqYsEZVmnRVHbppBVlD"
       },
@@ -4841,10 +4877,32 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 188615,
       "name": "Kompas",
       "url": "https://open.spotify.com/track/00B3jzuH5ezYsmBKwcps1Z"
+    },
+    {
+      "album": {
+        "name": "Kompas (Remix)",
+        "url": "https://open.spotify.com/album/29m3Yx0KifqeneeAsJhL0t"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260719,
+      "name": "Kompas (feat. Big2) - Remix",
+      "url": "https://open.spotify.com/track/2wlpAUC0iE1oHzhg53TS1r"
     },
     {
       "album": {
@@ -4895,7 +4953,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 168648,
       "name": "KROKODILLENTRANEN",
       "url": "https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq"
@@ -5137,6 +5195,24 @@
       "duration_ms": 196744,
       "name": "Leef je in mij",
       "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
+    },
+    {
+      "album": {
+        "name": "Leef Voor Jou",
+        "url": "https://open.spotify.com/album/40VYAQu0QepzzAY2T1583p"
+      },
+      "artists": [
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Leef Voor Jou",
+      "url": "https://open.spotify.com/track/26y0nE6nSpkFjT5Vvh2ikk"
     },
     {
       "album": {
@@ -5956,6 +6032,24 @@
     },
     {
       "album": {
+        "name": "Natte Sokken",
+        "url": "https://open.spotify.com/album/63SdwuBDCszhla1DrW7pVh"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163706,
+      "name": "Natte Sokken",
+      "url": "https://open.spotify.com/track/0r7OKtASHgUrcN729hlyGG"
+    },
+    {
+      "album": {
         "name": "Neem Mij",
         "url": "https://open.spotify.com/album/6cGT8wGuB8BN8o2qgla1uI"
       },
@@ -6206,6 +6300,24 @@
     },
     {
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150692,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1FYiqklLsEiJverppEP8mQ"
       },
@@ -6359,6 +6471,24 @@
       "duration_ms": 182765,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/5M6Qu1tI5iwJMmgFPgRtpo"
+    },
+    {
+      "album": {
+        "name": "OCS",
+        "url": "https://open.spotify.com/album/0jYO15I8jUvT1wd0P2Peox"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182615,
+      "name": "OCS",
+      "url": "https://open.spotify.com/track/0OT029FXpgs7mQRJm8B3wX"
     },
     {
       "album": {
@@ -8317,7 +8447,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 144079,
       "name": "Versta Je Mij?",
       "url": "https://open.spotify.com/track/4FUuuk2Rh4HaSUdCSCiguc"
@@ -8933,7 +9063,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152730,
       "name": "We Hebben De Tijd",
       "url": "https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq"

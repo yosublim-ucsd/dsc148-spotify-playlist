@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 139034,
       "name": "DISRESPECT",
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
@@ -4557,6 +4557,28 @@
     },
     {
       "album": {
+        "name": "ESCARGOT",
+        "url": "https://open.spotify.com/album/5fqrGMXNf06aWpvMIqhOl3"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202741,
+      "name": "ESCARGOT",
+      "url": "https://open.spotify.com/track/1ZbA2N0ryptdKbykwia2MB"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7studplTabJKP4R2wdVs5b"
       },
@@ -4704,6 +4726,28 @@
       "duration_ms": 151200,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/2DRIlKYPYCa1SQTG14k3h5"
+    },
+    {
+      "album": {
+        "name": "Everywhere, Nowhere",
+        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Everywhere, Nowhere",
+      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
     },
     {
       "album": {
@@ -5518,10 +5562,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 135000,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
+    },
+    {
+      "album": {
+        "name": "Flip It (Tape B Remix)",
+        "url": "https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187916,
+      "name": "Flip It - Tape B Remix",
+      "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
     },
     {
       "album": {
@@ -6026,7 +6096,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 230400,
       "name": "Ghosts 'n' Stuff (feat. Rob Swire) [Jauz Remix]",
       "url": "https://open.spotify.com/track/70vjXI7oBou5buTtgiJeRW"
@@ -7260,7 +7330,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198400,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS"
@@ -8933,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "DECEIVER",
+        "url": "https://open.spotify.com/album/18aOMxqx37HVyuUDOJYV7T"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167172,
+      "name": "MASTA",
+      "url": "https://open.spotify.com/track/3KvBYFD1jaPKWLS0koRK6F"
+    },
+    {
+      "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
         "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
       },
@@ -9176,7 +9264,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198000,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
@@ -9556,6 +9644,28 @@
       "duration_ms": 192004,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
+    },
+    {
+      "album": {
+        "name": "MUCHO CA$H",
+        "url": "https://open.spotify.com/album/3x1tILuV6U0qGu9W2OMQfU"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "ARTIX!",
+          "url": "https://open.spotify.com/artist/2d7Oro82tVznMBYXDoGiHy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "MUCHO CA$H",
+      "url": "https://open.spotify.com/track/1rIV5uMuZHc2PZhN59o5KL"
     },
     {
       "album": {
@@ -10844,7 +10954,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 316734,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
@@ -11302,6 +11412,28 @@
       "duration_ms": 195862,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
+    },
+    {
+      "album": {
+        "name": "Popstar shit.",
+        "url": "https://open.spotify.com/album/5KwIGTyonaPG0pihilRpKs"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128315,
+      "name": "Popstar shit.",
+      "url": "https://open.spotify.com/track/7tJSmCD9SaZdJZqqO1ezVK"
     },
     {
       "album": {
@@ -12827,6 +12959,24 @@
     },
     {
       "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "album": {
         "name": "UNIVERSE",
         "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
       },
@@ -13202,7 +13352,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163862,
       "name": "SHELLSHOCK",
       "url": "https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux"
@@ -13734,7 +13884,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222315,
       "name": "Smoak & Sip",
       "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
@@ -14998,6 +15148,32 @@
       "duration_ms": 288000,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J"
+    },
+    {
+      "album": {
+        "name": "Thrilla",
+        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Thrilla",
+      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
     },
     {
       "album": {

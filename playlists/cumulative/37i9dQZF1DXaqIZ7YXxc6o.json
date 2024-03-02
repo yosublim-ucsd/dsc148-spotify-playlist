@@ -11698,10 +11698,40 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183553,
       "name": "Everything You Do",
       "url": "https://open.spotify.com/track/5QvcIzVFohVArFMYUWx1Xu"
+    },
+    {
+      "album": {
+        "name": "Everything You Do (feat. Aviella)",
+        "url": "https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183553,
+      "name": "Everything You Do (feat. Aviella)",
+      "url": "https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0"
     },
     {
       "album": {

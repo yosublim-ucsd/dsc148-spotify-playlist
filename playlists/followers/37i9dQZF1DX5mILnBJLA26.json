@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 696561,
+  "2024-03-02": 697680,
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=HjgQyN90Symde1hjBYVFIA\">Tito M</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=mqi_Wtu4S-6hG_nVj3fxJQ\">Masterpiece YVK</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -9230,6 +9230,32 @@
     },
     {
       "album": {
+        "name": "Hade Boss",
+        "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382334,
+      "name": "Hade Boss",
+      "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
+    },
+    {
+      "album": {
         "name": "Black Is Brown Compilation Vol 1",
         "url": "https://open.spotify.com/album/4wcOY7j43CYQY92C2LB2vm"
       },
@@ -15729,7 +15755,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 387000,
       "name": "Mabadle Basuthe (feat. L4Desh 55, Mo Tee)",
       "url": "https://open.spotify.com/track/6AkgWL6X4GW8ds0h9z3Fs4"
@@ -20159,7 +20185,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 378231,
       "name": "Nomayini (feat. Pcee, Justin99, Vigro Deep)",
       "url": "https://open.spotify.com/track/68PmraC29iUUKIOXUCn6Wo"
@@ -20763,7 +20789,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -27163,7 +27189,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 347024,
       "name": "Tsetse (feat. Nobantu Vilakazi & Kay Invictus)",
       "url": "https://open.spotify.com/track/1Dn9OdLc4OLfqovkABmk1M"
@@ -28869,6 +28895,40 @@
       "duration_ms": 385753,
       "name": "uShaka (feat. DJ Maphorisa & Visca)",
       "url": "https://open.spotify.com/track/0V2KZRWQ0KIUrgScO3UHyC"
+    },
+    {
+      "album": {
+        "name": "ushuni we nkandla (feat. Ice Beats Slide, Shakes & Les, Xduppy)",
+        "url": "https://open.spotify.com/album/2p3NPamVZbBw2rKWUW5kM8"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254867,
+      "name": "ushuni we nkandla (feat. Ice Beats Slide, Shakes & Les, Xduppy)",
+      "url": "https://open.spotify.com/track/76AanbSwEBrdhUinhToox0"
     },
     {
       "album": {
@@ -30646,6 +30706,36 @@
     },
     {
       "album": {
+        "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
+        "url": "https://open.spotify.com/album/3BvOvAOOLfKeU0gJyXNzAL"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365348,
+      "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
+      "url": "https://open.spotify.com/track/3EFj3mNL6FTSEpW2cIMzr7"
+    },
+    {
+      "album": {
         "name": "WOZAAAA",
         "url": "https://open.spotify.com/album/1gOFVFiS1y9OBVTYb4kPzy"
       },
@@ -31543,6 +31633,32 @@
       "duration_ms": 416182,
       "name": "ZULU (feat. AMAQHAWE, Philharmonic)",
       "url": "https://open.spotify.com/track/480PlMmJsQaL821M8xBNxj"
+    },
+    {
+      "album": {
+        "name": "Zuma",
+        "url": "https://open.spotify.com/album/2VQ0AexUtZvCgP7pmGKzGQ"
+      },
+      "artists": [
+        {
+          "name": "Titow",
+          "url": "https://open.spotify.com/artist/5OqaeUQvohTvam0iZNrA1b"
+        },
+        {
+          "name": "Blaqnick",
+          "url": "https://open.spotify.com/artist/6mi1DugrOth9lEeED3585h"
+        },
+        {
+          "name": "MasterBlaq",
+          "url": "https://open.spotify.com/artist/11NLDYp0N1RGqB3NS0SpAQ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Zuma",
+      "url": "https://open.spotify.com/track/5RuDEpp78SOAjP9jNCgVOY"
     },
     {
       "album": {

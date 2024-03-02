@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 487466,
       "name": "A Song Of Consecration",
       "url": "https://open.spotify.com/track/6JW5aVzdVz3rrSWUPk4thb"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 138493,
       "name": "Be Encouraged (Reprise)",
       "url": "https://open.spotify.com/track/4XCUTVp0xXfeOPzg7rqopS"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 355133,
       "name": "Conqueror",
       "url": "https://open.spotify.com/track/5doYz4avUUwBKsW7yFiJ6e"
@@ -3116,13 +3116,13 @@
           "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
         },
         {
-          "name": "MaKenzie Thomas",
+          "name": "Makenzie",
           "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
         }
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 237558,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/5OdF9NAO3BZw2DuYwnPjEu"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 646452,
       "name": "Deposit a Praise (Praise Break)",
       "url": "https://open.spotify.com/track/4ijYpZc63nrLeJE8yxSCJh"
@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 298613,
       "name": "Falling In Love With Jesus - Falling In Love With Jesus Album Version",
       "url": "https://open.spotify.com/track/2fNOP2r6yPyVsz1AyHmQKQ"
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 217266,
       "name": "For Every Mountain",
       "url": "https://open.spotify.com/track/17cFuLzgfPq02TLl7Jxexz"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 280813,
       "name": "For My Good",
       "url": "https://open.spotify.com/track/7uDxIXBU3gs6gh7rgSJveu"
@@ -7557,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/7wueq9pnnfjd0SM0SYkfTL"
+      },
+      "artists": [
+        {
+          "name": "Amber Bullock",
+          "url": "https://open.spotify.com/artist/2UM3duwCMBDd8EykmBNOjw"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287440,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/5XdxcgjXBWCljyhkOMVuJ5"
+    },
+    {
+      "album": {
         "name": "Right Now Praise",
         "url": "https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox"
       },
@@ -7658,7 +7676,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 288253,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/6QPvpe1V68qwu90iCjGFkS"
@@ -8168,7 +8186,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 225360,
       "name": "I Want To Go Back",
       "url": "https://open.spotify.com/track/1qmcbom1kTMFHkcpazAz9k"
@@ -8978,7 +8996,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 257160,
       "name": "I Will Lift",
       "url": "https://open.spotify.com/track/3qwvCYNN6blUuGWjkIyqub"
@@ -10234,7 +10252,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 314000,
       "name": "It's All About The Love",
       "url": "https://open.spotify.com/track/6GydRV8qXZoxsNDchsdUoM"
@@ -11296,7 +11314,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 332967,
       "name": "Keep on Lovin'",
       "url": "https://open.spotify.com/track/1q9G0obfJ0wkFFoYQv03Vm"
@@ -11840,7 +11858,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 395773,
       "name": "Let There Be Worship",
       "url": "https://open.spotify.com/track/1UrX7fWszGdu9kfAz2El1f"
@@ -12042,7 +12060,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 451960,
       "name": "Like the Dew",
       "url": "https://open.spotify.com/track/6MCrT0ktcFGVslf2mu60hM"
@@ -12390,7 +12408,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 213620,
       "name": "Lord You've Been So Good",
       "url": "https://open.spotify.com/track/0gfAAOR1L26gMdZDRzutR2"
@@ -13092,7 +13110,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 399453,
       "name": "Matthew 28 - Live",
       "url": "https://open.spotify.com/track/4A9m4y9my6sC8ELYkzkLsL"
@@ -13230,7 +13248,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 156026,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1vqzSOlthX17HAs2A8kSEP"
@@ -14182,7 +14200,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 289865,
       "name": "New Season",
       "url": "https://open.spotify.com/track/5q4x7oitrm8GmKnOi1opVM"
@@ -14862,7 +14880,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 320758,
       "name": "Oh Lord, How Excellent - The Almighty Reigns",
       "url": "https://open.spotify.com/track/3jCRqfJdMnS5xTVpMXFo4B"
@@ -16350,7 +16368,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 223396,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5YpUWchb0Zs9Rkp3lvgEAY"
@@ -19210,7 +19228,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 324846,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/7AUJstddkR4IDwfqmOAbrW"
@@ -19914,7 +19932,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 294429,
       "name": "There Is Nothing Too Hard - Confessions Album Version",
       "url": "https://open.spotify.com/track/18Yb3UpPQuOq258C84WWBv"
@@ -20012,7 +20030,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242164,
       "name": "There's a Liftin' of the Hand",
       "url": "https://open.spotify.com/track/6Z2Q8F5Gak3TNorphsfcHM"
@@ -21526,7 +21544,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 320880,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/3AFgJ9JMBjlaaf7JCCA5mQ"
@@ -21960,7 +21978,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 237960,
       "name": "Yes",
       "url": "https://open.spotify.com/track/0yUncqoqCfm90nrEKZqOnY"
@@ -22252,7 +22270,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 259773,
       "name": "You Can Do Anything",
       "url": "https://open.spotify.com/track/5zh18MhMFcoAUioTl7N1V2"
@@ -22506,6 +22524,24 @@
       "duration_ms": 363506,
       "name": "You've Been So Faithful",
       "url": "https://open.spotify.com/track/5ZCc20XaRoEFD7xX3OPPNI"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0tiwPI10fqh07LoJ8kp3PM"
+      },
+      "artists": [
+        {
+          "name": "Ted & Sheri",
+          "url": "https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314317,
+      "name": "You've Been So Faithful",
+      "url": "https://open.spotify.com/track/0H89HO8y5SGpKpStfQkJio"
     },
     {
       "album": {

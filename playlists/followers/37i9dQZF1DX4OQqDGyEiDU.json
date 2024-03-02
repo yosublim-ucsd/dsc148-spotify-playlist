@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 82482,
+  "2024-03-02": 82505,
   "date_first_scraped": "2022-06-10",
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
   "name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "\u5408\u6210\u97f3\u58f0\u306e\u3086\u304f\u3048",
+        "url": "https://open.spotify.com/album/56MxEyfwqVtc4UNU8CXnGc"
+      },
+      "artists": [
+        {
+          "name": "\u99c4\u83d3\u5b50O\u578b",
+          "url": "https://open.spotify.com/artist/3v0sEP3ZPLu44oJ0Bkyi6p"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270853,
+      "name": "Achikochi Date-San",
+      "url": "https://open.spotify.com/track/08M1MGRfhfGj9XRdZKswYl"
+    },
+    {
+      "album": {
         "name": "Ai no Sukima",
         "url": "https://open.spotify.com/album/2vSPw6zQcdOEE7QBbbs31V"
       },
@@ -333,7 +351,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173397,
       "name": "Anoryuuwoutsutoiunonara",
       "url": "https://open.spotify.com/track/3XsCn2Ascsnj7iPvvH1YkQ"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 155918,
       "name": "Isn't it \"A\"",
       "url": "https://open.spotify.com/track/7Evl7RsunnFMwlKWviDtk9"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 234733,
       "name": "Kagerou Days",
       "url": "https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 208991,
       "name": "Non-breath oblige",
       "url": "https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
@@ -3123,7 +3141,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 178235,
       "name": "The Vampire",
       "url": "https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2"
@@ -3518,6 +3536,32 @@
     },
     {
       "album": {
+        "name": "Zunda Takoya-ki",
+        "url": "https://open.spotify.com/album/3B0OvRWGC1mkEiowGQpYWd"
+      },
+      "artists": [
+        {
+          "name": "namigroove",
+          "url": "https://open.spotify.com/artist/2t7wKLcqZ08LwQXmBS2OOL"
+        },
+        {
+          "name": "Zundamon",
+          "url": "https://open.spotify.com/artist/4h7vIVbBIGc5hHeKdha5tc"
+        },
+        {
+          "name": "Kotonoha Akane&Aoi",
+          "url": "https://open.spotify.com/artist/189nnOOUOklQ7FlgB52Gad"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Zunda Takoya-ki",
+      "url": "https://open.spotify.com/track/6EweBKjbAYyefCTzKFobZ2"
+    },
+    {
+      "album": {
         "name": "\u300e\u00b10\u300f",
         "url": "https://open.spotify.com/album/0TwJtdrGXBbFs8zhKkp8b6"
       },
@@ -3671,7 +3715,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 163000,
       "name": "\u3046\u3089\u3084\u307f\u3057\u3044 - feat. Kai,\u521d\u97f3\u30df\u30af,\u53ef\u4e0d",
       "url": "https://open.spotify.com/track/0m5i8xeVVUeDs3m3A2V6es"
@@ -4141,7 +4185,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 167875,
       "name": "\u3072\u3085\uff5e\u3069\u308d\u3069\u308d (feat. \u521d\u97f3\u30df\u30af&MEIKO)",
       "url": "https://open.spotify.com/track/1JQ4r5WyaSzOFGHR40RwPY"
@@ -5711,7 +5755,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 183670,
       "name": "\u30bf\u30af\u30b7\u30a3",
       "url": "https://open.spotify.com/track/0kREG8eHSj3TCSck77AMnf"
@@ -8550,6 +8594,24 @@
     },
     {
       "album": {
+        "name": "\u53ef\u4e0d\u30a7\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/6yOcFTQoDPXMNC1149PTmx"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152846,
+      "name": "\u53ef\u4e0d\u30a7\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/5ymC9IssJM5v6cRjpTtbPS"
+    },
+    {
+      "album": {
         "name": "\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui"
       },
@@ -10347,7 +10409,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"

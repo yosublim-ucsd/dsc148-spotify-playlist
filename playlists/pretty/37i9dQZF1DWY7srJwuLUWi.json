@@ -1,12 +1,12 @@
 {
   "description": "Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL (MBC \ub4dc\ub77c\ub9c8 \uae08\uc218\uc800\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uacfc \ubc30\uc6b0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \ubf51\uc740 '\uae08\uc218\uc800\uac00 \ub418\uae30 \uc704\ud55c \uc57c\ub9dd & \uac10\uc131\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4'\uc744 \ub4e4\uc5b4\ubcf4\uc138\uc694!) \uc74c\uc6d0\uc81c\uc791\uc0ac: SLL",
-  "num_followers": 1945,
+  "num_followers": 1943,
   "original_name": "The Golden Spoon (\uae08\uc218\uc800)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY1Y2RiOTI2NjdiMzgyMDgxNDFlOGU1Nzc4NjA2ZmQ2NTliMGEx",
+  "snapshot_id": "MCw4NzgwMTNhNTIwZDk1NDQ3OWUwNDY5MGEwNDZkNzQyNmZiMTUzMjM5",
   "tracks": [
     {
       "added_at": "2022-11-14 07:37:31",
@@ -459,18 +459,30 @@
     {
       "added_at": "2022-11-14 07:37:31",
       "album": {
-        "name": "remember Remix",
-        "url": "https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG"
+        "name": "remember (with Chin, Uneducated Kid, Paul Blanco) [Remix]",
+        "url": "https://open.spotify.com/album/5CH8EJvrAdC2DQgyySCNiU"
       },
       "artists": [
         {
           "name": "Royal 44",
           "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
       "duration_ms": 223853,
-      "name": "remember Remix (with Chin, Uneducated Kid, Paul Blanco)",
-      "url": "https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX"
+      "name": "remember (with Chin, Uneducated Kid, Paul Blanco) - Remix",
+      "url": "https://open.spotify.com/track/6hP2E6HU4ZlMFCflgFu3FX"
     },
     {
       "added_at": "2022-11-14 07:37:31",

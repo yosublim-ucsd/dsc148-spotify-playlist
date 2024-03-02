@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-397 songs - 1 day 0 hr 10 min
+398 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 | 2023-04-14 |  |
 | [Anzio](https://open.spotify.com/track/6hKaFy6fU9YR0H1SWqh1LT) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Anzio](https://open.spotify.com/album/1ZkhTi6giWgtNDVMs1KYys) | 2:58 | 2023-06-23 |  |
 | [Around the stabs](https://open.spotify.com/track/2Ix2f5OnsIDSvSjcwOxzv4) | [Hirshy](https://open.spotify.com/artist/05iOlkEoADKxlGg776876i) | [Around the stabs](https://open.spotify.com/album/5HqljPTsCr2Sm0it9VhLiI) | 3:04 | 2022-05-16 |  |
+| [Ascendence](https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY), [Svoy](https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO) | [Ascendence](https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV) | 3:54 | 2024-03-01 |  |
 | [Bangerang](https://open.spotify.com/track/6s28dDs4TFJiLUbtpPCQJW) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Bangerang](https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Beacons](https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Night Lands](https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82) | 5:08 | 2022-11-18 |  |
 | [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 | 2023-07-28 |  |
@@ -392,7 +393,7 @@
 | [Wild](https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wild](https://open.spotify.com/album/6FOuijhx9uJTJkL7XtMkn6) | 2:02 | 2023-06-23 | 2023-09-16 |
 | [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 | 2023-07-21 |  |
 | [Wonderland](https://open.spotify.com/track/2KMe85RjUyossAhvG4C1Eg) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/5UkSvvmhb6LelIKVQzTpG0) | 5:08 | 2021-03-05 | 2022-06-14 |
-| [Wonderland](https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/6lMjY92u9KVkfwVqJ5z2js) | 5:08 | 2021-03-12 |  |
+| [Wonderland](https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/6lMjY92u9KVkfwVqJ5z2js) | 5:08 | 2021-03-12 | 2024-03-02 |
 | [Worldwide](https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl x Kazuki Sessions](https://open.spotify.com/album/1hiyqY6JAnWdtzIJNpNjkR) | 3:43 | 2022-04-29 |  |
 | [XPBTTMS.MMBL](https://open.spotify.com/track/5glJ3oP3FC2KQbQHQ9nqLE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [XPBTTMS.MMBL](https://open.spotify.com/album/4UzayOSjHT3mYjBw44s725) | 2:16 | 2022-07-15 | 2023-07-22 |
 | [yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!](https://open.spotify.com/track/1mzAaSebLHpG1iu7vC0jTJ) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW) | [yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!](https://open.spotify.com/album/5qktHNEnTj81dZwsKd1J9f) | 3:39 | 2023-01-13 | 2023-12-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 166426,
+  "2024-03-02": 166426,
   "date_first_scraped": "2022-08-18",
   "description": "Soothing strings for our sleepy little ones. ",
   "name": "Soothing Strings for Sleeping Babies",
@@ -345,6 +345,24 @@
       "duration_ms": 68608,
       "name": "ABC Lullaby",
       "url": "https://open.spotify.com/track/1NKpbUfUe5KKzeTth786Bf"
+    },
+    {
+      "album": {
+        "name": "ABC Song",
+        "url": "https://open.spotify.com/album/26COnZHGF6vpIIl6aVOtsV"
+      },
+      "artists": [
+        {
+          "name": "Singing Guitar",
+          "url": "https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102743,
+      "name": "ABC Song",
+      "url": "https://open.spotify.com/track/21LURtt0dELILmz9u99mWK"
     },
     {
       "album": {
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 118154,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1DE5TG9kbk1EhFI8jbnynS"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 69729,
       "name": "Dappy Dappy Wilson",
       "url": "https://open.spotify.com/track/4nCAlQYwz7kkTzjtq9oF7i"
@@ -5298,6 +5316,24 @@
     },
     {
       "album": {
+        "name": "Oh My Darling, Clementine",
+        "url": "https://open.spotify.com/album/5f3vdWw6khtrpGnYxjB3Hh"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Oh My Darling, Clementine",
+      "url": "https://open.spotify.com/track/3NctLByx0t5oaDaElVHM2j"
+    },
+    {
+      "album": {
         "name": "Old Macdonald Had A Farm",
         "url": "https://open.spotify.com/album/2wZKX4v85x4xB6mrce6jb1"
       },
@@ -5511,6 +5547,24 @@
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
+    },
+    {
+      "album": {
+        "name": "Pop! Goes the Weasel",
+        "url": "https://open.spotify.com/album/76pWhtPUKI4MVWpc05Ykhh"
+      },
+      "artists": [
+        {
+          "name": "Aleeza May",
+          "url": "https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Pop! Goes the Weasel",
+      "url": "https://open.spotify.com/track/7amwRp4KIwmjbfGYpRzqjl"
     },
     {
       "album": {
@@ -6105,6 +6159,24 @@
       "duration_ms": 92000,
       "name": "Sleep Now",
       "url": "https://open.spotify.com/track/1HvLD8IlGZRTWJk3pdfWDo"
+    },
+    {
+      "album": {
+        "name": "Sleep Tight",
+        "url": "https://open.spotify.com/album/5Pywhre8CiDc7TeJrI1NFO"
+      },
+      "artists": [
+        {
+          "name": "Julia Zerrano",
+          "url": "https://open.spotify.com/artist/18VV4kqB6xgRj86VsETZyF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90057,
+      "name": "Sleep Tight",
+      "url": "https://open.spotify.com/track/1qnBlWiRl4xezxFcSBdCKS"
     },
     {
       "album": {
@@ -7293,6 +7365,24 @@
       "duration_ms": 126521,
       "name": "The Wheels On The Bus",
       "url": "https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw"
+    },
+    {
+      "album": {
+        "name": "The Willow Lullaby",
+        "url": "https://open.spotify.com/album/1FWgcYsQJiQ2Go4wTQA7fI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Griffiths",
+          "url": "https://open.spotify.com/artist/1iaN5x7M1F2j9R5y0bJ88J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80431,
+      "name": "The Willow Lullaby",
+      "url": "https://open.spotify.com/track/4wbh6A0s8VpVLC1c7qhM1G"
     },
     {
       "album": {

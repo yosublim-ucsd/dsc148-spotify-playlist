@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 36127,
+  "2024-03-02": 36212,
   "date_first_scraped": "2023-05-18",
   "description": "electronic nostalgia \u26a1\ufe0f Cover: James Blake",
   "name": "voltage",
@@ -43,6 +43,24 @@
       "duration_ms": 316919,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+    },
+    {
+      "album": {
+        "name": "XXYYXX",
+        "url": "https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0"
+      },
+      "artists": [
+        {
+          "name": "xxyyxx",
+          "url": "https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247771,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
     },
     {
       "album": {
@@ -407,7 +425,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 256066,
       "name": "Can\u2019t Keep Checking My Phone",
       "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"

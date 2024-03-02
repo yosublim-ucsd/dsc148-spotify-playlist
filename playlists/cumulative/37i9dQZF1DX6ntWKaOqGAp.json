@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO"
+    },
+    {
+      "album": {
         "name": "INSOMNIAC",
         "url": "https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3"
       },
@@ -8869,7 +8887,7 @@
         },
         {
           "name": "Takashi Sorimachi",
-          "url": "https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e"
+          "url": "https://open.spotify.com/artist/4vQ7seGB4Mgvqt162vcgXG"
         }
       ],
       "date_added": "2024-02-29",
@@ -14980,7 +14998,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204916,
       "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,602 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,558 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 |
 | 39 | [Mula](https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Mula](https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ) | 3:00 |
 | 40 | [WHAT YOU THINK OF](https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH), [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [WHAT YOU THINK OF](https://open.spotify.com/album/01ngB0MbBmzxx8QbUvtRh8) | 2:30 |
-| 41 | [mother luna](https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [mother luna](https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy) | 2:28 |
-| 42 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
+| 41 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
+| 42 | [mother luna](https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [mother luna](https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy) | 2:28 |
 | 43 | [Troubled Waters](https://open.spotify.com/track/6TuyWjGT8Gi0kRu0S3MU1o) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Troubled Waters](https://open.spotify.com/album/5ibxI0a4EgHOBYGMkk5P0Y) | 4:06 |
 | 44 | [Betty Bruce](https://open.spotify.com/track/0eX83sk4tLtPBMf37tgMKc) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Betty Bruce](https://open.spotify.com/album/1XTJX5QoGnJVsDiSyQHfqB) | 3:28 |
 | 45 | [I Can’t Help It](https://open.spotify.com/track/3qkuBtJS1tpOQS3RWKtOYb) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Me](https://open.spotify.com/album/2t5ITokLUc5PmrT9B5XRza) | 3:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 | 49 | [Mulher](https://open.spotify.com/track/6rp587rqWb8bw4cUmzBdw3) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 4:49 |
 
-Snapshot ID: `MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw`
+Snapshot ID: `MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj`

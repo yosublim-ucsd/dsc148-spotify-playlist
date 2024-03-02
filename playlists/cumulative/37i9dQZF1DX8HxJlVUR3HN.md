@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : YEAHRS
 
-161 songs - 9 hr 51 min
+162 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Tenderly](https://open.spotify.com/track/3aFoPNxo45mjM6dStHBpf5) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Tenderly](https://open.spotify.com/album/4M0kEb9aheb55jdIEOeMsm) | 2:26 | 2024-01-11 | 2024-03-01 |
 | [Thank You/Maniac](https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Thank You/Maniac](https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx) | 4:26 | 2023-11-09 | 2024-01-12 |
 | [The Bell Behind The Door \- Radio Edit](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 | 2023-10-20 |  |
+| [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 | 2024-02-29 |  |
 | [The Clocks Are Bleeding](https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [The Clocks Are Bleeding](https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF) | 3:00 | 2023-12-14 | 2024-01-26 |
 | [The Everything](https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH) | 3:41 | 2023-12-08 | 2024-03-01 |
 | [The Final Round](https://open.spotify.com/track/0Fp7CgSfxiaRQflg0GJRTo) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [The Final Round](https://open.spotify.com/album/7ED0mR8FhScZEID6YUL6En) | 6:22 | 2023-11-23 | 2023-12-22 |

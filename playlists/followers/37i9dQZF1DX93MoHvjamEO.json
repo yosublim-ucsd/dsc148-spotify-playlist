@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1289,
+  "2024-03-02": 1290,
   "date_first_scraped": "2023-04-28",
   "description": "Featuring Papi Souza, Quevedo, Jhayco & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #048",
@@ -321,6 +321,36 @@
     {
       "album": {
         "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314671,
+      "name": "Percocet (Remix)",
+      "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
+    },
+    {
+      "album": {
+        "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
       "artists": [
@@ -343,7 +373,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"

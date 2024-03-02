@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-227 songs - 13 hr 56 min
+228 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 | 2022-04-15 |  |
 | [Devil](https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:24 | 2021-12-10 | 2022-04-02 |
+| [Does Heaven Have A Creek](https://open.spotify.com/track/0Bk1zyBpaGrcxyZiSU88Zg) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi) | 4:20 | 2024-03-01 |  |
 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 | 2023-02-17 |  |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-05-13 |  |
 | [Everybody Talks To God](https://open.spotify.com/track/4nQ4Ea34XihpPFnJeyoOZ9) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:17 | 2022-07-15 |  |
@@ -215,7 +216,7 @@
 | [Today](https://open.spotify.com/track/1PB1crNoxv0Jezj0Y8LqO0) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Today](https://open.spotify.com/album/73oc4kEemraQEzKGcgtwOm) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Undivided](https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Undivided](https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw) | 2:55 | 2021-12-10 |  |
 | [Upstairs](https://open.spotify.com/track/2g5rxUrz0xQ6gwpadmBkXJ) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Upstairs](https://open.spotify.com/album/420fvdaTAJisZsB8PSZsGi) | 3:43 | 2023-04-07 |  |
-| [Walls Fall Down \(feat\. Lee Brice\)](https://open.spotify.com/track/0p1PbTyKuvMl0nZorvAQgJ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:20 | 2024-02-09 |  |
+| [Walls Fall Down \(feat\. Lee Brice\)](https://open.spotify.com/track/0p1PbTyKuvMl0nZorvAQgJ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:20 | 2024-02-09 | 2024-03-02 |
 | [Way Home](https://open.spotify.com/track/3rK8TFLvwfbEGBOP0G76T9) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Way Home](https://open.spotify.com/album/57bEdmDvPY66UIjq0Ot9w8) | 3:09 | 2022-07-15 |  |
 | [We All Carry Something](https://open.spotify.com/track/0M07TE03OtknRNCKJ15Rvf) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/4E9ZzEudunTKLXzj9xCYYa) | 3:26 | 2022-07-15 | 2023-11-04 |
 | [We All Carry Something](https://open.spotify.com/track/2SKI2QSQB2XluzxUJ31QD0) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Never Gets Old](https://open.spotify.com/album/5cJSeRqQ9d07IUjUCVoVvK) | 3:26 | 2023-10-20 |  |

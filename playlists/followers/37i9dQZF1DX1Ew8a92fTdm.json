@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 276786,
+  "2024-03-02": 276792,
   "date_first_scraped": "2022-04-19",
   "description": "Peaceful music box tunes for sleepy babies. ",
   "name": "Music Box Lullabies",
@@ -1842,6 +1842,24 @@
     },
     {
       "album": {
+        "name": "Heavenly Melody",
+        "url": "https://open.spotify.com/album/2ziFX1RLnLitYmbEppUx9n"
+      },
+      "artists": [
+        {
+          "name": "Amy Roman",
+          "url": "https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81600,
+      "name": "Heavenly Melody",
+      "url": "https://open.spotify.com/track/3jVBk1cx8265VNDgqQqP6g"
+    },
+    {
+      "album": {
         "name": "Hickory Dickory Dock",
         "url": "https://open.spotify.com/album/1O84ROEMIcfOMtj6tCS1my"
       },
@@ -2595,6 +2613,24 @@
       "duration_ms": 88000,
       "name": "Morning Serenade",
       "url": "https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz"
+    },
+    {
+      "album": {
+        "name": "Music Box Lullaby",
+        "url": "https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N"
+      },
+      "artists": [
+        {
+          "name": "Etne Ski\u00f6ld",
+          "url": "https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85334,
+      "name": "Music Box Lullaby",
+      "url": "https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs"
     },
     {
       "album": {
@@ -3444,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Woods",
+        "url": "https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86426,
+      "name": "Sleeping Woods",
+      "url": "https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF"
+    },
+    {
+      "album": {
         "name": "Sleepy Bells",
         "url": "https://open.spotify.com/album/2uh2fbK3oxjwMlZBSPpzl3"
       },
@@ -3567,6 +3621,24 @@
       "duration_ms": 93392,
       "name": "Sov p\u00e5 min arm",
       "url": "https://open.spotify.com/track/2smLJRUAetmsOISjZORGtV"
+    },
+    {
+      "album": {
+        "name": "Spider On The Moon",
+        "url": "https://open.spotify.com/album/4l97q3ZyPwOA3DY6ZKfC3O"
+      },
+      "artists": [
+        {
+          "name": "Will Bloom",
+          "url": "https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "Spider On The Moon",
+      "url": "https://open.spotify.com/track/3CX4FUQOZIpWrVDS7kT15x"
     },
     {
       "album": {
@@ -4017,6 +4089,24 @@
       "duration_ms": 89000,
       "name": "The Happy Hat",
       "url": "https://open.spotify.com/track/1jEDV9nHECLsE9D9fRRZKt"
+    },
+    {
+      "album": {
+        "name": "The Little Cat",
+        "url": "https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H"
+      },
+      "artists": [
+        {
+          "name": "Mischa Frey",
+          "url": "https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61419,
+      "name": "The Little Cat",
+      "url": "https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb"
     },
     {
       "album": {

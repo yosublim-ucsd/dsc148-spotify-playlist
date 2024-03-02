@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,664 likes - 70 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,674 likes - 70 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 42 | [Circular Arc](https://open.spotify.com/track/736baalzHSTfdcBIHqJirW) | [OK EG](https://open.spotify.com/artist/6NkCtFoOhARKawHaQp9Xc7) | [Rivulets](https://open.spotify.com/album/5eyPb4gvbw6U3oAarIz1pB) | 6:22 |
 | 43 | [Warm Love \- Blue Hour Remix](https://open.spotify.com/track/3unVDShdN8aAf0RdZeM4oR) | [Agent Orange aka Cari Lekebusch](https://open.spotify.com/artist/14IBJpAoIVKjL3RDPbDwZd), [Cari Lekebusch](https://open.spotify.com/artist/33WX23QMvnxE5lBbRG1qyl), [Blue Hour](https://open.spotify.com/artist/4dBDX26kNVoNEVUL97nlde) | [More Love \(Remastered\)](https://open.spotify.com/album/1F2NYAtDErMDcG0kKYzJlQ) | 6:07 |
 | 44 | [OT Rails](https://open.spotify.com/track/4Q5Hqxgeldfux1PTLsXthX) | [Spray](https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf) | [OT Rails](https://open.spotify.com/album/5DdOHl5i5SehGEdmfNXhEA) | 6:14 |
-| 45 | [Darkroom Dubz](https://open.spotify.com/track/53Av53tMYDtKl48RP9r8yT) | [Olsvangèr](https://open.spotify.com/artist/1RBTqOxYGIiH0Hp00YxWg1) | [Hallways](https://open.spotify.com/album/44W1ponxbLKm72EyRaRsGV) | 7:26 |
+| 45 | [Darkroom Dubz](https://open.spotify.com/track/53Av53tMYDtKl48RP9r8yT) | [Olsvangèr](https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED) | [Hallways](https://open.spotify.com/album/44W1ponxbLKm72EyRaRsGV) | 7:26 |
 | 46 | [Rocked It](https://open.spotify.com/track/3C0HcPLfKYOo1PrN1QyeAc) | [Paige Tomlinson](https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66) | [Butts Bumpin' EP](https://open.spotify.com/album/4cSERXcZmq8NnieeaXdgAQ) | 5:32 |
 | 47 | [Gobi Desert \- Parallax Deep Edit](https://open.spotify.com/track/2RIonkCNDVOq3JICc2Pn4K) | [100th Monkey](https://open.spotify.com/artist/6qllqLG3uYwxmCk3W5D8L3), [Tristan](https://open.spotify.com/artist/08nQb0CEykYKMr0n5RkapZ), [Parallax Deep](https://open.spotify.com/artist/3ypxjjk7CDjgyOfLWu9Qlz) | [Gobi Desert/Bunker \(Parallax Deep Edits\)](https://open.spotify.com/album/59csqWQ4ch8ZEQEQoDBrXo) | 7:49 |
 | 48 | [New York Popcorn](https://open.spotify.com/track/0ORS6YWBMpZqV0ChknrJR9) | [Henriku](https://open.spotify.com/artist/11RIzlRHONEWxnNCOhYdOW), [Alexander Skancke](https://open.spotify.com/artist/3mP5rkK4gbjj0k9OCR0kCV) | [New York Popcorn](https://open.spotify.com/album/6fBVyxZqvtzFqjCXCun3fX) | 7:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [High Relief](https://open.spotify.com/track/1BcRQcBtrdhbA3mBScN4lz) | [Javi Redondo](https://open.spotify.com/artist/3sfZrnSyYWKIvdWIDuBaUy) | [A View From Above](https://open.spotify.com/album/0WukqpqOTnJaulkoSiGd0e) | 6:04 |
 | 70 | [Fountains](https://open.spotify.com/track/20X4LoBuTp8Iu8iYghv3HS) | [Inès Cherifi](https://open.spotify.com/artist/3PW7CZXEU2DUS0mYSV2qLp) | [Fountains](https://open.spotify.com/album/22n0c44zorSZ6HLd63WHAj) | 7:07 |
 
-Snapshot ID: `MCxlNjRkMTBkYjZmY2FiN2Q0YTQ5MDI5YThlYTE5NWVmMDVmMmMxNzQy`
+Snapshot ID: `MCw4ZWNmYTlmOWRmZWI1NThkN2U2Y2UzMWE4NWFlMDQwYzY5NDJhNjVi`

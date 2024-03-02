@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,522 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,521 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [分開的常理](https://open.spotify.com/track/2eOAbUlv5UARNGt1fOzaej) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [忘不記](https://open.spotify.com/album/2o0oEFwph6jcXwQo8VXCkG) | 2:40 |
 | 50 | [對面男生的房間](https://open.spotify.com/track/3m91v0fvEJDAFbcWmou7YS) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [年華](https://open.spotify.com/album/5MTWp9gLM678D3yq3pboBG) | 4:08 |
 
-Snapshot ID: `MCw1ZTQ5MjMxYjI2OTg3NDU1NmJlYzJhMzhjMmZlNzljZTUyYmMxZjk4`
+Snapshot ID: `MCw1OTIzNjg0N2ZiZTk3YmNhMjAxYzdlYTY3MjBlMjI1MmI2ZDg1MzBm`

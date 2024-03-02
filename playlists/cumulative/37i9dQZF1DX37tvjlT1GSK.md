@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Gustavo Palafox en portada.
 
-385 songs - 20 hr 23 min
+386 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 | 2023-01-13 |  |
 | [La Deluxe](https://open.spotify.com/track/46mU4TDlzNjBpz1g0yQHX6) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [La Deluxe](https://open.spotify.com/album/0dhWgu8VQ7zZ00rH0JRXpH) | 2:37 | 2023-08-25 | 2023-09-09 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-01 |  |
+| [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 | 2024-03-01 |  |
 | [La Joya](https://open.spotify.com/track/5KyAyaQLzwXXJs0vSTtdI1) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [La Joya](https://open.spotify.com/album/2dORJIqrbsOWUpVVf09aRM) | 2:52 | 2023-08-04 | 2023-09-06 |
 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 | 2022-05-13 | 2022-12-03 |
 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 | 2023-12-01 | 2024-02-24 |
@@ -235,7 +236,7 @@
 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 | 2024-02-24 |  |
 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 | 2023-12-01 |  |
 | [Morenita](https://open.spotify.com/track/3tTUbrrAzoEOG97kdl39xY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Morenita](https://open.spotify.com/album/5lDdmVYHmrLvzgItErGvKE) | 3:17 | 2024-02-24 |  |
-| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 |  |
+| [Morro Cabrón](https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Morro Cabrón](https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt) | 2:25 | 2024-01-26 | 2024-03-02 |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-24 | 2023-08-05 |
 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-10-27 | 2024-01-13 |
 | [Nieves de Enero](https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Nieves de Enero](https://open.spotify.com/album/275MAQJMWo7LMUEmwaHtBe) | 4:23 | 2022-06-03 | 2022-09-24 |

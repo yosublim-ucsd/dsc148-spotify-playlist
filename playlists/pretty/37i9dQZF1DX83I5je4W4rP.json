@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1059356,
+  "num_followers": 1059361,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5",
+  "snapshot_id": "MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 269500,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+        "name": "Pleasure Point",
+        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
       },
       "artists": [
         {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
         }
       ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
+      "duration_ms": 232533,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Pleasure Point",
-        "url": "https://open.spotify.com/album/4z39wv4tx29BalyKnsy54i"
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
       },
       "artists": [
         {
-          "name": "The Expendables",
-          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/588pbWob0xei2cCO4GyIT9"
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
-      },
-      "artists": [
-        {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Middle Finger",
         "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5"
+      },
+      "artists": [
+        {
+          "name": "Through The Roots",
+          "url": "https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc"
+        },
+        {
+          "name": "Eli-Mac",
+          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
+        }
+      ],
+      "duration_ms": 195143,
+      "name": "Rollin' (with Eli Mac)",
+      "url": "https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Round n Round",
         "url": "https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 296719,
       "name": "Round n Round (feat. Pepper & Kaleo Wassman)",
       "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5"
-      },
-      "artists": [
-        {
-          "name": "Through The Roots",
-          "url": "https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc"
-        },
-        {
-          "name": "Eli-Mac",
-          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
-        }
-      ],
-      "duration_ms": 195143,
-      "name": "Rollin' (with Eli Mac)",
-      "url": "https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX"
     },
     {
       "added_at": "2023-11-13 22:46:04",

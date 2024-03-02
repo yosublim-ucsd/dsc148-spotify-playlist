@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 459 songs - 1 day 5 hr 35 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 462 songs - 1 day 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -464,8 +464,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 454 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 |
 | 455 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
 | 456 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
-| 457 | [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 |
-| 458 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 |
-| 459 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
+| 457 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 |
+| 458 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 |
+| 459 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 |
+| 460 | [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 |
+| 461 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 |
+| 462 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 |
 
-Snapshot ID: `MTM5MixjZjJiYzI0NjBhYjI0ZTFlMWFlYjcwOTliZTBlNmMzM2FjMGZlYjhj`
+Snapshot ID: `MTM5OSxjYWFmYTQxOTlkNzM0MDE2OTFkODgyZDA0MTlmMDM2NGQzYTJhMDQ2`

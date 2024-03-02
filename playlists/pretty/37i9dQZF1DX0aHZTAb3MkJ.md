@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aHZTAb3MkJ.md) - [plain]
 
 > This is USHER\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,083 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,635 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aHZTAb3MkJ.md) - [plain]
 | 49 | [Moving Mountains](https://open.spotify.com/track/0Z4DAkZzXkupqCtT7BGU5F) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:58 |
 | 50 | [Peace Sign](https://open.spotify.com/track/3DlGY66fukwF71OYNLylxc) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | ["A"](https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5) | 2:58 |
 
-Snapshot ID: `MCxkNmNiOGYzMjE5ZDRhNGU3NDA0NzE4NWZiYWQ5ZTBiNzBkNDE4Nzg2`
+Snapshot ID: `MCxkZjljNTdlNzljOGNhOWE1ZjBiYTA1ZTg3MDkzZDE2YTYyN2YyZDcy`

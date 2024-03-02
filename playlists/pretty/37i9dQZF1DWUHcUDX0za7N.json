@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=VyqnYnQyQlistMqVsba7Ww\"> Prettyboy D-O</a>",
-  "num_followers": 44108,
+  "num_followers": 44153,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWNiYzk5YWJjZjc1MjgwNTliM2JiN2U5ZDkyYTQxMGRkYmQ3NzAz",
+  "snapshot_id": "MCwyYTdhOWNlZDU5ZjNlNThjNzBhMDFlMjRlOTVhMDUyMjNhNGUwYTYx",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Idris Elba",
+          "name": "IDRIS",
           "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         },
         {
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 131764,
       "name": "Reason (feat. Russ)",
       "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -691,6 +691,30 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -707,22 +731,6 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -787,6 +795,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
       },
@@ -831,26 +855,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -871,42 +875,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Ebelebe",
-        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 172631,
-      "name": "Ebelebe",
-      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -955,22 +939,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
       },
       "artists": [
         {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -991,6 +971,26 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "If They Are Real",
         "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Belong to You",
-        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Belong to You",
-      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1283,6 +1283,22 @@
       "duration_ms": 222857,
       "name": "Oppress",
       "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Will Be",
+        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
+      },
+      "artists": [
+        {
+          "name": "Michealz",
+          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Will Be",
+      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
-      },
-      "artists": [
-        {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
     },
     {
       "added_at": "2024-03-01 00:01:00",

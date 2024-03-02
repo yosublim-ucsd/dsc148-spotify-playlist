@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 237018,
+  "num_followers": 237130,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTlhMDg0MDI1MTA0ZjQ3ZDI1Mzc4YTBiMzE1YTcyYTg3NDk1ZTVm",
+  "snapshot_id": "MCw4ZWQ3YTExNzljOWQ4ZWI5ODMzZTZhYWEzNmI4MDBiMmVlMzcxZDEy",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Deceptive Bends",
-        "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
       "artists": [
         {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 207573,
-      "name": "The Things We Do For Love",
-      "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+      "duration_ms": 272946,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
+        "name": "Deceptive Bends",
+        "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 272946,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+      "duration_ms": 207573,
+      "name": "The Things We Do For Love",
+      "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
     },
     {
       "added_at": "2023-03-29 17:34:27",

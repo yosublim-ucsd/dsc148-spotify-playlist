@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,492 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,538 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 5 | [Keuzestress](https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Keuzestress](https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI) | 2:26 |
 | 6 | [1 Minuut](https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [1 Minuut](https://open.spotify.com/album/19pkLb6FIBcy1b9pjtiRXH) | 2:33 |
 | 7 | [Dezelfde Maan](https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Dezelfde Maan](https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR) | 3:05 |
-| 8 | [Nightshift](https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Nightshift](https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi) | 2:30 |
+| 8 | [Nightshift](https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Nightshift](https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi) | 2:28 |
 | 9 | [Verpest](https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Verpest](https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf) | 2:40 |
 | 10 | [Haat Me](https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Haat Me](https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv) | 3:35 |
 | 11 | [Natte Sokken](https://open.spotify.com/track/0r7OKtASHgUrcN729hlyGG) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Natte Sokken](https://open.spotify.com/album/63SdwuBDCszhla1DrW7pVh) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 | 70 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 
-Snapshot ID: `MCw3ZjM4NDc2Y2ZlODMyOTk1NjYzZWE5NzdiOWM4ODM3ZDY5MDI2MGI3`
+Snapshot ID: `MCwxOWRlNTZmODkxZjcxODdkMjQ4NmJmYmJkNWYzZDdhODhjNTZjOGMz`

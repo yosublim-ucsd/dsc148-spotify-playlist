@@ -1,15 +1,107 @@
 {
-  "description": "Music by our 2024 Artists To Watch. Cover: Bellakath",
-  "num_followers": 4766,
+  "description": "Music by our 2024 Artists To Watch. Cover: Gonzy & Saiko",
+  "num_followers": 4776,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWU5MzEwNWM5OTZmNzQwNDYwNDAzNDQxZWE4ZjVjNTZlODUwYWZi",
+  "snapshot_id": "MCxhNmQ1NDk2NDZiZjQyMTc5YTE0Mjc2MWViYzMzMDljY2I3ZjhiMGFk",
   "tracks": [
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "LA CALMA",
+      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "1371 KM",
+        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "duration_ms": 192122,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Extasisssssss",
+      "url": "https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "MAMI CHAKALOSA",
         "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
@@ -29,7 +121,7 @@
       "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -49,7 +141,7 @@
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -73,63 +165,7 @@
       "url": "https://open.spotify.com/track/2ziBsYeJNdhwFjKDjr9rKx"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "1371 KM",
-        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        }
-      ],
-      "duration_ms": 192122,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Extasisssssss",
-      "url": "https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
@@ -145,7 +181,7 @@
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Nos Entendemos",
         "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Quien Es Dei V?",
         "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Narcotics (with Bryant Myers)",
         "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
@@ -269,7 +305,7 @@
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
@@ -321,7 +357,7 @@
       "url": "https://open.spotify.com/track/5tABEw4BVt9ImybrG0bHYE"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "De Nada (Remix)",
         "url": "https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "El Gordo Trae El Mando",
         "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Como Pancho Villa",
         "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Cumbialicious",
         "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/7HcQBE9ta9PGy54XbYr3dt"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Cumbialicious",
         "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Chiki Bomb\u00f3n",
         "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
@@ -449,7 +485,7 @@
       "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
@@ -489,7 +525,7 @@
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
@@ -507,58 +543,6 @@
       "duration_ms": 181894,
       "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "ORGULLO",
-      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "LA CALMA",
-      "url": "https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H"
     }
   ],
   "unique_name": "Viva Latino Artists To Watch",

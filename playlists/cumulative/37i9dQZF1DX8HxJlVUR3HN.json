@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "The Butcher's Fantasy",
+        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "The Butcher's Fantasy",
+      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
+    },
+    {
+      "album": {
         "name": "The Clocks Are Bleeding",
         "url": "https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 104137,
+  "num_followers": 104200,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVlNzVmYzVmNjY3NWZkN2VlNDYyZGVmYzMzNGRhOWE4NDNmYjUz",
+  "snapshot_id": "MCxmMjMxZjkwZmNlYzg0NjhkZjI4OTczMDQ4MjE2NjUzYjBmOTA1OWMy",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Mezzamorphis",
-        "url": "https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn"
-      },
-      "artists": [
-        {
-          "name": "Delirious?",
-          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
-        }
-      ],
-      "duration_ms": 200272,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Light Of Things Hoped For",
         "url": "https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195040,
       "name": "The Sun Also Rises",
       "url": "https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Mezzamorphis",
+        "url": "https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn"
+      },
+      "artists": [
+        {
+          "name": "Delirious?",
+          "url": "https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF"
+        }
+      ],
+      "duration_ms": 200272,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Free At Last (Live)",
-        "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 284134,
-      "name": "Free At Last - Live",
-      "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Seven Day Jesus",
         "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+        "name": "Free At Last (Live)",
+        "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Love Liberty Disco",
-      "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
+      "duration_ms": 284134,
+      "name": "Free At Last - Live",
+      "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1055,6 +1039,22 @@
       "duration_ms": 184066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Love Liberty Disco",
+      "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Thrifty Mr. Kickstar",
-        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
-      },
-      "artists": [
-        {
-          "name": "dryve",
-          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
-        }
-      ],
-      "duration_ms": 406726,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Best Of Plumb",
         "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 246106,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Thrifty Mr. Kickstar",
+        "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
+      },
+      "artists": [
+        {
+          "name": "dryve",
+          "url": "https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4"
+        }
+      ],
+      "duration_ms": 406726,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
     },
     {
       "added_at": "2023-02-01 04:53:20",

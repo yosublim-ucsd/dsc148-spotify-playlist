@@ -266,6 +266,24 @@
     {
       "album": {
         "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M"
+    },
+    {
+      "album": {
+        "name": "Maum, Part. 1",
         "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
       },
       "artists": [
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242120,
       "name": "New Day",
       "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"

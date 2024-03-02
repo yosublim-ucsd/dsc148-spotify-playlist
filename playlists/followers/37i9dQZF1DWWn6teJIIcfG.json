@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 189915,
+  "2024-03-02": 189964,
   "date_first_scraped": "2021-12-28",
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
   "name": "Creative Focus",
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 147264,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 138239,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/1uCnDVzdxzyUoAk2xZahYj"
@@ -2499,7 +2499,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/5115ToGBzzSrwBSmcaPPTh"
@@ -5153,7 +5153,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 123946,
       "name": "Romance No. 3 in A-Flat Major - Andante moderato",
       "url": "https://open.spotify.com/track/4EnuKEW1DuMtvxlXjZoF6X"

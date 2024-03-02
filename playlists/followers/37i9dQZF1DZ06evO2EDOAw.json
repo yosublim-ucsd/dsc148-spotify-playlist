@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 4154,
+  "2024-03-02": 4154,
   "date_first_scraped": "2023-03-05",
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
   "name": "This Is Kierra Sheard",
@@ -497,6 +497,28 @@
       "duration_ms": 289240,
       "name": "Hear This",
       "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453329,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/5FnP7QoLkJJqMTMkDF7SBc"
     },
     {
       "album": {
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"

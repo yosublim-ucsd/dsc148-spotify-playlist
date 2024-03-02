@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 398871,
+  "2024-03-02": 399526,
   "date_first_scraped": "2022-05-13",
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
   "name": "Summer Dance Hits 2024",
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47861,
+  "num_followers": 47864,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTY5YTU4OWVhYjI4YTI0ZTExMGQ0MjkyYmUxMjdlYTQyZjY5N2My",
+  "snapshot_id": "MCw0Yzc3OTdkOTkyMzU1MGNmYzRmMDUyMjUwM2NmMjM5ZTdmMTA5MTU2",
   "tracks": [
     {
       "added_at": "2024-02-29 13:29:26",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
         "name": "That Kinda Love",
         "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -579,46 +579,6 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 229484,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
       },
@@ -643,6 +603,26 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -755,6 +755,30 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 166991,
       "name": "Like The River",
       "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
-        "name": "Escaping",
-        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Urban Love",
-          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Escaping",
-      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 154500,
       "name": "Light A Fire",
       "url": "https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
+        "name": "Escaping",
+        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Escaping",
+      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
     },
     {
       "added_at": "2024-02-29 13:29:26",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
-        "name": "MAGNETS",
-        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        },
-        {
-          "name": "Oscar Duke",
-          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "MAGNETS",
-      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
-    },
-    {
-      "added_at": "2024-02-29 13:29:26",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1543,22 +1523,46 @@
     {
       "added_at": "2024-02-29 13:29:26",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
+        "name": "MAGNETS",
+        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
         },
         {
-          "name": "MNRT",
-          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+          "name": "Oscar Duke",
+          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
         }
       ],
-      "duration_ms": 154137,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
+      "duration_ms": 146129,
+      "name": "MAGNETS",
+      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
+    },
+    {
+      "added_at": "2024-02-29 13:29:26",
+      "album": {
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+      },
+      "artists": [
+        {
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+        },
+        {
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        },
+        {
+          "name": "CLGN",
+          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
+        }
+      ],
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
     }
   ],
   "unique_name": "Dance Chill",

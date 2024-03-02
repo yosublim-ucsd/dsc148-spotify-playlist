@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Eastern Sounds (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255097,
+      "name": "Love Theme From Spartacus - Remastered 2023",
+      "url": "https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa"
+    },
+    {
+      "album": {
         "name": "Eastern Sounds",
         "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
       },
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 251600,
       "name": "Love Theme From Spartacus - Rudy Van Gelder Remaster / 2006",
       "url": "https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA"

@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-202 songs - 12 hr 32 min
+203 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 | 2022-06-17 | 2024-02-17 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-09-22 | 2024-02-17 |
 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 | 2023-05-09 |  |
-| [Lifetime](https://open.spotify.com/track/6zkRSY91Ly8m2TkcBtH0u9) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 5:06 | 2024-02-16 |  |
+| [Lifetime](https://open.spotify.com/track/6zkRSY91Ly8m2TkcBtH0u9) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 5:05 | 2024-02-16 |  |
 | [Light Years](https://open.spotify.com/track/37h2XJarKWKsd3lLTTIVW4) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Light Years](https://open.spotify.com/album/65FEWUHFBAmL4iPNQoXi2D) | 3:22 | 2022-06-17 | 2024-02-23 |
 | [Light Years](https://open.spotify.com/track/6BXwjlZvAOh5B8yy1kbpwV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Light Years](https://open.spotify.com/album/0KpHeB4Ddk9WuPrwyUuuYN) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Madeleine](https://open.spotify.com/track/7CTVIpoQqwCki0Lprz0ez6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Madeleine](https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf) | 3:00 | 2022-03-25 | 2024-02-17 |
@@ -130,7 +130,8 @@
 | [Monsters](https://open.spotify.com/track/64bEffum8UMASd4IscbCVk) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Monsters](https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv) | 4:36 | 2022-06-17 | 2024-02-17 |
 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 | 2024-02-29 |  |
 | [Never Alone](https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Never Alone](https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU) | 2:23 | 2023-05-09 |  |
-| [Nothing More](https://open.spotify.com/track/0uPmNY3fvKCo5FMU6jTHeu) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nothing More](https://open.spotify.com/album/7LofkA7qMKLxQa4MyhVcCw) | 2:49 | 2024-02-29 |  |
+| [Nothing More](https://open.spotify.com/track/0uPmNY3fvKCo5FMU6jTHeu) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nothing More](https://open.spotify.com/album/7LofkA7qMKLxQa4MyhVcCw) | 2:49 | 2024-02-29 | 2024-03-02 |
+| [Nothing More](https://open.spotify.com/track/5AK8vuswyRulHsNQt5egbx) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nothing More](https://open.spotify.com/album/0tpZErRRUDil4pqFZ9SDxP) | 2:49 | 2024-02-29 |  |
 | [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 | 2024-02-16 |  |
 | [oh, mexico](https://open.spotify.com/track/4YwGqn5HGXVAOEPauLc9MJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [oh, mexico](https://open.spotify.com/album/2UsD7KcPZQn8aO4tlFTOiG) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [oh, mexico](https://open.spotify.com/track/0lTrYYWDbZc390uHYhXT0c) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cozy Coffee Moments](https://open.spotify.com/album/0wqKDUV5JMGlhQiiG3j98z) | 3:04 | 2022-10-10 | 2022-11-14 |

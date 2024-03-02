@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-925 songs - 2 day 0 hr 2 min
+926 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Gold Sunshine](https://open.spotify.com/track/5k6GyrSq8CheHfimk17q6L) | [Georgey V](https://open.spotify.com/artist/3lLhATec3Y08knmk4suWu7) | [Smile!](https://open.spotify.com/album/7FLRmEwFymKSwhJMz2fKOU) | 2:51 | 2019-09-09 | 2021-05-25 |
 | [golden feeling since june](https://open.spotify.com/track/4ALuKkHjcduEJq9wll2uEJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Over Grey Skies](https://open.spotify.com/album/0lR03Yi5SSu0IeFMkE7jG1) | 2:27 | 2019-07-30\* | 2021-05-03 |
 | [Good Dog](https://open.spotify.com/track/5T0Y9lMJNNA50FswxRPkmX) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG) | [Good Dog](https://open.spotify.com/album/3OFQDp9qEGZvI9QeAZqCYK) | 2:58 | 2021-04-30 | 2021-08-25 |
-| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 |  |
+| [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-10 | 2024-03-02 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-07-30\* | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 |  |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
@@ -834,6 +834,7 @@
 | [Tournament Hill](https://open.spotify.com/track/3ntVC9mzbS7NjyrcojDFnS) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Tournament Hill](https://open.spotify.com/album/3t6qVSXwI78uPSTBtDBDKb) | 1:53 | 2019-08-02 | 2020-01-30 |
 | [Tree Among Shrubs](https://open.spotify.com/track/4JYJU761kWJEK91hyug33F) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:08 | 2021-08-27 | 2023-08-26 |
 | [Trippy World](https://open.spotify.com/track/0IzEXsrtZN9onM5t4dtyGr) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Trippy World](https://open.spotify.com/album/7ubrvFHlXFlma8eLl8Vl2S) | 2:47 | 2021-06-25 | 2022-04-20 |
+| [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-03-01 |  |
 | [Turbulence](https://open.spotify.com/track/1LZ4N16PaRnOg7odVvBG34) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Turbulence](https://open.spotify.com/album/1RBEZ22dLFRuWwuluBlasY) | 1:50 | 2021-08-13 | 2022-04-17 |
 | [Turtleneck Sweater](https://open.spotify.com/track/2QHTcXI19lvcVrkVeADxa5) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Turtleneck Sweater](https://open.spotify.com/album/42mVQOTeh84Y7TFu9wKUbd) | 2:30 | 2020-04-18 | 2022-04-29 |
 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 | 2021-05-14 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,349 songs - 3 day 10 hr 31 min
+1,350 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [GRID](https://open.spotify.com/track/5LSbE6Avzu5D7c3JELofP2) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/1x7b842f1YSVOwz2SEE56Y) | 3:01 | 2023-10-31 | 2023-11-08 |
 | [GRID](https://open.spotify.com/track/70LeAfudzGENZhf3kgJSsx) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [1Co.INR](https://open.spotify.com/artist/13OKLLncWlV84TyMUEgq4m) | [GRID](https://open.spotify.com/album/7nxc6TpKNEJIRAqYFmJTpp) | 3:01 | 2023-10-31 | 2023-11-02 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 |  |
-| [Grooving Night](https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/4aiI0ewHwBZ98S1kIMmMz4) | 3:26 | 2024-02-29 |  |
+| [Grooving Night](https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/4aiI0ewHwBZ98S1kIMmMz4) | 3:26 | 2024-02-29 | 2024-03-02 |
+| [Grooving Night](https://open.spotify.com/track/7wDbhuuqxiw0pCUAIEkVAW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/2BsJ7p2HeWyaLtDapCF8TT) | 3:26 | 2024-02-29 |  |
 | [Groovynight \- Remix](https://open.spotify.com/track/2lTKHmEIQDjg0QQubfqHsE) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Groovynight \(Remix\)](https://open.spotify.com/album/0KhPPuP0wK1UNATdoEP3OL) | 3:20 | 2023-04-25 | 2023-05-24 |
 | [H.M.D](https://open.spotify.com/track/4Gw7hHRd1PLv3VuNjMYhUz) | [白昼堂々踊レ人類](https://open.spotify.com/artist/34Rs2JIwzjQpTKAAaePDsm) | [H.M.D](https://open.spotify.com/album/7dOok0imESGgcTpw9SzZrr) | 2:43 | 2024-02-06 | 2024-02-21 |
 | [HALL\-ROLL](https://open.spotify.com/track/7hynAayzA6HbcRMQmjcv5n) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [HALL\-ROLL](https://open.spotify.com/album/4ZhZ61OsyegB5P42LjcvPu) | 3:11 | 2023-01-10 | 2023-01-18 |

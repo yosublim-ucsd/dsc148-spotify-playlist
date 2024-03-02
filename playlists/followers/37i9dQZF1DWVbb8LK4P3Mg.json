@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 124573,
+  "2024-03-02": 124564,
   "date_first_scraped": "2021-12-28",
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
   "name": "Christmas K-Pop",
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 199266,
       "name": "Mr. Santa",
       "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
@@ -3269,7 +3269,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "This Is Your Winter Song",
       "url": "https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT"

@@ -1,12 +1,12 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 413737,
+  "num_followers": 414517,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWFkNTcxMTYzYzRiMTBlYjhiOWY5MmYwZjVlNzJkOTQxNzdjYzEx",
+  "snapshot_id": "MCw3MWQzNjY5M2VjZDk4OGJjODg5ZGY4NWI4Y2RmN2M5ZTY1NTRhZDA4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "Queen Elizabitch",
         "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 217411,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/3pUiKSyV6DZWbzezHhs1Eu"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Cut To The Feeling",
         "url": "https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207959,
       "name": "Cut To The Feeling",
       "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "BLUE LIPS (lady wood phase II)",
+        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 223794,
+      "name": "disco tits",
+      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "S&M Remix",
         "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 257293,
       "name": "S&M Remix",
       "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "BLUE LIPS (lady wood phase II)",
-        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 223794,
-      "name": "disco tits",
-      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
     },
     {
       "added_at": "2024-02-23 05:01:00",

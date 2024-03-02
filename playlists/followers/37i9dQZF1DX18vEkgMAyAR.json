@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 67289,
+  "2024-03-02": 67313,
   "date_first_scraped": "2022-09-22",
   "description": "Your everyday pick-me-up playlist.",
   "name": "Feel Good Look Good",
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 352493,
       "name": "Pluto - Live",
       "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"

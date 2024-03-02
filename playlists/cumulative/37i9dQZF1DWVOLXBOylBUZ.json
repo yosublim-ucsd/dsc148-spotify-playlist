@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de RaiNao.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Nicki Nicole & Bad Gyal.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237365,
       "name": "AHORA",
       "url": "https://open.spotify.com/track/07r64YoKSBEg19K4BLJC6t"
@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "BNB",
+        "url": "https://open.spotify.com/album/2wYbX6DIEmyjPuNDDcpSWq"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "BNB",
+      "url": "https://open.spotify.com/track/2kjdVfAQbAaHolDCkAtjlS"
+    },
+    {
+      "album": {
         "name": "BONITA",
         "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
       },
@@ -2694,10 +2712,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "album": {
@@ -2826,6 +2866,32 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "album": {
+        "name": "CALDO",
+        "url": "https://open.spotify.com/album/1fqSReV3r1vwPKmfTZMti9"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Jace Kimura",
+          "url": "https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "CALDO",
+      "url": "https://open.spotify.com/track/7DX7ZCWUBIt38xxbmSZfi8"
     },
     {
       "album": {
@@ -3684,6 +3750,24 @@
       "duration_ms": 148825,
       "name": "Climax",
       "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
+    },
+    {
+      "album": {
+        "name": "Cochinadas",
+        "url": "https://open.spotify.com/album/2PZl0xl2fz8y8SQyKk8A3P"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Cochinadas",
+      "url": "https://open.spotify.com/track/4RT7qqEVp1YTol9JVx6BtC"
     },
     {
       "album": {
@@ -4918,7 +5002,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156116,
       "name": "DeMasters Presenta: Tamos Claros",
       "url": "https://open.spotify.com/track/6Y05vVJkCF4QCyza9O5SzV"
@@ -8059,6 +8143,28 @@
     },
     {
       "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/4xiFD0xFeyBA9jgWq5bu5N"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        },
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/6E8nqsc7pOshr6NvEY3FaA"
+    },
+    {
+      "album": {
         "name": "Hoy Sal\u00ed",
         "url": "https://open.spotify.com/album/0htuXVNngsOMkFN5kuxCP8"
       },
@@ -8822,6 +8928,24 @@
       "duration_ms": 198294,
       "name": "La Equivocada",
       "url": "https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155514,
+      "name": "La Fory, Heavy",
+      "url": "https://open.spotify.com/track/2IQc7P5phkXztpft0zdBif"
     },
     {
       "album": {
@@ -10554,7 +10678,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 240000,
       "name": "Me Tiene Adicto",
       "url": "https://open.spotify.com/track/773jYJZITXKRtKFnakI13k"
@@ -14564,7 +14688,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212400,
       "name": "RETUMBA",
       "url": "https://open.spotify.com/track/4xChNP6tE9owFmY7cHErir"
@@ -18436,7 +18560,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 143706,
       "name": "WILLY WONKA",
       "url": "https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV"

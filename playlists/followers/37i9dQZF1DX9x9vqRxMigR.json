@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 16755,
+  "2024-03-02": 16767,
   "date_first_scraped": "2022-04-09",
   "description": "Learn more at <a href=\"https://folk.org/programs/conference/\">folk.org</a>.  Cover: Rainbow Girls",
   "name": "Folk Alliance 2024",
@@ -7482,6 +7482,24 @@
     },
     {
       "album": {
+        "name": "Ghost Bones",
+        "url": "https://open.spotify.com/album/2AHx2KlPX3QqcqcAH2y515"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Sinclair",
+          "url": "https://open.spotify.com/artist/55KT2XpDNQJxMGmjbH5Mi8"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257196,
+      "name": "O Land",
+      "url": "https://open.spotify.com/track/0nXcrvLHgPz2CrvBAjDqJJ"
+    },
+    {
+      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/1iGQgZ8s2jgQ8k3kGdS5eh"
       },
@@ -10395,7 +10413,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 278253,
       "name": "The Seventh Fire - The Crossroad",
       "url": "https://open.spotify.com/track/59sA5IUXsjp7p070F4KdVX"

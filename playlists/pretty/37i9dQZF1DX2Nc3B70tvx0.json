@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Vampire Weekend",
-  "num_followers": 2124455,
+  "num_followers": 2124452,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjBjZjhmZjMwOGViNGYyMzFjYTcyNTMxNzAxOWZiYTlkNzUwMDg4",
+  "snapshot_id": "MCxkY2E3M2MyYzJhYmIxZTA5OTBkNjM1OGIyYjNjNWQ5Yzc0Y2E5NjI4",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -61,6 +61,38 @@
       "url": "https://open.spotify.com/track/6c4IBaa5opgDKC5mVQEauZ"
     },
     {
+      "added_at": "2024-03-01 05:05:00",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2024-03-01 05:05:00",
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
+    },
+    {
       "added_at": "2024-02-14 19:24:52",
       "album": {
         "name": "Desire, I Want To Turn Into You: Everasking Edition",
@@ -107,6 +139,22 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-03-01 05:05:00",
+      "album": {
+        "name": "Parallel Realms",
+        "url": "https://open.spotify.com/album/6gkh9oOIjRJ24JXKSX9LWp"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -175,6 +223,22 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
+      "added_at": "2024-03-01 05:05:00",
+      "album": {
+        "name": "Meant",
+        "url": "https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Meant",
+      "url": "https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH"
     },
     {
       "added_at": "2024-02-27 18:55:37",
@@ -659,22 +723,6 @@
       "duration_ms": 262600,
       "name": "Give It Back to Me",
       "url": "https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG"
-    },
-    {
-      "added_at": "2024-02-01 18:44:53",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1229,22 +1277,6 @@
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
     },
     {
-      "added_at": "2024-01-08 17:36:02",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
-    },
-    {
       "added_at": "2024-01-04 18:38:19",
       "album": {
         "name": "Football",
@@ -1297,22 +1329,6 @@
       "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
     },
     {
-      "added_at": "2023-10-18 03:30:00",
-      "album": {
-        "name": "Frisco Blues",
-        "url": "https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
-    },
-    {
       "added_at": "2024-01-24 23:07:09",
       "album": {
         "name": "Run Girl",
@@ -1359,22 +1375,6 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3"
-    },
-    {
-      "added_at": "2024-01-02 14:51:04",
-      "album": {
-        "name": "Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2024-01-19 03:38:27",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
-      "added_at": "2024-01-12 03:26:55",
-      "album": {
-        "name": "Shoelace & A Knot",
-        "url": "https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ"
-      },
-      "artists": [
-        {
-          "name": "yungatita",
-          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
-        }
-      ],
-      "duration_ms": 269999,
-      "name": "Pick At Your Face",
-      "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
-    },
-    {
       "added_at": "2023-12-10 23:08:00",
       "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
@@ -1611,22 +1595,6 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
-    },
-    {
-      "added_at": "2023-12-10 23:08:00",
-      "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 185458,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
     },
     {
       "added_at": "2024-01-03 15:46:10",
@@ -1659,22 +1627,6 @@
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2023-12-23 16:52:16",
-      "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2023-11-06 17:02:48",
@@ -1799,38 +1751,6 @@
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
-    },
-    {
-      "added_at": "2023-11-06 17:02:48",
-      "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     }
   ],
   "unique_name": "Front Page Indie",

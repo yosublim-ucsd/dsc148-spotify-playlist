@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bertolini, Tripolare in cover
+> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bartolini, Tripolare in cover
 
 819 songs - 1 day 13 hr 41 min
 

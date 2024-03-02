@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
@@ -2506,6 +2506,24 @@
       "duration_ms": 117639,
       "name": "New Lane",
       "url": "https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q"
+    },
+    {
+      "album": {
+        "name": "Te Contaron Que Me Gustas",
+        "url": "https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA"
+      },
+      "artists": [
+        {
+          "name": "Tres Dedos",
+          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "No Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
     },
     {
       "album": {

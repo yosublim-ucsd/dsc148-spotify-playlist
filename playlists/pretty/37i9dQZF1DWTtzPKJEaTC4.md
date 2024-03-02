@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,058 likes - 40 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,096 likes - 40 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 6 | [Octet](https://open.spotify.com/track/7oJ7duV79RuyXEnTw06liz) | [Steve Reich](https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo), [Steve Reich Ensemble](https://open.spotify.com/artist/77YkXfcmBKyHkzqvrLORzW) | [Octet \- Music For A Large Ensemble \- Violin Phase](https://open.spotify.com/album/4XqqjSmhI0EtSztxCfNjXq) | 17:39 |
 | 7 | [The Slang Word P\(\*\)ssy Rolls Off The Tongue With Far Better Ease Than The Proper Word Vagina \. Do You Agree?](https://open.spotify.com/track/53JuszD36WgJTr4Rdq7kjO) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 13:50 |
 | 8 | [Kassidat el Hakka \(The Poem of the Truth\)](https://open.spotify.com/track/6QTvhCDx7DO8LnKPAMF6z4) | [Abdellah el Magana](https://open.spotify.com/artist/2m7HRrv5t5TiVPVR7rbkMB) | [Kassidat: Raw 45s from Morocco](https://open.spotify.com/album/3IelUOMBNq5pO34C3L7sOf) | 5:48 |
-| 9 | [Love Theme From Spartacus \- Rudy Van Gelder Remaster / 2006](https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:11 |
+| 9 | [Love Theme From Spartacus \- Remastered 2023](https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:15 |
 | 10 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 |
 | 11 | [As Bright as a Thousand Suns](https://open.spotify.com/track/1QA56lnDWufKcf84fVHBbQ) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 4:58 |
 | 12 | [Saek Pole Dance](https://open.spotify.com/track/5csrpr75WUSqn2cdcrNQCR) | [David Fanshawe](https://open.spotify.com/artist/0d7jHHWmtrZFIC2X1oTy24) | [Music from Thailand & Laos](https://open.spotify.com/album/2Es5dIWv3k53m4H1GICUEl) | 1:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 39 | [Vilambit Tintâl](https://open.spotify.com/track/7zdEcelcAAzpjv0fSfBJ77) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 22:31 |
 | 40 | [Ants To You, Gods To Who ?](https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 6:42 |
 
-Snapshot ID: `MCxlMDk0N2Y5NGJkZjFmZjg4ZDdmMzkzZTEyMDk2MzI2MjIxYWQ5ZmIw`
+Snapshot ID: `MCxkZTA3N2VjMzJmZDRkZGEzYWE5MDdlOTkwZTA2OWM1NmYyNjMwOGRl`

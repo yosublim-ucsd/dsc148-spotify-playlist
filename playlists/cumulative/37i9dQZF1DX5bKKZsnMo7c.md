@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Jagwar Twin
 
-336 songs - 18 hr 7 min
+338 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [anymore](https://open.spotify.com/track/3jf8u2tg0RXdBfgVwA4zoB) | [Abby Izzy](https://open.spotify.com/artist/5VIF6Dh11VwoMYHmR7KA38) | [anymore](https://open.spotify.com/album/3nRGHSO0Oq5cdrzlzPGQD9) | 2:32 | 2023-01-06 | 2023-01-21 |
 | [ANYTHING 4 U](https://open.spotify.com/track/3bfqtvnae2MjD6ONvLIH5H) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [ANYTHING 4 U](https://open.spotify.com/album/6pSyEQrFZCPYlmlHI8VP6o) | 2:41 | 2024-02-09 |  |
 | [Are You Satisfied?](https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg) | 3:18 | 2022-05-17 | 2023-05-27 |
+| [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 | 2024-03-01 |  |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 |  |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-17 | 2022-12-10 |
 | [Beautiful Little Life](https://open.spotify.com/track/4CLWxgdo4e2z27PGQ9uxme) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Beautiful Little Life](https://open.spotify.com/album/5L4UWzUa7sGi70mbu1wcxF) | 3:01 | 2022-06-03 | 2022-06-11 |
@@ -245,7 +246,7 @@
 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 | 2022-08-05 | 2022-10-13 |
 | [Person in the Mirror](https://open.spotify.com/track/4L6mbkUpy4bmbeOQmw4hXu) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [Person in the Mirror](https://open.spotify.com/album/3xypvFTyaBdnGjwTwc1iSg) | 1:11 | 2022-07-12 | 2022-12-03 |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-17 | 2022-06-02 |
-| [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 |  |
+| [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 | 2024-03-02 |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 | 2022-08-06 |
 | [Proud](https://open.spotify.com/track/14bkozr2M41OUMW7pGXQbF) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [Proud](https://open.spotify.com/album/3eUxBO0HdQrauuHaitTlsv) | 3:19 | 2023-04-12 | 2023-04-18 |
 | [putting a spin on somebody that i used to know](https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [putting a spin on somebody that i used to know](https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0) | 4:16 | 2022-05-17 | 2022-12-10 |
@@ -276,6 +277,7 @@
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 |  |
+| [Sleep Well](https://open.spotify.com/track/5c0LlTO3yRYMkElrZCByjy) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Kathy\-Chan](https://open.spotify.com/artist/5O1DnqyQw2ddzrd7ZTWdTA), [Cami\-Cat](https://open.spotify.com/artist/4KMvtIG6508uNPkPaqbVV3) | [Sleep Well](https://open.spotify.com/album/6POZaAyKpUNRelsnsQQRzN) | 3:27 | 2024-03-01 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/750GbARizeicwnH0gLznJs) | [Jeffrey Eli](https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5) | [Sleeping Beauty](https://open.spotify.com/album/4SpcLIdWePHUp62Lt4BJ5A) | 4:05 | 2023-05-26 | 2024-01-05 |
 | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 | 2023-10-14 |
 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 | 2022-05-17 | 2022-08-06 |
@@ -303,7 +305,7 @@
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |
 | [The Red Means I Love You](https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sunset on Summerville](https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r) | 3:53 | 2022-09-16 |  |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-05-17 | 2022-10-06 |
-| [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 |  |
+| [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 | 2024-03-02 |
 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 | 2023-09-02 |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2022-05-27 | 2022-06-11 |
 | [The Widow](https://open.spotify.com/track/5meJWQuHyHDsOjWF8AtSDe) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Frances the Mute](https://open.spotify.com/album/30iqYID1JMBXLVFfErwTSd) | 5:50 | 2022-05-25 | 2022-06-02 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDRhYmY5NDZmNmVkN2E1ZTJmNmE3MzdhN2RmNTBkZTIwZTdlZTAw",
+  "snapshot_id": "MCw5NWRjYzdjNzgyYzBiODNlM2ZlNTUwNDk5ZTk2Nzc5ZGI0NTZlM2Q5",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -55,22 +55,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 240725,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
       "artists": [
         {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         }
       ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Glitch Princess",
-        "url": "https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 288573,
-      "name": "Bites on My Neck",
-      "url": "https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 242829,
       "name": "Take Me Apart",
       "url": "https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Glitch Princess",
+        "url": "https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 288573,
+      "name": "Bites on My Neck",
+      "url": "https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -635,18 +635,30 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
-        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
+        "name": "We Buy Diabetic Test Strips",
+        "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Cavalier",
+          "url": "https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o"
         }
       ],
-      "duration_ms": 290713,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
+      "duration_ms": 223350,
+      "name": "I Keep A Mirror In My Pocket",
+      "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -667,6 +679,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
+        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 290713,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
@@ -679,22 +707,6 @@
       "duration_ms": 297093,
       "name": "Shape",
       "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -731,6 +743,38 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "We Buy Diabetic Test Strips",
         "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
       },
@@ -748,29 +792,13 @@
           "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
         },
         {
-          "name": "Cavalier",
-          "url": "https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o"
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
         }
       ],
-      "duration_ms": 223350,
-      "name": "I Keep A Mirror In My Pocket",
-      "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 180772,
+      "name": "The Gods Must Be Crazy",
+      "url": "https://open.spotify.com/track/0OAWwXN72mqpT12LDfQcAK"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -855,34 +883,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "We Buy Diabetic Test Strips",
-        "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
-      },
-      "artists": [
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "E L U C I D",
-          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        }
-      ],
-      "duration_ms": 180772,
-      "name": "The Gods Must Be Crazy",
-      "url": "https://open.spotify.com/track/0OAWwXN72mqpT12LDfQcAK"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "La Vida De Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 219440,
       "name": "Mirrorage",
       "url": "https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -963,6 +947,22 @@
       "duration_ms": 195037,
       "name": "i/O",
       "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Parted Plains",
-        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 224697,
-      "name": "Love-liesse",
-      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Pulpos",
         "url": "https://open.spotify.com/album/1nJyg4XvniLvxu2ibVfP1r"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Parted Plains",
+        "url": "https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq"
+      },
+      "artists": [
+        {
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+        }
+      ],
+      "duration_ms": 224697,
+      "name": "Love-liesse",
+      "url": "https://open.spotify.com/track/6AODhOVcNWM2V92aINFwVM"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Ahora Veo M\u00e1s Claro",
         "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "gisela",
-        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
-      },
-      "artists": [
-        {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "reveal yourself",
-      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "GOLLY",
         "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 86698,
       "name": "Celebra",
       "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "gisela",
+        "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "reveal yourself",
+      "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
     },
     {
       "added_at": "2024-02-16 18:40:38",

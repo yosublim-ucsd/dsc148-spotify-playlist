@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 184085,
+  "num_followers": 184106,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFjOGU4MTYzNDI1NDU1NjU0MGIyMjQwOTUxNDEzNzlhNjZmMzcz",
+  "snapshot_id": "MCw0MzY2YjNmNTg5NWJlM2QzYTk4OGM4NDcxYzkwMjI3N2E5OWIxNWVj",
   "tracks": [
     {
       "added_at": "2024-02-08 22:12:41",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "Mercedes Sosa En Argentina (En Directo)",
         "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 279413,
       "name": "S\u00f3lo Le Pido a Dios - En Directo",
       "url": "https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/188wTON3SZIoUVG39rINeq"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Entra a Mi Hogar",
-      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "Signos",
         "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 161160,
       "name": "Chacarera Del Rancho",
       "url": "https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Entra a Mi Hogar",
+      "url": "https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
-      },
-      "artists": [
-        {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
-        }
-      ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "30 A\u00f1os Con el Canto",
         "url": "https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 173733,
       "name": "Para los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+      },
+      "artists": [
+        {
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+        }
+      ],
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
+        "name": "Este Destino Cantor",
+        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Mi Luna Cautiva",
+      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
         "name": "Nocheros",
         "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Este Destino Cantor",
-        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
       },
       "artists": [
         {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
         }
       ],
-      "duration_ms": 214386,
-      "name": "Mi Luna Cautiva",
-      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+      "duration_ms": 131640,
+      "name": "Chacarera para Mi Vuelta",
+      "url": "https://open.spotify.com/track/290I3pQ0feBXdeo96yuizH"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -555,6 +571,22 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
+        "name": "Recordando Zambas Con Los Chalchaleros",
+        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Luna Tucumana - Remastered 2003",
+      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
         "name": "Ckayna Cunan, Vol. 2",
         "url": "https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 218600,
       "name": "Bajo la Sombra de un \u00c1rbol",
       "url": "https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
-        "name": "Recordando Zambas Con Los Chalchaleros",
-        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Luna Tucumana - Remastered 2003",
-      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -635,22 +651,6 @@
       "duration_ms": 230093,
       "name": "Todo Est\u00e1 en Vos",
       "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 131640,
-      "name": "Chacarera para Mi Vuelta",
-      "url": "https://open.spotify.com/track/290I3pQ0feBXdeo96yuizH"
     },
     {
       "added_at": "2024-02-08 22:12:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-08 22:12:41",
       "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
-    },
-    {
-      "added_at": "2024-02-08 22:12:41",
-      "album": {
         "name": "Los 3 del R\u00edo",
         "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 229877,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
+    },
+    {
+      "added_at": "2024-02-08 22:12:41",
+      "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2024-02-08 22:12:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,809 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,918 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 8 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 |
 | 9 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 |
 | 10 | [Hanterar](https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:25 |
-| 11 | [Vän till en vän](https://open.spotify.com/track/0kVeiWhkvfnwfCwcMXBCmb) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Vän till en vän](https://open.spotify.com/album/6gNZOCDHR1bE4BkSIuAbjD) | 2:05 |
+| 11 | [Vän till en vän](https://open.spotify.com/track/0kVeiWhkvfnwfCwcMXBCmb) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Vän till en vän](https://open.spotify.com/album/6gNZOCDHR1bE4BkSIuAbjD) | 2:04 |
 | 12 | [OTR \(On The Road\)](https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [OTR \(On The Road\)](https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5) | 2:16 |
 | 13 | [Big Names](https://open.spotify.com/track/3Vy192laKprgWA8iBgcWYO) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Big Names](https://open.spotify.com/album/69pFNqRoIGEtndRYreb2E6) | 2:42 |
 | 14 | [STICKY](https://open.spotify.com/track/2TJHQcYJVjpHOYoa8NeumK) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [STICKY](https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Stockholm, Sweden](https://open.spotify.com/track/4OXBckSyWWg75ge5zrVS3D) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Stockholm, Sweden](https://open.spotify.com/album/2jeuty9zm7vBzzDnsNsmEn) | 2:40 |
 | 100 | [Heartless](https://open.spotify.com/track/79x6bjemiP14D0mYRfrNgr) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [Heartless](https://open.spotify.com/album/2hKdmqtrvIYeN6DVSNKCVf) | 2:29 |
 
-Snapshot ID: `MCw5YzI3MWU4Yzg1NzE1ZWQ4ZDYzZmI2NmUxMWY1YmZkNDYzNzQzOWRi`
+Snapshot ID: `MCxlOTA5N2QwOWVjZDZmOGJkOGU4ZDFhODJkMGI1YTg0N2QwYTI4N2U3`

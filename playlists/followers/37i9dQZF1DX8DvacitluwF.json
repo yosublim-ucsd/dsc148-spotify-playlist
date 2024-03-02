@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 9759,
+  "2024-03-02": 9777,
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri?si=oMYbNZWYTia2d9nEsblHdQ\">Mars Baby</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=k4DFCvkkR02xdMIFWyvsIA\">Ricky Tyler</a>, <a href=\"https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=BpFQ2gMISXGC5lAblqoGFg\">Bien</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -163,6 +163,28 @@
       "duration_ms": 184421,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/5dBYom00qPTPPbMEosBt49"
+    },
+    {
+      "album": {
+        "name": "Another Episode",
+        "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194489,
+      "name": "Another Episode",
+      "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
     },
     {
       "album": {
@@ -845,7 +867,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 221696,
       "name": "Duet (feat. Jillz)",
       "url": "https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv"
@@ -2124,6 +2146,28 @@
     },
     {
       "album": {
+        "name": "Jump With Abandon",
+        "url": "https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6"
+      },
+      "artists": [
+        {
+          "name": "Njakes",
+          "url": "https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe"
+        },
+        {
+          "name": "whoswyLee",
+          "url": "https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb"
+    },
+    {
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/74TvssRCbNSwAKaNf4RXGM"
       },
@@ -2792,6 +2836,24 @@
     },
     {
       "album": {
+        "name": "Smoke + Mirrors",
+        "url": "https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122115,
+      "name": "Smoke + Mirrors",
+      "url": "https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -3051,7 +3113,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 210000,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"

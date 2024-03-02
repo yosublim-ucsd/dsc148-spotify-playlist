@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: ScHoolboy Q
 
-545 songs - 1 day 3 hr 52 min
+546 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 | 2024-01-12 | 2024-02-09 |
 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9) | 4:50 | 2023-03-16 | 2023-08-18 |
 | [Like A Star](https://open.spotify.com/track/7K2BRlhDFdrViNepbSXGFy) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Star Power](https://open.spotify.com/album/7kRhfYHR1agIzy2W7xwnPK) | 2:27 | 2023-03-16 | 2023-07-21 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-02-29 |  |
 | [Likka Sto](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:54 | 2023-07-28 | 2023-08-04 |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-08 | 2024-03-01 |
 | [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 | 2024-01-25 | 2024-02-02 |

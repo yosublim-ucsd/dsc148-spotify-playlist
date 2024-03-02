@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-670 songs - 1 day 14 hr 44 min
+671 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [haunted](https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [lucid](https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM) | 2:59 | 2023-11-28 |  |
 | [haunted](https://open.spotify.com/track/5mUu3ORxehXOXQwqrLwBTt) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [haunted](https://open.spotify.com/album/3Vb9NYVMJFam1G2IFTqUYO) | 2:14 | 2023-09-18 | 2024-01-11 |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
-| [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-20 |  |
+| [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-20 | 2024-03-02 |
 | [Heal](https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Heal](https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1) | 4:14 | 2023-08-28 | 2023-12-14 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-06 | 2023-12-14 |
@@ -514,6 +514,7 @@
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-19 | 2022-10-01 |
+| [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Sell Your Soul](https://open.spotify.com/track/2FePeEwAsqh7tspWUV2Ui6) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 2:47 | 2022-11-19 | 2022-11-22 |
 | [Sell Your Soul](https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Sell Your Soul](https://open.spotify.com/album/1xVPfRWBXIb5d5FXFYSWYC) | 2:47 | 2022-09-26 | 2022-11-29 |
 | [Sensitive](https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 3:54 | 2022-10-29 | 2023-01-14 |

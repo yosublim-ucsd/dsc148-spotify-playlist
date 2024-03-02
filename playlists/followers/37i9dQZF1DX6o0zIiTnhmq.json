@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 187789,
+  "2024-03-02": 187819,
   "date_first_scraped": "2022-05-30",
   "description": "Mantras for meditation",
   "name": "Magical Mantras",
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 275982,
       "name": "Om Namo Bhagwate Vasudevaya",
       "url": "https://open.spotify.com/track/7Hno3cOsGoENNxMYEZTlM2"
@@ -1753,6 +1753,24 @@
       "duration_ms": 99700,
       "name": "Restorative Mantras",
       "url": "https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp"
+    },
+    {
+      "album": {
+        "name": "Rudrashtakam",
+        "url": "https://open.spotify.com/album/005iCBmS1Vhh7IzRW0j2rO"
+      },
+      "artists": [
+        {
+          "name": "Rahul Vellal",
+          "url": "https://open.spotify.com/artist/2UuXiT0l9zWMGwuz1dhyFw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302506,
+      "name": "Rudrashtakam",
+      "url": "https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE"
     },
     {
       "album": {

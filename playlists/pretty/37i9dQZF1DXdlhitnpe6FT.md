@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,384 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,539 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 32 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 33 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
 | 34 | [La Paloma](https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu) | 2:33 |
-| 35 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
+| 35 | [Lluvia de Primavera](https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 5:53 |
 | 36 | [Route 101](https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb) | 3:22 |
-| 37 | [Lluvia de Primavera](https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 5:53 |
+| 37 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
 | 38 | [Before the Rain](https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 8:15 |
 | 39 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
 | 40 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 43 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Sail Along Silv'ry Moon](https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn) | 2:09 |
 | 44 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |
 | 45 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [The Sting](https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91) | 3:03 |
-| 46 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
-| 47 | [Afrikaan Beat](https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Afrikaan Beat And Other Favorites \(Expanded Edition\)](https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm) | 2:25 |
+| 46 | [Afrikaan Beat](https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Afrikaan Beat And Other Favorites \(Expanded Edition\)](https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm) | 2:25 |
+| 47 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
 | 48 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 |
 | 49 | [Spanish Harlem \- Nuits d'Espagne](https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU), [Françoise Pourcel](https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc) | [Franck Pourcel : Originals, vol\. 8](https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL) | 2:26 |
 | 50 | [Imágenes](https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F) | [Orquesta Cuerdas Y Metales](https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7) | [Presentando a La Orquesta Cuerdas y Metales](https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y) | 3:09 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 69 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 70 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 71 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
-| 72 | [Concierto para una sola voz](https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR) | [Robson Miguel y grupo](https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY) | [Sueño azul](https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU) | 2:22 |
-| 73 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
+| 72 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
+| 73 | [Concierto para una sola voz](https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR) | [Robson Miguel y grupo](https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY) | [Sueño azul](https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU) | 2:22 |
 | 74 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
 | 75 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 76 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
 | 115 | [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 |
 
-Snapshot ID: `MCxmYjc5MzNjZjU1MDg2ZDc4ZGJjNWUwMWY2NjQzY2U1MDIwZjI3MzQ2`
+Snapshot ID: `MCxhNmE0YjQyZjk5MTdjYzVlZTFlZmMzM2U3ZmU3ZTlmNDg3NzRjYWJl`

@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Charli XCX
 
-837 songs - 1 day 22 hr 50 min
+838 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [forever \(in my vision\)](https://open.spotify.com/track/3vGjT6YCmS8vpzZYET1gsd) | [wearingyourlove](https://open.spotify.com/artist/2pCWWaQ5jWn8LAb1NErOEx) | [forever \(in my vision\)](https://open.spotify.com/album/3PTY1GE0rZacquSK6QobIx) | 4:50 | 2023-02-03 | 2023-05-26 |
 | [Forever \(jamesjamesjames Remix\)](https://open.spotify.com/track/6z24CmJ1eeJV8Wzkv24FKI) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Forever \(jamesjamesjames Remix\)](https://open.spotify.com/album/3CpRCfqpuB8thDdtsPETrN) | 3:49 | 2022-10-28 | 2022-11-12 |
 | [FOREVER \- Kareem Ali Remix](https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [FOREVER \(Kareem Ali Remix\)](https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL) | 3:32 | 2024-03-01 |  |
+| [Forever 2 \(Crush Mix\)](https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 3:42 | 2024-03-01 |  |
 | [FOREVER 3021](https://open.spotify.com/track/79u9S15lDFJ5u578gbZ7no) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [FOREVER 3021](https://open.spotify.com/album/6IHjJzXtmalivjFMrgGuii) | 7:07 | 2022-01-14 | 2022-01-29 |
 | [Freaks \- Dazegxd's Rave Remix](https://open.spotify.com/track/7lBc4IaOy2NPxHgjbFIr3Y) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [Freaks \(Dazegxd's Rave Remix\)](https://open.spotify.com/album/5ZlRQdsXVs7ED82r8UKj4K) | 4:45 | 2022-02-11 | 2022-06-04 |
 | [FREEZE](https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FREEZE](https://open.spotify.com/album/5OrqVEvsnjvcFC6OvkcXnY) | 2:53 | 2021-12-10 | 2022-02-05 |
@@ -764,7 +765,7 @@
 | [Ultra Ray](https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Ultra Ray](https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx) | 4:51 | 2023-06-07 | 2023-10-14 |
 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 | 2023-07-06 |  |
 | [Uncut Gems \(with MarcLo, Seb Wildblood & KYLE\) \- Seb Wildblood Remix](https://open.spotify.com/track/5oSSyBIviKLRv2OxAnnWLT) | [THE WHALES](https://open.spotify.com/artist/6eVFiaexVx7Lmt2G2ZAsOc), [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X), [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Uncut Gems \(Seb Widblood Remix\)](https://open.spotify.com/album/1Ok7s1b6fZCfU4Yb1Keby3) | 3:23 | 2023-12-15 | 2024-01-13 |
-| [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 | 2023-05-12 |  |
+| [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 | 2023-05-12 | 2024-03-02 |
 | [Under the Moon](https://open.spotify.com/track/2pkIZ2AuuKwkkqasf5wXRo) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq) | [Under the Moon](https://open.spotify.com/album/2PDpZsSQl8lGwojy7oouAi) | 3:41 | 2023-06-30 |  |
 | [Unlimited Ammo](https://open.spotify.com/track/1c02EHsOzwz17YLMHe9SeK) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 2:02 | 2021-11-04 | 2022-01-22 |
 | [unlock it](https://open.spotify.com/track/2QftMbZmNtjmZIJtpzdTAe) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [unlock it](https://open.spotify.com/album/2wNMY96gtVfhl5cvtq9VCi) | 3:13 | 2022-11-11 | 2023-01-14 |

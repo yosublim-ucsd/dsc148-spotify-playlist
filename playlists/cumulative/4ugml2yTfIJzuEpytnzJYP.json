@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Getting Closer",
+        "url": "https://open.spotify.com/album/0DCQehQSoGLCUNPvj2bSbL"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Getting Closer",
+      "url": "https://open.spotify.com/track/1mzLrbl3iPhvmgoqxrz31c"
+    },
+    {
+      "album": {
         "name": "Ghost Signal",
         "url": "https://open.spotify.com/album/69omgDHXg1e6kp9UcbpsfE"
       },

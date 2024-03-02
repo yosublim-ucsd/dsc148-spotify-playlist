@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 153438,
+  "2024-03-02": 153485,
   "date_first_scraped": "2020-10-30",
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
@@ -13827,7 +13827,7 @@
     {
       "album": {
         "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
       "artists": [
         {
@@ -13838,6 +13838,24 @@
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"

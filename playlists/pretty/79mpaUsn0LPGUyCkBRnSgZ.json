@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTM5MixjZjJiYzI0NjBhYjI0ZTFlMWFlYjcwOTliZTBlNmMzM2FjMGZlYjhj",
+  "snapshot_id": "MTM5OSxjYWFmYTQxOTlkNzM0MDE2OTFkODgyZDA0MTlmMDM2NGQzYTJhMDQ2",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7581,22 +7581,6 @@
       "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M"
     },
     {
-      "added_at": "2024-02-26 23:00:18",
-      "album": {
-        "name": "Play (2014 Remastered Version)",
-        "url": "https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Porcelain - 2014 Remastered Version",
-      "url": "https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN"
-    },
-    {
       "added_at": "2024-02-26 23:03:33",
       "album": {
         "name": "Royal Astronomy",
@@ -7627,6 +7611,70 @@
       "duration_ms": 315633,
       "name": "Where We've Been",
       "url": "https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP"
+    },
+    {
+      "added_at": "2024-03-01 03:41:53",
+      "album": {
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 164139,
+      "name": "DUSTCUTTER",
+      "url": "https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u"
+    },
+    {
+      "added_at": "2024-03-01 03:43:16",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 96013,
+      "name": "Prelude To Ecstasy",
+      "url": "https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu"
+    },
+    {
+      "added_at": "2024-03-01 03:47:27",
+      "album": {
+        "name": "Arular",
+        "url": "https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 36093,
+      "name": "Banana - Skit",
+      "url": "https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM"
+    },
+    {
+      "added_at": "2024-03-01 05:31:24",
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 284746,
+      "name": "100,000 Voices",
+      "url": "https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2"
     }
   ],
   "unique_name": "Zacklog",

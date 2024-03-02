@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 94374,
+  "2024-03-02": 94502,
   "date_first_scraped": "2023-12-04",
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
   "name": "Cancionero Joan Sebastian",
@@ -351,6 +351,24 @@
       "duration_ms": 196306,
       "name": "Con La Duda (with Joan Sebastian) - Live Version",
       "url": "https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Contando Penas",
+      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
     },
     {
       "album": {
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 155794,
       "name": "Soy Como Quiero Ser",
       "url": "https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds"

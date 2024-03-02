@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 25541,
+  "2024-03-02": 25552,
   "date_first_scraped": "2022-08-06",
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Howlin' Wolf",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 159400,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166373,
       "name": "Cause of It All",
       "url": "https://open.spotify.com/track/55bXtn99JxmrvFQYtbfjAA"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 159373,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 163026,
       "name": "How Many More Years",
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158866,
       "name": "Howlin' Wolf Boogie - Single Version",
       "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 176573,
       "name": "Moanin' At Midnight",
       "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179400,
       "name": "Tail Dragger",
       "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 147400,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
@@ -2421,7 +2421,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"

@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "OUT OF THE BLUE",
+        "url": "https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok"
+      },
+      "artists": [
+        {
+          "name": "Brynn Cartelli",
+          "url": "https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177633,
+      "name": "Beginning of the End",
+      "url": "https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V"
+    },
+    {
+      "album": {
         "name": "Believe (Remixes)",
         "url": "https://open.spotify.com/album/3oQ0sE7sd5xDkZlNDnZBEB"
       },
@@ -4774,7 +4792,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199757,
       "name": "Life Is Tough (But So Am I)",
       "url": "https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5"

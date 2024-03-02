@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 170364,
       "name": "Ca",
       "url": "https://open.spotify.com/track/0tl9MlhSFXuMwUWBnNFGcR"
@@ -900,6 +900,32 @@
       "duration_ms": 234418,
       "name": "Dile Dile Remix",
       "url": "https://open.spotify.com/track/5L11wZayGyUUMphfhCF16T"
+    },
+    {
+      "album": {
+        "name": "Dios Te Ve",
+        "url": "https://open.spotify.com/album/7H5Zwt19t2KoQnLqztkloJ"
+      },
+      "artists": [
+        {
+          "name": "Rapbrina",
+          "url": "https://open.spotify.com/artist/1EyiBRCckhWPHwGrm2VVUi"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "SanLee",
+          "url": "https://open.spotify.com/artist/1eTsr3prd9jXorf7m41avj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215069,
+      "name": "Dios Te Ve",
+      "url": "https://open.spotify.com/track/644wcyUTuKfqqRFgiRPxLb"
     },
     {
       "album": {
@@ -1702,6 +1728,32 @@
       "duration_ms": 152245,
       "name": "Heredera del Surrealismo",
       "url": "https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Sh*t",
+        "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Chicho Beats",
+          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195113,
+      "name": "Hip Hop Sh*t",
+      "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
     },
     {
       "album": {
@@ -3606,7 +3658,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195600,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5xHwBpIppkYdbz0O99AZCe"

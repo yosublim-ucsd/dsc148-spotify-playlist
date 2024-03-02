@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 179988,
+  "2024-03-02": 180010,
   "date_first_scraped": "2021-12-30",
   "description": "Uplifting and upbeat Jazz to get you in a good mood.",
   "name": "Happy Jazz!",
@@ -2167,6 +2167,24 @@
       "duration_ms": 288880,
       "name": "Pour Qui Pourquoi",
       "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
+    },
+    {
+      "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/278AVaIHKrZPB164Y9dFZh"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/1REW7x0cLKEkFre9W0GBEm"
     },
     {
       "album": {

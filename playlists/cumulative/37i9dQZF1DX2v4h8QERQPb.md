@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-245 songs - 12 hr 35 min
+246 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 | 2023-04-07 |
 | [Caro](https://open.spotify.com/track/0LkuHRZJxg8lDqOqeMgi7i) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Caro](https://open.spotify.com/album/2terVtDIynq8ZwCpSZqWVa) | 2:45 | 2021-11-26 | 2022-02-19 |
 | [Carpe Diem](https://open.spotify.com/track/2aG5jnSGJVLrutTzGfk0US) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Carpe Diem](https://open.spotify.com/album/2vRXlheB4qcUxzN93zTu8C) | 1:22 | 2023-05-26 | 2023-11-25 |
+| [Clandestino](https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L) | [Clandestino](https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx) | 2:46 | 2024-03-01 |  |
 | [Con Billetes](https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 4:21 | 2023-01-27 | 2023-07-22 |
 | [Conscientes](https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Conscientes](https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16) | 3:01 | 2023-04-07 |  |
 | [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol\. 4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 | 2023-04-24 |  |
@@ -141,7 +142,7 @@
 | [Locura y Pasión](https://open.spotify.com/track/0q4SC66JHhp7fOAjMKJFle) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Locura y Pasión](https://open.spotify.com/album/2XkJ6nOendZfvQx7azNEmW) | 2:01 | 2023-12-15 |  |
 | [Los Pumas](https://open.spotify.com/track/4yN6f9onu86pSfpayG7ryc) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Los Pumas](https://open.spotify.com/album/2Q95rrB6nNBee2PXD2hGnD) | 2:38 | 2023-08-25 |  |
 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 | 2021-11-26 |  |
-| [LQRA Session \#8](https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LQRA Session \#8](https://open.spotify.com/album/5Z592gYrUeJwm50Z3UDY79) | 2:32 | 2022-11-18 |  |
+| [LQRA Session \#8](https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LQRA Session \#8](https://open.spotify.com/album/5Z592gYrUeJwm50Z3UDY79) | 2:32 | 2022-11-18 | 2024-03-02 |
 | [Malas Vistas](https://open.spotify.com/track/01A48XpjWFsdh3iF7mC37N) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Paterna09](https://open.spotify.com/album/4LY7eHDCFXfdL7IrW72Q7L) | 3:33 | 2021-11-26 | 2023-05-27 |
 | [MAMBO GANGSTA](https://open.spotify.com/track/3h7VpPv7Ka5QGUqklxsgDZ) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [MAMBO GANGSTA](https://open.spotify.com/album/7GLAuGxyaU9sfIDqy9AzVe) | 2:25 | 2023-05-12 |  |
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:39 | 2022-06-10 |  |

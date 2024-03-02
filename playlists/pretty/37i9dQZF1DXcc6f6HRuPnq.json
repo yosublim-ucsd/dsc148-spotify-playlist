@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 152667,
+  "num_followers": 152737,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
+  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 298493,
-      "name": "Midnight Blues",
-      "url": "https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Chronicle",
         "url": "https://open.spotify.com/album/00sLzZmVoQHr9MZZjspGgt"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 236800,
       "name": "I'll Play The Blues For You - Edit",
       "url": "https://open.spotify.com/track/6e5jcPUhUNTUeOBRHcGirg"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 298493,
+      "name": "Midnight Blues",
+      "url": "https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Since I Fell for You",
-      "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "In the Skies",
         "url": "https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Since I Fell for You",
+      "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Night Time Is the Right Time",
-      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 332560,
       "name": "Let Me Be",
       "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Night Time Is the Right Time",
+      "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 380493,
       "name": "Luther's Blues",
       "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 451560,
       "name": "Night Shift Blues",
       "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Driftin' Blues (Live)",
-        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
-      },
-      "artists": [
-        {
-          "name": "Charles Brown",
-          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Driftin' Blues - Live",
-      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
         "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 331493,
       "name": "The Dream - Remastered",
       "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Driftin' Blues (Live)",
+        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Driftin' Blues - Live",
+      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
-      },
-      "artists": [
-        {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
-        }
-      ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 292520,
       "name": "Empty Bed Blues - Mono",
       "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Midnight Hour Blues",
-      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Aynsley Dunbar Retaliation",
         "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 229266,
       "name": "Double Lovin\u00b4",
       "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
     },
     {
       "added_at": "2023-10-05 08:53:30",

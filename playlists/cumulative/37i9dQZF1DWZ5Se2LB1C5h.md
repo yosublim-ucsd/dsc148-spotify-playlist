@@ -4,7 +4,7 @@
 
 > Únete a la extravaganza del neón\. Skrillex en portada.
 
-138 songs - 6 hr 47 min
+139 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2023-09-23 | 2024-02-24 |
 | [Bum Bum](https://open.spotify.com/track/4fgazyi73UaovWnO1Y1khd) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bum Bum](https://open.spotify.com/album/6y2iArFHHclw8qiyexmaxs) | 2:46 | 2023-12-18 | 2024-02-17 |
 | [Bum Bum](https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bum Bum](https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV) | 2:46 | 2023-09-23 | 2023-12-23 |
-| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-16 |  |
+| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-16 | 2024-03-02 |
+| [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-23 |  |
 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 | 2024-02-23 |  |
 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2024-02-23 |  |
 | [Cartagena ft\. Greeicy](https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Cartagena ft\. Greeicy](https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU) | 2:43 | 2023-12-18 | 2024-02-24 |

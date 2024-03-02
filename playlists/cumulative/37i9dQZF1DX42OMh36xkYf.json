@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Bardo Jos\u00e9 en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Elsa y Elmar en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 244515,
       "name": "A las 9:05",
       "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 226500,
       "name": "El Amor Se Fue de Repente",
       "url": "https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174454,
       "name": "El Chico",
       "url": "https://open.spotify.com/track/1nqygnk3xAUcTbrIcjsgIW"
@@ -720,6 +720,42 @@
       "duration_ms": 250324,
       "name": "Enero",
       "url": "https://open.spotify.com/track/3ts1l52tE1aQhQDxeDD2sS"
+    },
+    {
+      "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "album": {
+        "name": "Episodio 1: A Solas Contigo",
+        "url": "https://open.spotify.com/album/2y6K3mEBRdYPtKh8C2O5Jz"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191895,
+      "name": "Episodio 1: A Solas Contigo",
+      "url": "https://open.spotify.com/track/6HGbAwKcGp9xOZIxeXMlUX"
     },
     {
       "album": {
@@ -926,7 +962,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 144135,
       "name": "Heladito",
       "url": "https://open.spotify.com/track/0xuR1uorCHBfBi0HDZPSYi"
@@ -992,6 +1028,28 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
+        "name": "Juan de Dios",
+        "url": "https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213644,
+      "name": "Juan de Dios",
+      "url": "https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n"
     },
     {
       "album": {
@@ -1076,6 +1134,28 @@
       "duration_ms": 146332,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
+    },
+    {
+      "album": {
+        "name": "La Vida Sin Ti Apesta",
+        "url": "https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188992,
+      "name": "La Vida Sin Ti Apesta",
+      "url": "https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY"
     },
     {
       "album": {
@@ -1166,7 +1246,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210000,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294"
@@ -1210,7 +1290,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
@@ -1494,7 +1574,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217615,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI"
@@ -1719,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD"
+      },
+      "artists": [
+        {
+          "name": "Sofia Cordoba",
+          "url": "https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA"
+    },
+    {
+      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -1851,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Sin Riesgo",
+        "url": "https://open.spotify.com/album/4bgmeuetXEk3czfOgkggcf"
+      },
+      "artists": [
+        {
+          "name": "laur\u00e9l",
+          "url": "https://open.spotify.com/artist/4hCJr1sLjhayxsPwwrtChF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171214,
+      "name": "Sin Riesgo",
+      "url": "https://open.spotify.com/track/2DdGAU31oTaGJkuLGHK9gp"
+    },
+    {
+      "album": {
         "name": "So payaso",
         "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
@@ -1869,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/1YxzQ8nW8hu2g0nvyx6yYA"
+      },
+      "artists": [
+        {
+          "name": "Mayra S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137483,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2RJH45gf8JIMswhYCLcgHK"
+    },
+    {
+      "album": {
         "name": "Tampoco Poco",
         "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
@@ -1884,7 +2022,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
@@ -2058,6 +2196,24 @@
       "duration_ms": 167673,
       "name": "Un X100To",
       "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 46333,
+  "num_followers": 46441,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI2ODc2Nzc1NWZmZGJhYThlYzVkZDI2YzFkYjMzM2Q5ZTk4ZWZm",
+  "snapshot_id": "MTcwODAzODAwMCwwMDAwMDAwMGY1NjFmNjZhOTZkZWMzNGE1YzM2NGNjZTMwNzRlMDMw",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -419,22 +419,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "This Is The Way (We Dance)",
-        "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
+        "name": "Amplified Zone",
+        "url": "https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8"
       },
       "artists": [
         {
-          "name": "D-tip",
-          "url": "https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF"
-        },
-        {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
         }
       ],
-      "duration_ms": 337370,
-      "name": "This Is The Way (We Dance)",
-      "url": "https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq"
+      "duration_ms": 468979,
+      "name": "Amplified Zone",
+      "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -455,18 +451,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Amplified Zone",
-        "url": "https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8"
+        "name": "This Is The Way (We Dance)",
+        "url": "https://open.spotify.com/album/1Rn5VSLmJWNMIgb1mBxWuK"
       },
       "artists": [
         {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+          "name": "D-tip",
+          "url": "https://open.spotify.com/artist/47uLLyDQtL91fBca6JDKSF"
+        },
+        {
+          "name": "Sir Vee The Great",
+          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
         }
       ],
-      "duration_ms": 468979,
-      "name": "Amplified Zone",
-      "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
+      "duration_ms": 337370,
+      "name": "This Is The Way (We Dance)",
+      "url": "https://open.spotify.com/track/0AtwabAxUMflTI3UCbglEq"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
-      },
-      "artists": [
-        {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
-        },
-        {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
-        }
-      ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Confident (feat. Kali Mija)",
         "url": "https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 463348,
       "name": "Confident (feat. Kali Mija)",
       "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "See the Light",
-        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
-      },
-      "artists": [
-        {
-          "name": "Bless_SA",
-          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
-        },
-        {
-          "name": "Kyika DeSoul",
-          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
-        }
-      ],
-      "duration_ms": 405420,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Ksasenjalo (Re-Imagined)",
         "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 401228,
       "name": "Ksasenjalo (Exte C Remix)",
       "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
+      },
+      "artists": [
+        {
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
+        },
+        {
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
+        }
+      ],
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "From Blak With Love",
         "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 403998,
       "name": "Never Break Me (feat. Kuthathu)",
       "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2024-02-15 23:00:00",

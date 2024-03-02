@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210110,
       "name": "Alma Mater",
       "url": "https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 286000,
       "name": "Be Brave",
       "url": "https://open.spotify.com/track/4MBmyzyYGcG2qrPvF0Mroe"
@@ -302,6 +302,24 @@
       "duration_ms": 189667,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ"
+    },
+    {
+      "album": {
+        "name": "Meet Me In The Blue",
+        "url": "https://open.spotify.com/album/0lMFXa1lhQsWm8u6ryWg28"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223916,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/2DXuz7F6JbKJsAPZRpfFN3"
     },
     {
       "album": {
@@ -866,7 +884,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176562,
       "name": "gauche",
       "url": "https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 111034,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/4zcMNqi8H8DPpZwLYNhhc8"
@@ -1656,6 +1674,42 @@
       "duration_ms": 178569,
       "name": "OMG",
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+    },
+    {
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+    },
+    {
+      "album": {
+        "name": "Out of My League (Chill AF)",
+        "url": "https://open.spotify.com/album/1UXKnbK1xgkrVG8L7LQqii"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219086,
+      "name": "Out of My League - Chill AF",
+      "url": "https://open.spotify.com/track/3dpSEMNMajGGCeUrUZDxL1"
     },
     {
       "album": {
@@ -1865,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Shadow in the Sun",
+        "url": "https://open.spotify.com/album/5dVfRPlgjkkI1bBIvhzMEO"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193764,
+      "name": "Shadow in the Sun",
+      "url": "https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT"
+    },
+    {
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -2031,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7p5JzjQqCDR84m0HlHsk9F"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239366,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/64hxSQpLelfhMPF7cjVIUS"
+    },
+    {
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -2064,6 +2154,24 @@
       "duration_ms": 173376,
       "name": "Tauchen",
       "url": "https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o"
+    },
+    {
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "album": {
@@ -2132,7 +2240,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201722,
       "name": "The Matrix",
       "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
@@ -2233,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Life\u2019s Going Great",
+        "url": "https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159933,
+      "name": "Typical Me",
+      "url": "https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 4: the burden",
         "url": "https://open.spotify.com/album/58LwbQZAfQIODsgcwYmYL4"
       },
@@ -2316,7 +2442,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174294,
       "name": "We Don't Talk About It",
       "url": "https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04"

@@ -23,7 +23,7 @@
 | [At The Park](https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [At The Park](https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G) | 2:02 | 2023-11-24 | 2024-02-27 |
 | [Ay Cabrón](https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Ay Cabrón](https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9) | 1:37 | 2023-10-09 |  |
 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 | 2023-05-05 |  |
-| [being honest](https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [being honest](https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n) | 2:43 | 2023-12-22 |  |
+| [being honest](https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [being honest](https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n) | 2:43 | 2023-12-22 | 2024-03-02 |
 | [Better Off Alone](https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5) | [Lightfoot](https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL) | [Terra Incognita](https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5) | 2:12 | 2023-05-05 | 2024-02-26 |
 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 | 2023-05-05 |  |
 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 | 2023-05-05 |  |
@@ -146,6 +146,6 @@
 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 | 2023-05-05 |  |
 | [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 |  |
 | [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 | 2024-01-21 |
-| [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 | 2024-02-03 |
+| [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

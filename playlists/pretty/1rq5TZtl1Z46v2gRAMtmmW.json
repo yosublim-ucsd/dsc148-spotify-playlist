@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29303,
+  "num_followers": 29309,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzYzNyxmY2VmYmU1OWU1YjUzMTFjN2I2ZjgwZDgyYmFmOTc1N2U5OTNjOWMz",
+  "snapshot_id": "MzY1MiwyZTRjMjllZTZmNTM4NjAyZjcwYWM2NmE1YTdhYzQ1MmRlNGY4YjQy",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
     },
     {
+      "added_at": "2024-02-15 14:22:58",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+    },
+    {
       "added_at": "2024-02-07 17:25:01",
       "album": {
         "name": "Real Hot n Naughty",
@@ -61,22 +77,6 @@
       "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
     },
     {
-      "added_at": "2024-02-15 14:22:58",
-      "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 224204,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
-    },
-    {
       "added_at": "2024-02-02 19:20:30",
       "album": {
         "name": "CHROMA 001",
@@ -91,6 +91,38 @@
       "duration_ms": 287447,
       "name": "CHROMA 001 HELIUM",
       "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
+      "added_at": "2024-01-23 18:04:51",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
+    },
+    {
+      "added_at": "2023-10-17 14:31:53",
+      "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
     },
     {
       "added_at": "2024-02-29 22:34:08",
@@ -113,52 +145,24 @@
       "url": "https://open.spotify.com/track/5nD09eXAGQUYDCTSUGOHU1"
     },
     {
-      "added_at": "2024-01-23 18:04:51",
+      "added_at": "2024-03-01 12:30:16",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2024-02-02 19:23:25",
-      "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
-      },
-      "artists": [
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
         }
       ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
-    },
-    {
-      "added_at": "2023-10-17 14:31:53",
-      "album": {
-        "name": "Birth4000",
-        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+      "duration_ms": 562061,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
     },
     {
       "added_at": "2023-09-15 16:22:33",
@@ -275,26 +279,6 @@
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
-    },
-    {
-      "added_at": "2023-10-12 09:59:58",
-      "album": {
-        "name": "S e x",
-        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "S e x",
-      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
       "added_at": "2023-09-22 17:16:54",
@@ -437,7 +421,23 @@
       "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"
     },
     {
-      "added_at": "2023-10-27 10:42:36",
+      "added_at": "2024-02-02 19:23:25",
+      "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
+    },
+    {
+      "added_at": "2024-03-01 13:04:25",
       "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 283074,
-      "name": "How Music Makes You Feel Better",
-      "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2023-10-26 16:46:10",
@@ -487,26 +487,6 @@
       "duration_ms": 230500,
       "name": "Oizys - Nailah Hunter Rework",
       "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
-    },
-    {
-      "added_at": "2023-09-27 18:09:47",
-      "album": {
-        "name": "Deadbeat Gospel",
-        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "somedeadbeat",
-          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Deadbeat Gospel",
-      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
     },
     {
       "added_at": "2023-09-27 18:08:55",
@@ -649,20 +629,24 @@
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
     },
     {
-      "added_at": "2023-07-11 11:10:49",
+      "added_at": "2024-03-01 12:53:15",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p"
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 211726,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
+      "duration_ms": 256859,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
     },
     {
       "added_at": "2023-07-14 16:19:22",
@@ -719,6 +703,34 @@
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
+      "added_at": "2024-03-01 12:52:03",
+      "album": {
+        "name": "Somebody (Trance Wax Remix)",
+        "url": "https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Somebody - Trance Wax Remix",
+      "url": "https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

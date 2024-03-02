@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating the 25th anniversary of "Fanmail"\. Cover: TLC
+> The most essential R&B songs from the '90s\. Cover: TLC
 
 138 songs - 10 hr 28 min
 

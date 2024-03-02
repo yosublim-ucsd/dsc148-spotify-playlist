@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Don Diablo x Mearsy x RBZ",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: A7S x Alok",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -2089,6 +2089,32 @@
     },
     {
       "album": {
+        "name": "Beat Of Your Love (feat. EKKO)",
+        "url": "https://open.spotify.com/album/3VC35ELrkknPXWVciLmVu2"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162576,
+      "name": "Beat Of Your Love (feat. EKKO)",
+      "url": "https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme"
+    },
+    {
+      "album": {
         "name": "Bed (with KSHMR)",
         "url": "https://open.spotify.com/album/2EXPBbrWHILHbqVSZzzO9N"
       },
@@ -2316,10 +2342,76 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 141498,
       "name": "Best Thing (Mollie Collins Remix)",
       "url": "https://open.spotify.com/track/5hcQAJjNJvG60ay2TADG8I"
+    },
+    {
+      "album": {
+        "name": "Best Thing (Ookay Remix)",
+        "url": "https://open.spotify.com/album/2opphly3r07PFASpEKxXam"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172435,
+      "name": "Best Thing (Ookay Remix)",
+      "url": "https://open.spotify.com/track/74rfuKHlzDShJjxrVqfpxy"
+    },
+    {
+      "album": {
+        "name": "Best Thing (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/1le9RxUAB0Pwv8e1wJNadG"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144387,
+      "name": "Best Thing (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/48jcfIa26aL4f8DxmIgNze"
+    },
+    {
+      "album": {
+        "name": "Best Thing (THNDERZ Remix)",
+        "url": "https://open.spotify.com/album/2o9ywXvHdB5s6WMIZPAcvF"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "THNDERZ",
+          "url": "https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136727,
+      "name": "Best Thing (THNDERZ Remix)",
+      "url": "https://open.spotify.com/track/3n7eGaNMcYT3sAK1mq4jtO"
     },
     {
       "album": {
@@ -4534,7 +4626,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 161400,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/6G9vK4N2yvvs5ZXz3dCPBx"
@@ -4698,7 +4790,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 141714,
       "name": "Could It Be Love",
       "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
@@ -8004,7 +8096,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/329JBDKFLtiMA5aeKmRi1l"
@@ -9693,6 +9785,28 @@
     },
     {
       "album": {
+        "name": "High On You (feat. Melissa de Kleine)",
+        "url": "https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Melissa de Kleine",
+          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "High On You (feat. Melissa de Kleine)",
+      "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
+    },
+    {
+      "album": {
         "name": "High With Me (feat. HERA)",
         "url": "https://open.spotify.com/album/2vYlor9aAZFHlumRlKe5xo"
       },
@@ -10002,6 +10116,28 @@
       "duration_ms": 135000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
+    },
+    {
+      "album": {
+        "name": "Hood To The Hills",
+        "url": "https://open.spotify.com/album/3Py45dN2PGVXuEUdniiOhX"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196938,
+      "name": "Hood To The Hills",
+      "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
     },
     {
       "album": {
@@ -12078,7 +12214,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
@@ -12364,6 +12500,28 @@
       "duration_ms": 126222,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/6UNuKc3xjT7h5ioP501DW3"
+    },
+    {
+      "album": {
+        "name": "Kiss Like This",
+        "url": "https://open.spotify.com/album/2nIzPuYTBVinbnuKUDc3Uh"
+      },
+      "artists": [
+        {
+          "name": "ShortRound",
+          "url": "https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK"
+        },
+        {
+          "name": "KROMI",
+          "url": "https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/6X9F9ozJlTd40tJIkeZeeV"
     },
     {
       "album": {
@@ -13256,7 +13414,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 143488,
       "name": "Life\u2019s Too Short (feat. Scarlett)",
       "url": "https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W"
@@ -13874,7 +14032,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179045,
       "name": "Lost In The Music",
       "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
@@ -15619,6 +15777,28 @@
     },
     {
       "album": {
+        "name": "Monster (with Alok)",
+        "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175562,
+      "name": "Monster (with Alok)",
+      "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/2PJ85eXmeNZNFbUxFLWZvZ"
       },
@@ -16169,6 +16349,28 @@
     },
     {
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -16224,7 +16426,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197495,
       "name": "My Illusion",
       "url": "https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0"
@@ -16530,6 +16732,28 @@
       "duration_ms": 203469,
       "name": "Need Ya (I Don't Wanna) [VIP Mix]",
       "url": "https://open.spotify.com/track/2TMTLZociLAMf3PleDGccB"
+    },
+    {
+      "album": {
+        "name": "It All Makes Sense",
+        "url": "https://open.spotify.com/album/7JuKZCWPpuWIuJV9iGlszn"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151022,
+      "name": "Need You Again",
+      "url": "https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn"
     },
     {
       "album": {
@@ -16984,7 +17208,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155905,
       "name": "Nikes On",
       "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
@@ -17536,7 +17760,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193333,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE"
@@ -17690,6 +17914,28 @@
       "duration_ms": 156109,
       "name": "Ole Ole",
       "url": "https://open.spotify.com/track/0ULUQNsWHyA6kjZMrf5wQ7"
+    },
+    {
+      "album": {
+        "name": "Om Tare (feat. Markus Wach)",
+        "url": "https://open.spotify.com/album/54R58lya0FwLhmEMdnBnif"
+      },
+      "artists": [
+        {
+          "name": "BakuBoy & Austin Blake",
+          "url": "https://open.spotify.com/artist/26afvz5CUjIiv1DrD2xc6O"
+        },
+        {
+          "name": "Markus Wach",
+          "url": "https://open.spotify.com/artist/4Wv02jDIYmi1wuhtilfZKG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180015,
+      "name": "Om Tare (feat. Markus Wach)",
+      "url": "https://open.spotify.com/track/1PCyUZMKyBI22zIShLo2qr"
     },
     {
       "album": {
@@ -19223,6 +19469,28 @@
     },
     {
       "album": {
+        "name": "QUestion",
+        "url": "https://open.spotify.com/album/1e74XaGBqYUCBWVD4ICBrl"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Sean Brauer",
+          "url": "https://open.spotify.com/artist/3tWo5rm9u9HqlY9suIwNZ0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "QUestion",
+      "url": "https://open.spotify.com/track/0Q6WTnr87Omg6bZS6NTf6f"
+    },
+    {
+      "album": {
         "name": "R.O.B.O.",
         "url": "https://open.spotify.com/album/4izLma9Sd3IHoPauGJNdP1"
       },
@@ -19590,7 +19858,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224000,
       "name": "Red",
       "url": "https://open.spotify.com/track/3MvGYvJ8pjFnau0RkcspXK"
@@ -20032,7 +20300,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152000,
       "name": "Rock My Body (with Sash!) [NOYSE Remix]",
       "url": "https://open.spotify.com/track/7pV8lSQ4OM6GyCciYXBdso"
@@ -20620,7 +20888,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175522,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c"
@@ -21700,6 +21968,24 @@
       "duration_ms": 150517,
       "name": "Somebody's Watching Me - Hi_Tack Remix",
       "url": "https://open.spotify.com/track/4F7zNWrje1QkEINAwU6x0m"
+    },
+    {
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7A7G7B4XKHKoSbL6m1ubYg"
+      },
+      "artists": [
+        {
+          "name": "Viv Castle",
+          "url": "https://open.spotify.com/artist/36dY5pyTYB2hHWaY74Jiaa"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/4M2gxdpPagT2OfwZTvgFth"
     },
     {
       "album": {
@@ -24990,7 +25276,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211666,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN"
@@ -25785,6 +26071,36 @@
     },
     {
       "album": {
+        "name": "We Love You Maxi (feat. Tom Coronel)",
+        "url": "https://open.spotify.com/album/7KpEgxyeWMo0eKD9uTGm0k"
+      },
+      "artists": [
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        },
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Pitstop Boys",
+          "url": "https://open.spotify.com/artist/24UwzhsMtaOjBOL6483Jr6"
+        },
+        {
+          "name": "Tom Coronel",
+          "url": "https://open.spotify.com/artist/1HP85pXgXcJfuek5uAtzKl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165204,
+      "name": "We Love You Maxi (feat. Tom Coronel)",
+      "url": "https://open.spotify.com/track/0mA8IopRMlD9tYS5QbWjpC"
+    },
+    {
+      "album": {
         "name": "We Make It Pop",
         "url": "https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw"
       },
@@ -26064,7 +26380,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158795,
       "name": "When I Wake Up (Club Mix)",
       "url": "https://open.spotify.com/track/1wH1L0g4zpEv3KSnFix9Lf"
@@ -26752,6 +27068,28 @@
       "duration_ms": 332903,
       "name": "Yo Quiero Una Nena (Jay Ancor Remix)",
       "url": "https://open.spotify.com/track/26pWBacUgk8YW9Y3tMa216"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Una Nena (Jes\u00fas Fern\u00e1ndez Remix)",
+        "url": "https://open.spotify.com/album/2ZcCaGgc2oLW5RWdnTrUfu"
+      },
+      "artists": [
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Yo Quiero Una Nena (Jes\u00fas Fern\u00e1ndez Remix)",
+      "url": "https://open.spotify.com/track/1y8MeXmtqgqZ1pqg8TQKsd"
     },
     {
       "album": {

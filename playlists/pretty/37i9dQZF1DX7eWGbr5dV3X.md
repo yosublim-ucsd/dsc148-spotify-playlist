@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,687 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,691 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 44 | [Sorry](https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [Sorry](https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn) | 2:54 |
 | 45 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 
-Snapshot ID: `MCwyNzQzYWJmZDg1MDMyYTlkMzdmY2MyNDIxNjk1OGU2NmE4NWVhMjc1`
+Snapshot ID: `MCxjNmU5NGRhYzZiMDRmMTQ2MDYxMThlMzQyNjZkNmE2NzJkZGQ0YmU5`

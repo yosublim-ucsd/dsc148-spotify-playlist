@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Ascendence",
+        "url": "https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        },
+        {
+          "name": "Svoy",
+          "url": "https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Ascendence",
+      "url": "https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ"
+    },
+    {
+      "album": {
         "name": "Bangerang",
         "url": "https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3"
       },
@@ -8268,7 +8290,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 308227,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Hoàng Thùy Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,629 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,655 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [shhhhhhh..](https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [shhhhhhh..](https://open.spotify.com/album/3TfGWGY3mNNdK5LYxBzfXi) | 3:50 |
 | 52 | [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 |
 
-Snapshot ID: `MCxlMmI3YjdjMDA2NmYwMDZiZTdlYWU0M2U1NzkzOTVkYTE3ZGUyZGU2`
+Snapshot ID: `MCxjZjE5Y2QyMGI1MjU3Yjk0ZWZlZTk5MTdmODIzZWJiODg5YzgyM2Rl`

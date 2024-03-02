@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-314 songs - 12 hr 40 min
+315 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Get It TT Challenge](https://open.spotify.com/track/3Txdc1LG5pXtW9Lbpqcfab) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Prince Tae](https://open.spotify.com/artist/7gKJ3JT1cXEumnKBqprbLw) | [Get It TT Challenge](https://open.spotify.com/album/7lX2lIMHg5QKauvcwwvt8u) | 1:48 | 2022-02-11 | 2022-07-22 |
 | [Get Jumped \(with Bandmanrill\)](https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Get Jumped](https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt) | 2:04 | 2022-07-08 | 2022-12-31 |
 | [Girls Just Wanna](https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Girls Just Wanna](https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX) | 2:10 | 2024-01-04 |  |
+| [Girls Wanna Have Fun](https://open.spotify.com/track/0CAoC5v4ACbffXKaOp6VcE) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Girls Wanna Have Fun](https://open.spotify.com/album/36ZGNEPY9qChtjXw4a713p) | 2:04 | 2024-03-01 |  |
 | [Give It 2 Em \- Remix](https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [DJ TBoogie](https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz) | [Give It 2 Em \(Remix\)](https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK) | 2:00 | 2022-02-11 | 2022-12-31 |
 | [Glitchy Gal](https://open.spotify.com/track/5q1gci9yODHXPAtPftAU76) | [Dj Super Will](https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu) | [Glitchy Gal](https://open.spotify.com/album/65qyEf2LyFatQqerGJDHdx) | 2:59 | 2022-02-11 | 2022-10-03 |
 | [Go Crazy](https://open.spotify.com/track/7kjZO6UcU6JO1ZReOR6VGR) | [JustFrenchie](https://open.spotify.com/artist/0s0xxazifQuzFsAuxvWPY8), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Go Crazy](https://open.spotify.com/album/4DdGXPwFKCr1tpqqrul63p) | 2:36 | 2022-12-30 | 2023-01-06 |
@@ -285,7 +286,7 @@
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-12-30 | 2023-01-06 |
 | [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 | 2022-12-31 |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 | 2023-09-16 |
-| [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 | 2023-09-01 |  |
+| [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 | 2023-09-01 | 2024-03-02 |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 | 2023-09-15 |  |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4) | 3:01 | 2023-09-15 | 2023-09-22 |
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |

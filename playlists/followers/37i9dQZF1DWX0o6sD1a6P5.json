@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 883504,
+  "2024-03-02": 883790,
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Dadju x Tayc",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Jungeli",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2609,6 +2609,24 @@
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "album": {
+        "name": "Hokage",
+        "url": "https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166806,
+      "name": "Comme je suis - Bonus",
+      "url": "https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61"
     },
     {
       "album": {
@@ -5978,6 +5996,28 @@
     },
     {
       "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Le contrat",
+      "url": "https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA"
+    },
+    {
+      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -7169,7 +7209,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152920,
       "name": "MYSTERIOUS LOVE",
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
@@ -7285,7 +7325,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 164000,
       "name": "Na nko",
       "url": "https://open.spotify.com/track/2JabqDTQuQ1vqNi6tYVbKE"
@@ -9126,6 +9166,28 @@
     },
     {
       "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
       },
@@ -10187,7 +10249,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
@@ -10489,7 +10551,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158449,
       "name": "Terminus",
       "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
@@ -10775,6 +10837,32 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ"
+    },
+    {
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
     },
     {
       "album": {
@@ -11183,12 +11271,12 @@
           "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
         },
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
           "name": "Alonzo",
           "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
         }
       ],
       "date_added": "2024-02-01",

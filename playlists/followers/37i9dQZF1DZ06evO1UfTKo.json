@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 687755,
+  "2024-03-02": 687911,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Tigres Del Norte",
@@ -515,7 +515,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "En Qu\u00e9 Fall\u00e9",
       "url": "https://open.spotify.com/track/6WNbVxTXPzhitXRUlu3Xqn"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203733,
       "name": "La Mesa Del Rinc\u00f3n",
       "url": "https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p"

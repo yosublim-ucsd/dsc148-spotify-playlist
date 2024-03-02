@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: LUMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,500 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,608 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 2 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 3 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
 | 4 | [Dede](https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd) | [Nora Toure](https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS) | [Dede](https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd) | 3:44 |
-| 5 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 |
+| 5 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 |
 | 6 | [peace of mind](https://open.spotify.com/track/5A1X9wNAHsqSFOHjskzpdw) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [peace of mind](https://open.spotify.com/album/0pytLFiVWcRzmVBgdqW8qc) | 3:35 |
 | 7 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 |
 | 8 | [Cold](https://open.spotify.com/track/5yX4QzBRbOTdjsw4SjYmiF) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Cold](https://open.spotify.com/album/6RtfmpvVAzcFO5b5bSXEvT) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 | 100 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 |
 
-Snapshot ID: `MCwxM2NkZTc5Yjk1MjljM2RiZmNlOWRmOGIxZTA1NTQ5MjI5ODkxZDE1`
+Snapshot ID: `MCxiYzRkODMxNDE3NmE0NDA4ZmMxYWU1ZjJhOWFkOWM3NDg2MTIwZjcy`

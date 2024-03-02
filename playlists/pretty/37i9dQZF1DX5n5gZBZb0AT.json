@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 380204,
+  "num_followers": 380887,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjRiMDBkNTNhZGVmNjIyNGRiN2RhNDY1MWFkNWI4YjI0ODFmYWI4",
+  "snapshot_id": "MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3",
   "tracks": [
     {
       "added_at": "2024-02-13 14:13:34",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "BRODYAGA FUNK",
         "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2024-02-13 14:13:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "Scopin",
-        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Scopin",
-      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "REI DO BRASIL",
         "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
       "added_at": "2024-02-13 14:13:34",

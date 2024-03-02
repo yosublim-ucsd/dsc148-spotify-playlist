@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 129633,
+  "num_followers": 129726,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FlYjI4ZmYzYzJlYjMwNTg4YjU1Nzg0NzQzYjQzZTQyY2UzNDk3",
+  "snapshot_id": "MCxhM2Y0MTRlNzYwODg3OTc3MTZmZGYyODJiZDFiOGMxM2NhYTJiOGM5",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -643,18 +643,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Caricias Vendidas",
-        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
+        "name": "Pura Sombreriza",
+        "url": "https://open.spotify.com/album/30F6CxlYHbKhC8WZtrUNKm"
       },
       "artists": [
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Ruleteando el Mezcal",
-      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
+      "duration_ms": 239375,
+      "name": "Pura Sombreriza",
+      "url": "https://open.spotify.com/track/4z784C8Uuf8z41Bp5caxBp"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -679,22 +683,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Pura Sombreriza",
-        "url": "https://open.spotify.com/album/30F6CxlYHbKhC8WZtrUNKm"
+        "name": "Caricias Vendidas",
+        "url": "https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7"
       },
       "artists": [
         {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
         }
       ],
-      "duration_ms": 239375,
-      "name": "Pura Sombreriza",
-      "url": "https://open.spotify.com/track/4z784C8Uuf8z41Bp5caxBp"
+      "duration_ms": 191693,
+      "name": "Ruleteando el Mezcal",
+      "url": "https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh"
     },
     {
       "added_at": "2023-06-16 06:00:00",

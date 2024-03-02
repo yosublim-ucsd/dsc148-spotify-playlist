@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,591 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,861 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
-| 2 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
-| 3 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
+| 1 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 |
+| 2 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
+| 3 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
 | 4 | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU) | 4:05 |
 | 5 | [Casa Mia](https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Casa Mia](https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ) | 3:30 |
 | 6 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Calle \(feat\. Capo Plaza\)](https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:50 |
 | 50 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
 
-Snapshot ID: `MCwzOWU3NGY3YjNhNjhlZjQ5M2ZjMTQwN2FmYjFhNzVmNzY1MGU1ZDM5`
+Snapshot ID: `MCxiYWE0YTNkMjNmZGRkNWNiMTVlYjUzYWNmYmVhYTM2YjEzNTRlNDM0`

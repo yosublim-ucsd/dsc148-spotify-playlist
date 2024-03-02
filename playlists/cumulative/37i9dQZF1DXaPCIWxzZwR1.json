@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172966,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/4xAOOAuLxBOqEworUmUWhc"
       },
@@ -5393,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Can I Make You Jealous",
+        "url": "https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Can I Make You Jealous",
+      "url": "https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b"
+    },
+    {
+      "album": {
         "name": "High Concept (Deluxe)",
         "url": "https://open.spotify.com/album/4K4xd1yJCISdl7jkRHBb3G"
       },
@@ -5476,7 +5512,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
@@ -6920,7 +6956,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199877,
       "name": "crush",
       "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
@@ -8241,6 +8277,28 @@
     },
     {
       "album": {
+        "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
+        "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182221,
+      "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
+      "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
+    },
+    {
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -8256,6 +8314,24 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "album": {
+        "name": "Doing Better",
+        "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "Doing Better",
+      "url": "https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc"
     },
     {
       "album": {
@@ -8430,6 +8506,28 @@
       "duration_ms": 165933,
       "name": "Don't Leave Yet",
       "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Down (feat. JVKE)",
+        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "Don't Let Me Down (feat. JVKE)",
+      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
     },
     {
       "album": {
@@ -8828,7 +8926,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -10376,7 +10474,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
@@ -12428,7 +12526,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162556,
       "name": "Good to Know",
       "url": "https://open.spotify.com/track/2Kf3UJ8g930JLTv66X4Lr6"
@@ -14553,6 +14651,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182443,
+      "name": "I Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Leave Just Yet",
         "url": "https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq"
       },
@@ -15647,6 +15763,24 @@
     },
     {
       "album": {
+        "name": "Iconique",
+        "url": "https://open.spotify.com/album/7ombOGgLGSWIwT07NmcR6W"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152056,
+      "name": "Iconique",
+      "url": "https://open.spotify.com/track/2AwHfYNiI0aDqs51eA3KUr"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu"
       },
@@ -15908,7 +16042,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -17648,7 +17782,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180813,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV"
@@ -17692,7 +17826,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 157241,
       "name": "lavender (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
@@ -19412,7 +19546,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -19506,6 +19640,24 @@
       "duration_ms": 182507,
       "name": "Main Character",
       "url": "https://open.spotify.com/track/3e9KPFLFbGgXipiucul3LY"
+    },
+    {
+      "album": {
+        "name": "Make Me Your Mrs",
+        "url": "https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158955,
+      "name": "Make Me Your Mrs",
+      "url": "https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb"
     },
     {
       "album": {
@@ -21260,7 +21412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 146932,
       "name": "My Problem",
       "url": "https://open.spotify.com/track/0pXUVMtPaFDghiBgDs6U1f"
@@ -21484,7 +21636,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165746,
       "name": "Never Ever Love a Liar",
       "url": "https://open.spotify.com/track/4Y9ZFT6aD1PfZJHLZXi9EQ"
@@ -25797,6 +25949,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU"
+    },
+    {
+      "album": {
         "name": "mrs lonely / see u again",
         "url": "https://open.spotify.com/album/6oyXduXWAWahfyEnupUltl"
       },
@@ -27239,6 +27409,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI"
       },
@@ -28230,6 +28418,24 @@
       "duration_ms": 168420,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/4sDKw6zSaaQGmPbezJmNIL"
+      },
+      "artists": [
+        {
+          "name": "Jake Cornell",
+          "url": "https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT"
     },
     {
       "album": {
@@ -30394,7 +30600,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160588,
       "name": "The Things I Do For Love",
       "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
@@ -32422,6 +32628,24 @@
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {

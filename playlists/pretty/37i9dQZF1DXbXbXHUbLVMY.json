@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27531,
+  "num_followers": 27548,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzU3ZDllZWE4NWE4Nzk0YzEzNDU1MDI1MTY3ZTc3Y2FkYTcwODYy",
+  "snapshot_id": "MCxlMWE3NjhiMDNhYzk4MzhlYTRiY2I3MmY0MTFkMDlmNDQ3ZWZiZmEx",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Hj\u00e4rta",
-        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
-      },
-      "artists": [
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 145761,
-      "name": "Hanterar",
-      "url": "https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Vill va med dig",
         "url": "https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 136615,
       "name": "OTR (On The Road)",
       "url": "https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 145761,
+      "name": "Hanterar",
+      "url": "https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 127209,
       "name": "Standard",
       "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1247,18 +1263,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+        "name": "BABA IVO",
+        "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
       },
       "artists": [
         {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
         }
       ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+      "duration_ms": 149290,
+      "name": "Daddy Issues (feat. Simon Superti)",
+      "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Bundet Til En By",
+        "url": "https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 161874,
+      "name": "Bundet Til En By",
+      "url": "https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
       },
@@ -1319,22 +1355,6 @@
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Bundet Til En By",
-        "url": "https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 161874,
-      "name": "Bundet Til En By",
-      "url": "https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1359,22 +1379,18 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "BABA IVO",
-        "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
+        "name": "Come Up",
+        "url": "https://open.spotify.com/album/5gF7ulkH0pjCqJlTnF2kAE"
       },
       "artists": [
         {
-          "name": "Ivory",
-          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
         }
       ],
-      "duration_ms": 149290,
-      "name": "Daddy Issues (feat. Simon Superti)",
-      "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
+      "duration_ms": 115925,
+      "name": "Come Up",
+      "url": "https://open.spotify.com/track/5YPVk5H7KIIKFo2Qf24cqG"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Har du glemt meg?",
-        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Har du glemt meg?",
-      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     }
   ],
   "unique_name": "100 (2)",

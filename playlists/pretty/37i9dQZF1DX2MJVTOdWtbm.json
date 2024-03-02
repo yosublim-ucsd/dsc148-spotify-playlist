@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior Zamora",
-  "num_followers": 113560,
+  "num_followers": 113583,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYwZGU5NzlhMzM1YjYxNTZmYzgwM2I5MjY4MDNkYmUwZGY4Mzcy",
+  "snapshot_id": "MCwxNjM5MGE4ZDU1Yzk0YTIzMDIzOTQzZWMzMGU4Y2U5MjY2ODM5ZDE0",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "BAD BEHAVIORS",
-        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
-      },
-      "artists": [
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "BAD BEHAVIORS",
-      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "BAD BEHAVIORS",
+        "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "BAD BEHAVIORS",
+      "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Garabatos",
-        "url": "https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO"
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
       },
       "artists": [
         {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 202478,
-      "name": "Garabatos",
-      "url": "https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1"
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -947,6 +943,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Garabatos",
+        "url": "https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Garabatos",
+      "url": "https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Esc\u00e1pate",
         "url": "https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 165881,
       "name": "Esc\u00e1pate",
       "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 158819,
-      "name": "Aqu\u00ed Sigo",
-      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 149379,
+      "name": "Imagin\u00e1ndote",
+      "url": "https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Los Domingos La Paso Solita",
         "url": "https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 225733,
       "name": "Truth Is (Spanish Version)",
       "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 149379,
-      "name": "Imagin\u00e1ndote",
-      "url": "https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Chulita",
-        "url": "https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Chulita",
-      "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "C\u00d3DIGOS",
         "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 170000,
       "name": "Camino a Neptuno",
       "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Chulita",
+        "url": "https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 174339,
+      "name": "Chulita",
+      "url": "https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
       "artists": [
         {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1483,22 +1483,6 @@
       "duration_ms": 198533,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "La Lune XVIII",
-        "url": "https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ"
-      },
-      "artists": [
-        {
-          "name": "Yesan \u96ea\u5c71",
-          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
-        }
-      ],
-      "duration_ms": 175594,
-      "name": "La Lune XVIII",
-      "url": "https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Gotas",
-        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
+        "name": "La Lune XVIII",
+        "url": "https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Gotas",
-      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+      "duration_ms": 175594,
+      "name": "La Lune XVIII",
+      "url": "https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1555,6 +1535,26 @@
       "duration_ms": 172186,
       "name": "Algod\u00f3n",
       "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Room 302",
         "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 182500,
       "name": "Room 302",
       "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-02-23 05:00:00",

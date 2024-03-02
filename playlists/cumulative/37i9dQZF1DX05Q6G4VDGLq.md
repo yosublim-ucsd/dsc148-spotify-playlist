@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-844 songs - 2 day 2 hr 37 min
+845 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-23 |  |
 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 | 2022-06-28 |  |
+| [Collected](https://open.spotify.com/track/0oWtsgAcVGmBJ6vhZR4gKC) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Collected](https://open.spotify.com/album/3U3U6cEvBsQYKMkR8QAttb) | 3:30 | 2024-02-23 |  |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-27 |  |
 | [Come Sunday](https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk) | [Gustaf Scheringer Trio](https://open.spotify.com/artist/0g6Xp2bFgFDypArAQ1rSsU) | [Come Sunday](https://open.spotify.com/album/3KHznapFExslE80Vo6XPAB) | 4:19 | 2022-08-30 | 2024-01-21 |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-06-15 |  |
@@ -739,7 +740,7 @@
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-07 | 2024-02-26 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-15 |  |
-| [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 | 2024-03-02 |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [The Windmill](https://open.spotify.com/track/0tQdWOKnJRthxwJ5Pr6ZBE) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [The Windmill](https://open.spotify.com/album/7igHbLzkcE9mOsMkKvIxXy) | 2:22 | 2023-06-15 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |

@@ -1,13 +1,33 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis and Tone Stith",
-  "num_followers": 48822,
+  "description": "R&B of the moment by the artists of the future. Cover: Dende",
+  "num_followers": 48863,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDc2OTk2OWNmZGYyZWZjMTAxNzEzYzkzMmZlNmJlNGViOTFlNDY2",
+  "snapshot_id": "MCw2NzgwMjlkZWJjMmVkN2IxZWUyNDIzMGI3ODkxNWZjMTIzMWNkZTJh",
   "tracks": [
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
@@ -93,24 +113,60 @@
       "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-03-01 07:19:09",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA"
+        "name": "Touchin\u2019 (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 224675,
+      "name": "Touchin\u2019 (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
+    },
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 116389,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bad M'fkr",
+        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
       },
       "artists": [
         {
           "name": "Reggie Becton",
           "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Mayila",
-          "url": "https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/4fECQCAJRoonwoGXi898an"
+      "duration_ms": 218698,
+      "name": "Bad M'fkr",
+      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -129,20 +185,28 @@
       "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 07:19:09",
       "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+        "name": "You Don't Call Me",
+        "url": "https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 251009,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+      "duration_ms": 147295,
+      "name": "You Don't Call Me",
+      "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
     },
     {
       "added_at": "2024-02-24 13:09:46",
@@ -223,6 +287,46 @@
       "duration_ms": 194857,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
+    },
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "Sad Songs For Winter",
+        "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
+    },
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "Love It Here",
+        "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 247912,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -307,6 +411,42 @@
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
+    {
+      "added_at": "2024-03-01 07:19:09",
+      "album": {
+        "name": "I Just Wanna Know (Remix)",
+        "url": "https://open.spotify.com/album/0k0rGyoaunyLPKf3Jg2x47"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
+        {
+          "name": "Tarriona 'Tank' Ball",
+          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "I Just Wanna Know - Remix",
+      "url": "https://open.spotify.com/track/6urgrE1xiLMHrnG19NaCtz"
     },
     {
       "added_at": "2024-01-19 06:47:03",
@@ -475,22 +615,6 @@
       "duration_ms": 166123,
       "name": "What's Luv?",
       "url": "https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bad M'fkr",
-        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 218698,
-      "name": "Bad M'fkr",
-      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
     },
     {
       "added_at": "2024-02-24 13:09:46",
@@ -943,22 +1067,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Don't Get Too Cozy",
         "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
       },
@@ -1243,22 +1351,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "ARTchives",
-        "url": "https://open.spotify.com/album/4oKWWUVSRBH1ioYEG8nD6i"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Love Outloud",
-      "url": "https://open.spotify.com/track/5bsGugP8WQoG2J4Dnyxgpl"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "6.9.4.2",
         "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
       },
@@ -1339,30 +1431,6 @@
       "duration_ms": 182037,
       "name": "Caught Between 2 Worlds",
       "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Fantasy (Give It All)",
-        "url": "https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Sebastian Kamae",
-          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
-        },
-        {
-          "name": "Hoofy Baby",
-          "url": "https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp"
-        }
-      ],
-      "duration_ms": 177534,
-      "name": "Fantasy (Give It All)",
-      "url": "https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut"
     },
     {
       "added_at": "2024-01-10 17:00:00",

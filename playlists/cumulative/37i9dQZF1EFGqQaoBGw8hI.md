@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-620 songs - 1 day 19 hr 34 min
+621 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,8 +286,9 @@
 | [It Ain't Gonna Be Easy](https://open.spotify.com/track/0PuA4sglslF8Tp3mwadnaA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 8:27 | 2022-09-08 |  |
 | [It's Getting Dark In Here](https://open.spotify.com/track/7APVB4MJZlDRDudXvt6fp9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:50 | 2022-09-08 |  |
 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 | 2022-09-08 |  |
-| [It's Tough to Be a God](https://open.spotify.com/track/2t0nVICxwGvSitSAdhLz68) | [Annapantsu](https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR), [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [It's Tough to Be a God](https://open.spotify.com/album/3rfNrm03k8ID2syONLS0HK) | 2:37 | 2022-09-08 |  |
+| [It's Tough to Be a God](https://open.spotify.com/track/2t0nVICxwGvSitSAdhLz68) | [Annapantsu](https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR), [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [It's Tough to Be a God](https://open.spotify.com/album/3rfNrm03k8ID2syONLS0HK) | 2:37 | 2022-09-08 | 2024-03-02 |
 | [It's Tough to Be a God](https://open.spotify.com/track/4tl7pGuMUAVqsQpYb6iDls) | [Annapantsu](https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR), [Elsie Lovelock](https://open.spotify.com/artist/2vkVeIL2kQ80QvoLPH8wLD) | [It's Tough to Be a God](https://open.spotify.com/album/2Iu0lehdX64XjoSCIezmH3) | 2:37 | 2023-07-28 | 2023-09-26 |
+| [It’s Tough To Be A God](https://open.spotify.com/track/3ShH8e55JcqKOml54qOsI0) | [Annapantsu](https://open.spotify.com/artist/35F1mMoQtTvOb35oKONHuK) | [Love Story](https://open.spotify.com/album/1NCo4VyBrJNR4eSfNQdOcV) | 2:37 | 2024-03-01 |  |
 | [Jack Rabbit \- Single Version](https://open.spotify.com/track/2FXtoMPJJkxCcQbFjwuZJa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 1:49 | 2022-09-08 |  |
 | [Jamaica Jerk\-Off \- Remastered 2014](https://open.spotify.com/track/5uyAeakIkHyTSW88uCD0M4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:38 | 2022-09-08 |  |
 | [January](https://open.spotify.com/track/3iiDK7xLc1gHFYb2GeiSHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:59 | 2022-09-08 |  |

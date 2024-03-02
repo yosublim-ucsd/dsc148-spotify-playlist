@@ -1,12 +1,12 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 12718,
+  "num_followers": 12729,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQ1ODFiYWRiOWJkZDc5Y2JhZjIyOGQ1Y2Y3NDVkOWM1ZTFlOWI1",
+  "snapshot_id": "MCw0NGYxYWE5MTg1ZTgzYzRlZWU2NTU1NzI4NGViNzkxZWZmNjc5M2Qw",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -27,6 +27,30 @@
       "duration_ms": 159453,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Wherever I Go (feat. Lawrence & Michael McDonald)",
+        "url": "https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Wherever I Go (feat. Lawrence & Michael McDonald)",
+      "url": "https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -831,26 +855,6 @@
       "duration_ms": 230818,
       "name": "The Lottery",
       "url": "https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Humility (feat. George Benson)",
-        "url": "https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp"
     },
     {
       "added_at": "2023-09-01 04:00:00",

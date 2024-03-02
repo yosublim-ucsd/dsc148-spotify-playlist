@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,873 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,268 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 67 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 |
 | 68 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
 | 69 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 |
-| 70 | [Unity \- Original Mix](https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Steve C](https://open.spotify.com/artist/4XSkgDkwi4AQXvtO0EMGcb) | [Unity \(Original Mix\)](https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy) | 5:12 |
-| 71 | [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 |
+| 70 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 |
+| 71 | [Unity \- Original Mix](https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Steve C](https://open.spotify.com/artist/4XSkgDkwi4AQXvtO0EMGcb) | [Unity \(Original Mix\)](https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy) | 5:12 |
 | 72 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
-| 73 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 |
+| 73 | [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 |
 | 74 | [Moonlight \- Rave Edit](https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight \(Rave Edit\)](https://open.spotify.com/album/2efgNZbcsAf9eYJ8hwXSJM) | 2:33 |
 | 75 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 
-Snapshot ID: `MCxhMmZmYmNlZDE3Mjg0MWQ4MjUyMzU4MmFhYjRkNTAwNmYyZTY1MGRm`
+Snapshot ID: `MCw5ZjJkMTUyODhiMWMyMWU1YTc2ZjNjMmMzZDZjMDZkZmQxNDVkYjQz`

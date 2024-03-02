@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 5464,
+  "2024-03-02": 5466,
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191608,
       "name": "Booze And Blues",
       "url": "https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 156573,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "Deep Moanin Blues",
       "url": "https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157760,
       "name": "Down By The Riverside",
       "url": "https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 155373,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Jealous Hearted Blues",
       "url": "https://open.spotify.com/track/29rFcZbCR4mKJ9dOlVgKTz"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157733,
       "name": "Mountain Jack Blues",
       "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
@@ -2563,7 +2563,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 196133,
       "name": "Sissy Blues",
       "url": "https://open.spotify.com/track/3b0V3O7zWEZDSqscSPDT5b"
@@ -2959,7 +2959,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 185522,
       "name": "Toad Frog Blues",
       "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"

@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13874,
+  "num_followers": 13894,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTNjODZiNzA1YzRhNTNhMDc1MGM4N2YwM2IwMDJlMTUwMWIxZDc0",
+  "snapshot_id": "MCwxY2ZkMmJlOWYzM2M2MjJhZDM3YzQ4NzllOGI0OTNkM2NlYzU5YmZh",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:27",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 214301,
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
-      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 346154,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 214301,
+      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1055,22 +1071,6 @@
       "duration_ms": 146146,
       "name": "Den milde dag er lys og lang",
       "url": "https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 174573,
       "name": "Avril au Portugal",
       "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
         "name": "Where Do You Start",
         "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 211621,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
+        "name": "Encore At The Blue Note (Live / New York City, NY / March 16-18, 1990)",
+        "url": "https://open.spotify.com/album/7jWi1CM5vqfXmsggmGoZRc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        }
+      ],
+      "duration_ms": 540040,
+      "name": "Here's That Rainy Day - Live At The Blue Note, New York City, NY / March 16-18, 1990",
+      "url": "https://open.spotify.com/track/0sZbZ36pWvOKhFK6HlxddR"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1631,30 +1655,6 @@
       "duration_ms": 187400,
       "name": "Dont Rain on My Parade",
       "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
-        "name": "Encore At The Blue Note (Live / New York City, NY / March 16-18, 1990)",
-        "url": "https://open.spotify.com/album/7jWi1CM5vqfXmsggmGoZRc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        }
-      ],
-      "duration_ms": 540040,
-      "name": "Here's That Rainy Day - Live At The Blue Note, New York City, NY / March 16-18, 1990",
-      "url": "https://open.spotify.com/track/0sZbZ36pWvOKhFK6HlxddR"
     },
     {
       "added_at": "2024-02-22 09:44:27",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Latin pop tracks you need to hear, featuring LAGOS & ELENA ROSE.",
+  "description": "Latin pop tracks you need to hear, featuring Be\u00e9le.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 241038,
       "name": "bien hecho",
       "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222550,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
+    },
+    {
+      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -6698,10 +6716,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {
@@ -7802,7 +7842,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186760,
       "name": "Sobreviviste",
       "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
@@ -7914,6 +7954,24 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "album": {
+        "name": "Soy un HP",
+        "url": "https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146282,
+      "name": "Soy un HP",
+      "url": "https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 167486,
+  "2024-03-02": 167491,
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Kasabian",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Vampire Weekend",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -166,6 +166,24 @@
     },
     {
       "album": {
+        "name": "Balu",
+        "url": "https://open.spotify.com/album/0k3Iu4vn19MBPYtefVrJPX"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232586,
+      "name": "Balu",
+      "url": "https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3"
+    },
+    {
+      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
       },
@@ -310,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
+    },
+    {
+      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -357,7 +393,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179025,
       "name": "Bullet of Dignity",
       "url": "https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI"
@@ -483,7 +519,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 332306,
       "name": "Chosen to Deserve",
       "url": "https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P"
@@ -657,7 +693,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
       "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
@@ -1145,6 +1181,24 @@
     {
       "album": {
         "name": "Hello",
+        "url": "https://open.spotify.com/album/169ybGzGpv1UjjWJ37ckhx"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR"
+    },
+    {
+      "album": {
+        "name": "Hello",
         "url": "https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S"
       },
       "artists": [
@@ -1429,7 +1483,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
@@ -1793,7 +1847,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213080,
       "name": "Nothing To Declare",
       "url": "https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM"
@@ -1854,6 +1908,24 @@
     },
     {
       "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+    },
+    {
+      "album": {
         "name": "OVERDOSE",
         "url": "https://open.spotify.com/album/79v8F7efrdJAZNQXxuYgaZ"
       },
@@ -1887,6 +1959,24 @@
       "duration_ms": 278400,
       "name": "Peace Sign",
       "url": "https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa"
+    },
+    {
+      "album": {
+        "name": "Loss Of Life",
+        "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336973,
+      "name": "People In The Streets",
+      "url": "https://open.spotify.com/track/2IxhaFpj0pMwL7Z3hatWWi"
     },
     {
       "album": {
@@ -2648,6 +2738,24 @@
     },
     {
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
+    },
+    {
+      "album": {
         "name": "Time Of Your Life",
         "url": "https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b"
       },
@@ -2749,7 +2857,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191402,
       "name": "Wasterpiece",
       "url": "https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc"

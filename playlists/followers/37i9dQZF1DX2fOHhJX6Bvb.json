@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 4246,
+  "2024-03-02": 4266,
   "date_first_scraped": "2023-10-03",
   "description": "Instrumental piano versions of famous songs to make you fall asleep.",
   "name": "Sleep Covers",
@@ -381,6 +381,24 @@
       "duration_ms": 159930,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9"
+    },
+    {
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/6bnw4Rj4lvfRhV3TjYWChK"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/4QEHrBuiDhHKkRqW0qGPbg"
     },
     {
       "album": {
@@ -1860,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/5R1VLkJnWcEEjmE9SssEWO"
+      },
+      "artists": [
+        {
+          "name": "Alva N\u00f8rgaard",
+          "url": "https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/1JEk9nzrQalaE3igPsrTAa"
+    },
+    {
+      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY"
       },
@@ -1968,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG"
+      },
+      "artists": [
+        {
+          "name": "Falk Tyler",
+          "url": "https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164424,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3"
+    },
+    {
+      "album": {
         "name": "The long and winding road",
         "url": "https://open.spotify.com/album/5TutzM4ffUT9H5MxzqzC23"
       },
@@ -2037,6 +2091,24 @@
       "duration_ms": 212500,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/35BWRKTZMjgPxRo37w9Bf7"
+    },
+    {
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/1MlQf9ogBxdFDmwIqUpols"
+      },
+      "artists": [
+        {
+          "name": "Moonsong",
+          "url": "https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ik3mIWucIdsumQ4KInGQA"
     },
     {
       "album": {

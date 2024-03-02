@@ -456,10 +456,28 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164848,
       "name": "love u in the morning",
       "url": "https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK"
+    },
+    {
+      "album": {
+        "name": "Love U in the Morning",
+        "url": "https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q"
+      },
+      "artists": [
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Love U in the Morning",
+      "url": "https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo"
     },
     {
       "album": {

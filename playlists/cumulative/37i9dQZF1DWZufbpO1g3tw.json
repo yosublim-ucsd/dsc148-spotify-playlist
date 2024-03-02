@@ -2917,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "MELANCOL\u00cdA",
+        "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "MELANCOL\u00cdA",
+      "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
+    },
+    {
+      "album": {
         "name": "Commercial",
         "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
       },
@@ -3891,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date Beb\u00e9",
+        "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193258,
+      "name": "Qu\u00e9date Beb\u00e9",
+      "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+    },
+    {
+      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -4494,6 +4534,24 @@
       "duration_ms": 138400,
       "name": "Te Vine A Buscar",
       "url": "https://open.spotify.com/track/02dOTqwvx6geq18nOgtSS0"
+    },
+    {
+      "album": {
+        "name": "TENGO SED",
+        "url": "https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209531,
+      "name": "TENGO SED",
+      "url": "https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1820,
+  "num_followers": 1819,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjU5MDJlYmRmNDFiOWJlNTMzYzZlOTU1MTQ1YjcxYTc4MzI2MGU3",
+  "snapshot_id": "MCxiYTU0YTNlOWUwZTI3YmI0OTVjOTk0YjMyZDM1MjllZWRkNmY2MTg4",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Butterfly Doors",
-        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
-      },
-      "artists": [
-        {
-          "name": "Onlybino!",
-          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
-        }
-      ],
-      "duration_ms": 112336,
-      "name": "Butterfly Doors",
-      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "Nouveau western",
         "url": "https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 274026,
       "name": "Nouveau western",
       "url": "https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Butterfly Doors",
+        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        }
+      ],
+      "duration_ms": 112336,
+      "name": "Butterfly Doors",
+      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
     },
     {
       "added_at": "2022-10-01 17:37:57",

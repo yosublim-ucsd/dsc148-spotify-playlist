@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Paul Weller
 
-281 songs - 20 hr 2 min
+282 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,8 +193,9 @@
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-07-28 |  |
 | [Pretty Boy](https://open.spotify.com/track/0HLUNrbWZdyUDWVKy3X9JH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Pretty Boy](https://open.spotify.com/album/0H47zdiavh551uJHvO4Nfx) | 4:55 | 2022-11-04 | 2023-01-08 |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-11 | 2023-03-06 |
-| [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 | 2022-07-28 |  |
+| [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 | 2022-07-28 | 2024-03-02 |
 | [Pumping On Your Stereo](https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz) | 3:20 | 2022-04-08 | 2022-07-26 |
+| [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 | 2024-03-01 |  |
 | [Range Rover Bitch](https://open.spotify.com/track/0CgJ1v2IDbrp4JAYeGhfYz) | [Taylor Hawkins](https://open.spotify.com/artist/6bI8H2TnlKYGJSo52wcTP4) | [Kota](https://open.spotify.com/album/0NpLbHiynJPixcHeGdd2Kb) | 2:49 | 2022-04-08 | 2022-05-28 |
 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-08-18 | 2022-11-13 |
 | [Remember We Were Lovers](https://open.spotify.com/track/51TM4SSltkpKkL0ZlrpfCg) | [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Remember We Were Lovers](https://open.spotify.com/album/4nqCtPyJLpPpr2H087hKNC) | 4:16 | 2022-06-06 | 2022-07-05 |

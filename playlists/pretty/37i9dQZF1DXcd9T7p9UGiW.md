@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Rotimi, Nasty C, Mayorkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,216 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,320 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 73 | [THE RETURN OF MANSA MUSA \(feat\. Swizz Beatz & Blackway\)](https://open.spotify.com/track/31b9MrWn9o3F5A9L4AnniU) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 3:25 |
 | 74 | [Sex & Marijuana](https://open.spotify.com/track/4IYlivA2JNikyAskn9JVhh) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 2:57 |
 | 75 | [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 |
-| 76 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
+| 76 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
 | 77 | [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 |
 | 78 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 |
 | 79 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 81 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 |
 | 82 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
 
-Snapshot ID: `MCxiMDNhMjU3OWFlNWFiYzM5MWYwNzViZGJkYmEyMWNlZWE2ZjA2YTNi`
+Snapshot ID: `MCxhZTZjYjcyNTMxOGFmYjUxMzMzZmM4ZWNmYjFjN2UwMGM2OGVlOWQ0`

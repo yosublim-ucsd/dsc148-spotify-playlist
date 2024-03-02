@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 16 min
+60 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 |  |
 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 | 2024-02-14 |  |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2024-01-29 |  |
+| [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 |  |
 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 | 2024-01-29 |  |
 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 |  |
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [La Destreza](https://open.spotify.com/artist/24R1KBqLrpV8Ta5Yha8TTm), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 |  |
@@ -38,7 +39,7 @@
 | [Ismael \- En Vivo](https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ismael \(En Vivo\)](https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3) | 3:15 | 2024-02-01 | 2024-02-20 |
 | [La Ambición](https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Ambición](https://open.spotify.com/album/1QbFLgmBJcU1zxxvxpsq5S) | 3:43 | 2024-02-12 | 2024-02-23 |
 | [La Chona \- En Vivo](https://open.spotify.com/track/3Lrw6HpAN3sUnlcZU7AmQt) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:44 | 2024-02-19 |  |
-| [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 | 2024-01-29 |  |
+| [La F\*\*\*\*g Ola](https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [La F\*\*\*\*g Ola](https://open.spotify.com/album/60dcyhKJXf69o3jx474mAE) | 3:27 | 2024-01-29 | 2024-03-02 |
 | [La F\*\*\*\*g Ola](https://open.spotify.com/track/50yN8DTwunujnOLfWnnr7Z) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:27 | 2024-02-09 | 2024-02-14 |
 | [La Leyenda De Los Llanos](https://open.spotify.com/track/5XmceElKDjfqXj2tSJdaCz) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Leyenda De Los Llanos](https://open.spotify.com/album/5gwNiUYmhTBYEWMrnKUFNz) | 3:24 | 2024-01-29 |  |
 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 | 2024-01-29 |  |

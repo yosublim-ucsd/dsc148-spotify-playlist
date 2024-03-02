@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
@@ -1984,6 +1984,24 @@
       "duration_ms": 212297,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
+    },
+    {
+      "album": {
+        "name": "La Chica-c\u00e1",
+        "url": "https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT"
+      },
+      "artists": [
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174589,
+      "name": "La Chica-c\u00e1",
+      "url": "https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS"
     },
     {
       "album": {

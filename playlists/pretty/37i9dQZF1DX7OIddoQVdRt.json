@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 625662,
+  "num_followers": 625738,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MThiNTU0ODcwODYxMjNjOTdkMWMzMDMzZDc2MTE4OTIzY2M1MGVm",
+  "snapshot_id": "MCwwNzY0N2IzZjU0NDQ0OGEyZTcyYjdjZTlhMzZlYmNmYzlmMGM2MDg1",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "When I Pray",
-        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 221915,
-      "name": "When I Pray",
-      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "When I Pray",
+        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 221915,
+      "name": "When I Pray",
+      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "The Truth (Standard)",
         "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 469631,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Alive In South Africa",
-        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Friend of God - Live",
-      "url": "https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Alive In South Africa",
+        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Friend of God - Live",
+      "url": "https://open.spotify.com/track/3crhuOV1LoARTZdukgcr6a"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "We Can't Forget Him",
-        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Storm",
-          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
-        }
-      ],
-      "duration_ms": 178201,
-      "name": "We Can't Forget Him",
-      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Nobody But God",
         "url": "https://open.spotify.com/album/3NmK2Q1MXkotwhXku6hn4u"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 196271,
       "name": "Nobody But God",
       "url": "https://open.spotify.com/track/228U9lzEqF0muDxx5q3T4u"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "We Can't Forget Him",
+        "url": "https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Storm",
+          "url": "https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8"
+        }
+      ],
+      "duration_ms": 178201,
+      "name": "We Can't Forget Him",
+      "url": "https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E"
     },
     {
       "added_at": "2024-02-02 06:37:59",

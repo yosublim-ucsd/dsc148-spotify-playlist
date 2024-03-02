@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,200 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,235 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 33 | [Ranger Swing](https://open.spotify.com/track/61bNf4P5rvoOMNTw16QIg8) | [Raphael Fays](https://open.spotify.com/artist/4P3gGxKIS5sZwZWRzmQDEJ) | [Paris Séville, bois de guitare \(Madera de Guitarra\)](https://open.spotify.com/album/4zA1OF1mdccHMXfwNBaodm) | 2:34 |
 | 34 | [Minor Swing](https://open.spotify.com/track/2aMelYeJahQsjd6SmUOwQv) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [French Connection](https://open.spotify.com/artist/6KeMArvyYyLT7d8FYg5uze), [Rémi Oswald](https://open.spotify.com/artist/6KUtGQ6FEjH493OF67v40v), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2) | [Minor Swing](https://open.spotify.com/album/3QSDADTCiVpjnAZ8okKBHM) | 2:23 |
 | 35 | [Les yeux noirs](https://open.spotify.com/track/1f4uY5tp4llGfaQ60fgTfK) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Gipsy Project & Friends](https://open.spotify.com/album/15nkNdrzGxHIimtDuv38RE) | 2:54 |
-| 36 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K), [Yaakov Hoter](https://open.spotify.com/artist/1Y9EcFkSewIBfJMqGspnbd) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 |
+| 36 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K), [Yaakov Hoter](https://open.spotify.com/artist/7dKnPqPQrPkUMGgwBRBlNK) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 |
 | 37 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 |
 | 38 | [Bekledim de gelmedin](https://open.spotify.com/track/2wqjrl5ROiMhGlL5f4suz3) | [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [Bekledim de gelmedin](https://open.spotify.com/album/0Y2J7JR4uwh6RmyXzJD9An) | 2:42 |
 | 39 | [Manéa](https://open.spotify.com/track/6GyeeOjRJQEK7803yc2LO2) | [Florin Niculescu](https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs), [Corneliu Niculescu](https://open.spotify.com/artist/3P09Y4zaLlwrNCmVWRHbII) | [Florilège](https://open.spotify.com/album/1MpKx6vqEcy0BXbYBRqUYV) | 8:03 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 56 | [For Magnio](https://open.spotify.com/track/6HV3Ma60s7MHw9bNE1bjME) | [Yorgui Loeffler](https://open.spotify.com/artist/0sALjHLWzwa0fnA1pjmS1w) | [For Magnio](https://open.spotify.com/album/5BIw4s7EX46sFOveBaEf0u) | 3:22 |
 | 57 | [Blues for Stochelo](https://open.spotify.com/track/2ekfzRwLFWDis4G34Kkfx9) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG) | [Guitar Heroes](https://open.spotify.com/album/6MnYzIKgvXkNkjgqRsQuld) | 3:53 |
 | 58 | [Songe d'automne](https://open.spotify.com/track/1sUbrYb20WAdDd9AwoAlc2) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 3:58 |
-| 59 | [Montagne Sainte Genevieve](https://open.spotify.com/track/397iXIZsyxtrVmHHaFQ3Fd) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K), [Yaakov Hoter](https://open.spotify.com/artist/1Y9EcFkSewIBfJMqGspnbd) | [Muza](https://open.spotify.com/album/3gcMwaciO9aSYlaHFUuGh7) | 4:36 |
+| 59 | [Montagne Sainte Genevieve](https://open.spotify.com/track/397iXIZsyxtrVmHHaFQ3Fd) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K), [Yaakov Hoter](https://open.spotify.com/artist/7dKnPqPQrPkUMGgwBRBlNK) | [Muza](https://open.spotify.com/album/3gcMwaciO9aSYlaHFUuGh7) | 4:36 |
 | 60 | [Billet Doux](https://open.spotify.com/track/4Cqk1sFJWm1FiqYFmPwgnd) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 2:32 |
 | 61 | [Gypsy Blue](https://open.spotify.com/track/0hdR3DIy2DlrmhKQdfa4eF) | [Robin Nolan](https://open.spotify.com/artist/2axe4X4ve982dSX78uAffV) | [Gypsy Blue](https://open.spotify.com/album/6KPX06CyYb5ZhxCoohfXtp) | 3:25 |
 | 62 | [Guet\-Apens](https://open.spotify.com/track/4OqNtoNFjUOTeiBfOSZlsL) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlYjdjODJlZTY0ZmNiYzI0ZmMxNTMyMGQ2MGMzZjc0NGE5ZDk3ZjM1`
+Snapshot ID: `MCwxNzQxNjM4ZTBkNzkyYjgyNzhlMGJkZjBjZmRkMTA0MzNjZjBlNjVm`

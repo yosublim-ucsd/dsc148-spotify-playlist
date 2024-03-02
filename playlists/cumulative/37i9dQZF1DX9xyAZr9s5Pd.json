@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175420,
       "name": "Alma Rota",
       "url": "https://open.spotify.com/track/13fm0n3dQGNwMzVPdayFe9"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
@@ -352,6 +352,24 @@
       "duration_ms": 227343,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR"
+    },
+    {
+      "album": {
+        "name": "De Cabeza",
+        "url": "https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174286,
+      "name": "De Cabeza",
+      "url": "https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug"
     },
     {
       "album": {
@@ -689,6 +707,28 @@
     },
     {
       "album": {
+        "name": "La Vida Sin Ti Apesta",
+        "url": "https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188992,
+      "name": "La Vida Sin Ti Apesta",
+      "url": "https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY"
+    },
+    {
+      "album": {
         "name": "las consecuencias",
         "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
       },
@@ -884,7 +924,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234478,
       "name": "Mito",
       "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
@@ -1258,10 +1298,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "Souvenir - Pt. 1",
+      "url": "https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga"
     },
     {
       "album": {
@@ -1440,6 +1498,24 @@
       "duration_ms": 196220,
       "name": "Tutorial Para Olvidarme de Ti",
       "url": "https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT"
+    },
+    {
+      "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
     },
     {
       "album": {

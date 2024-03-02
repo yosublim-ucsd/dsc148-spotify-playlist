@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-173 songs - 10 hr 22 min
+174 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-07-08 |  |
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 | 2022-07-29 |
 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
+| [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 | 2024-03-01 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 | 2023-09-30 |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:25 | 2022-12-02 |  |

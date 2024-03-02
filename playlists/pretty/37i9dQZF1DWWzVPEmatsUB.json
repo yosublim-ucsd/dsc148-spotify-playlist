@@ -1,13 +1,37 @@
 {
   "description": "Ease into the day",
-  "num_followers": 637793,
+  "num_followers": 637773,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBjYWRiZmI1MGQ1ZGE0ODIzZGYwM2Q5MTFlNTliMWJmOTgxODdk",
+  "snapshot_id": "MCw5OWQ0OTdkMWEwOGM0MWE0Y2MwMDE5ZTA0NTE2NzNjMjM5MzFjZWM5",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/1jBOO1ozjaMOgRAN7jaEPU"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -1603,30 +1627,6 @@
       "duration_ms": 178175,
       "name": "Amazing - Strings Version",
       "url": "https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
       "added_at": "2023-09-01 04:00:00",

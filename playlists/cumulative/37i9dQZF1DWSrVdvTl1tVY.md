@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Jamie Jones, Jazzy
 
-756 songs - 1 day 20 hr 13 min
+757 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,8 @@
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-07 | 2023-04-07 |
 | [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 | 2023-09-29 | 2024-02-17 |
 | [We Bring It](https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [We Bring It](https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y) | 6:08 | 2022-09-15 | 2023-02-04 |
-| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-03-01 |  |
+| [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-03-01 | 2024-03-02 |
+| [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-01 |  |
 | [We R Bass](https://open.spotify.com/track/3aVqtzLdnboGMRxngBIKPQ) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [You Sure Do](https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF) | 2:56 | 2024-03-01 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-01-19 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2021-12-17 | 2022-04-02 |

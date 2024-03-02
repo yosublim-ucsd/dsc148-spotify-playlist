@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,893 likes - 99 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,972 likes - 99 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 98 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 |
 | 99 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
 
-Snapshot ID: `MCxlOGMyY2RhMDhmNjFlYzY2MmM2NjQ0ZjVjMDQ3NGI5MmNhYjIzZDMx`
+Snapshot ID: `MCwyM2U5M2FjNWMxYmM5MWIwZDllNmQ4M2MwZDFlMjczODg3Yzg3ZjIz`

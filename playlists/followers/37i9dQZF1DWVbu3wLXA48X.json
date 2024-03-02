@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 110218,
+  "2024-03-02": 110213,
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: MGMT",
+  "description": "Current indie tunes from Asia and around the world. Cover: Cigarettes After Sex",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -3278,6 +3278,24 @@
     },
     {
       "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/3qqeIfazlihpxdBmuT0NQY"
       },
@@ -6242,6 +6260,24 @@
     },
     {
       "album": {
+        "name": "Electric Blue",
+        "url": "https://open.spotify.com/album/0gZrh2whTmhOttHSoHe7Cz"
+      },
+      "artists": [
+        {
+          "name": "Tash Wolf",
+          "url": "https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136638,
+      "name": "Electric Blue",
+      "url": "https://open.spotify.com/track/3vqMSB50nUqjw5dlVKuYlF"
+    },
+    {
+      "album": {
         "name": "Blueboy Must Die",
         "url": "https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg"
       },
@@ -6581,6 +6617,24 @@
       "duration_ms": 264960,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+    },
+    {
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "album": {
@@ -8163,6 +8217,24 @@
       "duration_ms": 120078,
       "name": "FULL TIME LOVER",
       "url": "https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA"
+    },
+    {
+      "album": {
+        "name": "Funeral for Justice",
+        "url": "https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188620,
+      "name": "Funeral for Justice",
+      "url": "https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF"
     },
     {
       "album": {
@@ -14092,6 +14164,24 @@
     },
     {
       "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "album": {
         "name": "Museum",
         "url": "https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g"
       },
@@ -14686,6 +14776,24 @@
     },
     {
       "album": {
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/1XKVJa9cUW0d6wNWzHS8KM"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182415,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/6ZNyo3ROtBfHAuQcvg35gy"
+    },
+    {
+      "album": {
         "name": "Never Knew feat. lewloh & Joie Tan",
         "url": "https://open.spotify.com/album/6gnsa07ZlU8pscDpf8jJ0Y"
       },
@@ -14771,6 +14879,28 @@
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
+    },
+    {
+      "album": {
+        "name": "New World (Flow)",
+        "url": "https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323785,
+      "name": "New World (Flow)",
+      "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
     },
     {
       "album": {
@@ -18514,6 +18644,24 @@
     },
     {
       "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210416,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
+    },
+    {
+      "album": {
         "name": "saturday",
         "url": "https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1"
       },
@@ -21560,6 +21708,24 @@
     },
     {
       "album": {
+        "name": "tears",
+        "url": "https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210138,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
+    },
+    {
+      "album": {
         "name": "Tears can be so soft",
         "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
       },
@@ -21655,6 +21821,24 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp"
+    },
+    {
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "album": {
@@ -23522,6 +23706,24 @@
     },
     {
       "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip"
       },
@@ -23939,6 +24141,24 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
+    },
+    {
+      "album": {
+        "name": "waiting game",
+        "url": "https://open.spotify.com/album/2VzlrNdjwTkLzMocNcQwzE"
+      },
+      "artists": [
+        {
+          "name": "adoracion",
+          "url": "https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189481,
+      "name": "waiting game",
+      "url": "https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0"
     },
     {
       "album": {

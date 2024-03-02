@@ -12343,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "GAMBITL\u00dcV",
+        "url": "https://open.spotify.com/album/6blSega4yzAZfg5OOUD0at"
+      },
+      "artists": [
+        {
+          "name": "Aaron Fuentez",
+          "url": "https://open.spotify.com/artist/7saXKDoncGMqUlkEyO72Zq"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "GAMBITL\u00dcV",
+      "url": "https://open.spotify.com/track/3XswYo6RX3PHU9s0V5G3L9"
+    },
+    {
+      "album": {
         "name": "Ganado",
         "url": "https://open.spotify.com/album/6ie1qb0OX0nxpVp9BbypPD"
       },

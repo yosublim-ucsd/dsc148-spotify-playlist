@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 138704,
+  "2024-03-02": 138718,
   "date_first_scraped": "2023-02-01",
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
   "name": "\u5143\u6c17Booster",
@@ -921,7 +921,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
@@ -1844,6 +1844,28 @@
     },
     {
       "album": {
+        "name": "Don't Let Me Down (feat. JVKE)",
+        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "Don't Let Me Down (feat. JVKE)",
+      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
+    },
+    {
+      "album": {
         "name": "\u8749\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
         "url": "https://open.spotify.com/album/3ewrQXeEG1sBfnyV3i0c5v"
       },
@@ -2483,7 +2505,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203666,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
@@ -3624,6 +3646,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO"
+    },
+    {
+      "album": {
         "name": "Into Your Room",
         "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
       },
@@ -3715,6 +3755,28 @@
       "duration_ms": 191867,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj"
+    },
+    {
+      "album": {
+        "name": "99.9 Psychic Radio",
+        "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191132,
+      "name": "Just Like Dat feat. JP THE WAVY",
+      "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
       "album": {
@@ -6983,7 +7045,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"

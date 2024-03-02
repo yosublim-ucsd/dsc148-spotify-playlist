@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,372 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,373 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 14 | [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 |
 | 15 | [Papertrip](https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Papertrip](https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu) | 6:08 |
 | 16 | [Passionfruit](https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 9:22 |
-| 17 | [Miroir Miroir \- Qrion Remix](https://open.spotify.com/track/59TmgJoFavEKYp1G8iwCDh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miroir Miroir \(Romain Garcia & Qrion Mixes\)](https://open.spotify.com/album/4ITkRnfS31YuP5s6zixkNs) | 4:55 |
+| 17 | [Miroir Miroir \- Qrion Remix](https://open.spotify.com/track/5MbH0z2jrKUcYPouJ6BKwU) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miracles \(Remixed\)](https://open.spotify.com/album/1AIxBTLNu8SaNa0BOylONe) | 4:55 |
 | 18 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 |
 | 19 | [Yellow Sunrise](https://open.spotify.com/track/2GXeUVMLsI9I1BQHobzZUx) | [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Yellow Sunrise](https://open.spotify.com/album/1lgsxWcCZbNIXLSbJzWfse) | 7:10 |
 | 20 | [Earth Steps \- Stones Taro Remix](https://open.spotify.com/track/64Fw1IBthfBnZdp3cMUNd6) | [Pee J Anderson](https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Earth Steps Remixes](https://open.spotify.com/album/1Hgj4xit7jwAruS3eNkOO0) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCw1MDEwYjRmZGI1ZmZiNDE4MTcxOTM4NDQzNTJlNjA0MTQxNGNhYzkx`
+Snapshot ID: `MCw1NTFjYTJhY2RlMmU5NmNjNWQ1NDRjNDU4Y2Q3YTIzYmMzZjVkNTYz`

@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-157 songs - 7 hr 42 min
+160 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-12-11 | 2024-02-03 |
 | [SCREAM MY NAME](https://open.spotify.com/track/6qiGAKi0adwLd9m0Ucncmj) | [DROP DEAD DAN](https://open.spotify.com/artist/4Ehm757OGLRQnrCRyeW0pA), [KingOsiris](https://open.spotify.com/artist/1qdnOsuULHa0BOACCE9eJJ) | [SCREAM MY NAME](https://open.spotify.com/album/1ZpX0o1liNXivuCldcxKcT) | 3:24 | 2023-06-26 | 2023-07-14 |
 | [Seeing Is Believing](https://open.spotify.com/track/3TqmTtE8bP2deIzx7ASnus) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Seeing Is Believing](https://open.spotify.com/album/0zDXBcTRIuKIh7WE8uKSbg) | 3:19 | 2023-06-26 | 2023-08-03 |
+| [Shake That Ass](https://open.spotify.com/track/1BorJKjZlH26aeIBiuUfsR) | [Tamash](https://open.spotify.com/artist/2FeLfiGktGsFKdg9toHB9s), [Dino Mileta](https://open.spotify.com/artist/2wxCWN0Nc1mCCC9PoKYAvB) | [Shake That Ass](https://open.spotify.com/album/7elfSXV9csx47iV6b5qAcu) | 2:14 | 2024-03-01 |  |
 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-21 | 2023-08-28 |
 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-26 | 2023-09-26 |
 | [Smile](https://open.spotify.com/track/2NLUhPapw9f686xkUQP3HT) | [Tayri](https://open.spotify.com/artist/0uoOQGX0vj7U6l3KCQqyJn) | [Smile](https://open.spotify.com/album/1N0UZYMyQljEOnl8kxpBVk) | 3:05 | 2023-07-21 | 2023-08-20 |
@@ -142,6 +143,7 @@
 | [The Endgame](https://open.spotify.com/track/5LKxeoQvpjAMKVjO2W2tkq) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [Digital Playground](https://open.spotify.com/album/2ZvbeN1OdHatcw3yzkV2aY) | 2:34 | 2023-07-06 | 2023-07-15 |
 | [The Music](https://open.spotify.com/track/65JCNU7q3n5JrNHySefc3P) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [The Music](https://open.spotify.com/album/6LdlSCPDnCqJrWNqsMVLhM) | 2:37 | 2024-02-15 |  |
 | [The Rhythm](https://open.spotify.com/track/2uL0YefYZycACHnFFAinQj) | [BigNoise](https://open.spotify.com/artist/0B2d8TC0aDDvyzJnW0evs0), [Tammy Andre](https://open.spotify.com/artist/3CyIxNFynImoAYCiE4aZXd) | [The Rhythm](https://open.spotify.com/album/36DdOPRRlXZMn6iN2WO1pr) | 2:22 | 2023-09-20 | 2023-12-14 |
+| [The Seed \(2.0\)](https://open.spotify.com/track/0Nlxe96Ldr1KoQimV4NYiS) | [Giovi](https://open.spotify.com/artist/3D2KnEWgwG5Iu8fTgdiflr) | [The Seed \(2.0\)](https://open.spotify.com/album/5wZZPs8rLNmHS7X1LetYtO) | 2:54 | 2024-03-01 |  |
 | [The Sub](https://open.spotify.com/track/4tDa6lrRntdzRurg2IyWTN) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [The Sub](https://open.spotify.com/album/51MZ8xXdxPRU7Z0CEDy6JI) | 2:38 | 2023-06-26 | 2023-08-20 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-08-27 | 2023-12-14 |
 | [This Is Your Brain](https://open.spotify.com/track/323YswWCcHWPEqQ8B5fw8l) | [Viv Castle](https://open.spotify.com/artist/36dY5pyTYB2hHWaY74Jiaa) | [This Is Your Brain](https://open.spotify.com/album/1MaGW0nRejiDgFJbmMtaJO) | 2:59 | 2024-01-22 | 2024-02-16 |
@@ -161,6 +163,7 @@
 | [Watch](https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW) | [Pietro Giacobbi](https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7), [STRIKE](https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g) | [Watch](https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD) | 2:36 | 2023-07-28 | 2023-09-26 |
 | [Westside](https://open.spotify.com/track/2Rc6ivoghl3HERJ9bbqEWo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/6uGoTMFwu9mxx5B6NibinR) | 2:56 | 2023-08-27 | 2023-09-26 |
 | [Where Did You Go](https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR) | [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX) | [Where Did You Go](https://open.spotify.com/album/7eR7UTDYSnHzdm60bvFOpm) | 2:28 | 2023-08-11 | 2023-09-26 |
+| [White Tiger](https://open.spotify.com/track/5sK6BGBWbB8HxgSgAWoBjq) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [White Tiger](https://open.spotify.com/album/6JcUvozxPKui9B7W7rPpgN) | 5:05 | 2024-03-01 |  |
 | [Work It Out](https://open.spotify.com/track/0cRO24ZJgiYMLWUs3ClQsA) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [KiNG RO](https://open.spotify.com/artist/0XEaX97bpyY7SYzRITCai3) | [Work It Out](https://open.spotify.com/album/7moiA42A1tSRCTnk0GSqPE) | 2:09 | 2023-08-04 | 2023-08-28 |
 | [XTC](https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [XTC / Concentrate EP](https://open.spotify.com/album/5ZeguV8kQIg2JBd566b6D2) | 2:45 | 2023-09-22 |  |
 | [Yonkis](https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd) | [Alvaro Marteen](https://open.spotify.com/artist/6slj5Mjaokbx7kOukYvqDQ) | [Yonkis](https://open.spotify.com/album/0nILwsuqAJl1lwyBKessOX) | 3:18 | 2023-07-14 | 2023-08-11 |

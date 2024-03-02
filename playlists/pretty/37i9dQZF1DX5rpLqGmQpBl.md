@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,920 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,983 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 | 9 | [수고했어요](https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul) | [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [회사다녀요](https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb) | 3:16 |
 | 10 | [내일에게 dear tomorrow](https://open.spotify.com/track/3GOBW6QvqkOf8BnOVwUypj) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [내일에게 dear tomorrow](https://open.spotify.com/album/4Jlv2dBZTqjY0Evtnb00aW) | 2:36 |
 | 11 | [You have done well](https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A) | [이정민](https://open.spotify.com/artist/7jgBLUmhwwTsywCJfcztkC) | [You have done well](https://open.spotify.com/album/12HCGXiulJ1v7cJz5hcXUA) | 3:05 |
-| 12 | [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 |
+| 12 | [New Day](https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn) | 4:02 |
 | 13 | [Curated by Park Hyung Sik](https://open.spotify.com/track/1lehXiBvBRomkGJClvrwfq) | [Doctor Slump](https://open.spotify.com/artist/2OWDvWVKxxRKuAz0gcVnbu) | [Doctor Slump audio liners](https://open.spotify.com/album/2qRLLwRZCfMYKMxdGZCa6b) | 0:35 |
 | 14 | [Rose Blossom](https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 1st Mini Album \[Rose Blossom\]](https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L) | 3:15 |
 | 15 | [2! 3!](https://open.spotify.com/track/3KVOfGrYVjoP1w8T2HVltm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:32 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpLqGmQpBl.md) - [plain]
 | 29 | [Unrealtime](https://open.spotify.com/track/4U23H3LnIdwLsb3yt6ztvi) | [임광균](https://open.spotify.com/artist/5uNWaCVmTX58YBaaE9E3Nv) | [Unrealtime](https://open.spotify.com/album/5IKEzaDVF1oG4hPwlUP303) | 4:54 |
 | 30 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 |
 
-Snapshot ID: `MCw5MjNkYTJmMjM3YzdhNjY2MWY5MGU4NzAwNWZkZTYyMWU2MmY4YWM5`
+Snapshot ID: `MCxmZGEzNTNmOTc0YzMwOWNlZGRiMzcwYmQwZDA3NGQwMWRlMmFiMTRi`

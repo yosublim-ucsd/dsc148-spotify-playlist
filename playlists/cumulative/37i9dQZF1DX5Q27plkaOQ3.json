@@ -696,7 +696,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 226285,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/6O2gsFwfTNXBwckEgGhLLp"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221793,
       "name": "Chef's Kiss - Samplifire Remix",
       "url": "https://open.spotify.com/track/0LzikqXCJYtNWLTEjJhQ0t"
@@ -2338,6 +2338,24 @@
       "duration_ms": 158840,
       "name": "Cut Throat",
       "url": "https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz"
+    },
+    {
+      "album": {
+        "name": "CYBERHELL",
+        "url": "https://open.spotify.com/album/4RSJumbiZSV7L7IWOuov3E"
+      },
+      "artists": [
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "CYBERHELL",
+      "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
     },
     {
       "album": {
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 212571,
       "name": "Dubstar",
       "url": "https://open.spotify.com/track/0yHV0shIlOG2vd1hwPvV6I"
@@ -5709,6 +5727,32 @@
     },
     {
       "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/4bIb005UlJu6dhC3griVP9"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        },
+        {
+          "name": "DOIL",
+          "url": "https://open.spotify.com/artist/1avxJxeDVDFiIs54JSk1aD"
+        },
+        {
+          "name": "TINYKVT",
+          "url": "https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Kiss of Death",
+      "url": "https://open.spotify.com/track/0AHXy0dHUQWSryFkIJXPx0"
+    },
+    {
+      "album": {
         "name": "KNOCKOUT",
         "url": "https://open.spotify.com/album/4Fwk1d9vojH0bc24RIFzm2"
       },
@@ -6670,7 +6714,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 223200,
       "name": "Mutation",
       "url": "https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW"
@@ -7520,7 +7564,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210322,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
@@ -7878,7 +7922,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184975,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
@@ -7992,6 +8036,28 @@
       "duration_ms": 230400,
       "name": "PUSH EM",
       "url": "https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t"
+    },
+    {
+      "album": {
+        "name": "Pythons",
+        "url": "https://open.spotify.com/album/5XtMVhQpAqC2IVYbvG1q21"
+      },
+      "artists": [
+        {
+          "name": "Truth",
+          "url": "https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237364,
+      "name": "Pythons",
+      "url": "https://open.spotify.com/track/0wPppvHPF0KxxIch194EMN"
     },
     {
       "album": {
@@ -8981,6 +9047,24 @@
     },
     {
       "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "album": {
         "name": "Senses",
         "url": "https://open.spotify.com/album/528AOUAXpxheUivis06m99"
       },
@@ -9731,6 +9815,28 @@
     },
     {
       "album": {
+        "name": "A VERY WEIRD & TOTALLY AWESOME JOURNEY",
+        "url": "https://open.spotify.com/album/4xedpwcxqHx1sSjvq8QPPi"
+      },
+      "artists": [
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        },
+        {
+          "name": "MYRIAS",
+          "url": "https://open.spotify.com/artist/3R0ArhKJFFQwJ1FsgJqQQs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "SPIN",
+      "url": "https://open.spotify.com/track/42lxcAbf4vRpCjCDhTBUWH"
+    },
+    {
+      "album": {
         "name": "Spirit Showdown",
         "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
@@ -10126,7 +10232,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 279724,
       "name": "Surge",
       "url": "https://open.spotify.com/track/0YQLxSWruiFJJ42lexKQGU"

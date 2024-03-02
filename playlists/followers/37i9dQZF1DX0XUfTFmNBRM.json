@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 2010909,
+  "2024-03-02": 2012708,
   "date_first_scraped": "2021-01-25",
   "description": "Hottest Hindi music served here. Cover - Animal",
   "name": "Hot Hits Hindi",
@@ -893,7 +893,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 232500,
       "name": "Bolo Na - Film Version",
       "url": "https://open.spotify.com/track/2FJ2LtnHAW3Hz91eG1i6OD"
@@ -3236,6 +3236,32 @@
     },
     {
       "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268164,
+      "name": "Kesariya",
+      "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
+    },
+    {
+      "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
       },
@@ -3255,7 +3281,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
@@ -5547,7 +5573,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 230292,
       "name": "Raataan Lambiyan (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
@@ -5816,6 +5842,28 @@
     },
     {
       "album": {
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5na4ciNJa3xQdvcjyUsyy5"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195681,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/4LzjjNaJfnbPtJFYfMC8dc"
+    },
+    {
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
       },
@@ -5857,6 +5905,32 @@
       "duration_ms": 248221,
       "name": "Saari Ki Saari 2.0",
       "url": "https://open.spotify.com/track/34ppgPuSUgKIqUIBT26ulf"
+    },
+    {
+      "album": {
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
       "album": {

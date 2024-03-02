@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-143 songs - 7 hr 32 min
+144 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-12-20 | 2023-05-13 |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-12-20 | 2023-07-04 |
 | [Broken Love](https://open.spotify.com/track/2sru5unW8B5KguId0rGVA0) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Jay Tastic](https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG) | [Broken Love](https://open.spotify.com/album/7loqEPn2MK5ckcn3SMGghh) | 2:36 | 2024-01-05 | 2024-01-26 |
-| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 |  |
+| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 | 2024-03-02 |
+| [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-23 |  |
 | [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 | 2022-12-20 |  |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-12-20 | 2023-10-24 |
 | [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 | 2023-10-14 |

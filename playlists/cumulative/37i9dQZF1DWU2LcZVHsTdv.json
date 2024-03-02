@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Album Damascus",
+        "url": "https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Does Heaven Have A Creek",
+      "url": "https://open.spotify.com/track/0Bk1zyBpaGrcxyZiSU88Zg"
+    },
+    {
+      "album": {
         "name": "Don't Lose Heart",
         "url": "https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f"
       },
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200000,
       "name": "Walls Fall Down (feat. Lee Brice)",
       "url": "https://open.spotify.com/track/0p1PbTyKuvMl0nZorvAQgJ"

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Pandorea
 
-784 songs - 1 day 19 hr 30 min
+785 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [ENDURO](https://open.spotify.com/track/7hdxWdoBe9pEHZpoKgosgu) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [ENDURO](https://open.spotify.com/album/2etNGVtnWyjyE9EHk0Zh7c) | 3:11 | 2023-10-05 | 2023-11-09 |
 | [Equidistanti](https://open.spotify.com/track/6QMfUsdaR9da70NUiLbuoM) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Equidistanti](https://open.spotify.com/album/3mjSTBj1BMm1naf1viNBRF) | 3:27 | 2024-01-25 |  |
 | [Equinox Fall](https://open.spotify.com/track/7idhTgLH1JA6n5rVwSCt9P) | [Sunmei](https://open.spotify.com/artist/4cRFw0VPFmwucWCPXoJ36M) | [Equinox Fall](https://open.spotify.com/album/1sREiONOGG50UdW0E3Mhj1) | 3:14 | 2023-05-18 | 2023-06-02 |
+| [era l'unico modo per vederci riuniti](https://open.spotify.com/track/6r8AUsZlAZj6NfwqqAXyGI) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [era l'unico modo per vederci riuniti](https://open.spotify.com/album/0502VtiqfmBmdb9y2k6irQ) | 3:10 | 2024-03-01 |  |
 | [Erbivoro](https://open.spotify.com/track/1O9IaKFHjIJBo7LMmMPZmU) | [Damon Arabsolgar](https://open.spotify.com/artist/7LHVkW9uuKShSSme5V7Cal) | [Erbivoro](https://open.spotify.com/album/1DYdtxzzQlyXgnvgqS2nNK) | 6:25 | 2024-02-15 |  |
 | [Erkeysette](https://open.spotify.com/track/24oKu2ajsqXAhB351IH1S2) | [Enfores](https://open.spotify.com/artist/3AehfYV3tDVbHMU8SlV77u) | [Erkeysette](https://open.spotify.com/album/4UzkJ6UTSfSw1vdY0d1lHo) | 2:30 | 2024-02-29 |  |
 | [Ero troppo fatto](https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w) | [Il Cile](https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS) | [Ero troppo fatto](https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f) | 3:29 | 2023-09-21 | 2023-11-17 |

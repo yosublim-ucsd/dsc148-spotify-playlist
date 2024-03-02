@@ -1291,6 +1291,32 @@
     },
     {
       "album": {
+        "name": "Berserk",
+        "url": "https://open.spotify.com/album/1E6pIr2zorzEOT3ecyVDYF"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Bremont 420",
+          "url": "https://open.spotify.com/artist/0Pm1HMMO0w5Suw6JY9zSlm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "Berserk",
+      "url": "https://open.spotify.com/track/3aZU3naLSdJeDw5ggdgG2r"
+    },
+    {
+      "album": {
         "name": "BIEN",
         "url": "https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD"
       },
@@ -3375,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
+    },
+    {
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -5434,7 +5482,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 334499,
       "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
       "url": "https://open.spotify.com/track/2yDtx0UZPvu5Unm9JPvTUr"
@@ -5824,6 +5872,32 @@
       "duration_ms": 236743,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/73TxnIomGcg7uzMHgPQrxc"
+    },
+    {
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400229,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/6QAbvZgey59Nx6uSV1ZdQE"
     },
     {
       "album": {
@@ -8261,6 +8335,24 @@
     },
     {
       "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
+    },
+    {
+      "album": {
         "name": "Rap y Calle No. 15",
         "url": "https://open.spotify.com/album/2vCrdTZlz1ilVKY1UrqCUg"
       },
@@ -9474,7 +9566,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 255481,
       "name": "Suelo Iraki",
       "url": "https://open.spotify.com/track/2e74DdYGIZLIJbrSLJRucr"
@@ -9724,7 +9816,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175400,
       "name": "Tensi\u00f3n",
       "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"

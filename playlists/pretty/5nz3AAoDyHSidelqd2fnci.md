@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 11 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just Another Nervous Wreck \- 2010 Remastered](https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:25 |
-| 2 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 |
-| 3 | [I'M OK](https://open.spotify.com/track/5YNl9FsJCnD4p7i4RUqFjG) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW) | [I'M OK](https://open.spotify.com/album/22WCtzNbVbx7Mr9oO7tVnx) | 1:49 |
-| 4 | [Boss of Me \(From "Malcolm in the Middle"\)](https://open.spotify.com/track/5NbakuBtm6SKgmGxPS5QJh) | [The Superstation](https://open.spotify.com/artist/3227cjfeftfIG8yOCYqDDr) | [Boss of Me \(From "Malcolm in the Middle"\)](https://open.spotify.com/album/27hQK7DYqEbTvfcQAsH4me) | 0:41 |
-| 5 | [Du Hast](https://open.spotify.com/track/5TOOZcIo08RJQ3ZJfyEV2h) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Punk Goes 90s Vol\. 2](https://open.spotify.com/album/5YEUqtBlEPHSEHCkSIIhK0) | 3:59 |
-| 6 | [Humanos Como Tú](https://open.spotify.com/track/3PfJcQLyrDOrVcyrDf3mzg) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [División](https://open.spotify.com/album/1LmzZpRdF3pP8o8P7ZUY9u) | 3:31 |
-| 7 | [Phantom Of The Opera \- 1998 Remastered Version](https://open.spotify.com/track/5RS9QZRfr7vqQRT6G9e9SD) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 7:07 |
-| 8 | [Her Silent Language](https://open.spotify.com/track/3qlM6T8HX4BnA4lmtmXohj) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [We Are the Void](https://open.spotify.com/album/36dEkcuRN9bt1GWyY9OCjk) | 3:33 |
-| 9 | [Stand](https://open.spotify.com/track/0XR2W8dQdkRX1qwhEJkdxs) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [The Best Of \- 20 Years Of Rock](https://open.spotify.com/album/6t8MO7WPlhgakTE22CbrYy) | 5:14 |
-| 10 | [Demon's Eye](https://open.spotify.com/track/1boUSJka3nhn7NRDufiqpr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of](https://open.spotify.com/album/0lTxLSQPNM9FYQAzWsN09C) | 5:22 |
-| 11 | [Persefone](https://open.spotify.com/track/0EbJ1rXHaNTWYH8nmwOx62) | [Nostra Morte](https://open.spotify.com/artist/23rTu9AKzvhxdUpucAMK5f) | [Sin Retorno](https://open.spotify.com/album/4NyCoVVl52GTSWopjXQG4K) | 4:41 |
-| 12 | [Call of the Valkyrie](https://open.spotify.com/track/4eZQNqoaT1wxShxRKnksLT) | [Valkyre](https://open.spotify.com/artist/5vqE4IN0gjLsg05saWJn7G) | [Call of the Valkyrie](https://open.spotify.com/album/5ELyjEQG88zvBxoaYNV9bB) | 3:16 |
+| 1 | [Devil's Dance](https://open.spotify.com/track/5NKw5BgSKMWLeiQkA6kHUq) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/73E6u02YIL3dK6UConUUv4) | 5:18 |
+| 2 | [Artemisa](https://open.spotify.com/track/1V9qSspDOnbYMaudmtmU9m) | [Destripando la Historia](https://open.spotify.com/artist/2YMMZXPBFWM9aFUL4fzRTn) | [Artemisa](https://open.spotify.com/album/6LWD6pbFGNMKSB9UC7IMcX) | 2:33 |
+| 3 | [Why Walk On Water When We've Got Boats \- Live at the Capitol](https://open.spotify.com/track/4Urbb9u3jP5cn5vR1TJiWD) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 2:00 |
+| 4 | [Canto 34](https://open.spotify.com/track/0bJZ7e9eOBBiIbuGMZV9Wh) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is The Answer](https://open.spotify.com/album/17IyljrvxhPktGR5NYx9iQ) | 4:09 |
+| 5 | [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 6 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
+| 7 | [Mother Love](https://open.spotify.com/track/5Yy7X9QdNOv7zHHgopzcnO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol\. 3 / 1984\-1995\)](https://open.spotify.com/album/6WB2BiVWk33OHI7WXjQuSB) | 4:48 |
+| 8 | [Death Breath](https://open.spotify.com/track/4gFZvnK9YhOYJRE4Dd5HMH) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season \(Deluxe Edition\)](https://open.spotify.com/album/2HN58gcFvTkDSdes9K5oAr) | 4:20 |
+| 9 | [Where The Sidewalk Ends](https://open.spotify.com/track/1V9Hl50zqMGNxCuRudZFWE) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [3\-D](https://open.spotify.com/album/0gxhA1qHpFPm2XbiBPuxMj) | 2:25 |
+| 10 | [Legacy](https://open.spotify.com/track/3CETe8fIQZt0X01fuaNZbS) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Challenger](https://open.spotify.com/album/6qfsRtzIJdze9OsooWVNXE) | 4:04 |
+| 11 | [Homo sapiens](https://open.spotify.com/track/3k7zRBc07Dnf3N9gpXVzlG) | [Metopia](https://open.spotify.com/artist/55NwLuJYwlmij2TZJZ21u3) | [Homo sapiens](https://open.spotify.com/album/6lyhob0rS15rsgqPnyk44J) | 3:34 |
+| 12 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 |
 
-Snapshot ID: `MzUsNmZhOTYwNjFiNmRmOTY3Njk0NmU2MTRhMTAzYzEzZGIyYWVjODU1ZA==`
+Snapshot ID: `NDQsYzgwY2E5NWU3Y2EyMzhiMDc1YjgwYjI4ZjMwYTJjNmZlMmMxMjc0NQ==`

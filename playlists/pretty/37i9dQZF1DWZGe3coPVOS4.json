@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 8587,
+  "num_followers": 8611,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzI4YWFmYTg3OWViY2M5MWU5ZDk1Nzg2ZWNhYzUzZjU2MzUxY2Ex",
+  "snapshot_id": "MCxhMmU4MDZkMTM4YmJiZmI0NTQ4OTgxMzkwZjQ0MzFmYjRjYjJjZDU5",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Is It Over Now?",
+        "url": "https://open.spotify.com/album/2KEgxv9xrT7qomxFyBBEcT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 206873,
+      "name": "Is It Over Now?",
+      "url": "https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {

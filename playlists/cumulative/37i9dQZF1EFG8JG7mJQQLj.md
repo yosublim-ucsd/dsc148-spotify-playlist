@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-461 songs - 1 day 2 hr 50 min
+462 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [The World I Knew \- From Disneynature African Cats](https://open.spotify.com/track/0Wa12lITrpuNVuTSeCW14j) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [The World I Knew \(From Disneynature African Cats\)](https://open.spotify.com/album/3RwyE2ilKxOwUOwEUtiECu) | 4:47 | 2024-01-29 |  |
 | [This Ain't Goodbye](https://open.spotify.com/track/2nbdAzvO2N9oT40uN5l6EG) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:23 | 2024-01-29 |  |
 | [This Is How You Know](https://open.spotify.com/track/4StvPr4wQdxChEcalZNd8V) | [Union Moon](https://open.spotify.com/artist/3FIEwtZZiLVuEDJ2cEaneq) | [This Is How You Know](https://open.spotify.com/album/0TBLAeZMpqTPrabpasHOji) | 3:20 | 2024-01-29 |  |
-| [Thrill Is Gone \(feat\. Ryan Tedder\)](https://open.spotify.com/track/4Oj5dBcZr9Cp7Gcc9wjGRF) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Cyclone](https://open.spotify.com/album/6zjZyvMo3r2Rvmkq9YcUgi) | 4:26 | 2024-01-29 |  |
+| [Thrill Is Gone \(feat\. Ryan Tedder\)](https://open.spotify.com/track/3IHYaVggUnnOD3jORDrqJT) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Cyclone](https://open.spotify.com/album/7op1W43ZmzV93amrOQdwl8) | 4:26 | 2024-03-01 |  |
+| [Thrill Is Gone \(feat\. Ryan Tedder\)](https://open.spotify.com/track/4Oj5dBcZr9Cp7Gcc9wjGRF) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Cyclone](https://open.spotify.com/album/6zjZyvMo3r2Rvmkq9YcUgi) | 4:26 | 2024-01-29 | 2024-03-02 |
 | [Time of Our Lives](https://open.spotify.com/track/2KcAwEm9VrpJFsJH6MKOCv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:30 | 2024-01-29 |  |
 | [Tip Of My Tongue](https://open.spotify.com/track/5OYQe6ZOXoFBDszbTcLrZr) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:18 | 2024-01-29 |  |
 | [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/4cshWe3AmsWgE5J17JkWhH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/0FnIPF2PbhvjNaEgAl8QA9) | 3:38 | 2024-01-29 |  |

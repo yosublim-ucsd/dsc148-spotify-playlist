@@ -1,8 +1,8 @@
 {
-  "2024-03-01": 44236,
+  "2024-03-02": 44255,
   "date_first_scraped": "2022-07-17",
-  "description": "Ivandro escolhe as m\u00fasicas, ele decide!",
-  "name": "Seda: Ivandro Takeover",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
+  "name": "Seda",
   "tracks": [
     {
       "album": {
@@ -231,7 +231,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 199837,
       "name": "7 Chaves",
       "url": "https://open.spotify.com/track/3X7mmyo1ALA9twhf5xIbyR"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179176,
       "name": "Aprendi a Amar",
       "url": "https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA"
@@ -1548,6 +1548,32 @@
     },
     {
       "album": {
+        "name": "B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205934,
+      "name": "B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "album": {
         "name": "C'La Perfecion",
         "url": "https://open.spotify.com/album/5qDrbiudT2Cd8ZUfpNCfQl"
       },
@@ -1559,7 +1585,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 180837,
       "name": "C'La Perfecion",
       "url": "https://open.spotify.com/track/5aNyNvjhs3ieGT1b6geApO"
@@ -2598,6 +2624,24 @@
     },
     {
       "album": {
+        "name": "Casa azul",
+        "url": "https://open.spotify.com/album/3PwblwQzJFjLtCsJhIMdck"
+      },
+      "artists": [
+        {
+          "name": "Denilson L.A",
+          "url": "https://open.spotify.com/artist/1gPqaBqCV53biXorBTjsTx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "DDPT",
+      "url": "https://open.spotify.com/track/4k0qtaZjrdltLFseskSfHm"
+    },
+    {
+      "album": {
         "name": "de longe",
         "url": "https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv"
       },
@@ -3093,7 +3137,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 137142,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6"
@@ -3359,7 +3403,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175200,
       "name": "Espirito",
       "url": "https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1"
@@ -5096,6 +5140,28 @@
     },
     {
       "album": {
+        "name": "IV Per\u00edodo",
+        "url": "https://open.spotify.com/album/1qMC2inXdV9XwAWGqObN40"
+      },
+      "artists": [
+        {
+          "name": "BIG JONY",
+          "url": "https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "kingpin",
+      "url": "https://open.spotify.com/track/4JBlF8N0V5gRZig3Bw96ka"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7o",
         "url": "https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93"
       },
@@ -5265,6 +5331,24 @@
       "duration_ms": 277400,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/7IBuWKHuCG79ee99IlaHvd"
+    },
+    {
+      "album": {
+        "name": "Leonor",
+        "url": "https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS"
+      },
+      "artists": [
+        {
+          "name": "Nadav",
+          "url": "https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108865,
+      "name": "Leonor",
+      "url": "https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH"
     },
     {
       "album": {
@@ -5691,7 +5775,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 162736,
       "name": "Ma Boo",
       "url": "https://open.spotify.com/track/1sazGKK94pXnyd4iNaigcj"
@@ -6927,7 +7011,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 183321,
       "name": "N\u00e3o d\u00e1",
       "url": "https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm"
@@ -7169,6 +7253,24 @@
       "duration_ms": 255652,
       "name": "O Brilho de Viver",
       "url": "https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W"
+    },
+    {
+      "album": {
+        "name": "O Que N\u00f3s Fomos",
+        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
+      },
+      "artists": [
+        {
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158081,
+      "name": "O Que N\u00f3s Fomos",
+      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
     },
     {
       "album": {
@@ -7521,6 +7623,28 @@
       "duration_ms": 211200,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/0HMIctywEolk71isSynd0u"
+    },
+    {
+      "album": {
+        "name": "Pedi Amor",
+        "url": "https://open.spotify.com/album/6nxWglWaQuK4KgVFLSLSnp"
+      },
+      "artists": [
+        {
+          "name": "RAZNOSENSE",
+          "url": "https://open.spotify.com/artist/3S0AyPD0gLjthll7jBrcWV"
+        },
+        {
+          "name": "Dom Reis",
+          "url": "https://open.spotify.com/artist/1AVZby5ziYtUBRWjSGHvwx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Pedi Amor",
+      "url": "https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU"
     },
     {
       "album": {
@@ -8673,7 +8797,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 127858,
       "name": "Seda",
       "url": "https://open.spotify.com/track/52vwFvO5kika1UoLRwFk1G"
@@ -8957,7 +9081,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 178023,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/7weWL4qWlqHmwwk6NNVUGd"
@@ -9225,6 +9349,24 @@
       "duration_ms": 245389,
       "name": "Something",
       "url": "https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA"
+    },
+    {
+      "album": {
+        "name": "Sonhos e Diamantes",
+        "url": "https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Sonhos e Diamantes",
+      "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
     },
     {
       "album": {
@@ -10090,6 +10232,24 @@
     },
     {
       "album": {
+        "name": "Tudo Para Seguir",
+        "url": "https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Tudo Para Seguir",
+      "url": "https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46"
+    },
+    {
+      "album": {
         "name": "Tudo Se Repete",
         "url": "https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe"
       },
@@ -10625,6 +10785,24 @@
       "duration_ms": 164200,
       "name": "Voei",
       "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
+    },
+    {
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1"
+      },
+      "artists": [
+        {
+          "name": "SHINY",
+          "url": "https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl"
     },
     {
       "album": {

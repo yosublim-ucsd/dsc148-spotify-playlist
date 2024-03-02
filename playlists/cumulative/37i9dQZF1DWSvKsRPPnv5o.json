@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Ty Dolla $ign",
+  "description": "Holdin' it down for the westside. Cover: Schoolboy Q",
   "name": "Westside Story",
   "tracks": [
     {
@@ -959,6 +959,36 @@
     },
     {
       "album": {
+        "name": "ALLAT (feat. Honcho)",
+        "url": "https://open.spotify.com/album/6BUZdiyGFB4KaYchLWp7Nf"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Honcho",
+          "url": "https://open.spotify.com/artist/3nhOQpzDVpQedYYziFe9MJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "ALLAT (feat. Honcho)",
+      "url": "https://open.spotify.com/track/42vN6qwolmMizZmqsqvPtO"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF"
       },
@@ -1298,6 +1328,28 @@
       "duration_ms": 184986,
       "name": "Back In Traffic (feat. KIRBY)",
       "url": "https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230612,
+      "name": "Back n Love (feat. Devin Malik)",
+      "url": "https://open.spotify.com/track/7sIShdqb3UI8EdoIZdgT9t"
     },
     {
       "album": {
@@ -4318,7 +4370,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154736,
       "name": "Familia",
       "url": "https://open.spotify.com/track/76fNtlXyyeT3rxP5VFFocj"
@@ -4574,6 +4626,24 @@
       "duration_ms": 122733,
       "name": "Fire Proof",
       "url": "https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245695,
+      "name": "First",
+      "url": "https://open.spotify.com/track/4jTlfU1QMbhaAleV6Zu9EJ"
     },
     {
       "album": {
@@ -5180,7 +5250,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
@@ -5738,6 +5808,28 @@
       "duration_ms": 143941,
       "name": "Grimey Park Side",
       "url": "https://open.spotify.com/track/5VVAiiuULuSh3DOcBramlZ"
+    },
+    {
+      "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/0gm0CFS6o1mCDTLMyKgVzG"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Racks",
+          "url": "https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe"
+        },
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131928,
+      "name": "Groovy",
+      "url": "https://open.spotify.com/track/3eUzIMYVH4nRh0Fuc2Q0ZG"
     },
     {
       "album": {
@@ -7772,7 +7864,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 171493,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/1cub6yoVokdIB7MAF8Brza"
@@ -8879,6 +8971,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113619,
+      "name": "Movie (feat. Az Chike)",
+      "url": "https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5"
+    },
+    {
+      "album": {
         "name": "Murder Music",
         "url": "https://open.spotify.com/album/7An2d6hIBTIisD0WRyr7No"
       },
@@ -9694,7 +9808,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 103783,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3NFUXAwuvn8ojSp8HI9DBd"
@@ -13293,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
+    },
+    {
+      "album": {
         "name": "That's My Dawg",
         "url": "https://open.spotify.com/album/711yj1V6Irxb9bedEqPqRY"
       },
@@ -14622,7 +14754,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 146266,
       "name": "WHAT'S HATNIN",
       "url": "https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk"
@@ -14924,7 +15056,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"

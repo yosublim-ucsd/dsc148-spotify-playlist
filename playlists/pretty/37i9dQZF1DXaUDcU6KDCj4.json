@@ -1,13 +1,193 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bonny Light Horseman ",
-  "num_followers": 791385,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tiny Habits",
+  "num_followers": 791494,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDk0ZGU3MzAxYjEzOGM3NGI1MGZmMTdhNDJiZTFjMGU2NzNkMjE0",
+  "snapshot_id": "MCwyMzhmMDNkZmJjNGUyZGFhMTY5NDc4Y2Y1NmNmMDM0NGE1MjlmMzhi",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Future Ghosts",
+        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 208010,
+      "name": "Future Ghosts",
+      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/38kZX9wnCPqph1vxUM7I22"
+      },
+      "artists": [
+        {
+          "name": "T Bone Burnett",
+          "url": "https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "Waiting For You (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61YiDeQ7mtBuUV1zTC1d8J"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Nothing More",
+        "url": "https://open.spotify.com/album/0tpZErRRUDil4pqFZ9SDxP"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Nothing More",
+      "url": "https://open.spotify.com/track/5AK8vuswyRulHsNQt5egbx"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Can't Stop Loving You (Live from the Treehouse)",
+        "url": "https://open.spotify.com/album/2v06baVYPu4TDtZXXXMltq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Can't Stop Loving You (Live from the Treehouse)",
+      "url": "https://open.spotify.com/track/3qo22ku7j0p8xsMBymHUo4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Sometimes / Tomorrow",
+        "url": "https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 177736,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/7p46jopEVdyoabBoen57VI"
+    },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
@@ -23,6 +203,38 @@
       "duration_ms": 197416,
       "name": "When I Was Younger",
       "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1EmgT1EfItRqaqV93Xtpjx"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/7zlr1UONdftxVKIKprKCfy"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Only Heart I Have",
+        "url": "https://open.spotify.com/album/3OFeFZ5XS9O16vVaBYOgBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "The Only Heart I Have",
+      "url": "https://open.spotify.com/track/7frZ3CGnrRA9EsrlmPovKk"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2295,230 +2507,6 @@
       "duration_ms": 221415,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Wonder, Won't You?",
-        "url": "https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "My Way Home",
-      "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Pagan Church",
-        "url": "https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        },
-        {
-          "name": "TK & The Holy Know-Nothings",
-          "url": "https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG"
-        }
-      ],
-      "duration_ms": 219083,
-      "name": "Damn My Love",
-      "url": "https://open.spotify.com/track/4WV21jJoYjf7d5abk0FbcM"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Memphis",
-        "url": "https://open.spotify.com/album/677PnAgPyrA9kKs3AocpHB"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Memphis",
-      "url": "https://open.spotify.com/track/7rmAYbFgyfR9NLuYsyaeHS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Days Can Turn Around",
-        "url": "https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Days Can Turn Around",
-      "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "City On A Hill",
-        "url": "https://open.spotify.com/album/14QqcZuUzIMFOFfphJq4Y4"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00cea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 170759,
-      "name": "City On A Hill",
-      "url": "https://open.spotify.com/track/4eklSuk7sHcFDVLQR74QLn"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Blue Raspberry",
-        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 226836,
-      "name": "Hand to Hand",
-      "url": "https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "die slower",
-        "url": "https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE"
-      },
-      "artists": [
-        {
-          "name": "Brendan Abernathy",
-          "url": "https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW"
-        },
-        {
-          "name": "Annie Omalley",
-          "url": "https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Die Slower",
-      "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "All to Bones",
-        "url": "https://open.spotify.com/album/4Zn4YKoRpgesieWwWrKWX3"
-      },
-      "artists": [
-        {
-          "name": "Park Bird",
-          "url": "https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Dandelions, Dandelions",
-      "url": "https://open.spotify.com/track/191coUoVGfnFw9AKrHAcjm"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Cuero Dudes / Beauty Opens Doors",
-        "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 298921,
-      "name": "Cuero Dudes",
-      "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Half of forever",
-        "url": "https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Half of forever",
-      "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Here We Are",
-        "url": "https://open.spotify.com/album/6F4qTjhtfCoOgu9CdBMNph"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        },
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/5sNoC9OJEPwWTh8fvUi99x"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Letting Things Go",
-        "url": "https://open.spotify.com/album/6MNCxoXONutvv8SNHiJ6K3"
-      },
-      "artists": [
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        },
-        {
-          "name": "Evangeline",
-          "url": "https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ"
-        }
-      ],
-      "duration_ms": 152339,
-      "name": "Letting Things Go",
-      "url": "https://open.spotify.com/track/5ua2M4ijwRgQy9xQKsGXzG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Greenbow Jenny",
-        "url": "https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy"
-      },
-      "artists": [
-        {
-          "name": "Mei Jun",
-          "url": "https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc"
-        }
-      ],
-      "duration_ms": 307660,
-      "name": "Greenbow Jenny",
-      "url": "https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 65266,
+  "2024-03-02": 65281,
   "date_first_scraped": "2023-08-27",
   "description": "From India to MENA, these hits will make you dance.",
   "name": "Bollywood Araby",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 266739,
       "name": "Aameen 2.0",
       "url": "https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU"
@@ -1029,6 +1029,24 @@
       "duration_ms": 231193,
       "name": "Wallah Wallah",
       "url": "https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H"
+    },
+    {
+      "album": {
+        "name": "Wenta Ma'aia",
+        "url": "https://open.spotify.com/album/2SGapJ4rJA5H4ztHs5qZIC"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "Wenta Ma'aia",
+      "url": "https://open.spotify.com/track/51oq7cDZyW2sR6Q0GGv5DD"
     },
     {
       "album": {

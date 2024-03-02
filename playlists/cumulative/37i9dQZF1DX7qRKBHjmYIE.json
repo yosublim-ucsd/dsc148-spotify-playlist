@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mica Sotera & Los Otros D\u00edas.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con YoSoyMatt.",
   "name": "Mixto",
   "tracks": [
     {
@@ -1126,6 +1126,32 @@
       "duration_ms": 242400,
       "name": "Believe What I Say",
       "url": "https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
       "album": {
@@ -3496,7 +3522,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 203396,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc"
@@ -7072,7 +7098,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167272,
       "name": "Me Gusta Ese Lokito",
       "url": "https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR"
@@ -10214,7 +10240,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220327,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/6WVyM0YxzmCKcsd5I0yXqV"
@@ -10600,7 +10626,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242980,
       "name": "SINCERA TE",
       "url": "https://open.spotify.com/track/0LHx4VkNoLuC60p23xUpig"
@@ -11562,6 +11588,24 @@
       "duration_ms": 183000,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/75ApJOCeGeraJfxIl4qAlI"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
     },
     {
       "album": {

@@ -2,12 +2,13 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Candy Sheoran
+> Yo Hai Haryanvi Hip\-Hop! Cover: GULZAAR CHHANIWALA
 
-189 songs - 10 hr 4 min
+190 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7deZn0z8YjbIrLlMXpHOQ9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2GxxViTpqwz7L3a5jY59DH) | 0:00 | 2024-03-01 |  |
 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 | 2023-09-27 |  |
 | [21.22](https://open.spotify.com/track/7wY9804Aaik9Nv1BuOzap9) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:40 | 2023-03-28 |  |
 | [24 Carat](https://open.spotify.com/track/6i7wtqo9gPCc0XMs6j1PF8) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [24 Carat](https://open.spotify.com/album/0ZNoe4fHoGA5OMVQXoLYbk) | 3:17 | 2024-02-06 |  |
@@ -122,7 +123,7 @@
 | [Kulfa](https://open.spotify.com/track/4zKDlQCxNiPXzMIobrPbNh) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Kulfa](https://open.spotify.com/album/7CmYhs6j6VNKTgDGkYQdkq) | 3:06 | 2023-04-28 | 2023-06-11 |
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
-| [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 |  |
+| [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2024-03-02 |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 |  |
 | [Marji](https://open.spotify.com/track/3bUWnXRP05sA2UdKkj9wha) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4iLVMVlFJJiXTgl4JX2M5B) | 3:00 | 2024-02-16 |  |
 | [Marji](https://open.spotify.com/track/6UHAB3jfGj7JEBeLQdjQSq) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4Ty05e0xG0aB96ghx60w2j) | 3:00 | 2024-02-06 | 2024-02-15 |

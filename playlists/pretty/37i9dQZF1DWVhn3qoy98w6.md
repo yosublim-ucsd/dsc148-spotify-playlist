@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Espineli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,857 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,864 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 20 | [Fumando en la ventana](https://open.spotify.com/track/2RhE5XmG2sylgM54lS5vo2) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Fumando en la ventana](https://open.spotify.com/album/6Z65XDXzWJ5ZpldXB78gpO) | 2:20 |
 | 21 | [Caminando por Moscú](https://open.spotify.com/track/5wkWdovO7bAKerDby4tAz6) | [Nefta Lee](https://open.spotify.com/artist/7BZYtmve9IIHacE93hB6y1) | [Caminando por Moscú](https://open.spotify.com/album/1kepFIMPH0iFfSOR0TfZOV) | 2:40 |
 | 22 | [Las cosas que no te conté](https://open.spotify.com/track/4JycJBT0oCFCchE1hkXPR1) | [G Face](https://open.spotify.com/artist/4CPPspzSzzSneD86J8DnJe) | [Las cosas que no te conté](https://open.spotify.com/album/7jfZwWNbQVEThKgcpeLOpR) | 2:51 |
-| 23 | [Diablo](https://open.spotify.com/track/1iMtKD4BMMyatztZvwG6MO) | [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8), [Slowed Prince](https://open.spotify.com/artist/6ITwvWcT8hC2fF1XUvAdYV), [Sad Face Prince](https://open.spotify.com/artist/1wYHD3VboloYjeFkq7oaJp) | [Diablo](https://open.spotify.com/album/6vM6RckhESO878IoZFRTq3) | 1:40 |
+| 23 | [Diablo](https://open.spotify.com/track/1iMtKD4BMMyatztZvwG6MO) | [Blue Lacey](https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8), [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Diablo](https://open.spotify.com/album/6vM6RckhESO878IoZFRTq3) | 1:40 |
 | 24 | [AYER YO TE ENCONTRÉ](https://open.spotify.com/track/1OAeBO6mq1l5miC2G57kCu) | [Aiem](https://open.spotify.com/artist/6CrLTxGRAhecLa3EmGoJDr), [SAMI](https://open.spotify.com/artist/7JQlYzpFfoRm2FbyCvXNiG), [ZOET](https://open.spotify.com/artist/31s89IXb8YyAc4aOgUgGX7) | [AYER YO TE ENCONTRÉ](https://open.spotify.com/album/2aAQwop6UJNJwCtvGEgUHS) | 3:28 |
 | 25 | [El Cielo Entero](https://open.spotify.com/track/6hGHgDsST010W0gWRY7D6M) | [Diego Cherician](https://open.spotify.com/artist/2AZX8Y9Fk2aiTtdqEWOH72), [DAIKKO](https://open.spotify.com/artist/07rz8ZaBxXjujfXtWvuVGo) | [Los Bandidos Tienen Sentimientos](https://open.spotify.com/album/0j85ykUdVOZAQ6rL1VTZ0D) | 3:01 |
 | 26 | [Tiempo Perdido](https://open.spotify.com/track/4mfp4wzzmHDKuvgJqoBZF2) | [Jezyel](https://open.spotify.com/artist/3tynCXWoMOLGnVcxfF5vXj), [Tonia](https://open.spotify.com/artist/5RlprRZzBGbYxcIgyKZwIG) | [Tiempo Perdido](https://open.spotify.com/album/7B4ICUiG01EW6e237CAI1r) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [veneno en la sangre](https://open.spotify.com/track/5p5og9geOVzlkR2g5AOSoM) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Hardemtk](https://open.spotify.com/artist/60iePhTal0d6zD6mvtd31a) | [veneno en la sangre](https://open.spotify.com/album/22eSIaqgh73sLWnPPleISM) | 2:44 |
 | 75 | [Mi Música Es Muy Triste](https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Mi Música Es Muy Triste](https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk) | 3:33 |
 
-Snapshot ID: `MCxjMGQ4MTUwMGFmNDRkNjg5YzFkZGI5OGRhODhjZDJmY2U0MmJlMmVl`
+Snapshot ID: `MCwwZjc5Y2Y3NWEyZWViOTUwMjZmYzJjMGU2Y2FmYzE4ZjMxYjE5YmIz`

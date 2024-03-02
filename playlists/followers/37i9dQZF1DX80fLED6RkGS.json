@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 25451,
+  "2024-03-02": 25474,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=0PWS_rFFRi6HtNejpfPnrw\"> Trio Mio</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV?si=mMyzJUpIQgGQip215_7lfg\"> Matata</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1908,6 +1908,32 @@
     },
     {
       "album": {
+        "name": "Every Dakika",
+        "url": "https://open.spotify.com/album/2ThJWVXyqoBQvBQTTfmBnL"
+      },
+      "artists": [
+        {
+          "name": "Soundkraft",
+          "url": "https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk"
+        },
+        {
+          "name": "RanzScooby",
+          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+        },
+        {
+          "name": "Mr.Tee",
+          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173392,
+      "name": "Every Dakika",
+      "url": "https://open.spotify.com/track/2ztLZ09IWt1B3c2tdvxder"
+    },
+    {
+      "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
       },
@@ -2037,7 +2063,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 180302,
       "name": "Form",
       "url": "https://open.spotify.com/track/734KNxtCgk9vrqjlgvNgVn"
@@ -4343,7 +4369,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 125825,
       "name": "Mpoa",
       "url": "https://open.spotify.com/track/5TjsFhDgWuzzVEWvKhjdfS"
@@ -4397,7 +4423,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 224842,
       "name": "Muni DM",
       "url": "https://open.spotify.com/track/4fA1QLI0XFCuCpxMYZtOpU"
@@ -4965,6 +4991,24 @@
       "duration_ms": 151693,
       "name": "Ng'ang'o",
       "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
+    },
+    {
+      "album": {
+        "name": "NGATA (Pi-Pi-Pi, Po-Po-Po)",
+        "url": "https://open.spotify.com/album/3i0cSvK8XorHRWRu8YJXah"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "NGATA (Pi-Pi-Pi, Po-Po-Po)",
+      "url": "https://open.spotify.com/track/4qbLlnfGoRIsxPi2Jxw65E"
     },
     {
       "album": {
@@ -7725,6 +7769,28 @@
       "duration_ms": 163200,
       "name": "Yega Master (feat. Ucho)",
       "url": "https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq"
+    },
+    {
+      "album": {
+        "name": "Yout Mkora",
+        "url": "https://open.spotify.com/album/7J2ULXeKQIJ3cLIPdpteFi"
+      },
+      "artists": [
+        {
+          "name": "Blvck Queen",
+          "url": "https://open.spotify.com/artist/1pBKd3CUJk3aO8sfevp59z"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171047,
+      "name": "Yout Mkora",
+      "url": "https://open.spotify.com/track/6TvJ7Rmloh0wpO1xpHrnrx"
     },
     {
       "album": {

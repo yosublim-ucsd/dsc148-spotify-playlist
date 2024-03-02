@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-297 songs - 16 hr 47 min
+298 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-06-29 |  |
 | [Dusty Dreams](https://open.spotify.com/track/6b4RgLPHXlHhFmQPQAGvHR) | [Gloomscape](https://open.spotify.com/artist/1MjyCytp4mykFQFzY4Eaxr) | [Impulse](https://open.spotify.com/album/1Xw82vyc5q3JSm74fJGexh) | 3:06 | 2022-07-19 | 2022-07-29 |
 | [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 | 2024-02-22 |
+| [Effigy](https://open.spotify.com/track/6XXDWp5QSJ1IkLMreFK7Xm) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Effigy](https://open.spotify.com/album/0GG9Zh8Nk6ww9hEuDtFAr6) | 2:37 | 2024-02-22 |  |
 | [Epilogue](https://open.spotify.com/track/3DYp7eXItuMz0ZglmgEgFF) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/4ceBv4Qeku7zcXLAakwCh1) | 3:07 | 2023-03-30 |  |
 | [Epilogue](https://open.spotify.com/track/3YEoriryySI6V3qvGaWMhi) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl) | 3:07 | 2022-06-29 | 2022-07-29 |
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-01-10 |  |
@@ -108,7 +109,7 @@
 | [First Light](https://open.spotify.com/track/2FQiMkzVzQBrSEDrx6LIua) | [Rain of Crystal Spires](https://open.spotify.com/artist/2Tdh9n5Y25LgOS2PNLVWZ1) | [First Light](https://open.spotify.com/album/4gvStKjjgoELT525dXbEmu) | 2:38 | 2022-06-29 | 2022-07-29 |
 | [Floating](https://open.spotify.com/track/4wf5xK49EYGX9kHpT91XRH) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Floating](https://open.spotify.com/album/0V8NEzImXsmnlvgnDxzrl5) | 2:22 | 2022-06-29 | 2022-09-11 |
 | [Flow](https://open.spotify.com/track/0w4EJf5MuynrRUMiMHzCIz) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/6TLIpKF6SGGG9mngKiNUAj) | 2:13 | 2022-06-29 | 2022-07-29 |
-| [Flow](https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q) | 2:13 | 2022-07-19 |  |
+| [Flow](https://open.spotify.com/track/3WbrNlrGx3Bs6HbsmVJ4MI) | [Holistic Dreams](https://open.spotify.com/artist/2HoBYyhaw5pKTdLawDZwnJ) | [Flow](https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q) | 2:13 | 2022-07-19 | 2024-03-02 |
 | [Following The Seasons](https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy) | [Aisha Akebono](https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72) | [Following The Seasons](https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb) | 3:31 | 2022-11-11 |  |
 | [For All Eternity](https://open.spotify.com/track/1WwnmxDezAigrQlteH8xDT) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [For All Eternity](https://open.spotify.com/album/4SpmkLsv6p8JG8Gwub4quJ) | 2:58 | 2022-06-29 | 2023-02-28 |
 | [Forest Hymn](https://open.spotify.com/track/1mdSp7m71uz8wi3o4y9HIu) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Moments in Golden Light](https://open.spotify.com/album/3GRbvsjOmWtfdngQBTf4a1) | 6:18 | 2022-06-29 |  |

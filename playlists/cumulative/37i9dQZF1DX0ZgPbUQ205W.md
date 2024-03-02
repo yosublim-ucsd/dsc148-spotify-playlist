@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-333 songs - 23 hr 59 min
+334 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-02-23 |  |
 | [Origin Of Species](https://open.spotify.com/track/1HywDfnuO3zXm7vNcCKxvX) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Surrounded By Sea](https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD) | 5:06 | 2022-06-01 | 2024-02-28 |
 | [Osmosis Part I](https://open.spotify.com/track/3LVDBYPP9jFUg2daGEZ3ZB) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I Have The Room Above Her](https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3) | 3:28 | 2021-12-17 | 2022-10-08 |
-| [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L) | 5:52 | 2023-10-13 |  |
+| [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L) | 5:52 | 2023-10-13 | 2024-03-02 |
+| [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/track/7vyk70KJhqVIogTOQjYq03) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Owl Song](https://open.spotify.com/album/6HYZUqe4sXwIu5VWlfaV2E) | 5:52 | 2024-02-21 |  |
 | [Paa Hinside Ørken](https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 6:02 | 2021-12-17 |  |
 | [Peace Piece](https://open.spotify.com/track/3gi5sApfm4Wt6kVp7IWwsy) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Lost & Found](https://open.spotify.com/album/2IwRPoM4pqAfv10x8YDiSt) | 6:42 | 2022-08-25 | 2022-11-10 |
 | [Peace Piece](https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos) | 4:13 | 2021-12-17 | 2022-06-01 |

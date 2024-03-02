@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,967 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,201 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 12 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
 | 13 | [CHEVY THANG](https://open.spotify.com/track/3d9995PfvymUKvnYB9a2CK) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [CHROME CASKETZ 2: ARMAGEDDON](https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE) | 1:30 |
 | 14 | [Scars](https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Scars](https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq) | 2:27 |
-| 15 | [WTF 2](https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/5ERveSd2VSGk3x37LPgjYy) | 2:06 |
+| 15 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 |
 | 16 | [FULL EFFECT](https://open.spotify.com/track/3cW9VuItRwuHILeeCsCZeJ) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [FULL EFFECT](https://open.spotify.com/album/0hB81fE583hZGbJ1V18cv9) | 2:15 |
 | 17 | [GOODFELLAS](https://open.spotify.com/track/6pIoCKMe157Scoi5dd02CB) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [GOODFELLAS](https://open.spotify.com/album/4cEItjSWyNg4WIm0fCgvQk) | 2:12 |
 | 18 | [CC](https://open.spotify.com/track/48nv8Jn2gFbrHF9yXGbZYW) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [CC](https://open.spotify.com/album/7o1F600tyyFupgampr4OE4) | 2:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [RECOIL](https://open.spotify.com/track/31jBzecMTqfx1gM48riFLd) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Pupa](https://open.spotify.com/album/44obgGVAFZpmAio7tHjvLq) | 1:50 |
 | 100 | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/track/5MrQWiPCl5x6WFuni1hV2p) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/album/6sdW9d68koNLQXuchDsJLN) | 2:48 |
 
-Snapshot ID: `MCxkODVhNmY0NDEwNWQ0OTg0MGM5YTg1NjM5YWFjMTI2OThhNGQxY2Ux`
+Snapshot ID: `MCxkY2MyMmUxOTlhYzMwYzhiNjNkYjQ2NTE0N2ViZGZhNTg3ZjA4Zjc1`

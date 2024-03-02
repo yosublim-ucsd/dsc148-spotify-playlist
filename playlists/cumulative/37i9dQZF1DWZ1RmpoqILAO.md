@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation featuring music from Waxahatchee
+> indie tunes with country experimentation featuring music from Faye Webster 🌟🌟🌟
 
-212 songs - 13 hr 41 min
+213 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Krawn the Destroyer](https://open.spotify.com/track/0kSs2zmoa2t9YrXzEDHSYJ) | [Sexy Girls](https://open.spotify.com/artist/2Mjqb4HQpRBuDjn84nOYS9) | [Satan's Hands](https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ) | 5:58 | 2023-05-19 |  |
 | [Lamplight](https://open.spotify.com/track/473SizAMoQBwQXdnF3dhnu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Lamplight](https://open.spotify.com/album/1vqxyUR8okdL1W0KIPvE4d) | 4:23 | 2023-06-30 |  |
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 | 2023-12-02 |
-| [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 |  |
+| [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-03-02 |
 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 | 2023-07-05 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-06-30 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-08-04 |  |
@@ -154,7 +154,7 @@
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2023-02-23 |  |
 | [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 | 2023-05-19 |  |
 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 | 2023-12-08 |  |
-| [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 |  |
+| [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 | 2024-03-02 |
 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-09 |  |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 |  |
@@ -191,7 +191,7 @@
 | [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 |  |
 | [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 | 2023-12-01 | 2024-02-03 |
 | [Thanks](https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Thanks](https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS) | 1:08 | 2024-02-02 |  |
-| [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 |  |
+| [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 | 2024-03-02 |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-12-08 |  |
 | [The Natural](https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [The Natural](https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy) | 3:50 | 2023-03-24 |  |
 | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD), [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Sachi](https://open.spotify.com/artist/0RvKwfTA8QrkZfXm7cflNr), [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [The Stranger \(feat\. Sachi, Dan Reeder, Tobias Jesso Jr., John C\. Reilly, Becky and the Birds\)](https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt) | 4:30 | 2023-02-23 |  |
@@ -207,6 +207,7 @@
 | [True Love Will Find You in the End](https://open.spotify.com/track/6fEjOPaZoxQl3oha9GDJAN) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [1990](https://open.spotify.com/album/3puh4gwTuQFlPTZaEezmqa) | 1:51 | 2023-12-08 |  |
 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 | 2023-12-08 |  |
 | [TV Dinners](https://open.spotify.com/track/4LxwqKEPKxx4IavfyY2Eqy) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin'](https://open.spotify.com/album/6SX1sQ1tNE2d9jlLSFplla) | 3:52 | 2023-08-04 |  |
+| [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-01 |  |
 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/3UQh0f5HtW2WmcwMvjhiIJ) | 5:01 | 2023-02-23 |  |
 | [Valleys \(My Love\)](https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:56 | 2023-04-28 | 2023-06-13 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-19 |  |

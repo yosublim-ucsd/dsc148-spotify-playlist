@@ -1,13 +1,29 @@
 {
-  "description": "New tunes from Ireland for your discovery. Cover: F3miii",
-  "num_followers": 73397,
+  "description": "New tunes from Ireland for your discovery. Cover: Amble",
+  "num_followers": 73409,
   "original_name": "A Breath of Fresh \u00c9ire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjgwMDAzYTdlNWU1NGYwNmI2YjAxZDY2YTNmNDdhMWViZDNiZjc1",
+  "snapshot_id": "MCw5NDYwZGIxYmM1ZDQwNmY1YmQ3NDQ3NTgzNWI2MzBhYWZmZTVhZDRm",
   "tracks": [
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Of Land and Sea",
+        "url": "https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Of Land and Sea",
+      "url": "https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw"
+    },
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 168113,
       "name": "2 days into college",
       "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
+    },
+    {
+      "added_at": "2024-03-01 16:00:34",
+      "album": {
+        "name": "Burning Flower",
+        "url": "https://open.spotify.com/album/4meRsebzAu9jYAVhD5mWsQ"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "They Called Her Something",
+      "url": "https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt"
+    },
+    {
+      "added_at": "2024-03-01 16:00:34",
+      "album": {
+        "name": "The Pressures of the Heart",
+        "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "The Pressures of the Heart",
+      "url": "https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/1VdwrdjGYknOMvEsGvHjrP"
     },
     {
+      "added_at": "2024-03-01 16:00:34",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7"
+      },
+      "artists": [
+        {
+          "name": "Alex Konchar",
+          "url": "https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw"
+    },
+    {
       "added_at": "2024-02-23 00:00:00",
       "album": {
         "name": "The First Time",
@@ -71,22 +135,6 @@
       "duration_ms": 267679,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Of Land and Sea",
-        "url": "https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Of Land and Sea",
-      "url": "https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -119,6 +167,22 @@
       "duration_ms": 150638,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b"
+    },
+    {
+      "added_at": "2024-03-01 16:00:34",
+      "album": {
+        "name": "Youngfella",
+        "url": "https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p"
+      },
+      "artists": [
+        {
+          "name": "Fynch",
+          "url": "https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx"
+        }
+      ],
+      "duration_ms": 187764,
+      "name": "The State",
+      "url": "https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -171,6 +235,22 @@
       "duration_ms": 188055,
       "name": "rain",
       "url": "https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5"
+    },
+    {
+      "added_at": "2024-03-01 16:00:34",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -807,22 +887,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5z8bo60OgWVwpKlpfDVtxt"
-      },
-      "artists": [
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7nMCozi8HsfejnRYCHkd3s"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Taken Out By The Wind",
         "url": "https://open.spotify.com/album/1HP8SGPqIvgcmOEqiwKFz2"
       },
@@ -1007,26 +1071,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Cherry Delight",
-        "url": "https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy"
-      },
-      "artists": [
-        {
-          "name": "1000 Beasts",
-          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
-        },
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Cherry Delight",
-      "url": "https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6"
       },
@@ -1091,22 +1135,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/0rOsqiiI0Ek08YYv3jEm3U"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 232785,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "i shouldn\u2019t be here",
         "url": "https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7"
       },
@@ -1167,22 +1195,6 @@
       "duration_ms": 188000,
       "name": "Falling From Hell",
       "url": "https://open.spotify.com/track/4BZEczZvBsPhiQN17m8y4M"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Stay For Something",
-        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1311,22 +1323,6 @@
       "duration_ms": 224571,
       "name": "People",
       "url": "https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "board games",
-        "url": "https://open.spotify.com/album/3oaGwQVhXpIqZiZJUFtCtv"
-      },
-      "artists": [
-        {
-          "name": "katie phelan",
-          "url": "https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "board games",
-      "url": "https://open.spotify.com/track/4443fSuLl236FMsPXf9Zvt"
     }
   ],
   "unique_name": "A Breath of Fresh \u00c9ire",

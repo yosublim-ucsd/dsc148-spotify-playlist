@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 14690,
+  "2024-03-02": 14694,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Latvia.",
   "name": "Top 50 - Latvia",
@@ -27953,6 +27953,24 @@
     {
       "album": {
         "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1"
+    },
+    {
+      "album": {
+        "name": "Star Shopping",
         "url": "https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM"
       },
       "artists": [
@@ -33181,7 +33199,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"

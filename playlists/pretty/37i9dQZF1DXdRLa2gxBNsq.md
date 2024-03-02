@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,372 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,414 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 77 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 |
 | 78 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 79 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 |
-| 80 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
-| 81 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 |
+| 80 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 |
+| 81 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
 | 82 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 83 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 84 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 |
 
-Snapshot ID: `MCwzMjY1MGY2NDlhZGVlYmFjY2FjN2ZkODE1ZjdhYzc1ZjBiZGQ1MmJj`
+Snapshot ID: `MCxhMzhjODFiNmVjMzQxMDcwMmY5NGY4ZDIzZjYwYWVkNzQyMzUzYWMw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Rels B en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Karol G en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 261603,
       "name": "Algo M\u00e1gico",
       "url": "https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG"
+    },
+    {
+      "album": {
+        "name": "ALMA</3",
+        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144260,
+      "name": "ALMA</3",
+      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
     },
     {
       "album": {
@@ -446,7 +464,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
@@ -678,7 +696,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221538,
       "name": "De Ti Me Olvid\u00e9",
       "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211455,
       "name": "EGO",
       "url": "https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH"
@@ -1182,6 +1200,24 @@
       "duration_ms": 197733,
       "name": "LA MEMORIA",
       "url": "https://open.spotify.com/track/3JntXMPlPPrr9mEeIcwsWO"
+    },
+    {
+      "album": {
+        "name": "la nena de un gang$ter",
+        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206256,
+      "name": "la nena de un gang$ter",
+      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
     },
     {
       "album": {
@@ -2364,6 +2400,24 @@
       "duration_ms": 182278,
       "name": "Quiere Volar",
       "url": "https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f"
+    },
+    {
+      "album": {
+        "name": "quiereme",
+        "url": "https://open.spotify.com/album/5B30x1syAK2wipCalWWN6D"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "quiereme",
+      "url": "https://open.spotify.com/track/5JYivrlqjNUoIwDYD38HPN"
     },
     {
       "album": {

@@ -3491,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/1XpuyYKixpvqeENPZL0MyA"
+      },
+      "artists": [
+        {
+          "name": "Sherizz",
+          "url": "https://open.spotify.com/artist/2f3cw59N6NrXxJIEwiCgDt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156447,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4HHMYC5atoi0ZRQfmkxuLB"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2PpyHqgNR1h3eQrazaHx7W"
       },

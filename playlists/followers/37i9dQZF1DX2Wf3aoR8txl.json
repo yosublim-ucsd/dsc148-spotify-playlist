@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 2058,
+  "2024-03-02": 2059,
   "date_first_scraped": "2023-12-14",
   "description": "Music from \"YU\u2606YU\u2606HAKUSHO\" series. \u5b9f\u5199\u5316\u3082\u8a71\u984c\u306e\u4eba\u6c17\u30a2\u30cb\u30e1\u300c\u5e7d\u2606\u904a\u2606\u767d\u66f8\u300d\u4e3b\u984c\u6b4c\u3001\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30bd\u30f3\u30b0\u3068\u4eba\u6c17\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3092\u4e00\u6c17\u306b\u304a\u5c4a\u3051\uff01\u00a9Y.T.90-94/P,S",
   "name": "YU\u2606YU\u2606HAKUSHO \u5e7d\u2606\u904a\u2606\u767d\u66f8",
@@ -336,6 +336,28 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Music Battle Edition 3 ~Makai Densetsu~",
+        "url": "https://open.spotify.com/album/0eYM9EufMCWS3DKyFyV8bV"
+      },
+      "artists": [
+        {
+          "name": "Shinobu Sensui(CV:Rokuro Naya)",
+          "url": "https://open.spotify.com/artist/7cUU5G864mRSyZan77ZaYy"
+        },
+        {
+          "name": "Itsuki(CV:Koji Tsujitani)",
+          "url": "https://open.spotify.com/artist/1H4JobvtkYSHUpW2oSnkhE"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393426,
+      "name": "Eien no Requiem",
+      "url": "https://open.spotify.com/track/4KS7jwypBK4i2PHgqo2hqI"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho Music Battle Edition 2",
         "url": "https://open.spotify.com/album/5XU1hy1Y2Zi9AqjE50YaGI"
       },
@@ -652,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Nessho Hen~Karaoke Battle Royal~",
+        "url": "https://open.spotify.com/album/0JQsJweBq3yMY4FVqtOd97"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321293,
+      "name": "Kokoro o Tsunaide",
+      "url": "https://open.spotify.com/track/0ZBZOPeUqHqI2iwySOofe3"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho - Collective Songs -",
         "url": "https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4"
       },
@@ -663,7 +703,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 322426,
       "name": "Kokoro o Tsunaide",
       "url": "https://open.spotify.com/track/5P1yoASq5k8sBUa4QlLHrO"
@@ -848,6 +888,52 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Nessho Hen~Karaoke Battle Royal~",
+        "url": "https://open.spotify.com/album/0JQsJweBq3yMY4FVqtOd97"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        },
+        {
+          "name": "Kazuma Kuwabara(CV:Shigeru Chiba)",
+          "url": "https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43"
+        },
+        {
+          "name": "Kurama(CV:Megumi Ogata)",
+          "url": "https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL"
+        },
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        },
+        {
+          "name": "Keiko Yukimura(CV:Yuri Amano)",
+          "url": "https://open.spotify.com/artist/2lkcBJZwFaC7FBySllXk6I"
+        },
+        {
+          "name": "Botan(CV:Sanae Miyuki)",
+          "url": "https://open.spotify.com/artist/7eQrGnXx8ZobUe7LZHziQa"
+        },
+        {
+          "name": "Yukina(CV:Yuri Shiratori)",
+          "url": "https://open.spotify.com/artist/0nns9iUb148YcZFHkt8CTD"
+        },
+        {
+          "name": "Koen",
+          "url": "https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316600,
+      "name": "Mienai Mirai e",
+      "url": "https://open.spotify.com/track/4s6a5roDkYxWHP4x4FtfcC"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho Nessho Hen 2~Duet&Karaoke Special~",
         "url": "https://open.spotify.com/album/1eoGv59d6XP4HWdysWmFay"
       },
@@ -929,10 +1015,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 295293,
       "name": "Omoide o Tsubasa ni Shite",
       "url": "https://open.spotify.com/track/48lBJhjO7ygOvnuzixhwYY"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho Nessho Hen 2~Duet&Karaoke Special~",
+        "url": "https://open.spotify.com/album/1eoGv59d6XP4HWdysWmFay"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        },
+        {
+          "name": "Keiko Yukimura(CV:Yuri Amano)",
+          "url": "https://open.spotify.com/artist/2lkcBJZwFaC7FBySllXk6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296333,
+      "name": "Omoide o Tsubasa ni Shite",
+      "url": "https://open.spotify.com/track/6xeNVzWNcFYHHAKBC15W8Y"
     },
     {
       "album": {
@@ -1008,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Music Battle Edition 3 ~Makai Densetsu~",
+        "url": "https://open.spotify.com/album/0eYM9EufMCWS3DKyFyV8bV"
+      },
+      "artists": [
+        {
+          "name": "Yomi(CV:Masashi Ebara)",
+          "url": "https://open.spotify.com/artist/2N1aRl0I6r6LKiOSBTm1xL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Sennen no Yami no Hate",
+      "url": "https://open.spotify.com/track/1hyprbnnReZBRjQaOEVFre"
+    },
+    {
+      "album": {
         "name": "Takahashi Hiro Best Collection",
         "url": "https://open.spotify.com/album/1vYHR3nxoOjJRrggFGtf9v"
       },
@@ -1044,8 +1170,8 @@
     },
     {
       "album": {
-        "name": "Yu Yu Hakusho - Collective Rare Trax -",
-        "url": "https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd"
+        "name": "Yu Yu Hakusho Nessho Hen~Karaoke Battle Royal~",
+        "url": "https://open.spotify.com/album/0JQsJweBq3yMY4FVqtOd97"
       },
       "artists": [
         {
@@ -1058,7 +1184,43 @@
       "date_removed": null,
       "duration_ms": 243000,
       "name": "Tasogare ni Se o Mukete",
+      "url": "https://open.spotify.com/track/2m6cfSWlDtKlFv391MCF93"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho - Collective Rare Trax -",
+        "url": "https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd"
+      },
+      "artists": [
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
+      "duration_ms": 243000,
+      "name": "Tasogare ni Se o Mukete",
       "url": "https://open.spotify.com/track/5xRXl01Me8wjY0xL8OeKo6"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho Nessho Hen~Karaoke Battle Royal~",
+        "url": "https://open.spotify.com/album/0JQsJweBq3yMY4FVqtOd97"
+      },
+      "artists": [
+        {
+          "name": "Koenma(CV:Mayumi Tanaka)",
+          "url": "https://open.spotify.com/artist/0mPdjxuEYEMLeOhDJcSH66"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Tokoton",
+      "url": "https://open.spotify.com/track/65gObgFk2gvzR2DT5IIZV6"
     },
     {
       "album": {
@@ -1073,7 +1235,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 246360,
       "name": "TOKOTON",
       "url": "https://open.spotify.com/track/5IvTa5ADuGsp0hjLs066ld"
@@ -1188,6 +1350,28 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Nessho Hen 2~Duet&Karaoke Special~",
+        "url": "https://open.spotify.com/album/1eoGv59d6XP4HWdysWmFay"
+      },
+      "artists": [
+        {
+          "name": "Kurama(CV:Megumi Ogata)",
+          "url": "https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL"
+        },
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258825,
+      "name": "Wild Wind~Yasei no Kaze no Yoni~",
+      "url": "https://open.spotify.com/track/5d7ymIwIJ0EzdWoPqFM39m"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho Saikyo Best Selection",
         "url": "https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW"
       },
@@ -1203,7 +1387,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 260600,
       "name": "Wild Wind~Yasei no Kaze no Yoni~",
       "url": "https://open.spotify.com/track/1H9CX9hgKyrU6PTeaiaMwK"
@@ -1232,6 +1416,36 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Nessho Hen 2~Duet&Karaoke Special~",
+        "url": "https://open.spotify.com/album/1eoGv59d6XP4HWdysWmFay"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        },
+        {
+          "name": "Kazuma Kuwabara(CV:Shigeru Chiba)",
+          "url": "https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43"
+        },
+        {
+          "name": "Kurama(CV:Megumi Ogata)",
+          "url": "https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL"
+        },
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354200,
+      "name": "Yasashisa wa Nemuranai",
+      "url": "https://open.spotify.com/track/0b67Fiucet4lPYD3A54jt3"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho - Collective Rare Trax -",
         "url": "https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd"
       },
@@ -1255,7 +1469,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 354346,
       "name": "Yasashisa wa Nemuranai",
       "url": "https://open.spotify.com/track/1GOuL8ujlqRe3uAwx74JyO"
@@ -1292,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Nessho Hen~Karaoke Battle Royal~",
+        "url": "https://open.spotify.com/album/0JQsJweBq3yMY4FVqtOd97"
+      },
+      "artists": [
+        {
+          "name": "Keiko Yukimura(CV:Yuri Amano)",
+          "url": "https://open.spotify.com/artist/2lkcBJZwFaC7FBySllXk6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Yell",
+      "url": "https://open.spotify.com/track/6WZPG52VefqO5WDgMnxlTW"
+    },
+    {
+      "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u71b1\u5531\u7de8\uff5e\u30ab\u30e9\u30aa\u30b1\u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb\uff5e",
         "url": "https://open.spotify.com/album/3hZPpWIeACagz6B4A9qONk"
       },
@@ -1303,7 +1535,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 284560,
       "name": "YELL",
       "url": "https://open.spotify.com/track/3XcDIpc7KsvCAT59jV60Yy"
@@ -1541,7 +1773,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 313600,
       "name": "\u5343\u5e74\u306e\u95c7\u306e\u679c\u3066",
       "url": "https://open.spotify.com/track/3ODVKyOIzrOlV7kZjfGGlw"
@@ -1729,7 +1961,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 393426,
       "name": "\u6c38\u9060\u306e\u30ec\u30af\u30a4\u30a8\u30e0",
       "url": "https://open.spotify.com/track/5wKy9UzQqzzAXAJJc9XhQb"
@@ -1829,7 +2061,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 316600,
       "name": "\u898b\u3048\u306a\u3044\u672a\u6765\u3078",
       "url": "https://open.spotify.com/track/02gdrPzs4DkyePxRbaMyn8"

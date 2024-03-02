@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 176492,
+  "2024-03-02": 176528,
   "date_first_scraped": "2022-07-17",
   "description": "Dillaz entra na zona. ",
   "name": "Na Zona",
@@ -1292,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "Ber\u00e7o",
+        "url": "https://open.spotify.com/album/0CcXnmTqszfcTlOAInL1hI"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ber\u00e7o",
+      "url": "https://open.spotify.com/track/2uFgC37zihYrBiIk5Z0Avt"
+    },
+    {
+      "album": {
         "name": "Ontem, Hoje e Nunca Mais",
         "url": "https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx"
       },
@@ -1401,6 +1419,32 @@
       "duration_ms": 160666,
       "name": "Braille",
       "url": "https://open.spotify.com/track/3uxr1S4rg8EqMLFH4mgqTT"
+    },
+    {
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205934,
+      "name": "B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
     },
     {
       "album": {
@@ -2042,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "Chuva",
+        "url": "https://open.spotify.com/album/7xzKXFXrO571L8C4skGpR2"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Chuva",
+      "url": "https://open.spotify.com/track/64wvMwnsBM0EiaCvDgquOC"
+    },
+    {
+      "album": {
         "name": "Cima Favela",
         "url": "https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK"
       },
@@ -2399,6 +2461,24 @@
       "duration_ms": 131200,
       "name": "C\u00c1 DENTRO",
       "url": "https://open.spotify.com/track/6JIuTXDv6HJF7XWOBaOTrF"
+    },
+    {
+      "album": {
+        "name": "C\u00e9u Estrelado",
+        "url": "https://open.spotify.com/album/61mkrZyGvK0hm51qyLRCrK"
+      },
+      "artists": [
+        {
+          "name": "Jvst Fly",
+          "url": "https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183107,
+      "name": "C\u00e9u Estrelado",
+      "url": "https://open.spotify.com/track/1k69mgwnKtE6IJlzOvVAzX"
     },
     {
       "album": {
@@ -3225,7 +3305,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
@@ -3793,6 +3873,24 @@
       "duration_ms": 193846,
       "name": "Full MUN",
       "url": "https://open.spotify.com/track/3lLSbyWLusbwHxJLl9KrXI"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/32ohvDoxRJRnfbZBA4MwfQ"
+      },
+      "artists": [
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208258,
+      "name": "Futre - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nCK3OdL8UbaTYlrcFdSkE"
     },
     {
       "album": {
@@ -6151,7 +6249,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 148365,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/4MzZQpsCzJuI1rdjCED46m"
@@ -6403,7 +6501,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157664,
       "name": "NUVENS",
       "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
@@ -6655,6 +6753,32 @@
       "duration_ms": 147600,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A"
+    },
+    {
+      "album": {
+        "name": "Ontem #5",
+        "url": "https://open.spotify.com/album/4KgRL5ybWeIQNnpf46b8Sb"
+      },
+      "artists": [
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Ontem #5",
+      "url": "https://open.spotify.com/track/4WZ4tVjMkrejB71D6jpp05"
     },
     {
       "album": {
@@ -7247,7 +7371,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 212093,
       "name": "Placas",
       "url": "https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K"
@@ -7701,7 +7825,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187341,
       "name": "Quando Me Chamam",
       "url": "https://open.spotify.com/track/4zQPxnVY0paKH5FSQgUPEv"
@@ -8645,7 +8769,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 192911,
       "name": "Subway Surf",
       "url": "https://open.spotify.com/track/7mQ734YFLEqgbI7MfssWnB"
@@ -9075,7 +9199,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217808,
       "name": "Todo Terreno",
       "url": "https://open.spotify.com/track/0hcmxtTADA8j1MREVKly0h"
@@ -9283,7 +9407,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 274965,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/7IrkYmj0PeJ887iBKanf17"
@@ -9811,6 +9935,28 @@
       "duration_ms": 202760,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu"
+    },
+    {
+      "album": {
+        "name": "Modo Superstar",
+        "url": "https://open.spotify.com/album/3knxREXKQ0Ku1vFMmd2JgR"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        },
+        {
+          "name": "Progvid",
+          "url": "https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "\u00c0 Vontade",
+      "url": "https://open.spotify.com/track/6tt9gbrs55be5KgeBqd7co"
     },
     {
       "album": {

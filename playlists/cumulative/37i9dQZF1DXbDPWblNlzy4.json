@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Camilo & Evaluna Montaner",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Diego Torres, Carlos Vives",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -438,6 +438,28 @@
       "duration_ms": 205398,
       "name": "AZ\u00daCAR",
       "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
+    },
+    {
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/3YdVtDgk9uBnrPxfj2WMYu"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/0sjwNDuHyfLruYofOWObNj"
     },
     {
       "album": {
@@ -1284,7 +1306,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178746,
       "name": "De a poco",
       "url": "https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL"
@@ -1731,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "album": {
         "name": "Entremundos",
         "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
       },
@@ -1746,6 +1786,24 @@
       "duration_ms": 205911,
       "name": "Entremundos",
       "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+    },
+    {
+      "album": {
+        "name": "Episodio 1: A Solas Contigo",
+        "url": "https://open.spotify.com/album/2y6K3mEBRdYPtKh8C2O5Jz"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191895,
+      "name": "Episodio 1: A Solas Contigo",
+      "url": "https://open.spotify.com/track/6HGbAwKcGp9xOZIxeXMlUX"
     },
     {
       "album": {
@@ -1786,6 +1844,24 @@
       "duration_ms": 124687,
       "name": "Espina De Rosa - Spotify Singles",
       "url": "https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat"
+    },
+    {
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "album": {
@@ -1920,7 +1996,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
@@ -2102,7 +2178,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -2127,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "Juan de Dios",
+        "url": "https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213644,
+      "name": "Juan de Dios",
+      "url": "https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n"
+    },
+    {
+      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -2142,6 +2240,28 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "album": {
+        "name": "Kapun",
+        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183422,
+      "name": "Kapun",
+      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
     },
     {
       "album": {
@@ -2294,7 +2414,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147275,
       "name": "la otra cara",
       "url": "https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj"
@@ -3772,7 +3892,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 240000,
       "name": "Perra Melanc\u00f3lica",
       "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
@@ -4212,7 +4332,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156218,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/5y7vUylJIyY6JL0dfxiqEc"
@@ -4605,6 +4725,28 @@
     },
     {
       "album": {
+        "name": "The One (Pero No Como Yo)",
+        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "The One (Pero No Como Yo)",
+      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
+    },
+    {
+      "album": {
         "name": "Tiempo Indefinido",
         "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
       },
@@ -4678,7 +4820,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177727,
       "name": "Triste (Arial 1)",
       "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
@@ -4714,7 +4856,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 168769,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/6c6aFBltYq4R4mxVLLFQnt"

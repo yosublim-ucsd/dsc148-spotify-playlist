@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Girls Wanna Have Fun",
+        "url": "https://open.spotify.com/album/36ZGNEPY9qChtjXw4a713p"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124393,
+      "name": "Girls Wanna Have Fun",
+      "url": "https://open.spotify.com/track/0CAoC5v4ACbffXKaOp6VcE"
+    },
+    {
+      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -5858,7 +5876,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 103781,
       "name": "The 90s Lied To Us",
       "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"

@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
 
-108 songs - 6 hr 9 min
+109 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-12-01 |  |
 | [Crowded Roomz](https://open.spotify.com/track/5QZqrjXpWCp7b2oNsSeD3L) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:52 | 2024-02-16 |  |
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2023-12-01 |  |
-| [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 | 2023-12-01 |  |
+| [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 | 2023-12-01 | 2024-03-02 |
 | [Do It To It \- Sub Focus Remix](https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Sub Focus Remix\)](https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP) | 3:14 | 2023-12-01 |  |
 | [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 |  |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-12-01 |  |
@@ -50,6 +50,7 @@
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-12-01 |  |
 | [Empress](https://open.spotify.com/track/7FOKSW5gRor6OiAFb5TtEi) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Empress](https://open.spotify.com/album/3DHXtr7PruK4VAgEYq6HZF) | 2:40 | 2023-12-01 |  |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-12-01 |  |
+| [Everywhere, Nowhere](https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Everywhere, Nowhere](https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7) | 3:05 | 2024-03-01 |  |
 | [Falling Over You](https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Falling Over You](https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL) | 3:14 | 2023-12-01 |  |
 | [Full Way Round](https://open.spotify.com/track/6qI0Wb5ycMGAkfnaw43awc) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Full Way Round](https://open.spotify.com/album/52Obbzdd8V2uDQdoz8Pqpu) | 5:38 | 2023-12-01 |  |
 | [Game Time \(feat\. Ninja\)](https://open.spotify.com/track/5aaDwNK2WBGWoYcG1K2Qv5) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 2:36 | 2023-12-01 |  |

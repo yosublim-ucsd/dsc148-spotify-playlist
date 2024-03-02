@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 420559,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/7xrFeZuSzIhVmDqV2QhqPH"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 342717,
       "name": "Broke Man",
       "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
@@ -774,6 +774,28 @@
       "duration_ms": 171850,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6WMjfoQiJn7Bbs7Bv7G6rT"
+    },
+    {
+      "album": {
+        "name": "Chip Shop Heroes",
+        "url": "https://open.spotify.com/album/75iBI8XAM76TT5c3hKczc7"
+      },
+      "artists": [
+        {
+          "name": "Tiptoes",
+          "url": "https://open.spotify.com/artist/0OPGFIdqpZs3pxJ7MLuVjD"
+        },
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402519,
+      "name": "Chip Shop Heroes - Sidney Charles Remix",
+      "url": "https://open.spotify.com/track/7ACg0kfGvCTc7y5qfidbZz"
     },
     {
       "album": {
@@ -1802,6 +1824,24 @@
       "duration_ms": 436309,
       "name": "Hand In Hand - Jonathan Kaspar Remix",
       "url": "https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti"
+    },
+    {
+      "album": {
+        "name": "Handle This",
+        "url": "https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390930,
+      "name": "Handle This",
+      "url": "https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW"
     },
     {
       "album": {
@@ -3867,6 +3907,32 @@
     },
     {
       "album": {
+        "name": "JS04",
+        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346666,
+      "name": "Scrap",
+      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
+    },
+    {
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -4942,7 +5008,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164340,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
@@ -5294,7 +5360,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
@@ -5388,6 +5454,24 @@
       "duration_ms": 368852,
       "name": "Whispers In The Wind",
       "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+    },
+    {
+      "album": {
+        "name": "Wish Star",
+        "url": "https://open.spotify.com/album/3ztfn5l4CNgxNiHf9J0qoH"
+      },
+      "artists": [
+        {
+          "name": "Joe Vanditti",
+          "url": "https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344186,
+      "name": "Wish Star",
+      "url": "https://open.spotify.com/track/2PAw1tXuyFtvxYwIJonSd0"
     },
     {
       "album": {
@@ -5490,7 +5574,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
@@ -5546,6 +5630,32 @@
       "duration_ms": 376875,
       "name": "You Can Forever Be",
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
+    },
+    {
+      "album": {
+        "name": "You\u00b4re So Just Just",
+        "url": "https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX"
+      },
+      "artists": [
+        {
+          "name": "Rework",
+          "url": "https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Ryan Crosson",
+          "url": "https://open.spotify.com/artist/5ZJEkLV6krzRy59l6dlYJx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417300,
+      "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
+      "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"
     },
     {
       "album": {

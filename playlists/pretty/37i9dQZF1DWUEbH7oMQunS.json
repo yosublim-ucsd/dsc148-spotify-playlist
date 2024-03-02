@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59874,
+  "num_followers": 59898,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx",
+  "snapshot_id": "MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Field Recordings",
         "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 468927,
       "name": "Tracking Aeroplanes",
       "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hymns for Eventide",
         "url": "https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 277853,
       "name": "Jesus Is___.",
       "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Young Oceans",
-        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "Great Is Our God",
-      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -687,6 +671,38 @@
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Young Oceans",
+        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 151169,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 151169,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Contemporary Worship Hits",
         "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "those lil god songs i posted on ig",
-        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "make stuff up & sing things",
-      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Echoes of Wonder",
         "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "those lil god songs i posted on ig",
+        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "make stuff up & sing things",
+      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
+      },
+      "artists": [
+        {
+          "name": "Radiant City Music",
+          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
+        },
+        {
+          "name": "Devin Strasser",
+          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
+        }
+      ],
+      "duration_ms": 338504,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
-      },
-      "artists": [
-        {
-          "name": "Radiant City Music",
-          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
-        },
-        {
-          "name": "Devin Strasser",
-          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
-        }
-      ],
-      "duration_ms": 338504,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Velveteen",
         "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
@@ -1663,26 +1647,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        },
-        {
-          "name": "Madison Nightingale",
-          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
       },
@@ -1715,6 +1679,38 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How To Love",
+        "url": "https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB"
+      },
+      "artists": [
+        {
+          "name": "Levi Mitchell",
+          "url": "https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr"
+        }
+      ],
+      "duration_ms": 120558,
+      "name": "How To Love",
+      "url": "https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Faith Fall",
+        "url": "https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 258292,
+      "name": "Faith Fall - pensive piano",
+      "url": "https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP"
     }
   ],
   "unique_name": "The Good Cup",

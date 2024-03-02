@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284746,
+      "name": "100,000 Voices",
+      "url": "https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2"
+    },
+    {
+      "album": {
         "name": "Powerplant",
         "url": "https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO"
       },
@@ -1040,6 +1058,24 @@
       "duration_ms": 277400,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P"
+    },
+    {
+      "album": {
+        "name": "Arular",
+        "url": "https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36093,
+      "name": "Banana - Skit",
+      "url": "https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM"
     },
     {
       "album": {
@@ -2920,6 +2956,24 @@
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
+    },
+    {
+      "album": {
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164139,
+      "name": "DUSTCUTTER",
+      "url": "https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u"
     },
     {
       "album": {
@@ -7234,7 +7288,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242040,
       "name": "Porcelain - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN"
@@ -7260,6 +7314,24 @@
       "duration_ms": 172493,
       "name": "Pre (feat. SK La' Flare)",
       "url": "https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96013,
+      "name": "Prelude To Ecstasy",
+      "url": "https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu"
     },
     {
       "album": {

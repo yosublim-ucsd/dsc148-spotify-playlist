@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-293 songs - 16 hr 37 min
+294 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Focus](https://open.spotify.com/track/6WHDY0insjTG1tBurfxuI0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 2:32 | 2023-09-14 |  |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-10-11 | 2022-03-11 |
 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 | 2024-02-15 |
-| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 |  |
+| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-03-02 |
+| [For Instance](https://open.spotify.com/track/6ogNvmXGFN06GtClJ2vcFq) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/7GV2QUScICZUnc5yWxAdxi) | 3:24 | 2024-02-26 |  |
 | [Forbidden Fruit](https://open.spotify.com/track/0TpJiBJbQubqmn2xV7hw2E) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [Forbidden Fruit](https://open.spotify.com/album/4LEk3GyCDWif1VgveeNHn0) | 2:57 | 2021-10-11 | 2022-02-25 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-09-22 |
 | [Free](https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Free](https://open.spotify.com/album/6DqoAUmZnzAE3quXt0bAgq) | 2:07 | 2023-10-20 |  |

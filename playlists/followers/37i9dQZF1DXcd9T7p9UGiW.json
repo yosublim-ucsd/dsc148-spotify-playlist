@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 41216,
+  "2024-03-02": 41320,
   "date_first_scraped": "2021-12-29",
   "description": "Catching flights and going global. Cover: Rotimi, Nasty C, Mayorkun",
   "name": "Gone Abroad ",
@@ -217,6 +217,32 @@
       "duration_ms": 188567,
       "name": "Acc\u00e9l\u00e8re",
       "url": "https://open.spotify.com/track/6m70gILFez0tvkx5dCFPbZ"
+    },
+    {
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0f1B2xgH5lXQ5ZYt1jZICc"
     },
     {
       "album": {
@@ -1557,7 +1583,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -2213,7 +2239,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 177680,
       "name": "Cough",
       "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
@@ -4150,6 +4176,32 @@
     },
     {
       "album": {
+        "name": "The Gentle Man",
+        "url": "https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182914,
+      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+      "url": "https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Like You (feat. JELEEL! & Candy Bleakz)",
         "url": "https://open.spotify.com/album/5uWy69DZ2yLwy7kCDbRuPU"
       },
@@ -4952,6 +5004,28 @@
     },
     {
       "album": {
+        "name": "KOKA",
+        "url": "https://open.spotify.com/album/42lOLtoRnq3ox0Ghz7DJht"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "KOKA",
+      "url": "https://open.spotify.com/track/4y0NPlpdWSE2YcRtSOVNhW"
+    },
+    {
+      "album": {
         "name": "Konibaje (Remix)",
         "url": "https://open.spotify.com/album/0CtAbID8kHqbVgUsGabffI"
       },
@@ -5642,6 +5716,28 @@
     },
     {
       "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4"
+      },
+      "artists": [
+        {
+          "name": "Aka Kelzz",
+          "url": "https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb"
+        },
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132049,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
+    },
+    {
+      "album": {
         "name": "MAALI",
         "url": "https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N"
       },
@@ -5859,7 +5955,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187683,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE"
@@ -5881,7 +5977,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -5907,6 +6003,36 @@
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44"
+    },
+    {
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Acebergtm",
+          "url": "https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "KLOE",
+          "url": "https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Million Reasons (feat. Kloe)",
+      "url": "https://open.spotify.com/track/6Pf9vLQFw489DUYSIOJllG"
     },
     {
       "album": {
@@ -5947,7 +6073,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203093,
       "name": "Miracle Baby",
       "url": "https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq"
@@ -6919,6 +7045,32 @@
       "duration_ms": 152842,
       "name": "Ogwula",
       "url": "https://open.spotify.com/track/3cfuJGjmekuoJzyIbPSZTE"
+    },
+    {
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176020,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF"
     },
     {
       "album": {
@@ -10114,6 +10266,32 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
         "name": "Too Hot (Maxi Single)",
         "url": "https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d"
       },
@@ -10827,7 +11005,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"

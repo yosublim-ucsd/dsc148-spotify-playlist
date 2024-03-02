@@ -1,12 +1,12 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Jess Bays, Jem Cooke",
-  "num_followers": 301411,
+  "num_followers": 301557,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmY3NDY3N2E5ZGYxMGEyOGJlZTU1ZTQzMzBiYjM2ZTNkNTE3YTQ2",
+  "snapshot_id": "MCxlMDBlOTdmMDZjZjg2YjRkZDNiZWViYTkzOTQ2OGRiNDZiMjBhY2Qw",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -163,8 +163,8 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Everything You Do",
-        "url": "https://open.spotify.com/album/2HXV37PReTqdpVEjLPlvn5"
+        "name": "Everything You Do (feat. Aviella)",
+        "url": "https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4"
       },
       "artists": [
         {
@@ -172,13 +172,21 @@
           "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
         },
         {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
           "name": "Aviella",
           "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         }
       ],
       "duration_ms": 183553,
-      "name": "Everything You Do",
-      "url": "https://open.spotify.com/track/5QvcIzVFohVArFMYUWx1Xu"
+      "name": "Everything You Do (feat. Aviella)",
+      "url": "https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -991,8 +999,8 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Feel the Rain",
-        "url": "https://open.spotify.com/album/3aCDduslNaUx8a4ZaZlHUj"
+        "name": "Feel The Rain",
+        "url": "https://open.spotify.com/album/3AeLrr9V1VDmDwzEF3IVOO"
       },
       "artists": [
         {
@@ -1009,8 +1017,8 @@
         }
       ],
       "duration_ms": 183221,
-      "name": "Feel the Rain",
-      "url": "https://open.spotify.com/track/0eKNjuoZHE40bnQgk1lKkh"
+      "name": "Feel The Rain",
+      "url": "https://open.spotify.com/track/35I6XgvXYBApix5JEN59t2"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1251,8 +1259,8 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4IroBXhWx1FcpluTfiHexH"
+        "name": "Time After Time (feat. Beks)",
+        "url": "https://open.spotify.com/album/6848w6ISWQUVJqxLPKPyHz"
       },
       "artists": [
         {
@@ -1269,8 +1277,8 @@
         }
       ],
       "duration_ms": 122769,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/0O9d2JPrpYuUbi74tK80M1"
+      "name": "Time After Time (feat. Beks)",
+      "url": "https://open.spotify.com/track/072OnoAyZwMCIHRblFMew8"
     },
     {
       "added_at": "2024-02-29 23:00:00",

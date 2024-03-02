@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-2,237 songs - 6 day 0 hr 9 min
+2,239 songs - 6 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-05 | 2023-10-01 |
 | [Grapefruit Moon](https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y) | 3:16 | 2023-09-05 | 2023-09-07 |
 | [Greatest Gift](https://open.spotify.com/track/1H256jbhGYkT9WYzmWEeM2) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!/Greatest Gift](https://open.spotify.com/album/2RJmrHhDtJLSaPF5Vn7Q1X) | 5:24 | 2022-06-02 | 2022-07-17 |
-| [Grooving Night](https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/4aiI0ewHwBZ98S1kIMmMz4) | 3:26 | 2024-02-29 |  |
+| [Grooving Night](https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/4aiI0ewHwBZ98S1kIMmMz4) | 3:26 | 2024-02-29 | 2024-03-02 |
+| [Grooving Night](https://open.spotify.com/track/7wDbhuuqxiw0pCUAIEkVAW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Grooving Night](https://open.spotify.com/album/2BsJ7p2HeWyaLtDapCF8TT) | 3:26 | 2024-02-29 |  |
 | [habilabi](https://open.spotify.com/track/4EQx8YujNNZETd1LBhGKo5) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/14dw7FgjqtHRCeV2MaL6Mp) | 3:52 | 2023-07-18 | 2023-07-26 |
 | [habilabi](https://open.spotify.com/track/4MfPAtRiq3dIOLsbHTbMqj) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/0cubnBwKraFJPbiuCz4Abz) | 3:52 | 2023-07-18 | 2023-07-20 |
 | [Haiiro](https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Haiiro](https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2) | 3:53 | 2023-07-18 | 2023-07-26 |
@@ -1975,7 +1976,8 @@
 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 | 2023-12-26 | 2023-12-30 |
 | [星屑ドライブ](https://open.spotify.com/track/4iAxpxyp6daT87wourqX39) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ](https://open.spotify.com/album/0ubpJPdKR70Znah6uYigxc) | 4:38 | 2022-07-26 | 2022-07-28 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-07 |  |
-| [春と門出](https://open.spotify.com/track/5rXsiXeu6eOECkW4wOVcBs) | [ハナフサマユ](https://open.spotify.com/artist/1uESGfxoaOLG8KzuiAuuVh) | [春と門出](https://open.spotify.com/album/45iZOyATobrJl6rFK61vH7) | 4:21 | 2024-02-29 |  |
+| [春と門出](https://open.spotify.com/track/3CCPQAC4jEWyzvnFFt06BV) | [ハナフサマユ](https://open.spotify.com/artist/1uESGfxoaOLG8KzuiAuuVh) | [春と門出](https://open.spotify.com/album/6egH67qzKZHCzxXTI1V93x) | 4:21 | 2024-02-29 |  |
+| [春と門出](https://open.spotify.com/track/5rXsiXeu6eOECkW4wOVcBs) | [ハナフサマユ](https://open.spotify.com/artist/1uESGfxoaOLG8KzuiAuuVh) | [春と門出](https://open.spotify.com/album/45iZOyATobrJl6rFK61vH7) | 4:21 | 2024-02-29 | 2024-03-02 |
 | [春に](https://open.spotify.com/track/0YyBc1fAHCY8QVnRxSkhgi) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [春に](https://open.spotify.com/album/0F5YQvR5sC0eWICGhYwgcl) | 4:45 | 2024-02-27 |  |
 | [春にあこがる](https://open.spotify.com/track/1pTlB5PTyK49E2gbEXl0iF) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [春にあこがる](https://open.spotify.com/album/2KPV0B4Z457pHDWdZlu5ps) | 4:04 | 2023-04-11 | 2023-04-19 |
 | [春の嵐](https://open.spotify.com/track/2rLQopphegapsx4uPwpwz7) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Bet On Me](https://open.spotify.com/album/0rTpb9TTasG9osavRMEFD3) | 3:29 | 2023-03-14 | 2023-03-22 |

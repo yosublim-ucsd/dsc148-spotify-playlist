@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Agora Vai!",
+        "url": "https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2"
+      },
+      "artists": [
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266118,
+      "name": "Agora Vai!",
+      "url": "https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL"
+    },
+    {
+      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 191569,
       "name": "Midnight Calls",
       "url": "https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl"

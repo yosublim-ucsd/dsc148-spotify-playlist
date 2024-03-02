@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-1,382 songs - 3 day 11 hr 24 min
+1,384 songs - 3 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,7 +698,8 @@
 | [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-09-22 | 2022-10-14 |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-10-13 | 2023-02-04 |
 | [love songs](https://open.spotify.com/track/0OLHWZ1Iiwqs9ALtNtQbeu) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [love songs](https://open.spotify.com/album/3864FBg7tKLGB8dKtUnxG9) | 3:20 | 2023-06-30 | 2023-07-22 |
-| [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 |  |
+| [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-02-29 |  |
+| [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-08 | 2024-03-02 |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-07-09 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-09-11 | 2023-12-09 |
 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-26 | 2022-06-25 |
@@ -761,7 +762,8 @@
 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 | 2023-12-17 |  |
 | [Movie Star](https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:54 | 2023-03-24 | 2023-05-20 |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-20 | 2024-01-26 |
-| [Moving On](https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV) | 3:22 | 2024-01-25 |  |
+| [Moving On](https://open.spotify.com/track/1ZJtorRlIPyVvOIvd61TZz) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5dihEwfqzPZOJDxXvzoEQV) | 3:22 | 2024-01-25 | 2024-03-02 |
+| [Moving On](https://open.spotify.com/track/2xMj8iLw8x1QXXEnAYmd47) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Moving On](https://open.spotify.com/album/5JlKLylWzD893DIM0hthV5) | 3:22 | 2024-02-29 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2024-01-17 |
 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 4:03 | 2024-02-29 |  |
 | [Museum](https://open.spotify.com/track/6liB5ag2B1cL6KYkWte2cU) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Museum](https://open.spotify.com/album/5IIzBn2NyWLRxDrVQy6L0g) | 3:35 | 2023-03-10 | 2023-04-15 |

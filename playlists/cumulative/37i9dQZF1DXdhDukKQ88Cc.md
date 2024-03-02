@@ -4,7 +4,7 @@
 
 > det største dk rap lige nu.\. <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a>,  <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Benny Jamz</a>, <a href="spotify:artist:3RYYha3CC7js2PHbcBHewt">ICEKIID</a> har ny musik ude 🔥
 
-137 songs - 5 hr 53 min
+138 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Den Sidste](https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Den Sidste](https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua) | 2:25 | 2023-10-12 | 2023-11-11 |
 | [Differente](https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:20 | 2023-11-10 |  |
 | [DISCO FOMO](https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [DISCO FOMO](https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4) | 2:39 | 2023-10-06 | 2023-10-13 |
+| [Distance \(feat\. Jamaika\)](https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Distance \(feat\. Jamaika\)](https://open.spotify.com/album/6KibBUnazaBaPjId1jSfAR) | 2:53 | 2024-03-01 |  |
 | [DO YOU LOVE ME?](https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DO YOU LOVE ME?](https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd) | 2:22 | 2024-02-29 |  |
 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP) | 2:14 | 2023-11-10 |  |

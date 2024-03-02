@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Latin music bangers for your gaming session! Cover: Eladio Carrion",
+  "description": "Latin music bangers for your gaming session! Santa Fe Klan, Peso Pluma y Duki on cover",
   "name": "Latin Gaming",
   "tracks": [
     {
@@ -2843,6 +2843,32 @@
     },
     {
       "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -3929,6 +3955,32 @@
     },
     {
       "album": {
+        "name": "Endo",
+        "url": "https://open.spotify.com/album/61FwYmzI6FUjwe2si3rZnn"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Karbeats",
+          "url": "https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Endo",
+      "url": "https://open.spotify.com/track/5TSZpaef0x0AztRQXBOpq3"
+    },
+    {
+      "album": {
         "name": "Entre Nosotros",
         "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
@@ -4194,7 +4246,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 128332,
       "name": "fa$hion killa",
       "url": "https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP"
@@ -5022,7 +5074,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 229946,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
@@ -5200,10 +5252,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174130,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
+    },
+    {
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "album": {
@@ -5394,7 +5464,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169636,
       "name": "Intocable - Remix",
       "url": "https://open.spotify.com/track/3uYloeZOfzOjx3h7IQqD9N"
@@ -6072,7 +6142,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155454,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD"
@@ -7503,6 +7573,28 @@
     },
     {
       "album": {
+        "name": "Mi Clan",
+        "url": "https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138401,
+      "name": "Mi Clan",
+      "url": "https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF"
+    },
+    {
+      "album": {
         "name": "DI LETRA",
         "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
@@ -7664,7 +7756,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 117112,
       "name": "Mi Vida",
       "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
@@ -8351,6 +8443,24 @@
     },
     {
       "album": {
+        "name": "NAVI",
+        "url": "https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "NAVI",
+      "url": "https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc"
+    },
+    {
+      "album": {
         "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
         "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
@@ -8800,6 +8910,24 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "album": {
+        "name": "ODIOSOTORIUS",
+        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "ODIOSOTORIUS",
+      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
     },
     {
       "album": {

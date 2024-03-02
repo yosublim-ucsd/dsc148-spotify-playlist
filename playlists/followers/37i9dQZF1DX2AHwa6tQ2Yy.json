@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 46680,
+  "2024-03-02": 46692,
   "date_first_scraped": "2022-06-05",
   "description": "Let the music flow through you...",
   "name": "Soulful",
@@ -2148,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
+    {
+      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
       },
@@ -4255,7 +4273,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"

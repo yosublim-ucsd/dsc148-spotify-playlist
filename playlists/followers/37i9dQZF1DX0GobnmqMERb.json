@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 2177,
+  "2024-03-02": 2175,
   "date_first_scraped": "2023-11-11",
   "description": "Los temas que los Cangrejeros de Santurce est\u00e1n escuchando.",
   "name": "Cangrejeros: Game Day",
@@ -253,10 +253,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
+    },
+    {
+      "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405093,
+      "name": "El Rey De La Puntualidad",
+      "url": "https://open.spotify.com/track/1nO0s5M8vA6qY70XHZcgmY"
     },
     {
       "album": {

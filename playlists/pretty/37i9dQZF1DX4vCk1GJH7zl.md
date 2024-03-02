@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Shinedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,894 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,917 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 74 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 |
 | 75 | [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 |
 
-Snapshot ID: `MCw3ZDM3ZGE1N2U0NzMxMDUxMzBiZTk0ZjdlMjg1ZGVlMDk0NzRlMTEz`
+Snapshot ID: `MCw5ZThmYmY1YzAxYTVhMGFhZGQwNTk1NGE0MmExN2RkYTAxMjMzODgx`

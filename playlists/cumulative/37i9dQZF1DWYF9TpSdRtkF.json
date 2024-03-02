@@ -134,7 +134,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 268960,
       "name": "addicted",
       "url": "https://open.spotify.com/track/6RFmQhWIaazSsZyh6IeJzX"
@@ -1363,6 +1363,36 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
+        "url": "https://open.spotify.com/album/4XqjxLuLH7cFqWPRHN4jtk"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/0Zoitf0Kntr2fFczIOKCCb"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Fuka Toyokawa (CV: Rie Suegara)",
+          "url": "https://open.spotify.com/artist/7IFPSph621cFElVwhbhdlA"
+        },
+        {
+          "name": "Konomi Baba (CV: Minami Takahashi)",
+          "url": "https://open.spotify.com/artist/71gXraRrIXOxtuvIGPhQKw"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274120,
+      "name": "Eien no Hana",
+      "url": "https://open.spotify.com/track/317m5NiF538J94a19l7Z37"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
       },
@@ -1804,7 +1834,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 262266,
       "name": "GR\uff20TITUDE - MILLION LIVE! Version",
       "url": "https://open.spotify.com/track/13ZkMneUu4rXa4QAoP0FXF"
@@ -2075,6 +2105,44 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
+        "url": "https://open.spotify.com/album/1Qm67YGPw43NZuQXPF1dWr"
+      },
+      "artists": [
+        {
+          "name": "Genesis Nemesis",
+          "url": "https://open.spotify.com/artist/19skWXAzpQAbkfWvVgOsDM"
+        },
+        {
+          "name": "Tsumugi Shiraishi (CV: Saki Minami)",
+          "url": "https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD"
+        },
+        {
+          "name": "Kaori Sakuramori (CV: Arisa Kori)",
+          "url": "https://open.spotify.com/artist/7bKxo2ghxiaI6fOEZPk8W6"
+        },
+        {
+          "name": "Julia (CV: Aimi)",
+          "url": "https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "Akane Nonohara (CV: Saki Ogasawara)",
+          "url": "https://open.spotify.com/artist/5OPLU2q1IdrBalJYL23Oa6"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "Justice OR Voice",
+      "url": "https://open.spotify.com/track/3XcNWyEHDXFaQKWlSXqbD2"
+    },
+    {
+      "album": {
         "name": "Kimi to no Asu o Negau kara",
         "url": "https://open.spotify.com/album/7r5hsWf0kOxOoSXYkwG3Rk"
       },
@@ -2098,6 +2166,36 @@
       "duration_ms": 347093,
       "name": "Kimi to no Asu o Negau kara",
       "url": "https://open.spotify.com/track/6CuH5DLwTRJ6eBtmWC0HYB"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE",
+        "url": "https://open.spotify.com/album/1ozOBPkE6vTVKrNuIIRtyn"
+      },
+      "artists": [
+        {
+          "name": "Tsumugi Shiraishi (CV: Saki Minami)",
+          "url": "https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD"
+        },
+        {
+          "name": "Hibiki Ganaha (CV: Manami Numakura)",
+          "url": "https://open.spotify.com/artist/2BoTUCgw9GuJy5OAwCsfmn"
+        },
+        {
+          "name": "Fuka Toyokawa (CV: Rie Suegara)",
+          "url": "https://open.spotify.com/artist/7IFPSph621cFElVwhbhdlA"
+        },
+        {
+          "name": "Akane Nonohara (CV: Saki Ogasawara)",
+          "url": "https://open.spotify.com/artist/5OPLU2q1IdrBalJYL23Oa6"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "KING of SPADE",
+      "url": "https://open.spotify.com/track/7JF3uoDGejWrw6ypzBh5Cf"
     },
     {
       "album": {
@@ -5060,7 +5158,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 142600,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30fb\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30fbCOOK-KING \uff5e\u52dd\u8005\u5fc5\u98df\uff01\uff1f \u30b9\u30dd\u98df\u306e\u79cb\uff5e \u30b7\u30e3\u30c3\u30d5\u30eb\u30d0\u30fc\u30b8\u30e7\u30f3",
       "url": "https://open.spotify.com/track/7fdTpmPeLrucnSJVHF2Dib"

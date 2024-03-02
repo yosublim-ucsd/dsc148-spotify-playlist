@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: BRELAND
+> Pop country hits of today and tomorrow\. Cover: Blake Shelton and Gwen Stefani
 
 277 songs - 14 hr 30 min
 

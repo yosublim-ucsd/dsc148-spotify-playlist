@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-248 songs - 15 hr 46 min
+249 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Generations](https://open.spotify.com/track/0DdLE4arA4Y7ovVbDjUtBj) | [Laika Beats](https://open.spotify.com/artist/4R6u30PMOLbNNTuR0Jl7x8) | [Generations](https://open.spotify.com/album/7Bp5OznDfxikk20Hb1y2Uh) | 3:31 | 2021-10-15 | 2022-04-16 |
 | [Genesis](https://open.spotify.com/track/2l5zC9tYT3oPPCvDYnke3U) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Genesis](https://open.spotify.com/album/7jXXhska4s5ewmCjx3f542) | 3:46 | 2022-04-25 | 2022-09-17 |
 | [Get Bun](https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Time Is Now White, Vol.10](https://open.spotify.com/album/2QRu4xj67JLGINTazmeCRU) | 3:35 | 2022-01-22 | 2022-04-16 |
+| [Getting Closer](https://open.spotify.com/track/1mzLrbl3iPhvmgoqxrz31c) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Getting Closer](https://open.spotify.com/album/0DCQehQSoGLCUNPvj2bSbL) | 3:03 | 2024-03-01 |  |
 | [Ghost Signal](https://open.spotify.com/track/6pPHRtx8lxvQqcJR5hnenY) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Ghost Signal](https://open.spotify.com/album/69omgDHXg1e6kp9UcbpsfE) | 3:19 | 2023-10-13 |  |
 | [Gimidah](https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Gimidah](https://open.spotify.com/album/69cgoc6VHLgWhrfLuCQX0M) | 3:57 | 2022-10-14 | 2023-05-31 |
 | [Giza](https://open.spotify.com/track/5gmxzQ95Dd67ShlXmfoi2C) | [Morillo](https://open.spotify.com/artist/6gKen78XIn1mdjEp3Gs84U) | [20 Years of Muti](https://open.spotify.com/album/6tZifHF3s2qaqzlPLZ83Kg) | 3:42 | 2022-11-18 | 2023-05-27 |

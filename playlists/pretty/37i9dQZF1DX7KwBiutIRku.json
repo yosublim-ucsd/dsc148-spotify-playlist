@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 87962,
+  "num_followers": 88053,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh",
+  "snapshot_id": "MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
       "artists": [
         {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Floyd's Hotel",
-      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+      "duration_ms": 211933,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Never A Dull Moment",
-        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
         }
       ],
-      "duration_ms": 211933,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+      "duration_ms": 189520,
+      "name": "Floyd's Hotel",
+      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
     },
     {
       "added_at": "2021-04-13 15:36:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Side 3",
-        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
-      },
-      "artists": [
-        {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
-        }
-      ],
-      "duration_ms": 310533,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Spirit In The Sky (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Blues Band - Ready (Remastered)",
-        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
+        "name": "Side 3",
+        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
       },
       "artists": [
         {
-          "name": "The Blues Band",
-          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
         }
       ],
-      "duration_ms": 155914,
-      "name": "Find Yourself Another Fool - Remastered",
-      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
+      "duration_ms": 310533,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -715,6 +699,22 @@
       "duration_ms": 386226,
       "name": "It's All Over Now",
       "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Blues Band - Ready (Remastered)",
+        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
+      },
+      "artists": [
+        {
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+        }
+      ],
+      "duration_ms": 155914,
+      "name": "Find Yourself Another Fool - Remastered",
+      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 101221,
+  "2024-03-02": 101245,
   "date_first_scraped": "2021-12-28",
-  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Rochy RD",
+  "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Yaisel LM",
   "name": "Rep\u00fablica Dembow",
   "tracks": [
     {
@@ -373,7 +373,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141125,
       "name": "Ando",
       "url": "https://open.spotify.com/track/5TyHGAXlplpzthOnOcTFhY"
@@ -645,6 +645,32 @@
       "duration_ms": 190464,
       "name": "Bilibob",
       "url": "https://open.spotify.com/track/0wCINtcvrzwjJjrTJPmnSt"
+    },
+    {
+      "album": {
+        "name": "Bonsinabom remix",
+        "url": "https://open.spotify.com/album/7ssWgwLiL6wOu9LJUtluqJ"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "El Crok",
+          "url": "https://open.spotify.com/artist/2rA5hybfOSoyc2lTHMLChj"
+        },
+        {
+          "name": "Orlando Moreno Feo",
+          "url": "https://open.spotify.com/artist/4dQp6GyGTOqfD3diTK3Yvu"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183194,
+      "name": "Bonsinabom remix",
+      "url": "https://open.spotify.com/track/7p37ALotrxj5SDLXXeblEy"
     },
     {
       "album": {
@@ -985,6 +1011,24 @@
       "duration_ms": 216999,
       "name": "Careta",
       "url": "https://open.spotify.com/track/2lBcOUfEHhXgGfySoP9yMo"
+    },
+    {
+      "album": {
+        "name": "CARETON",
+        "url": "https://open.spotify.com/album/5ExuuwLr4DfqW57Rt8enPr"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146423,
+      "name": "CARETON",
+      "url": "https://open.spotify.com/track/7o92GFGIshginjV4acGA0V"
     },
     {
       "album": {
@@ -3154,6 +3198,28 @@
     },
     {
       "album": {
+        "name": "En Blusa Freestyle",
+        "url": "https://open.spotify.com/album/1qaUHX9UXhjHKi8DxD4Gs4"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633043,
+      "name": "En Blusa Freestyle",
+      "url": "https://open.spotify.com/track/6x75q2uPWGElnj6PNyXXad"
+    },
+    {
+      "album": {
         "name": "En Cuota",
         "url": "https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw"
       },
@@ -3595,6 +3661,28 @@
       "duration_ms": 177015,
       "name": "GLOCK CREMA",
       "url": "https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP"
+    },
+    {
+      "album": {
+        "name": "Gltt BowBow",
+        "url": "https://open.spotify.com/album/2YXhkHlPcJh8hBhPzgBgGC"
+      },
+      "artists": [
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        },
+        {
+          "name": "Mike Dee",
+          "url": "https://open.spotify.com/artist/6CpoWCJhlMrY9SscZqFyW5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149256,
+      "name": "Gltt BowBow",
+      "url": "https://open.spotify.com/track/3u6C7Qrh7ZVDnlGwS606Qp"
     },
     {
       "album": {
@@ -5354,6 +5442,32 @@
     },
     {
       "album": {
+        "name": "Los Pasos Disponible",
+        "url": "https://open.spotify.com/album/7vLZjtIaEsXtCSTrLczoAX"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202216,
+      "name": "Los Pasos Disponible",
+      "url": "https://open.spotify.com/track/2eY4TmcggU8T0LBm9FVGHK"
+    },
+    {
+      "album": {
         "name": "Los Pomposo",
         "url": "https://open.spotify.com/album/58Oiy0qpUaoeOjS24jUbYQ"
       },
@@ -5593,7 +5707,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 160000,
       "name": "Malo Malo",
       "url": "https://open.spotify.com/track/4Lp6g21jhwdJ0omSrBeLNk"
@@ -6875,6 +6989,28 @@
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
+      "album": {
+        "name": "Pa Arriba Pa Abajo",
+        "url": "https://open.spotify.com/album/0erCCUlDacQZlaTT3HG4wE"
+      },
+      "artists": [
+        {
+          "name": "La Baby",
+          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "Pa Arriba Pa Abajo",
+      "url": "https://open.spotify.com/track/0H5L77CsfQEKqDDGxu3H45"
     },
     {
       "album": {
@@ -8481,7 +8617,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 146442,
       "name": "Sangundeo",
       "url": "https://open.spotify.com/track/7jvAjZkb2q0PQmCIZR3Shb"
@@ -9659,7 +9795,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 134173,
       "name": "Te Enamoraste, Perdiste",
       "url": "https://open.spotify.com/track/316wzRNASMxvYyOWNR0zd0"
@@ -9681,7 +9817,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 120526,
       "name": "Te la robe",
       "url": "https://open.spotify.com/track/4uo1pUHNY70hPYKRuviCwS"

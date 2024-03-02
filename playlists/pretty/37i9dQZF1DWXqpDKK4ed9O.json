@@ -1,12 +1,12 @@
 {
   "description": "Tight Roll your jeans, break out the CK1, and set the mood...",
-  "num_followers": 3526772,
+  "num_followers": 3527318,
   "original_name": "90s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTUwMjNjMjE3MDlmMGQ1NmU4ZGU2ZDk3ZDgwNTM3NGFiNzAwNGFk",
+  "snapshot_id": "MCw0OGI5OTQxOTcwNzAxZTZiODA1YmU3YWNhNzg2MjllNjVhYmU1YWZl",
   "tracks": [
     {
       "added_at": "2024-02-09 06:22:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-09 06:22:07",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
-      },
-      "artists": [
-        {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
-        }
-      ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
-      "added_at": "2024-02-09 06:22:07",
-      "album": {
         "name": "98 Degrees And Rising",
         "url": "https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 226733,
       "name": "I Do (Cherish You)",
       "url": "https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6"
+    },
+    {
+      "added_at": "2024-02-09 06:22:07",
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2024-02-09 06:22:07",

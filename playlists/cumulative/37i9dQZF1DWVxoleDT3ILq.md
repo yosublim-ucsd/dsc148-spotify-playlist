@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Charly Benavente
 
-452 songs - 1 day 3 hr 9 min
+453 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2023-06-24 |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
-| [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 |  |
+| [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 | 2024-03-02 |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 | 2022-08-06 |
 | [Frías](https://open.spotify.com/track/0WWZQYep6VPEJ540Lky528) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Reminiscencias](https://open.spotify.com/album/11mR2hSiH1drggBB5jiq0S) | 3:55 | 2022-04-15 | 2022-07-29 |
@@ -396,6 +396,7 @@
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2023-07-07 |
+| [Tengo una Herida](https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG), [Acuario](https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j) | [Tengo una Herida](https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs) | 2:40 | 2024-03-01 |  |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 |  |
 | [Tercera](https://open.spotify.com/track/38FMeqQyEl8zqvMIbrTU0c) | [Novedades Matutinas](https://open.spotify.com/artist/3mFy5nL1nhpNq2QyNNFWVt) | [Tercera](https://open.spotify.com/album/3TvWm67mHJhkVgzVjcSB9D) | 3:52 | 2022-05-27 | 2022-07-29 |

@@ -6001,6 +6001,36 @@
     },
     {
       "album": {
+        "name": "In the Shadows",
+        "url": "https://open.spotify.com/album/2ShK5CySPE32SfPcPf568H"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Christophe Rousset",
+          "url": "https://open.spotify.com/artist/5JYgjQKgcKOCWvsMztDF2z"
+        },
+        {
+          "name": "Les Talens Lyriques",
+          "url": "https://open.spotify.com/artist/7rfKdyx8vflt0A81D6phEQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349653,
+      "name": "Wagner: Lohengrin: \"Mein lieber Schwan\" (Lohengrin)",
+      "url": "https://open.spotify.com/track/2YENWPn7toTXctqsdRzkUe"
+    },
+    {
+      "album": {
         "name": "War, Peace, Love & Sorrow",
         "url": "https://open.spotify.com/album/5FB1u4GpBY0e8HJ7vavobT"
       },

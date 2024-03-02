@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,628 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,744 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 88 | [Love More](https://open.spotify.com/track/63ZjEz218reY1rFflqqnqW) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Love More](https://open.spotify.com/album/4969NCdV86tRot6wQf7jpx) | 4:10 |
 | 89 | [為你寫詩](https://open.spotify.com/track/4shNlYQOP5rMxmAuOb12ax) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [為你寫詩](https://open.spotify.com/album/6DZ1EaG1u0UChNesRDt1Ib) | 4:45 |
 | 90 | [煎熬](https://open.spotify.com/track/1bkdJsC4ZWDo8j8ekJWMeD) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [感謝愛人](https://open.spotify.com/album/5zYsQ18eVxj2ZObMaFC6Jt) | 4:22 |
-| 91 | [我還年輕 我還年輕](https://open.spotify.com/track/5o48kuQnPwhuRAzO2t0bCU) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [吾十有五而志於學](https://open.spotify.com/album/1UFlqDXBlX81oJxLfnIaIw) | 5:47 |
+| 91 | [我還年輕 我還年輕](https://open.spotify.com/track/6cGzTAwvGHsmk4CqIAXoJj) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [吾十有五而志於學](https://open.spotify.com/album/6mxSeNzDNiNEF67v5g7b4A) | 5:47 |
 | 92 | [Aim High](https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/5N9n9M1DBQTCavQwbH316F) | 3:43 |
 | 93 | [他們說我是沒有用的年輕人](https://open.spotify.com/track/2h5j6lshsRkShTQ527SOlj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [他們說我是沒有用的年輕人](https://open.spotify.com/album/52wbyXpG9wiklOacpLGrig) | 5:23 |
 | 94 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 99 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 |
 | 100 | [海浪](https://open.spotify.com/track/5EpLeWSwqOG0mZW0R4WdKQ) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [Go Slow](https://open.spotify.com/album/3dsjH0D0Co0X7oii3a7FO8) | 5:22 |
 
-Snapshot ID: `MCwwYWRlZmE1YTEwYWY3ZDg4MjVjNTRkN2VmOWVjZmM2N2MxYjZkN2Fl`
+Snapshot ID: `MCwyMjgzYzg5OTlkNDFkZWM4OTdhMThjMDA4Zjg1MzExNGQyOTUwYzI0`

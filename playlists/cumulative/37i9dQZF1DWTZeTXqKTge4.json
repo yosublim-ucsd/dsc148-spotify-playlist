@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud, EDGE",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Aswell",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179666,
       "name": "21 Grammes",
       "url": "https://open.spotify.com/track/7kYuLvNGvmr0epI0sUmVdv"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156055,
       "name": "Ayenne",
       "url": "https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T"
@@ -4911,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/7BsUyHowfyfP4EnSWh5WHL"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144576,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn"
+    },
+    {
+      "album": {
         "name": "GMM",
         "url": "https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs"
       },
@@ -5020,6 +5038,24 @@
       "duration_ms": 149707,
       "name": "Gucci Mane",
       "url": "https://open.spotify.com/track/0orQYTHoXULc1CSPiWWOMc"
+    },
+    {
+      "album": {
+        "name": "Synesth\u00e9sies",
+        "url": "https://open.spotify.com/album/7kRHE7Xjb7sxShWTWC4uf9"
+      },
+      "artists": [
+        {
+          "name": "Sora\u00ef",
+          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "G\u00e2chis",
+      "url": "https://open.spotify.com/track/1IJ7Hr9WZdMDVuscN0guwi"
     },
     {
       "album": {
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175500,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB"
@@ -5552,6 +5588,28 @@
       "duration_ms": 164078,
       "name": "Infr\u00e9quentable",
       "url": "https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el"
+    },
+    {
+      "album": {
+        "name": "Instable",
+        "url": "https://open.spotify.com/album/1NGUzRGlK6MXt1BAhVRdEy"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242086,
+      "name": "Instable",
+      "url": "https://open.spotify.com/track/0qU0zMPwr74UR5eKtGrIaT"
     },
     {
       "album": {
@@ -7901,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/1MjpbZZT5XSUoaaTQ7KXgj"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/4OK1zs3eTax8Gp92amb9d7"
+    },
+    {
+      "album": {
         "name": "NHN",
         "url": "https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ"
       },
@@ -8012,6 +8088,28 @@
       "duration_ms": 217042,
       "name": "No stress",
       "url": "https://open.spotify.com/track/5DKGxw5dGLk92vicX5WbBb"
+    },
+    {
+      "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242869,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
     },
     {
       "album": {
@@ -8471,6 +8569,28 @@
     },
     {
       "album": {
+        "name": "P'tit cochon",
+        "url": "https://open.spotify.com/album/6yReqmLmHrrVzRIL9p4pKi"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        },
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211506,
+      "name": "P'tit cochon",
+      "url": "https://open.spotify.com/track/4KzVQwE98AbZ7TrrNwt9L9"
+    },
+    {
+      "album": {
         "name": "Palmar\u00e8s",
         "url": "https://open.spotify.com/album/76Du01EjxBVqFUxuQpNyiP"
       },
@@ -8650,7 +8770,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178725,
       "name": "Partout",
       "url": "https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu"
@@ -8916,6 +9036,32 @@
       "duration_ms": 177403,
       "name": "Plata",
       "url": "https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ"
+    },
+    {
+      "album": {
+        "name": "Plein d'adresses",
+        "url": "https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246291,
+      "name": "Plein d'adresses",
+      "url": "https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc"
     },
     {
       "album": {
@@ -9344,6 +9490,24 @@
       "duration_ms": 174008,
       "name": "Quand la route est longue - Radio Edit",
       "url": "https://open.spotify.com/track/5J60TBnpkXpncoXOjDENoV"
+    },
+    {
+      "album": {
+        "name": "Qui d'Autre",
+        "url": "https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY"
+      },
+      "artists": [
+        {
+          "name": "Joe Rocca",
+          "url": "https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "Qui d'Autre",
+      "url": "https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8"
     },
     {
       "album": {
@@ -10076,7 +10240,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 241823,
       "name": "salades",
       "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
@@ -11122,7 +11286,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 196373,
       "name": "Tout est bon",
       "url": "https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6"
@@ -11436,7 +11600,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178500,
       "name": "Tu connais mon nom",
       "url": "https://open.spotify.com/track/3yFvxH76jUG9LAPg0E6SbP"
@@ -11462,6 +11626,24 @@
       "duration_ms": 213250,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/78kPQ6WIQ1CPXmwINExZca"
+      },
+      "artists": [
+        {
+          "name": "LeMind",
+          "url": "https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132562,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6fisfuQP2L5hwoeiNBWw7l"
     },
     {
       "album": {
@@ -11886,7 +12068,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187776,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/5OXFw7wT8P6Su13CoYVRSf"

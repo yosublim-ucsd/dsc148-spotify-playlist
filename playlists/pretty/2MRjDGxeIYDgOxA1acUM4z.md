@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MRjDGxeIYDgOxA1acUM4z.md) - [plain]
 
 > ❤️
 
-[Lolo](https://open.spotify.com/user/126463876) - 1 like - 52 songs - 3 hr 10 min
+[Lolo](https://open.spotify.com/user/126463876) - 1 like - 56 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,9 @@ pretty - [cumulative](/playlists/cumulative/2MRjDGxeIYDgOxA1acUM4z.md) - [plain]
 | 50 | [Never A Good Time](https://open.spotify.com/track/5l60Z7gXN9MhAyhdZdy3uA) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:47 |
 | 51 | [Oracle](https://open.spotify.com/track/4eIBTgzVW8X1IU8H3GTMC5) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Why Should We Turn Around?](https://open.spotify.com/album/4N1lKPQWnwAAeR8r7IoGTO) | 2:04 |
 | 52 | [Out There](https://open.spotify.com/track/6eO8bUr6vsBKuA6nLfsvUY) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You \- EP](https://open.spotify.com/album/1riKnuz0cCeVnvLpgWeKkV) | 3:24 |
+| 53 | [Changes](https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes](https://open.spotify.com/album/4h8xh5PZ1CNVW9vTdqRYAL) | 3:34 |
+| 54 | [Instead](https://open.spotify.com/track/6Ed1ziyANcIOJOyHbfr8ie) | [Ryan Amador](https://open.spotify.com/artist/1ihU4zSTmY0qQXhx8jEXWT) | [Ryan Amador](https://open.spotify.com/album/0fDhnwGhz9Mzq7s8IMUtEF) | 5:55 |
+| 55 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
+| 56 | [People Watching](https://open.spotify.com/track/3TFoEJe5zNuHZStRboWPxg) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:38 |
 
-Snapshot ID: `MTQ3LDk1NDNiZTcwYzRiMWU0MDBlMGVlM2FiM2I4OGY0NTM2ZWMwNzI2NmU=`
+Snapshot ID: `MTUxLDY3MDFmOTRmYzlkMjI1ZmY3YjA5MmQwODdjNGY5OTdkZjU4M2IxZTE=`

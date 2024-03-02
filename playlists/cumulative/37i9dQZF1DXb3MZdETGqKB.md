@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-267 songs - 15 hr 35 min
+268 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 | 2022-10-22 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Alafia Moon](https://open.spotify.com/track/70E86POsODghwNfyN2Rgh4) | [Damon Fowler](https://open.spotify.com/artist/6dsP618YZjWbcMvxhvW1ug) | [Alafia Moon](https://open.spotify.com/album/1WGCbDWr7aLtgzursVE3pK) | 4:34 | 2021-03-12 | 2022-03-26 |
-| [Alice](https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Lena Schaur](https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh) | [Alice](https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E) | 2:34 | 2023-09-22 |  |
+| [Alice](https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Lena Schaur](https://open.spotify.com/artist/5wcDwiaP6GfRuIlJUzMylh) | [Alice](https://open.spotify.com/album/49Wr6GxDzD0sLh3oedD84E) | 2:34 | 2023-09-22 | 2024-03-02 |
 | [Alive](https://open.spotify.com/track/7BuuOoTGzn92qj3pwpAJhF) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 4:24 | 2023-05-05 |  |
 | [All Night \- Edit](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2023-03-25 |
 | [All of It, Again](https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [All of It, Again](https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI) | 4:03 | 2021-04-23 | 2022-05-07 |
@@ -191,6 +191,7 @@
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 | 2022-07-29 |
 | [Settle For Less](https://open.spotify.com/track/2ha56ZefX99UI2KqBkZs29) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Settle For Less](https://open.spotify.com/album/1JpcWCaJAFI2nBoW4pqJRF) | 3:08 | 2023-04-24 | 2023-05-20 |
 | [Shake It, Shake It, Shake It](https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 2:37 | 2023-03-03 |  |
+| [She Knows It](https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [She Knows It](https://open.spotify.com/album/6DgHbvPexJ7CrDyHeJPLgO) | 2:15 | 2024-03-01 |  |
 | [She Ought to Be King](https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof) | [Lisa Morales](https://open.spotify.com/artist/22HF78UQSmSTNtv4bsfUAI) | [She Ought To Be King](https://open.spotify.com/album/46E1sMAkyBRoKmFOEoyNKq) | 5:34 | 2022-08-26 |  |
 | [She's So Cold](https://open.spotify.com/track/5j9JLxnym3t87UZbgU4EwE) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 2:21 | 2023-04-24 |  |
 | [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 | 2023-08-26 |

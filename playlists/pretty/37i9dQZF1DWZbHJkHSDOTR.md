@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editors’ picks for the best of R&B in Canada in 2023\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,985 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,992 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 32 | [What You Done](https://open.spotify.com/track/5IouffaYEX67BICjTSCckE) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL) | 2:54 |
 | 33 | [That Thang \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4o74PvFcj51SGKRTZtzPXT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:16 |
 | 34 | [Lock Up \(with Zinoleesky\)](https://open.spotify.com/track/0ktvfFVbJux3gAn9wp9tTe) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:43 |
-| 35 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 |
+| 35 | [Counting Thunder](https://open.spotify.com/track/2KNqYDH4eHT15G6pzYreYO) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Nothing Else Feels The Same](https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L) | 3:18 |
 | 36 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 37 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 |
 | 38 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 49 | [Bestie](https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Bestie](https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE) | 2:54 |
 | 50 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 |
 
-Snapshot ID: `MCxiNzg3OWU1YmVjZWUyMjI0M2NlYzUxYmNjYzNlOTE1Mzc1ZTk3N2Yx`
+Snapshot ID: `MCw2MWY5YjQ5ZjNlMmYyM2U5NjhhNmJlYTk2MDNjNDZmYmZiNzMzZGJk`

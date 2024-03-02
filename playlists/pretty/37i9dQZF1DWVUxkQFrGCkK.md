@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > warming up for ibz szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,475 likes - 220 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,698 likes - 220 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 9 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
 | 10 | [Promises \- VIP](https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(VIP\)](https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf) | 4:07 |
 | 11 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
-| 12 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
+| 12 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 13 | [Me Gusta](https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [BMW KENNY](https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Me Gusta](https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4) | 2:44 |
 | 14 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 |
 | 15 | [Veneno \(&friends Remix\)](https://open.spotify.com/track/6a56Hsf9EGznpPXr4VERkw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno \(&friends Remix\)](https://open.spotify.com/album/4au0ZInXEbJHLvTLZs7pFi) | 3:55 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 219 | [Freekazoid \- Ruff Mix](https://open.spotify.com/track/4ICacB65QM2k0ET6oGeF4n) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Freekazoid](https://open.spotify.com/album/1LJYdPsBqkqZZRa5wnonsK) | 5:47 |
 | 220 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `MCw2N2EzODlkN2MzNzk4MmZlMmIwNGJiOGQ3OGM1OGE4ODZkYzNjOWI3`
+Snapshot ID: `MCw4NzNiZDdmZGE0M2EwYmU0NDBjM2M4ZDkwYmIwMDQwZTEzNWI2MDY3`

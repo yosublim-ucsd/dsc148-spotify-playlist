@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 20772,
+  "2024-03-02": 20795,
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Phina",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Bruce Africa",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -988,6 +988,28 @@
     },
     {
       "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl"
+      },
+      "artists": [
+        {
+          "name": "Bruce africa",
+          "url": "https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3"
+        },
+        {
+          "name": "Mordecai Dex",
+          "url": "https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160475,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq"
+    },
+    {
+      "album": {
         "name": "Lazizi - Spotify Singles (Cover)",
         "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
       },
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193596,
       "name": "Morning Call",
       "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
@@ -2021,6 +2043,24 @@
       "duration_ms": 181786,
       "name": "Nishazoea",
       "url": "https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s"
+    },
+    {
+      "album": {
+        "name": "Nisiulizwe",
+        "url": "https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Nisiulizwe",
+      "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
     },
     {
       "album": {

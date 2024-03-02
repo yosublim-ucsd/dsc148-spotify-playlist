@@ -2,7 +2,7 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Boy Spyce
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kemuel
 
 524 songs - 1 day 2 hr 15 min
 
@@ -128,7 +128,7 @@
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2023-06-20 |
 | [Distance](https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Distance](https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3) | 2:56 | 2024-02-23 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-10-14 | 2022-05-20 |
-| [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-02-09 |
+| [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 |  |
 | [Do You](https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Do You](https://open.spotify.com/album/1j6xa8mWcw6FdKzRIkRmkg) | 2:16 | 2021-10-14 | 2022-03-01 |
 | [Doing Me](https://open.spotify.com/track/4optsmphrYWvFh027612MA) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Migz](https://open.spotify.com/artist/2ofat3YqNTinjd9GPgl7lV), [Ariel](https://open.spotify.com/artist/5sZBnbApV6GuQTOPx8xTD7) | [Feels Like Home \(Mixtape Vol.1\)](https://open.spotify.com/album/6iplwWv18qHohOXMh4Leff) | 3:14 | 2023-10-20 | 2023-11-03 |
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-12-08 | 2024-02-22 |
@@ -174,7 +174,7 @@
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 | 2023-09-15 |
 | [Follow You](https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Follow You](https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4) | 3:11 | 2021-10-14 | 2022-03-25 |
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-03-31 | 2023-02-24 |
-| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 |  |
+| [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-03-02 |
 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 | 2022-06-30 | 2023-01-13 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 | 2023-09-15 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:39 | 2022-07-07 | 2022-07-29 |

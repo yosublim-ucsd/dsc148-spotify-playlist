@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Gazo et Tiakola
+> Du Congo, au monde\. 🌍 Photo: SenSey'
 
-344 songs - 21 hr 18 min
+346 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 | 2023-09-30 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-06-29 |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
+| [Comme je suis \- Bonus](https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:46 | 2024-03-01 |  |
 | [Crispy](https://open.spotify.com/track/5u16FMHLDsG50xV6ENA7U8) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Crispy](https://open.spotify.com/album/7cq2diUwOOrYVtOzgaWYuM) | 3:09 | 2024-01-12 | 2024-01-20 |
 | [Danger \- RMX](https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Danger \(RMX\)](https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc) | 2:18 | 2023-09-15 | 2023-12-23 |
 | [Danse](https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Danse](https://open.spotify.com/album/1im21Oi225yO8IponkdVxi) | 2:48 | 2023-08-18 | 2023-10-21 |
@@ -258,8 +259,8 @@
 | [Palavé \(feat\. Tiakola\)](https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3) | 2:39 | 2023-07-28 |  |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-06-30 | 2023-03-25 |
 | [Par Terre – A COLORS SHOW](https://open.spotify.com/track/0vm0LYhr2BdhZ3tYFIxeRx) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Par Terre – A COLORS SHOW](https://open.spotify.com/album/1VDtSNMukAMgQbiSrKFQ9X) | 3:30 | 2022-11-18 | 2023-03-25 |
-| [Parcours](https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Parcours](https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA) | 3:30 | 2023-09-29 |  |
-| [Pas comme eux \- Remix](https://open.spotify.com/track/4b4irV00fhcXBxIfD2z1q9) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Pas comme eux \(Remix\)](https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3) | 2:32 | 2024-01-26 |  |
+| [Parcours](https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Parcours](https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA) | 3:30 | 2023-09-29 | 2024-03-02 |
+| [Pas comme eux \- Remix](https://open.spotify.com/track/4b4irV00fhcXBxIfD2z1q9) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Pas comme eux \(Remix\)](https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3) | 2:32 | 2024-01-26 | 2024-03-02 |
 | [Pays de merveilles](https://open.spotify.com/track/3kDm6WcoCPHjvucG5mv3dY) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Pays de merveilles](https://open.spotify.com/album/4QuGEJxOOYCbvj3S5cR5up) | 5:31 | 2022-12-16 | 2023-02-18 |
 | [Pela](https://open.spotify.com/track/29k18doqNX7akA3MHucyy1) | [Aneza](https://open.spotify.com/artist/7itcwQEuQM22SuRTq19GiV) | [Pela](https://open.spotify.com/album/0REL3Pv23G6C2leFBl2IwQ) | 3:18 | 2022-06-30 | 2022-07-16 |
 | [Pepesou](https://open.spotify.com/track/76N0vIFC7O8CNukQLRkOI6) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [KENI](https://open.spotify.com/artist/6lcDFancBq5GIT8rGTyAJV), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [Pepesou](https://open.spotify.com/album/6qcMsF79mQ5y4AOvacvvsh) | 5:31 | 2023-03-17 | 2023-08-05 |
@@ -328,6 +329,7 @@
 | [Vanessa](https://open.spotify.com/track/0tCm9ehzqzfwTh8L31xS5g) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Vanessa](https://open.spotify.com/album/69MVbuVtnIXxBfw7lpepE6) | 2:55 | 2022-11-11 | 2023-01-06 |
 | [Vanessa \- Remix](https://open.spotify.com/track/40xHXnukuqlE1yfc75Q1dZ) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Vanessa \(Remix\)](https://open.spotify.com/album/7juck8RxJLoKTITfAZKt0X) | 3:12 | 2023-04-07 | 2023-09-09 |
 | [Vas Laba \(Afroflip\)](https://open.spotify.com/track/2BqEQaryZII0qbbN7eo7Jj) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Vas Laba \(Afroflip\)](https://open.spotify.com/album/0ErTOqCZ1f6zEIRlkSzxED) | 2:39 | 2023-03-31 | 2023-08-19 |
+| [Vie d’après](https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ame](https://open.spotify.com/album/3ACiqzYVVGynQtQstUXoiy) | 2:25 | 2024-03-01 |  |
 | [Vita Nzoto](https://open.spotify.com/track/4mNLvByLESJ18RRSkxuSii) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob) | [SMS for Location, Vol\. 5](https://open.spotify.com/album/09qNuueWvc74UyyrqLDTIO) | 4:02 | 2022-12-02 | 2023-03-18 |
 | [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Waah! \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj) | 4:29 | 2023-03-17 | 2023-12-09 |
 | [WAKA WAKA](https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [WAKA WAKA](https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3) | 3:32 | 2022-08-26 | 2022-08-29 |

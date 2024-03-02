@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: MC Abdul & Saint Levant
 
-325 songs - 18 hr 4 min
+326 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Gone](https://open.spotify.com/track/0kwtH6NmbB9fsl772LgPL8) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Gone](https://open.spotify.com/album/1Gc0fo6yZxyna5k1Ozlc6s) | 3:04 | 2021-12-16 | 2022-02-05 |
 | [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 | 2023-06-02 |  |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-12-16 | 2022-07-18 |
+| [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 | 2024-03-01 |  |
 | [Got That Money](https://open.spotify.com/track/00nsIq2SgXZgTjCfmtKGet) | [DD Foxx](https://open.spotify.com/artist/3DyPuuZcBKl2eJyuU4kUS9) | [Got That Money](https://open.spotify.com/album/2QnEfbGT0qwHzBuRAxCccX) | 2:44 | 2021-12-16 | 2022-10-09 |
 | [Grim Reaper](https://open.spotify.com/track/4Q8xz9BbklcXEMh2pqm6E8) | [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Grim Reaper](https://open.spotify.com/album/0qBqDIErbDSTUNJ6WYXnlU) | 2:36 | 2021-12-16 | 2022-11-20 |
 | [Grounding Place](https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place](https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP) | 3:46 | 2022-12-07 | 2023-03-15 |

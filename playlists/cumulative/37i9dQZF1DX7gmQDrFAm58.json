@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 128000,
       "name": "How Much Is That Doggie In The Window?",
       "url": "https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1"
@@ -2706,6 +2706,24 @@
       "duration_ms": 139480,
       "name": "Hymn For Tilda",
       "url": "https://open.spotify.com/track/7mZVmuLQFNnEBcExA6tOAi"
+    },
+    {
+      "album": {
+        "name": "I Am A Tree",
+        "url": "https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4"
+      },
+      "artists": [
+        {
+          "name": "Alice Greye",
+          "url": "https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75565,
+      "name": "I Am A Tree",
+      "url": "https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN"
     },
     {
       "album": {

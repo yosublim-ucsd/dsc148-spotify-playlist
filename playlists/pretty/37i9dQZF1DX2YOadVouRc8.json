@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22393,
+  "num_followers": 22408,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjFlY2ZlMGRiNjI4MjRlYjcwYjJmNGZiOWUzYWQyMTgxNWViOWVi",
+  "snapshot_id": "MCwzMzI4OWIzN2YwODRhNWQxNDY5YjMwOTA2ZTNlMjkwNTdhYTcyMWZm",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Jowo",
         "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
       },
@@ -899,6 +919,22 @@
       "duration_ms": 163130,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Quick Question",
+        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Quick Question",
+      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -919,22 +955,6 @@
       "duration_ms": 161226,
       "name": "SUPARO - Remix",
       "url": "https://open.spotify.com/track/4fh2nObIUqrZdp79yot7uS"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1075,26 +1095,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Vawulence (Remix)",
-        "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
       "artists": [
         {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         },
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Vawulence (Remix)",
-      "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1119,22 +1135,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+        "name": "Vawulence (Remix)",
+        "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+      "duration_ms": 174315,
+      "name": "Vawulence (Remix)",
+      "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1195,26 +1215,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
-      },
-      "artists": [
-        {
-          "name": "Sean Tizzle",
-          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 165550,
-      "name": "No Shame",
-      "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -1235,6 +1235,26 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
+      },
+      "artists": [
+        {
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 165550,
+      "name": "No Shame",
+      "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Make E No Cause Fight 3",
         "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     }
   ],
   "unique_name": "Afro Chill",

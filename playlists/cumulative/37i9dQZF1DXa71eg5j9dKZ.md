@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: SG Lewis
 
-918 songs - 2 day 16 hr 32 min
+919 songs - 2 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Can't we just have fun?](https://open.spotify.com/track/25Si5xf0LQCYVAF4sRKmua) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Two Bruised Egos EP](https://open.spotify.com/album/2TpxUQw76IzcTDV9xGW7fQ) | 5:44 | 2022-04-29 | 2022-08-27 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-30 | 2023-09-16 |
 | [Candle Flame](https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:54 | 2023-09-15 | 2023-09-29 |
-| [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 | 2023-10-27 |  |
+| [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 | 2023-10-27 | 2024-03-02 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-17 |  |
 | [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 | 2022-08-12 | 2022-10-13 |
 | [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 | 2022-10-06 | 2023-01-13 |
@@ -715,6 +715,7 @@
 | [She Gives U](https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [She Gives U](https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf) | 5:31 | 2022-01-14 | 2022-05-28 |
 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 | 2022-10-13 | 2023-09-01 |
 | [SHiNE](https://open.spotify.com/track/0XkufxjDJOVdVtV0E6Gt78) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [SHiNE](https://open.spotify.com/album/0ZABn38ZUmVmSoi36yQj3M) | 5:44 | 2023-10-20 | 2024-02-02 |
+| [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-01 |  |
 | [Shorty](https://open.spotify.com/track/4wwZS4a7MR2DZIRjq8G5lD) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Shorty](https://open.spotify.com/album/2gxPIKRsVy27zkAPZ4QbZS) | 3:28 | 2023-01-13 | 2023-04-28 |
 | [Should’ve Known](https://open.spotify.com/track/3yGBhi4S3XBNtqK6de1mTD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 5:42 | 2023-07-20 | 2024-01-05 |
 | [Shutter Trak](https://open.spotify.com/track/4SSRXxNIPguI2fiELTC7jS) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Shutter Trak](https://open.spotify.com/album/2BxbJsBAlvRXXkteztnUKs) | 5:16 | 2022-03-04 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-350 songs - 16 hr 37 min
+351 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [sofrendo feito um louco \- ao vivo](https://open.spotify.com/track/30AgVEbyzQzDofQgikkD99) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:47 | 2024-01-29 |  |
 | [Sol e Mar](https://open.spotify.com/track/6CYHpbTOvUC9HQ8aWxU3Wn) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 1](https://open.spotify.com/album/0xDwMkd9eQMSEI8eX6DMlp) | 3:03 | 2024-01-29 |  |
 | [Solinho Saliente](https://open.spotify.com/track/1d0c0Tph5ZtTaqxMb6FBv9) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:25 | 2024-01-29 |  |
-| [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2024-01-29 |  |
+| [Solteiro Forçado \- Ao Vivo](https://open.spotify.com/track/1dx7F1j3W2wlgyxwvkFksY) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 3:14 | 2024-03-01 |  |
+| [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2024-01-29 | 2024-03-02 |
 | [Solterência](https://open.spotify.com/track/2pEuFV37eGKMDxYRFzr3WB) | [Jardel Santos](https://open.spotify.com/artist/5ll70vhv9FCvHFGPamZtsd), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Solterência](https://open.spotify.com/album/0zGPgaqp2CnSnmsf0etO5h) | 2:47 | 2024-01-29 |  |
 | [Sossega o Coração \- Ao Vivo](https://open.spotify.com/track/1Lgf6bivXvNIDz4zef2LJp) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Jonas Intense \- Ao Vivo Em Maceió](https://open.spotify.com/album/1yQAtVKbk6Ip4yx2uCGbxF) | 3:38 | 2024-01-29 |  |
 | [Sou Ciumento Mesmo](https://open.spotify.com/track/01I10LjDK95Dw4ZcBcnxGM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Paradise](https://open.spotify.com/album/0xp3RMHvP80isexldf90Sx) | 3:28 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,095 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,276 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 21 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 22 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
 | 23 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
-| 24 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 |
+| 24 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 |
 | 25 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 |
 | 26 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 |
 | 27 | [unyoung](https://open.spotify.com/track/79IEcrP6tKnamPhqc0rR2o) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [unyoung](https://open.spotify.com/album/6SBqLiGsnffbeke7n9a4d6) | 2:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [Time](https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1) | [Time](https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H) | 5:40 |
 | 99 | [LIGHTS](https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [LIGHTS](https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c) | 3:07 |
 
-Snapshot ID: `MCwwODYxMzc0MWJjNzk5MTlkZTM4NWE4ZWE4ZmJhZDQ3M2ZmODc1ZTNl`
+Snapshot ID: `MCw3YTQzNjAyYmEyNjIzODRiNWJlMGEyNzZlOTNhOTcyNWQwMmU3OTYz`

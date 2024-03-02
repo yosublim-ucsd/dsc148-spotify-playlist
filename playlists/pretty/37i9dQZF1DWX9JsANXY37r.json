@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121054,
+  "num_followers": 121066,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWZlM2M4ZGIxMjQxZWVmM2NkZDQ4ODg1MGQ3ODZiOTIwNjM5YzI4",
+  "snapshot_id": "MCwzNzE3ZGIwMmNjOTkyYmI3N2JmNGFjNTRlMGZiODA0ODE0NmE3ODg3",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 255278,
-      "name": "Cry Your Heart Out",
-      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 255278,
+      "name": "Cry Your Heart Out",
+      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -723,42 +723,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Watch This Liquid Pour Itself",
-        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 93737,
-      "name": "Mother Nature's Bitch",
-      "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Pressure (with SG Lewis)",
-        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Pressure (with SG Lewis)",
-      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -795,6 +759,42 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Pressure (with SG Lewis)",
+        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Pressure (with SG Lewis)",
+      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Watch This Liquid Pour Itself",
+        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 93737,
+      "name": "Mother Nature's Bitch",
+      "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sweet Time",
-        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Sweet Time",
-      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201640,
       "name": "Dontcha",
       "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Sweet Time",
+        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Sweet Time",
+      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Take Off",
-        "url": "https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Madelyn Grant",
-          "url": "https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w"
-        }
-      ],
-      "duration_ms": 262317,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/5OcN75jhxA156Jg60s88eP"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Madelyn Grant",
+          "url": "https://open.spotify.com/artist/7kdIgG6b9e3DZVmroWzu9w"
+        }
+      ],
+      "duration_ms": 262317,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm"
     },
     {
       "added_at": "2023-12-08 03:00:00",

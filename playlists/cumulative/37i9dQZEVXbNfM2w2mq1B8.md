@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,457 songs - 3 day 9 hr 49 min
+1,458 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Edin na million](https://open.spotify.com/track/56toqzf7aTsmiZcILHODtO) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr) | [Edin na million](https://open.spotify.com/album/2ub4CeKFdN7h0V4e95Swxd) | 3:32 | 2021-06-24 | 2022-01-03 |
 | [Egoist](https://open.spotify.com/track/4fxpxHteYrYyZNOOMqz2Ua) | [Atanas Kolev](https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu) | [Koi sym az?](https://open.spotify.com/album/2oemQH2YrBqeaI3tGJ9n6O) | 3:36 | 2021-05-12 | 2021-05-16 |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-08 | 2023-07-10 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-01 |  |
 | [Enemies](https://open.spotify.com/track/1Wc540B74tn2yPUEDBJaST) | [Nova D](https://open.spotify.com/artist/6zoolWjcLvGccB6B02TiiP) | [Enemies](https://open.spotify.com/album/7dTbyFp2a4xQgXzGWizt7w) | 5:39 | 2023-09-18 | 2023-09-20 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-07-10 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-10-31 | 2022-02-06 |
@@ -790,7 +791,7 @@
 | [NO NO NO](https://open.spotify.com/track/1AijSlz8a86fxr0WUO8iwH) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [DEVA](https://open.spotify.com/album/5sSk1zBXbMZ1KLWnvox8Qk) | 2:52 | 2021-03-27\* | 2021-04-02 |
 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 | 2024-02-17 | 2024-02-19 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-02 |
-| [Nqma Kak](https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Masquerade](https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL) | 3:35 | 2023-02-17 |  |
+| [Nqma Kak](https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Masquerade](https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL) | 3:35 | 2023-02-17 | 2024-03-02 |
 | [NQMA KO DA STANE](https://open.spotify.com/track/7IDxMPA2kEhDP2wFcKOqBL) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Alex & Vladi](https://open.spotify.com/artist/7jWNuWVbbbg9z1Er19DkGj) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 3:31 | 2022-06-04 | 2022-07-09 |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-02-25 | 2023-03-02 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 | 2024-02-01 |

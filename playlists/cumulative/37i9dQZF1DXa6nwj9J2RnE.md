@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Eefje de Visser
 
-120 songs - 6 hr 38 min
+121 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Caged Birds](https://open.spotify.com/track/3vIWEQx9ZvuPuYHKV1EmXn) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Caged Birds](https://open.spotify.com/album/7qrCOjz9zwCbi1Ht3UvrPO) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Celeste](https://open.spotify.com/track/2rD1imFpKOmcJvFAnoblTZ) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Celeste](https://open.spotify.com/album/760ic1B3ypp3In340dQ0pC) | 2:52 | 2023-02-23 | 2023-04-26 |
 | [Celeste](https://open.spotify.com/track/43Bumpxqzt5AsQjSZWcp8A) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 2:52 | 2023-03-31 |  |
-| [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 | 2023-02-23 |  |
+| [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 | 2023-02-23 | 2024-03-02 |
+| [Child Of Sin](https://open.spotify.com/track/6Z3o0LKIaqvfAnqFVROUzY) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/27pijtvIJCfkZh6f9LQc2o) | 3:50 | 2024-02-15 |  |
 | [Click Work Drop \- Ineffekt Remix](https://open.spotify.com/track/2CAzwfDMr6Vxi7tOHa4j5X) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Click Work Drop \(Ineffekt Remix\)](https://open.spotify.com/album/5TrmHegiihRyXcd3i8O4ah) | 3:52 | 2023-02-23 | 2023-11-08 |
 | [Closure](https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [Closure](https://open.spotify.com/album/5eRC43W4zUuunLZ4D3xZ2L) | 2:41 | 2023-02-23 | 2023-04-28 |
 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 | 2023-11-02 |

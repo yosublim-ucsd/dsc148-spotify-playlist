@@ -4,7 +4,7 @@
 
 > Where R&B lives\. Cover: SZA
 
-422 songs - 23 hr 51 min
+423 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [From A Woman](https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [From A Woman](https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8) | 3:02 | 2023-10-13 |  |
 | [Fuckin' Sound](https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 2:44 | 2022-07-09 | 2022-10-01 |
 | [FWM](https://open.spotify.com/track/7aJwamBFV2pjHTXUnlDgZb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/19yDmZ6XifuMc31QkkmRVl) | 3:16 | 2021-12-17 | 2022-01-01 |
+| [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 |  |
 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 | 2022-09-16 | 2022-10-08 |
 | [Gemini Slander](https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:21 | 2023-06-16 | 2023-11-18 |
 | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Get Back \(feat\. Chris Brown\)](https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX) | 3:42 | 2021-12-17 | 2022-04-09 |
@@ -257,7 +258,7 @@
 | [Need Somebody \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:18 | 2023-09-15 | 2023-12-09 |
 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 | 2023-09-08 |  |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-19 | 2023-06-10 |
-| [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-02-09 |  |
+| [No Evil](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [No Evil](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 | 2024-02-09 | 2024-03-02 |
 | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [No Fake Love \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA) | 2:28 | 2023-09-01 | 2023-11-18 |
 | [No Love \(with SZA & Cardi B\) \- Extended Version](https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No Love \(with SZA & Cardi B\) \[Extended Version\]](https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4) | 4:36 | 2022-03-25 | 2022-08-20 |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-12-17 | 2022-03-26 |

@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 84740,
+  "num_followers": 84742,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDg1YjJlMWM1Y2U0YTYzY2E5MDg1YjczODljMzZjMTY5Y2FiNTFh",
+  "snapshot_id": "MCxkOWRiZDBkZGMzYWQwYzBmNGI3M2YwZWIwZjQ4ZWNiYTc1ZmU3YjA1",
   "tracks": [
     {
       "added_at": "2024-01-16 01:21:41",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
-        "name": "Mental Health",
-        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
+        "name": "YES MOM",
+        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
       },
       "artists": [
         {
-          "name": "Moonlight Scorpio",
-          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
         }
       ],
-      "duration_ms": 126825,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
+      "duration_ms": 162364,
+      "name": "YES MOM",
+      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
     },
     {
       "added_at": "2024-01-16 01:21:41",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
-        "name": "YES MOM",
-        "url": "https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS"
+        "name": "Mental Health",
+        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
       },
       "artists": [
         {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+          "name": "Moonlight Scorpio",
+          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
         }
       ],
-      "duration_ms": 162364,
-      "name": "YES MOM",
-      "url": "https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc"
+      "duration_ms": 126825,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
     },
     {
       "added_at": "2024-01-16 01:21:41",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
-        "name": "hello this is the setlist for my tour",
-        "url": "https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX"
-    },
-    {
-      "added_at": "2024-01-16 01:21:41",
-      "album": {
         "name": "SALT (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 222375,
       "name": "SALT (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
+    },
+    {
+      "added_at": "2024-01-16 01:21:41",
+      "album": {
+        "name": "hello this is the setlist for my tour",
+        "url": "https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX"
     },
     {
       "added_at": "2024-01-16 01:21:41",

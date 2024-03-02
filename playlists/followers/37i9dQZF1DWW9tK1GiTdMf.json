@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 35877,
+  "2024-03-02": 35901,
   "date_first_scraped": "2022-05-09",
-  "description": "Canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Bnkr44 in cover ",
+  "description": "Canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Bertolini, Tripolare in cover ",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -69,6 +69,24 @@
       "duration_ms": 159207,
       "name": "1 2 3",
       "url": "https://open.spotify.com/track/0qcq82wOBXvOnSngbddfgb"
+    },
+    {
+      "album": {
+        "name": "1(999)",
+        "url": "https://open.spotify.com/album/1e3oTezK52FkoBBFmOwatW"
+      },
+      "artists": [
+        {
+          "name": "DBMC",
+          "url": "https://open.spotify.com/artist/2Ozu0CSaKM2RwAGN4NJDc8"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137178,
+      "name": "1(999)",
+      "url": "https://open.spotify.com/track/2B4AHeXveBU4rRzrFildm8"
     },
     {
       "album": {
@@ -793,7 +811,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158242,
       "name": "ALESSIA (CALMATI)",
       "url": "https://open.spotify.com/track/5sOVexsmMqWLTAm4Is5lAb"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 178000,
       "name": "ALIENO",
       "url": "https://open.spotify.com/track/39LOvHFprVT6RvpuWinX6V"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 106971,
       "name": "ALLERGICA ALLE FRAGOLE",
       "url": "https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184927,
       "name": "Baby Don't Cry",
       "url": "https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei"
@@ -2130,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "Bronchi",
+        "url": "https://open.spotify.com/album/3VjISi6UJRDaS69gPPgBOM"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161408,
+      "name": "Bronchi",
+      "url": "https://open.spotify.com/track/2ZyI67RasZsVwk40jFo6NV"
+    },
+    {
+      "album": {
         "name": "Brucio Cadendo",
         "url": "https://open.spotify.com/album/6TtRDJPV8Bj3n5qmetH3YS"
       },
@@ -2185,6 +2221,28 @@
       "duration_ms": 184164,
       "name": "BUGIARDO",
       "url": "https://open.spotify.com/track/6laV1EFz9b6fbs0NJ4nc92"
+    },
+    {
+      "album": {
+        "name": "Bugie",
+        "url": "https://open.spotify.com/album/5DzElCd7iiOsQRC0IZ6x5M"
+      },
+      "artists": [
+        {
+          "name": "Giovane Miska",
+          "url": "https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR"
+        },
+        {
+          "name": "Manuelyto",
+          "url": "https://open.spotify.com/artist/2UU4ROccW19DYo1EEnxPRS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "Bugie",
+      "url": "https://open.spotify.com/track/4ZgVVSGhzyGqrqxJu1bFv9"
     },
     {
       "album": {
@@ -2411,7 +2469,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 186944,
       "name": "Cattiva - + Cattiva",
       "url": "https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y"
@@ -3822,6 +3880,28 @@
     },
     {
       "album": {
+        "name": "Dear Ansia",
+        "url": "https://open.spotify.com/album/4sqErnhZKMA7yCh1a7UfNc"
+      },
+      "artists": [
+        {
+          "name": "Evermi",
+          "url": "https://open.spotify.com/artist/1HqfTfOfjswpk91lm2xhGJ"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210514,
+      "name": "Dear Ansia",
+      "url": "https://open.spotify.com/track/0YQvmKKjHDeDsiQBnetCQo"
+    },
+    {
+      "album": {
         "name": "young forever (extended)",
         "url": "https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb"
       },
@@ -4696,6 +4776,28 @@
     },
     {
       "album": {
+        "name": "DRIVE IN",
+        "url": "https://open.spotify.com/album/5HQGoaIHpWpERCJISfk9kY"
+      },
+      "artists": [
+        {
+          "name": "LXX Blood",
+          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
+        },
+        {
+          "name": "Naima Blood",
+          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129589,
+      "name": "DRIVE IN",
+      "url": "https://open.spotify.com/track/3Dlpb4OJQxb7TF3IpBbxXw"
+    },
+    {
+      "album": {
         "name": "DUEMILADUE",
         "url": "https://open.spotify.com/album/4vDxZ4y2OsrKbr4LMebir7"
       },
@@ -4773,7 +4875,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 202380,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2J0l70jb95iEP9GQOQslmF"
@@ -5321,7 +5423,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 155766,
       "name": "Fatti una vita",
       "url": "https://open.spotify.com/track/2q06KER4ZXDW3aUd3NTQPO"
@@ -6613,7 +6715,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 151640,
       "name": "HOLLIWOOD 3000",
       "url": "https://open.spotify.com/track/1uHvkOZBk3k5hd4huHocOo"
@@ -7319,7 +7421,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 142623,
       "name": "jellyfish",
       "url": "https://open.spotify.com/track/1YwaHj4ydx4X9jc11ZbZDF"
@@ -9327,7 +9429,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 172077,
       "name": "MORIREI X TE",
       "url": "https://open.spotify.com/track/4eXmZnmkO7DSqNkmYcPRUk"
@@ -9781,7 +9883,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 139078,
       "name": "Non ironicamente",
       "url": "https://open.spotify.com/track/67h6Vo9zvGSVrxPmXR9WBh"
@@ -10417,7 +10519,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 148000,
       "name": "OGNI VOLTA CHE",
       "url": "https://open.spotify.com/track/07hBXO23Q8jkOQkzvZjPPi"
@@ -11155,6 +11257,28 @@
       "duration_ms": 159818,
       "name": "Placeholder",
       "url": "https://open.spotify.com/track/2mZhWoguUqZTivAnSmlBUE"
+    },
+    {
+      "album": {
+        "name": "PMA",
+        "url": "https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO"
+      },
+      "artists": [
+        {
+          "name": "LVCRIME",
+          "url": "https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez"
+        },
+        {
+          "name": "Positive",
+          "url": "https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "PMA",
+      "url": "https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O"
     },
     {
       "album": {
@@ -13585,7 +13709,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 196205,
       "name": "SPLEEN!",
       "url": "https://open.spotify.com/track/60ns8P4vHE1eVcXcOcV0QP"
@@ -14411,6 +14535,28 @@
       "duration_ms": 168866,
       "name": "TEMPESTA",
       "url": "https://open.spotify.com/track/2SPWmeeJFV39qI4PVu9caj"
+    },
+    {
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/3F8J8xvo7hnII6MzIATawC"
+      },
+      "artists": [
+        {
+          "name": "Come Vuoy",
+          "url": "https://open.spotify.com/artist/6585ACSSIRpz9SkDF5uvdd"
+        },
+        {
+          "name": "Itten",
+          "url": "https://open.spotify.com/artist/7ftv1LdGLxFqfjoWiaFyby"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201694,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6ATJIOg3TPjbbhZbNrYCRG"
     },
     {
       "album": {
@@ -15707,7 +15853,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 206363,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/6DrPJAXD7puVADAGSpjX4x"
@@ -15855,7 +16001,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175058,
       "name": "via toledo",
       "url": "https://open.spotify.com/track/1KHzA2XWkJHOMQUwb4lOye"
@@ -15975,6 +16121,24 @@
       "duration_ms": 175817,
       "name": "VOGLIA",
       "url": "https://open.spotify.com/track/09D9hzMOMkd2etMVs2iPkz"
+    },
+    {
+      "album": {
+        "name": "VORREI",
+        "url": "https://open.spotify.com/album/4uIq0aWXOsgbWjS5rqwcb1"
+      },
+      "artists": [
+        {
+          "name": "SAMUSPINA",
+          "url": "https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "VORREI",
+      "url": "https://open.spotify.com/track/3QW9wdJK2kdzHsJ2UEkgzo"
     },
     {
       "album": {
@@ -16117,6 +16281,24 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "album": {
+        "name": "WASTED!",
+        "url": "https://open.spotify.com/album/3WGF8ITkCOvFmMZl4BBw5E"
+      },
+      "artists": [
+        {
+          "name": "Knfuzed",
+          "url": "https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90514,
+      "name": "WASTED!",
+      "url": "https://open.spotify.com/track/0wVWwcdhuOf6mTxgyr2LWj"
     },
     {
       "album": {

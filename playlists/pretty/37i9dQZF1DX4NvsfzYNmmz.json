@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 8014,
+  "num_followers": 8012,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGVhMGFkMGQzM2MwY2U5ODdkNGJhODEyZmY5ZWU1ZjcwZjg3Yzg5",
+  "snapshot_id": "MCwyMzUzZTQzODdlOGRmMDUyZDY1NmFiYTc3M2Q2M2EwNmVlMDg2ZDAy",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "Collected Additional Masters",
+        "url": "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "A Very Special Christmas 2",
         "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 272226,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Collected Additional Masters",
-        "url": "https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc"
     },
     {
       "added_at": "2022-11-28 18:17:33",

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 82576,
+  "2024-03-02": 82671,
   "date_first_scraped": "2022-12-04",
   "description": "The most popular Jazz tracks in one playlist. Cover: Herbie Hancock",
   "name": "Just Jazz",
@@ -3841,7 +3841,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 344066,
       "name": "Fair Weather - Remastered",
       "url": "https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU"
@@ -4415,7 +4415,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Graceful Touch",
       "url": "https://open.spotify.com/track/4vTZifau5Us490e0sQCU1y"

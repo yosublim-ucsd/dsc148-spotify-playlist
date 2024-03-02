@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 207892,
+  "2024-03-02": 207968,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Chezile",
   "name": "Fresh Finds Indie",
@@ -263,6 +263,24 @@
       "duration_ms": 229049,
       "name": "3-2-Wake Up",
       "url": "https://open.spotify.com/track/7n4BWIL8UhenxMJNpzO3J6"
+    },
+    {
+      "album": {
+        "name": "3.5",
+        "url": "https://open.spotify.com/album/37MQWJV9JqW9evfkYlZ2Fe"
+      },
+      "artists": [
+        {
+          "name": "Oliver Keane",
+          "url": "https://open.spotify.com/artist/5ZkAOoZPehfyH4V00NYVb8"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "3.5",
+      "url": "https://open.spotify.com/track/0m6USdLwwWVRB8Ei1GSO58"
     },
     {
       "album": {

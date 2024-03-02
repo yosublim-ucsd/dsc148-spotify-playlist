@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Allie X
+> Dark, hard hitting pop\. Cover: Fletcher
 
-606 songs - 1 day 3 hr 46 min
+609 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 | 2021-11-05 | 2022-07-29 |
 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 | 2022-04-15 | 2022-09-03 |
 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 | 2023-08-25 | 2024-01-20 |
+| [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 | 2024-03-01 |  |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 | 2022-09-17 |
 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 | 2023-09-02 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
@@ -265,6 +266,7 @@
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-09-10 | 2022-04-09 |
 | [Hype Song](https://open.spotify.com/track/7dgRK8IwI02y7MiBNd5a1b) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Hype Song](https://open.spotify.com/album/1z6jjSoP7UC4Sb3AHkBS4v) | 3:27 | 2023-12-01 |  |
 | [I Am Me](https://open.spotify.com/track/6QlM4xHmnopildYh5eWG0G) | [ADONA](https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ) | [I Am Me](https://open.spotify.com/album/19QCJAAEzmk77x4sdF01VP) | 2:29 | 2022-07-01 | 2022-07-23 |
+| [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 | 2024-03-01 |  |
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-03 | 2023-02-04 |
 | [i hope you know what you're doing](https://open.spotify.com/track/5PMIK7eIb9doUGKWOuHZjq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [i hope you know what you're doing](https://open.spotify.com/album/3m4h6292GAxkgXnbRSZjob) | 2:39 | 2022-09-09 | 2022-10-29 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-05-06 |
@@ -385,6 +387,7 @@
 | [not ur baby](https://open.spotify.com/track/5xP6KmGWbPdz5ICUT7apYt) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [not ur baby](https://open.spotify.com/album/0dja5BzekkrBNOa9xfAETW) | 2:49 | 2023-11-17 | 2024-02-17 |
 | [Nothing To Me](https://open.spotify.com/track/4Cl0IAqrNUW5mRtehI8kmi) | [Jamisen](https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H) | [Nothing To Me](https://open.spotify.com/album/4BFZfzQgyvP5HRU8xqpCVs) | 2:50 | 2023-02-03 | 2023-05-06 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-21 | 2023-01-14 |
+| [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 | 2024-03-01 |  |
 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 | 2024-01-19 | 2024-02-24 |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-09 |
 | [one bad day](https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [one bad day](https://open.spotify.com/album/13ekNhK41kYkbmbzOzu8G5) | 2:58 | 2022-06-17 | 2022-08-20 |

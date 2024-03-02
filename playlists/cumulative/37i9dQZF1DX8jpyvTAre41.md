@@ -4,7 +4,7 @@
 
 > The biggest rock songs of the moment\. Cover: Mother Mother
 
-763 songs - 1 day 19 hr 17 min
+764 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-12-31 | 2022-02-05 |
 | [Lifeline](https://open.spotify.com/track/1koxIMwzkdxekBrLkPtGsL) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:13 | 2021-12-31 | 2022-05-20 |
-| [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-06 |  |
+| [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-06 | 2024-03-02 |
 | [Lifetime](https://open.spotify.com/track/6HeaTl38wTgtMgGLTl9d13) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Lifetime](https://open.spotify.com/album/2vSmVwFn4mMHp1G57E9RJK) | 2:56 | 2022-04-15 | 2022-05-07 |
 | [Lightning](https://open.spotify.com/track/2ReaOb4kY5o4h5PHq7K2yO) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Lightning](https://open.spotify.com/album/7jjqldf5ajW5aafm6NiYfP) | 2:44 | 2021-12-31 | 2022-10-15 |
 | [Like A Drug](https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5) | 3:32 | 2023-04-28 | 2023-06-17 |
@@ -490,6 +490,7 @@
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-09-22 |
 | [Out Of Nowhere](https://open.spotify.com/track/1sUNporSfAID4Cwz413eLj) | [Anyway Gang](https://open.spotify.com/artist/2CJSKzMdOlJ6FaffywHeHr) | [Out Of Nowhere](https://open.spotify.com/album/0Em2mE2OHs8PpoUflSdoTc) | 3:30 | 2022-03-04 | 2022-03-26 |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2023-05-12 | 2023-07-01 |
+| [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-03-01 |  |
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-06-30 |  |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-07-14 |  |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-02-05 |

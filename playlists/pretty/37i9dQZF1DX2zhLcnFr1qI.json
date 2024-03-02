@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 65261,
+  "num_followers": 65251,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTljOTUzZTFhNTA2OWM2M2UxOGUzNjAyNDQ0NmEwY2Y3NzE1ZmE5",
+  "snapshot_id": "MCxhNmE4OWU2Nzc2Mjg4YWJlZmI3MTQ4NzM4NjQ1YWFiMGI1YzAzYWM2",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -535,22 +535,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Home Alone (On the Night Before Christmas)",
-        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
+        "name": "Carol Of The Bells (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 158450,
-      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
-      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
+      "duration_ms": 102906,
+      "name": "Carol of the Bells - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Carol Of The Bells (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
+        "name": "Home Alone (On the Night Before Christmas)",
+        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 102906,
-      "name": "Carol of the Bells - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
+      "duration_ms": 158450,
+      "name": "Rocking Around the Christmas Tree - Gabry Ponte Edit",
+      "url": "https://open.spotify.com/track/1HVB3hiWGjoU9k8VBzCSGz"
     },
     {
       "added_at": "2023-12-22 05:00:00",

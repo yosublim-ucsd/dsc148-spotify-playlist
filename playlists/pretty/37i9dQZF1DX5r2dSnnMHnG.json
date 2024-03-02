@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
+  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "with you (feat. g0nny)",
-        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
-      },
-      "artists": [
-        {
-          "name": "KOREA CRACKER",
-          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
-        },
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "with you (feat. g0nny)",
-      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "with you (feat. g0nny)",
+        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "with you (feat. g0nny)",
+      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
     },
     {
       "added_at": "2023-07-07 15:58:47",

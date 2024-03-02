@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Sloth Song",
+        "url": "https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160569,
+      "name": "Sloth Song",
+      "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
+    },
+    {
+      "album": {
         "name": "Straight Outta Recess",
         "url": "https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye"
       },

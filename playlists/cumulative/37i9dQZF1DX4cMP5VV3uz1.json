@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Calorific",
+        "url": "https://open.spotify.com/album/5wcpHhA76rJtAwJTnOlN7u"
+      },
+      "artists": [
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193945,
+      "name": "Calorific",
+      "url": "https://open.spotify.com/track/7eB6oO2kvaQTkWqcOkv4nD"
+    },
+    {
+      "album": {
         "name": "Deepest Of Desire",
         "url": "https://open.spotify.com/album/5xlEEZ4upkAEtIPR6DRY6a"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187423,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158500,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
@@ -4082,6 +4100,28 @@
       "duration_ms": 344999,
       "name": "The Damn Guy",
       "url": "https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F"
+    },
+    {
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/0Op5yfCn79QH6VBJU00qxX"
+      },
+      "artists": [
+        {
+          "name": "Particle",
+          "url": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/0dvS1sGglBYuyITICGnRkn"
     },
     {
       "album": {

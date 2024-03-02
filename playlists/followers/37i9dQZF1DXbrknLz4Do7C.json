@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 42522,
+  "2024-03-02": 42554,
   "date_first_scraped": "2021-12-28",
   "description": "Some of the best Christian, Gospel, and inspirational songs of the year.  Cover: <a href=\"spotify:artist:55qfDfgj4Qi3JGe6KpqGtC\">Blessing Offor</a>  #SpotifyWrapped",
   "name": "Best Christian & Gospel Songs of 2023",
@@ -1263,7 +1263,7 @@
     {
       "album": {
         "name": "El Vallenato Se Hizo En El Cielo",
-        "url": "https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL"
+        "url": "https://open.spotify.com/album/0nL8AcKJG9UOm6ei1hknXA"
       },
       "artists": [
         {
@@ -1278,6 +1278,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230012,
+      "name": "Dios Es Bueno",
+      "url": "https://open.spotify.com/track/2aAXt6b25NvIXNaH7kj3pU"
+    },
+    {
+      "album": {
+        "name": "El Vallenato Se Hizo En El Cielo",
+        "url": "https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
       "duration_ms": 230012,
       "name": "Dios Es Bueno",
       "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 555690,
+  "2024-03-02": 555979,
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 1970s. Cover: Elton John",
   "name": "Soft 70s",
@@ -3219,7 +3219,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
@@ -4239,7 +4239,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"

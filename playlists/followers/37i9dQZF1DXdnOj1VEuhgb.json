@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 1334594,
+  "2024-03-02": 1334774,
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
   "name": "NKVT",
   "tracks": [
     {
@@ -629,7 +629,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 144744,
       "name": "BABA",
       "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 124444,
       "name": "Bul Kurtar",
       "url": "https://open.spotify.com/track/47qYPY7tPJhyVbQBeVxwNC"
@@ -1252,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Darmada\u011f\u0131n",
+        "url": "https://open.spotify.com/album/0HMPFUcDLhIYDuOUlU8cpl"
+      },
+      "artists": [
+        {
+          "name": "Lia Shine",
+          "url": "https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194501,
+      "name": "Darmada\u011f\u0131n",
+      "url": "https://open.spotify.com/track/6bQuAwtlnvNEmFgNa82rhs"
+    },
+    {
+      "album": {
         "name": "DEFOL",
         "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
       },
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 160824,
       "name": "DUNYA",
       "url": "https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r"
@@ -1887,6 +1905,32 @@
       "duration_ms": 148000,
       "name": "GHETTOMAN",
       "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
+    },
+    {
+      "album": {
+        "name": "Gidemem",
+        "url": "https://open.spotify.com/album/1oXVgFvLiexNS48eLlEuLV"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        },
+        {
+          "name": "Kibariye",
+          "url": "https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148969,
+      "name": "Gidemem",
+      "url": "https://open.spotify.com/track/5VzWVTB0F3nVSK25OsJxVw"
     },
     {
       "album": {
@@ -2749,7 +2793,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 101116,
       "name": "\u0130ZLED\u0130 MAHALLE",
       "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
@@ -3045,6 +3089,28 @@
       "duration_ms": 196173,
       "name": "Kay\u0131p Y\u0131llar\u0131m",
       "url": "https://open.spotify.com/track/1Sfh7w7AYCUWw7Y3tET2MV"
+    },
+    {
+      "album": {
+        "name": "KILLA INTRO",
+        "url": "https://open.spotify.com/album/5AcG25R8Sxeg8RWey0JJXp"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170531,
+      "name": "KILLA INTRO",
+      "url": "https://open.spotify.com/track/03jZjQfnVVPMMLl0Glxy2y"
     },
     {
       "album": {
@@ -4051,6 +4117,10 @@
         {
           "name": "Defkhan",
           "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "o5",
+          "url": "https://open.spotify.com/artist/4P3VjrXL7gYujvIjoJVpzz"
         }
       ],
       "date_added": "2024-02-22",
@@ -5033,6 +5103,28 @@
       "duration_ms": 172427,
       "name": "SIMARIK",
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
+    },
+    {
+      "album": {
+        "name": "Siverek",
+        "url": "https://open.spotify.com/album/4QexrF3FrYbn46cRPALILb"
+      },
+      "artists": [
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        },
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127950,
+      "name": "Siverek",
+      "url": "https://open.spotify.com/track/5lOqUEh1mnkncu20UgPv6M"
     },
     {
       "album": {

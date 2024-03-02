@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 120101,
+  "num_followers": 120128,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5",
+  "snapshot_id": "MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -95,30 +95,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
-        "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
-      "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Pode Morar Aqui (Remix)",
         "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
       },
@@ -139,6 +115,30 @@
       "duration_ms": 186666,
       "name": "Pode Morar Aqui - Remix",
       "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
+        "url": "https://open.spotify.com/album/60MRcOTfoSmqLMqnvTAdUw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Algo Novo (Kennto Remix) (feat. Lukas Agustinho)",
+      "url": "https://open.spotify.com/track/7x4uXkwjA86WgaQXPxRObd"
     },
     {
       "added_at": "2024-01-05 13:32:37",

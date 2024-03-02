@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 132452,
+  "2024-03-02": 132467,
   "date_first_scraped": "2023-09-27",
   "description": "It's the witching hours. ",
   "name": "Protect Your Energy",
@@ -629,7 +629,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 135013,
       "name": "Wading In Waist-High Water",
       "url": "https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI"

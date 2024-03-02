@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Twenty One Pilots
 
-1,149 songs - 2 day 18 hr 2 min
+1,151 songs - 2 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 | 2024-01-04 | 2024-01-12 |
 | [Bad Bitch Supreme](https://open.spotify.com/track/6dwFMBSMb7YBnAaZg76IoH) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV), [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Bad Bitch Supreme](https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE) | 3:02 | 2023-09-07 | 2023-09-15 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 | 2023-09-08 |
+| [BAD INFLUENCE](https://open.spotify.com/track/2Zb0EFTUJPE75ga3EJGaTI) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [BAD INFLUENCE](https://open.spotify.com/album/2LFQ1ci8QLwO4EVLqDgrja) | 2:46 | 2024-02-29 |  |
 | [Bad Joke](https://open.spotify.com/track/3aUUiMQGt2WPM38NjodKpj) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Good Drugs // Bad Joke](https://open.spotify.com/album/4WJJepmUt5zsXqeyF1B2sA) | 2:38 | 2023-06-22 | 2023-06-30 |
 | [Bad Muthafucker](https://open.spotify.com/track/55D6mC3e2u1XK4mAJ7OzHo) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [AMEN](https://open.spotify.com/album/5GcQhWvQf2nEqCylA5dgpc) | 3:48 | 2023-04-20 | 2023-04-28 |
 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 | 2023-11-30 | 2023-12-08 |
@@ -598,7 +599,8 @@
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-02-01 | 2024-02-09 |
 | [Lonely Together](https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Lonely Together](https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr) | 3:34 | 2023-07-27 | 2023-08-04 |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-02 | 2023-12-15 |
-| [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 |  |
+| [Looking Back](https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue) | 3:18 | 2024-02-29 |  |
+| [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 | 2024-03-02 |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 | 2023-04-21 |
 | [Losing Game](https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Losing Game](https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o) | 4:01 | 2023-09-28 | 2023-10-20 |
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-25 | 2024-02-02 |
@@ -839,7 +841,7 @@
 | [Run Me Over](https://open.spotify.com/track/0TnnkIENtFY55LcSlBDjIW) | [HARBOUR](https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO) | [Run Me Over](https://open.spotify.com/album/1PKlzlPG0fNiA4RvhfmaVg) | 3:03 | 2024-02-22 | 2024-03-01 |
 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 | 2023-10-12 | 2023-10-27 |
 | [Runaway](https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Runaway](https://open.spotify.com/album/58t2YKGd5II2bwvxp6LYfl) | 4:55 | 2023-06-22 | 2023-06-30 |
-| [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-03-16 |  |
+| [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-03-16 | 2024-03-02 |
 | [Running Through The Campus](https://open.spotify.com/track/422l4EwnKnhoNDWtB1eeSD) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Running Through The Campus](https://open.spotify.com/album/5CM0ezcLZzjZeQxwVlAeW1) | 2:48 | 2024-02-29 |  |
 | [Sabotage](https://open.spotify.com/track/5gxU3v7mbgjV8TIZOSXMqm) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [bub](https://open.spotify.com/album/0hy7HjLEpI3x68n5Oz7Lj8) | 3:06 | 2023-03-16 | 2023-03-25 |
 | [Sacred The Thread](https://open.spotify.com/track/0uGSkZ9yfiyh5Z0Z97zhwd) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:21 | 2023-07-27 | 2023-08-18 |
@@ -876,7 +878,7 @@
 | [Shovel in His Hands](https://open.spotify.com/track/7HY9w064cDeuin7gh7GcIz) | [The View](https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg) | [Shovel in His Hands](https://open.spotify.com/album/6kuA9bJ8IzYZqT74ozWXZb) | 3:47 | 2023-05-18 | 2023-06-02 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-25 | 2023-06-12 |
 | [Show Me How To Love](https://open.spotify.com/track/0iBUNQawR3rfxZ3SsTrkum) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Show Me How To Love](https://open.spotify.com/album/7a0y1S3C96JFkeWZ4mTmon) | 2:51 | 2023-12-21 | 2024-01-05 |
-| [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-22 | 2024-03-01 |
+| [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-22 |  |
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-07 | 2023-12-15 |
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-11-23 | 2023-12-15 |
 | [Sickening](https://open.spotify.com/track/6klPRChiSSnY4kxlZbc8DK) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Sickening](https://open.spotify.com/album/7buGj1l2BZ5sCCgX2447bc) | 4:43 | 2024-01-11 | 2024-01-19 |

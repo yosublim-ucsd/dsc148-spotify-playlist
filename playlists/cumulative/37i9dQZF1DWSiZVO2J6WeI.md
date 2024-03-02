@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-331 songs - 17 hr 7 min
+333 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 | 2024-01-21 |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Ephemeral](https://open.spotify.com/track/50V2dfA0R4v74WEpKVzjYj) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Ephemeral](https://open.spotify.com/album/6xeSywaM0OZIW6KV1Uy7EB) | 2:24 | 2024-01-17 | 2024-02-08 |
-| [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
+| [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 | 2024-03-02 |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-09 |  |
 | [Essence](https://open.spotify.com/track/6KTyy609tEMRS3jRuAJ6t2) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Essence](https://open.spotify.com/album/00vq3SlNRiYIOtGJCH5bjQ) | 2:51 | 2024-01-17 | 2024-02-08 |
@@ -131,6 +131,7 @@
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2024-01-20 |
+| [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 | 2024-02-27 |  |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
 | [Favaloro](https://open.spotify.com/track/4UxVwYIO8HiIK2mk01jLub) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Favaloro](https://open.spotify.com/album/3lb2K4j1L2SZ3WyxqMjEAB) | 2:39 | 2024-02-07 |  |
@@ -165,7 +166,7 @@
 | [illecebrous](https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [illecebrous](https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD) | 2:25 | 2024-01-17 |  |
 | [Immersion](https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [String Of Light](https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR) | 2:49 | 2022-01-12 |  |
 | [In Dreams](https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [In Dreams](https://open.spotify.com/album/03N395vFQrSeex8iFMShkg) | 2:22 | 2023-12-01 |  |
-| [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 |  |
+| [Incondizionatamente](https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Incondizionatamente](https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB) | 2:50 | 2022-06-16 | 2024-03-02 |
 | [Inevitably \- Deep Sleep Edit](https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inevitably](https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2) | 3:37 | 2022-01-12 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-01 | 2024-01-18 |
 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 | 2023-02-09 | 2024-02-08 |
@@ -316,6 +317,7 @@
 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 | 2022-12-30 |  |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2022-04-13 | 2022-04-21 |
 | [Vi møtes igjen](https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Vi møtes igjen](https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n) | 3:05 | 2022-01-19 | 2023-07-29 |
+| [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Sleeping Eye](https://open.spotify.com/artist/7dMgnhd87CgdkOoh9V5p1t) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 | 2024-02-27 |  |
 | [Vignette](https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF) | [General Relativity](https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc) | [Vignette](https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56) | 2:40 | 2022-01-12 | 2024-01-22 |
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2022-01-12 | 2024-01-22 |
 | [Violet Waves](https://open.spotify.com/track/4hotjR081NpMCwvr6IoYyj) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Violet Waves](https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe) | 3:13 | 2024-01-17 |  |

@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-169 songs - 12 hr 30 min
+170 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Rinse & Repeat](https://open.spotify.com/track/5oYYYDhyPFPXjAn4TzymOC) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat](https://open.spotify.com/album/0mjQLxpw5AdIxWI4Jqpenn) | 2:32 | 2020-11-06 | 2023-09-15 |
 | [Rinse & Repeat \(feat\. Kah\-Lo\) \- Radio Edit](https://open.spotify.com/track/1CCEmbH6GvcvdxDNSfpQYM) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Rinse & Repeat \(feat\. Kah\-Lo\) \[Radio Edit\]](https://open.spotify.com/album/6EsICjO9XptPf3Il1kEkfv) | 2:31 | 2020-11-06 | 2022-07-29 |
 | [Rinse & Repeat \- Radio Edit](https://open.spotify.com/track/3NWo6GXRqhZf7I46c8kzmc) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [New Year's Eve 2017/18](https://open.spotify.com/album/6ndaa5yzks3YifHX1u5Esl) | 2:31 | 2020-11-06 | 2022-11-13 |
+| [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-01 |  |
 | [Solitary Daze](https://open.spotify.com/track/2byiq9pZkmCmUmNK5caiRy) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Solitary Daze](https://open.spotify.com/album/5STqq58xC6FbYIB2r7a9DR) | 7:43 | 2023-12-05 | 2024-01-13 |
 | [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 | 2020-11-06 | 2023-11-05 |
 | [Something Special](https://open.spotify.com/track/1SUrmTCQHkcS5GZaQVWq0y) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Back in Flight School](https://open.spotify.com/album/0oQdjr3Ji8GpgMdJn5HETM) | 4:42 | 2020-11-06 |  |
@@ -148,7 +149,7 @@
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-03-01 |  |
 | [Take Me Away \(feat\. Rae\) \- Extended Radio Edit](https://open.spotify.com/track/5JH5GCGS531CBZdowQ9UNr) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Rae](https://open.spotify.com/artist/0C5cPQYHwhyMO7DFiwCxrh) | [Take Me Away \(feat\. Rae\) \[Extended Radio Edit\]](https://open.spotify.com/album/4gHiuDhBrW5EwhPJOLFgOF) | 4:19 | 2020-11-06 | 2022-07-27 |
 | [Take You On](https://open.spotify.com/track/07VI6sdD2s7hzPEezIMtiT) | [Josh Burnett \(UK\)](https://open.spotify.com/artist/5OazACOH1YtPTkxiqTtILW), [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz) | [Take You On](https://open.spotify.com/album/7I6qpO1jTxMunIMw3zghgr) | 2:45 | 2024-01-26 |  |
-| [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2020-11-06 |  |
+| [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2020-11-06 | 2024-03-02 |
 | [Tap Ho](https://open.spotify.com/track/36Cnrenn4kKZAof3nOBCvE) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61) | [Tap Ho / Don't Play](https://open.spotify.com/album/5MOoeXx1ZiWkRCEQ4dgUeT) | 4:35 | 2020-11-06 | 2022-06-29 |
 | [Teach Me](https://open.spotify.com/track/2EKm3pjBlOB7Ij34tE75oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Teach Me](https://open.spotify.com/album/7kzfEz2yYEuf9nuskO3BQB) | 5:32 | 2020-11-06 | 2022-07-29 |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2020-11-06 |  |

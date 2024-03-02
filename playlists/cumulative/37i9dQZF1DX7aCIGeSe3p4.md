@@ -2,9 +2,9 @@
 
 ### [Rancho Viral](https://open.spotify.com/playlist/37i9dQZF1DX7aCIGeSe3p4)
 
-> como olvidar aquella tarde cuando por poco pierdo al nene 🫠🤢 Cosechando los éxitos del internet 🤠
+> don dimadon que suene un corridón 😈🍾 Cosechando los éxitos del internet 🤠
 
-161 songs - 8 hr 33 min
+162 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2023-11-24 |  |
 | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Creo Estar Soñando \(En Vivo\)](https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ) | 2:34 | 2022-03-07 | 2023-11-18 |
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-03-29 | 2023-12-05 |
-| [CUMBIA 85](https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X) | [Yahir Saldivar](https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA) | [CUMBIA 85](https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D) | 3:41 | 2024-01-04 |  |
+| [CUMBIA 85](https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X) | [Yahir Saldivar](https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA) | [CUMBIA 85](https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D) | 3:41 | 2024-01-04 | 2024-03-02 |
 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 | 2023-08-08 |  |
 | [Cómo Está Carnal](https://open.spotify.com/track/3YttJxnWwZnQi0USkG5gGE) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 4:07 | 2024-01-15 |  |
 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 | 2023-09-21 |  |
+| [DDD \(Don Dimadon\)](https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF) | [TUNDER](https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [DDD \(Don Dimadon\)](https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe) | 3:05 | 2024-03-01 |  |
 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 | 2022-11-03 | 2023-09-22 |
 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 | 2023-11-17 |  |
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-06 | 2023-12-09 |

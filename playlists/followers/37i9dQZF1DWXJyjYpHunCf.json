@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 894165,
+  "2024-03-02": 894349,
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Myles Smith",
   "name": "Folk Pop",
@@ -4033,7 +4033,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203683,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
@@ -5885,6 +5885,24 @@
       "duration_ms": 147607,
       "name": "Turn out fine",
       "url": "https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM"
+    },
+    {
+      "album": {
+        "name": "Turned Into Missing You",
+        "url": "https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188599,
+      "name": "Turned Into Missing You",
+      "url": "https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND"
     },
     {
       "album": {

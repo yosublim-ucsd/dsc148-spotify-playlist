@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Kota The Friend",
+  "description": "Chillout hip-hop vibes. Cover: Erick The Architect",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 130909,
       "name": "2wice Again",
       "url": "https://open.spotify.com/track/1ozcu6sqh1hoecOs3SVKSd"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 102768,
       "name": "aintno",
       "url": "https://open.spotify.com/track/6QjxaVjcvP9xeMgkuNvU9o"
@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Take the Hood to Heaven",
+        "url": "https://open.spotify.com/album/2YLAmPuOuJUdQFk6b82YNz"
+      },
+      "artists": [
+        {
+          "name": "Seafood Sam",
+          "url": "https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Can\u2019t Take the Hood to Heaven",
+      "url": "https://open.spotify.com/track/3kwScli0Ft2DoYWGfIg0sc"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6ZkKQAXRv2KRTLiWfciQrk"
       },
@@ -3619,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Cooties",
+      "url": "https://open.spotify.com/track/6B7FWe7D3c4LKO5cSz19iD"
+    },
+    {
+      "album": {
         "name": "CORSA",
         "url": "https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d"
       },
@@ -4244,6 +4280,28 @@
       "duration_ms": 221466,
       "name": "Do It For The Ghetto (feat. Big K.R.I.T. & Lakeith Rashad)",
       "url": "https://open.spotify.com/track/2FEogrV44RFFVrUhyDSiJ1"
+    },
+    {
+      "album": {
+        "name": "Do U Luv Me",
+        "url": "https://open.spotify.com/album/6yq9njfylC4jnA96m6idp1"
+      },
+      "artists": [
+        {
+          "name": "E-Los",
+          "url": "https://open.spotify.com/artist/1tOi03ligY9dpL30VFgfrg"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176457,
+      "name": "Do U Luv Me",
+      "url": "https://open.spotify.com/track/1cqpZUVCUucg3MbTWAcPAg"
     },
     {
       "album": {
@@ -6121,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126961,
+      "name": "Germany 86'",
+      "url": "https://open.spotify.com/track/2WpIFDreMCm2TvSwAeOihA"
+    },
+    {
+      "album": {
         "name": "PANIC",
         "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
       },
@@ -6136,6 +6212,32 @@
       "duration_ms": 225706,
       "name": "Get Yours",
       "url": "https://open.spotify.com/track/6wytkanRF1zOULBgeXUAnk"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/6sE9wEv38jadzTDIdR5njC"
+      },
+      "artists": [
+        {
+          "name": "Ace Clark",
+          "url": "https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Alonda Rich",
+          "url": "https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202443,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/0KAIXTYM9mX2mygC8bAh21"
     },
     {
       "album": {
@@ -7156,10 +7258,32 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176529,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/4lLXZibm5kphBZ2UyYmHWV"
+    },
+    {
+      "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/1yKM0mzIww5Fofrx5WnGNA"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187344,
+      "name": "Hot Spot",
+      "url": "https://open.spotify.com/track/2q5E2qgXkrLg1KPiWXYoWl"
     },
     {
       "album": {
@@ -7532,7 +7656,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 205560,
       "name": "IIWII SEASON 3 FREESTYLE",
       "url": "https://open.spotify.com/track/5gQdkMgut9pCKfFHIj17FO"
@@ -9017,6 +9141,24 @@
     },
     {
       "album": {
+        "name": "Look Again",
+        "url": "https://open.spotify.com/album/60Be13dWOgXI0e7TvOvroL"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156384,
+      "name": "Look Again",
+      "url": "https://open.spotify.com/track/6wVUTCjnlGQ1z8fcHheF1a"
+    },
+    {
+      "album": {
         "name": "Looking for Water (feat. Boldy James)",
         "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
       },
@@ -9948,7 +10090,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 348040,
       "name": "Mr. Put That Shit On",
       "url": "https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof"
@@ -10328,7 +10470,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 133488,
       "name": "No Regrets (Live Performance)",
       "url": "https://open.spotify.com/track/2LdtDnsSP0XaVjWndv7cJo"
@@ -10472,6 +10614,24 @@
       "duration_ms": 184380,
       "name": "Nuri",
       "url": "https://open.spotify.com/track/4dnO4Zq13moH46pBfMIV73"
+    },
+    {
+      "album": {
+        "name": "On Read (Radio Edit)",
+        "url": "https://open.spotify.com/album/7CfLUWhC1H6CKL4lLaVAZ1"
+      },
+      "artists": [
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Ocean View",
+      "url": "https://open.spotify.com/track/3i7cDWLg5TdtcfPiRH6YhU"
     },
     {
       "album": {
@@ -11146,7 +11306,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
@@ -11346,7 +11506,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 127433,
       "name": "PLAIN JANE",
       "url": "https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE"
@@ -12564,7 +12724,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173161,
       "name": "Scared Money (feat. Kevin Durant)",
       "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
@@ -13646,6 +13806,28 @@
       "duration_ms": 164679,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/3sPHFwIXS3pLQFHcAkLwCx"
+    },
+    {
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
     },
     {
       "album": {
@@ -15880,7 +16062,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 216884,
       "name": "WHAT A DAY",
       "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
@@ -16358,6 +16540,24 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "album": {
+        "name": "You, Not Alone",
+        "url": "https://open.spotify.com/album/2P83BWm7JfiLZAwD1w13qD"
+      },
+      "artists": [
+        {
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "You, Not Alone",
+      "url": "https://open.spotify.com/track/49TP3yDwWFoI2eTNPisbBL"
     },
     {
       "album": {

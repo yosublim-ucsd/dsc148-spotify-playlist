@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Gatecreeper
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Knocked Loose
 
-627 songs - 1 day 16 hr 9 min
+633 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 | 2024-02-03 |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 | 2023-07-15 |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 | 2024-02-03 |
+| [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-03-01 |  |
 | [Blood and Sulfur](https://open.spotify.com/track/6VXUOFqaw32nHEp0OBUgDP) | [Final Gasp](https://open.spotify.com/artist/37fUpnBI9H1N6BLTs5nkcD) | [Blood and Sulfur](https://open.spotify.com/album/3XuO7ZeWlfmZExCaIJAkZv) | 1:40 | 2023-09-01 | 2024-02-03 |
 | [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-02 |  |
 | [Blood Blind](https://open.spotify.com/track/5zOv6iLz86br9r8aN8EyNr) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Blood Blind](https://open.spotify.com/album/0sy729QNw0BRIt62zXu9dj) | 4:34 | 2023-06-23 | 2024-02-03 |
@@ -244,6 +245,7 @@
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-09-30 | 2023-07-15 |
 | [Half Life](https://open.spotify.com/track/7qwTlAdz1usnxXd24H3yjw) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Half Life](https://open.spotify.com/album/0AjbRK9LP0qPcGRWw0GYGp) | 3:32 | 2023-01-06 | 2024-02-03 |
 | [Hard](https://open.spotify.com/track/2LVlZo1agzxHBnvbXTIiCE) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Hard](https://open.spotify.com/album/1XTHvv2gs92EvdL24GLoFT) | 2:26 | 2023-10-20 | 2024-02-03 |
+| [Hardcore Music Machine](https://open.spotify.com/track/4ozoqbiAmockxd4Ba7qT5w) | [Wild Side](https://open.spotify.com/artist/3gdrmfWscdd6Wryv01umtl) | [Hardcore Music Machine](https://open.spotify.com/album/4MFLUCc4jZ0zKYzeyIVf2T) | 3:46 | 2024-03-01 |  |
 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 | 2023-04-28 | 2024-02-03 |
 | [Hatekeeper](https://open.spotify.com/track/3J9QqbxNYdH0a4CeEsVh53) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Hatekeeper](https://open.spotify.com/album/5x32HHBeFEXYd9bBRyOrOe) | 1:01 | 2022-05-27 | 2023-07-15 |
 | [Head Down](https://open.spotify.com/track/3faq3bcogHCBktb9matyBk) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Head Down](https://open.spotify.com/album/1EqdvFvcrmaH57d9m7QZFl) | 5:14 | 2023-06-09 | 2024-02-03 |
@@ -264,6 +266,7 @@
 | [I Don't Wanna Talk About It](https://open.spotify.com/track/7MmcCmu1q6a7PDgH1vJT3I) | [Candy Apple](https://open.spotify.com/artist/3EYZaeK8iJPw5PWdNyeFgy) | [I Don't Wanna Talk About It](https://open.spotify.com/album/0o0iQWO3Kb7w4FWcs46Odm) | 2:33 | 2022-09-09 | 2023-07-15 |
 | [I Saw You Dancing](https://open.spotify.com/track/6S6KWV6SltScbAcOJU1arC) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [I Saw You Dancing](https://open.spotify.com/album/0PvgVoh30xJa3yicoZcwxx) | 3:51 | 2022-08-19 | 2023-07-15 |
 | [I Was a Teenage Nihilist](https://open.spotify.com/track/6VjuopTLuHqN8OPxKcab0o) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 1:32 | 2023-12-15 | 2024-02-03 |
+| [I Won't Work For You](https://open.spotify.com/track/46M60dd931zvPt7BWsqtqi) | [CNTS](https://open.spotify.com/artist/4onZqTiWzgRfH0g4nKOhls) | [I Won't Work For You](https://open.spotify.com/album/7t0wlswaOiM97998oGU8y8) | 3:13 | 2024-03-01 |  |
 | [I Would Die for You](https://open.spotify.com/track/6ACZ1lOkgxm1PUyMvU0cwm) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0TZNgMbhqhmcD6GUW8aGbM) | 4:39 | 2023-03-24 | 2024-02-03 |
 | [I'll Find You](https://open.spotify.com/track/5MQuH4phGyxoHE6Glhq3T6) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [I'll Find You](https://open.spotify.com/album/73ROZuODtjMQfv3NjqgzoI) | 2:50 | 2023-10-13 | 2024-02-03 |
 | [Idealized](https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Idealized](https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq) | 3:41 | 2023-05-12 | 2024-02-03 |
@@ -363,6 +366,7 @@
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 | 2024-02-03 |
 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-04 | 2024-02-03 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2024-02-03 |
+| [Noix et Boules](https://open.spotify.com/track/5EmLWX5IYVSL1KD3LtEaIf) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk) | [Noix et Boules](https://open.spotify.com/album/5GQUkWlCUSVsxzFN26ZR15) | 2:07 | 2024-03-01 |  |
 | [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2023-05-26 | 2024-02-03 |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 | 2023-07-15 |
 | [Nothing Beyond](https://open.spotify.com/track/6t2vTu9nL0p47kmEVxIDit) | [Discontent](https://open.spotify.com/artist/1zKLqt8i31ve2tyeR6dcMZ) | [Nothing Beyond](https://open.spotify.com/album/1nQcOBFREkmFskvDgaGEis) | 2:10 | 2024-01-05 |  |
@@ -552,6 +556,7 @@
 | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ) | [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1) | 4:02 | 2023-06-16 | 2024-02-03 |
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 | 2023-07-15 |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 | 2023-07-15 |
+| [Time Is Coming For Us All](https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr) | [Promo 2024](https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ) | 1:51 | 2024-03-01 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 | 2024-02-03 |
 | [Tote](https://open.spotify.com/track/51rKTcFDLxU0YJyP5eH6b5) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Tote](https://open.spotify.com/album/4mOdpOvQV5XOqosMWsvy7s) | 2:07 | 2023-05-26 | 2024-02-03 |
 | [Tower Has Fallen](https://open.spotify.com/track/6LI5dpKCc3Z157MFsxcPDw) | [Ephemeral](https://open.spotify.com/artist/07bVX0mFSx79Nd6250qVCa) | [Tower Has Fallen](https://open.spotify.com/album/0dBLFferJ65QLYw5ZVmKIU) | 2:56 | 2023-04-28 | 2024-02-03 |
@@ -575,6 +580,7 @@
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 |  |
 | [Valkyriernes Sang](https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Valkyriernes Sang](https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y) | 3:55 | 2023-10-06 | 2024-02-03 |
 | [Valley of Disease](https://open.spotify.com/track/6ikLavFLZeKyA31uxx3nHn) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Valley of Disease](https://open.spotify.com/album/24sVSx3ya9USRw9tsxau3o) | 4:08 | 2022-09-23 | 2023-07-15 |
+| [Venus in Flames](https://open.spotify.com/track/1plbSV6IKjmMmyAx9XMEod) | [DOOL](https://open.spotify.com/artist/101HSR6JTJqe3DBh6rb8kz) | [Venus in Flames](https://open.spotify.com/album/05YyAiDVKS3HntWHOpk81U) | 7:06 | 2024-03-01 |  |
 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 | 2023-04-21 | 2024-02-03 |
 | [Vessel of Suffering](https://open.spotify.com/track/3WggKw5QGXX9tcvkQyHq5p) | [Hulder](https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo) | [Vessel Of Suffering](https://open.spotify.com/album/0tszKj1sh2azWncyNgc9Vh) | 3:56 | 2023-12-15 | 2024-02-03 |
 | [Victim](https://open.spotify.com/track/586QQTfbiI4qtk9l5d1l07) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:57 | 2023-02-03 | 2024-02-03 |

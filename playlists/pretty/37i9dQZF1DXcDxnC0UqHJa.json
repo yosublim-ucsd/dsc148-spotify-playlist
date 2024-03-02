@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465494,
+  "num_followers": 465504,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzhjZDUxODVkZTU5YTQ1ZTRjMTI1NjkwNDBmNjA3NTc4OGYwMzI3",
+  "snapshot_id": "MCw3ZDFjYjUxMDBmMmNmODMzY2YzZjQzNjEwOTQ5MzFkMzc0ZjliMjNi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 186794,
       "name": "Square One",
       "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "brightside bonus tracks",
-        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "just like heaven",
-      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Covered up with Flowers",
         "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 214173,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "brightside bonus tracks",
+        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Pine Hollow (Live)",
         "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 198205,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -1015,22 +999,34 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Don't Dream It's Over / Everything Is Free",
-        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
       },
       "artists": [
         {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 257755,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
+      "duration_ms": 198205,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 223576,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 223576,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
+      "duration_ms": 257755,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Easy Listening for Jerks, Pt. 1",
         "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
       },
@@ -1299,6 +1283,38 @@
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1339,22 +1355,6 @@
       "duration_ms": 183226,
       "name": "Harvest (feat. Andrew Bird & Chris Stills)",
       "url": "https://open.spotify.com/track/2FeUjUEnlUdnrN9sEzYYMY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Unknown Legend",
         "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
@@ -1699,6 +1683,38 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "We Don't Eat",
+        "url": "https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0jVHjo644RBj0zWWRIR7Fu"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Music Is You: A Tribute to John Denver",
-        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
       },
@@ -1875,6 +1875,22 @@
       "duration_ms": 197540,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Music Is You: A Tribute to John Denver",
+        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1931,6 +1947,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Your Song (Vapor IKEA Commercial)",
+        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 110110,
+      "name": "Your Song (Vapor IKEA Commercial)",
+      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1963,38 +1995,6 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Your Song (Vapor IKEA Commercial)",
-        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Your Song (Vapor IKEA Commercial)",
-      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
     }
   ],
   "unique_name": "Folksy Covers",

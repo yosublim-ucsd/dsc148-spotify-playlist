@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 154 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 154 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 39 | [Who I Am](https://open.spotify.com/track/2cbm6J75mCLGczjTnPEyrB) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:32 |
 | 40 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/1oDPAM1Jq4vNBWXlkUKr0C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/4YAKYUz7HDhP8J6TcxjqjE) | 3:29 |
 | 41 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
-| 42 | [Amazing](https://open.spotify.com/track/6UkNsqoCVz68fWlq8Dez3V) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:59 |
-| 43 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
+| 42 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
+| 43 | [Amazing](https://open.spotify.com/track/6UkNsqoCVz68fWlq8Dez3V) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:59 |
 | 44 | [Bittersweet](https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:28 |
 | 45 | [Heavenly](https://open.spotify.com/track/7Dq8M4iWryFiA0r6W2rZMm) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:44 |
 | 46 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 54 | [The Way Love Goes](https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Hits](https://open.spotify.com/album/0sAb0OzmqQ7PowGSgO6JKP) | 3:31 |
 | 55 | [Ave Maria](https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:00 |
 | 56 | [Love Affair](https://open.spotify.com/track/0iReGfmVn96YVgK4zG3eZX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:49 |
-| 57 | [Don't Let Me Go](https://open.spotify.com/track/7Gmfbj4VEinMWqLCKdbxeD) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:28 |
-| 58 | [Somebody To Love](https://open.spotify.com/track/2sgCo8gmeF3zgsYpe1F8OD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:52 |
+| 57 | [Somebody To Love](https://open.spotify.com/track/2sgCo8gmeF3zgsYpe1F8OD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:52 |
+| 58 | [Don't Let Me Go](https://open.spotify.com/track/7Gmfbj4VEinMWqLCKdbxeD) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:28 |
 | 59 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 |
 | 60 | [When You Come Around](https://open.spotify.com/track/0UX9NreXon8S0NTjbBIIaA) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:40 |
 | 61 | [Rock The Party \- Single Remix](https://open.spotify.com/track/3yyCRuWQPxENTKhGZbBFmq) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 2:48 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 89 | [New York City Lights](https://open.spotify.com/track/4axKdZZxEJ82NuhAtCTfLu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:52 |
 | 90 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 |
 | 91 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
-| 92 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
-| 93 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
+| 92 | [Give And Take](https://open.spotify.com/track/33exaNQmkBIgcDh8hlYmHk) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 3:52 |
+| 93 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 |
 | 94 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 |
 | 95 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
 | 96 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 130 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
 | 131 | [Connect](https://open.spotify.com/track/47MMhJCw8HIv5aOteBoTCI) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:10 |
 | 132 | [City Games](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
-| 133 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
-| 134 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
+| 133 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
+| 134 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 135 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 136 | [Sophisticated Lady](https://open.spotify.com/track/1VOIXNuJp6zYcOaM282xev) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Word Up](https://open.spotify.com/album/24RkqLgyBPdNgpPYCfkFtt) | 2:43 |
 | 137 | [Take Control](https://open.spotify.com/track/6zMg2zHbQPUC5rshEyCMio) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:47 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 153 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 154 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjg0ODc2NTAsMDAwMDAwMDA3NTc4MjhkNmVmMTAwMzFhNjY4NDIxZDI5NzA3ZDM4Zg==`
+Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDBmMTNkYjhlYzM5YWQ4OGRlN2ZlOWMwOGQ0NDViZmJmYw==`

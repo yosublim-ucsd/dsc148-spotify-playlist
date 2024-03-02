@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,460 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,524 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 37 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 38 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 39 | [Washington, D.C.](https://open.spotify.com/track/22reYeFPVc6i15XGmbUs7i) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:53 |
-| 40 | [Seoul Night](https://open.spotify.com/track/5KUs4mhoWSpZmJKXABJocU) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/0kWnxvoMqesePXEQVvIB3x) | 4:14 |
+| 40 | [Seoul Night](https://open.spotify.com/track/0dqvruH0Y27ifydSdo826M) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Midnight Candy](https://open.spotify.com/album/6y2t4iND8t4DUXKhZNbnTn) | 4:14 |
 | 41 | [Girl in Saskatoon](https://open.spotify.com/track/0ZOREY0IXhxjwzScOn0HUK) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Bootleg Vol\. I: Personal File](https://open.spotify.com/album/5TabR5rIBRxBD6XzWhCiBE) | 2:16 |
 | 42 | [This Is The Dream Of Win & Regine](https://open.spotify.com/track/65tg2FnizGXtnOt8PnDSU7) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Has A Good Home](https://open.spotify.com/album/17EcSC0HhQC3x7clTT9Mn7) | 3:24 |
 | 43 | [Angeles \- Live](https://open.spotify.com/track/3EvG1X6yWsqEaaI6wJufbO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 3:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 46 | [Hackensack](https://open.spotify.com/track/11PUdjgVfGEZLG9zs9UeTp) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:00 |
 | 47 | [Blue Night On Jeju](https://open.spotify.com/track/3kwk52VNXhtofbOQ38mmCg) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [Deulgukhwa](https://open.spotify.com/album/0e8lh3uJqASTtR8fqgxm13) | 4:53 |
 
-Snapshot ID: `MCxlZTBmNzliZDEyNTYwMTNhY2I5ZmQ5MThkZWUwMmYzNjBhOWM0MTNi`
+Snapshot ID: `MCxjMmNmMmNiZjBhYzJiODczNTMzZmNiNzBjNjI1OGY2ODk3Y2Y0NTc0`

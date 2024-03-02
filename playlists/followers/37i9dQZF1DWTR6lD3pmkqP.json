@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 108504,
+  "2024-03-02": 108580,
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
@@ -8025,7 +8025,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 303436,
       "name": "Safe Passage",
       "url": "https://open.spotify.com/track/1ILS6udvIKZ7BxbpknJ8ra"
@@ -9287,6 +9287,32 @@
       "duration_ms": 181289,
       "name": "Sunflowers - Instrumental",
       "url": "https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7"
+    },
+    {
+      "album": {
+        "name": "Instrumentals JID009",
+        "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "Sunflowers - Instrumental",
+      "url": "https://open.spotify.com/track/4TavIXGtNkJTvHFvulvrC4"
     },
     {
       "album": {

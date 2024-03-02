@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Andi
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Jordan Suaste
 
-628 songs - 1 day 9 hr 21 min
+632 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 | 2023-01-27 | 2023-05-06 |
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-01-14 | 2022-02-19 |
 | [buffalo](https://open.spotify.com/track/4ujsDQYYnvt4rWSVsQsy7C) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [buffalo](https://open.spotify.com/album/5I01Y9oTVDnSKFSg8T81F4) | 3:18 | 2023-09-18 | 2023-12-14 |
+| [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 | 2024-03-01 |  |
 | [Bumble Bee](https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Bumble Bee](https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl) | 4:09 | 2022-12-23 | 2023-02-11 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 | 2022-12-24 |
 | [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 | 2023-05-13 |
@@ -131,7 +132,7 @@
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-10-08 |
 | [Convertible in the Rain](https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Convertible in the Rain](https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp) | 3:52 | 2022-11-04 | 2022-12-31 |
 | [Convince Myself](https://open.spotify.com/track/23s1QNkajTtC5kRbMCrWNE) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Convince Myself](https://open.spotify.com/album/2qnVx4SGCy5qlwefWAT1ig) | 3:02 | 2023-09-15 | 2024-02-24 |
-| [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-11-10 |  |
+| [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-11-10 | 2024-03-02 |
 | [Copout](https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Copout](https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8) | 2:38 | 2023-07-14 | 2023-09-19 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2023-12-14 |
 | [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 | 2023-06-30 | 2023-11-11 |
@@ -234,7 +235,7 @@
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 | 2023-10-01 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-22 | 2022-09-10 |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2022-01-14 | 2022-04-29 |
-| [Happy](https://open.spotify.com/track/5DMQrvxg6Rcy0z8Zl75dCh) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Lovebomber / Happy](https://open.spotify.com/album/0QZv0MTn0QwGfmKFABrCj6) | 2:08 | 2023-11-17 |  |
+| [Happy](https://open.spotify.com/track/5DMQrvxg6Rcy0z8Zl75dCh) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Lovebomber / Happy](https://open.spotify.com/album/0QZv0MTn0QwGfmKFABrCj6) | 2:08 | 2023-11-17 | 2024-03-02 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-11 |
 | [Happy Fucking Birthday](https://open.spotify.com/track/6c7xkHPz5RHb19d8zl5iea) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Happy Fucking Birthday](https://open.spotify.com/album/0JZKPex9Offv9HIE7kTuEM) | 3:39 | 2022-03-18 | 2022-07-02 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-07-09 |
@@ -353,7 +354,8 @@
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2022-10-07 | 2023-05-06 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-04-16 |
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-04-28 | 2023-08-12 |
-| [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 |  |
+| [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 | 2024-03-02 |
+| [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-03-01 |  |
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 |  |
 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 | 2022-09-30 | 2023-02-18 |
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-17 | 2023-05-06 |
@@ -369,6 +371,7 @@
 | [Love of My Life](https://open.spotify.com/track/1KiJFIMQrRH14WF5ntkZbf) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 3:52 | 2022-09-09 | 2022-12-03 |
 | [Love of My Life](https://open.spotify.com/track/2KC89XSvZn9EEk8Dt7VuG9) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/2aH0R3lc7cJVwjiQTzoBYp) | 3:52 | 2022-05-20 | 2022-10-13 |
 | [Love of My Life](https://open.spotify.com/track/3swoC2pDa2pQsGFJIvyd4g) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/0coJ1KcqSFSsC1OJM5gQ7C) | 3:52 | 2022-09-09 | 2022-11-13 |
+| [Love Who You Want To](https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Love Who You Want To](https://open.spotify.com/album/2Rd0jhqAsjQceN2NvbTav2) | 2:44 | 2024-03-01 |  |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2022-01-14 | 2022-02-26 |
 | [Love You More](https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You More](https://open.spotify.com/album/1VX1XP7NjGCE5KQS6utxac) | 2:49 | 2022-02-25 | 2022-07-02 |
 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-20 |  |
@@ -542,10 +545,11 @@
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
 | [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
-| [Tell You More](https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Tell You More](https://open.spotify.com/album/3UY4wNYSfoWTbVEjGpGcud) | 3:17 | 2023-11-24 |  |
+| [Tell You More](https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Tell You More](https://open.spotify.com/album/3UY4wNYSfoWTbVEjGpGcud) | 3:17 | 2023-11-24 | 2024-03-02 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-10 | 2024-01-20 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 | 2023-09-16 |
+| [tetherball](https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [tetherball](https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD) | 3:27 | 2024-03-01 |  |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 | 2022-07-02 |
 | [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-10-06 | 2023-12-23 |
 | [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 | 2023-07-29 |

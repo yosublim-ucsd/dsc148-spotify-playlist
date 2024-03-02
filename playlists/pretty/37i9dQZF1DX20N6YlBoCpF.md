@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs?si=HMOswb82QFisT\-NqNYffvA">Anzélle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,416 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,466 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 50 | [Tappit](https://open.spotify.com/track/3m6AtGy5lijel7dhIjCj7a) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Tappit](https://open.spotify.com/album/2LEfxZDYdETMg5MSCjtOYQ) | 3:05 |
 | 51 | [Die Wors Song](https://open.spotify.com/track/2UCudHlzKNBcJ1QVhZuce5) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Die Wors Song](https://open.spotify.com/album/3tKymqLeAllgjh0LCcgI7C) | 2:45 |
 
-Snapshot ID: `MCw2ZmMyM2Q0OTczOWZiZDQxY2EyM2VmMjAxNjhlNTk3NWM5YWFlZDg2`
+Snapshot ID: `MCw1NzRiMGFkNjI4MTgzODU2Yjk0OTRkZWRhMjc3MGM4OWE5ZmYxYzIw`

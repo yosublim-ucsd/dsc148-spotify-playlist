@@ -6,10 +6,10 @@
     "name": "Anjunadeep",
     "url": "https://open.spotify.com/user/anjunadeep"
   },
-  "snapshot_id": "MjUxNiwyNThlOGVmNjIyMmQyYjA2NTllM2U3MmE0M2Y1MTI0OGFkNTRhMzlh",
+  "snapshot_id": "MjUxOSwwZjQ2ZTViYmY5ODNkMWZkZmMzZjE2ODgwNDE5MmNkZDU4ZjJjZTI4",
   "tracks": [
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Love In Our Hands",
         "url": "https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
+        "name": "Happiness EP",
+        "url": "https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy"
       },
       "artists": [
         {
           "name": "Omfeel",
           "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        },
+        {
+          "name": "Mario Hammer And The Lonely Robot",
+          "url": "https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5"
         }
       ],
-      "duration_ms": 239803,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
+      "duration_ms": 242443,
+      "name": "Lonely Star",
+      "url": "https://open.spotify.com/track/6RnK2EgZ6AfSFwjXaYyfrk"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/6SqQkSq1uPmtaMedZAMb3M"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/3gYGfj5XYLMcGNeuYiRdFi"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "closer",
         "url": "https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae"
@@ -77,7 +81,7 @@
       "url": "https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "The Sounds Inside Of Me When I Think Of You EP",
         "url": "https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc"
@@ -93,7 +97,23 @@
       "url": "https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
+    },
+    {
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Acts Of Union EP",
         "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/4KB6FE20302vokalyCjdV5"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Second Chance",
         "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
@@ -129,7 +149,27 @@
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
+      "album": {
+        "name": "Happiness EP",
+        "url": "https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        },
+        {
+          "name": "Dessin Bizarre",
+          "url": "https://open.spotify.com/artist/4DafxGtQjtOUPDvUZXQfgC"
+        }
+      ],
+      "duration_ms": 178795,
+      "name": "Summer Dreams",
+      "url": "https://open.spotify.com/track/3VSWJ61d0x9LJ2zvZPGFwD"
+    },
+    {
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/5WyNgwQ9DQ1GPPGquKmj5F"
@@ -145,7 +185,7 @@
       "url": "https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Chalk",
         "url": "https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj"
@@ -161,7 +201,7 @@
       "url": "https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Acts Of Union",
         "url": "https://open.spotify.com/album/3f1UEIn91gogniby61Nl3g"
@@ -177,7 +217,7 @@
       "url": "https://open.spotify.com/track/3rVkdxXmUBtMkerMqF1Km6"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
@@ -193,23 +233,7 @@
       "url": "https://open.spotify.com/track/63ET2zAcWY2s8IiAYSFiq5"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
-      "album": {
-        "name": "Acts Of Union EP",
-        "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
-      },
-      "artists": [
-        {
-          "name": "Turtle",
-          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
-        }
-      ],
-      "duration_ms": 132062,
-      "name": "Across All Planes Of Existence",
-      "url": "https://open.spotify.com/track/1peologOxo16hzZrKixC5J"
-    },
-    {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "And Yet (Gold Panda Remix)",
         "url": "https://open.spotify.com/album/6LNDNbQAtMzcYwhuuiw8q2"
@@ -229,7 +253,23 @@
       "url": "https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
+      "album": {
+        "name": "Happiness EP",
+        "url": "https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "duration_ms": 271815,
+      "name": "Medi",
+      "url": "https://open.spotify.com/track/5qlRBDvAOo7QjNjG3o5aMf"
+    },
+    {
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Acts Of Union EP",
         "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
@@ -240,12 +280,12 @@
           "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
         }
       ],
-      "duration_ms": 132100,
-      "name": "Bless These Beating Hearts",
-      "url": "https://open.spotify.com/track/1PUlPRWua2vn3yE5SDWAbX"
+      "duration_ms": 132062,
+      "name": "Across All Planes Of Existence",
+      "url": "https://open.spotify.com/track/1peologOxo16hzZrKixC5J"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Butter Notes",
         "url": "https://open.spotify.com/album/2AuBsO2tbYIpWzotLslVQy"
@@ -261,7 +301,7 @@
       "url": "https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/27DozBowhDYuHNExnzbipt"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
@@ -309,7 +349,31 @@
       "url": "https://open.spotify.com/track/6j9hfHxpXEaYzFwcSK4MhH"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
+      "album": {
+        "name": "Let It Burn",
+        "url": "https://open.spotify.com/album/4MrtqISO50u3fvNmr7VHPJ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
+        },
+        {
+          "name": "A Song For You",
+          "url": "https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP"
+        }
+      ],
+      "duration_ms": 239272,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE"
+    },
+    {
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Dusting For Smoke",
         "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
@@ -325,7 +389,7 @@
       "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "My Mother Was A Synthesizer",
         "url": "https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO"
@@ -341,7 +405,23 @@
       "url": "https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
+      "album": {
+        "name": "Acts Of Union EP",
+        "url": "https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP"
+      },
+      "artists": [
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "duration_ms": 132100,
+      "name": "Bless These Beating Hearts",
+      "url": "https://open.spotify.com/track/1PUlPRWua2vn3yE5SDWAbX"
+    },
+    {
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/3p1JAGAqMNUUkM4ABUw9Ih"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "If Beale Street Could Talk (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
@@ -377,23 +457,7 @@
       "url": "https://open.spotify.com/track/0THutYP9Uqq75bogKFuoXL"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
-      "album": {
-        "name": "Hallowed Ground EP",
-        "url": "https://open.spotify.com/album/1TTWT1c4LpEszi4Df2clbi"
-      },
-      "artists": [
-        {
-          "name": "Northling",
-          "url": "https://open.spotify.com/artist/24VRz9L4UbsZnTFssFclHD"
-        }
-      ],
-      "duration_ms": 245339,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0JDNJGIr9ViBuMjBZVgofJ"
-    },
-    {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
@@ -409,7 +473,7 @@
       "url": "https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
@@ -441,7 +505,7 @@
       "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "La luna (Flica's Moonlight Remix)",
         "url": "https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR"
@@ -461,7 +525,7 @@
       "url": "https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Mr Man (Dusky Revisit)",
         "url": "https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x"
@@ -477,23 +541,7 @@
       "url": "https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
-      "album": {
-        "name": "Mother (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/1An9k3L20xsC26H2GAJZBK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Marcella",
-          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
-        }
-      ],
-      "duration_ms": 137335,
-      "name": "Mother - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/4mFiTGlJLEWxBqhIp3hgtl"
-    },
-    {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/5HWHvmv2Se7JK5E5lzfUCB"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/2hch6pI5wxnE2iPoFomn2b"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/3w2btrPhG4QXL5XG2pkFFm"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Hold On To You (Ryan Davis Revisit)",
         "url": "https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/2c6FQDsHgiRNzXlN3dc71D"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/0kLgf6MpUKwYkZQAOAe8QZ"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5"
     },
     {
-      "added_at": "2024-02-23 18:41:26",
+      "added_at": "2024-03-01 16:51:02",
       "album": {
         "name": "when the quiet comes",
         "url": "https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor"
@@ -659,42 +707,6 @@
       "duration_ms": 540330,
       "name": "from nothing came something and you lasted a lifetime",
       "url": "https://open.spotify.com/track/3DRjDMSsyFrqUWnM0k3IB1"
-    },
-    {
-      "added_at": "2024-02-23 18:41:26",
-      "album": {
-        "name": "Lunar Tides",
-        "url": "https://open.spotify.com/album/3Muy52e2cUQxOp1DaK0l5J"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        }
-      ],
-      "duration_ms": 263877,
-      "name": "Lunar Tides",
-      "url": "https://open.spotify.com/track/3B9pDB6SV0TO99dg20CD62"
-    },
-    {
-      "added_at": "2024-02-23 18:41:26",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD"
     }
   ],
   "unique_name": "Chill with Anjuna",

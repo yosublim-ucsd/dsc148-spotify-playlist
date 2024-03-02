@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 245475,
+  "2024-03-02": 245698,
   "date_first_scraped": "2023-04-15",
   "description": "warming up for ibz szn",
   "name": "Umami",
@@ -586,6 +586,32 @@
     },
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        },
+        {
+          "name": "Pony",
+          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/6ki829oCnngPMQqw0y01Gl"
       },
@@ -801,6 +827,32 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "album": {
+        "name": "Best of King Street, Pt. 3",
+        "url": "https://open.spotify.com/album/3ppIphRtpcXEXR627xWPpo"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220567,
+      "name": "Beautiful Trip - Piem Remix",
+      "url": "https://open.spotify.com/track/1utysmNLMkre6qyvCnfDy8"
     },
     {
       "album": {
@@ -5208,6 +5260,32 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/6c4l39l4KI7waOKtqfQy3T"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283337,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE"
+    },
+    {
+      "album": {
         "name": "Milkshake 20 (Alex Wann Remix)",
         "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
       },
@@ -6134,6 +6212,28 @@
     },
     {
       "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "album": {
         "name": "Patchido Remixes",
         "url": "https://open.spotify.com/album/2A1hkjPN0iaJ2xKRZ7BYUm"
       },
@@ -6492,6 +6592,28 @@
     },
     {
       "album": {
+        "name": "Promises (VIP)",
+        "url": "https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "Promises - VIP",
+      "url": "https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku"
+    },
+    {
+      "album": {
         "name": "Public Demand",
         "url": "https://open.spotify.com/album/30ZrywHKsEsrCWagYeyoug"
       },
@@ -6801,6 +6923,28 @@
       "duration_ms": 468597,
       "name": "Samburu Tribe",
       "url": "https://open.spotify.com/track/4Heg8StdyERCKIWrY5VSQh"
+    },
+    {
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186713,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
     },
     {
       "album": {

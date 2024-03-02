@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 265234,
+  "2024-03-02": 265241,
   "date_first_scraped": "2023-11-11",
   "description": "sad lofi to keep your thoughts company when u r down. remember this too shall pass",
   "name": "rainy day lofi",
@@ -461,6 +461,24 @@
       "duration_ms": 185454,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld"
+    },
+    {
+      "album": {
+        "name": "dozen",
+        "url": "https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122422,
+      "name": "dozen",
+      "url": "https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG"
     },
     {
       "album": {

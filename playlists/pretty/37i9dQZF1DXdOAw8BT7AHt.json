@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Lambrini Girls",
-  "num_followers": 451325,
+  "num_followers": 451286,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE1ZGZlY2E5YmY2YmY2YzgzNWUwNTkyYTc4ZWYzYjJjNGFmYzc5",
+  "snapshot_id": "MCwwMTI5MGFkODhmZjUxMjFjMmY0MGMzNzY4MDM0MWJhZDUzYjhkODVm",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 164625,
       "name": "BRAINWASHED",
       "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Honda Civic",
         "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 170520,
       "name": "Honda Civic",
       "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "feel something (feat. Izzy Spears)",
         "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 133307,
       "name": "feel something (feat. Izzy Spears)",
       "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 155788,
-      "name": "Boys in the Band",
-      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "The Four Before",
         "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Kids Wanna Dance",
         "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 195195,
       "name": "Claw",
       "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Bloodsucker",
-        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 136682,
-      "name": "Bloodsucker",
-      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Roll With It",
         "url": "https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 215760,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 136682,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Gonna Get Better",
         "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195694,
       "name": "Gonna Get Better",
       "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Boys In Blue / H.A.N.G",
+        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 148466,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Effigy",
         "url": "https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Boys In Blue / H.A.N.G",
-        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 148466,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Hiccup",
-        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 105874,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Hiccup",
+        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
       },
@@ -1207,70 +1207,6 @@
       "duration_ms": 146496,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "No Guilt",
-        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
-      },
-      "artists": [
-        {
-          "name": "PROJECTOR",
-          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
-        }
-      ],
-      "duration_ms": 124120,
-      "name": "No Guilt",
-      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Unlike Me",
-        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Unlike Me",
-      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1291,18 +1227,82 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
         }
       ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Unlike Me",
+        "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Unlike Me",
+      "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "No Guilt",
+        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "duration_ms": 124120,
+      "name": "No Guilt",
+      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     }
   ],
   "unique_name": "The Punk List",

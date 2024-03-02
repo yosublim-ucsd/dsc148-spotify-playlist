@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176066,
       "name": "Alta Gama",
       "url": "https://open.spotify.com/track/6hxqef9MmA3Z783MNWhEgE"
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/3gzOj6zKfUKmCO6LoDysF5"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112842,
+      "name": "EFETEVE",
+      "url": "https://open.spotify.com/track/0vSgXloD8KNkeUsQDmygvM"
+    },
+    {
+      "album": {
         "name": "Set Live 360\u00b0 RKT #1 (Version Extendida Remix)",
         "url": "https://open.spotify.com/album/10cCW2LDIhJDEtaiVecal3"
       },
@@ -1036,6 +1054,28 @@
       "duration_ms": 165756,
       "name": "Fua Mi Amor",
       "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "album": {
+        "name": "GAFITA Y CHOMBA",
+        "url": "https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GAFITA Y CHOMBA",
+      "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
     },
     {
       "album": {
@@ -1415,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Lollirkt",
+        "url": "https://open.spotify.com/album/142eeF3LQTtkaedaQerPcC"
+      },
+      "artists": [
+        {
+          "name": "Lautaro DDJ",
+          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144697,
+      "name": "Lollirkt",
+      "url": "https://open.spotify.com/track/2gMtr4XtBS33GeQQKei1lE"
+    },
+    {
+      "album": {
         "name": "LOLLIRKT (Remix)",
         "url": "https://open.spotify.com/album/2ZqpX5dbeXy1un8dSmgEfn"
       },
@@ -1426,7 +1484,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 144697,
       "name": "LOLLIRKT - Remix",
       "url": "https://open.spotify.com/track/22U4FIsGk7yguu7RAuC6mq"
@@ -1490,7 +1548,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181230,
       "name": "Los Problematicos",
       "url": "https://open.spotify.com/track/39WNx2xHU4vTTfhMMo8wRg"
@@ -1864,7 +1922,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 171881,
       "name": "Nose Nose Nose RKT - Remix",
       "url": "https://open.spotify.com/track/6BNFHgTAovvb13f4bpUP34"
@@ -1882,7 +1940,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 146666,
       "name": "Nosotros",
       "url": "https://open.spotify.com/track/1Io4bP5qug6YwRy8g6JVFM"
@@ -1990,6 +2048,24 @@
       "duration_ms": 136291,
       "name": "Pal Party",
       "url": "https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept"
+    },
+    {
+      "album": {
+        "name": "Pegados al Fono",
+        "url": "https://open.spotify.com/album/19ZqPiq6ZaPTDkZEp0xBwq"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Pegados al Fono",
+      "url": "https://open.spotify.com/track/7zb1ZMQXYlRX4Zu2GuQMBz"
     },
     {
       "album": {
@@ -2109,6 +2185,66 @@
     },
     {
       "album": {
+        "name": "PERRIE CON MI AMIGA (Remix)",
+        "url": "https://open.spotify.com/album/4tTZdKncB9KMQ6I8NtEBZx"
+      },
+      "artists": [
+        {
+          "name": "HDR",
+          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "PERRIE CON MI AMIGA - Remix",
+      "url": "https://open.spotify.com/track/3r1JS9R2cjddcxWgMMbnKv"
+    },
+    {
+      "album": {
+        "name": "Peugeot",
+        "url": "https://open.spotify.com/album/6sRdLZQVjgXZQiJChUCStE"
+      },
+      "artists": [
+        {
+          "name": "Anthony MM",
+          "url": "https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139633,
+      "name": "Peugeot",
+      "url": "https://open.spotify.com/track/0FPzijlOh474KmVRUrRrJv"
+    },
+    {
+      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/492Py6vAHVmIJmrwYgd6lK"
       },
@@ -2180,7 +2316,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184897,
       "name": "Prisioneros",
       "url": "https://open.spotify.com/track/1EXHZL86SxIchdGMmzrYiX"
@@ -2232,6 +2368,28 @@
       "duration_ms": 147808,
       "name": "Quiere Duro RKT - Remix",
       "url": "https://open.spotify.com/track/4HAEffWH0QpWvfDV7Kue6s"
+    },
+    {
+      "album": {
+        "name": "RAMBLA",
+        "url": "https://open.spotify.com/album/0mfsAs4Z7JlVp5UvWSpR41"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "RAMBLA",
+      "url": "https://open.spotify.com/track/1soC2VdbrrQjVBclBmqWwr"
     },
     {
       "album": {
@@ -2538,7 +2696,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215613,
       "name": "Si quiero o si tengo?",
       "url": "https://open.spotify.com/track/1J5RSVH0ZdSMCal7UTF2Kg"
@@ -3009,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/4l2VhoTpeSofjwxRnXkEDI"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Yael YTBM",
+          "url": "https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/3nh1g7wr2gqd5q0R722Wiy"
+    },
+    {
+      "album": {
         "name": "Ubicacion 5 Saquense la Ropa",
         "url": "https://open.spotify.com/album/15oeQdBMy60Hc8ho85eLhG"
       },
@@ -3288,7 +3468,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190843,
       "name": "Yuta Remix",
       "url": "https://open.spotify.com/track/1tIoFlv46BGwnr3DuXxflg"

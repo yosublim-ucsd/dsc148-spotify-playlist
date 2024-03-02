@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,037 songs - 6 day 10 hr 18 min
+4,038 songs - 6 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1995,7 +1995,7 @@
 | [Look](https://open.spotify.com/track/3w9mpFDp9vFUSCzQzmUnrm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Look](https://open.spotify.com/album/4krOZrheZZYEX7WMzKBRaP) | 2:14 | 2024-02-08 |  |
 | [Look Back](https://open.spotify.com/track/5id2ENYruQ05RNAcXQxzGo) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Look Back](https://open.spotify.com/album/4maVevtDXuTurgGymqr1FQ) | 2:30 | 2022-06-09 | 2022-07-22 |
 | [Look of Love](https://open.spotify.com/track/1VEJqr3XJxIBmRIv5qaQ6Z) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH) | [Look of Love](https://open.spotify.com/album/0Zxyt1iBMwkbfnzLSihqYG) | 1:54 | 2020-08-08 | 2021-01-04 |
-| [Looking at the Sun](https://open.spotify.com/track/03PkIpZBHYo0wnnMjeaxKG) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Looking at the Sun](https://open.spotify.com/album/3ovkGxXJOlVnFXJ0YchFgI) | 2:40 | 2024-02-29 |  |
+| [Looking at the Sun](https://open.spotify.com/track/03PkIpZBHYo0wnnMjeaxKG) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Looking at the Sun](https://open.spotify.com/album/3ovkGxXJOlVnFXJ0YchFgI) | 2:40 | 2024-02-29 | 2024-03-02 |
 | [Looking Back](https://open.spotify.com/track/6kmxLLtB23DuT7fHcqJHZK) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Transit / Looking Back](https://open.spotify.com/album/4NCRj6SxZQ7HUZUWkYCX2F) | 2:22 | 2021-06-25 | 2021-09-24 |
 | [Lookout](https://open.spotify.com/track/7hjqgH8LW42xFtPph5OtqO) | [Sammy TQ](https://open.spotify.com/artist/1IPB8PvMnq9bTmBY58Qsrl) | [Lookout](https://open.spotify.com/album/6dueH05hsmfCiWdDEgYHsG) | 2:56 | 2020-09-05 | 2021-02-08 |
 | [looks](https://open.spotify.com/track/5gLtkOPPH96IhmU8mMOPX0) | [soder.](https://open.spotify.com/artist/2N2hOy7cgLlfage0jrE1Kb) | [looks](https://open.spotify.com/album/04pRxbPyxsE6oDXzHgXiTN) | 1:31 | 2019-05-26\* | 2019-08-13 |
@@ -2316,6 +2316,7 @@
 | [Naked Woman](https://open.spotify.com/track/3FidHZS4FF8l4BUAQeuv4l) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Naked Woman](https://open.spotify.com/album/5ShPXtOEM9aWQfHx3VOfYF) | 2:13 | 2021-07-09 | 2021-09-10 |
 | [nami](https://open.spotify.com/track/4WpWo3QutktWiRsLBJayK2) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [bookisa](https://open.spotify.com/album/1sfIkFcMtn4HfIu7q1Lbar) | 2:23 | 2021-12-03 | 2022-03-11 |
 | [Naming Clouds](https://open.spotify.com/track/2BgEnSZWPomufRA3eKjdxZ) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Naming Clouds](https://open.spotify.com/album/2lT3msaYSoTHbm2GYNPG5C) | 1:44 | 2023-06-01 |  |
+| [Namsan](https://open.spotify.com/track/6DvqrdLeklqm3JGjNSLqA4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Beautiful Disco](https://open.spotify.com/artist/4bNcfgeja8qTyJFLUE3YF3) | [Namsan](https://open.spotify.com/album/1uPHGsV1pCql43H5SRoi25) | 2:32 | 2024-03-01 |  |
 | [Nap](https://open.spotify.com/track/4ZH1ss95lOiKEbOBDMWZax) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nap](https://open.spotify.com/album/2WpXr02mgVyYd7LFK8jaXx) | 3:20 | 2020-10-09 | 2021-01-04 |
 | [Narctis](https://open.spotify.com/track/1NZKXkCgKFZhBvvVPe2IHH) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Narctis](https://open.spotify.com/album/0Ha721dDcHIpaeonJgE77j) | 2:33 | 2020-04-24 | 2020-07-03 |
 | [Natsu](https://open.spotify.com/track/5r9075hPYZN8E7ddE2WoJs) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Natsu](https://open.spotify.com/album/3yCrW20GRiYBLHxbF4zYr4) | 2:36 | 2021-01-09 | 2021-05-28 |

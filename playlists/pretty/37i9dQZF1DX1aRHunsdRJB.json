@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10486,
+  "num_followers": 10487,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0",
+  "snapshot_id": "MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 192198,
       "name": "Conch Shell",
       "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Jollof Rice Riddim",
-        "url": "https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Sir Fingaz",
-          "url": "https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU"
-        },
-        {
-          "name": "Marzville",
-          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
-        }
-      ],
-      "duration_ms": 181805,
-      "name": "Wuk",
-      "url": "https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Jollof Rice Riddim",
+        "url": "https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Sir Fingaz",
+          "url": "https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU"
+        },
+        {
+          "name": "Marzville",
+          "url": "https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P"
+        }
+      ],
+      "duration_ms": 181805,
+      "name": "Wuk",
+      "url": "https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK"
     },
     {
       "added_at": "2022-02-24 18:00:00",

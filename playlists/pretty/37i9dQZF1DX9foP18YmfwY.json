@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 321485,
+  "num_followers": 321544,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj",
+  "snapshot_id": "MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Tua Ternura",
-        "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 198992,
-      "name": "A Tua Ternura",
-      "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Tua Ternura",
+        "url": "https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 198992,
+      "name": "A Tua Ternura",
+      "url": "https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        }
+      ],
+      "duration_ms": 309660,
+      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 218105,
       "name": "Divino Esposo",
       "url": "https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        }
-      ],
-      "duration_ms": 309660,
-      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
-        }
-      ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
     },
     {
       "added_at": "2023-12-22 03:00:00",

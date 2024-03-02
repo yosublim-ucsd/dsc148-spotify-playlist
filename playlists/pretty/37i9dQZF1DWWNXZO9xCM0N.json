@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 77553,
+  "num_followers": 77616,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGM2OTczMjkwODA0OGU5Mzc0Y2ViNWRiNGZkM2MyMjNjZDE3OTlh",
+  "snapshot_id": "MCxhMmZjMzMyOGExNzAxOTdjYjIzMTA5NjExZThlMjZlNTQwNzQ0MGRi",
   "tracks": [
     {
       "added_at": "2022-01-11 21:31:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-01-11 21:31:49",
       "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309963,
-      "name": "Buenaventura y Caney",
-      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
-    },
-    {
-      "added_at": "2022-01-11 21:31:49",
-      "album": {
         "name": "Roberto Roena Y Su Apollo Sound",
         "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 199049,
       "name": "Tu Loco Loco Y Yo Tranquilo",
       "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
+    },
+    {
+      "added_at": "2022-01-11 21:31:49",
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
     },
     {
       "added_at": "2022-01-11 21:31:49",

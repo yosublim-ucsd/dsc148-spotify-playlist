@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Sarah Suhairi, Alfie Zumi
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,806 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,902 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Kau Buat Aku](https://open.spotify.com/track/6M3Exry9bC7ZZle6691Dqh) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Kau Buat Aku](https://open.spotify.com/album/1UgQUFV7xMjA5T4PQs24kv) | 2:55 |
 | 50 | [Bodohnya Aku](https://open.spotify.com/track/4mBtdvZHQkqkxwEzzR6ygC) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v) | [Bodohnya Aku](https://open.spotify.com/album/1c9LGZNpsN5Rj0ZJgR8Fyn) | 3:17 |
 
-Snapshot ID: `MCxkNWUyYjYwNTE2NWEwYTcwYTBhYzJmOTk2ZmExODEyNTNiYjViMGRh`
+Snapshot ID: `MCw3MzliYTVkYjI3YTVmZGVkM2I4OGI0Yjc5YWYxNzI1MjljNjM2OGIy`

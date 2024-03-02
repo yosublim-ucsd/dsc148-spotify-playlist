@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Lismar",
-  "num_followers": 11597,
+  "num_followers": 11612,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2VkODg0NTgzMDVmY2M2Y2RmZDhiNjRhZWQ1NDFlNzM4NzhiZGMy",
+  "snapshot_id": "MCw5OWE4MjQ3NzczZDQ4ZmNkMWQwNzU1YjI2N2YwM2EyOGRlYTBiZTNi",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 129389,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 195667,
       "name": "Mata Sede",
       "url": "https://open.spotify.com/track/5wZAlqyfzH3EUawJlp3wqf"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 129389,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Tumbao",
-        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 159590,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Urau",
         "url": "https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 161739,
       "name": "Belize",
       "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 159590,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "SPICY",
-        "url": "https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d"
-      },
-      "artists": [
-        {
-          "name": "J Noa",
-          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SPICY",
-      "url": "https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "EN LA MA\u00d1ANA",
         "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "SPICY",
+        "url": "https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 180000,
+      "name": "SPICY",
+      "url": "https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -879,18 +863,34 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Anormales",
-        "url": "https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD"
+        "name": "para mi (Freestyle)",
+        "url": "https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C"
       },
       "artists": [
         {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Anormales",
-      "url": "https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY"
+      "duration_ms": 170441,
+      "name": "Para Mi (Freestyle)",
+      "url": "https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     }
   ],
   "unique_name": "Latin Frequency",

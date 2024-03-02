@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 293129,
+  "num_followers": 293197,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTVjODhmYThiNThiMzFlMjVhM2FiZDVkZWE5N2Q0MzI2M2Q4YzAw",
+  "snapshot_id": "MCwzYjM5N2IzZTg2Y2MyYzMzM2YxN2JkZGE0NjljNTk3ZTFkYmI5MzE4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2023-10-06 04:00:00",

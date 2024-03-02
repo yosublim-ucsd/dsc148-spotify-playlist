@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-42 songs - 3 hr 22 min
+43 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Rage your dream](https://open.spotify.com/track/4n54JaXMZLwJ3qUPnLh8TC) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Rage your dream](https://open.spotify.com/album/6fdW8U59XKOZcHIAe1DWud) | 4:32 | 2022-05-24 |  |
 | [Remember Me](https://open.spotify.com/track/5Yhp3C2edvgSCeklFAeOvZ) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [Super Eurobeat Vol.84](https://open.spotify.com/album/677rqn1UF3mT3yht8ZiHXl) | 4:19 | 2022-05-24 |  |
 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 | 2022-05-24 |  |
-| [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 | 2022-05-24 |  |
+| [Save Me](https://open.spotify.com/track/1yTUxb67iHkOScKNIWnJcL) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [Initial Delta Eurobeat Soundtrack Vol\. 1](https://open.spotify.com/album/6zZBJgwt3ZY16gKyD0ee3Y) | 4:32 | 2023-07-11 |  |
+| [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 | 2022-05-24 | 2024-03-02 |
 | [SCRAMBLE EYES](https://open.spotify.com/track/37cSzvBW0363UMwg4pOIGj) | [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk), [A\-One](https://open.spotify.com/artist/6fhECpcjjpePBtGwTbVn6B) | [SCRAMBLE EYES](https://open.spotify.com/album/64ed3RytU7vmzSFS8WFuJR) | 4:08 | 2022-05-24 |  |
 | [SPACE BOY](https://open.spotify.com/track/4P9oqOrFDijZRN7TWP4OUZ) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:56 | 2022-05-24 |  |
 | [SPACE BOY \- feat\. MOTSU](https://open.spotify.com/track/7mogXiwfyDlSp5pyO31zfR) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [SPACE BOY \(feat\. MOTSU\)](https://open.spotify.com/album/09DSKsiXa71yFjxKk5jfGs) | 4:23 | 2023-07-11 |  |

@@ -2,7 +2,7 @@
 
 ### [Viva Latino Artists To Watch](https://open.spotify.com/playlist/37i9dQZF1DWZizs5bgPEuA)
 
-> Music by our 2024 Artists To Watch\. Cover: Bellakath
+> Music by our 2024 Artists To Watch\. Cover: Gonzy & Saiko
 
 73 songs - 3 hr 41 min
 
@@ -79,7 +79,7 @@
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-07-14 | 2024-01-11 |
 | [Tuma](https://open.spotify.com/track/3bvzotYqI2zWVS05idDLQ7) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:02 | 2024-01-10 | 2024-02-03 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-07-28 | 2024-01-11 |
-| [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2024-01-10 |  |
+| [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2024-01-10 | 2024-03-02 |
 | [Yo Tengo un Novio](https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:37 | 2023-07-14 | 2024-01-11 |
 
 \*This playlist was first scraped on 2023-07-15. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Greeicy en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173400,
       "name": "A la Carta",
       "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
@@ -370,6 +370,28 @@
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "album": {
+        "name": "alexademie",
+        "url": "https://open.spotify.com/album/1BfuhqJvGSzRfswonWNmRf"
+      },
+      "artists": [
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167707,
+      "name": "alexademie",
+      "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
     },
     {
       "album": {
@@ -801,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
       },
@@ -846,6 +886,24 @@
       "duration_ms": 201533,
       "name": "Borr\u00f3n Y Cuenta Nueva",
       "url": "https://open.spotify.com/track/5jvuhVvJZkNzQ2i72nmTn3"
+    },
+    {
+      "album": {
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/0YAlotKeb1bClOpn3xpj3C"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149480,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/7vcW9mEMLdzZrfkNYOKRZg"
     },
     {
       "album": {
@@ -2442,7 +2500,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
@@ -3199,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "idek",
+        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152044,
+      "name": "lento",
+      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+    },
+    {
+      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -3232,6 +3308,24 @@
       "duration_ms": 174853,
       "name": "Limo",
       "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
+    },
+    {
+      "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
     },
     {
       "album": {
@@ -3318,7 +3412,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
@@ -3614,6 +3708,24 @@
       "duration_ms": 179066,
       "name": "Me Olvid\u00e9 De Los 2",
       "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "album": {
+        "name": "mejor as\u00ed",
+        "url": "https://open.spotify.com/album/1TpCN1cJgbvIeEpUglAjP4"
+      },
+      "artists": [
+        {
+          "name": "Mila La Morena",
+          "url": "https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "mejor as\u00ed",
+      "url": "https://open.spotify.com/track/6hFJKEpYA77dLEdFDfnRqR"
     },
     {
       "album": {
@@ -6196,7 +6308,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
@@ -6356,7 +6468,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173583,
       "name": "Un Cuento Sin Sirenas",
       "url": "https://open.spotify.com/track/6ehtxk6vheXDMyefxqX7DO"
@@ -6628,7 +6740,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 11928,
+  "2024-03-02": 11945,
   "date_first_scraped": "2022-10-01",
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc?si=m9MepRc9QESFALaz_kQjog\"> Big Yasa</a> ",
   "name": "254 Flow",
@@ -33,6 +33,28 @@
       "duration_ms": 104571,
       "name": "2 Step Gliding",
       "url": "https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h"
+    },
+    {
+      "album": {
+        "name": "22 jump st.",
+        "url": "https://open.spotify.com/album/5XfWQYi5gBU7L62hFeNDWy"
+      },
+      "artists": [
+        {
+          "name": "KiliHippie",
+          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
+        },
+        {
+          "name": "The Swamiii",
+          "url": "https://open.spotify.com/artist/41s5UgViwfxoeKBxuJjtVh"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156620,
+      "name": "22 jump st.",
+      "url": "https://open.spotify.com/track/1a7k5VXO6Uf30yJmReB0EY"
     },
     {
       "album": {
@@ -1982,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "Majirani",
+        "url": "https://open.spotify.com/album/5YrYtHlQpj4nDPLB2MNTE9"
+      },
+      "artists": [
+        {
+          "name": "Groovy Jo",
+          "url": "https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151091,
+      "name": "Majirani",
+      "url": "https://open.spotify.com/track/4N6oK5NkAG4em9uPUffiWr"
+    },
+    {
+      "album": {
         "name": "Make Amends",
         "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
       },
@@ -2205,7 +2245,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 270759,
       "name": "MONEYLONG MALONG",
       "url": "https://open.spotify.com/track/00y0lRuyrmT1oblzpF7L4r"
@@ -3593,7 +3633,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 170769,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/3DgYLpiHk6MYE8PET6VlJB"

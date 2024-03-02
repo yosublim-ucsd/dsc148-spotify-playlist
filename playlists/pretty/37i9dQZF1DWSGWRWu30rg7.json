@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Maisha Kanna",
-  "num_followers": 63349,
+  "num_followers": 63373,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmM2OGFmNGM2NjNkMmJkOThmNjVkYTFhODE2YTliMmZiMmVjMzU5",
+  "snapshot_id": "MCwyZjUzODU5NzVhNTI5ODI3ZjBmN2UwZGVmMzgwNWUwMzgyYjRkMDJh",
   "tracks": [
     {
       "added_at": "2024-02-29 17:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 170242,
       "name": "Grey Old Love",
       "url": "https://open.spotify.com/track/0kO117vQapVSPRHhU0wFFF"
+    },
+    {
+      "added_at": "2024-03-01 06:13:08",
+      "album": {
+        "name": "Satu Tangan Lagi",
+        "url": "https://open.spotify.com/album/5XWAHhmaGGKP4DSXBdyicJ"
+      },
+      "artists": [
+        {
+          "name": "Joko Sinyo",
+          "url": "https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1"
+        }
+      ],
+      "duration_ms": 217601,
+      "name": "Satu Tangan Lagi",
+      "url": "https://open.spotify.com/track/67vdiH5roe0kAL6z7nBqo0"
     },
     {
       "added_at": "2024-02-29 17:00:00",
@@ -223,6 +239,22 @@
       "duration_ms": 231040,
       "name": "Selama Ini feat. Veronica Stayer",
       "url": "https://open.spotify.com/track/32AhK5ugjrCAFT7fCvf2DQ"
+    },
+    {
+      "added_at": "2024-03-01 07:22:26",
+      "album": {
+        "name": "Rock N' Rolla",
+        "url": "https://open.spotify.com/album/79WYxe1LDATJqRlDeofr9v"
+      },
+      "artists": [
+        {
+          "name": "Burgundy",
+          "url": "https://open.spotify.com/artist/33YZb6W25FDb2kn5mKDrvl"
+        }
+      ],
+      "duration_ms": 277864,
+      "name": "Rock N' Rolla",
+      "url": "https://open.spotify.com/track/6D1yuW0CCKPR1IshvwM8qw"
     },
     {
       "added_at": "2024-02-29 17:00:00",

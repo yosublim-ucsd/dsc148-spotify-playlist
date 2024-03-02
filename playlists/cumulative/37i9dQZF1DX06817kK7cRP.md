@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-163 songs - 7 hr 24 min
+164 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Air Castles](https://open.spotify.com/track/35UFkxj74k0NpzuLfnUYIE) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 2:05 | 2023-01-12 |  |
 | [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 | 2023-01-12 | 2023-04-28 |
 | [Amber](https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9), [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:15 | 2023-01-12 |  |
-| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 |  |
+| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 | 2024-03-02 |
 | [Around Me](https://open.spotify.com/track/3i4AOqloOwc33r7pwJGLXh) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 4:34 | 2023-01-13 |  |
 | [As We Are](https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 5:20 | 2023-01-17 |  |
 | [Battery](https://open.spotify.com/track/2R1q865i7OzATBbZCoX1YI) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Battery](https://open.spotify.com/album/44cfwIRSZvnFCkhDRDpzVk) | 2:26 | 2023-11-26 |  |
@@ -56,6 +56,7 @@
 | [get up and go](https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [get up and go](https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM) | 2:27 | 2023-01-12 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 |  |
+| [Golden Hour](https://open.spotify.com/track/2NpovkabnwBkEDtxCEqtqB) | [Adam Space](https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU) | [Golden Hour](https://open.spotify.com/album/3GcGWY5hQALNHm9qKNzsb9) | 2:16 | 2024-02-21 |  |
 | [Gomorra](https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Gomorra](https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT) | 2:47 | 2023-12-22 |  |
 | [Good feeling](https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:15 | 2023-06-20 |  |
 | [Hard Work](https://open.spotify.com/track/7Evl21t46qtbJ9wpYeJ7I3) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Hard Work](https://open.spotify.com/album/1hwYLeyaEykEvPT5xM9FYq) | 2:40 | 2023-11-26 |  |

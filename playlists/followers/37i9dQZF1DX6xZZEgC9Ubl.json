@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1581310,
+  "2024-03-02": 1581490,
   "date_first_scraped": "2020-12-13",
   "description": "Emo feels for the misunderstood. Cover: The Kid LAROI",
   "name": "tear drop",
@@ -17548,6 +17548,24 @@
     },
     {
       "album": {
+        "name": "World a Fuck",
+        "url": "https://open.spotify.com/album/0F0cImXPor0LIeUOPHP66t"
+      },
+      "artists": [
+        {
+          "name": "sweetiele",
+          "url": "https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "World a Fuck",
+      "url": "https://open.spotify.com/track/2dXB7f4cfJNvDZUQg7uS6S"
+    },
+    {
+      "album": {
         "name": "Laughing Through the Pain",
         "url": "https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f"
       },
@@ -17595,7 +17613,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 180062,
       "name": "Worlds a Fuck",
       "url": "https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV"

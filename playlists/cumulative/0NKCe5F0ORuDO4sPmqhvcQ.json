@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Another Night (with Fi Sullivan)",
+        "url": "https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "Another Night (with Fi Sullivan)",
+      "url": "https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD"
+    },
+    {
+      "album": {
         "name": "3034",
         "url": "https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Sharon Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,629 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,660 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 51 | [The Originator](https://open.spotify.com/track/3259X7jpUYfMe8ipPgkVuy) | [Dj Spinna](https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2) | [Here to There](https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy) | 5:07 |
 | 52 | [Gotta Get Funky](https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 3:35 |
 | 53 | [A Little Sloppy](https://open.spotify.com/track/3K1jlSxYVV3FH7j7dlUYnI) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [PJ's...From Afar](https://open.spotify.com/album/25psi5Fb7tRPeRkhd0eWk1) | 0:30 |
-| 54 | [Change \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/4YDUhnBvnXD0mUiT3kwokq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Born & Raised](https://open.spotify.com/album/76yDcqJXH1uUtYwZ61VJNY) | 4:15 |
+| 54 | [Change \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/1mjwdGBuPfDZzUmTRkYTNn) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Born & Raised](https://open.spotify.com/album/2hZXLdGwtnD86glCy20AOr) | 4:15 |
 | 55 | [Keb's Bucket](https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 3:30 |
 | 56 | [Working Woman](https://open.spotify.com/track/3hRm4LOGGQjLbG4wOnm2jn) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:07 |
 | 57 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 69 | [MRG](https://open.spotify.com/track/6sh7wSqZL1xDKWvo20qcYl) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Ten Years On](https://open.spotify.com/album/5Ippa7TZRnICT1d1Eewp3d) | 4:17 |
 | 70 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 |
 
-Snapshot ID: `MCw2YmRjNjg0MjMxYWE0ZDNkNjIzNDcxYWY2ODYwNzlmZjZmZGZiZGNi`
+Snapshot ID: `MCw1MmI0NDQ1NWE5MmI4YjMxMTZiMDQ4MmNjZTUzMTYzZDhhYjMzMTdi`

@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 35 min
+55 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Meio Pá](https://open.spotify.com/track/7JPDUl1uDFB4PM4IGxyKJU) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU), [Scotz](https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios](https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM) | 2:59 | 2023-12-30 |  |
 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 | 2023-12-30 |  |
 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 | 2023-12-30 |  |
+| [P\# do Caster](https://open.spotify.com/track/7jtmSFz55svHq6dBVle1wf) | [YgRick](https://open.spotify.com/artist/1OfI8AO20T9uF6I1eKVyqr), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [P\# do Caster](https://open.spotify.com/album/38oFdOTv1WRmtqdcyxGQpZ) | 2:58 | 2024-03-01 |  |
 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 | 2023-12-30 |  |
 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 | 2023-12-30 |  |
 | [Pretinha Treinada](https://open.spotify.com/track/6JF2dUqE5ssSbkXewy69kB) | [Aln MC](https://open.spotify.com/artist/2UKjPOnAv85Gn1A7iQ1xiU), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pretinha Treinada](https://open.spotify.com/album/3PvHopu3x889KYKNoIp51p) | 2:18 | 2023-12-30 |  |

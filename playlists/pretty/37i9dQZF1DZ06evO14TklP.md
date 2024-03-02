@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,122 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,135 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 43 | [Real \#1](https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA) | [Real \#1](https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L) | 2:44 |
 | 44 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 
-Snapshot ID: `Mjg0ODY4NjgsMDAwMDAwMDAzN2I3MjM3NWU5NDM3MDllMjM1N2MyMjg3YTYzNTI4OQ==`
+Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDBkNzNkN2UzMzUyMTcwMzg3YzM0NmQwNjkwZjVkNWM0ZQ==`

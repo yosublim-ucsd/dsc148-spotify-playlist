@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Paul Russell",
+  "description": "Pop music driving the current, every week.  Cover: Tori Kelly",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198514,
       "name": "Airplane Tickets",
       "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
@@ -144,6 +144,24 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172966,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
     },
     {
       "album": {
@@ -652,7 +670,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163298,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS"
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 96000,
       "name": "do it all",
       "url": "https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC"
@@ -1142,6 +1160,24 @@
       "duration_ms": 96000,
       "name": "do it all",
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me",
+        "url": "https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn"
     },
     {
       "album": {
@@ -1625,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/2i0uhqxWdFNkl8LPMloAA7"
+      },
+      "artists": [
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207841,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/6eU9MSWlofSrJqQx2Jh3i0"
+    },
+    {
+      "album": {
         "name": "Finally (Cannot Hide It)",
         "url": "https://open.spotify.com/album/4W1lA9h8HeDNOLdDxupSHl"
       },
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -3099,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Mind & Body",
+        "url": "https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY"
+      },
+      "artists": [
+        {
+          "name": "Tol\u00fc Makay",
+          "url": "https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176849,
+      "name": "Mind & Body",
+      "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -3680,7 +3752,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -4429,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
       },
@@ -5138,7 +5228,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 144003,
       "name": "Trashboi",
       "url": "https://open.spotify.com/track/1Z6paKXkwnkJkvUZZJoZl8"
@@ -5778,6 +5868,24 @@
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "album": {
+        "name": "yeaaa",
+        "url": "https://open.spotify.com/album/1Qgi155gfjdPrtV7xaauqB"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "yeaaa",
+      "url": "https://open.spotify.com/track/7LRCka2KbO2TylPOYdhASf"
     },
     {
       "album": {

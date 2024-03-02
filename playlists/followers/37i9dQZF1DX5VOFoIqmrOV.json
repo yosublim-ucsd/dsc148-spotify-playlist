@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 326195,
+  "2024-03-02": 326384,
   "date_first_scraped": "2022-05-30",
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Hi Nanna",
   "name": "Tollywood Pearls",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 282222,
       "name": "Aradhya",
       "url": "https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi (From \"Dasara\")",
       "url": "https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa"
@@ -3159,7 +3159,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 312374,
       "name": "Nee Kannu Neeli Samudram",
       "url": "https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI"
@@ -3349,6 +3349,36 @@
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
+    },
+    {
+      "album": {
+        "name": "Oh Na Madhu (From \"Month of Madhu\")",
+        "url": "https://open.spotify.com/album/0cgtH2iPd6EIRrH4952eHj"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Srikanth Nagothi",
+          "url": "https://open.spotify.com/artist/55ANhricDJkaIg0AzcWrZq"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224554,
+      "name": "Oh Na Madhu (From \"Month Of Madhu\")",
+      "url": "https://open.spotify.com/track/1Bw2vPShbMpG1icqIfsKlW"
     },
     {
       "album": {

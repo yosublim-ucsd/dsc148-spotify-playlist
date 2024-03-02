@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-65 songs - 4 hr 10 min
+66 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Entre nous](https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Entre Nous](https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX) | 3:21 | 2023-03-06 |  |
 | [Et c'est parti..\. \(feat\. Smartzee\)](https://open.spotify.com/track/1zwJikF2MYUwqcVnqtGxVj) | [Nâdiya](https://open.spotify.com/artist/51Ynjynt1xi7KBXCXHNdyN), [Smartzee](https://open.spotify.com/artist/5WFBTlaQisdYnCZyezTrII) | [16/9](https://open.spotify.com/album/53CZGpxCw6x0Ug2CYBAp4n) | 3:50 | 2023-03-06 |  |
 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 | 2023-03-06 |  |
-| [Face à la mer](https://open.spotify.com/track/1FNGLwdi2avksFJKIkTnok) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [CALO POP ROCK](https://open.spotify.com/album/3U8HRejtP8V3pqwVCHeGFP) | 3:39 | 2023-03-06 |  |
+| [Face à la mer](https://open.spotify.com/track/1FNGLwdi2avksFJKIkTnok) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [CALO POP ROCK](https://open.spotify.com/album/3U8HRejtP8V3pqwVCHeGFP) | 3:39 | 2023-03-06 | 2024-03-02 |
+| [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 | 2024-01-31 |  |
 | [Femme Like U](https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [La Good Life](https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ) | 4:08 | 2023-03-06 |  |
 | [Garçon](https://open.spotify.com/track/18wOD0PpwKHf8KuvtM5sx7) | [Koxie](https://open.spotify.com/artist/54eDBxDgfcmO6jqlKg0XLb) | [Koxie](https://open.spotify.com/album/5aGNnDoH6dvXVTlhvKSbLJ) | 3:35 | 2024-01-31 |  |
 | [Il avait les mots](https://open.spotify.com/track/1ulV7wgYNWhulcnMrgwOuG) | [Sheryfa Luna](https://open.spotify.com/artist/5BPQfQJaq5Hx0636gwk4uA) | [Sheryfa Luna](https://open.spotify.com/album/0I1iezuwcQDATLumFtVjpX) | 3:47 | 2023-03-06 |  |

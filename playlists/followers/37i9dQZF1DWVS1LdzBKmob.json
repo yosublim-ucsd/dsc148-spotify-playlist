@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 130174,
+  "2024-03-02": 130345,
   "date_first_scraped": "2022-02-17",
   "description": "Crystal singing bowls, frequencies and gongs to lift you up and transcend. ",
   "name": "Sound Bath",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173893,
       "name": "Accepting Fate (Sound Bath)",
       "url": "https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 221142,
       "name": "Ahimsa",
       "url": "https://open.spotify.com/track/3SLS0ollgEPF6LXH9E7gYk"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 294226,
       "name": "Amniotic Voyage",
       "url": "https://open.spotify.com/track/471Gkhb07TPZKRvvbf0xF0"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190263,
       "name": "De-Stress",
       "url": "https://open.spotify.com/track/3nWTvFcoxXeIOK3u3FONDq"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 249120,
       "name": "Deep Wood Gong",
       "url": "https://open.spotify.com/track/7MrfjHEkZ18jovUQbnkl5o"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175034,
       "name": "Emotional Work",
       "url": "https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH"
@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177416,
+      "name": "Forest Meditation",
+      "url": "https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId"
+    },
+    {
+      "album": {
         "name": "Wave Baths",
         "url": "https://open.spotify.com/album/7vW564n7hOhyiwKuevOrU8"
       },
@@ -803,7 +821,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 327026,
       "name": "Gong Bath",
       "url": "https://open.spotify.com/track/1KtfudvuPrxLde8ROI7zBS"
@@ -936,6 +954,24 @@
     },
     {
       "album": {
+        "name": "Heart Totem",
+        "url": "https://open.spotify.com/album/5pW07wEboeqVRb0jtMVqee"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "Heart Totem - Sound Bath",
+      "url": "https://open.spotify.com/track/7FyWhcfDpPniGZ4v2hLrUF"
+    },
+    {
+      "album": {
         "name": "Himalayan healing",
         "url": "https://open.spotify.com/album/3MD7k7FpUqVcvqGOOO96jW"
       },
@@ -965,7 +1001,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 183538,
       "name": "Himalayan Healing",
       "url": "https://open.spotify.com/track/5VmzqruF6oSepIWbQ2kgRG"
@@ -1001,7 +1037,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 101000,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/3wuoCQppaGQvL0EbHGhb0I"
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 251997,
       "name": "Lono",
       "url": "https://open.spotify.com/track/4hBngGXxfCEWInIcaOHk4Z"
@@ -1289,7 +1325,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 174335,
       "name": "Peaceful Escape",
       "url": "https://open.spotify.com/track/2k62YuxP6pG6cLoCfMdbFP"
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 192511,
       "name": "Peaceful Sound Bath",
       "url": "https://open.spotify.com/track/1XOoK8b08hYrAU0vMcnQIS"
@@ -1379,7 +1415,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190634,
       "name": "Present Thoughts",
       "url": "https://open.spotify.com/track/72N5ExTFna6rUswSu21fxo"
@@ -1415,7 +1451,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 129500,
       "name": "Quiet Mind",
       "url": "https://open.spotify.com/track/3USCLwxLGH2K4RF38kM45T"
@@ -1523,7 +1559,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 302453,
       "name": "Root Chakra - Singing Bowl Only",
       "url": "https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K"
@@ -1613,7 +1649,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190687,
       "name": "Soil",
       "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
@@ -1667,7 +1703,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 250000,
       "name": "Soul in Harmony",
       "url": "https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go"
@@ -1703,7 +1739,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 242000,
       "name": "Sound Bath with Gong",
       "url": "https://open.spotify.com/track/48Qgj3Paj34o0nKiULGcl5"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 407360,
       "name": "The Blissful Garden",
       "url": "https://open.spotify.com/track/7tTt8An7vnme55KRP7fdAv"
@@ -1829,7 +1865,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 370106,
       "name": "The Righteous Deities",
       "url": "https://open.spotify.com/track/5dL7gtvT3OkKjW8XDR4jgq"
@@ -1901,7 +1937,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157573,
       "name": "Tibetan Bowl Meditation",
       "url": "https://open.spotify.com/track/2Vh8dAhsAWDjX651xHGKwt"
@@ -1937,7 +1973,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 367880,
       "name": "Tibetan Bowls Sound Massage (Massaggio Sonoro Con Campane Tibetane)",
       "url": "https://open.spotify.com/track/1uxMFlCjZLLfQcwQRTu3qk"
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 133120,
       "name": "Walking Earth Gong",
       "url": "https://open.spotify.com/track/7tZuNzE2ye0HCbILkCkH2f"
@@ -2085,6 +2121,24 @@
       "duration_ms": 150726,
       "name": "Wind Bells",
       "url": "https://open.spotify.com/track/3Lx4cRZKOYD7o0BbDWJ8WS"
+    },
+    {
+      "album": {
+        "name": "Vi\u1e63\u1e47u",
+        "url": "https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196336,
+      "name": "\u0100ry\u0101\u1e63\u1e6d\u0101\u1e45gam\u0101rga (The Noble Eightfold Path)",
+      "url": "https://open.spotify.com/track/1q4Fpfl0YYEjhCL2YZrR2c"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVS1LdzBKmob"

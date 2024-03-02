@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Tiera Kennedy
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Jenna Davis
 
-318 songs - 16 hr 49 min
+319 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Take Me Home](https://open.spotify.com/track/6pZ989rZpUdbJaIa7zGMnl) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Take Me Home](https://open.spotify.com/album/5EENz2lpRG7vQChSZR7RIn) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 | 2021-12-31 |  |
 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 | 2022-07-01 |  |
+| [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 | 2024-03-01 |  |
 | [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 | 2023-08-01 | 2023-11-04 |
 | [Tennessee’s Waiting](https://open.spotify.com/track/7IvzjFp53lsHrQzTiBsATg) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Tennessee's Waiting](https://open.spotify.com/album/7M5V96Xw8tnHAFwdjAkPWb) | 3:09 | 2023-10-27 |  |
 | [Thank You Card](https://open.spotify.com/track/363sJuHog5UqucY0D15ggq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card](https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36) | 3:10 | 2022-02-25 |  |

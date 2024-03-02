@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-90 songs - 5 hr 55 min
+91 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio](https://open.spotify.com/track/3OqFVW82OYx3AvC2hO4Orz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Brahms: 4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \(Musical Moments\)](https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze) | 4:05 | 2022-09-09 |  |
 | [48 Esquisses, Op\. 63, Book 1: No\. 1, La vision](https://open.spotify.com/track/6EAnGnN45nHXMlVWMogf5f) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Steven Osborne](https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK) | [Alkan: Esquisses \(49 Sketches\), Op\. 63](https://open.spotify.com/album/58JynSBYoLbdjknAkaE1Ty) | 2:55 | 2023-08-04 |  |
 | [5 Lieder, Op\. 49: No\. 4, Wiegenlied \(Arr\. Reger for Piano\)](https://open.spotify.com/track/2tCVMrhDkCgaEBQtNjOvis) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Rudolf Buchbinder](https://open.spotify.com/artist/7bdwlNOPsycFColkPRlNxY) | [Brahms: 5 Lieder, Op\. 49: No\. 4, Wiegenlied \(Arr\. Reger for Piano\)](https://open.spotify.com/album/4ghXeTnAvUxJfkUHMiTEn8) | 1:30 | 2024-02-08 |  |
+| [5 Piano Pieces Op\. 3, TrV 105: No\. 1, Andante](https://open.spotify.com/track/1udE8BlEoI3vEiM5HnOAMt) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Guillaume Bellom](https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK) | [Strauss: 5 Piano Pieces Op\. 3, TrV 105: No\. 1, Andante](https://open.spotify.com/album/0F1u2TnD7187KGZYuWwNe1) | 4:51 | 2024-03-01 |  |
 | [6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op\. 122/10](https://open.spotify.com/track/0Ck1w9drSHl9NrWV9diIXv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Encounter](https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a) | 3:01 | 2021-12-06 |  |
 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2021-12-06 |  |
 | [6 Piano Pieces, Op\. 118: No\. 2 in A Major\. Intermezzo](https://open.spotify.com/track/4neOAoU5m6utkn78C6uLcC) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 6 Piano Pieces, Op\. 118: No\. 2 in A Major\. Intermezzo](https://open.spotify.com/album/2tFBCHZlWUwvlhR1BuAeZy) | 6:35 | 2023-11-24 |  |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Salma Salsabil
 
-194 songs - 11 hr 36 min
+195 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [GOODLUCK](https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 4:38 | 2024-01-18 |  |
 | [goodnight kiss \(in December\)](https://open.spotify.com/track/7JZALv6y1RztMTmD0nh30G) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [goodnight kiss \(in December\)](https://open.spotify.com/album/0d4HdBRpuUchAPFk7EADbw) | 3:10 | 2024-01-18 | 2024-01-26 |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-01-25 |  |
+| [Hancur Lebih Dulu](https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Hancur Lebih Dulu](https://open.spotify.com/album/6QGFq4nA7VJV2DRiyxBi7l) | 4:32 | 2024-02-29 |  |
 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2024-01-18 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-25 | 2024-03-01 |
 | [Hidup Bukan Sekedar Bernafas](https://open.spotify.com/track/48OKojXgd3xuDCiMzIWBwp) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [2324](https://open.spotify.com/album/58fyDVIXpIX8zMbNAh94xb) | 5:43 | 2024-01-18 | 2024-03-01 |

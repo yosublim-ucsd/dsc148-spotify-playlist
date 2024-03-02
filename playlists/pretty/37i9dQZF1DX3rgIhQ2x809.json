@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70556,
+  "num_followers": 70561,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3",
+  "snapshot_id": "MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Orgullo",
-        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
-      },
-      "artists": [
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 223389,
-      "name": "Orgullo",
-      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 223389,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 177142,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Traficando",
-        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
-      },
-      "artists": [
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 267633,
-      "name": "Traficando",
-      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Las Criaturas: El Regreso",
         "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 231827,
       "name": "La Bebecita",
       "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Traficando",
+        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 267633,
+      "name": "Traficando",
+      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
     },
     {
       "added_at": "2023-06-09 02:27:24",

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 89882,
+  "2024-03-02": 89928,
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Filah Lah Lah ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Prettyboy D-O",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -811,10 +811,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
+    },
+    {
+      "album": {
+        "name": "Just The Tip",
+        "url": "https://open.spotify.com/album/6mdC7HDGvv4vzadVR69pTq"
+      },
+      "artists": [
+        {
+          "name": "T Peller",
+          "url": "https://open.spotify.com/artist/0atiAFHavgyaKAhm9eaFLO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141992,
+      "name": "Answer Me",
+      "url": "https://open.spotify.com/track/77h8ylsHRqWAMkL3OWPHtA"
     },
     {
       "album": {
@@ -855,7 +873,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 280888,
       "name": "ARE YOU ALRiGHT?",
       "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173535,
       "name": "Bad B",
       "url": "https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 165454,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve"
@@ -1742,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Bread Winner",
+        "url": "https://open.spotify.com/album/7xPgg5ieQp2aPKB9ni8ydK"
+      },
+      "artists": [
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81312,
+      "name": "Bread Winner",
+      "url": "https://open.spotify.com/track/08ISZaxHn8unkxvESVsGeI"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3NZ6PcH6TPgZRBZJjLzwE5"
       },
@@ -1961,6 +1997,24 @@
       "duration_ms": 188860,
       "name": "Butter",
       "url": "https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6Wkf2TL4mufO0wLrfqsfzF"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179376,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/19otAriajhp52Uo23vCRJ9"
     },
     {
       "album": {
@@ -3279,7 +3333,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda)",
       "url": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
@@ -3787,6 +3841,32 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "album": {
+        "name": "Live More, Worry Less (Ultra)",
+        "url": "https://open.spotify.com/album/2O0EpeT29gxalH7Ebp4Gqx"
+      },
+      "artists": [
+        {
+          "name": "psiv",
+          "url": "https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls"
+        },
+        {
+          "name": "Konye",
+          "url": "https://open.spotify.com/artist/3fqAjOL9Hx6y7aS8wV6PFw"
+        },
+        {
+          "name": "E.V.E",
+          "url": "https://open.spotify.com/artist/3K7e1HunADXr4sEFVYNltv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "FLOSSIN'",
+      "url": "https://open.spotify.com/track/5xFF8GIUzTtXWQF0CRRWbN"
     },
     {
       "album": {
@@ -5481,7 +5561,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191100,
       "name": "Jara (feat. Fasina) - Remix",
       "url": "https://open.spotify.com/track/61cF3IiwGGcmjeW540E8OW"
@@ -6767,7 +6847,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
@@ -7074,6 +7154,28 @@
     },
     {
       "album": {
+        "name": "Na Die",
+        "url": "https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5"
+      },
+      "artists": [
+        {
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147669,
+      "name": "Na Die",
+      "url": "https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ"
+    },
+    {
+      "album": {
         "name": "Nasa",
         "url": "https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM"
       },
@@ -7133,7 +7235,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207157,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1LuBz3QaRPSXBdIwtcjdqY"
@@ -7589,6 +7691,24 @@
       "duration_ms": 155615,
       "name": "N\u00fc Bag - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0rFACC9sDTrlfejypranhN"
+    },
+    {
+      "album": {
+        "name": "Ready Made",
+        "url": "https://open.spotify.com/album/0uQaO5baQw38r3WyJvZy41"
+      },
+      "artists": [
+        {
+          "name": "Blaqdee",
+          "url": "https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166034,
+      "name": "Obodo",
+      "url": "https://open.spotify.com/track/3mksOv27zWiX5B7hVBkBMf"
     },
     {
       "album": {
@@ -8601,7 +8721,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191020,
       "name": "Reckless (feat. AYL\u00d8)",
       "url": "https://open.spotify.com/track/66Edhig6kHzI7LoyWxS5qy"
@@ -9205,6 +9325,24 @@
       "duration_ms": 217615,
       "name": "Sexy Sexy",
       "url": "https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF"
+    },
+    {
+      "album": {
+        "name": "Sharp Shooter",
+        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150079,
+      "name": "SHARP SHOOTER",
+      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
     },
     {
       "album": {
@@ -10509,7 +10647,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182644,
       "name": "Theysaid.",
       "url": "https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD"
@@ -10571,7 +10709,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 210000,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"
@@ -11697,7 +11835,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157714,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml"

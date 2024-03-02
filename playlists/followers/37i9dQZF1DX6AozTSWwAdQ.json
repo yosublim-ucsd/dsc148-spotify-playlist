@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 60364,
+  "2024-03-02": 60383,
   "date_first_scraped": "2022-06-09",
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
   "name": "\u5fc3\u60c5\u5927\u632f",
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
@@ -4613,7 +4613,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -4737,7 +4737,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
@@ -4831,6 +4831,28 @@
       "duration_ms": 211906,
       "name": "Radioactive Rain",
       "url": "https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo"
+    },
+    {
+      "album": {
+        "name": "Liam Gallagher & John Squire",
+        "url": "https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Raise Your Hands",
+      "url": "https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp"
     },
     {
       "album": {

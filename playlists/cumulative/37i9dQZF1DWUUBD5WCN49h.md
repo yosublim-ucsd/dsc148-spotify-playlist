@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Chayuta
 
-772 songs - 1 day 13 hr 39 min
+773 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Driveway](https://open.spotify.com/track/77DDRs2PjiO0kqLVKWwf3e) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Love Bite](https://open.spotify.com/album/1RqLYeeFqgDQh2X3rTfaba) | 3:16 | 2023-10-04 | 2023-10-27 |
 | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D) | [Khalifina](https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l) | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS) | 1:28 | 2022-10-21 | 2022-11-04 |
 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 | 2023-04-27 | 2023-09-15 |
+| [Dynamite](https://open.spotify.com/track/4HHMYC5atoi0ZRQfmkxuLB) | [Sherizz](https://open.spotify.com/artist/2f3cw59N6NrXxJIEwiCgDt) | [Dynamite](https://open.spotify.com/album/1XpuyYKixpvqeENPZL0MyA) | 2:36 | 2024-03-01 |  |
 | [Easy](https://open.spotify.com/track/1tf6kydlVfP17D2J3QWqS0) | [Fonye](https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [Easy](https://open.spotify.com/album/2PpyHqgNR1h3eQrazaHx7W) | 3:40 | 2024-02-09 | 2024-03-01 |
 | [easy \(feat\. Afua\)](https://open.spotify.com/track/1zX7otE7kMi929DVLEyJ73) | [RMHA](https://open.spotify.com/artist/4NGk52qqUT4Q4QnwCBSnD4), [Afua](https://open.spotify.com/artist/2Rq1eSq5vXjTrHSu2HKIrB) | [easy \(feat\. Afua\)](https://open.spotify.com/album/1YgFFaVyZUxP7uMcVZMECP) | 4:17 | 2023-12-22 |  |
 | [Echo](https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Echo](https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1) | 3:04 | 2023-06-02 | 2023-12-08 |

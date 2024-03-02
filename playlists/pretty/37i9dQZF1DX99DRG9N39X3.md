@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 
 > These songs rocked the 10s\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,683 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,904 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 86 | [Here We Go](https://open.spotify.com/track/6jngGXpDL4VDaPUTAZebJf) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:42 |
 | 87 | [Bones](https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Bones](https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy) | 3:13 |
 | 88 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
-| 89 | [Covered In Chrome](https://open.spotify.com/track/56ElZaTQde4TbRLZ7gn1vw) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5TOhNGKg7g4jiVcWYvI7JQ) | 3:32 |
+| 89 | [Covered In Chrome](https://open.spotify.com/track/79y39naVOPTUt8clHsdjBp) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/4rG7HDnsSOhvKHjqa8V3BR) | 3:32 |
 | 90 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 |
 | 91 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
 | 92 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99DRG9N39X3.md) - [plain]
 | 99 | [Live to Rise](https://open.spotify.com/track/0zjTLZdBM5jHXsqP3uJ8sq) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Echo Of Miles: Scattered Tracks Across The Path](https://open.spotify.com/album/0Cpmgfv2YLtBN368ZbBxGY) | 4:40 |
 | 100 | [Sirens](https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 5:40 |
 
-Snapshot ID: `MCxlNWFlNmE2ZDZlMDZmNDVmMjUyZGMwNjBiMWVkMmEzNDM4MTE2ZjAy`
+Snapshot ID: `MCwxOTgxMmVjOWEyMTkyOTI0YTk4ZWZkNTcxODA3YTU2ZGRhZTRiOWQ2`

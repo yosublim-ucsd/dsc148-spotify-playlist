@@ -1653,6 +1653,28 @@
     },
     {
       "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/1EYk3E8HDqF2vn6AviJW7k"
+      },
+      "artists": [
+        {
+          "name": "The Sistars",
+          "url": "https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa"
+        },
+        {
+          "name": "Brenda Asnicar",
+          "url": "https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181914,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2qip7HSHkrMyCvRrnYZUAE"
+    },
+    {
+      "album": {
         "name": "Floricienta",
         "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
       },
@@ -5172,7 +5194,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"

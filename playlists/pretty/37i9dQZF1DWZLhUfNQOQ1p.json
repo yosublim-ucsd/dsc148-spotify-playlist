@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246815,
+  "num_followers": 246823,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTMwZmE0N2M5ODZkNTNmNDNjZGM2MWM5MzU0ODI0NWY0YjhiMDcy",
+  "snapshot_id": "MCxhNDllYjZhNjg4YmE5YzRiOWEwOTM2OTYxYmRlYjhmOWE2YzI2YjRm",
   "tracks": [
     {
       "added_at": "2024-02-28 10:28:34",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Time for a Change",
-        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 270405,
-      "name": "Instant Need",
-      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 270405,
+      "name": "Instant Need",
+      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
         "name": "Need a Hit",
         "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "JOY (Head To The Sky)",
-        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+        "name": "Supply The Love",
+        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
         }
       ],
-      "duration_ms": 230650,
-      "name": "JOY (Head To The Sky)",
-      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+      "duration_ms": 155821,
+      "name": "Supply The Love",
+      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Supply The Love",
-        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
       "artists": [
         {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
         }
       ],
-      "duration_ms": 155821,
-      "name": "Supply The Love",
-      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1599,22 +1615,6 @@
       "duration_ms": 322014,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
     },
     {
       "added_at": "2024-02-28 10:28:34",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-02-28 10:28:34",
       "album": {
-        "name": "Needledrop",
-        "url": "https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 167055,
-      "name": "Bad Weather Mates",
-      "url": "https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs"
-    },
-    {
-      "added_at": "2024-02-28 10:28:34",
-      "album": {
         "name": "MIRRORS (REMIXED)",
         "url": "https://open.spotify.com/album/3vd7dqateXRTskHSU2CT0v"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 289411,
       "name": "Someday - salute Remix",
       "url": "https://open.spotify.com/track/0cVdMdtrHdCuHQBWjzvQed"
+    },
+    {
+      "added_at": "2024-02-28 10:28:34",
+      "album": {
+        "name": "Needledrop",
+        "url": "https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 167055,
+      "name": "Bad Weather Mates",
+      "url": "https://open.spotify.com/track/23cRw4Pyt2rJQznlFEnPGs"
     },
     {
       "added_at": "2024-02-28 10:28:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,121 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,153 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 3 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
 | 4 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
 | 5 | [Prada \(feat\. D\-Block Europe & Ronnie Pacitti\) \- Ronnie Pacitti Remix](https://open.spotify.com/track/3MxwMM6A3Itnuokz1sNxRo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [Prada \(feat\. D\-Block Europe\) \[Ronnie Pacitti Remix\]](https://open.spotify.com/album/6JoicOpp8g2RueDQ67TGkR) | 3:05 |
-| 6 | [Heart Still Beating \- Ian Asher Remix](https://open.spotify.com/track/2C0Upltkg2wT3HnkxT5XEB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Heart Still Beating \(Ian Asher Remix\)](https://open.spotify.com/album/4kyXCVgRPN3K3RC6lQdfWM) | 3:12 |
+| 6 | [Heart Still Beating \- Ian Asher Remix](https://open.spotify.com/track/5isODGcj54axIkZYi15l2x) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Heart Still Beating \(Ian Asher Remix\)](https://open.spotify.com/album/3zV6PreO3SzuhrVkyQO1qj) | 3:12 |
 | 7 | [On My Love \- Felix Jaehn Remix](https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [On My Love \(Felix Jaehn Remix\)](https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw) | 3:30 |
 | 8 | [Rush \- Tom Santa Remix](https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 2:23 |
 | 9 | [Bittersweet Goodbye \- Tiësto’s Hardcore Remix](https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Bittersweet Goodbye \(Tiësto’s Hardcore Remix\)](https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
 | 50 | [Memories \- Dillon Francis Remix](https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Memories \(Dillon Francis Remix\)](https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6) | 2:42 |
 
-Snapshot ID: `MCxiYmFlMWY2YWIyNTA5YzgzMWZjMDFhMTg0MzBmOGFjOWM5ZDYyMDI3`
+Snapshot ID: `MCwwZmU1MTUzMWM5OWEzMDU5MGU3ZTYxMGE0ZWY0YjRkYmQ3ZDE5N2Nk`

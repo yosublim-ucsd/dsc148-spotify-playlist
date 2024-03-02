@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945 likes - 31 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 31 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7srJwuLUWi.md) - [plain]
 | 24 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 | 25 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 |
 | 26 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG) | 3:17 |
-| 27 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 |
+| 27 | [remember \(with Chin, Uneducated Kid, Paul Blanco\) \- Remix](https://open.spotify.com/track/6hP2E6HU4ZlMFCflgFu3FX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [remember \(with Chin, Uneducated Kid, Paul Blanco\) \[Remix\]](https://open.spotify.com/album/5CH8EJvrAdC2DQgyySCNiU) | 3:43 |
 | 28 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 |
 | 29 | [StrOngerrr \(Feat\. Loco, MINO\)](https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 4:45 |
 | 30 | [K\-LAND](https://open.spotify.com/track/0NSVyvsN7Wwtu7YZ4sLVdn) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [K\-LAND](https://open.spotify.com/album/2O6DCzRdIxCr5oEu8DwAnE) | 3:19 |
 | 31 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 |
 
-Snapshot ID: `MCxiMGY1Y2RiOTI2NjdiMzgyMDgxNDFlOGU1Nzc4NjA2ZmQ2NTliMGEx`
+Snapshot ID: `MCw4NzgwMTNhNTIwZDk1NDQ3OWUwNDY5MGEwNDZkNzQyNmZiMTUzMjM5`

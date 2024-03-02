@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with UnityTX.",
+  "description": "n\u00fc-metal revival is happening here and now with Indigo Blaze & LATE 90s.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215273,
       "name": "Come Back Stronger",
       "url": "https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z"
@@ -448,6 +448,24 @@
       "duration_ms": 229636,
       "name": "Cycle Of Hurting",
       "url": "https://open.spotify.com/track/5YYICTJqdW3m32yaAYGN2d"
+    },
+    {
+      "album": {
+        "name": "Breaking Down (Deluxe)",
+        "url": "https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 294247,
       "name": "It All Comes Down",
       "url": "https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY"
@@ -1771,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "UNBOUND",
+        "url": "https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Blaze",
+          "url": "https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf"
+        },
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "UNBOUND",
+      "url": "https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9"
+    },
+    {
+      "album": {
         "name": "Unraveling",
         "url": "https://open.spotify.com/album/1QpkidAXuoW3JBeHlA8Vu0"
       },
@@ -1944,7 +1984,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192480,
       "name": "We Don't Miss",
       "url": "https://open.spotify.com/track/24w0yBt2JkLCF6BF9BtzJZ"
@@ -2060,6 +2100,28 @@
       "duration_ms": 159771,
       "name": "Would you be my therapy?",
       "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
+    },
+    {
+      "album": {
+        "name": "XOXO (feat. From Ashes to New)",
+        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173180,
+      "name": "XOXO (feat. From Ashes to New)",
+      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
     },
     {
       "album": {

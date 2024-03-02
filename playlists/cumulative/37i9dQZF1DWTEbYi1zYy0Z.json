@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Brisa Del Mar (Radio Edit)",
+        "url": "https://open.spotify.com/album/4HBgBRxqBUFKV3lT9eHPyK"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Jazz Alley",
+          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "Brisa Del Mar (Radio Edit)",
+      "url": "https://open.spotify.com/track/3Sc0gxmKAs6WoVtuGZqts6"
+    },
+    {
+      "album": {
         "name": "Brother to Brother",
         "url": "https://open.spotify.com/album/1dd1qS6eGynRg0gveEkPPv"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 248431,
       "name": "Champagne Sky",
       "url": "https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 248573,
       "name": "Detour",
       "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
@@ -2882,6 +2900,24 @@
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/5Dywi2jSnHLfrx8TO08RqW"
+      },
+      "artists": [
+        {
+          "name": "Ilya Serov",
+          "url": "https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258954,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0SqKAPOW90ZlQEkZUINTB7"
     },
     {
       "album": {
@@ -4724,6 +4760,28 @@
       "duration_ms": 222920,
       "name": "Moving Too Fast",
       "url": "https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG"
+    },
+    {
+      "album": {
+        "name": "My Heartbeat",
+        "url": "https://open.spotify.com/album/2u2rzgAlvbbtsWJjN08aZH"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        },
+        {
+          "name": "Kaleah Wooten",
+          "url": "https://open.spotify.com/artist/48B0j1uBLkXxYbjiaGeJwE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231270,
+      "name": "My Heartbeat",
+      "url": "https://open.spotify.com/track/2lbERBaaAjFNCFRKhgYCVS"
     },
     {
       "album": {

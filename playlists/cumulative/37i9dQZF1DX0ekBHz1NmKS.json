@@ -1416,6 +1416,28 @@
     {
       "album": {
         "name": "Beredd",
+        "url": "https://open.spotify.com/album/5wAjYTxf5Lg01lIjP592fW"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Beredd",
+      "url": "https://open.spotify.com/track/0dobads3voGDdxWkT2BrW8"
+    },
+    {
+      "album": {
+        "name": "Beredd",
         "url": "https://open.spotify.com/album/5kbWLTbn9bWugPRmd0yeK3"
       },
       "artists": [
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 233160,
       "name": "Drown out the noise",
       "url": "https://open.spotify.com/track/1BH975zc82rAvbJZrmkbgH"
@@ -11008,7 +11030,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 154155,
       "name": "Miles away",
       "url": "https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF"
@@ -11142,7 +11164,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187361,
       "name": "Miss You On My Own",
       "url": "https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP"
@@ -17728,7 +17750,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 219362,
       "name": "T\u00e4nd alla ljus f\u00f6r mig",
       "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"
@@ -19026,6 +19048,24 @@
       "duration_ms": 166000,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/2iz67sMAZL1YVuA39Okq1U"
+    },
+    {
+      "album": {
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "album": {

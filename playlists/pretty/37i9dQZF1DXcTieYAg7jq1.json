@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Emmy Meli",
-  "num_followers": 413736,
+  "num_followers": 413742,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI2MmQzY2ZlNGU5OTM4MGUwNjE5YTBmZjk2MzJlOTA4ZmQ3YzZh",
+  "snapshot_id": "MCxkYzBjYTNhY2ZkOGFiNzcxMWZkNDI5MmFkNmY4ZmJlZWFmZmI1ZDM3",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E"
     },
     {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/6N98frZADil2cpwn8H0tVs"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        }
+      ],
+      "duration_ms": 162366,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/3ot60Verr4b8U0NOJYg5r7"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Good Together",
+        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 201045,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Youniverse",
+        "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Youniverse",
+      "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
+    },
+    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "Staring at the Wall",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
     },
     {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "No One Gets Out Alive",
+        "url": "https://open.spotify.com/album/7pViHMZEmgL7OkZrd3Myr5"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 330722,
+      "name": "No One Gets Out Alive",
+      "url": "https://open.spotify.com/track/7gYXZa8tKm7Gtx8DKickBX"
+    },
+    {
       "added_at": "2024-02-16 05:01:00",
       "album": {
         "name": "LOVE IN STEREO",
@@ -55,6 +119,26 @@
       "duration_ms": 175040,
       "name": "LOVE NEVER FELT LIKE THIS",
       "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "so easy",
+        "url": "https://open.spotify.com/album/3HiTBZ5YJbmGRhoEv2wpDf"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        },
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "duration_ms": 178532,
+      "name": "so easy",
+      "url": "https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -737,30 +821,6 @@
       "url": "https://open.spotify.com/track/6zPShdSv4OhuqBEVi1pbvO"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Maybe We Could Be a Thing",
-        "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        },
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        }
-      ],
-      "duration_ms": 176241,
-      "name": "Maybe We Could Be a Thing",
-      "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "ok with it",
@@ -1045,22 +1105,6 @@
       "url": "https://open.spotify.com/track/5DzUuP6tUU9dZ7npCwFCzA"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Do Re Mi",
-        "url": "https://open.spotify.com/album/6H8u5r6t7U24FN1qFnPTfq"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Do Re Mi",
-      "url": "https://open.spotify.com/track/2EvyQsmsVGfDh2sEG8Myhy"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "LEGEND",
@@ -1315,54 +1359,6 @@
       "duration_ms": 197586,
       "name": "Brand New Nowhere",
       "url": "https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Break The Silence",
-        "url": "https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz"
-      },
-      "artists": [
-        {
-          "name": "Mell & Vintage Future",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 175986,
-      "name": "Give Love A Try",
-      "url": "https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab"
-    },
-    {
-      "added_at": "2022-04-06 21:11:54",
-      "album": {
-        "name": "Part Time Lover",
-        "url": "https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO"
-      },
-      "artists": [
-        {
-          "name": "Stu Larsen",
-          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Part Time Lover",
-      "url": "https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Dark Thoughts About A Pretty Flower",
-        "url": "https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b"
-      },
-      "artists": [
-        {
-          "name": "The Lovelines",
-          "url": "https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Dark Thoughts About A Pretty Flower",
-      "url": "https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV"
     },
     {
       "added_at": "2022-10-14 04:01:00",

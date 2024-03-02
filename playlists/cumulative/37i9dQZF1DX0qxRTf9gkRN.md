@@ -4,7 +4,7 @@
 
 > The best and finest 00s Funk\. Cover: Sharon Jones.
 
-70 songs - 4 hr 52 min
+71 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Am I Your Woman? featuring Ria Currie](https://open.spotify.com/track/6NYN6qc0daOZdbPtQ2LUIV) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [Ria Currie](https://open.spotify.com/artist/5MtcVLWEb8v7SSrzpjiVsZ) | [Four Flights Up](https://open.spotify.com/album/2iCCjBP8D7IPuAf0PW2wqy) | 3:12 | 2021-04-26 |  |
 | [Anything You Want \(Not That\)](https://open.spotify.com/track/5ieZt7wenkU5i7WjoVjcmq) | [Belleruche](https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t) | [The Express](https://open.spotify.com/album/68r5j9XnBARvOs50NwrWPn) | 3:22 | 2020-12-01 |  |
 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 | 2020-12-01 |  |
-| [Change \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/4YDUhnBvnXD0mUiT3kwokq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Born & Raised](https://open.spotify.com/album/76yDcqJXH1uUtYwZ61VJNY) | 4:15 | 2020-12-01 |  |
+| [Change \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/1mjwdGBuPfDZzUmTRkYTNn) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Born & Raised](https://open.spotify.com/album/2hZXLdGwtnD86glCy20AOr) | 4:15 | 2020-12-01 |  |
+| [Change \(feat\. Lupe Fiasco\)](https://open.spotify.com/track/4YDUhnBvnXD0mUiT3kwokq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Born & Raised](https://open.spotify.com/album/76yDcqJXH1uUtYwZ61VJNY) | 4:15 | 2020-12-01 | 2024-03-02 |
 | [Crazy Race](https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:23 | 2022-03-14 |  |
 | [Detroit Twice](https://open.spotify.com/track/4itnvWcXYbmIu8tWqF4yZx) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Sounding Out the City](https://open.spotify.com/album/1gJRofyyiXktzTkGwUOBdh) | 3:00 | 2020-12-01 |  |
 | [Dirty Money](https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM) | 6:15 | 2020-12-01 |  |

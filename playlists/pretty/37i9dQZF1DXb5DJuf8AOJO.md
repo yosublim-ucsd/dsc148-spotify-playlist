@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,919 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,927 likes - 90 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 19 | [Aba, Ginoong Maria](https://open.spotify.com/track/4lVBGa6ySwi2WpYVMvrUdc) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Bubbles Bandojo rc](https://open.spotify.com/artist/6XXibTpre2ykCIgfEi8HNm) | [The Best of Bukas Palad, Vol\. 1](https://open.spotify.com/album/6JjYkPDrvb7xVpQyED800H) | 3:28 |
 | 20 | [Humayo't Iyahag \(Choral Version\)](https://open.spotify.com/track/5TR4ZbV7Z4tXkDuGWYcHGI) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Tinapay Ng Buhay \(Mga Bagong Awiting Pangmisa\)](https://open.spotify.com/album/0hpX5mAcXTuHfZinhpsVAc) | 1:53 |
 | 21 | [The Summons](https://open.spotify.com/track/6XF9vuQkzAC8Q0FzM9Pjtl) | [John Basil Dungo](https://open.spotify.com/artist/7Gyw3BmXiyTRza4Ds7fgiN) | [The Summons](https://open.spotify.com/album/3GcDXIs22XCANdW5LjfgIn) | 4:33 |
-| 22 | [Kordero Ng Diyos](https://open.spotify.com/track/5DGP9hTLk9uMjonwe30594) | [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2), [RB Hizon SJ](https://open.spotify.com/artist/7iXmJJfhNwU1QPv7y4sSx0) | [The Best of Himig Heswita](https://open.spotify.com/album/4GWdOVJz8t8QsXNqGDY2uj) | 2:08 |
+| 22 | [Kordero Ng Diyos](https://open.spotify.com/track/5DGP9hTLk9uMjonwe30594) | [RB Hizon SJ](https://open.spotify.com/artist/7iXmJJfhNwU1QPv7y4sSx0), [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [The Best of Himig Heswita](https://open.spotify.com/album/4GWdOVJz8t8QsXNqGDY2uj) | 2:08 |
 | 23 | [Awit ng Paghahangad](https://open.spotify.com/track/1D06ExjtJYJGH34X9MOu61) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Norman Agatep](https://open.spotify.com/artist/6txLptbRu9M5ZXohJUQnzr) | [The Best of Bukas Palad, Vol\. 1](https://open.spotify.com/album/6JjYkPDrvb7xVpQyED800H) | 3:44 |
 | 24 | [One More Gift](https://open.spotify.com/track/1DTj7DsXLzYfCQbqw84ZAl) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Far Greater Love](https://open.spotify.com/album/6IJ08buKAo0snZ6k8RzPEg) | 3:25 |
 | 25 | [Ibulong Mo Lang sa Hangin](https://open.spotify.com/track/0GxPR1N248QQPhotqQf8mv) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Elaine Aliga Ricafort](https://open.spotify.com/artist/3XQi0IhCI7rogTtzOTguXe), [Noel Cruz](https://open.spotify.com/artist/23ithUNLlsJo1XLqoqrmcs) | [Hangad Habambuhay](https://open.spotify.com/album/4wqB5mzT1xm9RVCwvqn12j) | 5:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 89 | [Ama Namin](https://open.spotify.com/track/6SstAWN7LeRAH2lfAtSVZd) | [Tres Hermanas](https://open.spotify.com/artist/3rXT3DX9OeNMfH8Thivxrk) | [Songs for the Mass](https://open.spotify.com/album/2YycKytwh2xBObANYCLfHQ) | 2:11 |
 | 90 | [Mercy and Compassion](https://open.spotify.com/track/6t9kdQ3OOVABGIshMn0Qz2) | [Fr\. Raul G\. Caga SVD](https://open.spotify.com/artist/2zioTijO3b2H3KX9w9DmmL), [Cardinal Chito G\. Tagle](https://open.spotify.com/artist/1qoIwahhPAnFxTgdFlN1r1) | [Gracious Mercy](https://open.spotify.com/album/5QmW5R7GK9ynG4AYCmcxDt) | 5:14 |
 
-Snapshot ID: `MCw5OWEwYTg1M2Y5NWMzZTA3OWM5ZGY1YjZiZjA2MGNkNzhjMmVhM2U0`
+Snapshot ID: `MCxhZDI0OWNlMmNmNDA4NzVhNzBlMjNhYWJiZTJhOTU1ZDQ0ZWMwMDNl`

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: JJ Grey
 
-270 songs - 17 hr 4 min
+271 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,12 +269,13 @@
 | [Wild](https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Wild](https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e) | 3:39 | 2022-07-22 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-11 | 2024-02-03 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
+| [Wild Honey](https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wild Honey](https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV) | 4:06 | 2024-03-01 |  |
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
 | [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 |  |
 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 | 2023-08-25 |  |
 | [Woolamai](https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [Woolamai](https://open.spotify.com/album/6jrGRQ0v0jiECoyiWgMnBQ) | 3:55 | 2022-03-18 | 2024-01-08 |
 | [Woolamai](https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [The Mojo Funk](https://open.spotify.com/album/7HAijWOmT4QlIH5BqDn38W) | 3:55 | 2022-03-18 |  |
-| [Wrong Again](https://open.spotify.com/track/0TOo42fplgu1SFbL5Sts1g) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wrong Again](https://open.spotify.com/album/7LBOvX3YbHAs90gpBPCW1D) | 4:10 | 2022-03-25 |  |
+| [Wrong Again](https://open.spotify.com/track/0TOo42fplgu1SFbL5Sts1g) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wrong Again](https://open.spotify.com/album/7LBOvX3YbHAs90gpBPCW1D) | 4:10 | 2022-03-25 | 2024-03-02 |
 | [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 | 2023-05-06 |
 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 | 2020-10-16 |  |
 | [You Pushed Me](https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [You Pushed Me](https://open.spotify.com/album/4N20MOAxyJDC6LIlbySax6) | 3:21 | 2023-06-02 |  |

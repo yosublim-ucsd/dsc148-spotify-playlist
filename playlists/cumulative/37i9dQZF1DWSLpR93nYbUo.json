@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Devochka ",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Sterium ",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -104,6 +104,32 @@
       "duration_ms": 188160,
       "name": "Ai Papi",
       "url": "https://open.spotify.com/track/2e7a4odH1FkMKAPGFRxkaO"
+    },
+    {
+      "album": {
+        "name": "Ain't No Mountain",
+        "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Thousand Kids",
+          "url": "https://open.spotify.com/artist/5pAaSIooaMTPOhCu7J4dRU"
+        },
+        {
+          "name": "MERAKI",
+          "url": "https://open.spotify.com/artist/3qREC2G2u5sUK9M0NDxEWp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Ain't No Mountain",
+      "url": "https://open.spotify.com/track/6pYInbFNcmHrUhQr1NKowc"
     },
     {
       "album": {
@@ -237,6 +263,32 @@
     },
     {
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/3XLgwnpDnuoszAE3ytJUmZ"
+      },
+      "artists": [
+        {
+          "name": "Edson Faiolli",
+          "url": "https://open.spotify.com/artist/5zQqfkTJNj7rodrMI0UjU5"
+        },
+        {
+          "name": "Dropbusterz",
+          "url": "https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB"
+        },
+        {
+          "name": "Delayz",
+          "url": "https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/6OxL2hvPiqmqh1tqlxC7Rn"
+    },
+    {
+      "album": {
         "name": "Be High",
         "url": "https://open.spotify.com/album/53Qytvpmq2yNDvH7l0XUXB"
       },
@@ -284,7 +336,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 149274,
       "name": "Behavior",
       "url": "https://open.spotify.com/track/4IYoFFsKrv45MgovCfY9YQ"
@@ -467,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Casual Talks",
+        "url": "https://open.spotify.com/album/2zukTImGDY6sixOxvRafoa"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188961,
+      "name": "Casual Talks",
+      "url": "https://open.spotify.com/track/23VG22XJhGfA3iAhKuMmpl"
+    },
+    {
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/5Bk8i6MnmJDnFw0AOHeEHK"
       },
@@ -504,6 +574,28 @@
       "duration_ms": 138501,
       "name": "Chasing Light",
       "url": "https://open.spotify.com/track/4N1z2twAYP5PDqqfFQ4Das"
+    },
+    {
+      "album": {
+        "name": "City of Lights",
+        "url": "https://open.spotify.com/album/2sbMrM0xT4eKphg68TUNma"
+      },
+      "artists": [
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "City of Lights",
+      "url": "https://open.spotify.com/track/3i88BattarCOjHp9floMKS"
     },
     {
       "album": {
@@ -1208,7 +1300,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 189677,
       "name": "HALO",
       "url": "https://open.spotify.com/track/7qVhddvtZxC02rmzqwO5Fb"
@@ -1430,6 +1522,28 @@
       "duration_ms": 115238,
       "name": "House Control",
       "url": "https://open.spotify.com/track/7tsH71rhspuf92v6wSldzM"
+    },
+    {
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/3d3vfaUzBI6z35LVZP0kWV"
+      },
+      "artists": [
+        {
+          "name": "Diego Miranda",
+          "url": "https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/3Xm2Fz8i7bg4x3Oo3zbH87"
     },
     {
       "album": {
@@ -1684,7 +1798,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 218463,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/64UUBZx4UoftxSitKxx3yX"
@@ -1822,7 +1936,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183934,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7o99rtPEvsWcjfSlD0xqfk"
@@ -1996,7 +2110,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231020,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/4dnbjKpg4V3gpUx3LGsYQl"
@@ -2881,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/6oAxJHHGJGCJ1GqwWjf8zw"
+      },
+      "artists": [
+        {
+          "name": "Dopelerz",
+          "url": "https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356129,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/41VbBS3OMFfDiftlYt8Kb9"
+    },
+    {
+      "album": {
         "name": "Supra",
         "url": "https://open.spotify.com/album/28ERZnx6OhIDz3YZT2dGHF"
       },
@@ -3205,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "These Lips",
+        "url": "https://open.spotify.com/album/55DjwnKjfpIa1pdQRipr4B"
+      },
+      "artists": [
+        {
+          "name": "Pirate Snake",
+          "url": "https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "These Lips",
+      "url": "https://open.spotify.com/track/1CDUdfMpbetdqp7ANnYXlX"
+    },
+    {
+      "album": {
         "name": "Till the World Knows Me",
         "url": "https://open.spotify.com/album/0jkxbj3vxFSbOMvU0NFGMl"
       },
@@ -3234,7 +3384,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180000,
       "name": "Tira A Camisa",
       "url": "https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz"
@@ -3346,7 +3496,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211653,
       "name": "Tugudu",
       "url": "https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9"

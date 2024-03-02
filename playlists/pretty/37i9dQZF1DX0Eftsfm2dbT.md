@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  Only U
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,217 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,277 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 3 | [Good Love](https://open.spotify.com/track/4xi0VX5l2b0PorJuWtD9Th) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi) | 3:13 |
 | 4 | [Excuse Me](https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Excuse Me](https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l) | 3:03 |
 | 5 | [B2B \(feat\. Benjazzy & Bonbero\)](https://open.spotify.com/track/1AyUsDts7KQXq7w4KsH9YL) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [BAD HOP \(Deluxe Edition\)](https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r) | 3:40 |
-| 6 | [Marathon](https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/4ba8By2IRyafRsALbAaSX1) | 2:19 |
+| 6 | [Marathon](https://open.spotify.com/track/1R1ithziTyKJ1qWjmQdRWM) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:19 |
 | 7 | [Team Tomodachi](https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu) | [Yuki Chiba](https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR) | [Team Tomodachi](https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj) | 2:32 |
 | 8 | [破魔矢 \-Hamaya\-](https://open.spotify.com/track/1rGPTIQKMIOCMl4Jtz01bj) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [再生 \-Saisei\-](https://open.spotify.com/album/2ZsPB06xAX5ALJ6cLQISrq) | 3:47 |
 | 9 | [Interest](https://open.spotify.com/track/6AcxzlVzebl34eXTEncIeD) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Interest](https://open.spotify.com/album/3CIxOcpESjOuywZ5P723fs) | 3:17 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCwzNzBiZWYxZTFiMjMwMDFjMDk1YzI3MmJlYzgzNWJmNDdhNjhhOGEw`
+Snapshot ID: `MCwzOGI0NmNkNDA2MzE4ZmUyNjg3NzkxMDg4YjRiNTdiMjQwMjA1N2Rj`

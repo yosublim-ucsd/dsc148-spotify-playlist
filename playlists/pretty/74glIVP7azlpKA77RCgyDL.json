@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gatecreeper",
-  "num_followers": 8387,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Knocked Loose",
+  "num_followers": 8386,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MzAwNCw4ZTc5M2Y1MzY0M2M1NWNiZmYwYjljYzEzZGRkZmE5OWE2ZGE5Yjg0",
+  "snapshot_id": "MzAxMiw0ZmQ0MmE1NGQzOTFlZTI0OTJkZTllZWQ3MDFlZWFiNzFhMzcyZjI5",
   "tracks": [
+    {
+      "added_at": "2024-03-01 19:56:51",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-03-01 19:57:02",
+      "album": {
+        "name": "Venus in Flames",
+        "url": "https://open.spotify.com/album/05YyAiDVKS3HntWHOpk81U"
+      },
+      "artists": [
+        {
+          "name": "DOOL",
+          "url": "https://open.spotify.com/artist/101HSR6JTJqe3DBh6rb8kz"
+        }
+      ],
+      "duration_ms": 426045,
+      "name": "Venus in Flames",
+      "url": "https://open.spotify.com/track/1plbSV6IKjmMmyAx9XMEod"
+    },
+    {
+      "added_at": "2024-03-01 19:57:08",
+      "album": {
+        "name": "I Won't Work For You",
+        "url": "https://open.spotify.com/album/7t0wlswaOiM97998oGU8y8"
+      },
+      "artists": [
+        {
+          "name": "CNTS",
+          "url": "https://open.spotify.com/artist/4onZqTiWzgRfH0g4nKOhls"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "I Won't Work For You",
+      "url": "https://open.spotify.com/track/46M60dd931zvPt7BWsqtqi"
+    },
+    {
+      "added_at": "2024-03-01 19:57:14",
+      "album": {
+        "name": "Noix et Boules",
+        "url": "https://open.spotify.com/album/5GQUkWlCUSVsxzFN26ZR15"
+      },
+      "artists": [
+        {
+          "name": "Domain",
+          "url": "https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk"
+        }
+      ],
+      "duration_ms": 127544,
+      "name": "Noix et Boules",
+      "url": "https://open.spotify.com/track/5EmLWX5IYVSL1KD3LtEaIf"
+    },
+    {
+      "added_at": "2024-03-01 19:57:26",
+      "album": {
+        "name": "Promo 2024",
+        "url": "https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ"
+      },
+      "artists": [
+        {
+          "name": "Street Power",
+          "url": "https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr"
+        }
+      ],
+      "duration_ms": 111630,
+      "name": "Time Is Coming For Us All",
+      "url": "https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO"
+    },
+    {
+      "added_at": "2024-03-01 19:57:34",
+      "album": {
+        "name": "Hardcore Music Machine",
+        "url": "https://open.spotify.com/album/4MFLUCc4jZ0zKYzeyIVf2T"
+      },
+      "artists": [
+        {
+          "name": "Wild Side",
+          "url": "https://open.spotify.com/artist/3gdrmfWscdd6Wryv01umtl"
+        }
+      ],
+      "duration_ms": 226298,
+      "name": "Hardcore Music Machine",
+      "url": "https://open.spotify.com/track/4ozoqbiAmockxd4Ba7qT5w"
+    },
     {
       "added_at": "2024-02-23 19:14:31",
       "album": {

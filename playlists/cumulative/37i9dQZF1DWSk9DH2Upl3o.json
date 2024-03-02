@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 386917,
       "name": "Alright Tonight",
       "url": "https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 256275,
       "name": "Becca's Dad",
       "url": "https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj"
@@ -230,6 +230,28 @@
       "duration_ms": 289612,
       "name": "Blow You Away",
       "url": "https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4"
+    },
+    {
+      "album": {
+        "name": "Bob and Weave",
+        "url": "https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC"
+      },
+      "artists": [
+        {
+          "name": "Big Something",
+          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
+        },
+        {
+          "name": "Josh Phillips",
+          "url": "https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260015,
+      "name": "Bob and Weave - Single Version",
+      "url": "https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL"
     },
     {
       "album": {
@@ -829,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Fine",
+        "url": "https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245838,
+      "name": "Feelin' Fine",
+      "url": "https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4"
+    },
+    {
+      "album": {
         "name": "Watercolor Days",
         "url": "https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV"
       },
@@ -1028,6 +1068,28 @@
       "duration_ms": 379640,
       "name": "Ghost In The Machine",
       "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
+    },
+    {
+      "album": {
+        "name": "Gloaming Way",
+        "url": "https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306069,
+      "name": "Gloaming Way",
+      "url": "https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF"
     },
     {
       "album": {
@@ -1481,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Lakesong",
+        "url": "https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV"
+      },
+      "artists": [
+        {
+          "name": "Fitzkee Brothers",
+          "url": "https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274113,
+      "name": "Lakesong",
+      "url": "https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa"
+    },
+    {
+      "album": {
         "name": "Lap Mule",
         "url": "https://open.spotify.com/album/2Mf5kcese7yHo1lyypZFjf"
       },
@@ -1644,6 +1724,24 @@
       "duration_ms": 480848,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB"
+    },
+    {
+      "album": {
+        "name": "Love Time",
+        "url": "https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259811,
+      "name": "Love Time",
+      "url": "https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa"
     },
     {
       "album": {
@@ -2146,7 +2244,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
@@ -2302,7 +2400,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 401333,
       "name": "Song for Us",
       "url": "https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR"
@@ -2482,7 +2580,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 327546,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"

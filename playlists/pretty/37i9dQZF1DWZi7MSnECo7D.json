@@ -1,15 +1,31 @@
 {
-  "description": "Novidades e destaques do indie nacional. Foto: A Ol\u00edvia",
-  "num_followers": 394783,
+  "description": "Novidades e destaques do indie nacional. Foto: Carne Doce",
+  "num_followers": 394788,
   "original_name": "Indie Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjNmYjIyOTMxYTkyOTY5NTI2MDJhNDdjNzUxODFhYTk3NWVmM2Fi",
+  "snapshot_id": "MCxmNzU1OGZkZmNkNmI0ZjJiZjBlYTc1ZDI1MzA5YjI5NzcxM2Q2OWM4",
   "tracks": [
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Cerer\u00ea",
+        "url": "https://open.spotify.com/album/0wfQKLlCKAYZGF5BqzaWjM"
+      },
+      "artists": [
+        {
+          "name": "Carne Doce",
+          "url": "https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "Cerer\u00ea",
+      "url": "https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Lobo Guar\u00e1",
         "url": "https://open.spotify.com/album/2a8Z6xX7M2nQpZXZiNJG5H"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6FxB7J3n5Vhb3a8VhW0c9V"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Maravilha",
         "url": "https://open.spotify.com/album/6V0CpkVh3AE6xk4ym7z5pv"
@@ -41,7 +57,27 @@
       "url": "https://open.spotify.com/track/6SA7luCXsFXf3ZoqoUdYov"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Dizer Adeus",
+        "url": "https://open.spotify.com/album/3b1ncfbfHS4N4D7LSpiC14"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        },
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        }
+      ],
+      "duration_ms": 242673,
+      "name": "Dizer Adeus",
+      "url": "https://open.spotify.com/track/1F5IjXWC0xw2MTQmTL6Gfn"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "lentamente",
         "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Dores no Varal",
         "url": "https://open.spotify.com/album/3g0PamUjm8c2PTPVRBqG0t"
@@ -73,7 +109,23 @@
       "url": "https://open.spotify.com/track/1O5QLe2KpkGRjeasjjEQV1"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Pera\u00ed",
+        "url": "https://open.spotify.com/album/4F8jcPrzfRiIvEcQ2c8ApH"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Pera\u00ed",
+      "url": "https://open.spotify.com/track/0oZ3wPWmDnjHvSqpxu9Ts6"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Curitiba",
         "url": "https://open.spotify.com/album/3GhOL3XNVeLFL8kQw6mBTe"
@@ -89,7 +141,27 @@
       "url": "https://open.spotify.com/track/2OokguhlbXzig1WIE5uwFC"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Amor Delirio",
+        "url": "https://open.spotify.com/album/7s5hEDK4dz2jE38m7KUwnH"
+      },
+      "artists": [
+        {
+          "name": "Papisa",
+          "url": "https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE"
+        },
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        }
+      ],
+      "duration_ms": 223650,
+      "name": "Amor Delirio",
+      "url": "https://open.spotify.com/track/6v9n6CsxdpPgr3I7moL1YJ"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Samba Hostil",
         "url": "https://open.spotify.com/album/5eUpKGI5N7croGz6WDDmK3"
@@ -105,7 +177,23 @@
       "url": "https://open.spotify.com/track/4zZb325aqGdFoj4F9rkhKT"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Ponta da L\u00edngua",
+        "url": "https://open.spotify.com/album/08YInO2jLBRO87MJlJwlAS"
+      },
+      "artists": [
+        {
+          "name": "Sofia Freire",
+          "url": "https://open.spotify.com/artist/1Iei4PJ2fWpnhc5qamVloV"
+        }
+      ],
+      "duration_ms": 152662,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/5kydwe4EX8d7kys5WrfU7A"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Noite dos Tristes",
         "url": "https://open.spotify.com/album/5RQDRf5htrQMFTshb5QXyS"
@@ -121,7 +209,23 @@
       "url": "https://open.spotify.com/track/2mlSCmo23CEsmMneXWMmwD"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "a semana passou parecendo um m\u00eas",
+        "url": "https://open.spotify.com/album/0qiEnYuaq2JDLkB0kKWddC"
+      },
+      "artists": [
+        {
+          "name": "A Balsa",
+          "url": "https://open.spotify.com/artist/62RUyNLuHrJYe5H2Ap96gw"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "rede social",
+      "url": "https://open.spotify.com/track/7zBYk65FqoHdpsQGXaPWF0"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "\u00c9 pro Teu Bem",
         "url": "https://open.spotify.com/album/1Eua4BtseGGAbV2t2wnSyb"
@@ -137,7 +241,23 @@
       "url": "https://open.spotify.com/track/5ZqWaz9mkcpcGxMXQe24Z7"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Semana Estreita",
+        "url": "https://open.spotify.com/album/0M0EqrfLQpwgU3xaGcKyaj"
+      },
+      "artists": [
+        {
+          "name": "Sopr\u00fc",
+          "url": "https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9"
+        }
+      ],
+      "duration_ms": 212399,
+      "name": "N\u00e3o Tem Ningu\u00e9m Vivo Aos Domingos",
+      "url": "https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Tirolirole",
         "url": "https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW"
@@ -153,7 +273,23 @@
       "url": "https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "Cada Caos",
+        "url": "https://open.spotify.com/album/4FtQh0GCseTVdDXSCiB2gT"
+      },
+      "artists": [
+        {
+          "name": "Camur\u00e7a",
+          "url": "https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck"
+        }
+      ],
+      "duration_ms": 198631,
+      "name": "Cada Caos",
+      "url": "https://open.spotify.com/track/54fFmNQNkzUzNi12QWyWwA"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Goteira de Amor",
         "url": "https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW"
@@ -169,7 +305,23 @@
       "url": "https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "P\u00c1SSARO",
+        "url": "https://open.spotify.com/album/4xHfV8Dv2RANqu7bc0hcJT"
+      },
+      "artists": [
+        {
+          "name": "Malu Maria",
+          "url": "https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt"
+        }
+      ],
+      "duration_ms": 640526,
+      "name": "P\u00c1SSARO",
+      "url": "https://open.spotify.com/track/6Od98yE86PzSkRKOCpmXqx"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "144",
         "url": "https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo"
@@ -185,7 +337,7 @@
       "url": "https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Certo Talvez",
         "url": "https://open.spotify.com/album/2zo56Zgm9xlHtl7piUnpCg"
@@ -201,31 +353,7 @@
       "url": "https://open.spotify.com/track/5XL3hMURY44CVBF39pJdQJ"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "desanuviar",
-        "url": "https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f"
-      },
-      "artists": [
-        {
-          "name": "saudade",
-          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
-        },
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Fs.aiff",
-          "url": "https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "desanuviar",
-      "url": "https://open.spotify.com/track/6dv427zxWatn55rEml3TlB"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Algaravia",
         "url": "https://open.spotify.com/album/546EYepiaiSjIsGtL0WToy"
@@ -245,7 +373,7 @@
       "url": "https://open.spotify.com/track/5PTDpsgOqEoG5P5BllvfHZ"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Dona da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
@@ -265,7 +393,7 @@
       "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "P\u00f3len",
         "url": "https://open.spotify.com/album/5tAqPQ72NUjJRdO0yyhsDZ"
@@ -285,7 +413,7 @@
       "url": "https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Deixa Minguar",
         "url": "https://open.spotify.com/album/1Z8ujVGb9jbZ06VldOFk4k"
@@ -305,7 +433,7 @@
       "url": "https://open.spotify.com/track/3ttFDhTdRMAXxjKoKk88Q3"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Rua da Lua Cheia",
         "url": "https://open.spotify.com/album/60vjflVrXOLjbjmfuKEIti"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/0URryycDasqNVVqiX1aV01"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Todos os Santos Permitidos",
         "url": "https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S"
@@ -341,7 +469,7 @@
       "url": "https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Lugar no Espa\u00e7o",
         "url": "https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd"
@@ -361,7 +489,7 @@
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "em busca do veneno da serpente",
         "url": "https://open.spotify.com/album/7aCXFxP6AviVWVd6mVMXce"
@@ -381,7 +509,7 @@
       "url": "https://open.spotify.com/track/3aS8ZV7rPGLikifySWy3jM"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Jovens Est\u00fapidos",
         "url": "https://open.spotify.com/album/3yEIEHHlQHwE8EvgJ6Mi6s"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/0rXSE30GCmV2IBiLcpz2pz"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "L\u00e1bios Mentem \u00e0 Dist\u00e2ncia",
         "url": "https://open.spotify.com/album/6EFmmPTRDrH7gW4GTxXy3X"
@@ -421,7 +549,7 @@
       "url": "https://open.spotify.com/track/3LGTF6ehf5J27Ev2ydhqFY"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "T\u00e1 Tudo Dan\u00e7ando",
         "url": "https://open.spotify.com/album/0pqyQT4FBdNS8lBhSdVmpB"
@@ -437,7 +565,7 @@
       "url": "https://open.spotify.com/track/5UshWUWP41FBrjQYRpNFGV"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "M\u00fasica do Esquecimento",
         "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
@@ -457,7 +585,7 @@
       "url": "https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "est\u00e1tica",
         "url": "https://open.spotify.com/album/79QVW4KXE9wwQ37ApRi9F1"
@@ -473,7 +601,7 @@
       "url": "https://open.spotify.com/track/4J3sacZksbTwNF4323eKcD"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "S\u00f3 as Melhores",
         "url": "https://open.spotify.com/album/7qCyKgzQHtGuPxgJIg5ty6"
@@ -497,7 +625,7 @@
       "url": "https://open.spotify.com/track/78qNPCPAeJ84N4Hs0xruJl"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "CAVALO",
         "url": "https://open.spotify.com/album/6kYxoYEPkf29cET8FPHqGI"
@@ -517,7 +645,7 @@
       "url": "https://open.spotify.com/track/3h2YpdVlkVr8nwKZ1pLqUm"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Esta\u00e7\u00e3o da Luz",
         "url": "https://open.spotify.com/album/0lr6Bc2IU6okMHnu0Br5gk"
@@ -533,7 +661,7 @@
       "url": "https://open.spotify.com/track/2QTrD7WhBTW70beXilAlgP"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Melhor Assim",
         "url": "https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c"
@@ -549,7 +677,7 @@
       "url": "https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "puro osso",
         "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
@@ -565,7 +693,7 @@
       "url": "https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "CIDADE TROPICAL PENSAMENTO",
         "url": "https://open.spotify.com/album/0DLEv17PXiLPccLet7heEu"
@@ -585,7 +713,7 @@
       "url": "https://open.spotify.com/track/2tl2ks5C8j9uSnrOFvpfar"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Trincheira N\u00ba 02",
         "url": "https://open.spotify.com/album/4kC2HnOGtisWp4pVtSNevg"
@@ -601,7 +729,7 @@
       "url": "https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "ANTIP\u00c1TICA",
         "url": "https://open.spotify.com/album/3nMF2SqvgYgvCkPRBWxba2"
@@ -617,7 +745,7 @@
       "url": "https://open.spotify.com/track/2a2IQ1Bbc6sgzhki9WqgpX"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "30+",
         "url": "https://open.spotify.com/album/3pFDfRC5whVvNQsTnOa1Ej"
@@ -633,7 +761,7 @@
       "url": "https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Insista em Mim",
         "url": "https://open.spotify.com/album/4AAyEINLwbc9KXc8eKnRqt"
@@ -649,7 +777,7 @@
       "url": "https://open.spotify.com/track/2Hb3whPeeJSeUYLCOl3QlI"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Me Chama De Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
@@ -665,7 +793,7 @@
       "url": "https://open.spotify.com/track/6kHuBsPj0OFq0cfDtjgwtd"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Vitor Kley Baixa Renda",
         "url": "https://open.spotify.com/album/4hrVXNwuFqVHdEGO2QPxit"
@@ -685,7 +813,7 @@
       "url": "https://open.spotify.com/track/0HqiOc2g8H9CfWtog2eTwx"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "at\u00e9 mais",
         "url": "https://open.spotify.com/album/5Czto3i4k0GgScIJYcHJ8f"
@@ -705,7 +833,7 @@
       "url": "https://open.spotify.com/track/1FpvAX8BfckZBWTQPkVlXS"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "SOLAR",
         "url": "https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf"
@@ -721,7 +849,7 @@
       "url": "https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Minha Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5MDWL6H6qejU6jvXVZTBAb"
@@ -737,7 +865,7 @@
       "url": "https://open.spotify.com/track/1yb9mkMn5S6ynqn5iPhxgm"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Garatujas",
         "url": "https://open.spotify.com/album/4UheE8tmMXmfTdusFy3orQ"
@@ -761,7 +889,7 @@
       "url": "https://open.spotify.com/track/7iQ9dQMQuMulnmzg82FD46"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu"
@@ -777,23 +905,7 @@
       "url": "https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Movimento Solar",
-        "url": "https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K"
-      },
-      "artists": [
-        {
-          "name": "uma P\u00f3voas",
-          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
-        }
-      ],
-      "duration_ms": 201157,
-      "name": "Movimento Solar",
-      "url": "https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Um Pescador",
         "url": "https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn"
@@ -809,7 +921,7 @@
       "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Sambur\u00e1",
         "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
@@ -825,23 +937,7 @@
       "url": "https://open.spotify.com/track/6n7zu3XdVNJ2ZnDN21r2mb"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Plut\u00e3o J\u00e1 Foi Planeta",
-        "url": "https://open.spotify.com/album/74Y9K1oIR6alco7bScWIYx"
-      },
-      "artists": [
-        {
-          "name": "Plut\u00e3o J\u00e1 Foi Planeta",
-          "url": "https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV"
-        }
-      ],
-      "duration_ms": 209063,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/1CO9fTr4r9C9mFd8pMJh4W"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Cair para Tr\u00e1s",
         "url": "https://open.spotify.com/album/7Mk4iBvSDJaYleXrfeh5QM"
@@ -857,7 +953,7 @@
       "url": "https://open.spotify.com/track/5hGEyUa5SnTvODfmo0glsu"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Paix\u00e3o Revirada",
         "url": "https://open.spotify.com/album/0ahXiH16BR6OFd3pCmyz7l"
@@ -873,7 +969,7 @@
       "url": "https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "A Chegada",
         "url": "https://open.spotify.com/album/1VO0sEuB8Tt4m5Askw5F6N"
@@ -889,7 +985,7 @@
       "url": "https://open.spotify.com/track/6cQfhvK6qQ9eFgIrbZ9bwU"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "I Feel In The Sky",
         "url": "https://open.spotify.com/album/32rXGSkXtgtqFCHJgLfOmK"
@@ -905,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0wmeu1tH9rPyrkYDU3AOxC"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Cora\u00e7\u00e3o Cometa",
         "url": "https://open.spotify.com/album/6KMPJESfNAtBd9ktST28yl"
@@ -925,27 +1021,7 @@
       "url": "https://open.spotify.com/track/0Txofif7SpY4gGzI6eO7L6"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "O \u00daltimo Girassol",
-        "url": "https://open.spotify.com/album/0z6HPQVrWSTeCXAAIDhLjq"
-      },
-      "artists": [
-        {
-          "name": "Walfredo em Busca da Simbiose",
-          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
-        },
-        {
-          "name": "saudade",
-          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "O \u00daltimo Girassol",
-      "url": "https://open.spotify.com/track/3MRw4AVPeLDlLDWAY5SfFo"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "RU\u00cdNA",
         "url": "https://open.spotify.com/album/6h1CeOmOokGP4rUf9nmwtQ"
@@ -961,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1HQNigUfZPpkc5XTfy9xps"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "O Que \u00e9 Ser Feliz?",
         "url": "https://open.spotify.com/album/31sns1W2I24ykXz0vQ9UTR"
@@ -977,7 +1053,31 @@
       "url": "https://open.spotify.com/track/62jUI4m8LQe1dnNAdnrGJw"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
+      "album": {
+        "name": "desanuviar",
+        "url": "https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f"
+      },
+      "artists": [
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        },
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Fs.aiff",
+          "url": "https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "desanuviar",
+      "url": "https://open.spotify.com/track/6dv427zxWatn55rEml3TlB"
+    },
+    {
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Por Todo O Universo",
         "url": "https://open.spotify.com/album/08DaDhZ2os99uNgRVn1XRZ"
@@ -993,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5BpYJfoxoHOQ6HnVyY9sij"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Luz Na Madrugada / Late Night Light",
         "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
@@ -1013,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Bicho Solto",
         "url": "https://open.spotify.com/album/205ulviajNbo2C25tOlzgY"
@@ -1029,7 +1129,7 @@
       "url": "https://open.spotify.com/track/7xKocq5r0niCRi1J0tM3kG"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Vqvcssmefmt (Vi Que Voc\u00ea Saiu Sem Mim e Fiquei Muito Triste)",
         "url": "https://open.spotify.com/album/3RX2M9Frd4VeeXTEQPI9z6"
@@ -1045,23 +1145,7 @@
       "url": "https://open.spotify.com/track/3y7WDGziuaDdYbnwtex42U"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Electric Fish",
-        "url": "https://open.spotify.com/album/1tT0M0ILq3siLsmYlfoIrW"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 252959,
-      "name": "Electric Fish",
-      "url": "https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Terra do Nunca Mais",
         "url": "https://open.spotify.com/album/4IVbk8x030ph7yTku23iEP"
@@ -1077,7 +1161,7 @@
       "url": "https://open.spotify.com/track/7Kt4Z5D10KiBFzBu1PPeAM"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "ju\u00edzo",
         "url": "https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ"
@@ -1093,7 +1177,7 @@
       "url": "https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Horas Iguais",
         "url": "https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ"
@@ -1109,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Montada em Seu Cabelo",
         "url": "https://open.spotify.com/album/7m9fVKmEsp4Q9H6qqjDevz"
@@ -1125,39 +1209,7 @@
       "url": "https://open.spotify.com/track/7fz1tHUUg2OVtkLuRXWPry"
     },
     {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Em Todo Canto/Tremeu Minha Solid\u00e3o",
-        "url": "https://open.spotify.com/album/2GZvAjfFNrTvdT8LgFDN1P"
-      },
-      "artists": [
-        {
-          "name": "Plut\u00e3o J\u00e1 Foi Planeta",
-          "url": "https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Em Todo Canto",
-      "url": "https://open.spotify.com/track/0FftjOKC6GhuDFlSjEwame"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Truque",
-        "url": "https://open.spotify.com/album/5n44zhzi1I9ig1CKj80Sm3"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 200618,
-      "name": "Truque",
-      "url": "https://open.spotify.com/track/5BWDctHY7KfVt6sc1D3tOs"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
+      "added_at": "2024-03-01 03:03:00",
       "album": {
         "name": "Saldo",
         "url": "https://open.spotify.com/album/6ogDrOyT1nePaKxgdUDB2i"
@@ -1171,78 +1223,6 @@
       "duration_ms": 230343,
       "name": "Saldo",
       "url": "https://open.spotify.com/track/1ysTMVqi4QhWEJxoHrpk6F"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Entre na \u00c1gua",
-        "url": "https://open.spotify.com/album/4W1nKR7GeHJhuaW6ZHhH2U"
-      },
-      "artists": [
-        {
-          "name": "A Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg"
-        }
-      ],
-      "duration_ms": 176437,
-      "name": "Entre na \u00c1gua",
-      "url": "https://open.spotify.com/track/6RA2QfzU3X9OgcXlD8HmDm"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "N\u00e3o Saio",
-        "url": "https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 143860,
-      "name": "N\u00e3o Saio",
-      "url": "https://open.spotify.com/track/5qasQTEYxcYe3GwZI3oWFv"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Quem Ser\u00e1?",
-        "url": "https://open.spotify.com/album/5I7TlP98sFvVBcuYcwz6lS"
-      },
-      "artists": [
-        {
-          "name": "Colibri",
-          "url": "https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y"
-        },
-        {
-          "name": "VANDAL",
-          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
-        }
-      ],
-      "duration_ms": 376363,
-      "name": "Quem Ser\u00e1?",
-      "url": "https://open.spotify.com/track/6tw0Csa29CYVHEVAehI2Nm"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "T\u00f4 Bem Sozin",
-        "url": "https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO"
-      },
-      "artists": [
-        {
-          "name": "Fxbricio",
-          "url": "https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB"
-        },
-        {
-          "name": "Nanasai",
-          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
-        }
-      ],
-      "duration_ms": 228433,
-      "name": "T\u00f4 Bem Sozin",
-      "url": "https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd"
     }
   ],
   "unique_name": "Indie Brasil",

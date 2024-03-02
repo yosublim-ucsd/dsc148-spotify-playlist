@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "5am",
+        "url": "https://open.spotify.com/album/1pHtHpjyNOmVogfzX35T0D"
+      },
+      "artists": [
+        {
+          "name": "Chediak",
+          "url": "https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK"
+        },
+        {
+          "name": "Crosstalk",
+          "url": "https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112285,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/30YPuv3OTF7XzAeLt07WS9"
+    },
+    {
+      "album": {
         "name": "Sweetheart EP",
         "url": "https://open.spotify.com/album/2fNA6vsduau3pyqjzNQsmX"
       },
@@ -564,7 +586,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 260206,
       "name": "Bass Drama",
       "url": "https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi"
@@ -2330,7 +2352,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201171,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
@@ -2876,6 +2898,32 @@
       "duration_ms": 226290,
       "name": "Fever",
       "url": "https://open.spotify.com/track/67adVknti3PYlf3nm6A9RT"
+    },
+    {
+      "album": {
+        "name": "Finality",
+        "url": "https://open.spotify.com/album/4uMH7mASCdwTSSMhol9jgh"
+      },
+      "artists": [
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        },
+        {
+          "name": "Lumen",
+          "url": "https://open.spotify.com/artist/1JM1n7fWKg7BYuZjhV9FWR"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368181,
+      "name": "Finality",
+      "url": "https://open.spotify.com/track/1Lpt1GZWUcibnxgXoGTmfW"
     },
     {
       "album": {
@@ -7026,7 +7074,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234857,
       "name": "Real Murder",
       "url": "https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR"
@@ -9271,6 +9319,28 @@
     },
     {
       "album": {
+        "name": "The Elephant",
+        "url": "https://open.spotify.com/album/4NirALCaz8cMmJUpDXOSGI"
+      },
+      "artists": [
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        },
+        {
+          "name": "Ashez",
+          "url": "https://open.spotify.com/artist/4EmkjZuqatnvAygxt3a3tC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215183,
+      "name": "The Elephant",
+      "url": "https://open.spotify.com/track/3xGPQcTd1HRvQOcEZIWgKP"
+    },
+    {
+      "album": {
         "name": "The Insider",
         "url": "https://open.spotify.com/album/7gYxfavNEV31JRSrkxwv6a"
       },
@@ -9466,7 +9536,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 226285,
       "name": "The Wisp Song",
       "url": "https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg"
@@ -10304,6 +10374,28 @@
       "duration_ms": 212862,
       "name": "Woofer",
       "url": "https://open.spotify.com/track/3DvH2GoGvI8imw22IoETL6"
+    },
+    {
+      "album": {
+        "name": "WOOK ROCKET (feat. Pure Powers)",
+        "url": "https://open.spotify.com/album/3H6ow1calZHgOW2etgcCsM"
+      },
+      "artists": [
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        },
+        {
+          "name": "Pure Powers",
+          "url": "https://open.spotify.com/artist/1FTPyh2jjCHfhzqYQGFeyL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "WOOK ROCKET (feat. Pure Powers)",
+      "url": "https://open.spotify.com/track/3N3eXQOxjuy4rJ7tikzTkj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-602 songs - 2 day 3 hr 21 min
+603 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Neon Leviathan](https://open.spotify.com/track/76dWCqKHCJLSpN4xWlEGco) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Ontological Mysterium](https://open.spotify.com/album/3ss5c9CfkPvTQeQutNcJEm) | 3:29 | 2023-08-18 | 2023-09-27 |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
+| [New Heaven](https://open.spotify.com/track/60DoQZV7JpILjChQQp5OQO) | [Inter Arma](https://open.spotify.com/artist/5ZG7r3Jg0Y1hGQRMQ8hdRs) | [New Heaven](https://open.spotify.com/album/0YtPj00PGcE5yannxS5jdW) | 7:29 | 2024-03-01 |  |
 | [Newborn Skies](https://open.spotify.com/track/0B3UcAb86gHHzLmpP5q7en) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [Newborn Skies](https://open.spotify.com/album/5qTyqXuph0Q5vdq09skFhL) | 4:44 | 2023-09-01 | 2023-09-05 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 | 2022-10-28 |
 | [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 | 2023-05-06 |
@@ -525,7 +526,7 @@
 | [The Lust Called Knowledge \- Re\-Recorded 2022](https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [The Lust Called Knowledge \(Re\-Recorded 2022\)](https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v) | 4:31 | 2022-04-08 | 2022-07-26 |
 | [The Mask of Fate](https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO) | [ACOD](https://open.spotify.com/artist/6UDDF4b9a4zFj0voyjD4E1) | [Cryptic Curse](https://open.spotify.com/album/0r18y0KQKKKozZjsXQn8Bw) | 5:30 | 2023-02-15 | 2023-03-04 |
 | [The Middlemist Red](https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az) | [Dimman](https://open.spotify.com/artist/6QTX8AwQeLbU7QDEzi8zqZ) | [The Middlemist Red](https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o) | 3:59 | 2022-04-01 | 2022-07-17 |
-| [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 |  |
+| [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 | 2024-03-02 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/0lZFz009jZslzPn0ArTbkl) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves and Titan Woods](https://open.spotify.com/album/2xq8TaPMvQJaXMW79byymI) | 2:55 | 2022-07-13 | 2022-07-28 |
 | [The Pale Mist Hovers Towards the Nightly Shores](https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Through Chasm, Caves And Titan Woods](https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH) | 2:55 | 2022-07-13 | 2023-07-04 |
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 | 2022-05-07 |

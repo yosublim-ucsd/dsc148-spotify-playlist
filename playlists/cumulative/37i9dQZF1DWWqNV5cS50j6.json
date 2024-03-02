@@ -7752,7 +7752,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 125793,
       "name": "endlessly",
       "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
@@ -11944,6 +11944,24 @@
       "duration_ms": 157150,
       "name": "High Beams - JPEGMAFIA Remix",
       "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
+    },
+    {
+      "album": {
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
     },
     {
       "album": {

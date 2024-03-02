@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181935,
       "name": "Always Feel Like",
       "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
@@ -266,6 +266,28 @@
       "duration_ms": 195840,
       "name": "ARPT",
       "url": "https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd"
+    },
+    {
+      "album": {
+        "name": "Baile Lotad\u00e3o",
+        "url": "https://open.spotify.com/album/7LWs9wqCZIUPsZAllaKjEY"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Gesualdi",
+          "url": "https://open.spotify.com/artist/0ddLKgLdOJFY0ghicM70Wk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Baile Lotad\u00e3o",
+      "url": "https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9"
     },
     {
       "album": {
@@ -844,6 +866,28 @@
       "duration_ms": 162459,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT"
+    },
+    {
+      "album": {
+        "name": "DEEPER",
+        "url": "https://open.spotify.com/album/4xft6Pa0NAhIAJTJzccqHZ"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx"
     },
     {
       "album": {
@@ -2730,7 +2774,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152500,
       "name": "Same Man",
       "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"

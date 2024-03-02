@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 13288,
+  "2024-03-02": 13290,
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Coca Puma",
+  "description": "Il meglio dell'R&B italiano. Cover: AIN\u00c8",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2637,6 +2637,42 @@
       "duration_ms": 185000,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44"
+    },
+    {
+      "album": {
+        "name": "Fatti d'aria",
+        "url": "https://open.spotify.com/album/7fpugtPulAjH9kMEwmwixL"
+      },
+      "artists": [
+        {
+          "name": "Numb",
+          "url": "https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161675,
+      "name": "Fatti d'aria",
+      "url": "https://open.spotify.com/track/20iatI2WaswUmLlrzXw6sT"
+    },
+    {
+      "album": {
+        "name": "FATTI MALE",
+        "url": "https://open.spotify.com/album/14Qq14QzGl9cEJHEPxM0T4"
+      },
+      "artists": [
+        {
+          "name": "Etra",
+          "url": "https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167790,
+      "name": "FATTI MALE",
+      "url": "https://open.spotify.com/track/49MxfE9IRattxfhQ1YRchL"
     },
     {
       "album": {
@@ -6421,7 +6457,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194332,
       "name": "Paura",
       "url": "https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea"
@@ -7360,6 +7396,24 @@
     },
     {
       "album": {
+        "name": "Scappare - Giugno",
+        "url": "https://open.spotify.com/album/68Pak8YhgqY50x8o6YJhuZ"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166123,
+      "name": "Scappare - Giugno",
+      "url": "https://open.spotify.com/track/7ntdqyQyuyam0Q6xD4GGVe"
+    },
+    {
+      "album": {
         "name": "Scarico",
         "url": "https://open.spotify.com/album/0DnCrCI9lCuKPrabhCgAxt"
       },
@@ -7657,7 +7711,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198000,
       "name": "Sere di seta",
       "url": "https://open.spotify.com/track/4HGgt8fZG3dNFk7XskuqZi"
@@ -9349,7 +9403,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182423,
       "name": "VUOI DIRMI",
       "url": "https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG"

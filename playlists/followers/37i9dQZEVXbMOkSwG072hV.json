@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 353497,
+  "2024-03-02": 353496,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -229,7 +229,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 233521,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
@@ -6857,7 +6857,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
@@ -26127,10 +26127,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 99692,
       "name": "MONTAGEM DIAMANTE ROSA",
       "url": "https://open.spotify.com/track/6dvTvQebHmNfnM7PdoivUx"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99720,
+      "name": "MONTAGEM DIAMANTE ROSA",
+      "url": "https://open.spotify.com/track/6vEOZGTBgE6gASrzAWNxTH"
     },
     {
       "album": {
@@ -26145,10 +26163,28 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 114951,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114984,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
     },
     {
       "album": {
@@ -34814,6 +34850,24 @@
     },
     {
       "album": {
+        "name": "RITMINHO DO FUNK CARIOCA",
+        "url": "https://open.spotify.com/album/79f6J7SdFhPlscCB4e5sBW"
+      },
+      "artists": [
+        {
+          "name": "Evrido",
+          "url": "https://open.spotify.com/artist/3nPR47yybren4Tgt40dstS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395737,
+      "name": "RITMINHO DO FUNK CARIOCA",
+      "url": "https://open.spotify.com/track/0NfTUts3LtgpVVaZQ1wBwI"
+    },
+    {
+      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -42295,7 +42349,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 263702,
       "name": "Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/0cK1rd4UAIzTnPtuWFqumn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,560 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,635 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Take Me There](https://open.spotify.com/track/6wppmoqQvk2rUGzKim8K5Y) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5wNMnvFyKVVNlK0evqu5Xv) | 3:15 |
 | 50 | [Fortress](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/0UG9EkpapSwVURP5SM5qIg) | 4:46 |
 
-Snapshot ID: `MCwxZDViM2M3M2QyZjc0NjY2MWE4Y2RkOTgwYjFmOWVkNDRhNTFkOWEy`
+Snapshot ID: `MCwzNzY1MWRlOTAwZDNhYTQ0N2Q3ZmI0NzNlNDVjNzc3ODI3NzQ5OTk5`

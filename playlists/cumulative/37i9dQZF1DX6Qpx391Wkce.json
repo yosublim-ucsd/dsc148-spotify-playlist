@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Fast Moves",
+        "url": "https://open.spotify.com/album/2twrpjGygBmaKUh4cOrjpK"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299583,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/34MukZuxsmQBRyCaeycuFf"
+    },
+    {
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 412992,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3uOXxIdIEjsUjgI3SeSb1E"
@@ -1175,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Feel It (Remixes)",
+        "url": "https://open.spotify.com/album/6b7HnXI81jw4qyJYYXKVxj"
+      },
+      "artists": [
+        {
+          "name": "Gary Beck",
+          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319282,
+      "name": "Feel It - Gary Beck Decade Remix",
+      "url": "https://open.spotify.com/track/5akQPrfIgsa1spWEmY31LK"
+    },
+    {
+      "album": {
         "name": "Feel The Bass",
         "url": "https://open.spotify.com/album/5XJP3kCNx6JzzcFoLlrhqx"
       },
@@ -1226,6 +1262,24 @@
       "duration_ms": 240000,
       "name": "Filthy",
       "url": "https://open.spotify.com/track/6ko1CEDLBksdlNlMknDVNo"
+    },
+    {
+      "album": {
+        "name": "Flashback 98",
+        "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Flashback 98",
+      "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
     },
     {
       "album": {
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 262653,
       "name": "I Just Wanna Rave",
       "url": "https://open.spotify.com/track/5U7mKOCKRs5xPYOpcggQXi"
@@ -1963,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Les Dangereux",
+        "url": "https://open.spotify.com/album/0WqJXLO6FiPrIWg7z5WEFv"
+      },
+      "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229161,
+      "name": "Les Dangereux",
+      "url": "https://open.spotify.com/track/4xnYHCRaTpO2fzx6eCmBtv"
+    },
+    {
+      "album": {
         "name": "Let Go (KL\u00d8SET Remix)",
         "url": "https://open.spotify.com/album/1rJLukLTIECPuZqD2TpkhF"
       },
@@ -2014,7 +2090,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 378520,
       "name": "Levante En Llamas",
       "url": "https://open.spotify.com/track/2uAQjEwTwZOVntmQiizP2D"
@@ -2200,6 +2276,24 @@
       "duration_ms": 399022,
       "name": "LXR02",
       "url": "https://open.spotify.com/track/3T8drVfyLMXG9eyOCqJgjb"
+    },
+    {
+      "album": {
+        "name": "In Memoro (The Festival Versions)",
+        "url": "https://open.spotify.com/album/0v8C4BkfuVcZXD8MxgqDX3"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454596,
+      "name": "Lxr02 - Extended Mix",
+      "url": "https://open.spotify.com/track/1maTikxNuIxTTd4fseMPDN"
     },
     {
       "album": {
@@ -2473,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "HOF",
+          "url": "https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327500,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA"
+    },
+    {
+      "album": {
         "name": "Night Girl",
         "url": "https://open.spotify.com/album/2hUal3PIUjA2eM0u516gID"
       },
@@ -2641,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Circular EP",
+        "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5NZ9LVbLXUegemJ6nE25Dr"
+    },
+    {
+      "album": {
         "name": "Outside Time",
         "url": "https://open.spotify.com/album/6XskRNKES3V9dY2SSZ0H6s"
       },
@@ -2736,6 +2870,28 @@
       "duration_ms": 237727,
       "name": "Palm Strings",
       "url": "https://open.spotify.com/track/0u2ay7AAm7Jr5FHycGkLEN"
+    },
+    {
+      "album": {
+        "name": "Panzer EP",
+        "url": "https://open.spotify.com/album/19QiOW8rchT5TJOvYTf0XW"
+      },
+      "artists": [
+        {
+          "name": "Dok & Martin",
+          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
+        },
+        {
+          "name": "Luis Miranda",
+          "url": "https://open.spotify.com/artist/41zyWmhhxxcTSTy5Yul7hC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406748,
+      "name": "Panzer",
+      "url": "https://open.spotify.com/track/5DHJrAlDB1lunTlLZsKizY"
     },
     {
       "album": {
@@ -3044,7 +3200,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220137,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl"
@@ -3128,7 +3284,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 314666,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/4lyQcMDrE2RRT68W3UgxlE"
@@ -3314,7 +3470,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 376939,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/3mi6n3JAIZmacRverAt6zx"
@@ -3358,6 +3514,28 @@
       "duration_ms": 380499,
       "name": "Shiver - Ivory (IT) Remix",
       "url": "https://open.spotify.com/track/3iGQ4zDfDWC0lTVb3J72rz"
+    },
+    {
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394681,
+      "name": "Silo",
+      "url": "https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx"
     },
     {
       "album": {
@@ -3419,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Sleeptalker",
+        "url": "https://open.spotify.com/album/5ZShq6NHWQse7e7jikGvDp"
+      },
+      "artists": [
+        {
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352941,
+      "name": "Sleeptalker",
+      "url": "https://open.spotify.com/track/176w9UNyXFlr7sRRPFPyLn"
+    },
+    {
+      "album": {
         "name": "Global Underground #45: Danny Tenaglia - Brooklyn (DJ Mix)",
         "url": "https://open.spotify.com/album/08NPt2t8kfzMwLPvRLTRsG"
       },
@@ -3434,7 +3630,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147098,
       "name": "So Good - Mixed",
       "url": "https://open.spotify.com/track/35rdtaNeNBdllnMFSTPzig"
@@ -3835,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/7DL18YPq4PKhLKoc1N95KQ"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331764,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/4dDAcO3NtpMcMddO0wulLN"
+    },
+    {
+      "album": {
         "name": "The House of House (1994 Remix by Thomas Schumacher)",
         "url": "https://open.spotify.com/album/3xdslxjDIK3hHNwgxTIJBP"
       },
@@ -4002,7 +4216,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 375434,
       "name": "The Wall",
       "url": "https://open.spotify.com/track/3maGqfN1jMFMEa0Zo0CF5I"
@@ -4038,7 +4252,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 338391,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/65g7zvBEPVzrQbqo9Plylw"
@@ -4228,6 +4442,28 @@
       "duration_ms": 275472,
       "name": "Voicemail - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
+    },
+    {
+      "album": {
+        "name": "Fusion Remixes 01/03",
+        "url": "https://open.spotify.com/album/4K4CCJFkApdGn8NzMF3u8I"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        },
+        {
+          "name": "Arthur Robert",
+          "url": "https://open.spotify.com/artist/03fCnnnuTnIahIcmQ8NjM4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345732,
+      "name": "Voices - Arthur Robert Remix",
+      "url": "https://open.spotify.com/track/2WtUfRIT3yd23BsqnteCEZ"
     },
     {
       "album": {

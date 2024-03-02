@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 79613,
+  "2024-03-02": 79682,
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Platform, Peipper, Gino Mella, Marioo, Soge Culebra",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -299,7 +299,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 282758,
       "name": "Asante",
       "url": "https://open.spotify.com/track/2F3k8A61aTbtXlL6NS4vay"
@@ -953,6 +953,24 @@
       "duration_ms": 185067,
       "name": "Controller",
       "url": "https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/0hAbQ2yAopHo4xs4iw4mhi"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202683,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/4HU8Lq2LQZxiUTlkKXZzId"
     },
     {
       "album": {
@@ -4778,6 +4796,24 @@
     },
     {
       "album": {
+        "name": "Nisiulizwe",
+        "url": "https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Nisiulizwe",
+      "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
+    },
+    {
+      "album": {
         "name": "Nitalia",
         "url": "https://open.spotify.com/album/7kqrfkGS4YtIhjhImKhBBK"
       },
@@ -6993,7 +7029,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 192931,
       "name": "Wapo",
       "url": "https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl"

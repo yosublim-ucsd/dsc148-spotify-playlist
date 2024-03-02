@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 30 min
+73 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [My World](https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:35 | 2022-06-09 |  |
 | [My World \- New Version \-](https://open.spotify.com/track/1Vnupt0iRBVZOYzl8BBgcc) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [My World \- New Version \-](https://open.spotify.com/album/5I4Z2hQIgSHnosN16DXXU5) | 3:25 | 2023-06-28 | 2023-11-11 |
 | [Naked](https://open.spotify.com/track/5Nlre0NP8loKSz9uHA8YZX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:49 | 2022-06-09 |  |
-| [NO\-ID](https://open.spotify.com/track/1V8zHDExMGLyqRJ8hQZk8m) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-17 |  |
+| [NO\-ID](https://open.spotify.com/track/1V8zHDExMGLyqRJ8hQZk8m) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt), [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-17 | 2024-03-02 |
 | [One Day](https://open.spotify.com/track/4VKImVpGSJ60yBqjiKDPvZ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [One Day](https://open.spotify.com/album/06vhdKdFBVOac6Vm96FFoB) | 3:22 | 2022-06-09 |  |
 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 | 2022-06-09 |  |
 | [PRIDE OF LIONS](https://open.spotify.com/track/66CGPgISLBlzp7hxdgvMrS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:22 | 2022-06-11 | 2024-03-01 |
@@ -51,6 +51,7 @@
 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 | 2022-06-09 |  |
 | [RE\-BIRTH](https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3) | 4:16 | 2023-07-08 |  |
 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 | 2022-06-09 |  |
+| [Rockin' the World \- JUST LIKE THIS 2023 Live](https://open.spotify.com/track/22ndPp0OYgwaUEx8TNb9cQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [JUST LIKE THIS 2023 \(Live\)](https://open.spotify.com/album/6c9wh6Rc11f0p7HGUFVOdb) | 1:58 | 2024-03-01 |  |
 | [SINGING](https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [LIAR](https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk) | 4:05 | 2022-06-09 |  |
 | [Stand by me](https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 | 2022-08-24 |  |
 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 | 2022-06-09 |  |

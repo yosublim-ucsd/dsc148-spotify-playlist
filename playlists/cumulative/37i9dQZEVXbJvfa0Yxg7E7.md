@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,543 songs - 3 day 8 hr 23 min
+1,544 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2022-06-05 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-09-27 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 |  |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-26 | 2024-03-02 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-27\* | 2021-04-11 |
 | [For evig](https://open.spotify.com/track/6TEXcXRf5Fq9FBJPAGHilB) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/2sRmW09SjgbrLivAhaZrN2) | 3:20 | 2022-10-22 | 2022-11-06 |
 | [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-06 | 2023-03-26 |
@@ -780,6 +780,7 @@
 | [Kaleidoskophimmel](https://open.spotify.com/track/3wxkxuisoRkt3NNeUTUfpx) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Kaleidoskophimmel](https://open.spotify.com/album/6t8SQHoM7vKxQU8SMs81F1) | 6:24 | 2023-08-19 | 2023-08-21 |
 | [kamera demon](https://open.spotify.com/track/2S4dVxsSZdAjNFuqoVQkLv) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [kamera demon](https://open.spotify.com/album/3kcuw3B5Kvh8QNgkQ0PxX7) | 2:49 | 2022-03-26 | 2022-03-28 |
 | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/track/7Lc4xMmX0CBvs4lZ4P9QVn) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/album/3rm5oG1zo2hw8nrUHFGegU) | 2:59 | 2021-05-16 | 2021-05-19 |
+| [KANTER DU](https://open.spotify.com/track/5hYcocny7kd8noJBQr9TNC) | [Johnnyboaih](https://open.spotify.com/artist/4y79UfIrd99xgLn0uCgP2Z), [MC Grüber](https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH) | [KANTER DU](https://open.spotify.com/album/5rcFEYTdkjUgDbdjOzUfVE) | 2:04 | 2024-03-01 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-30 |
 | [Kattepus](https://open.spotify.com/track/7If31adCR25NKFPeoSgVpr) | [Arif](https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Kattepus](https://open.spotify.com/album/0w0bzlvYLCLUMfuWuPRKDI) | 2:55 | 2021-10-31 | 2021-10-31 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-23 |

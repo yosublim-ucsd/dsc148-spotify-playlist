@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,595 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,611 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 17 | [Plus tard](https://open.spotify.com/track/6NwkyHDIPYoJNEzpb6aXCR) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vie de rêve](https://open.spotify.com/album/0glCy1Eg7cdO7RsIXXucHn) | 3:23 |
 | 18 | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Giant \(with Rag'n'Bone Man\)](https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K) | 3:49 |
 | 19 | [Thérapie](https://open.spotify.com/track/68lnnqUEbjOv8jZ3KhQy5m) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Lettre infinie](https://open.spotify.com/album/4yYVqX2KierVI3nDV0M2UL) | 2:58 |
-| 20 | [Timber \(feat\. Ke$ha\)](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 |
+| 20 | [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 |
 | 21 | [Donnez\-moi](https://open.spotify.com/track/2057R2gFq9MZfTzej3tSwS) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Les Frangines \(Nouvelle édition\)](https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5) | 3:34 |
 | 22 | [Never Seen the Rain](https://open.spotify.com/track/3FHLkTWV2QvC8J0YhX4muT) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 3:20 |
 | 23 | [La fête](https://open.spotify.com/track/7y9gbZ9CUnYkpBK4q0qnjB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [La fête](https://open.spotify.com/album/3ojtdYgUS8esFGvC7o990s) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 59 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 60 | [Le plus fort du monde](https://open.spotify.com/track/0ZUAu9lg95YEVqV7M0GQf8) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait \(Réédition\)](https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI) | 3:19 |
 
-Snapshot ID: `MCxkMjE4ZTJjYjA5YTIzN2Y2YmRhOTdmZTE2ZWQwODI2YzlhNjI2NmZl`
+Snapshot ID: `MCw2MTgxN2E0YTEyNGIwZWYzYTg2NDRkMTgwODA3NjllNmE4YTQ3MDFj`

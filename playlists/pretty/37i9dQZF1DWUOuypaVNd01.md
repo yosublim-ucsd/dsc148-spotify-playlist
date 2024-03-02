@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,610 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,635 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 28 | [Bonde da Rock \- Remix](https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:12 |
 | 29 | [Zona Leste](https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [The King Of Drill "TKOD"](https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z) | 2:27 |
 | 30 | [Kenner](https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Korsain](https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL) | [40˚.40 Deluxe](https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM) | 3:17 |
-| 31 | [TAÇA](https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 3:06 |
-| 32 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 |
+| 31 | [9mm](https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:05 |
+| 32 | [TAÇA](https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 3:06 |
 | 33 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
 | 34 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 35 | [Concreto](https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Concreto](https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Ruas da Leste](https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK) | [Teixeirw](https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Ruas da Leste](https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY) | 2:49 |
 | 50 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 
-Snapshot ID: `MCw4MGJmNTVjYTg3NTkxNTA0YzhjYTVhNThkNjcxZGNhNWUyYTQ4MDQ1`
+Snapshot ID: `MCxlMDVkMWEyNjk1MWU3NDE3MzFiY2IyNzQzZjZlZjVhOTY2Yzk5MWMy`

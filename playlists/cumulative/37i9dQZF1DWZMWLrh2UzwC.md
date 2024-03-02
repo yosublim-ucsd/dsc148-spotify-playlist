@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Misha Omar
 
-9,561 songs - 21 day 19 hr 49 min
+9,564 songs - 21 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2269,6 +2269,7 @@
 | [Dum Dum \- English Version](https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-16 | 2023-03-25 |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-18 | 2024-01-26 |
 | [Dunia Drives My Car](https://open.spotify.com/track/46bTc395qmtB1GazI0ui5B) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [BORDER ROOM](https://open.spotify.com/album/6dIwYCSul7keEQ6pd1q83Y) | 3:37 | 2024-01-25 | 2024-02-02 |
+| [dusk twilight \(feat.NATTY \(KISS OF LIFE\)\)](https://open.spotify.com/track/4wzzsbTftX8NPnhIV1kH3A) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [NATTY \(KISS OF LIFE\)](https://open.spotify.com/artist/4s8F1LKiyDPt0NacvMI7rx) | [dusk twilight 2024](https://open.spotify.com/album/1EOmX9zvLs5mF2ei16d2R7) | 3:23 | 2024-02-29 |  |
 | [Dust](https://open.spotify.com/track/0i2J3DyqIjGq5oPNROdgeO) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Dust](https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s) | 3:47 | 2021-12-30 | 2022-01-07 |
 | [DXO](https://open.spotify.com/track/54Z4gh5WxMXjeFbgRT9AAf) | [Houg](https://open.spotify.com/artist/0vVxjtPEFg8rqZ1cSCja7v) | [The Biting Tempo](https://open.spotify.com/album/4aOfUdJrHFI6sz2rCfx0M7) | 2:50 | 2022-03-03 | 2022-03-11 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-24 | 2022-03-04 |
@@ -4635,6 +4636,7 @@
 | [like that x4](https://open.spotify.com/track/41iVxKOcl1e4hZtheCca2R) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [like that x4](https://open.spotify.com/album/4UWdCcyQ9m7p7kaKFMIq2Q) | 2:06 | 2024-01-04 | 2024-01-12 |
 | [like this.](https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [like this.](https://open.spotify.com/album/3Ekhh7ssCTsnvLbAibEhXa) | 2:19 | 2023-06-22 | 2023-06-30 |
 | [like u](https://open.spotify.com/track/6xQ4rD1wJqsMGod1op0PW4) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [like u](https://open.spotify.com/album/3Q7ntjuAdwCjXhgLnbf2qt) | 2:27 | 2023-06-29 | 2023-07-07 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-02-29 |  |
 | [Like What I See](https://open.spotify.com/track/2k4sKRsgQb4zl5pB3kXmYw) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [Like What I See](https://open.spotify.com/album/2sfF38VWzLyQmTZjCHXIgj) | 2:42 | 2022-11-24 | 2022-12-02 |
 | [Like You](https://open.spotify.com/track/5ouDX0ynSuadLgK1Ew9bGF) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Like You](https://open.spotify.com/album/1EWa7xGKLCvY4yxX36YvPP) | 2:16 | 2023-12-07 | 2023-12-15 |
 | [Liked You Better](https://open.spotify.com/track/2ScZ1hahiTjElGjfY5MuxS) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Liked You Better](https://open.spotify.com/album/3EvngWJujfcikh6iN246vx) | 2:55 | 2022-04-14 | 2022-04-22 |
@@ -7136,6 +7138,7 @@
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-07 | 2023-12-15 |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-04 | 2022-08-12 |
 | [So Called Friend](https://open.spotify.com/track/41LWWiTf1fEVXDRgK31UXy) | [Dolly Ave](https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk) | [So Called Friend](https://open.spotify.com/album/0zAoM75capf0ydqURi7Pxq) | 3:03 | 2023-03-02 | 2023-03-10 |
+| [so easy](https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X), [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [so easy](https://open.spotify.com/album/3HiTBZ5YJbmGRhoEv2wpDf) | 2:58 | 2024-02-29 |  |
 | [So Far Away](https://open.spotify.com/track/21kQdblL7CTYzOjlFlD3lV) | [ANDREAH](https://open.spotify.com/artist/02yssJvjMJdJ3nueVhig4j) | [So Far Away](https://open.spotify.com/album/0TVRdGCGcyJ1Uj34ZdEmEO) | 4:03 | 2022-09-22 | 2022-09-30 |
 | [so fire](https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [so fire](https://open.spotify.com/album/3fSD8ylQNPfUx1fGEAZLb8) | 2:35 | 2023-05-11 | 2023-05-19 |
 | [SO GO](https://open.spotify.com/track/5YRRzJJYwJKPbG5dJkYL3u) | [Toby Madox](https://open.spotify.com/artist/233RJO2yV7s3pKOHhGGVPw) | [SO GO](https://open.spotify.com/album/4ocHGXNYhCUcNmU4mR6puc) | 3:01 | 2023-03-09 | 2023-03-18 |

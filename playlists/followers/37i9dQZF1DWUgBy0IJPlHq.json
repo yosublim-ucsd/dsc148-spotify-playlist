@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 506273,
+  "2024-03-02": 506452,
   "date_first_scraped": "2021-12-21",
   "description": "A new shade of Country. Cover: Kacey Musgraves \ud83c\udf3c",
   "name": "Indigo",
@@ -209,28 +209,6 @@
     {
       "album": {
         "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "date_added": "2024-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190266,
-      "name": "A Life Where We Work Out (feat. Kaitlin Butts)",
-      "url": "https://open.spotify.com/track/5UyBjTBy4XxqQT2qHksbo0"
-    },
-    {
-      "album": {
-        "name": "Humble Folks",
         "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
       },
       "artists": [
@@ -249,6 +227,28 @@
       "duration_ms": 190266,
       "name": "A Life Where We Work Out (feat. Kaitlin Butts)",
       "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
+    },
+    {
+      "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/0uoIEPON8NkkkCjhpXJ9g8"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "A Life Where We Work Out (with Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/5UyBjTBy4XxqQT2qHksbo0"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 70596,
+  "2024-03-02": 70598,
   "date_first_scraped": "2022-06-10",
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
   "name": "Domino Sound System",
@@ -581,7 +581,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175023,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
@@ -1297,10 +1297,28 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 251675,
       "name": "Be My Best",
       "url": "https://open.spotify.com/track/4lOzsIKfOxu4yLwwoeDqEE"
+    },
+    {
+      "album": {
+        "name": "Beaucoup",
+        "url": "https://open.spotify.com/album/35bJWIoMYioo7R5CBUODTJ"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304426,
+      "name": "Beaucoup",
+      "url": "https://open.spotify.com/track/0BG1ps8MMVcCS5ywRGbaO3"
     },
     {
       "album": {
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 254000,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
@@ -2153,6 +2171,24 @@
       "duration_ms": 211839,
       "name": "Chaise Longue - Unknown Mortal Orchestra remix",
       "url": "https://open.spotify.com/track/63HfmTwWZVD3nk34OFJv05"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0PCRrgbxk2szcZCgTy6frH"
+      },
+      "artists": [
+        {
+          "name": "Dancer",
+          "url": "https://open.spotify.com/artist/4aRuyN2moR9xvYmIzUHiR1"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166944,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5YPyu3NVkNqoQsPXBVxyT2"
     },
     {
       "album": {
@@ -3425,7 +3461,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 252361,
       "name": "Don't Take It Personal",
       "url": "https://open.spotify.com/track/2QjO1iDxh78l7ogVCzWU4w"
@@ -4532,6 +4568,24 @@
     },
     {
       "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk"
       },
@@ -4543,7 +4597,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 168173,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx"
@@ -4821,6 +4875,24 @@
       "duration_ms": 161626,
       "name": "Fulton Park",
       "url": "https://open.spotify.com/track/6vbBJu0Tsx3nqrgVGydxKB"
+    },
+    {
+      "album": {
+        "name": "Funeral for Justice",
+        "url": "https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188620,
+      "name": "Funeral for Justice",
+      "url": "https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF"
     },
     {
       "album": {
@@ -5510,6 +5582,24 @@
     },
     {
       "album": {
+        "name": "Hand On Me",
+        "url": "https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215786,
+      "name": "Hand On Me",
+      "url": "https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c"
+    },
+    {
+      "album": {
         "name": "Hands Of Man",
         "url": "https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2"
       },
@@ -5745,7 +5835,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141106,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/62oTXp4z6RWJoW8vr778R7"
@@ -5995,6 +6085,24 @@
       "duration_ms": 255168,
       "name": "Hollow - Live at The Murmrr Theatre",
       "url": "https://open.spotify.com/track/7CivBOUc92Q3P8N1CV9Cr2"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i"
     },
     {
       "album": {
@@ -6301,7 +6409,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 272693,
       "name": "I Know That It\u2019s Like This (Baby)",
       "url": "https://open.spotify.com/track/2berFinu7WImpR2fHLO8YV"
@@ -8600,6 +8708,24 @@
     },
     {
       "album": {
+        "name": "Milky Max",
+        "url": "https://open.spotify.com/album/3syXhcHE5q9MImhpBtNzCY"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Milky Max",
+      "url": "https://open.spotify.com/track/3W01BtdX8jFwHaqudhTC50"
+    },
+    {
+      "album": {
         "name": "Mill",
         "url": "https://open.spotify.com/album/0vsLukwfbpsX7p2QV3wvAh"
       },
@@ -9652,6 +9778,32 @@
     },
     {
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/0CyUPFFNq7xvYvbD5NsfD5"
+      },
+      "artists": [
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        },
+        {
+          "name": "Noah Hoffeld",
+          "url": "https://open.spotify.com/artist/1SHHVoLzMa265vahYHbzm7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/3hBjjpjZE1e8xwccLhwlpY"
+    },
+    {
+      "album": {
         "name": "The Window Is The Dream",
         "url": "https://open.spotify.com/album/3EnBXhKmxcca2l2YfMfVZr"
       },
@@ -10601,7 +10753,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 208218,
       "name": "Pressure Pad",
       "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
@@ -10931,7 +11083,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 288826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4cE5VRcJURYP6hIyFF29N4"
@@ -11524,6 +11676,24 @@
     },
     {
       "album": {
+        "name": "Sick In The Head",
+        "url": "https://open.spotify.com/album/1JbHdwmAiuzdLBWkrb82FI"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152197,
+      "name": "Sick In The Head",
+      "url": "https://open.spotify.com/track/68BdSOmA7qvEbMF9w6juyo"
+    },
+    {
+      "album": {
         "name": "Sickworld",
         "url": "https://open.spotify.com/album/3J1gp2Jd47E7bb5JeQZojv"
       },
@@ -12067,7 +12237,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 374468,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3"
@@ -12655,7 +12825,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 258933,
       "name": "Tear Gas",
       "url": "https://open.spotify.com/track/1hiVYjWEA0DMHYHBy61pHC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,929 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,952 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 2 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 |
 | 3 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 |
 | 4 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 |
-| 5 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 |
+| 5 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 |
 | 6 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 7 | [Ishq Ibaadat Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat Unplugged](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 |
 | 8 | [Rehne De](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 4:18 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCwzZDUyYWM1Zjc4N2VjN2FmMTkzYTY0NDE1MzJjNjQyYzQ3ODg5ODEz`
+Snapshot ID: `MCwyYzZlZTJlMTNlOWRkYjFmZWNhYWE0ZDNiNDkwNmFlNWZhZTU4YTgx`

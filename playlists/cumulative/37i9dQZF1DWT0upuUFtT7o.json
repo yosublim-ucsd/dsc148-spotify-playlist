@@ -14515,6 +14515,24 @@
     },
     {
       "album": {
+        "name": "Gun",
+        "url": "https://open.spotify.com/album/7nXbA6TRS8UL8md9Q1ZXCp"
+      },
+      "artists": [
+        {
+          "name": "Cancel",
+          "url": "https://open.spotify.com/artist/4NWzLCBc7BWOFdTVKewO4Q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/5etSvIy1fQ3TaA8b79lDuu"
+    },
+    {
+      "album": {
         "name": "Gun Shy",
         "url": "https://open.spotify.com/album/5LlDx6jpT2hit9RynClr6Z"
       },

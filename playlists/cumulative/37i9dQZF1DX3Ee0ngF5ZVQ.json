@@ -6493,6 +6493,28 @@
     },
     {
       "album": {
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "album": {
         "name": "New Tattoos",
         "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
@@ -7714,7 +7736,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 244655,
       "name": "Saturday Night Comes Once A Week",
       "url": "https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc"

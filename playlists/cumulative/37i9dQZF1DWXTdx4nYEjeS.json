@@ -8543,6 +8543,28 @@
     },
     {
       "album": {
+        "name": "Kapun",
+        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183422,
+      "name": "Kapun",
+      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
+    },
+    {
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2"
       },
@@ -14574,7 +14596,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"

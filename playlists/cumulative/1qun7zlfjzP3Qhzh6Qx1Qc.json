@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "2AM in London",
+        "url": "https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "2AM in London",
+      "url": "https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP"
+    },
+    {
+      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231552,
       "name": "A Little Devil",
       "url": "https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO"
@@ -308,6 +326,24 @@
       "duration_ms": 220143,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP"
+    },
+    {
+      "album": {
+        "name": "Broken Man",
+        "url": "https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg"
     },
     {
       "album": {
@@ -650,7 +686,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234726,
       "name": "Farm Life",
       "url": "https://open.spotify.com/track/1AnyVJtf7dbqvLfQ9ysFza"
@@ -1481,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Norther",
+        "url": "https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253280,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/0dpPQBxFuXkSQuFHVF6rq4"
+    },
+    {
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo"
       },
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 170115,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/6mUUQr215s23jThLTzuLm7"

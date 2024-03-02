@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,620 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,648 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Feels Like Love](https://open.spotify.com/track/5lsCfINkhQtzDgtHZfVxpP) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:22 |
 | 50 | [Mr\. Navigator](https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Mr\. Navigator](https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy) | 2:32 |
 
-Snapshot ID: `MCxmYjEyMDJkZDczZmVmMjljOGI2NWZlOTc3MGM3ZTVmYzViNWFhYWFi`
+Snapshot ID: `MCxjZjM3NTU1YjZiNDdiN2YxNzJlOTc4MGUwMDJmZTJlZjM0YWQ3ZTU2`

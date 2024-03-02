@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2612565,
+  "num_followers": 2612732,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmFkOTFmY2NkODJhNWIxOWFjZjljNWUxYTEwYjIyY2YzNTQyMDJk",
+  "snapshot_id": "MCwzNmUwMGMwZDM0ZTg5YWRhZmYyYTBjYTMyMzMxZjJmN2UwNGVjMWUz",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -249,6 +249,22 @@
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "Cool Relax",
+        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "In Full Bloom",
@@ -279,22 +295,6 @@
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
-    },
-    {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "Cool Relax",
-        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",

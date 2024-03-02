@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/6j2ZnN1A2xcWQMELm6hcdI.md) - cumulative - [plain](/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6j2ZnN1A2xcWQMELm6hcdI)
 
-### [On Fleek](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
+### [Influence 💅 Hot Girl Era 2024](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Lola Brooke
+> The baddest and most influential women in music \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Chlöe
 
-424 songs - 21 hr 1 min
+427 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All Mine](https://open.spotify.com/track/1NTkBmlvXj3R4nHNbRvQhI) | [Bahja Rodriguez](https://open.spotify.com/artist/7BmPndqloczpnUH2Xu8G29) | [All Mine](https://open.spotify.com/album/5HfRomFAcnSvhGJEDMFE3J) | 2:49 | 2023-02-17 |  |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-19 |  |
 | [All the Ladies](https://open.spotify.com/track/19GpYDzW77W8HBMGOwwcO5) | [Operation Mincemeat](https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX) | [Operation Mincemeat: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3) | 2:12 | 2023-06-02 |  |
+| [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-01 |  |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 |  |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 | 2023-07-29 |
 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 | 2023-08-04 |  |
@@ -109,6 +110,7 @@
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2023-07-29 |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2023-07-14 |  |
 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/3xRFepeq4ID4s2sSETT55F) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [DIY \(From “American Song Contest”\)](https://open.spotify.com/album/3Z7YIniLsNjCyhKDqPyUph) | 2:39 | 2022-06-03 | 2023-07-29 |
+| [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-03-01 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2022-06-03 | 2023-06-10 |
 | [don't break my...](https://open.spotify.com/track/4IobQL4j9hi0KdYoRFA4n9) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [don't break my...](https://open.spotify.com/album/4H3mkT4AxfYkDpdVR1mafr) | 2:10 | 2023-12-15 |  |
 | [Don't Start Now](https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 2:04 | 2023-01-06 | 2023-07-29 |
@@ -150,6 +152,7 @@
 | [FU\-150](https://open.spotify.com/track/0Nb7pW1koAiWGfCMVD23oT) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [FU\-150.](https://open.spotify.com/album/7D0ZMLCytmMnz3P1zQeZuU) | 2:53 | 2023-04-28 |  |
 | [Funeral 4 My Feelings](https://open.spotify.com/track/0XAlAkYXnNREjB0QnGh0rE) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Funeral 4 My Feelings](https://open.spotify.com/album/5J3Jec77GroGqTneEMV4WD) | 2:45 | 2023-06-02 |  |
 | [FYM](https://open.spotify.com/track/3qwHvDDKYDONM97MV6jnRR) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [FYM](https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK) | 2:53 | 2022-06-03 | 2023-07-29 |
+| [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 |  |
 | [Galipette](https://open.spotify.com/track/4mQTPwMKPNLGODbonuGCtP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Galipette](https://open.spotify.com/album/1TGFqdW4JDw4YAgSLAawb2) | 2:03 | 2022-06-03 | 2023-07-29 |
 | [Galipette \- BIBI Remix](https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Galipette \(BIBI Remix\)](https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus) | 2:02 | 2022-06-03 | 2023-03-18 |
 | [GD Woman](https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE) | 2:58 | 2023-07-07 |  |

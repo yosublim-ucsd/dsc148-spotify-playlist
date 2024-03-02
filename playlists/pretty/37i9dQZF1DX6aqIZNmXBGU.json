@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17384,
+  "num_followers": 17381,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
+  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Onion",
-        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Carter",
         "url": "https://open.spotify.com/album/6YHygEcxxMN8qc1tSir660"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 161156,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/3soRnznKdQHTMmuW6wiUDY"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Onion",
+        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Loopholes",
-        "url": "https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe"
-      },
-      "artists": [
-        {
-          "name": "The Murlocs",
-          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
-        }
-      ],
-      "duration_ms": 190284,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "FIDLAR",
         "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 134026,
       "name": "No Waves",
       "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Loopholes",
+        "url": "https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe"
+      },
+      "artists": [
+        {
+          "name": "The Murlocs",
+          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0"
     },
     {
       "added_at": "2021-04-09 06:19:31",

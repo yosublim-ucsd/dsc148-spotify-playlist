@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,223 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,375 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 39 | [Se Te Olvidó](https://open.spotify.com/track/6FAQen0CdjEnMlUS84XMBy) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Se Te Olvidó](https://open.spotify.com/album/0GWovdEPvpI0iq4kgAop1c) | 2:50 |
 | 40 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 |
 | 41 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 |
-| 42 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
-| 43 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
+| 42 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
+| 43 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
 | 44 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
 | 45 | [Normal](https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Normal](https://open.spotify.com/album/7kRqoAgwxx9miEyVIfoqBS) | 3:02 |
 | 46 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 60 | [Hawai](https://open.spotify.com/track/3IDF1BcNLIIW25U4eZwLC7) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Nuevo Camino](https://open.spotify.com/album/2xsWSJbMDqj8w5wYsjcDIx) | 3:40 |
 | 61 | [Ojos Marrones](https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:40 |
 | 62 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
-| 63 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
-| 64 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
+| 63 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
+| 64 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
 | 65 | [La Curiosidad](https://open.spotify.com/track/750Jft4koW1yoribM3DtzT) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Convencido](https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb) | 3:32 |
 | 66 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
 | 67 | [Rosa Pastel](https://open.spotify.com/track/1WMK7SsidKdhRvApju1jAI) | [Karla Orellana](https://open.spotify.com/artist/3pi4RbA9ReDJ7uTCTRF3dx) | [Rosa Pastel](https://open.spotify.com/album/1Pw82F3xWXBW3iswNWW3dv) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 74 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
 | 75 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 |
 
-Snapshot ID: `MCxhNDIyOThiZDk3MThlN2UxODY3N2Y5ODExNWU2M2NmNWJlYmMzOGM2`
+Snapshot ID: `MCw3NjA4ZGY5MmFjODExMWUzNmNmMTE1NDhkZDhkM2UyZTdkZTVlN2U3`

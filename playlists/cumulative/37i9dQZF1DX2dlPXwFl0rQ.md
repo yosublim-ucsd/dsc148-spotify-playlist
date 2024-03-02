@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Las Marías en portada.
 
-369 songs - 19 hr 54 min
+371 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [JGL \(En Vivo\)](https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [JGL \(En Vivo\)](https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8) | 2:20 | 2022-07-01 | 2023-01-21 |
 | [La Cama No Miente](https://open.spotify.com/track/4ULKICvxhUw4gQmTQX8r7e) | [La Musa Marcela Mistral](https://open.spotify.com/artist/5PmRu986BRP3VgpVHEBa85) | [La Cama No Miente](https://open.spotify.com/album/6h40E1fUVVRVlSaNdiw57l) | 2:50 | 2021-12-17 | 2022-03-18 |
 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 | 2023-10-27 | 2024-02-24 |
+| [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 | 2024-03-01 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/3SsJ5CTzlCjkdT50TnsdcL) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [A Tu Salud](https://open.spotify.com/album/2gOqmt3eRAfyhBfRUb5pjf) | 3:26 | 2021-12-17 | 2022-03-18 |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 | 2021-12-17 | 2022-03-18 |
 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 | 2023-06-16 |  |
@@ -175,7 +176,7 @@
 | [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 | 2023-07-28 | 2024-01-13 |
 | [Malas Noticias](https://open.spotify.com/track/0w0f5plxeyfRx8neIHAFOQ) | [Aracely Arambula](https://open.spotify.com/artist/51uhuZObyBgFjQBS7DjKLk) | [Malas Noticias](https://open.spotify.com/album/5R3yaC2Y15BJgaSoi4G8bY) | 3:16 | 2021-12-17 | 2022-03-18 |
 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 | 2022-02-25 | 2023-01-21 |
-| [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 | 2021-12-17 |  |
+| [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 | 2021-12-17 | 2024-03-02 |
 | [Mas Cabrona Que Bonita](https://open.spotify.com/track/47qaLsUxBVX56IgAV2fn6F) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX) | [Mas Cabrona Que Bonita](https://open.spotify.com/album/75SGWux31wssycipYiYvmP) | 2:24 | 2022-01-28 | 2022-02-26 |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 | 2023-06-16 |  |
 | [Me Estoy Volviendo Loca](https://open.spotify.com/track/1divYQCik9Cc9C7s3Cbsu1) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano](https://open.spotify.com/album/6MHrApGXMR205wKeaiG9rb) | 4:19 | 2023-04-14 | 2023-06-17 |
@@ -189,6 +190,7 @@
 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 | 2023-06-16 |  |
 | [Mejor Me Voy](https://open.spotify.com/track/2nfZf1zElT1Us3mF9lXnhe) | [Alejandra Rojas](https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1) | [Mejor Me Voy](https://open.spotify.com/album/5jJAaItefrrTQYk1PXmu2w) | 3:36 | 2021-12-17 | 2022-04-09 |
 | [Mejor Vida](https://open.spotify.com/track/6QazgEu8ooIRRACpvqd51H) | [Connie P](https://open.spotify.com/artist/25WizF3rce8ABVnLs6tx3p) | [Mejor Vida](https://open.spotify.com/album/61WpkzQy9A6ESi5fuUBqkg) | 3:05 | 2022-04-29 | 2022-12-10 |
+| [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 | 2024-03-01 |  |
 | [Menti](https://open.spotify.com/track/61u5NazgHnQAIDmO0Mo4TD) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP) | [Mentí](https://open.spotify.com/album/7MUmaBa2nW1Jv5Jvzordk7) | 3:31 | 2021-12-17 | 2022-01-26 |
 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 | 2023-11-17 |  |
 | [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 | 2023-07-28 |  |
@@ -237,7 +239,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 | 2023-06-16 | 2023-08-05 |
 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 | 2021-12-17 | 2022-09-24 |
 | [Otra Oportunidad](https://open.spotify.com/track/0mbMWo3O3iewwXaruG4a7D) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Otra Oportunidad](https://open.spotify.com/album/2ZU47NVnfW1h5mpYSrRcLK) | 2:23 | 2022-09-23 | 2022-12-10 |
-| [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 | 2021-12-17 |  |
+| [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 | 2021-12-17 | 2024-03-02 |
 | [Pa Todo el Año](https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pa Todo El Año](https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T) | 3:08 | 2021-12-17 | 2022-04-09 |
 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 | 2022-09-02 | 2023-07-01 |
 | [Pa' la Fulana](https://open.spotify.com/track/6JtwdTGaXjSIwbZmfTxp41) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Pa' la Fulana](https://open.spotify.com/album/35qvXvf0NSDTrNZQhZdzbx) | 3:08 | 2022-04-08 | 2022-04-29 |

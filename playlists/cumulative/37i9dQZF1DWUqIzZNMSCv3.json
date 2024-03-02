@@ -289,6 +289,28 @@
     },
     {
       "album": {
+        "name": "Strauss: 5 Piano Pieces Op. 3, TrV 105: No. 1, Andante",
+        "url": "https://open.spotify.com/album/0F1u2TnD7187KGZYuWwNe1"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291973,
+      "name": "5 Piano Pieces Op. 3, TrV 105: No. 1, Andante",
+      "url": "https://open.spotify.com/track/1udE8BlEoI3vEiM5HnOAMt"
+    },
+    {
+      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a"
       },

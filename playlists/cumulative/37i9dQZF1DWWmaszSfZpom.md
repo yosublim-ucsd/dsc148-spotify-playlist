@@ -4,7 +4,7 @@
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-124 songs - 6 hr 1 min
+125 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Se Prepara 2](https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Se Prepara 2](https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP) | 2:27 | 2022-05-20 |  |
 | [Senta braba](https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Senta braba](https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN) | 2:29 | 2021-11-19 |  |
 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 | 2021-11-19 |  |
-| [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 | 2022-05-20 |  |
+| [Sentou e Gostou](https://open.spotify.com/track/49wWUH5FonVIohPr33W2OH) | [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s) | [Sentou e Gostou](https://open.spotify.com/album/0XvYpQaDKdRD2osAvKJ76d) | 2:43 | 2023-06-26 |  |
+| [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 | 2022-05-20 | 2024-03-02 |
 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 | 2021-11-19 | 2022-07-29 |
 | [Separei](https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Separei](https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM) | 2:42 | 2021-11-19 |  |
 | [Social Narga e Piscina](https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Social Narga e Piscina](https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT) | 3:05 | 2023-06-26 |  |

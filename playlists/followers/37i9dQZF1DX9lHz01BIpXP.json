@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 1408,
+  "2024-03-02": 1413,
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs_Q\">Umlungu The Rapper</a> & <a href=\"https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U-cG6Z0_TNu6lsKpLiOXHw\">Big Xhosa</a>",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=000QE8w3TOigD6pbhwU2-A\">Ziggy4x</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184018,
       "name": "Jou Mase",
       "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
@@ -1678,6 +1678,36 @@
     },
     {
       "album": {
+        "name": "BOSS NIGGAS ONLY V2",
+        "url": "https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd"
+      },
+      "artists": [
+        {
+          "name": "Boss Niggas Only",
+          "url": "https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq"
+        },
+        {
+          "name": "Jy Checkie",
+          "url": "https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst"
+        },
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
+        },
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196216,
+      "name": "Nigel Hulle",
+      "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"
+    },
+    {
+      "album": {
         "name": "Nikes & Jordans (Original)",
         "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
       },
@@ -1729,6 +1759,28 @@
       "duration_ms": 211206,
       "name": "nog 'n bietjie",
       "url": "https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399"
+    },
+    {
+      "album": {
+        "name": "Nou Wat Nou",
+        "url": "https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        },
+        {
+          "name": "Bula B",
+          "url": "https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222809,
+      "name": "Nou Wat Nou",
+      "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
     },
     {
       "album": {
@@ -2541,7 +2593,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 117894,
       "name": "Wie",
       "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"

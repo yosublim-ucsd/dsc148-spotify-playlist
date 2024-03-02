@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Christine's Theme",
+        "url": "https://open.spotify.com/album/76LfYcCT4zSe8Twa9ec8XK"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158706,
+      "name": "Christine's Theme",
+      "url": "https://open.spotify.com/track/6kjGo5VERVKcVs0pt7mtuK"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },
@@ -4580,6 +4598,24 @@
       "duration_ms": 364506,
       "name": "Jeux d'eau, M. 30",
       "url": "https://open.spotify.com/track/6UobDoELlmj6yvSBM4jcxI"
+    },
+    {
+      "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
     },
     {
       "album": {

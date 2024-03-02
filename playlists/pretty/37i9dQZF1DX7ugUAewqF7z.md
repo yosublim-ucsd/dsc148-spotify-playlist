@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,117 likes - 177 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,137 likes - 177 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 125 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
 | 126 | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 |
 | 127 | [이별 아닌 이별](https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:20 |
-| 128 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 |
+| 128 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 |
 | 129 | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/track/1i4nfd0n3FurIFsXcJGxdq) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/album/2HJUf6esRJKgY4ceH92mxt) | 4:43 |
 | 130 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 |
 | 131 | [연예인](https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [싸집](https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63) | 3:24 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 176 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 177 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCw3YTI3NzRhYTUxZjk1M2RiNzUyYjJhMTZlOGY4ZmVjZDc4ZmFjYzJh`
+Snapshot ID: `MCxkMjI3NWI3ZjVhMGVmMmQxYmViYmU3MGQwOGRkYzVjOWE0ZDc3MjZi`

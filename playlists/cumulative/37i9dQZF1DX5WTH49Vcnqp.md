@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Good Neighbours
 
-1,300 songs - 3 day 1 hr 37 min
+1,301 songs - 3 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-14 | 2024-02-16 |
 | [Congratulations](https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Congratulations](https://open.spotify.com/album/0T2tUhoUEv04RQBCc1qjAh) | 2:50 | 2022-09-15 | 2022-10-28 |
 | [Congratulations](https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:13 | 2022-10-06 | 2022-12-16 |
-| [Consequence](https://open.spotify.com/track/4sb5qz20HEPHDT9AJzAnmQ) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Under The Light](https://open.spotify.com/album/0gYjFl2KLiE1kxCBz3wDyq) | 3:57 | 2024-03-01 |  |
+| [Consequence](https://open.spotify.com/track/4sb5qz20HEPHDT9AJzAnmQ) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Under The Light](https://open.spotify.com/album/0gYjFl2KLiE1kxCBz3wDyq) | 3:57 | 2024-03-01 | 2024-03-02 |
+| [Consequence](https://open.spotify.com/track/7BSzIbxxhrdBAkVBHw3ISS) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Under The Light](https://open.spotify.com/album/6nQZCCnJGwRw7MECEYLS0j) | 3:57 | 2024-03-01 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-05-01 | 2023-06-09 |
 | [Corduroy](https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:38 | 2023-02-09 | 2023-04-21 |
 | [Corridor of Dreams](https://open.spotify.com/track/6fsUCTTpTbfREHoAR89Zcl) | [The Cleaners From Venus](https://open.spotify.com/artist/7ppwXAQNWfPDGu22hCk5Yr) | [Midnight Cleaners](https://open.spotify.com/album/0pMgdGYL1d7YfLZ6Y2PYLG) | 5:10 | 2023-04-06 | 2023-04-14 |

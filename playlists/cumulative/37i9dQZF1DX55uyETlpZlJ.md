@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-290 songs - 15 hr 43 min
+291 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 | 2024-01-05 |
-| [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 |  |
+| [FLYHIGH](https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl) | 3:55 | 2023-06-29 | 2024-03-02 |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 |  |
 | [FREE STYLE](https://open.spotify.com/track/4niYNBF9Y0L39KRtEEtjTg) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [FREE STYLE](https://open.spotify.com/album/6zPG6hSKKscA8n7EdDi5JF) | 1:15 | 2024-02-14 | 2024-02-20 |
 | [Freedom](https://open.spotify.com/track/09ECyJMbdmo1i1Lq7yxArW) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg) | [Freedom](https://open.spotify.com/album/4iUJ0WsPHxFt71g5oMpSlQ) | 3:05 | 2023-07-28 | 2024-02-09 |
@@ -297,6 +297,7 @@
 | [Yako Summane](https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g) | 3:31 | 2023-05-02 | 2024-01-03 |
 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 | 2023-08-16 | 2023-09-07 |
 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 | 2023-07-10 | 2023-07-25 |
+| [YENO AGIDHE\-2](https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [YENO AGIDHE\-2](https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi) | 2:48 | 2024-03-01 |  |
 | [Zari Zari Panche Uttu DJ \- DJ Version](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Madeen SK](https://open.spotify.com/artist/5Fus9DmicWjQslWMQlVNgB), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ \(DJ Version\)](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 | 2023-06-21 | 2024-01-23 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,139 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,136 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 77 | [How Beautiful \(she is\) \(feat\. duendita & MC Bin Laden\)](https://open.spotify.com/track/0hNnfKDMFnw43ixJDHZP4d) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:27 |
 | 78 | [Always Will](https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Always Will](https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq) | 3:27 |
 | 79 | [Flashing Lights](https://open.spotify.com/track/4jqpuhtQEkyvsuFyrK81BX) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [You Got Me](https://open.spotify.com/album/730DV2yB8G1svAKIvD4pdh) | 2:57 |
-| 80 | [Midnight Calls](https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Midnight Calls](https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk) | 3:11 |
+| 80 | [Agora Vai!](https://open.spotify.com/track/1xQZMFLNckpSQzwleLBKyL) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Agora Vai!](https://open.spotify.com/album/6l4qzArQvDKnzRLmFkrHE2) | 4:26 |
 
-Snapshot ID: `MCw4MTI1ZDE3OGYzYTllYmUxNTIxNjc3NjhhODZlZDc2OTBlYTUyZDI3`
+Snapshot ID: `MCwzNjdjNDBhNGE3N2ZhMDlhNjIzYjNlOWFlOGEzNGE5Y2MwN2I4NTdm`

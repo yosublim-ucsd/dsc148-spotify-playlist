@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "BAD INFLUENCE",
+        "url": "https://open.spotify.com/album/2LFQ1ci8QLwO4EVLqDgrja"
+      },
+      "artists": [
+        {
+          "name": "Fuller",
+          "url": "https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166164,
+      "name": "BAD INFLUENCE",
+      "url": "https://open.spotify.com/track/2Zb0EFTUJPE75ga3EJGaTI"
+    },
+    {
+      "album": {
         "name": "Good Drugs // Bad Joke",
         "url": "https://open.spotify.com/album/4WJJepmUt5zsXqeyF1B2sA"
       },
@@ -11106,7 +11124,7 @@
     {
       "album": {
         "name": "Body of Work",
-        "url": "https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H"
+        "url": "https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue"
       },
       "artists": [
         {
@@ -11117,6 +11135,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198430,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln"
+    },
+    {
+      "album": {
+        "name": "Body of Work",
+        "url": "https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-02",
       "duration_ms": 198430,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv"
@@ -15586,7 +15622,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
@@ -16256,7 +16292,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 54657,
+  "2024-03-02": 54657,
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;.",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Diego Torres &amp; Carlos Vives  &quot;Kapun&quot;, Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot;.",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -6119,6 +6119,28 @@
       "duration_ms": 161733,
       "name": "Justito a Tiempo",
       "url": "https://open.spotify.com/track/21ZulCkLXWH0xqJnIw2gIZ"
+    },
+    {
+      "album": {
+        "name": "Kapun",
+        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183422,
+      "name": "Kapun",
+      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
     },
     {
       "album": {

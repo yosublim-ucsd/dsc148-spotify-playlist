@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H y Peso Pluma en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-281 songs - 15 hr 45 min
+282 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Arrepentido](https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Arrepentido](https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI) | 3:23 | 2023-02-24 | 2023-05-13 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-07-08 | 2023-01-07 |
 | [Así Me Enamoré](https://open.spotify.com/track/4MLCePPmMHFALJ6w43inZ9) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Así Me Enamoré](https://open.spotify.com/album/4lEyFHKyu1WlUC74bRqeFC) | 3:52 | 2024-02-16 |  |
-| [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-26 |  |
+| [awitado :\(](https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [awitado :\(](https://open.spotify.com/album/2KU98wlYsgiwrHZMzoC5Ad) | 3:49 | 2024-01-26 | 2024-03-02 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-08 |  |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-16 | 2023-01-06 |
 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 | 2023-02-17 | 2023-06-03 |
@@ -130,6 +130,7 @@
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
 | [Lágrimas De Dolor](https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Lágrimas De Dolor](https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY) | 3:49 | 2023-02-17 | 2023-05-13 |
 | [Madrid](https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:21 | 2022-04-08 | 2023-02-18 |
+| [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 | 2024-03-01 |  |
 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 | 2022-07-08 | 2023-02-18 |
 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/1WPR2L0ZLTKO1qn4NZ8Hls) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/album/5aQRApGy6oY7Ebo2nRS7M9) | 3:45 | 2023-08-25 | 2023-12-23 |
 | [Me Cansé](https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Me Cansé](https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7) | 5:01 | 2022-04-08 | 2023-02-18 |

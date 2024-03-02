@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Seth Hills
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,634 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,651 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 17 | [High On You \(feat\. Melissa de Kleine\)](https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [High On You \(feat\. Melissa de Kleine\)](https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG) | 3:09 |
 | 18 | [Just A Kid](https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Just A Kid](https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh) | 2:56 |
 | 19 | [Bodybag \(feat\. Clubhouse\)](https://open.spotify.com/track/7GgzfCuZ0ASs8ptevKYTTj) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Look In The Mirror](https://open.spotify.com/album/5BTJf64AvqwYgOAcukNR9O) | 3:31 |
-| 20 | [Need You Again](https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Leon](https://open.spotify.com/artist/0FR8vsj1CQVGgXEBXkgOrV) | [It All Makes Sense](https://open.spotify.com/album/7JuKZCWPpuWIuJV9iGlszn) | 2:31 |
+| 20 | [Need You Again](https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB) | [It All Makes Sense](https://open.spotify.com/album/7JuKZCWPpuWIuJV9iGlszn) | 2:31 |
 | 21 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 |
 | 22 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 23 | [Poetry](https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Liam Geddes](https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2) | [Poetry](https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV) | 3:58 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 94 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
 | 95 | [How Will I Know](https://open.spotify.com/track/5zRJAOEqm5XWg3QLKhCdE5) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW) | [How Will I Know](https://open.spotify.com/album/50yYH2HfFr3fITB46Fqh8m) | 2:24 |
 
-Snapshot ID: `MCxlNjg0NDRkYmZmNmI2OGI0ODJlZTFjMDA1MjJhMjcwMTgwMjVkM2Uy`
+Snapshot ID: `MCw3YWYyY2FkYzdmNjZlMmJjNTVlMDEzNGVlNDE4MTYyNjQyMzJjMmQw`

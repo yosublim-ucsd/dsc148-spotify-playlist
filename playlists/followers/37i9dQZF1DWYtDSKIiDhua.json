@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 124730,
+  "2024-03-02": 124769,
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: moon tang",
   "name": "mood.",
   "tracks": [
     {
@@ -489,6 +489,24 @@
       "duration_ms": 212062,
       "name": "almond eyes",
       "url": "https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM"
+    },
+    {
+      "album": {
+        "name": "alone with you",
+        "url": "https://open.spotify.com/album/2xktHameUntgZZOw4NTy3m"
+      },
+      "artists": [
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213868,
+      "name": "alone with you",
+      "url": "https://open.spotify.com/track/1u6O6WXGhuIGjIsvLkNU5A"
     },
     {
       "album": {
@@ -1207,6 +1225,48 @@
       "duration_ms": 156142,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh"
+    },
+    {
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        },
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        },
+        {
+          "name": "Kanyi Mavi",
+          "url": "https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "Box Of Stars Pt. 1",
+      "url": "https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI"
     },
     {
       "album": {
@@ -3046,6 +3106,24 @@
     },
     {
       "album": {
+        "name": "favourite jeans",
+        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "favourite jeans",
+      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/6GqPpaE8is0mHms5v3uF1S"
       },
@@ -3752,6 +3830,28 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/0EZL83EUHUsIj9p8Fv0Wjr"
+      },
+      "artists": [
+        {
+          "name": "Yessam",
+          "url": "https://open.spotify.com/artist/4MBxbyCsunGarK30GdEz90"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/3alxpnJEuFaxsJyp1Fj9Gw"
+    },
+    {
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
       },
@@ -4423,6 +4523,24 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+    },
+    {
+      "album": {
+        "name": "hold me",
+        "url": "https://open.spotify.com/album/0JfAcmBChLcmkVhI7cF2n2"
+      },
+      "artists": [
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211345,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/44rWxt3LrdLf0IclHzQe6v"
     },
     {
       "album": {
@@ -6800,6 +6918,32 @@
     },
     {
       "album": {
+        "name": "Message in a bottle",
+        "url": "https://open.spotify.com/album/62jK0rJBJN3bJNF1fSdYqC"
+      },
+      "artists": [
+        {
+          "name": "Povi",
+          "url": "https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174667,
+      "name": "Message in a bottle",
+      "url": "https://open.spotify.com/track/4onEVnBCmCJhP0H0ctqPLG"
+    },
+    {
+      "album": {
         "name": "Midnight Madness",
         "url": "https://open.spotify.com/album/2wj09FIur1jTZyOmtbKyLT"
       },
@@ -8980,6 +9124,24 @@
     },
     {
       "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210416,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
+    },
+    {
+      "album": {
         "name": "Insecure: Music From The HBO Original Series, Season 5",
         "url": "https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN"
       },
@@ -9061,6 +9223,24 @@
       "duration_ms": 188478,
       "name": "Say It Straight",
       "url": "https://open.spotify.com/track/2v2GQaYfVnu6BmAjP5Vu3D"
+    },
+    {
+      "album": {
+        "name": "Say Ooh",
+        "url": "https://open.spotify.com/album/2RyHoQyC795qZK5p3AcLB3"
+      },
+      "artists": [
+        {
+          "name": "Keyana",
+          "url": "https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252916,
+      "name": "Say Ooh",
+      "url": "https://open.spotify.com/track/32bkdxME3FzJAxeDOTG8Sg"
     },
     {
       "album": {
@@ -11444,6 +11624,24 @@
     },
     {
       "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
+    },
+    {
+      "album": {
         "name": "Understand",
         "url": "https://open.spotify.com/album/4YUBwu5YknZvRrBqhYCT1J"
       },
@@ -11939,6 +12137,24 @@
       "duration_ms": 205301,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1"
+    },
+    {
+      "album": {
+        "name": "all the things i wish i said",
+        "url": "https://open.spotify.com/album/5S2eLJTOI1sxhAKkMpbrqM"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143338,
+      "name": "What If We Met?",
+      "url": "https://open.spotify.com/track/4QL02RjuuotlfggAqQeNwy"
     },
     {
       "album": {

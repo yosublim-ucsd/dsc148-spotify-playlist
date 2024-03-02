@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-445 songs - 1 day 2 hr 34 min
+446 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Life as It Comes](https://open.spotify.com/track/2ri1XBMIOJLnCMzuzQyUml) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:19 | 2023-07-14 |  |
 | [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-11-20 | 2023-07-20 |
 | [Loin, loin, loin \- Radio Edit](https://open.spotify.com/track/24pjVbHPz2vxwbBSVIVQkb) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Loin, loin, loin \(Radio Edit\) \- Single](https://open.spotify.com/album/4ApjGnbUOFXzIMlHebBR1C) | 2:40 | 2021-01-17 | 2021-01-28 |
-| [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-02 |  |
+| [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-02 | 2024-03-02 |
+| [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 |  |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2022-07-29 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 |  |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 |  |

@@ -4,7 +4,7 @@
 
 > Hits virales, tendencias y challenges del futuro.
 
-273 songs - 14 hr 27 min
+274 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-24 | 2024-02-20 |
 | [Bronceado \- Remix](https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2) | 2:36 | 2024-01-05 |  |
 | [Bugambilia](https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Bugambilia](https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw) | 3:09 | 2023-12-19 | 2024-01-25 |
-| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2023-12-26 |  |
+| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2023-12-26 | 2024-03-02 |
+| [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-23 |  |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2024-01-01 | 2024-02-24 |
 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 | 2023-09-29 | 2023-12-20 |
 | [CALL ME MAYBE](https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CALL ME MAYBE](https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi) | 3:42 | 2023-12-19 | 2024-01-30 |

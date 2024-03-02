@@ -1,12 +1,12 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 336194,
+  "num_followers": 336697,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc4NjdkOGNjNjViMDJkM2JjYTAyNjhmMmRhMGVjMmRkN2JlYjQ3",
+  "snapshot_id": "MCw4NWE2NjE0NDY4MWJlODQ2Y2IyZmRiMjBhM2EzYTllOWVkZTlhMzRh",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Take Me Back To Eden",
-        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -819,8 +803,24 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The War to End All Wars",
+        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+      "duration_ms": 236000,
+      "name": "Stormtroopers",
+      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The War to End All Wars",
-        "url": "https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da"
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Stormtroopers",
-      "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Death We Seek",
-        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 256053,
       "name": "War Eternal",
       "url": "https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Death We Seek",
+        "url": "https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Disarm the Descent (Special Edition)",
         "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 197573,
       "name": "In Due Time",
       "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sleepless Deathbed",
-        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
-      },
-      "artists": [
-        {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sleepless Deathbed",
-      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Brotherhood of the Snake",
         "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 253988,
       "name": "Brotherhood of the Snake",
       "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     }
   ],
   "unique_name": "Energy Booster: Metal",

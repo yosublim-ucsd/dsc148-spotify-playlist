@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 31005,
+  "2024-03-02": 31010,
   "date_first_scraped": "2021-12-21",
   "description": "Svensk jazz n\u00e4r den \u00e4r som b\u00e4st.",
   "name": "Svensk jazz",
@@ -3083,6 +3083,32 @@
       "duration_ms": 174040,
       "name": "Som vanligt",
       "url": "https://open.spotify.com/track/2x8BetKgW0IRTnlbKxwTiZ"
+    },
+    {
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/2Zh3u7Mh7NqlgSCr0qioT7"
+      },
+      "artists": [
+        {
+          "name": "Sara Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/0o6Us7eXQeb43ShOAYLRpN"
+        },
+        {
+          "name": "Daniel Andersson",
+          "url": "https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6"
+        },
+        {
+          "name": "August Bj\u00f6rn",
+          "url": "https://open.spotify.com/artist/6sUCF9k9erkUjpUaLbJtw8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271114,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/7aca2yqdCObxfeIo9mZowU"
     },
     {
       "album": {

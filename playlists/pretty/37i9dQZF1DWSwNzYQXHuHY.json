@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9756,
+  "num_followers": 9763,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjEyYTZkOTFiMWM3ZGNlNWIzMWRlYmJhYzkzZDJkMDRlMDFjMWMz",
+  "snapshot_id": "MCxhMTgyNjY0YzU5ODIyNDJmZWJiNmUwNTZlZWU3MDc2M2ViNTE2N2Zh",
   "tracks": [
     {
       "added_at": "2024-01-08 09:00:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
-    },
-    {
-      "added_at": "2024-01-08 09:00:08",
-      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2024-01-08 09:00:08",
+      "album": {
         "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
         "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-01-08 09:00:08",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
       },
       "artists": [
         {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
     }
   ],
   "unique_name": "\uc378 (Something)",

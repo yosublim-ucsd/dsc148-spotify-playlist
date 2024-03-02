@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,659 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,714 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 38 | [Tempo](https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tempo](https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx) | 3:34 |
 | 39 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 40 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 |
-| 41 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
-| 42 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |
+| 41 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |
+| 42 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
 | 43 | [Podem Até Tentar](https://open.spotify.com/track/4kceEw4hLkTDCUZkt8Dv49) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Podem Até Tentar](https://open.spotify.com/album/5cJgnQcq4EAQRcSRWPZFZC) | 3:01 |
 | 44 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 |
 | 45 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 51 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 |
 | 52 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
 | 53 | [Bem Li](https://open.spotify.com/track/2DidJYeb38gHwFIT3B0UXy) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Bem Li](https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf) | 3:35 |
-| 54 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 |
-| 55 | [Tellin Me Something](https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 2:47 |
+| 54 | [Tellin Me Something](https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 2:47 |
+| 55 | [Te Amo Tanto](https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Te Amo Tanto](https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj) | 3:02 |
 | 56 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 |
-| 57 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
-| 58 | [Monarquia](https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Monarquia](https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2) | 3:22 |
+| 57 | [Monarquia](https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Monarquia](https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2) | 3:22 |
+| 58 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
 | 59 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
-| 60 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
-| 61 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
+| 60 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
+| 61 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
 | 62 | [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 |
 | 63 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
 | 64 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
 | 100 | [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 |
 
-Snapshot ID: `MCwwMjFlOGIyNjk1OWJjNzUxMWJkMjEzZDIzZTY2ZDc0ZjVkNjc5ZmUx`
+Snapshot ID: `MCw0MTFiYzQ4ZDUwYzViNTIzMzZjZjhhMzg4NWNjM2ZlYWJjYzZiN2Q3`

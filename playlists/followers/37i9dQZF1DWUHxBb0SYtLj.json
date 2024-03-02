@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 21401,
+  "2024-03-02": 21406,
   "date_first_scraped": "2021-12-28",
   "description": "Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Loredana Bert\u00e8",
   "name": "EQUAL Italia",
@@ -1875,7 +1875,7 @@
     {
       "album": {
         "name": "Bondage - la gola",
-        "url": "https://open.spotify.com/album/4JpJJjFomLbmrjiMU4963B"
+        "url": "https://open.spotify.com/album/5Xk43pNnNtK7vOZgVOeZlR"
       },
       "artists": [
         {
@@ -1886,6 +1886,24 @@
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181343,
+      "name": "Bondage - la gola",
+      "url": "https://open.spotify.com/track/6Rwx5hyEALw2Swk57ZYX1M"
+    },
+    {
+      "album": {
+        "name": "Bondage - la gola",
+        "url": "https://open.spotify.com/album/4JpJJjFomLbmrjiMU4963B"
+      },
+      "artists": [
+        {
+          "name": "Chadia",
+          "url": "https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
       "duration_ms": 181343,
       "name": "Bondage - la gola",
       "url": "https://open.spotify.com/track/7paR6tT20OtmdY4Qod8W4r"

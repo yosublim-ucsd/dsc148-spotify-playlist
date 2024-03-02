@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 63349,
+  "2024-03-02": 63373,
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Nadhira Suri",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Maisha Kanna",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -289,6 +289,24 @@
       "duration_ms": 188104,
       "name": "12 November",
       "url": "https://open.spotify.com/track/2LxKrPV8UY5iHkWVYSVR7c"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/4UwanGcy5sOdUV2MunaXq7"
+      },
+      "artists": [
+        {
+          "name": "Ravi Andika",
+          "url": "https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233232,
+      "name": "123",
+      "url": "https://open.spotify.com/track/6SRca827FPOku4IQ4yYsN2"
     },
     {
       "album": {
@@ -585,6 +603,24 @@
       "duration_ms": 285839,
       "name": "30",
       "url": "https://open.spotify.com/track/6eCpybcWp36ELYRTNngxPT"
+    },
+    {
+      "album": {
+        "name": "30 Tahun Lagi",
+        "url": "https://open.spotify.com/album/22HDjTjO5LWKG98qv7X9Ig"
+      },
+      "artists": [
+        {
+          "name": "Joanito Gea",
+          "url": "https://open.spotify.com/artist/0CeQenPmm0xC3BbMvNd4aS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "30 Tahun Lagi",
+      "url": "https://open.spotify.com/track/45TXBtXL4CxWA9l6OzcmMS"
     },
     {
       "album": {
@@ -2087,6 +2123,24 @@
       "duration_ms": 168000,
       "name": "All About You",
       "url": "https://open.spotify.com/track/09Dw95CF3OZhdMV8goEVsa"
+    },
+    {
+      "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/3n2dVlN3mFWSo71PEuz8ls"
+      },
+      "artists": [
+        {
+          "name": "Daniella Gibbs",
+          "url": "https://open.spotify.com/artist/53AA6IirlGQTzcnAkQ2JZ0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230514,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/761zWFaD4YGkI2iCYggRoZ"
     },
     {
       "album": {
@@ -4767,6 +4821,24 @@
       "duration_ms": 257359,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/71Y9P2qGmOCSLLSHKe21PV"
+    },
+    {
+      "album": {
+        "name": "Be Mine (Acoustic)",
+        "url": "https://open.spotify.com/album/0C81laLhSzeENIDWuGFMYs"
+      },
+      "artists": [
+        {
+          "name": "Allan Andersn",
+          "url": "https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Be Mine - Acoustic",
+      "url": "https://open.spotify.com/track/4IQyWeso1cMRSW3n1vHeNO"
     },
     {
       "album": {
@@ -8079,6 +8151,24 @@
       "duration_ms": 202163,
       "name": "Bummer",
       "url": "https://open.spotify.com/track/3wh8DlnszXUQ5Gza4fSv8I"
+    },
+    {
+      "album": {
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A"
     },
     {
       "album": {
@@ -18162,6 +18252,28 @@
     },
     {
       "album": {
+        "name": "Grey Old Love",
+        "url": "https://open.spotify.com/album/0yG5r0zLXV4cR7LbMAVm8M"
+      },
+      "artists": [
+        {
+          "name": "diondjokoadi",
+          "url": "https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D"
+        },
+        {
+          "name": "CLO",
+          "url": "https://open.spotify.com/artist/4BYReSyTgETIBKPqMgMAHB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170242,
+      "name": "Grey Old Love",
+      "url": "https://open.spotify.com/track/0kO117vQapVSPRHhU0wFFF"
+    },
+    {
+      "album": {
         "name": "Grind",
         "url": "https://open.spotify.com/album/5hopxqhNjXJwSjhXTSf8XO"
       },
@@ -23982,6 +24094,24 @@
     },
     {
       "album": {
+        "name": "Jalan Jalan Jadi Cuan",
+        "url": "https://open.spotify.com/album/1KxFypw1P5HrNIYiOR8vp2"
+      },
+      "artists": [
+        {
+          "name": "Babeh Ojol",
+          "url": "https://open.spotify.com/artist/3jCZYvGEJfGSoTHJujDDHX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272371,
+      "name": "Jalan Jalan Jadi Cuan",
+      "url": "https://open.spotify.com/track/1GNfdn5t0m2dlsJC2AdKx3"
+    },
+    {
+      "album": {
         "name": "Jalan Jauh",
         "url": "https://open.spotify.com/album/3zcs0er0hPx05uQyrelllN"
       },
@@ -24917,6 +25047,24 @@
       "duration_ms": 184852,
       "name": "June I've Failed Twice",
       "url": "https://open.spotify.com/track/3zq3Il2CPqT0ZAxYZVNAnm"
+    },
+    {
+      "album": {
+        "name": "Jungkir Balik",
+        "url": "https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp"
+      },
+      "artists": [
+        {
+          "name": "Maisha Kanna",
+          "url": "https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230029,
+      "name": "Jungkir Balik",
+      "url": "https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4"
     },
     {
       "album": {
@@ -27492,6 +27640,24 @@
     },
     {
       "album": {
+        "name": "Kurang Apa",
+        "url": "https://open.spotify.com/album/52kc0Ax0vkTfhjqD0TaVod"
+      },
+      "artists": [
+        {
+          "name": "SA\u00c8",
+          "url": "https://open.spotify.com/artist/1HtIXiM6wEmcQQ3K7IM2BO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227267,
+      "name": "Kurang Apa",
+      "url": "https://open.spotify.com/track/7rggGc23tmDTAWQUId7DUd"
+    },
+    {
+      "album": {
         "name": "Kusadari Kurasa",
         "url": "https://open.spotify.com/album/0ilcq5z68RN37g5bwKH98b"
       },
@@ -28589,6 +28755,24 @@
       "duration_ms": 242200,
       "name": "Lebih Dari Siapapun",
       "url": "https://open.spotify.com/track/7qDYNsHsXPjFzjirAMDqAM"
+    },
+    {
+      "album": {
+        "name": "Lebih Memilih Dia",
+        "url": "https://open.spotify.com/album/38322txWamSH5MyxRndxvf"
+      },
+      "artists": [
+        {
+          "name": "Jacka Oscard",
+          "url": "https://open.spotify.com/artist/4xSzeZxLEdQVnKoz8Ha0cd"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237352,
+      "name": "Lebih Memilih Dia",
+      "url": "https://open.spotify.com/track/27MbYBfs0GlsGoW1X9LBgR"
     },
     {
       "album": {
@@ -29895,6 +30079,24 @@
       "duration_ms": 186299,
       "name": "Livy",
       "url": "https://open.spotify.com/track/2DLuiBLHfbDPHrOKT4l4S4"
+    },
+    {
+      "album": {
+        "name": "People Mountain People Sea",
+        "url": "https://open.spotify.com/album/3KbNCzBBEtqzvgEHmCe9bF"
+      },
+      "artists": [
+        {
+          "name": "KAIYI",
+          "url": "https://open.spotify.com/artist/4tDe9qBHvHEkaXHzoA78jn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "London",
+      "url": "https://open.spotify.com/track/1o8SchxfiTUKilBOYrAx5z"
     },
     {
       "album": {
@@ -37844,6 +38046,24 @@
     },
     {
       "album": {
+        "name": "Panggung Pikiran",
+        "url": "https://open.spotify.com/album/4NdCapALOWlHWf0KM5B6i7"
+      },
+      "artists": [
+        {
+          "name": "Mufatan",
+          "url": "https://open.spotify.com/artist/3m9cOpoHzYcpIOq2ilndg9"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172275,
+      "name": "Panggung Pikiran",
+      "url": "https://open.spotify.com/track/5DB5hE6F1mRROAnEXVIQa5"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/6fGHcbhjdn9ecLoVdDwJth"
       },
@@ -44397,6 +44617,28 @@
       "duration_ms": 209999,
       "name": "Selalu Mengalah",
       "url": "https://open.spotify.com/track/1sXCILeNERlOmkJKWJ6kX2"
+    },
+    {
+      "album": {
+        "name": "Selama Ini feat. Veronica Stayer",
+        "url": "https://open.spotify.com/album/1b6Z0knERI1ssYb7vUvd4y"
+      },
+      "artists": [
+        {
+          "name": "Hotrod",
+          "url": "https://open.spotify.com/artist/0xG8uuxw0Vcgd7lkcbrbKb"
+        },
+        {
+          "name": "Veronica Stayer",
+          "url": "https://open.spotify.com/artist/3L8Ot2ibMgbArFOj7Dumn0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Selama Ini feat. Veronica Stayer",
+      "url": "https://open.spotify.com/track/32AhK5ugjrCAFT7fCvf2DQ"
     },
     {
       "album": {

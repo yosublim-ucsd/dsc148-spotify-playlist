@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop. Cover: Said The Sky \\m/",
+  "description": "Rock with a Drop. Cover: Fairlane & Point North \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164897,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
@@ -718,6 +718,24 @@
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/0TLwjrxAmJa7gjLWW8XhBx"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223875,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/49bBTqG0P3Z079PhB1PoL7"
     },
     {
       "album": {
@@ -5059,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+    },
+    {
+      "album": {
         "name": "REBELS NEVER DIE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
@@ -5425,6 +5465,28 @@
     },
     {
       "album": {
+        "name": "Paranoid (NERVE Remix)",
+        "url": "https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238378,
+      "name": "Paranoid - NERVE Remix",
+      "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
       },
@@ -5454,7 +5516,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
@@ -6098,7 +6160,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"

@@ -3368,10 +3368,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "album": {
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5QNpvPWsGKY"

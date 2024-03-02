@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 28867,
+  "num_followers": 28891,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGU3YWZjMjgwYTJhOWRjZmNmODc2NmQ2ZDRkMzRmYWI3ZWUzZjVl",
+  "snapshot_id": "MCw5ZDIxMzIzNWM1NGYxZTg2MDA5YWZkNGQzZmQ4MzYxY2YyM2E0Yzg3",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 266762,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182715,
       "name": "Cumbia del Amor",
       "url": "https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 266762,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -783,6 +783,22 @@
       "duration_ms": 289933,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "63 A\u00f1os de Vida Art\u00edstica",
+        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "El Hijo de Tuta",
+      "url": "https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -839,22 +855,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "63 A\u00f1os de Vida Art\u00edstica",
-        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "El Hijo de Tuta",
-      "url": "https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol. 3",
         "url": "https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Y Como Se Mata El Gusano?",
         "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 212293,
       "name": "Las Cale\u00f1as",
       "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 249746,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
-      },
-      "artists": [
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
-        }
-      ],
-      "duration_ms": 268230,
-      "name": "La Zenaida",
-      "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 249685,
       "name": "Muri\u00f3 el Amor",
       "url": "https://open.spotify.com/track/3IBHk98QXBCC7Zv8mbOD4G"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 268230,
+      "name": "La Zenaida",
+      "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "M\u00e1s Romanticos",
-        "url": "https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 287555,
-      "name": "Hay Que Ser Fuerte",
-      "url": "https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
         "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 287146,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "M\u00e1s Romanticos",
+        "url": "https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 287555,
+      "name": "Hay Que Ser Fuerte",
+      "url": "https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/0IjPHQGoyrniScZYyYfWtE"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Festival En Guarare",
-      "url": "https://open.spotify.com/track/0J3WJy4IGIaGcfWR85xv2g"
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1595,22 +1599,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/0IjPHQGoyrniScZYyYfWtE"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 178826,
+      "name": "Festival En Guarare",
+      "url": "https://open.spotify.com/track/0J3WJy4IGIaGcfWR85xv2g"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1671,6 +1671,30 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "La Rebelion",
+        "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
+      },
+      "artists": [
+        {
+          "name": "racheasf",
+          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
+        },
+        {
+          "name": "417se",
+          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
+        },
+        {
+          "name": "firatsamsi",
+          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
+        }
+      ],
+      "duration_ms": 376451,
+      "name": "La Rebelion",
+      "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Recordando a Pastor Lopez",
         "url": "https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk"
       },
@@ -1699,22 +1723,6 @@
       "duration_ms": 233038,
       "name": "Entre Rejas",
       "url": "https://open.spotify.com/track/1jBGM9PNMIZCe46WQ3i4ZB"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Colecciones de Oro",
-        "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 216711,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

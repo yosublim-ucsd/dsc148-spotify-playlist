@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,154 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,170 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 74 | [First Day](https://open.spotify.com/track/6C7NLheYmP4zintC6OOXzf) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:15 |
 | 75 | [Main Title \- From "Monsters University"/Score](https://open.spotify.com/track/6cNNZBkIrUo7Ar9ibtRfpv) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 0:51 |
 
-Snapshot ID: `MCwyMjk5YWY0ZDRiODlmYjYyOWExODhjZmE0MThiMThlYjIzZmU1NGE3`
+Snapshot ID: `MCwyZTZkOWJmNDA4Y2MyMGU0Y2Y3NjI0NjQzZTkzYmU5OWNmNjBhZmRl`

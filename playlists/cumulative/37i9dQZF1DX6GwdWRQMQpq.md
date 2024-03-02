@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Cardi B
 
-470 songs - 21 hr 18 min
+472 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [BBM \(Bad Bitch Mentality\)](https://open.spotify.com/track/063jdVCwrYUHdyeoJvQq3H) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FRIENDS WITH BENEFITS](https://open.spotify.com/album/5ZlZDT9NDhXldVFiis23am) | 1:52 | 2022-02-18 | 2022-02-26 |
 | [Beama \(feat\. Lola Brooke\)](https://open.spotify.com/track/3Q3zd5UhDRBCPW7pPF9QMw) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Beama \(feat\. Lola Brooke\)](https://open.spotify.com/album/2JbQMbjpv7accIdixIkT0G) | 2:21 | 2023-11-03 | 2023-12-02 |
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2021-10-08 | 2022-02-12 |
-| [Becky \(feat\. 41\)](https://open.spotify.com/track/399es3LKBCviugHiDQcCI1) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Becky \(feat\. 41\)](https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG) | 3:26 | 2024-02-16 |  |
+| [Becky \(feat\. 41\)](https://open.spotify.com/track/399es3LKBCviugHiDQcCI1) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Becky \(feat\. 41\)](https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG) | 3:26 | 2024-02-16 | 2024-03-02 |
 | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Bed Time \(feat\. Monaleo & Gloss Up\)](https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy) | 3:40 | 2023-03-24 | 2023-09-09 |
 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 | 2023-03-10 | 2023-05-13 |
 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/album/11c3kLCcQAWS3ZFWWdB7vw) | 2:11 | 2021-09-24 | 2022-04-09 |
@@ -127,7 +127,7 @@
 | [DILEMMA](https://open.spotify.com/track/6NWFWNjsFTQVno7hwkKqFh) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [DILEMMA](https://open.spotify.com/album/1wOUp25BDqFPJrC8fgImy1) | 2:07 | 2023-10-27 | 2023-11-18 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-09-17 |
 | [Diva \(feat\. Emilia\)](https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Diva \(feat\. Emilia\)](https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i) | 3:35 | 2022-08-05 | 2022-10-15 |
-| [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-19 |  |
+| [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-19 | 2024-03-02 |
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-05-20 |
 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 | 2024-02-02 |  |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-11-10 | 2024-01-27 |
@@ -258,6 +258,7 @@
 | [Like Dat](https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Like Dat](https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn) | 2:45 | 2023-06-09 | 2023-10-07 |
 | [Like That](https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/23kypbkgaHakfqAyvWZw0o) | 2:28 | 2022-02-18 | 2022-03-05 |
 | [Like This \(Back It Up\)](https://open.spotify.com/track/64r5iQ8xKI1CjmtqUb8lbY) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Like This \(Back It Up\)](https://open.spotify.com/album/22AFCh0LRZCh1Um4X5YHO2) | 3:00 | 2024-02-09 | 2024-02-24 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 |  |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-12 | 2023-06-03 |
 | [LL Cool J](https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [LL Cool J](https://open.spotify.com/album/28tjTRoy8DLPOFntXpUxRk) | 3:13 | 2022-03-18 | 2022-06-26 |
 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 | 2023-10-27 | 2023-11-25 |
@@ -417,6 +418,7 @@
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-09-10 | 2022-02-19 |
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-14 | 2022-05-07 |
 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 | 2022-06-10 | 2022-10-22 |
+| [The P\*ssy Song](https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [The P\*ssy Song](https://open.spotify.com/album/7hut1MKOSHcWIXdN6jSmQf) | 2:57 | 2024-03-01 |  |
 | [They Not Ready](https://open.spotify.com/track/6E5dZiOO0DswcJZH0qPOvU) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [They Not Ready](https://open.spotify.com/album/2mTJUIJUZnRj521nuYi0jc) | 2:46 | 2022-04-01 | 2022-04-16 |
 | [Thicc](https://open.spotify.com/track/2cHhNW6Wcdrk4mFTZkqqKk) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m) | 2:16 | 2023-09-01 | 2023-09-30 |
 | [Thicc](https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 2:16 | 2023-08-11 | 2023-09-02 |

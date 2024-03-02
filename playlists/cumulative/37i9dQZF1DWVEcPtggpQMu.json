@@ -11175,6 +11175,24 @@
     },
     {
       "album": {
+        "name": "SHEIN CART",
+        "url": "https://open.spotify.com/album/0cn3g9n6qHTBOIaHhtqSZP"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155102,
+      "name": "SHEIN CART",
+      "url": "https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn"
+    },
+    {
+      "album": {
         "name": "Sheleni",
         "url": "https://open.spotify.com/album/6cabRdQHa5FBZwfY1KQZRM"
       },

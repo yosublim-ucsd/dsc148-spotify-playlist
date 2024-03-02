@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 582511,
+  "num_followers": 582570,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI1MWY3YjdiZDIzNGIyMGE0NmZiZWZjYTdlMDVlMjNkNDEzNDZl",
+  "snapshot_id": "MCxjYWI5MzRkY2RjMzc1M2ViZmUzMTZiNWRkY2VhNjhkMmU1NmQ1NTgy",
   "tracks": [
     {
       "added_at": "2024-01-22 16:26:19",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
+        "name": "Beautiful People (Stay High)",
+        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "Beautiful People (Stay High)",
+      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Beautiful People (Stay High)",
-        "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "Beautiful People (Stay High)",
-      "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "No Place Is Home",
         "url": "https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -841,6 +857,22 @@
       "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
       "added_at": "2024-02-09 20:12:13",
       "album": {
         "name": "Dancer",
@@ -859,38 +891,6 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
-      },
-      "artists": [
-        {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Let the Vultures In",
         "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
     },
     {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "Whiskey Myers",
-        "url": "https://open.spotify.com/album/2mvcTuW69CGtjWFFqg4Q1Z"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 239135,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/0GoXEhMzYwI1LCaohRqxGl"
-    },
-    {
       "added_at": "2024-02-09 20:12:13",
       "album": {
         "name": "Pretty Vicious",
@@ -1439,6 +1423,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Whiskey Myers",
+        "url": "https://open.spotify.com/album/2mvcTuW69CGtjWFFqg4Q1Z"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 239135,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0GoXEhMzYwI1LCaohRqxGl"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1509,36 +1509,20 @@
       "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
     },
     {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
       "added_at": "2024-02-09 20:12:13",
       "album": {
-        "name": "Spiritual Cramp",
-        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I"
       },
       "artists": [
         {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 155280,
-      "name": "Talkin' On The Internet",
-      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+      "duration_ms": 205026,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC"
     },
     {
       "added_at": "2024-02-09 20:12:13",
@@ -1559,18 +1543,34 @@
     {
       "added_at": "2024-02-09 20:12:13",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I"
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC"
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "added_at": "2024-01-22 16:26:19",

@@ -4,7 +4,7 @@
 
 > This is Matt Hansen\. All the essential tunes, all in one playlist.
 
-10 songs - 30 min 18 sec
+11 songs - 33 min 12 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [break my heart](https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/7tSgsBAq25fhQJ4yuddr7o) | 2:58 | 2024-01-10 |  |
 | [CHEMICALS](https://open.spotify.com/track/2XMXsM29VG71gcKokMtsK5) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [CHEMICALS](https://open.spotify.com/album/73uZjDBeWX1SnFeryMHPhl) | 3:17 | 2024-01-10 |  |
 | [dead the day ur gone](https://open.spotify.com/track/31TRokpfafCscZwykk36VZ) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [dead the day ur gone](https://open.spotify.com/album/4m0UVWgm6A8mQ08r1wlIXY) | 3:24 | 2024-01-10 |  |
+| [GRAVITY](https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [GRAVITY](https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI) | 2:54 | 2024-03-01 |  |
 | [LET EM GO](https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [LET EM GO](https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3) | 3:01 | 2024-01-10 |  |
 | [lifejacket](https://open.spotify.com/track/6Tsi8WlS6AI4tLRV2ei4LV) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [lifejacket](https://open.spotify.com/album/0CqP9LYR3wdBr2qjjK3kQI) | 3:23 | 2024-01-10 |  |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2024-01-10 |  |

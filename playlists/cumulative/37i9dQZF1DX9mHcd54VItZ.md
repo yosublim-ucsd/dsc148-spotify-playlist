@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=ZYAE8\-JXS7uWGt2AWDvWSA">Dan Patlansky</a>
 
-455 songs - 1 day 3 hr 13 min
+456 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,8 @@
 | [When I'm with You](https://open.spotify.com/track/5CFsX5OidbqmLa71haeKhO) | [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [When I'm with You](https://open.spotify.com/album/6nY5M5Y1lxoxXqhM0lsuzL) | 2:52 | 2022-05-26 | 2023-02-03 |
 | [When You Say](https://open.spotify.com/track/5zPZTwAsUftw5Nqr47aCBE) | [King Kind](https://open.spotify.com/artist/0XWdYb3jMiE1h2V2NOudN1) | [When You Say](https://open.spotify.com/album/2Z9HE6WmXtgjKUbBRpD7F7) | 3:58 | 2023-07-28 | 2023-09-29 |
 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 | 2024-01-04 |  |
-| [Wild Mustang](https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/0Smguaef5yox1jDwclt0Ev) | 3:51 | 2024-02-29 |  |
+| [Wild Mustang](https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/0Smguaef5yox1jDwclt0Ev) | 3:51 | 2024-02-29 | 2024-03-02 |
+| [Wild Mustang](https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/5qP7C6lrc7Ojt70NEWTBSg) | 3:51 | 2024-02-29 |  |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |
 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 | 2022-08-04 | 2023-01-27 |

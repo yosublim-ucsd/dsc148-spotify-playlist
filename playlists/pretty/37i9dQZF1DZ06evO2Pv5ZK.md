@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,873 likes - 42 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,890 likes - 42 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 41 | [Vangelis: Through the Night Mist](https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Ambient & Relax](https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5) | 5:12 |
 | 42 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
 
-Snapshot ID: `Mjg0ODY4NjcsMDAwMDAwMDBiNGFiYmFkNTZkZWJjYTU2OGY5OGUzNTIyN2ZjOGJjOQ==`
+Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDA4MjVlYTdiZjBkMTA0YmRlMWM5YzYyOWVhZjBhYWQxZg==`

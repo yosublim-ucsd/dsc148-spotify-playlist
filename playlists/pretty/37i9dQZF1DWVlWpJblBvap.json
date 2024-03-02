@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 555341,
+  "num_followers": 555496,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGZlY2UwZTFiZWRmMmRiMjYzYjU2M2JmZTU3YjI0Zjc3OTc2MzVh",
+  "snapshot_id": "MCxkODY5ZGVmMDhlOTBlOTI4ODhmYWU2YWJhMjQyMmQ4YTA2ZTFmZDE3",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -75,38 +75,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "Protector (Live)",
-        "url": "https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 408063,
-      "name": "Protector - Live",
-      "url": "https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -127,6 +95,38 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "Protector (Live)",
+        "url": "https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 408063,
+      "name": "Protector - Live",
+      "url": "https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "I Am Loved",
         "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Good Good Father",
-        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Death Of Death",
         "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 217000,
       "name": "Where The Spirit Of The Lord Is",
       "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "Good Good Father",
+        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 411733,
+      "name": "Here's My Heart - Live",
+      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
         "name": "You Are the Avalanche",
         "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 295720,
       "name": "King of My Heart",
       "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 411733,
-      "name": "Here's My Heart - Live",
-      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
     },
     {
       "added_at": "2023-02-18 03:38:32",

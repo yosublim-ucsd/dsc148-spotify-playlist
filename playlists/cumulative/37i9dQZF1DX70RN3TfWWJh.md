@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-524 songs - 1 day 2 hr 40 min
+525 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Lonely](https://open.spotify.com/track/4fwo6czG5nvOQMzhOto1ya) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lonely](https://open.spotify.com/album/1MF23oT6lg5q47LnZ91UPy) | 2:19 | 2022-03-25 | 2022-04-21 |
 | [Look What You've Done](https://open.spotify.com/track/2Y9oTMNY5CPT4m9l6CgbgM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Look What You've Done](https://open.spotify.com/album/5kpRcX0pCeMK74PSgnaX7g) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/2hMTgMeXtubSWYexxpLrbS) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [Losing My Mind](https://open.spotify.com/album/4XjfPIc3eDkBAmGwyUPSX6) | 3:50 | 2022-03-25 | 2022-04-17 |
-| [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2021-12-17 |  |
+| [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 | 2021-12-17 | 2024-03-02 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-04-14 | 2023-07-01 |
 | [Love \(Sweet Love\)](https://open.spotify.com/track/0wV6EO4zqkt6zhgZ1Ru6TX) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:40 | 2021-12-17 | 2022-06-21 |
 | [Love At First Song](https://open.spotify.com/track/5dsczwZSemU34OYuik2knd) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Love At First Song](https://open.spotify.com/album/5lpdNa3vhbSdcgN2OrA4NC) | 3:23 | 2022-03-25 | 2022-07-07 |
@@ -277,6 +277,7 @@
 | [Love Songs](https://open.spotify.com/track/0Fs0pr0lq3408wD1cemNll) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Songs](https://open.spotify.com/album/4Nflv5XvC1phnt8ZwFs1Ta) | 3:11 | 2022-03-25 | 2022-04-20 |
 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 | 2022-01-14 | 2022-06-20 |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2021-12-17 | 2022-07-29 |
+| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-03-01 |  |
 | [Man I Used To Be](https://open.spotify.com/track/6xRy0ENY1cZnkcU1EqaTsg) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [Man I Used To Be](https://open.spotify.com/album/5MObgMcXj9f7Q7mfVrOfm3) | 2:31 | 2022-03-25 | 2022-04-15 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-12-31 | 2023-10-17 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-04-01 |  |

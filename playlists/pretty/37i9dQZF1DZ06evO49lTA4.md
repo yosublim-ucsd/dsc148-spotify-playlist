@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,722 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,059 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 41 | [Used to You](https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Used to You](https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs) | 3:56 |
 | 42 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 |
 | 43 | [Without You](https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:44 |
-| 44 | [Beer Can](https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:30 |
-| 45 | [A Long Way](https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:37 |
+| 44 | [A Long Way](https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:37 |
+| 45 | [Memories Are Made Of](https://open.spotify.com/track/4ZNslVn7r8oRb60a8hYCYk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:36 |
 | 46 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
 | 47 | [The Way She Rides](https://open.spotify.com/track/4t2AnYhvH7gr59zLJ5Cn6c) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 2:45 |
-| 48 | [Memories Are Made Of](https://open.spotify.com/track/4ZNslVn7r8oRb60a8hYCYk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:36 |
-| 49 | [Raise The Bar](https://open.spotify.com/track/1YUgWK7N91H4tcjDdZivms) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 2:44 |
-| 50 | [Seven Bridges Road](https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Seven Bridges Road](https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7) | 3:10 |
+| 48 | [Raise The Bar](https://open.spotify.com/track/1YUgWK7N91H4tcjDdZivms) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 2:44 |
+| 49 | [Seven Bridges Road](https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Seven Bridges Road](https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7) | 3:10 |
+| 50 | [Let the Moonshine](https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:29 |
 
-Snapshot ID: `Mjg0ODY4NjcsMDAwMDAwMDA4ZGJkMjliMWYzN2M4ODZjNmU3Y2ZjYmUwNDEzNTU3NQ==`
+Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAwZDVjOWU1YWZmZjI4NGY4YTc0YTRmNmIyMmE5MzVlOQ==`

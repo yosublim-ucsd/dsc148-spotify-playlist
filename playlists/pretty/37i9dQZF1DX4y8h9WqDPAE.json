@@ -1,29 +1,13 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Usher",
-  "num_followers": 1766748,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Beyonc\u00e9",
+  "num_followers": 1766768,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTYzOTBiZWFmMDU3MDE5OGY0ZjE4YWY5OTQ0NTc1ZTYzZDBmYzJh",
+  "snapshot_id": "MCxlNGFhYWZlN2ZhZjg3MmMxOWQxZmYyNzUwMWU4NzY4YmIxYmYyMWU4",
   "tracks": [
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
-    },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-02-09 07:19:25",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2024-01-08 22:35:28",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
     },
     {
-      "added_at": "2024-02-09 07:19:25",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
-    },
-    {
       "added_at": "2023-10-20 05:12:37",
       "album": {
         "name": "Sensational (feat. Davido & Lojay)",
@@ -257,6 +241,26 @@
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
     },
     {
+      "added_at": "2024-03-01 06:02:28",
+      "album": {
+        "name": "The Rebirth 3: The Party & The Bedroom",
+        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "For The Streets",
@@ -273,10 +277,30 @@
       "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     },
     {
-      "added_at": "2024-02-09 07:19:25",
+      "added_at": "2024-03-01 06:02:28",
       "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
+        "name": "Touchin\u2019 (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 224675,
+      "name": "Touchin\u2019 (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
       },
       "artists": [
         {
@@ -284,9 +308,9 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -667,30 +691,6 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 195094,
-      "name": "Transparency (feat. USHER)",
-      "url": "https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1827,26 +1827,6 @@
       "duration_ms": 169728,
       "name": "Summer",
       "url": "https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 181902,
-      "name": "Homicide (with Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO"
     },
     {
       "added_at": "2023-10-27 04:00:00",

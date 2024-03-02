@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-225 songs - 12 hr 37 min
+226 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 | 2024-02-23 |  |
 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 | 2021-12-29 | 2023-10-05 |
 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 | 2021-12-29 | 2022-12-03 |
-| [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 |  |
+| [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 | 2024-03-02 |
 | [All That I Said](https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [All That I Said](https://open.spotify.com/album/62QiCnsViAGeHZo31aecbi) | 2:35 | 2021-12-29 | 2022-11-13 |
 | [Anillos](https://open.spotify.com/track/644bhHV45EGGVGFVKLMZDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Selvas](https://open.spotify.com/album/3rf0MVnUOyxeH0YRPUmpU8) | 3:41 | 2021-12-29 | 2022-07-29 |
 | [Anillos](https://open.spotify.com/track/7pEgYtpi1NfpJy1fa94ReI) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Selvas](https://open.spotify.com/album/317wmYxchAqBSLCOfU4sLW) | 3:41 | 2022-06-15 | 2023-03-04 |
@@ -140,6 +140,7 @@
 | [Nawebona](https://open.spotify.com/track/699gDcpwPjEIySd499EG7s) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Nawebona](https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw) | 3:15 | 2023-05-05 | 2023-09-03 |
 | [Neon](https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs) | [Patterns](https://open.spotify.com/artist/3tJL2NbxEnJgYjo3LBdDQ9) | [Neon](https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4) | 4:09 | 2022-01-26 | 2022-12-07 |
 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 | 2022-01-26 | 2023-04-23 |
+| [No Eres Tú](https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [Te Contaron Que Me Gustas](https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA) | 3:06 | 2024-02-23 |  |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2021-12-29 | 2023-08-07 |
 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 | 2021-12-29 | 2023-10-30 |
 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 | 2021-12-29 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,771 songs - 3 day 19 hr 13 min
+1,772 songs - 3 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2021-08-29 | 2021-08-30 |
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-02 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
-| [Done Getting Over You](https://open.spotify.com/track/0ivSICeARK2xi8iRvHeVAd) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Done Getting Over You](https://open.spotify.com/album/2kPIwfjIpPbBmKqo2PTcs8) | 2:49 | 2024-02-26 |  |
+| [Done Getting Over You](https://open.spotify.com/track/0ivSICeARK2xi8iRvHeVAd) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Done Getting Over You](https://open.spotify.com/album/2kPIwfjIpPbBmKqo2PTcs8) | 2:49 | 2024-02-26 | 2024-03-02 |
 | [Donkey Kong](https://open.spotify.com/track/0QfxhyX9dky9Zgfr2xhNzR) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Donkey Kong](https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3) | 2:28 | 2022-08-05 | 2023-01-10 |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-22 | 2021-08-23 |
 | [Don’t Try](https://open.spotify.com/track/5SCl31zHAWh2Qf1oTq7u3u) | [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [PRICELESS](https://open.spotify.com/album/6PxUXGR120hMiXAozmB29G) | 2:31 | 2021-03-27\* | 2021-03-29 |
@@ -1577,6 +1577,7 @@
 | [Tokken](https://open.spotify.com/track/2fq0dSsyewXwQsgR4w9wgT) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Tokken](https://open.spotify.com/album/4YRcr2IYl5NcVftGnxTUYU) | 3:13 | 2021-05-09 | 2021-08-13 |
 | [Tokken](https://open.spotify.com/track/0ke6TRt2S3KTOFZzRUXtH7) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 3:14 | 2021-10-03 | 2021-10-10 |
 | [Tomten, jag vill ha en riktig jul](https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n) | [Judit](https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF) | [Tomten, jag vill ha en riktig jul](https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq) | 2:27 | 2021-11-30 | 2023-12-27 |
+| [TONIGHT](https://open.spotify.com/track/1uOvxotZLyT8sL5NCP3MuE) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [TONIGHT](https://open.spotify.com/album/7x5RdSdnrLrOMZ51sDJZGA) | 2:07 | 2024-03-01 |  |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 | 2023-10-23 |
 | [TOPP](https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TOPP](https://open.spotify.com/album/0Gdq76sRxchoJchHllaFTX) | 2:32 | 2021-08-29 | 2022-03-27 |
 | [TOPP IDAG](https://open.spotify.com/track/3srWz7HzXOyZvfFSpkERLC) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:26 | 2022-05-07 | 2022-05-15 |

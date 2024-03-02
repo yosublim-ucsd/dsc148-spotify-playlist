@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 262537,
+  "2024-03-02": 262543,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 144335,
       "name": "5 INFLUENCEREK",
       "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
@@ -18965,7 +18965,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -22083,6 +22083,36 @@
       "duration_ms": 176000,
       "name": "n\u00f3\u017c motylkowy",
       "url": "https://open.spotify.com/track/1MBINKJrTx9VApRSoQMR8b"
+    },
+    {
+      "album": {
+        "name": "N\u00d3\u017b WE KRWI",
+        "url": "https://open.spotify.com/album/38rtVPhbhBrrIEhM4u7fXj"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Trueman",
+          "url": "https://open.spotify.com/artist/5r3nEhUe1taXeT8hZ5BVmK"
+        },
+        {
+          "name": "typo g",
+          "url": "https://open.spotify.com/artist/3Cl0LSa06vEUmbuapubmPh"
+        },
+        {
+          "name": "prod. adi",
+          "url": "https://open.spotify.com/artist/3ybpQvzJq66CzSXDzmnB8u"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186107,
+      "name": "N\u00d3\u017b WE KRWI",
+      "url": "https://open.spotify.com/track/1FOhQka75hmmlcznLcb8nk"
     },
     {
       "album": {
@@ -29031,7 +29061,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"

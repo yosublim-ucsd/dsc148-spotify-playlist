@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,720 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,740 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 25 | [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 |
 | 26 | [RoboCop](https://open.spotify.com/track/02LAK7qT1wya0klSeNO96f) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 4:34 |
 | 27 | [Where I'm From](https://open.spotify.com/track/0vtivvSAgB90twCgy1uOhh) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:22 |
-| 28 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 |
+| 28 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \(from GRAN TURISMO 7\)](https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay) | 3:57 |
 | 29 | [MOTOMAMI](https://open.spotify.com/track/6ygEPi8EtVkUO0Xarcgs63) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:01 |
 | 30 | [Brain \- Ta\-ku Rework](https://open.spotify.com/track/1ovXwvaNHQ1h1HgYkJpRgH) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [Goddess \(Remixes\)](https://open.spotify.com/album/0K88Nzh4Zd6ywceshg1A3B) | 4:59 |
 | 31 | [Oh My God](https://open.spotify.com/track/6OhkOasd2Mume69b87jwbN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/54tTC9UQtLnu5Wldhlnstr) | 3:14 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif) | 3:35 |
 
-Snapshot ID: `MCwwNzE0MTc5YjgwNjMyNzEwYWJhMjNjZjY4OTZjZDBjZTgyNzk0ZWI2`
+Snapshot ID: `MCxhZjMzYjZkNmRiZWRmMWZiZTkzNjhjMGVkZjQwZmJhYjg5YTU5ZjZh`

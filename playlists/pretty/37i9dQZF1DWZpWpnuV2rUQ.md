@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,422 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,508 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 29 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 30 | [Hojita seca](https://open.spotify.com/track/2NR4JFaBdwClKby5aoXXaQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [20 Grandes Éxitos](https://open.spotify.com/album/1q2hiLH6GQRV7vaQOl9mPf) | 4:06 |
 | 31 | [CONTENT EXPLICIT](https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [CONTENT EXPLICIT](https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X) | 2:35 |
-| 32 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
+| 32 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 33 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 34 | [Que Onda Perdida](https://open.spotify.com/track/25jYrxY9STouRAkto2QSAc) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Que Onda Perdida](https://open.spotify.com/album/4fM66yYgQd3Dc77701l9yf) | 3:16 |
 | 35 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 99 | [JET\_Set.mp3](https://open.spotify.com/track/2raFBS5ysJMxhd755bvAcf) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:25 |
 | 100 | [Vida y Tiempo](https://open.spotify.com/track/1pLgwnyBgi68NKZNsVYs56) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Vida y Tiempo](https://open.spotify.com/album/7N1SCQo1RKfeToXAinEkgr) | 4:58 |
 
-Snapshot ID: `MCxiOGE2NmUzYTY3NzA4MGUyY2ZkY2FiMmY4NDVlMzUwNzM2Mzg5YWU3`
+Snapshot ID: `MCxjMTJiZTM4NmRiMDQyNWM1ZThjMTQ3ZWVkNjYwZDQyZTVhZmFjOGNh`

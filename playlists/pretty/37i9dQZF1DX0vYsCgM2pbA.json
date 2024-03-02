@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 134942,
+  "num_followers": 134990,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWNhNWEyM2UyMDhlNGI3ZDZkOTRkYTNlNDMxNjI5NTEyZTVlMzNh",
+  "snapshot_id": "MCwwNTM5M2MxYTk3ZjA0ZDBkZjcwYTkzODBlNWUzYmU2MmVjYTUwZTA3",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1067,26 +1067,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Everything (Sonnee Remix)",
-        "url": "https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 180382,
-      "name": "Everything - Sonnee Remix",
-      "url": "https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA"
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1111,18 +1103,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
+        "name": "Everything (Sonnee Remix)",
+        "url": "https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         }
       ],
-      "duration_ms": 229213,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+      "duration_ms": 180382,
+      "name": "Everything - Sonnee Remix",
+      "url": "https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA"
     },
     {
       "added_at": "2024-02-01 13:01:25",

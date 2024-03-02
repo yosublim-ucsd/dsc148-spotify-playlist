@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57134,
+  "num_followers": 57141,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdmYjViOTVlZDEwYjA2ZDg4MWM5MDQ4OGUxZTIwMDk2OGI2OGVi",
+  "snapshot_id": "MCw0NGUyNmIwZjdkNTJiOTU1MzA5MjlmOTBlNjQwZjQyNzQ2YWNmMTli",
   "tracks": [
     {
       "added_at": "2024-02-29 19:42:43",
@@ -263,14 +263,10 @@
     {
       "added_at": "2024-02-29 19:43:53",
       "album": {
-        "name": "Dharege Doddovru (From \"Lineman\") (Kannada)",
-        "url": "https://open.spotify.com/album/7HFyLifCqHqUApIUCw6Ql3"
+        "name": "Dharege Doddovru (From \"Lineman\")",
+        "url": "https://open.spotify.com/album/5oBGEoIScSyCm9JryxPgBl"
       },
       "artists": [
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
         {
           "name": "Ningashetty",
           "url": "https://open.spotify.com/artist/255N9Ff1nwMckkgU1pILlC"
@@ -281,12 +277,16 @@
         },
         {
           "name": "Shankara",
-          "url": "https://open.spotify.com/artist/5G43SgIhCmTNzLcHR2b88O"
+          "url": "https://open.spotify.com/artist/5XesAyDCfSO2lx0U3bDK2U"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
         }
       ],
       "duration_ms": 223726,
-      "name": "Dharege Doddovru (From \"Lineman\") (Kannada)",
-      "url": "https://open.spotify.com/track/0jivW1vm0joYBzxYvQtRiv"
+      "name": "Dharege Doddovru (From \"Lineman\")",
+      "url": "https://open.spotify.com/track/6AGlHE7UuoTHndxpX7rBLO"
     },
     {
       "added_at": "2024-02-29 19:42:06",

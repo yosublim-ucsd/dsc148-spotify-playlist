@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=ZYAE8\-JXS7uWGt2AWDvWSA">Dan Patlansky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,947 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,960 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 16 | [Out In The Open](https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [Friendly Neighbourhood Conspiracies](https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j) | 3:44 |
 | 17 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
 | 18 | [The Game](https://open.spotify.com/track/306mR9QmwhF89Ao20RsEWt) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [The Game](https://open.spotify.com/album/01ZKcMIKCcgGQDrWMCPxmJ) | 2:53 |
-| 19 | [Wild Mustang](https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/0Smguaef5yox1jDwclt0Ev) | 3:51 |
+| 19 | [Wild Mustang](https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/5qP7C6lrc7Ojt70NEWTBSg) | 3:51 |
 | 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 21 | [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 |
 | 22 | [Matchbox](https://open.spotify.com/track/21wmyOXLR61jREnMsR0MeI) | [Amersham](https://open.spotify.com/artist/4IsDolWuvTUkg8pKNphLhd) | [Wearing Thin](https://open.spotify.com/album/2HAL5mn9JL3wyfjmoojhk3) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 59 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 | 60 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 
-Snapshot ID: `MCw0NjEzMzZlZTk5NzAzYjg4MDA0ODJkMDE5ZjVlMjE5Y2RjMmIzMDI4`
+Snapshot ID: `MCwwZDFiNzE5MDYxNDVkMDRkMzg1YTE4NDM2NGNiYWFhMWU4MzQ0ZjU0`

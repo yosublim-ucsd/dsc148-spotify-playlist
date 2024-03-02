@@ -4,14 +4,16 @@
 
 > The best of the legendary composer.
 
-127 songs - 9 hr 14 min
+129 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2049](https://open.spotify.com/track/0UWa0AdUscdQUI7mjjx6G1) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Blade Runner 2049 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kSUsy5FU3Wcxd4DBvXFm4) | 3:37 | 2021-07-26 |  |
 | [A Hard Teacher](https://open.spotify.com/track/3UOFrelbGLUWJpRRzH3hbZ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Last Samurai: Original Motion Picture Score](https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY) | 5:44 | 2021-07-26 |  |
 | [A Small Measure of Peace](https://open.spotify.com/track/0k1zElVBehCAzAa975af71) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Last Samurai: Original Motion Picture Score](https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY) | 7:59 | 2021-07-26 |  |
+| [A Time of Quiet Between the Storms](https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 4:21 | 2024-03-01 |  |
 | [A Way of Life](https://open.spotify.com/track/6DHYWelHYuynVVPv2m58wl) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Last Samurai: Original Motion Picture Score](https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY) | 8:03 | 2021-07-26 |  |
+| [Beginnings Are Such Delicate Times](https://open.spotify.com/track/299rXvRKRr5E32DvIbk1sn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 8:56 | 2024-03-01 |  |
 | [Big Blue](https://open.spotify.com/track/1KxY8BAcftJSRX5riy49VP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6aXolSS4oP1j52cdCxOr5L) | 4:25 | 2022-11-25 |  |
 | [Big Blue](https://open.spotify.com/track/1eyWrDLSbq52nOTF1cTwbH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT) | 4:25 | 2021-07-26 | 2022-12-04 |
 | [Big Blue](https://open.spotify.com/track/6UrNUfys0o9Z1FvaGaQK0g) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE) | 4:25 | 2022-11-25 | 2023-12-16 |

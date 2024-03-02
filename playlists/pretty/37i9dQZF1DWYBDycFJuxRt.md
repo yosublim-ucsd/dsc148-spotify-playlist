@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Saucy Dog \*👉 <a href="https://spice.eplus.jp/articles/326671?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,924 likes - 79 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,964 likes - 79 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 66 | [Batsu Game](https://open.spotify.com/track/0cTWEW3owiWry1y25fW7eu) | [SHŌJO](https://open.spotify.com/artist/6UHps917v3QGDMJ0HkiBO0), [Lisa Remar](https://open.spotify.com/artist/71Pw9VanbUtPzvO0XiO9im) | [Batsu Game](https://open.spotify.com/album/7dffmYLaOloW1sFaWnwXNf) | 2:30 |
 | 67 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
 | 68 | [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 |
-| 69 | [nerve impulse](https://open.spotify.com/track/2hoGwCGbTuRglIgIclNr5g) | [泉 大智](https://open.spotify.com/artist/0FcGHoTglGaOkQlwcO0ELr) | [nerve impulse](https://open.spotify.com/album/0eFqzS01d31ouUqUpId1qi) | 2:33 |
+| 69 | [nerve impulse](https://open.spotify.com/track/2hoGwCGbTuRglIgIclNr5g) | [泉大智](https://open.spotify.com/artist/0FcGHoTglGaOkQlwcO0ELr) | [nerve impulse](https://open.spotify.com/album/0eFqzS01d31ouUqUpId1qi) | 2:33 |
 | 70 | [タングステン](https://open.spotify.com/track/45wkJZzu0izt4CQgsw3hNB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:20 |
 | 71 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 |
 | 72 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [プリズム](https://open.spotify.com/track/0LHstseQM1R0i3rCHD1Q8x) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [プリズム](https://open.spotify.com/album/1j0U81lNEF11yzsqPQAVCN) | 3:55 |
 | 79 | [Umaikotodekiteru \-That's How it Works\- \- Vocalful ver.](https://open.spotify.com/track/0xZVvdQNQI9jDmLgfQ36K4) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Utamamire \-Vocalful Versions\-](https://open.spotify.com/album/6sib0I4ID9cI5SvNwUiT8H) | 3:40 |
 
-Snapshot ID: `MCw3NzU5NDY0ODYzOGZiNWEwMzQ3OGYzMzc4MjVhN2RjZDNlOTg4OGNj`
+Snapshot ID: `MCw1NGUyNDhmODA0YTE0YWZlNGUzNmM5OTMzMTcyNGQ0Njc4MzhlYjVl`

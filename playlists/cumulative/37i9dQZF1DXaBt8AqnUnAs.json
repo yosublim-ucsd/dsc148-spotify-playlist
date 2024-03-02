@@ -45,6 +45,40 @@
     },
     {
       "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242891,
+      "name": "2Am nas Am\u00e9ricas",
+      "url": "https://open.spotify.com/track/315JaAW5Ed3C7rnKOGMg6e"
+    },
+    {
+      "album": {
         "name": "41",
         "url": "https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X"
       },
@@ -2230,7 +2264,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 136000,
       "name": "C\u00ednica",
       "url": "https://open.spotify.com/track/2slrmlJB2JjiprvssrlOFx"
@@ -2907,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "Ela Jura Que Sabe (The Boy)",
+        "url": "https://open.spotify.com/album/4zvpzAg530enSoI73Ym4uM"
+      },
+      "artists": [
+        {
+          "name": "LUMEMOB",
+          "url": "https://open.spotify.com/artist/1pysWsHZi97sFEo1xbfbdf"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198060,
+      "name": "Ela Jura Que Sabe (The Boy)",
+      "url": "https://open.spotify.com/track/3f4Jwm47F58GAzrz8FQU1G"
+    },
+    {
+      "album": {
         "name": "Ela Passou",
         "url": "https://open.spotify.com/album/2OmCrXDkVqMFIzbedWSyYm"
       },
@@ -2930,7 +2986,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 139022,
       "name": "Ela Passou",
       "url": "https://open.spotify.com/track/6fFBR9DB56HQ2gJJUyvrH1"
@@ -3038,7 +3094,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 127619,
       "name": "Entrelinhas",
       "url": "https://open.spotify.com/track/1Qo9f6GlALIdQegwygAPDH"
@@ -3118,7 +3174,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152232,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/4AvW4aAIOmDZAq5J4VwFtl"
@@ -4112,7 +4168,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220139,
       "name": "Foto no Espelho",
       "url": "https://open.spotify.com/track/4O2PFUDvEGZQ4uN9iZIAZ2"
@@ -5149,6 +5205,32 @@
     },
     {
       "album": {
+        "name": "Pra N\u00f3s Mesmos",
+        "url": "https://open.spotify.com/album/71V5lh1S26Wj6Lfh5nTJ1z"
+      },
+      "artists": [
+        {
+          "name": "Bukola 2Tey",
+          "url": "https://open.spotify.com/artist/5f1QJrsEhB9YmuBUDpj3Iy"
+        },
+        {
+          "name": "Elisa Rosa",
+          "url": "https://open.spotify.com/artist/5T21yLPrKv7zSswjBfwz05"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168394,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3oo5H5v65IwdbiN8nMZvJ9"
+    },
+    {
+      "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
@@ -6016,7 +6098,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163293,
       "name": "Meu Momento",
       "url": "https://open.spotify.com/track/00pGD07VqcwPNU5gs6jvor"
@@ -6142,7 +6224,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 117942,
       "name": "Milvezes",
       "url": "https://open.spotify.com/track/5SN36nvRWZQi3t5BTIliTA"
@@ -6414,6 +6496,32 @@
       "duration_ms": 132922,
       "name": "M\u00e1quina Alem\u00e3",
       "url": "https://open.spotify.com/track/6Zjx3pXVwCCXSs6aFEWBVR"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica pra Ex",
+        "url": "https://open.spotify.com/album/28leRDK0sya20Nh5uktvZf"
+      },
+      "artists": [
+        {
+          "name": "Fil",
+          "url": "https://open.spotify.com/artist/3LLKyPTDFlwZsdnn8oiDbp"
+        },
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Fred Aquino",
+          "url": "https://open.spotify.com/artist/1lKCJoxjG5zCdbHLSW0t2N"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "M\u00fasica pra Ex",
+      "url": "https://open.spotify.com/track/00khOJb3mvpXS19GOXIhQx"
     },
     {
       "album": {
@@ -7334,7 +7442,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
@@ -7434,6 +7542,28 @@
       "duration_ms": 232524,
       "name": "Outro Dia",
       "url": "https://open.spotify.com/track/1lTsRXDMWFbsFjQGkbL5TX"
+    },
+    {
+      "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Ashley David",
+          "url": "https://open.spotify.com/artist/1wEC94P6n5pxqSRpiJHufF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "OUTROMAR",
+      "url": "https://open.spotify.com/track/0a8tMucr4ja7RTDqrdYzbx"
     },
     {
       "album": {
@@ -8007,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "POLPA",
+        "url": "https://open.spotify.com/album/0u6duR1aA6eW2X8xg349Nz"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "POLPA",
+      "url": "https://open.spotify.com/track/0dtEO7zXb2q5L7wCb7Sbbg"
+    },
+    {
+      "album": {
         "name": "Polpa Purple",
         "url": "https://open.spotify.com/album/74W3c0cw9NaeG8H6nqUdUR"
       },
@@ -8306,6 +8454,24 @@
       "duration_ms": 166947,
       "name": "qqtacontecendo",
       "url": "https://open.spotify.com/track/5koSMHZ0PsMG1WA08JeqNf"
+    },
+    {
+      "album": {
+        "name": "Quando a gente ama",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155605,
+      "name": "Quando a gente ama",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
       "album": {
@@ -8642,6 +8808,32 @@
       "duration_ms": 159344,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/4Snrydvw7yvw5JdmWmVHiB"
+    },
+    {
+      "album": {
+        "name": "Pra N\u00f3s Mesmos",
+        "url": "https://open.spotify.com/album/71V5lh1S26Wj6Lfh5nTJ1z"
+      },
+      "artists": [
+        {
+          "name": "Bukola 2Tey",
+          "url": "https://open.spotify.com/artist/5f1QJrsEhB9YmuBUDpj3Iy"
+        },
+        {
+          "name": "Nina Black",
+          "url": "https://open.spotify.com/artist/2EzAcTOVLhaXPtyhF0sMmL"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206632,
+      "name": "Ritmo Expl\u00edcito",
+      "url": "https://open.spotify.com/track/3JhZEAxZKkCGPDdA2xTtKt"
     },
     {
       "album": {
@@ -9787,6 +9979,28 @@
     },
     {
       "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "TAMBOR",
+      "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"
+    },
+    {
+      "album": {
         "name": "Fotos de Ontem",
         "url": "https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s"
       },
@@ -10756,7 +10970,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"

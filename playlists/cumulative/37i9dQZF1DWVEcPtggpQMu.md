@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=nwL6vWByRbirHyq7\-245cw">Ziggy4x</a>
 
-689 songs - 1 day 13 hr 20 min
+690 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Seven BB](https://open.spotify.com/track/0iGdk5XNwvMHZDTGTKpTwd) | [Xplosive Dj](https://open.spotify.com/artist/1c2Xzmqv55N4vD47gl0wyJ), [Espiquet](https://open.spotify.com/artist/0c7OQsZD9YoIElPgJGCR09), [Cye](https://open.spotify.com/artist/6uIf02Kk6I9PxS7eE8Cnb8) | [Seven BB](https://open.spotify.com/album/66BOgRLmhiOHevnaHBB8tp) | 2:18 | 2023-03-02 | 2023-04-01 |
 | [Shake](https://open.spotify.com/track/7LXxeCHb6HmaX25RPmkLgF) | [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR) | [i believes in me \[1st Quadrant\]](https://open.spotify.com/album/7iCkbnJo0xzkf6kx2RO0Li) | 3:33 | 2023-01-30 | 2023-02-02 |
 | [Shark Week](https://open.spotify.com/track/0cvrPxMQBct2vsx1hBnr7n) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 3:54 | 2022-07-21 | 2022-09-10 |
+| [SHEIN CART](https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [SHEIN CART](https://open.spotify.com/album/0cn3g9n6qHTBOIaHhtqSZP) | 2:35 | 2024-03-01 |  |
 | [Sheleni](https://open.spotify.com/track/5unHwPs6DwF8rQ1SsazWxs) | [H2O](https://open.spotify.com/artist/3HzZZ331FYGzg4OVS8mgXN) | [Sheleni](https://open.spotify.com/album/6cabRdQHa5FBZwfY1KQZRM) | 3:53 | 2023-01-30 | 2023-02-02 |
 | [Shine](https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv) | [TSA](https://open.spotify.com/artist/1cdNOdTk0arWa6psF0uopT) | [Shine](https://open.spotify.com/album/6syDmeiWP84KKFvpZ18red) | 2:50 | 2022-02-17 | 2022-03-25 |
 | [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 | 2023-11-11 |

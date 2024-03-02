@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 614916,
+  "num_followers": 614949,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYyNTcxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYyNjU3MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "UNGA & FRIA",
         "url": "https://open.spotify.com/album/07w87eimESXFgxpCI191vp"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "30 km/h",
         "url": "https://open.spotify.com/album/2mpG8EziSzEqopH9JEoWT9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3qd2d4Mog20jxuQL5OEHE5"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Lean & $prite",
         "url": "https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Kite",
         "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "I Won't Shake (La La Gunilla)",
         "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -193,43 +177,39 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "Nya Hits",
-        "url": "https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd"
+        "name": "Misstag",
+        "url": "https://open.spotify.com/album/1OTudEeQA3fQsuwslytH10"
       },
       "artists": [
         {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 194599,
-      "name": "Inga \u00e4nglar (Na na na)",
-      "url": "https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo"
+      "duration_ms": 191140,
+      "name": "Misstag",
+      "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -249,23 +229,43 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "Misstag",
-        "url": "https://open.spotify.com/album/1OTudEeQA3fQsuwslytH10"
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
       },
       "artists": [
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 191140,
-      "name": "Misstag",
-      "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Nya Hits",
+        "url": "https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Inga \u00e4nglar (Na na na)",
+      "url": "https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Upp och ner och hit och dit med Babblarna",
         "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Circus X",
-        "url": "https://open.spotify.com/album/6mk9b0Q51qdxQUVLP8MKfy"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 184555,
-      "name": "Circus X",
-      "url": "https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
@@ -349,7 +333,7 @@
       "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
@@ -373,23 +357,7 @@
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -413,23 +381,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Vapen & ammunition",
         "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
@@ -445,7 +397,55 @@
       "url": "https://open.spotify.com/track/5YCKObb1A7YIeOKzXhREwz"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Circus X",
+        "url": "https://open.spotify.com/album/6mk9b0Q51qdxQUVLP8MKfy"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 184555,
+      "name": "Circus X",
+      "url": "https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "F\u00f6r Dig",
         "url": "https://open.spotify.com/album/4MY82UcP4z4ozZqfMRCaSy"
@@ -461,23 +461,7 @@
       "url": "https://open.spotify.com/track/0IKIz4G3os1faKY3GjLk3C"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Astronaut - Spotify Singles",
-        "url": "https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 139054,
-      "name": "Astronaut - Spotify Singles",
-      "url": "https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -493,39 +477,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "30 under 30",
-        "url": "https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 179969,
-      "name": "30 under 30",
-      "url": "https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -557,23 +509,55 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "Tid & Tro",
-        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
+        "name": "Astronaut - Spotify Singles",
+        "url": "https://open.spotify.com/album/2NOivMLIOTEdbnkD6HnnfA"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 133674,
-      "name": "Tid & Tro",
-      "url": "https://open.spotify.com/track/3Je6X9MikiAZqi7x7Wfu0t"
+      "duration_ms": 139054,
+      "name": "Astronaut - Spotify Singles",
+      "url": "https://open.spotify.com/track/1eHMSmiTLf8aMg4E8N2cgn"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "30 under 30",
+        "url": "https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 179969,
+      "name": "30 under 30",
+      "url": "https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
@@ -589,43 +573,7 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "B\u00e4ttre nu (The Wedding)",
-        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 204157,
-      "name": "B\u00e4ttre nu (The Wedding)",
-      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -661,23 +609,59 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Tid & Tro",
+        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 133674,
+      "name": "Tid & Tro",
+      "url": "https://open.spotify.com/track/3Je6X9MikiAZqi7x7Wfu0t"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "B\u00e4ttre nu (The Wedding)",
+        "url": "https://open.spotify.com/album/3EQltKEqsH8RLRvEP6sgG6"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 204157,
+      "name": "B\u00e4ttre nu (The Wedding)",
+      "url": "https://open.spotify.com/track/0L3RpXaOJFNhP4QCynokYG"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "VENUS",
         "url": "https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4"
@@ -693,7 +677,39 @@
       "url": "https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Jeg vil ha (Parlamentet)",
         "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
@@ -713,39 +729,7 @@
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Inatt (Inget Stoppar Oss Nu)",
-        "url": "https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 166523,
-      "name": "Inatt (Inget Stoppar Oss Nu)",
-      "url": "https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "DOPAMIN",
         "url": "https://open.spotify.com/album/0ALPDsweGvG8lUv0T6W2Hi"
@@ -765,7 +749,23 @@
       "url": "https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "Inatt (Inget Stoppar Oss Nu)",
+        "url": "https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 166523,
+      "name": "Inatt (Inget Stoppar Oss Nu)",
+      "url": "https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "FOR THOSE WHO BELIEVED",
         "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Handen Under Mona Lisas Kjol (PT:1)",
         "url": "https://open.spotify.com/album/4pLkHKKCpechDpqhW439gJ"
@@ -829,7 +829,23 @@
       "url": "https://open.spotify.com/track/6fulMfMC4B5S52YaAhdnmF"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+    },
+    {
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Hela v\u00e4rlden v\u00e4ntar",
         "url": "https://open.spotify.com/album/4YVvgDE041taOlLbD1QEIT"
@@ -845,23 +861,7 @@
       "url": "https://open.spotify.com/track/0KnatBv9CtD7s3LMFfJiAm"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
-      "album": {
-        "name": "Done Getting Over You",
-        "url": "https://open.spotify.com/album/2kPIwfjIpPbBmKqo2PTcs8"
-      },
-      "artists": [
-        {
-          "name": "Albin Tingwall",
-          "url": "https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Done Getting Over You",
-      "url": "https://open.spotify.com/track/0ivSICeARK2xi8iRvHeVAd"
-    },
-    {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2024-02-29 10:53:44",
+      "added_at": "2024-03-01 10:16:08",
       "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/7x5RdSdnrLrOMZ51sDJZGA"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
         }
       ],
-      "duration_ms": 202954,
-      "name": "Har Dig",
-      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+      "duration_ms": 127659,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/1uOvxotZLyT8sL5NCP3MuE"
     }
   ],
   "unique_name": "Top 50 - Sweden",

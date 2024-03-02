@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6147,
+  "num_followers": 6154,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Q3ZjlkM2FmYWJlYzJjZWIzOGNiNWJjZmY0MzIyNjg4YWQwZTA1",
+  "snapshot_id": "MCw5ZmNhZjE1ZWViNThiYjg3N2UzNjc1NDMyMzQ5MGI1Y2NmZGU0ZmQy",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
-        "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
+        "name": "The Holdovers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D"
       },
       "artists": [
         {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+          "name": "Mark Orton",
+          "url": "https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A"
         }
       ],
-      "duration_ms": 83679,
-      "name": "Main Title",
-      "url": "https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod"
+      "duration_ms": 279457,
+      "name": "See Ya / Into the Unknown",
+      "url": "https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP"
     }
   ],
   "unique_name": "Golden Globes",

@@ -4,7 +4,7 @@
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-629 songs - 1 day 10 hr 43 min
+630 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [我知道自己會輸](https://open.spotify.com/track/4t1qPzWDgfh19mUDsMNVZH) | [Psy.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [我知道自己會輸](https://open.spotify.com/album/7tgKAujCGTWr06hu1HA6tK) | 2:48 | 2022-11-28 | 2023-01-03 |
 | [我要女朋友REMIX \- REMIX](https://open.spotify.com/track/2RxWr5Gq8qQSJDIAqh7i9H) | [DJ Ground](https://open.spotify.com/artist/6cvYne2H5V1po0Inu9NQzh), [六艾司 Lilice](https://open.spotify.com/artist/7HnmJNqxXx8INft6NFAEfY) | [我要女朋友REMIX](https://open.spotify.com/album/6bUgxxy467FSGkM0iI8Xkl) | 3:00 | 2022-08-08 | 2022-08-23 |
 | [我記得夢話](https://open.spotify.com/track/3LLDgEXgBycjnRLXgQUDL3) | [Hosea](https://open.spotify.com/artist/0wol98NPVvY4Q4wT6yZWGY) | [我記得夢話](https://open.spotify.com/album/0xpnaxZvqdM5gj93hU320A) | 4:23 | 2022-09-19 | 2022-10-04 |
-| [我還年輕 我還年輕](https://open.spotify.com/track/5o48kuQnPwhuRAzO2t0bCU) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [吾十有五而志於學](https://open.spotify.com/album/1UFlqDXBlX81oJxLfnIaIw) | 5:47 | 2023-09-21 |  |
+| [我還年輕 我還年輕](https://open.spotify.com/track/5o48kuQnPwhuRAzO2t0bCU) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [吾十有五而志於學](https://open.spotify.com/album/1UFlqDXBlX81oJxLfnIaIw) | 5:47 | 2023-09-21 | 2024-03-02 |
+| [我還年輕 我還年輕](https://open.spotify.com/track/6cGzTAwvGHsmk4CqIAXoJj) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [吾十有五而志於學](https://open.spotify.com/album/6mxSeNzDNiNEF67v5g7b4A) | 5:47 | 2023-09-21 |  |
 | [戰火](https://open.spotify.com/track/04E77M9V2vP4gNIxyJlc83) | [Ada 達兒](https://open.spotify.com/artist/1ffXk3T9ANwTWj99XY7pHa) | [戰火](https://open.spotify.com/album/1JL4GqJPZk9qGSE5upm1A1) | 2:42 | 2022-12-26 | 2023-01-10 |
 | [所謂的愛](https://open.spotify.com/track/5oSEjCvds0BrkQ2dVDHRpF) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [同在](https://open.spotify.com/album/5wmTd5OdRC7NSPldED3V9r) | 3:12 | 2023-09-21 |  |
 | [手放開](https://open.spotify.com/track/2Dd9EXYXI2NNrLG61OtWQv) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [絕對痴心.手放開](https://open.spotify.com/album/7i5rQCv4Ucs8p7lqhq5HfZ) | 4:25 | 2023-09-21 |  |

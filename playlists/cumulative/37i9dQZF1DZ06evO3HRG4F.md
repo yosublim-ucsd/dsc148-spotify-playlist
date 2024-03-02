@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 10 min
+63 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,13 +49,14 @@
 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 | 2023-01-14 |  |
 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 | 2023-01-14 |  |
 | [Recuerdos \(En Vivo\)](https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Teatro Metropolitan 2018 \(En Vivo\)](https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU) | 5:43 | 2023-01-14 |  |
-| [Si Se Acuerda la Banda \- En Vivo](https://open.spotify.com/track/0Zqjsu8XkzpjELsNHVZ4nB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 3:42 | 2023-05-09 |  |
+| [Si Se Acuerda la Banda \- En Vivo](https://open.spotify.com/track/0Zqjsu8XkzpjELsNHVZ4nB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 3:42 | 2023-05-09 | 2024-03-02 |
 | [Sola](https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:46 | 2023-01-14 |  |
 | [Te Necesito](https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:17 | 2023-01-14 |  |
 | [Te Quiero Tanto](https://open.spotify.com/track/6bd9jqWlKdzkKqshA00OY1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:20 | 2023-03-12 | 2023-03-15 |
 | [Tocando el Cielo](https://open.spotify.com/track/4q0iHgSQgyeFtkc0DbWFq7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:33 | 2023-01-14 | 2023-11-11 |
 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 | 2023-11-10 |  |
 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 | 2023-01-14 |  |
+| [Todas Estas Lágrimas](https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Proceso: Mi Trabajo](https://open.spotify.com/album/6gJ7C6p4DifEuVGd4OjI5h) | 5:53 | 2024-03-01 |  |
 | [Todos Estos Años](https://open.spotify.com/track/3RyPPIzLHpXG8bIw4SVItO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:43 | 2023-01-14 |  |
 | [Tu Mamá No Me Quiere](https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 4:02 | 2023-01-14 |  |
 | [Tu Mirada](https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:41 | 2023-01-14 |  |

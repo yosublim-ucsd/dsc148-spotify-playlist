@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 16016,
+  "num_followers": 16022,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Y1NWUyZTkwYzc4OGY1NmI3ZDA5MGRiZWYzMjExZmRlZTYwMjg4",
+  "snapshot_id": "MCwzMTUwMDJmY2MxMjQ3MWY5YjA0ZGExYWU1NzQ5YzQxMDA1ZmFlMjIy",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -507,6 +523,22 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -739,22 +755,6 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2022-02-01 21:20:54",

@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+    },
+    {
+      "album": {
         "name": "Cicatriz",
         "url": "https://open.spotify.com/album/17UCqNgvn8qTeRvQK8NNk8"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217600,
       "name": "C\u00e1llate La Boca",
       "url": "https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 261052,
       "name": "Desde el Ba\u00f1o - Remix",
       "url": "https://open.spotify.com/track/5DJR5wnJfgVrnk4ggFOx07"
@@ -1862,6 +1880,24 @@
       "duration_ms": 252771,
       "name": "Dulce y Amargo",
       "url": "https://open.spotify.com/track/5D3CxWrRvLCKRq4r7bt27j"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Mayo",
+        "url": "https://open.spotify.com/album/5fKj3CZGaVuKPRplmsJD9O"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00eda de Mayo",
+      "url": "https://open.spotify.com/track/2g1d6hZ6pBloIZGZD3d66O"
     },
     {
       "album": {
@@ -3586,7 +3622,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 382522,
       "name": "Lo Bonito de la Muerte",
       "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
@@ -6590,6 +6626,28 @@
       "duration_ms": 300500,
       "name": "Tecolotes",
       "url": "https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB"
+    },
+    {
+      "album": {
+        "name": "Tema de Adri\u00e1n",
+        "url": "https://open.spotify.com/album/1bF3ocG1KstRDKRXwEsjjB"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180421,
+      "name": "Tema de Adri\u00e1n",
+      "url": "https://open.spotify.com/track/2x9hAIqH7yQiAdGWutAI1S"
     },
     {
       "album": {

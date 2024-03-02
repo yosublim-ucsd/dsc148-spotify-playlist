@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 26071,
+  "2024-03-02": 26103,
   "date_first_scraped": "2022-06-20",
   "description": "The best jazz pianists today. Cover: Aaron Diehl",
   "name": "Jazz Piano Today",
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 365080,
       "name": "Celia",
       "url": "https://open.spotify.com/track/1lDJlZaTZ1SabITbqJ5CtF"
@@ -6835,7 +6835,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 232200,
       "name": "Stablemates",
       "url": "https://open.spotify.com/track/4y2LfKYTXzLvJ9efo8wb25"

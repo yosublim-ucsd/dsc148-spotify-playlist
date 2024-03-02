@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-183 songs - 11 hr 22 min
+184 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [LOVE DAY](https://open.spotify.com/track/1obtU03RXYzuNnzGe31arn) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [Jeong EunJi \(Apink\)](https://open.spotify.com/artist/3Y7kskm3Wc6XaVRHi9skaN) | [\`A CUBE\` FOR SEASON \# GREEN](https://open.spotify.com/album/0d9rKDxur1VVQxgJOQawaA) | 3:57 | 2023-06-15 |  |
 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 | 2023-09-22 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 | 2024-01-05 |  |
-| [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2023-06-23 |  |
+| [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 | 2024-02-20 |  |
+| [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2023-06-23 | 2024-03-02 |
 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-11-02 |  |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-09-22 | 2023-11-19 |
 | [Merry Christmas ahead \(feat.Chundung\)](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Chundung](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 4:28 | 2024-01-05 |  |

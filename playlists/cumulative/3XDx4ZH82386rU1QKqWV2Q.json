@@ -4887,6 +4887,28 @@
     },
     {
       "album": {
+        "name": "KRUSH ALERT",
+        "url": "https://open.spotify.com/album/2ogWjO54oEYCWHDTHACQga"
+      },
+      "artists": [
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "HR",
+          "url": "https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110774,
+      "name": "KRUSH ALERT",
+      "url": "https://open.spotify.com/track/0judPVBRMBl8dqxm2C4Ogi"
+    },
+    {
+      "album": {
         "name": "KRUSH IT UP!",
         "url": "https://open.spotify.com/album/0QJwicjBvlnvf9LWGW9ruz"
       },
@@ -5676,6 +5698,28 @@
       "duration_ms": 104620,
       "name": "Megapolis",
       "url": "https://open.spotify.com/track/1Xiw1Bydga3JQIUF8ptMO9"
+    },
+    {
+      "album": {
+        "name": "MELODIA DE VITORIA",
+        "url": "https://open.spotify.com/album/6sBNyXmOT6TgdZdZWah3kD"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89591,
+      "name": "MELODIA DE VITORIA",
+      "url": "https://open.spotify.com/track/3y5LRV9dYkGECL51KkZfxc"
     },
     {
       "album": {
@@ -8538,6 +8582,36 @@
       "duration_ms": 141821,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/7cHLNVPQuIEAnSm6oixdnv"
+    },
+    {
+      "album": {
+        "name": "SPIRIT OF THUNDER",
+        "url": "https://open.spotify.com/album/6gqD6cqqgOIEJeYo0I3p5e"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        },
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "SPIRIT OF THUNDER",
+      "url": "https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 324977,
+  "2024-03-02": 325086,
   "date_first_scraped": "2022-03-01",
   "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover: <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a> ",
   "name": "New Music Friday Christian",
@@ -56351,7 +56351,7 @@
     {
       "album": {
         "name": "Let's Chill",
-        "url": "https://open.spotify.com/album/5NzlLjVIqaooopawLwryDO"
+        "url": "https://open.spotify.com/album/1LxQ1pg6mw5HFx3aN50rz7"
       },
       "artists": [
         {
@@ -56370,6 +56370,32 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 111166,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/5uRHiT8BYO8buRKXtf4dO7"
+    },
+    {
+      "album": {
+        "name": "Let's Chill",
+        "url": "https://open.spotify.com/album/5NzlLjVIqaooopawLwryDO"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        },
+        {
+          "name": "Jackie Legere",
+          "url": "https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
       "duration_ms": 111166,
       "name": "Let's Chill",
       "url": "https://open.spotify.com/track/7sHQIi7KBCwLVrIXFmeq0Q"

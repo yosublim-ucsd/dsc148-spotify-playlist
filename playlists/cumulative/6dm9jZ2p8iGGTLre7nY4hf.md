@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-331 songs - 18 hr 12 min
+333 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Fictional Heartbreak](https://open.spotify.com/track/43M7NwXltWpW9sNJpMCKWb) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Fictional Heartbreak](https://open.spotify.com/album/1DbRJfTDvlSZhDyCTwCevR) | 3:16 | 2023-09-15 |  |
 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 | 2023-11-03 |  |
 | [First Man](https://open.spotify.com/track/6TRt2bniIq0EIlrDlje7b8) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:48 | 2023-09-15 |  |
+| [Fly to the Moon](https://open.spotify.com/track/6SVEgIKTKIRzFpAnDu0GV3) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Youth & Family](https://open.spotify.com/album/77ZxTo0LbmhtZ98b0dE6ka) | 2:33 | 2024-03-01 |  |
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2023-09-15 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2023-09-15 |  |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2023-09-15 |  |
@@ -270,6 +271,7 @@
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-09-15 |  |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2023-09-15 |  |
 | [Starlings](https://open.spotify.com/track/2ZKy6cbPuG91WWWA47ipw1) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Starlings](https://open.spotify.com/album/00vGuFOKVjrBSWhdqt4sK9) | 4:17 | 2023-09-15 |  |
+| [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 |  |
 | [Stuck On You](https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:25 | 2023-09-15 |  |
 | [stupid](https://open.spotify.com/track/4k3uABcX9iaGlt5pRJhumi) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [stupid](https://open.spotify.com/album/0uzAVFqstsfwdLtnDs6zm8) | 2:52 | 2023-09-15 |  |
 | [Stupid Ex](https://open.spotify.com/track/2EKHHJ2I2XdRWgXFRpjlKy) | [Emma Schneider](https://open.spotify.com/artist/5tmpQH4ahxiqKtwqyUfR0d) | [Stupid Ex](https://open.spotify.com/album/49l6XBaRivLXSPOqUN7M7y) | 2:13 | 2023-09-15 |  |

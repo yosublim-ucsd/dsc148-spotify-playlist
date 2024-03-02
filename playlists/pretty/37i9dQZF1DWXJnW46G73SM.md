@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,790 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,859 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 76 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 |
 | 77 | [Wana Lewahdy](https://open.spotify.com/track/70z2Zrg6oDt0oDWOhUMB5m) | [Wafaa](https://open.spotify.com/artist/4VgYG6D2QMDpKm1h81NQaf) | [Wana Lewahdy](https://open.spotify.com/album/7zRBh6T6ogJr1bK6cy1oky) | 3:58 |
 
-Snapshot ID: `MCw4OWRkZDA3MWY2NzJlYzAxZWM1NWMzZDZiZWIyM2Y1NDZiMTgxMWEz`
+Snapshot ID: `MCwwYTNhNjY2ODY5YjU4Yzg2Nzc2OTMwYTYyNWYxYjI5NjlhNTFjNWNk`

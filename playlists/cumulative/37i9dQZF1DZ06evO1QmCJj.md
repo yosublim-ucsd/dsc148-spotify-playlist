@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 20 min
+65 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-11-10 |  |
 | [EL CONDENAO](https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [EL CONDENAO](https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib) | 2:24 | 2024-01-13 |  |
 | [EL CONDENAO](https://open.spotify.com/track/74fSQUoDZUraMRdrniMcpX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:24 | 2023-12-16 | 2024-01-14 |
-| [El Humo \- Canción Original De La Película "Lo Dejo Cuando Quiera"](https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:46 | 2023-11-10 |  |
+| [El Humo \- Canción Original De La Película "Lo Dejo Cuando Quiera"](https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:46 | 2023-11-10 | 2024-03-02 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-11-10 |  |
 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 | 2023-11-10 |  |
 | [High \(Remix\)](https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [High \(Remix\)](https://open.spotify.com/album/2zXlWd1wEWDpoAQfBShNwJ) | 4:04 | 2023-11-10 |  |
@@ -68,7 +68,8 @@
 | [Trendy](https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Trendy](https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2) | 3:03 | 2023-11-10 |  |
 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 | 2023-11-10 |  |
 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-11-10 |  |
-| [UNA BACHATA](https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [UNA BACHATA](https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh) | 2:37 | 2024-02-03 |  |
+| [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 | 2024-03-01 |  |
+| [UNA BACHATA](https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [UNA BACHATA](https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh) | 2:37 | 2024-02-03 | 2024-03-02 |
 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 | 2023-11-10 |  |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/2kT0UoxzIcAaD7SNiDGrFn) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:24 | 2023-12-16 | 2024-02-09 |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 | 2024-01-04 |  |

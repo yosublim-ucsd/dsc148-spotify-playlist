@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 42554,
+  "num_followers": 42561,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmJhZWIwZDZhZGM4ZTUxMjk2MjhjMDkwOWIwOGE2Yjc5NTFmZmNi",
+  "snapshot_id": "MCwxYzViYjdhMDgzMDhkMTIxYzkzNGEyYmRjOTA3YzRmN2RiY2RkZDY2",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "La Historia del Mambo, Vol. 2",
-        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 159503,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "P\u00fablico",
@@ -423,6 +407,22 @@
       "duration_ms": 145773,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "La Historia del Mambo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 159503,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
     },
     {
-      "added_at": "2022-04-19 19:22:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
@@ -839,6 +823,22 @@
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
+    },
+    {
+      "added_at": "2022-04-19 19:22:36",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
@@ -955,6 +939,22 @@
       "duration_ms": 181253,
       "name": "Merecumb\u00e9 del cantinero",
       "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
-      },
-      "artists": [
-        {
-          "name": "Los Super Seven",
-          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Me Voy Pa'l Pueblo",
-      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
+      },
+      "artists": [
+        {
+          "name": "Los Super Seven",
+          "url": "https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Me Voy Pa'l Pueblo",
+      "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Live At The First Annual San Francisco Son Jarocho Festival",
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
-        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
         }
       ],
-      "duration_ms": 153613,
-      "name": "Hot Tamales (Los Tamalitos De Olga)",
-      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
+        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
       },
       "artists": [
         {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+      "duration_ms": 153613,
+      "name": "Hot Tamales (Los Tamalitos De Olga)",
+      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa (Bugalu)",
-      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
         "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa (Bugalu)",
+      "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Luaka Bop Remix",
-        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Afro Blue - Koop Remix",
-      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "The Power of the Latin Music",
         "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Luaka Bop Remix",
+        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Afro Blue - Koop Remix",
+      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
     },
     {
       "added_at": "2020-05-28 20:45:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,138 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,136 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 18 | [November \(feat\. Stormzy\)](https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:34 |
 | 19 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 |
 | 20 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
-| 21 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:45 |
+| 21 | [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 |
 | 22 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
 | 23 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
 | 24 | [Diamonds 'n' Pearls](https://open.spotify.com/track/22HvnAXszGc2IlIEkdNd76) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Diamonds 'n' Pearls](https://open.spotify.com/album/0UOWxAhlrrDokg0r3mRCYn) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 |
 | 50 | [Dreaming](https://open.spotify.com/track/6eOhPYgVzJmH3Oc476NLfw) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Dreaming](https://open.spotify.com/album/2pcrfO8TY7ceObFoIx3pbK) | 3:42 |
 
-Snapshot ID: `MCxmMmI1NmU2NzMyZjFiYWYzMmRlZjljMmZjMzYzNDlmMmQ5ZmJhMTE3`
+Snapshot ID: `MCxhMjM3MjMzZTQ0NDk5NTMzMTc5OWE0MmFmODc2ODRmNGJiYzZkNzVl`

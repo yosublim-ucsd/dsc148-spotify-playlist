@@ -1781,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "2093 (P2)",
+        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240916,
+      "name": "As We Speak (feat. Drake)",
+      "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
+    },
+    {
+      "album": {
         "name": "No Label No Budget (Season 1)",
         "url": "https://open.spotify.com/album/0tBV6Jo9Buq1jPYOYTOEBo"
       },
@@ -3858,7 +3880,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 137121,
       "name": "Busy",
       "url": "https://open.spotify.com/track/54glZJMuYREfaT40jPrThb"
@@ -8262,7 +8284,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180000,
       "name": "For Love (feat. Thelonious)",
       "url": "https://open.spotify.com/track/0YGZyCSLMjjSg4f3jHi6qe"
@@ -9152,6 +9174,24 @@
       "duration_ms": 212673,
       "name": "Gin and Tonic",
       "url": "https://open.spotify.com/track/3qR4YcjjAUzFOTmkghhEPE"
+    },
+    {
+      "album": {
+        "name": "Girls Wanna Have Fun",
+        "url": "https://open.spotify.com/album/36ZGNEPY9qChtjXw4a713p"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124393,
+      "name": "Girls Wanna Have Fun",
+      "url": "https://open.spotify.com/track/0CAoC5v4ACbffXKaOp6VcE"
     },
     {
       "album": {
@@ -17749,6 +17789,28 @@
     },
     {
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/0QILRA13pn8Q153pYd1wSD"
+      },
+      "artists": [
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        },
+        {
+          "name": "J Scienide",
+          "url": "https://open.spotify.com/artist/08CiAfgh0Lb06zxgUl8ghj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/4CTZL2R4fy8tvo1g9ia3Io"
+    },
+    {
+      "album": {
         "name": "Organize",
         "url": "https://open.spotify.com/album/0D2PEmYzGoOPCfmm8c7ibe"
       },
@@ -20219,6 +20281,28 @@
     },
     {
       "album": {
+        "name": "Ride 4 Me",
+        "url": "https://open.spotify.com/album/18AMXtTIsAWpx57pZcyTD0"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "Streameum",
+          "url": "https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139241,
+      "name": "Ride 4 Me",
+      "url": "https://open.spotify.com/track/0Bb3Jmzm5UrgZnLNTfciXe"
+    },
+    {
+      "album": {
         "name": "Rien de moins",
         "url": "https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG"
       },
@@ -22198,7 +22282,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 103985,
       "name": "Stash",
       "url": "https://open.spotify.com/track/5UFhsTLoUugjkO7LHDTWvu"
@@ -22840,6 +22924,28 @@
       "duration_ms": 211061,
       "name": "SUMMERTIME",
       "url": "https://open.spotify.com/track/3lFuXo498QNoaYrIW2p6bf"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/5aGq14igVMuapmO2P8wGBV"
+      },
+      "artists": [
+        {
+          "name": "Tara Lord",
+          "url": "https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ"
+        },
+        {
+          "name": "Cocanina",
+          "url": "https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Sun Goes Down (feat. Cocanina)",
+      "url": "https://open.spotify.com/track/2veQKo3uj3pwPQZh4Cvj14"
     },
     {
       "album": {
@@ -25278,7 +25384,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180000,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/4qbh9Zlb8SClIOKwMDJaPb"
@@ -26172,7 +26278,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160159,
       "name": "What's Beef (feat. Inderpal Moga)",
       "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"

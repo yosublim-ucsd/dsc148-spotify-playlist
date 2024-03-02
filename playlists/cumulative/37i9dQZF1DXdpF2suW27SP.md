@@ -4,7 +4,7 @@
 
 > Dillaz entra na zona.
 
-486 songs - 1 day 2 hr 2 min
+487 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [JOGADOR CARO](https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [JOGADOR CARO](https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC) | 3:06 | 2022-10-20 | 2023-03-10 |
 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 | 2023-08-03 | 2023-09-22 |
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 | 2022-10-28 |
+| [Já Vou](https://open.spotify.com/track/48s7VUIilTfaLMZlkSuIxV) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Já Vou](https://open.spotify.com/album/7DDXhKNEvEuva0tXKsnWnQ) | 3:30 | 2024-03-01 |  |
 | [Kala Boka \(Freestyle\)](https://open.spotify.com/track/55XDPmIcLcO79LvrD2BVVM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Kala Boka \(Freestyle\)](https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB) | 2:49 | 2022-07-16 | 2022-07-22 |
 | [Karma](https://open.spotify.com/track/4NVkR10qkADrFrQnQ23l2c) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Karma](https://open.spotify.com/album/0uAosRh2GbvWojGO1DMq5d) | 2:33 | 2023-06-08 | 2023-06-30 |
 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 | 2023-02-10 | 2023-03-25 |

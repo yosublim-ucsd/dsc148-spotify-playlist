@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,245 likes - 158 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,292 likes - 158 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 157 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 |
 | 158 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 |
 
-Snapshot ID: `MCxmOWMxY2Y4ZmM3Mjg0NzIzMzRlYjk2NjhiMmQzMDJkMWJjOTdhNWM5`
+Snapshot ID: `MCxkOWMyOTYyOWI2ZDk5NzJjMTA2YWE2N2Q1MDdiMDQ0NzM1YjA5Yjg4`

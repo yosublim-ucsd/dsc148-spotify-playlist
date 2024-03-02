@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-203 songs - 17 hr 42 min
+206 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Der Hacker](https://open.spotify.com/track/422a4puuho0yE1XMHEQ1yx) | [Turku Jazz Orchestra](https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV), [Tero Lindberg](https://open.spotify.com/artist/2PK6WedjSwfpSVyVZN4T5f) | [Der Hacker](https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548) | 5:54 | 2023-06-29 | 2023-10-06 |
 | [Dialogue](https://open.spotify.com/track/2ulrCn7v24eySiwshtmyFN) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx) | [Dialogue](https://open.spotify.com/album/1W0d6d1Ruv2uWA5MeI4Cmk) | 6:00 | 2023-10-05 | 2023-11-17 |
 | [Direction Zero](https://open.spotify.com/track/1g3OXg3fy4uuvT6f1lfTrr) | [New 4](https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx) | [Direction Zero](https://open.spotify.com/album/7vGYQw6dwogNb67igmzHBq) | 5:03 | 2023-09-14 | 2023-11-17 |
+| [Driven](https://open.spotify.com/track/67GfR54qFkWa4GvQPXaZbK) | [Kaira](https://open.spotify.com/artist/24G9JLS9UymXL553GyzogI), [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Jussi Lehtonen](https://open.spotify.com/artist/2HilbFWypaCnlUZeesaIXb) | [Driven](https://open.spotify.com/album/2yzkXEduzUyz2xUaikFNJt) | 6:57 | 2024-03-01 |  |
 | [Duke](https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG) | [Soft Power](https://open.spotify.com/artist/3DlOpL8UHL8my5Dl8twYxA) | [Duke](https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN) | 4:44 | 2023-04-28 |  |
 | [Dägä Dägä](https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE) | [Pope Puolitaival](https://open.spotify.com/artist/2S6F5kcokdkRZaS31KaYsx) | [Dägä Dägä](https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi) | 2:54 | 2022-09-02 | 2023-09-15 |
 | [Déjà Vu](https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq) | [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Déjà Vu](https://open.spotify.com/album/3qOl5KWXYlKBZTJhI4Lz9j) | 3:35 | 2022-09-02 | 2023-09-09 |
@@ -209,7 +210,9 @@
 | [Wilson](https://open.spotify.com/track/4ETnbB4bCsQPymb7g6ATdg) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Wilson](https://open.spotify.com/album/6Y0TefAiE6FaPNlWifCPLG) | 6:37 | 2024-01-05 |  |
 | [Wings](https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN) | [Uxila Exile](https://open.spotify.com/artist/6I5HxrvGxLIEgDUaXUQjiy) | [Wings](https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE) | 5:52 | 2022-09-02 | 2023-08-26 |
 | [You'll Hear Me When I Come](https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes) | [Masa Orpana](https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G) | [Together](https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202) | 5:24 | 2023-11-10 |  |
+| [Your Special Loss](https://open.spotify.com/track/3aesBSd2hA9k3pwjXUZaab) | [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3), [Toomas Keski\-Säntti](https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3), [Vesa Ojaniemi](https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F), [Tuomas Timonen](https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj) | [Your Special Loss](https://open.spotify.com/album/1RIvIRKlgKxh8plgbOdlJ9) | 6:04 | 2024-03-01 |  |
 | [Yö Kaivopuistossa](https://open.spotify.com/track/1XvrA1Eg7ysuFDoSG4gdwI) | [Ida Alanen Trio](https://open.spotify.com/artist/3gElqj8hulfTVD9xclvbkn) | [Yö Kaivopuistossa](https://open.spotify.com/album/02g76ffVx121FMO2PQjZ7h) | 4:59 | 2023-10-05 |  |
 | [Yölaulu](https://open.spotify.com/track/2ht22f3HTPT33rwoUAhCyJ) | [Einoa](https://open.spotify.com/artist/1ZZbXwZDdSo4cumEOY6foj) | [Yölauluja](https://open.spotify.com/album/3Rqk4yG9Dr93rvEJPz6YZ6) | 4:06 | 2023-10-05 | 2024-01-13 |
+| [Zen Coltrane \(A Relinquishing Ritual\)](https://open.spotify.com/track/0C2eQx5k3HZ5d9vVtFdi59) | [Symbiocene](https://open.spotify.com/artist/5l42SzRtQuj28417dsqQ6m), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn), [Pauli Lyytinen](https://open.spotify.com/artist/31yZJRhBpvlTxtgQM5skfA), [Anni Elif](https://open.spotify.com/artist/1JmCGH2y1Cifm0lRyVYAww) | [Zen Coltrane \(A Relinquishing Ritual\)](https://open.spotify.com/album/1KJP9yhl3SC5qHULfsIRNr) | 4:04 | 2024-03-01 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

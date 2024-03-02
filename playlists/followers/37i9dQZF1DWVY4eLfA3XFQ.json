@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 609658,
+  "2024-03-02": 609795,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring Walker & Royce. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -9669,7 +9669,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198750,
       "name": "Funk Soul Brother - GENESI Edit",
       "url": "https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z"
@@ -13519,6 +13519,28 @@
       "duration_ms": 262500,
       "name": "Keep It Goin",
       "url": "https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK"
+    },
+    {
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "album": {

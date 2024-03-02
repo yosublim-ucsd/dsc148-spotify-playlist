@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: IDLES
 
-547 songs - 1 day 6 hr 51 min
+548 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Hard to Hold On](https://open.spotify.com/track/6sBfW1MvCJnMK7pqHJr2zH) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Hard to Hold On](https://open.spotify.com/album/6DrlsSumD7fJUyuNoWV2AO) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Hard to Kill](https://open.spotify.com/track/7bU1WWo32oscVeFfZBzbCu) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Hard to Kill](https://open.spotify.com/album/10NTFSIWsBXA9zKJ4fMuxb) | 3:26 | 2021-03-09 | 2022-01-17 |
 | [Hate Me](https://open.spotify.com/track/6heQxArnGCBoyAZ0phwT7d) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Hate Me](https://open.spotify.com/album/6Ts10Yx9238mocuLUKsBkr) | 2:46 | 2021-03-09 | 2022-01-17 |
-| [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-29 |  |
+| [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-29 | 2024-03-02 |
 | [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-16 |  |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 |  |
 | [Heavy](https://open.spotify.com/track/0mlE732Ghbmo89ISngqVNk) | [The Goodnight Darlings](https://open.spotify.com/artist/6krukeKcu8LAYaEG50ohmM) | [Heavy](https://open.spotify.com/album/7j52cSMnSXWMbYV37zbhFH) | 3:16 | 2021-03-09 | 2022-01-17 |
@@ -303,6 +303,7 @@
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-13 | 2024-01-15 |
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-05 | 2024-01-13 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-17 | 2024-02-17 |
+| [Lunar Eclipse](https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:56 | 2024-02-16 |  |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
 | [Make It Right](https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 2:33 | 2022-02-28 | 2022-08-19 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-10 |  |

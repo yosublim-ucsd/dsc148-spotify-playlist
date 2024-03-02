@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 147174,
+  "num_followers": 147357,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxZWUwMzMyMDZjZGQ4ZWU0NmQ1MGQ3YTAzNjM2YzYxMmE3NDFm",
+  "snapshot_id": "MCw1OTVkZTI0NDYzYzEzYjZhZjYzMjYxMGNiMzFmNDY2YWI2MDNlMjc4",
   "tracks": [
     {
       "added_at": "2024-02-27 07:05:58",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/0JbL1IiYiIQXqb0Et8bDyV"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 194876,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4YTMIcFroWpTMRLY8su9bf"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "D'kings Men",
         "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 248626,
       "name": "Skin Tight",
       "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/0JbL1IiYiIQXqb0Et8bDyV"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 194876,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/4YTMIcFroWpTMRLY8su9bf"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -607,18 +607,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -675,22 +679,18 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 246832,
-      "name": "Caro",
-      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Legacy (Ahamefuna)",
-        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
-      },
-      "artists": [
-        {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Obianuju",
-      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "Afrikan New Style",
         "url": "https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 175200,
       "name": "D\u00e9cal\u00e9 Gwada",
       "url": "https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Legacy (Ahamefuna)",
+        "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
+      },
+      "artists": [
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Obianuju",
+      "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 272213,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 156479,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "duration_ms": 156479,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Dami Duro",
         "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Oleku (feat. Brymo)",
         "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 291363,
       "name": "Oleku (feat. Brymo)",
       "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 212005,
-      "name": "Pakurumo",
-      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 204173,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Mo Gbono Feli Feli",
-      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/0yB62AWwScWJq5WhaiWFOR"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/0OklQIKrM64KzTD7jGqfYG"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Thanks Giving",
         "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Kolom",
-        "url": "https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj"
-      },
-      "artists": [
-        {
-          "name": "BukBak",
-          "url": "https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Kolom",
-      "url": "https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv"
     }
   ],
   "unique_name": "Timeless Afro ",

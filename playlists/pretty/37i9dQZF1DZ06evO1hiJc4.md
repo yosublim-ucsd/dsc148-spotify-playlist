@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,981 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,007 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 44 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 45 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
 | 46 | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9) | 3:09 |
-| 47 | [I Don't Know If I'm a Good Person](https://open.spotify.com/track/5h2Yjx4DAA75OYtK5mATWd) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 0:32 |
-| 48 | [Let It Be](https://open.spotify.com/track/1hwpI7qjJ9XJNP9yqKOjF9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Let It Be \- EP](https://open.spotify.com/album/5jMPW3NzapSb2RIzGVd5YJ) | 3:06 |
+| 47 | [Let It Be](https://open.spotify.com/track/1hwpI7qjJ9XJNP9yqKOjF9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Let It Be \- EP](https://open.spotify.com/album/5jMPW3NzapSb2RIzGVd5YJ) | 3:06 |
+| 48 | [I Don't Know If I'm a Good Person](https://open.spotify.com/track/5h2Yjx4DAA75OYtK5mATWd) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 0:32 |
 | 49 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
 | 50 | [Higher](https://open.spotify.com/track/39lxs02zC9wpqB0sxufKKI) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Higher](https://open.spotify.com/album/3qIJqbxuiYCwwGVLkLSZ1P) | 3:01 |
 
-Snapshot ID: `Mjg0ODY4NjcsMDAwMDAwMDAwNzc0ZDk2OGQ5OGVkNjc5MWRhNGM1MzVmODJkODA4Mg==`
+Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDAxNzFjYjQxOTM0YTE3MjQ2MWM4MDhlNjZlMmQwZWI1ZA==`

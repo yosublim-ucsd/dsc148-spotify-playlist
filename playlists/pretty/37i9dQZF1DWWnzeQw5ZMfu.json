@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 68923,
+  "num_followers": 68929,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRmNDBkYzdhNzdjY2Q4OTMwNmExYmEyOTkwMGY0Y2U4Nzc4YzBl",
+  "snapshot_id": "MCw2NGRmZDRmNzg3YjBjZjM3MTFlYmQ4OWQ4YzVkZDI0YjRiMWM5ZThl",
   "tracks": [
     {
       "added_at": "2024-02-13 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Lovers Live",
-        "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 256800,
-      "name": "Smooth Operator - Live",
-      "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 250586,
       "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Lovers Live",
+        "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 256800,
+      "name": "Smooth Operator - Live",
+      "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "How Will I Know - Live from The Brit Awards",
-      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "How Will I Know - Live from The Brit Awards",
+      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Tina Live",
         "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2024-02-13 05:00:00",

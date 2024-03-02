@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,482 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,505 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Override](https://open.spotify.com/track/5ZeTXi7uJgTlZJVqljyqHY) | [Yoshida Yasei](https://open.spotify.com/artist/40dkMslN1IMcKknT4eTjNE) | [Override](https://open.spotify.com/album/0DxpTpSwUiOKLDelTQW0Gp) | 2:18 |
 | 2 | [Konton Boogie](https://open.spotify.com/track/4wpGyHxFi50PEJL5nxzzHM) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [Konton Boogie](https://open.spotify.com/album/43yQj2CFQmrlhOGOR8dCu7) | 2:34 |
 | 3 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
-| 4 | [可不ェイン](https://open.spotify.com/track/5ymC9IssJM5v6cRjpTtbPS) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [可不ェイン](https://open.spotify.com/album/6yOcFTQoDPXMNC1149PTmx) | 2:32 |
+| 4 | [Kafu\-eine](https://open.spotify.com/track/2MtLVsDeMdTsslO6qqmS2h) | [Hiiragi Magnetite](https://open.spotify.com/artist/3wcmaCLMuQjUbID0CNUDOz) | [Kafu\-eine](https://open.spotify.com/album/17k1xca8sGZXwiAJZh8Ild) | 2:32 |
 | 5 | [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 |
 | 6 | [CYBERPUNK DEAD BOY](https://open.spotify.com/track/2s99gzEEtTQrkm4XulDNlw) | [MAIKI P](https://open.spotify.com/artist/0SqsnfDQXuEQWVXicMYNlg) | [CYBERPUNK DEAD BOY](https://open.spotify.com/album/2nDzcQa6dvtlD6jTok7XUN) | 3:44 |
 | 7 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 11 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
 | 12 | [フォニイ](https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2) | [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 3:09 |
 | 13 | [shun\-ran](https://open.spotify.com/track/3fwHnVrs8X3I7jaxoBeifn) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/3sWobIbTGugakWItFl0lex) | 2:41 |
-| 14 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
+| 14 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
 | 15 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 |
-| 16 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
+| 16 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
 | 17 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
 | 18 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 19 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
 | 50 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 
-Snapshot ID: `MCxhMmFkMDc4ODA4ZGZmOTdkYjE2MjU1NDcyMjU0MTI2NTI3ZDA5ZDhl`
+Snapshot ID: `MCxmZWM0ZDZiZTc2ZmU5ZDkxMzUwMzQ1YzE0MjAzN2Y5YTM1NzA4NzE3`

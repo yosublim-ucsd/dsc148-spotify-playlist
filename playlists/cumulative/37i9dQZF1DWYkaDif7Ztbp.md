@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG?si=\-gw\-4MmKQ1O5kPym9QJ\_RA">KCee</a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq?si=LWGDBCkgTrqs5Hqs3HAR\-A">Patoranking</a>
 
 362 songs - 21 hr 26 min
 

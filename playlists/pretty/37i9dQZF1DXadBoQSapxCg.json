@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308911,
+  "num_followers": 308935,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDIzYWVmZGUwNTliYzUzNGRiMTdjMzUwYmQyNDJhY2FjYzAyNWIw",
+  "snapshot_id": "MCw5YTYyNDZhYjFiYjljYThkNzUzOWExYzBmMTFjZWQ0NTdlOGNiNmRm",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Voc\u00ea n\u00e3o vive sem",
+      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
         "name": "Apela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Voc\u00ea n\u00e3o vive sem",
-      "url": "https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0"
     },
     {
       "added_at": "2024-02-23 03:01:00",

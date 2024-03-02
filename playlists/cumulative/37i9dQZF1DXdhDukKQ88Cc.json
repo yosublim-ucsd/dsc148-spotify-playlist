@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Distance (feat. Jamaika)",
+        "url": "https://open.spotify.com/album/6KibBUnazaBaPjId1jSfAR"
+      },
+      "artists": [
+        {
+          "name": "Cezar",
+          "url": "https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK"
+        },
+        {
+          "name": "Jamaika",
+          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Distance (feat. Jamaika)",
+      "url": "https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4"
+    },
+    {
+      "album": {
         "name": "DO YOU LOVE ME?",
         "url": "https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd"
       },

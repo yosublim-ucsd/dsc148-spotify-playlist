@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44296,
+  "num_followers": 44300,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ2MCw0MjQxMWE4YTU4NTEwY2FmNDUyNmRlZDMwNmFkZWFkNDVlZDFkOTQ1",
+  "snapshot_id": "NjQ2MiwwYjU3NmM0Yjg1ZmFiNWI3OTFiMDlhMzEyMDE5ODlhYjI3MTM1NzBl",
   "tracks": [
+    {
+      "added_at": "2024-03-01 17:59:59",
+      "album": {
+        "name": "Everything You Do (feat. Aviella)",
+        "url": "https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 183553,
+      "name": "Everything You Do (feat. Aviella)",
+      "url": "https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0"
+    },
+    {
+      "added_at": "2024-03-01 18:00:09",
+      "album": {
+        "name": "Getting Started",
+        "url": "https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq"
+    },
     {
       "added_at": "2024-02-27 14:54:15",
       "album": {

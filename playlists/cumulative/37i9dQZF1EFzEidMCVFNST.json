@@ -5607,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194582,
+      "name": "Solteiro For\u00e7ado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1dx7F1j3W2wlgyxwvkFksY"
+    },
+    {
+      "album": {
         "name": "Solteiro For\u00e7ado (Boiadeira Internacional)",
         "url": "https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i"
       },
@@ -5618,7 +5636,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194582,
       "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
       "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"

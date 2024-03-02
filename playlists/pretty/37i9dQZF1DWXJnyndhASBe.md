@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Gibbs, Opał
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,833 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,155 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 30 | [Plan F](https://open.spotify.com/track/0eqprQs8afmriQbN1tkA3I) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Plan F](https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP) | 2:11 |
 | 31 | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/track/0JvlaGyGok0jMp8wCQhI9p) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NIENAWIDZĘ WARSZAWY!](https://open.spotify.com/album/48f7zFPrWZT3Iaku5XQWIH) | 2:22 |
 | 32 | [Rockstar](https://open.spotify.com/track/6jkv6KmJE7UES9ohRonubH) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Rockstar](https://open.spotify.com/album/7sLSvYKAzt6HAHYecid92B) | 2:12 |
-| 33 | [ENZO](https://open.spotify.com/track/5920NPsQB4nswA0mxWCddt) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [ENZO](https://open.spotify.com/album/3M1Q39mJ8oHqDoUhQF1fep) | 3:03 |
+| 33 | [ENZO](https://open.spotify.com/track/5920NPsQB4nswA0mxWCddt) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [ENZO](https://open.spotify.com/album/3M1Q39mJ8oHqDoUhQF1fep) | 3:03 |
 | 34 | [Szpilki](https://open.spotify.com/track/1L6p039zHMzcDiv8onVJ1p) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv) | [Młody Murzyn](https://open.spotify.com/album/4NLxRQDbJztI1prbUlaALp) | 2:29 |
 | 35 | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd) | 4:52 |
 | 36 | [Bandycka Jazda](https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [Bandycka Jazda](https://open.spotify.com/album/1EA1yy7n2yx63b42YBw7ry) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 | 50 | [Tuptanie](https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t) | [Popek](https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz), [Razgonov](https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Tuptanie](https://open.spotify.com/album/72UXBc5oCuhyjviuJP3PyL) | 2:48 |
 
-Snapshot ID: `MCw2OGZlOWY2ODRlMjg1OWZlNTExY2ZiYjhhNDA4MWM5YmE0ZDE2Y2E2`
+Snapshot ID: `MCxlMmQ1OGRlNjgzZTQzYTJlNjcyNTFlMDQwNGQ0ZDY2Y2Q2MDA3MTEz`

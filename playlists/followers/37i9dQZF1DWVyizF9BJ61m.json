@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 297356,
+  "2024-03-02": 297483,
   "date_first_scraped": "2021-12-29",
   "description": "From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href=\"spotify:artist:05LK9pT8ScfWNT0UbDsyqe\">Ofege</a>",
   "name": "Afro Psychedelica",
@@ -1593,6 +1593,24 @@
     {
       "album": {
         "name": "Nigeria 70 - Lagos Jump",
+        "url": "https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI"
+      },
+      "artists": [
+        {
+          "name": "Rex Williams",
+          "url": "https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "You Are My Heart",
+      "url": "https://open.spotify.com/track/0niAkwpNApzAyUSPoAzxXT"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Lagos Jump",
         "url": "https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6"
       },
       "artists": [
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2019-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193000,
       "name": "You Are My Heart",
       "url": "https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh"

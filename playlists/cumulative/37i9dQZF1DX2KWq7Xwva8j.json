@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Charlie USG",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -3050,6 +3050,24 @@
       "duration_ms": 192122,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
+    },
+    {
+      "album": {
+        "name": "Polonia",
+        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165267,
+      "name": "Polonia",
+      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
     },
     {
       "album": {

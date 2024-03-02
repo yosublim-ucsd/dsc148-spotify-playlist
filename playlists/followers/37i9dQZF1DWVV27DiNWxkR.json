@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1726678,
+  "2024-03-02": 1727405,
   "date_first_scraped": "2019-09-29",
   "description": "The premier alternative melancholia playlist, featuring Billie Eilish.",
   "name": "Sad Indie",
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198000,
       "name": "caroline",
       "url": "https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
@@ -1089,6 +1089,24 @@
       "duration_ms": 256800,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI"
+    },
+    {
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "album": {
@@ -2461,6 +2479,24 @@
       "duration_ms": 237693,
       "name": "I Don't Hate You",
       "url": "https://open.spotify.com/track/20s3N7bTMvi7vmkdbD6c3N"
+    },
+    {
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
     },
     {
       "album": {

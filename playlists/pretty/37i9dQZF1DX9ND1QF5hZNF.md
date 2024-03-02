@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,219 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,231 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 11 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 |
 | 12 | [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 |
 | 13 | [My Lover](https://open.spotify.com/track/2mI3ZYo3JogblyOx6zDXAZ) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [My Lover](https://open.spotify.com/album/0TTkwLSkaU5nYsqNH5SXbL) | 2:40 |
-| 14 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
+| 14 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 15 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
 | 16 | [Greedy](https://open.spotify.com/track/7lxjMD40JXRFRjMSSVHKDU) | [Bleu Azur](https://open.spotify.com/artist/69SHFHJTBiVIDW8h6ATrnk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Greedy](https://open.spotify.com/album/6Iwl9nMLzHxvCMcCaSbje5) | 2:22 |
 | 17 | [About You](https://open.spotify.com/track/5oTVkfHuo8ynkm7IysVzOf) | [Theobuntu](https://open.spotify.com/artist/04MHB9Bmmoz4MKwtyxUWYb) | [About You](https://open.spotify.com/album/2w4lr4fo6oyjtKrElyISAH) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Wild in Secret](https://open.spotify.com/track/2jDNpZI9Ydk25K8qMCjpUc) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Play this at my Funerals](https://open.spotify.com/album/1SGpWhYIw9Lc02pDLke3bt) | 2:23 |
 | 50 | [Beautiful Girls](https://open.spotify.com/track/2L7OIYMC3In2mjeOKgEfj5) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Beautiful Girls](https://open.spotify.com/album/2MJahtJuUK0abzIkRzP4iL) | 2:42 |
 
-Snapshot ID: `MCxlM2JlMDU2YmMyNjdlNzYyODYxNGVmMDdmNGU5Nzk4NTZjOGZmMTUy`
+Snapshot ID: `MCw2Nzc2NjRmNjdjNDg2NTg1YzdlOGRiZDVlNmJlYjM1M2I3MzE5Y2Vl`

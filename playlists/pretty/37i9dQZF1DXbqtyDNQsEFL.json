@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 62859,
+  "num_followers": 62936,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzUxZTdjNGYyZjVkMzJiOTMzZTU2MmMyOGQ2OGU2OTVmYjcxNzE1",
+  "snapshot_id": "MCxmZWE2NTgzOTY2NjNiNzZhYTY1OWMyODRlMTMyMDMxYWVlMzE0MjA1",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 312725,
+      "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
@@ -877,30 +877,6 @@
       "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Ebenezeri",
-        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
-      },
-      "artists": [
-        {
-          "name": "Kent Edunjobi",
-          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
-        },
-        {
-          "name": "APEX CHOIR",
-          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
-        }
-      ],
-      "duration_ms": 293782,
-      "name": "Ebenezeri",
-      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "New Heart",
@@ -923,6 +899,30 @@
       "duration_ms": 202736,
       "name": "New Heart",
       "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Ebenezeri",
+        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        },
+        {
+          "name": "APEX CHOIR",
+          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
+        },
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        }
+      ],
+      "duration_ms": 293782,
+      "name": "Ebenezeri",
+      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA"
       },
@@ -1551,22 +1535,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 382499,
-      "name": "Prophetic Chant (Live)",
-      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "duration_ms": 382499,
+      "name": "Prophetic Chant (Live)",
+      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     }
   ],
   "unique_name": "Be Lifted ",

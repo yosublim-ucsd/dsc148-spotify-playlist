@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,049 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,170 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 13 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 14 | [Liberta](https://open.spotify.com/track/7sJBx5VyGxbLlhwloGBmyP) | [Pep's](https://open.spotify.com/artist/6dvyAgidTbcn9vJO1eWQ6y) | [Utopies dans le décor](https://open.spotify.com/album/7KQWVtf0EE4HwmCN0GWZpe) | 3:24 |
 | 15 | [Et c'est parti..\. \(feat\. Smartzee\)](https://open.spotify.com/track/1zwJikF2MYUwqcVnqtGxVj) | [Nâdiya](https://open.spotify.com/artist/51Ynjynt1xi7KBXCXHNdyN), [Smartzee](https://open.spotify.com/artist/5WFBTlaQisdYnCZyezTrII) | [16/9](https://open.spotify.com/album/53CZGpxCw6x0Ug2CYBAp4n) | 3:50 |
-| 16 | [Face à la mer](https://open.spotify.com/track/1FNGLwdi2avksFJKIkTnok) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [CALO POP ROCK](https://open.spotify.com/album/3U8HRejtP8V3pqwVCHeGFP) | 3:39 |
+| 16 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
 | 17 | [Allo le monde](https://open.spotify.com/track/5oAh4WgAinKO7T7XcHetLR) | [Pauline](https://open.spotify.com/artist/4zIUBMp6XPcC2rkdtbxwyL) | [Allo le monde](https://open.spotify.com/album/0D2PjanrAYvPHQlh2R7a8v) | 3:38 |
 | 18 | [Désolé pour hier soir](https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:39 |
 | 19 | [Toi et moi](https://open.spotify.com/track/1M09D3Qd5ni7uMufLp1NvJ) | [Guillaume Grand](https://open.spotify.com/artist/49oJKbmD3pnF9uynkJUWxU) | [L'amour Est Laid](https://open.spotify.com/album/0rCbxlmHGenab5DlWwGgef) | 3:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [Mon coeur, mon amour](https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn) | [Anaïs](https://open.spotify.com/artist/6uwKWDKLDlM0PXvXQ97sRT) | [The Cheap Show](https://open.spotify.com/album/3JnzpVc0Wx4c46enGLAHi7) | 4:23 |
 | 60 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCw2Y2QwODc5YzY2ZDk0YjNjNThkY2YwNmU5NjNlODIyMGI4Yzk2OWNh`
+Snapshot ID: `MCwwYzMwYTU5ZThhYjgxMDNkOTk3YmE5NWUwZTYwYjQxNTRlOWY2MThm`

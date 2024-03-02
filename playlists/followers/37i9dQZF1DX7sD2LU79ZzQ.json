@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 114857,
+  "2024-03-02": 114912,
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Suara Kayu",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Dikta Wicaksono",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -213,7 +213,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217924,
       "name": "Beraksi",
       "url": "https://open.spotify.com/track/5cK3mgNdHGlua1IKezMscn"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 245236,
       "name": "BILA NANTI KAU HARAPKAN AKU TUK KEMBALI",
       "url": "https://open.spotify.com/track/2rY6EarRCAzppwgtj0hQgM"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 278744,
       "name": "GOODLUCK",
       "url": "https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 220136,
       "name": "Hanya Kau Yang Ku Mau",
       "url": "https://open.spotify.com/track/4kCDVwxtziXxhBbviPijUl"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 343000,
       "name": "Hidup Bukan Sekedar Bernafas",
       "url": "https://open.spotify.com/track/48OKojXgd3xuDCiMzIWBwp"
@@ -1311,10 +1311,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 244561,
       "name": "Kini Sempurna",
       "url": "https://open.spotify.com/track/4n6QwDwsn93HdFaWmm8x7t"
+    },
+    {
+      "album": {
+        "name": "Kisah Tanpa Dirimu",
+        "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257531,
+      "name": "Kisah Tanpa Dirimu",
+      "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
     },
     {
       "album": {
@@ -1471,6 +1489,24 @@
       "duration_ms": 210322,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192459,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr"
     },
     {
       "album": {
@@ -1742,6 +1778,28 @@
     },
     {
       "album": {
+        "name": "Menentukan Pilihan (feat. Oslo Ibrahim)",
+        "url": "https://open.spotify.com/album/7ChSqRVhx7YvFSrbemx5DV"
+      },
+      "artists": [
+        {
+          "name": "OKAAY",
+          "url": "https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq"
+        },
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294463,
+      "name": "Menentukan Pilihan (feat. Oslo Ibrahim)",
+      "url": "https://open.spotify.com/track/3swsQmpaXe8Px6VymVmMFF"
+    },
+    {
+      "album": {
         "name": "Mengapa",
         "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
       },
@@ -1905,7 +1963,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 288320,
       "name": "Pelukis Pilu",
       "url": "https://open.spotify.com/track/2Mxb5A6QR6lhsx4Z2ozQo4"
@@ -1967,6 +2025,24 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "album": {
+        "name": "Perisai",
+        "url": "https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240500,
+      "name": "Perisai",
+      "url": "https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4"
     },
     {
       "album": {
@@ -2039,6 +2115,24 @@
       "duration_ms": 255000,
       "name": "Puspa Indah",
       "url": "https://open.spotify.com/track/0bTmQKBd9esDzIb7BvX2Q4"
+    },
+    {
+      "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "album": {
@@ -2235,7 +2329,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 369999,
       "name": "Senandung Dibatas Mimpi",
       "url": "https://open.spotify.com/track/4tvjUxP4pJ3ySoZxEUtsLk"
@@ -2347,6 +2441,24 @@
       "duration_ms": 200530,
       "name": "Serious",
       "url": "https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4"
+    },
+    {
+      "album": {
+        "name": "Setia",
+        "url": "https://open.spotify.com/album/7xZeCDDpE6SHQI3qZBPT0B"
+      },
+      "artists": [
+        {
+          "name": "Dikta Wicaksono",
+          "url": "https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "Setia",
+      "url": "https://open.spotify.com/track/7aqMkjcUMFvv5cQIqnevts"
     },
     {
       "album": {
@@ -2537,7 +2649,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 189661,
       "name": "Symbols",
       "url": "https://open.spotify.com/track/1ivU854n33K6OP1BFgh6Yu"
@@ -2822,6 +2934,24 @@
     },
     {
       "album": {
+        "name": "Teruskan Langkah Baikmu",
+        "url": "https://open.spotify.com/album/6uTlq5Www4B4uiHDPpUPiW"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Teruskan Langkah Baikmu",
+      "url": "https://open.spotify.com/track/6PprGtDcVdrdYopVukwFE9"
+    },
+    {
+      "album": {
         "name": "The Party Is Over",
         "url": "https://open.spotify.com/album/1bKJpO4eHHwtvrEx0Rw5TT"
       },
@@ -2975,6 +3105,24 @@
       "duration_ms": 189748,
       "name": "Wish I Was Her (feat. Kara Chenoa)",
       "url": "https://open.spotify.com/track/0msnhb9KKzAnrEknlrb5Az"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Food",
+        "url": "https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270594,
+      "name": "Your Favorite Food",
+      "url": "https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ"

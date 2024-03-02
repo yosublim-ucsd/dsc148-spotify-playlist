@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-127 songs - 6 hr 11 min
+128 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 | 2024-01-31 |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 | 2024-01-31 |
 | [Shine Bright](https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Shine Bright](https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK) | 1:47 | 2024-01-30 |  |
+| [Sloth Song](https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Sloth Song](https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY) | 2:40 | 2024-03-01 |  |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 |  |
 | [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 | 2023-11-09 |
 | [Take Me to Jamaica](https://open.spotify.com/track/7cvnmohDKpVp825bUOehLr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:18 | 2022-02-04 | 2022-10-13 |

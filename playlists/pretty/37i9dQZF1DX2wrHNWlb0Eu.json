@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 104694,
+  "num_followers": 104737,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzYzZTQ2MWNlMWFiNWEzYmFjMjcyNTlhZjUzYzY2MGJhY2ZjZDU3",
+  "snapshot_id": "MCxmYjY0NWExOGUyNjI0MzQyYmQzM2FjYWE2MjU1NTM1MjBjN2QyNmY5",
   "tracks": [
     {
       "added_at": "2024-02-12 17:00:05",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "duration_ms": 241983,
+      "name": "Extraordinary",
+      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "Extraordinary",
-        "url": "https://open.spotify.com/album/26PnWTLOFIDBLUJpFKSmaz"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 241983,
-      "name": "Extraordinary",
-      "url": "https://open.spotify.com/track/79yQQnouyRz6n9TEKxbHM5"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - Single",
-        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
+        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
       },
       "artists": [
         {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
         }
       ],
-      "duration_ms": 255957,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
-      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
+      "duration_ms": 218769,
+      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - Single",
+        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
       },
       "artists": [
         {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
         }
       ],
-      "duration_ms": 218769,
-      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
+      "duration_ms": 255957,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
+      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
-      "url": "https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
         "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
         "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 216114,
       "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
       "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -571,6 +539,38 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
+      "url": "https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -619,22 +619,6 @@
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
       "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
-      "url": "https://open.spotify.com/track/2qKJrcfRkh7ZgvyhsrPkZL"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/2qKJrcfRkh7ZgvyhsrPkZL"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
         "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 220000,
       "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2dhMTwg7O8n4kFYLpCaLC4"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e14\u0e34\u0e19\u0e40\u0e15\u0e30\u0e04\u0e25\u0e37\u0e48\u0e19\u0e17\u0e30\u0e40\u0e25\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/5EC7jXrP9yNTEIRSlPHuiF"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -847,6 +831,22 @@
       "duration_ms": 199333,
       "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
       "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e14\u0e34\u0e19\u0e40\u0e15\u0e30\u0e04\u0e25\u0e37\u0e48\u0e19\u0e17\u0e30\u0e40\u0e25\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/5EC7jXrP9yNTEIRSlPHuiF"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
-        "url": "https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB"
-      },
-      "artists": [
-        {
-          "name": "JAOKHUN",
-          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
-      "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
         "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 237772,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
+        "url": "https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
+      "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
-        "url": "https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm"
-      },
-      "artists": [
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
-        }
-      ],
-      "duration_ms": 204263,
-      "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
-      "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
-    },
-    {
-      "added_at": "2024-02-12 17:00:05",
-      "album": {
         "name": "\u0e14\u0e36\u0e01\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e40\u0e1e\u0e34\u0e48\u0e07\u0e01\u0e25\u0e31\u0e1a",
         "url": "https://open.spotify.com/album/6NzUzhfx9gpoPXhrABoWml"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-02-12 17:00:05",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
-        "url": "https://open.spotify.com/album/6kUC35lsX2YfYKvqA4Kmkw"
+        "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
+        "url": "https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm"
       },
       "artists": [
         {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
         }
       ],
-      "duration_ms": 266000,
-      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
-      "url": "https://open.spotify.com/track/4tBWxgyjEPmZOKDSwLTGXt"
+      "duration_ms": 204263,
+      "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
+      "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
     },
     {
       "added_at": "2024-02-12 17:00:05",
@@ -1435,6 +1419,22 @@
       "duration_ms": 240450,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
       "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
+    },
+    {
+      "added_at": "2024-02-12 17:00:05",
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
+        "url": "https://open.spotify.com/album/6kUC35lsX2YfYKvqA4Kmkw"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e2a\u0e21\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48)",
+      "url": "https://open.spotify.com/track/4tBWxgyjEPmZOKDSwLTGXt"
     },
     {
       "added_at": "2024-02-12 17:00:05",

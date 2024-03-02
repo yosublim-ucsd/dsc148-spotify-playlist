@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,065 songs - 2 day 12 hr 52 min
+1,066 songs - 2 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [infinite](https://open.spotify.com/track/4ydXZZ1E7YybDo7rP64Gp3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [infinite](https://open.spotify.com/album/7mu30DLJheyS31WvgkxyMJ) | 2:36 | 2022-12-21 | 2023-01-18 |
 | [Inger](https://open.spotify.com/track/1WzN9onrPMWcuQR0ICNLfc) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Inger](https://open.spotify.com/album/3JgzRDP8LFJMdIcHX2v9oZ) | 3:17 | 2022-09-27 | 2022-10-05 |
 | [Inochizuna](https://open.spotify.com/track/5RDlCRPbMIgVzNS3677eKo) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Inochizuna](https://open.spotify.com/album/1L6Q6ImUTkfuYi4jRLtnRf) | 3:21 | 2024-02-20 |  |
+| [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-02-29 |  |
 | [Into the rainbow](https://open.spotify.com/track/2Q9hKDeUwAS9B1a0X2ZiqY) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Into the rainbow](https://open.spotify.com/album/6DWJ9SnoQHMdqxaJ11O5Q2) | 4:15 | 2023-09-28 | 2023-10-06 |
 | [Iranaiyo](https://open.spotify.com/track/2PKkqRTNxb7G9I7qGmsKkk) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Iranaiyo](https://open.spotify.com/album/2D7UMajfJXb0iy9hx6ktiJ) | 2:46 | 2022-07-28 | 2022-08-05 |
 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 | 2023-01-17 | 2023-06-21 |
@@ -512,7 +513,7 @@
 | [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 | 2022-07-28 | 2022-08-17 |
 | [インゲル](https://open.spotify.com/track/2m8hm0c4w9DLv1EGrBFSHK) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [インゲル](https://open.spotify.com/album/5s0FkzwZoDVFTouIX4B9vZ) | 3:17 | 2022-09-27 | 2022-09-29 |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-09 | 2022-11-10 |
-| [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-02-29 |  |
+| [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-02-29 | 2024-03-02 |
 | [イントロは終わり](https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [イントロは終わり](https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme) | 2:58 | 2022-08-05 | 2022-08-19 |
 | [インナアチャイルド](https://open.spotify.com/track/2VviHaihEuSsYo6OOqxJ7m) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [インナアチャイルド](https://open.spotify.com/album/62EfA5beimUuWAijkPLY4H) | 3:55 | 2022-10-04 | 2022-11-18 |
 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 | 2022-07-28 | 2023-01-11 |

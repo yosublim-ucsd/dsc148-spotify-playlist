@@ -3267,6 +3267,36 @@
     },
     {
       "album": {
+        "name": "Live & In Studio",
+        "url": "https://open.spotify.com/album/6BcqNuH9JWg0ntgHOdiNhW"
+      },
+      "artists": [
+        {
+          "name": "Ack van Rooyen",
+          "url": "https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s"
+        },
+        {
+          "name": "Paul Heller",
+          "url": "https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7"
+        },
+        {
+          "name": "Hubert Nuss",
+          "url": "https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8"
+        },
+        {
+          "name": "Ingmar Heller",
+          "url": "https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Wounded Love",
+      "url": "https://open.spotify.com/track/3gwT3FmmqbAGYoGyZ658nT"
+    },
+    {
+      "album": {
         "name": "Nina Simone Sings Ellington",
         "url": "https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB"
       },

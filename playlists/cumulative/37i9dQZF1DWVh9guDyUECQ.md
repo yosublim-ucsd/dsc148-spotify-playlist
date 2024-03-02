@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-336 songs - 19 hr 50 min
+337 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [El Cielo Lloró](https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM) | [Proyecto 67](https://open.spotify.com/artist/5KRzlmC8PZJvfvbM9cCNTW) | [El Cielo Lloró](https://open.spotify.com/album/6Hf4LJ5XHn65JVzpurhhPD) | 4:39 | 2022-04-17 | 2022-07-24 |
 | [El Diario Del Barrio \(En Vivo\)](https://open.spotify.com/track/2HY851WpJ0F3V3BUtrN4Fm) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [El Diario Del Barrio \(En Vivo\)](https://open.spotify.com/album/6FTGnldUcblMtzMHrb2d2s) | 3:24 | 2021-11-05 | 2022-03-23 |
 | [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 | 2022-04-17 |  |
-| [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 | 2022-04-17 |  |
+| [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 | 2022-04-17 | 2024-03-02 |
 | [El Perdón](https://open.spotify.com/track/5bsiikhimXTUQGSxFiFHGV) | [Melania Pacheco](https://open.spotify.com/artist/4Y1ELLOTOaH6E0qe0WGXLR) | [Con Amor para Yah](https://open.spotify.com/album/63AK2ZWdBUBMpasQUswT3G) | 2:49 | 2022-04-17 | 2022-07-26 |
 | [En el Bar](https://open.spotify.com/track/3EWdCBy45AgZMY0LlYCMG1) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [En el Bar](https://open.spotify.com/album/0U5dzisRHBif9uA4WUHYSh) | 3:26 | 2022-08-27 |  |
 | [En Familia](https://open.spotify.com/track/64abcKkOkbUAP5i9502iZy) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [En Familia](https://open.spotify.com/album/6XVWA6q4J4aEUHu2onfZX2) | 3:31 | 2021-11-05 | 2022-04-18 |
@@ -179,6 +179,7 @@
 | [Mi Cielo](https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/37vtl31mdLh338b2xDh0Vx) | 3:18 | 2022-08-27 |  |
 | [Mi Cielo](https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6) | 3:18 | 2022-04-17 | 2023-07-05 |
 | [Mi Cielo](https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Mi Cielo](https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs) | 3:18 | 2022-08-27 | 2023-10-28 |
+| [Mi Entrenador](https://open.spotify.com/track/3RIGXG6lJd4u3Flo7xFHcP) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/64T5hHHloheAndkzgwBhol) | 2:58 | 2022-08-27 |  |
 | [Mi Entrenador](https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Mi Entrenador](https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK) | 2:58 | 2022-04-17 | 2023-07-14 |
 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 | 2022-04-17 | 2023-10-11 |
 | [Mi Primer Amor](https://open.spotify.com/track/2RNHVytRWQfVpTmG7MG6yj) | [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564) | [Mi Primer Amor](https://open.spotify.com/album/4PB8f2SQlDuloa0j5TRe7A) | 3:36 | 2021-11-05 | 2022-04-18 |

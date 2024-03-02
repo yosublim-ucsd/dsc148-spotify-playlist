@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 115611,
+  "2024-03-02": 115621,
   "date_first_scraped": "2023-12-19",
   "description": "\u00a1A mover el bote con este mix guapachoso!",
   "name": "Salsacumbiando",
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 205437,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
@@ -1731,6 +1731,28 @@
       "duration_ms": 224512,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA"
+    },
+    {
+      "album": {
+        "name": "Rescatando los \u00c9xitos Originales de Long Play",
+        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224663,
+      "name": "Vanidad",
+      "url": "https://open.spotify.com/track/4PaWbTT1MVs8ydQCgMg6k4"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 51618,
+  "2024-03-02": 51685,
   "date_first_scraped": "2023-10-22",
-  "description": "Certified R&B Hits. Cover: \u00c4yaana, Tamera & Bellah",
+  "description": "Certified R&B Hits. Cover: SZA",
   "name": "Certi: R&B",
   "tracks": [
     {
@@ -123,6 +123,28 @@
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+    },
+    {
+      "album": {
+        "name": "Sad Songs For Winter",
+        "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
     },
     {
       "album": {
@@ -336,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Sad Songs For Winter",
+        "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110204,
+      "name": "Dubai - Demo",
+      "url": "https://open.spotify.com/track/2dd2bKMoiGUb2uXKRYYd7H"
+    },
+    {
+      "album": {
         "name": "Eating out",
         "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
@@ -483,7 +523,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 169247,
       "name": "Girlfriend (London Girls Mix)",
       "url": "https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ"
@@ -687,7 +727,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
@@ -741,7 +781,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
@@ -1089,7 +1129,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
@@ -1685,10 +1725,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 177899,
       "name": "Upset (feat. Tommy Richman & FELIX!)",
       "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
+    },
+    {
+      "album": {
+        "name": "LOVE is WAR, Volume 6",
+        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230103,
+      "name": "ViBRATiON",
+      "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Luis7Lunes & Sison Beats/Nemesis
 
-130 songs - 7 hr 11 min
+131 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Emancipación](https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb) | 3:54 | 2022-02-25 | 2023-02-19 |
 | [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 | 2022-11-25 | 2023-11-25 |
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
-| [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 |  |
+| [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 | 2024-03-02 |
 | [Felicidad](https://open.spotify.com/track/0vWJNqdavYDYF21IQBlBFS) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Felicidad](https://open.spotify.com/album/4986un74KXepy88FQq1VdD) | 3:55 | 2022-12-16 |  |
 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 | 2022-02-25 |  |
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-02-13 |  |
@@ -123,6 +123,7 @@
 | [Take It Easy](https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Take It Easy](https://open.spotify.com/album/3nOR8swBmPBO9f1USrjxp2) | 3:21 | 2022-02-25 |  |
 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 | 2022-02-25 | 2022-07-29 |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2022-07-15 |  |
+| [Taylor Made](https://open.spotify.com/track/5FnT5Jtn9WKrZqGAkkKxvi) | [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [Taylor Made](https://open.spotify.com/album/0zCaVVJMvOS2d2F2NfTXYP) | 3:48 | 2024-03-01 |  |
 | [Tickete$](https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Tickete$](https://open.spotify.com/album/3ajTkwZ9wCc9hcbxxwD713) | 3:15 | 2022-12-16 |  |
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-02-17 |  |
 | [Todo el Tiempo](https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo el Tiempo](https://open.spotify.com/album/06PiZBxNVFgkm1DKv634wb) | 2:43 | 2022-02-25 | 2023-02-18 |

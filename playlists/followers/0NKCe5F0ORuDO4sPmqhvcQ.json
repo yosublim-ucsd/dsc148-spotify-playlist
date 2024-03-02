@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 20814,
+  "2024-03-02": 20814,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -8063,6 +8063,24 @@
       "duration_ms": 158684,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1"
+    },
+    {
+      "album": {
+        "name": "rainonmyparade",
+        "url": "https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh"
+      },
+      "artists": [
+        {
+          "name": "cln",
+          "url": "https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154723,
+      "name": "rainonmyparade",
+      "url": "https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh"
     },
     {
       "album": {

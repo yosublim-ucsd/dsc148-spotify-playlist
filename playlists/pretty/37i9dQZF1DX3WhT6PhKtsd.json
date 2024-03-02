@@ -1,12 +1,12 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 113612,
+  "num_followers": 113663,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjJhM2NhYjk0YzExZmQxNWQ1NzVmNjVhOWJkNGVkMTc1N2QyODEw",
+  "snapshot_id": "MCxiMWE2MDk4ODVlNjk2ZWE5ZGQwZWFmNDk4MDdjZDk3ODU0NjIzMTNh",
   "tracks": [
     {
       "added_at": "2023-11-29 12:29:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "CCTV",
-        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
         }
       ],
-      "duration_ms": 161171,
-      "name": "Bite Marks",
-      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2023-11-29 12:29:47",
@@ -495,6 +479,22 @@
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 161171,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
     },
     {
       "added_at": "2023-11-29 12:29:47",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-331 songs - 19 hr 46 min
+333 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Diving Out Of Love](https://open.spotify.com/track/6C6fuCnY3980ZJS8sSuJWd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Diving Out Of Love](https://open.spotify.com/album/3oVyoQ8dcJdy8yAhkfqZtE) | 4:07 | 2021-12-03 | 2022-02-12 |
 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 | 2021-12-03 | 2022-02-12 |
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 | 2023-06-10 |
+| [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-03-01 |  |
 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 | 2022-10-28 |  |
 | [Drifting Away](https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Drifting Away](https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7) | 3:18 | 2022-11-19 |  |
 | [Drown \(feat\. Au/Ra\)](https://open.spotify.com/track/3wDhRYT95uMrYId5wkrDbA) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 3:01 | 2021-12-03 | 2023-06-17 |
@@ -328,6 +329,7 @@
 | [Wish You Well](https://open.spotify.com/track/1ZemrxKbVVPGZtwXziJmtH) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Wish You Well](https://open.spotify.com/album/1uKDqkMfOdf4afBrJYbRua) | 2:54 | 2021-12-03 |  |
 | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/track/0B5Ono47jEQSIPy8kuVCzp) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/album/08BEmSpq994E3Bb7ikt8Bn) | 3:07 | 2022-05-06 | 2023-06-10 |
 | [Without Me \- ILLENIUM Remix](https://open.spotify.com/track/4bw3ZyWA1ui0Adu285NWDl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Without Me \(ILLENIUM Remix\)](https://open.spotify.com/album/2iiNSk2EKg3d3OQQGlj2N3) | 4:08 | 2021-12-03 |  |
+| [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 | 2024-03-01 |  |
 | [Won't Give Up](https://open.spotify.com/track/4GQ27sK6S5rRnlPmWmlVmz) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Won't Give Up](https://open.spotify.com/album/5M73PayyU4KZJIueB53pIl) | 2:59 | 2021-12-03 | 2022-05-07 |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |
 | [Worst Case](https://open.spotify.com/track/3zbbRebB1rzlXJgq7Ufn8V) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Worst Case](https://open.spotify.com/album/7BxXZuYlYgPcqEaFn08usZ) | 2:58 | 2021-12-03 |  |

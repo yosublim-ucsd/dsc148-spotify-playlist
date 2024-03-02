@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-819 songs - 1 day 20 hr 34 min
+820 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Gabru Di Jaan](https://open.spotify.com/track/4apGS4ldFAEb4fDnkO1eWy) | [Mann Dhami](https://open.spotify.com/artist/56AGQhzutHSeoBy1kiWgET), [Kamal Khangura](https://open.spotify.com/artist/5pb4Hwfu5ykoQy94XHrOqT) | [Gabru Di Jaan](https://open.spotify.com/album/1JjswonXPB6XWFY4cS99Q5) | 2:57 | 2022-09-15 | 2022-09-23 |
 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [Sunny Kahlon](https://open.spotify.com/artist/1H5i29nyKuLuvowaqkYDLF), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 | 2022-09-21 | 2022-12-16 |
 | [Gaddi Vich](https://open.spotify.com/track/0KxuTHWJkecNAPKuXWIqZH) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Gaddi Vich](https://open.spotify.com/album/6bfbWtvi8eyz80nVUOOX7t) | 2:52 | 2022-09-13 | 2023-02-02 |
-| [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 | 2022-11-18 |  |
+| [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 | 2022-11-18 | 2024-03-02 |
+| [Gal Ban Jae](https://open.spotify.com/track/3aIGOC1v9wB7njRT8lIWe3) | [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/0Meuata3D39FTArEFqqnZg) | 3:31 | 2024-02-21 |  |
 | [Gal Kaon Karda](https://open.spotify.com/track/4fyHxebtKweBmTdEwDmzFm) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Sadiyan Gallan 2](https://open.spotify.com/album/2DFsnJvHqSjPrYJekOc0Bz) | 3:27 | 2023-06-06 |  |
 | [Gal Ni Bani](https://open.spotify.com/track/14yIcx0HA4RTKkndUvHlda) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Gal Ni Bani](https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl) | 3:07 | 2022-03-18 | 2022-05-20 |
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2022-05-20 |

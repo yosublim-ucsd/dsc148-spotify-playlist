@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 63419,
+  "2024-03-02": 63467,
   "date_first_scraped": "2022-08-06",
   "description": "Turn traffic stops into jam sessions.",
   "name": "Traffic Jams Naija ",
@@ -399,7 +399,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 172631,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
@@ -908,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "album": {
         "name": "Attends",
         "url": "https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB"
       },
@@ -999,6 +1017,36 @@
       "duration_ms": 137885,
       "name": "Away",
       "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+    },
+    {
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Stunn",
+          "url": "https://open.spotify.com/artist/5zjyg4zTX7rqTPgcZmnbno"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168674,
+      "name": "Away (feat. Stunn)",
+      "url": "https://open.spotify.com/track/7nnCN0SbeioycrS1ThwjKZ"
     },
     {
       "album": {
@@ -2101,7 +2149,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
@@ -2617,7 +2665,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 181979,
       "name": "Deadly (feat. Victony)",
       "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
@@ -3968,6 +4016,24 @@
     },
     {
       "album": {
+        "name": "Frenemies",
+        "url": "https://open.spotify.com/album/7yAck9wFhYhgzUMNO6B5ws"
+      },
+      "artists": [
+        {
+          "name": "Bils",
+          "url": "https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167924,
+      "name": "Frenemies",
+      "url": "https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63"
+    },
+    {
+      "album": {
         "name": "Fujipiano",
         "url": "https://open.spotify.com/album/61WYeMLodYapBUO6DuOISL"
       },
@@ -4041,7 +4107,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
@@ -4854,6 +4920,28 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp"
+      },
+      "artists": [
+        {
+          "name": "Tolani",
+          "url": "https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds"
+        },
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165866,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t"
+    },
+    {
+      "album": {
         "name": "I Like Girls",
         "url": "https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3"
       },
@@ -5015,7 +5103,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 169273,
       "name": "Id.Me",
       "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
@@ -6119,7 +6207,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213710,
       "name": "Lowkey!",
       "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
@@ -6554,6 +6642,28 @@
     },
     {
       "album": {
+        "name": "Minding My Business",
+        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173635,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
+    },
+    {
+      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
@@ -6777,7 +6887,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
@@ -6961,7 +7071,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152920,
       "name": "MYSTERIOUS LOVE",
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
@@ -7057,7 +7167,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
@@ -8554,6 +8664,24 @@
     },
     {
       "album": {
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
+    },
+    {
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
       },
@@ -8667,6 +8795,24 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "album": {
+        "name": "POLO",
+        "url": "https://open.spotify.com/album/4P1mq78i4HKC7ytF3dIl2B"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146548,
+      "name": "POLO",
+      "url": "https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5"
     },
     {
       "album": {
@@ -9093,6 +9239,28 @@
       "duration_ms": 146000,
       "name": "ROAD RUNNERS (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+    },
+    {
+      "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "album": {
@@ -9769,6 +9937,28 @@
       "duration_ms": 162603,
       "name": "Soro",
       "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
+    },
+    {
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185411,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX"
     },
     {
       "album": {
@@ -10578,6 +10768,32 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
         "name": "Too Busy To Be Bae",
         "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
       },
@@ -11169,7 +11385,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"

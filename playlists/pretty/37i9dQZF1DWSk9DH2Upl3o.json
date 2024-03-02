@@ -1,13 +1,49 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 29001,
+  "num_followers": 29034,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzVhN2Q5MzhhNDIyNWEwYWJiM2MyZWU0MDVjOTVlMzVkMGRkZTQ0",
+  "snapshot_id": "MCwzNDhkMzZlNDUxMTMyYTRlODE2OTNiYjQ4MmFmZmJiZmVmOTk0NjI2",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Feelin' Fine",
+        "url": "https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "duration_ms": 245838,
+      "name": "Feelin' Fine",
+      "url": "https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Bob and Weave",
+        "url": "https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC"
+      },
+      "artists": [
+        {
+          "name": "Big Something",
+          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
+        },
+        {
+          "name": "Josh Phillips",
+          "url": "https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke"
+        }
+      ],
+      "duration_ms": 260015,
+      "name": "Bob and Weave - Single Version",
+      "url": "https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL"
+    },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
@@ -25,6 +61,26 @@
       "url": "https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC"
     },
     {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Gloaming Way",
+        "url": "https://open.spotify.com/album/2QNz2AaoIRejCJlK7avDJa"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        }
+      ],
+      "duration_ms": 306069,
+      "name": "Gloaming Way",
+      "url": "https://open.spotify.com/track/2Ek92VVHn8Cu0XOwFwjtOF"
+    },
+    {
       "added_at": "2024-02-02 05:01:00",
       "album": {
         "name": "Hard Pass",
@@ -39,6 +95,22 @@
       "duration_ms": 252988,
       "name": "Hard Pass",
       "url": "https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Lakesong",
+        "url": "https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV"
+      },
+      "artists": [
+        {
+          "name": "Fitzkee Brothers",
+          "url": "https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG"
+        }
+      ],
+      "duration_ms": 274113,
+      "name": "Lakesong",
+      "url": "https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -71,6 +143,22 @@
       "duration_ms": 422784,
       "name": "The Seed",
       "url": "https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Love Time",
+        "url": "https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 259811,
+      "name": "Love Time",
+      "url": "https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -139,22 +227,6 @@
       "duration_ms": 382887,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Alright Tonight",
-        "url": "https://open.spotify.com/album/1VpmCbGbgKh6CS5sJ4uq7H"
-      },
-      "artists": [
-        {
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
-        }
-      ],
-      "duration_ms": 386917,
-      "name": "Alright Tonight",
-      "url": "https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -315,26 +387,6 @@
       "duration_ms": 228697,
       "name": "Hell Yeah Everyday (Live from The Compound Long Beach)",
       "url": "https://open.spotify.com/track/1mRbV4rJY6tZdYF8KAvU6L"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Becca's Dad",
-        "url": "https://open.spotify.com/album/3v068X3waV2bpB8f82XirA"
-      },
-      "artists": [
-        {
-          "name": "Kendall Street Company",
-          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
-        },
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 256275,
-      "name": "Becca's Dad",
-      "url": "https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -667,26 +719,6 @@
       "duration_ms": 275609,
       "name": "Find a Better Way",
       "url": "https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
-        }
-      ],
-      "duration_ms": 565240,
-      "name": "Saturday's Children (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1173,22 +1205,6 @@
       "url": "https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj"
     },
     {
-      "added_at": "2022-08-04 17:46:13",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "The Arcade",
@@ -1251,22 +1267,6 @@
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4"
-      },
-      "artists": [
-        {
-          "name": "Big Something",
-          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
-        }
-      ],
-      "duration_ms": 401333,
-      "name": "Song for Us",
-      "url": "https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR"
     },
     {
       "added_at": "2022-07-01 04:02:00",

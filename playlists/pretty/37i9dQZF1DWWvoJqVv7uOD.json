@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Paul Russell",
-  "num_followers": 418930,
+  "num_followers": 419109,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjVhZDg5MjY4YzI5NzZmMmRjZGQyZWM0M2UyYTViYzA3NjE4NTI1",
+  "snapshot_id": "MCxlMGY5MTVhYzBkNzdhZmQ5YzYwOTExOWYwMzZkZGNiMDAzNWJiYTg0",
   "tracks": [
     {
       "added_at": "2023-12-01 17:56:37",
@@ -121,6 +121,26 @@
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Don't Let Me Down (feat. JVKE)",
+        "url": "https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "Don't Let Me Down (feat. JVKE)",
+      "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
+    },
+    {
       "added_at": "2023-12-01 17:56:37",
       "album": {
         "name": "Life Goes On (feat. Luke Combs)",
@@ -139,26 +159,6 @@
       "duration_ms": 210208,
       "name": "Life Goes On (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "28 (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "28 (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -247,22 +247,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-02-20 21:49:14",
@@ -395,6 +379,26 @@
     {
       "added_at": "2023-12-01 17:56:37",
       "album": {
+        "name": "28 (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "28 (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
+    },
+    {
+      "added_at": "2023-12-01 17:56:37",
+      "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
       },
@@ -483,22 +487,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -849,6 +837,22 @@
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 174248,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
+    },
+    {
       "added_at": "2023-12-01 17:56:37",
       "album": {
         "name": "Children of the Sky (a Starfield song)",
@@ -1103,22 +1107,6 @@
       "duration_ms": 250481,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "break my bones",
-        "url": "https://open.spotify.com/album/0FetJ9qxsLyFcQUXQTWX0N"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 169085,
-      "name": "break my bones",
-      "url": "https://open.spotify.com/track/7MrrdjBGM0MI6PGTZIgO9g"
     },
     {
       "added_at": "2023-12-01 17:56:37",

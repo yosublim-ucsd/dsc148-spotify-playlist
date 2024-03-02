@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: $hyli",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165250,
       "name": "Back",
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
@@ -254,6 +254,28 @@
       "duration_ms": 184950,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
+    },
+    {
+      "album": {
+        "name": "Bailando (Latin Urbano Remix)",
+        "url": "https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187139,
+      "name": "Bailando - Latin Urbano Remix",
+      "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
     },
     {
       "album": {
@@ -942,7 +964,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187454,
       "name": "Crazy (Mutwe)",
       "url": "https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s"
@@ -2301,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/4c4rNpKzG8uoVIBrvjlrjz"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208822,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
+    },
+    {
+      "album": {
         "name": "More Love",
         "url": "https://open.spotify.com/album/5Tw7909lweMrp0K45iqYOQ"
       },
@@ -3068,6 +3108,28 @@
       "duration_ms": 193541,
       "name": "Osobola",
       "url": "https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl"
+    },
+    {
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3O35nnZEXcmQht2m1vzNGl"
+      },
+      "artists": [
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        },
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89"
     },
     {
       "album": {
@@ -4322,7 +4384,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195453,
       "name": "Yo Body",
       "url": "https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2"

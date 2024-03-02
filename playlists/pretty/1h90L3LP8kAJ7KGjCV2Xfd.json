@@ -1,12 +1,12 @@
 {
   "description": "happy | vibes | feel good | music | mood boost | happy hits | clean pop | positive vibes | dopamine | serotonin | high vibes | happy summer | positive affirmation | upbeat | drive | windows down | good vibes | indie | pop | rock | alternative | feelin' good | healing | rise | smile",
-  "num_followers": 300178,
+  "num_followers": 300163,
   "original_name": "Feel Good \ud83e\udd29 Happy Hits",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzU3OSw3MTNkNGU5MGE1NTUwOWZmOWQ5NjY4MGFiY2Q1MzQ4MDJhNmRjM2Iz",
+  "snapshot_id": "MzU4MSxiMDU0YjVkOWE5ZjNmOTVlMDYzODZmNDI3ZDRjZjUxZGJmZjczM2Zk",
   "tracks": [
     {
       "added_at": "2023-07-07 15:29:37",
@@ -3967,6 +3967,42 @@
       "duration_ms": 165004,
       "name": "Fantasies",
       "url": "https://open.spotify.com/track/2lDB33ssmdEQYmUh8xKmYc"
+    },
+    {
+      "added_at": "2024-03-01 19:14:40",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-03-01 19:16:18",
+      "album": {
+        "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
+        "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 182221,
+      "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
+      "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
     }
   ],
   "unique_name": "Feel Good \ud83e\udd29 Happy Hits",

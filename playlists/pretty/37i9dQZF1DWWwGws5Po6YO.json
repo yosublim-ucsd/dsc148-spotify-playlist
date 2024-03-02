@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 34115,
+  "num_followers": 34125,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx",
+  "snapshot_id": "MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Far Within Reach",
-        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        },
-        {
-          "name": "Ella Zwietnig",
-          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Far Within Reach",
+        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        },
+        {
+          "name": "Ella Zwietnig",
+          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "For Organ and Brass",
-        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Mountain of Air",
-      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1039,6 +1023,22 @@
       "duration_ms": 347680,
       "name": "Moon View",
       "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "For Organ and Brass",
+        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 446000,
+      "name": "Mountain of Air",
+      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Nine Spells",
-        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
       },
       "artists": [
         {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Spell I: Let the Waves In",
-      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1631,18 +1631,34 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
       },
       "artists": [
         {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
         }
       ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Laurus",
+        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Laurus I",
+      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1663,22 +1679,6 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Laurus",
-        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Laurus I",
-      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
     }
   ],
   "unique_name": "EQUAL Ambient",

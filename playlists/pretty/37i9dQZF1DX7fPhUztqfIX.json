@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 121699,
+  "num_followers": 121772,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
+  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -979,6 +979,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Even The Impossible (Live)",
         "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of Us (All Praise) [Live]",
-        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
-      },
-      "artists": [
-        {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
-        }
-      ],
-      "duration_ms": 386906,
-      "name": "All Praise - Live",
-      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 349000,
       "name": "Uncomplicated - Live",
       "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Another In The Fire (Studio)",
-        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Another In The Fire (Studio)",
+        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Nothing To Fear (feat. Audrey Assad)",
+        "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Nothing To Fear (feat. Audrey Assad)",
+      "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Nothing To Fear (feat. Audrey Assad)",
-        "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Nothing To Fear (feat. Audrey Assad)",
-      "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
+        }
+      ],
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Exalt (Worship Version)",
         "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 253706,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
       "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Way Home",
         "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
-      },
-      "artists": [
-        {
-          "name": "Battledrums",
-          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
-        }
-      ],
-      "duration_ms": 341328,
-      "name": "Edge of Heaven",
-      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Remember (Studio Version)",
-        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Battledrums",
+          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
         }
       ],
-      "duration_ms": 207800,
-      "name": "I Remember - Studio Version",
-      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
+      "duration_ms": 341328,
+      "name": "Edge of Heaven",
+      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2099,22 +2083,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Find a Reason",
-        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
+        "name": "I Remember (Studio Version)",
+        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Desi Raines",
-          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 254310,
-      "name": "Praise Your Name (feat. Desi Raines)",
-      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
+      "duration_ms": 207800,
+      "name": "I Remember - Studio Version",
+      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2131,6 +2111,26 @@
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Find a Reason",
+        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Desi Raines",
+          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
+        }
+      ],
+      "duration_ms": 254310,
+      "name": "Praise Your Name (feat. Desi Raines)",
+      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Heart Of Heaven",
+        "url": "https://open.spotify.com/album/22pTYW1sj9hT8EHbRSzWIK"
+      },
+      "artists": [
+        {
+          "name": "Lifepoint Worship",
+          "url": "https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Heart Of Heaven",
+      "url": "https://open.spotify.com/track/0zMUbvykhTTDch7YjgjMpT"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Stained Glass Stories",
         "url": "https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 285690,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
     }
   ],
   "unique_name": "New & Bold",

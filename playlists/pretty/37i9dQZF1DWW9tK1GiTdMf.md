@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bertolini, Tripolare in cover
+> Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bartolini, Tripolare in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,877 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,901 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 | 70 | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/track/2MYVS1724Vd9x3JISFCUeC) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/album/3kmnImSBKrya26vvpXolO0) | 2:05 |
 
-Snapshot ID: `MCxhNTAyYWQxNzM1NDU0NmVlZmUzZjFhNGY2YjdkNzk1YjllYWYxZjNl`
+Snapshot ID: `MCw4OTdlODBkMGI1ZTM4MDA5ZGRjMGQzOWQxYjY0ZWJlZGQ4YmE0MzE2`

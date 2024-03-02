@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 896211,
+  "2024-03-02": 896302,
   "date_first_scraped": "2021-12-21",
   "description": "The essential tracks by the Dutch DJ and producer</a>.",
   "name": "This Is Martin Garrix",
@@ -193,6 +193,28 @@
       "duration_ms": 318800,
       "name": "BFAM - Original Mix",
       "url": "https://open.spotify.com/track/0GBm0i9OlIlxQGx8fCNzoN"
+    },
+    {
+      "album": {
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
     },
     {
       "album": {

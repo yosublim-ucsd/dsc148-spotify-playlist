@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,009 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,014 likes - 51 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 50 | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE) | 3:32 |
 | 51 | [Agradecer](https://open.spotify.com/track/1l6Ft5qe5gSUjBYn2tXYKm) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Agradecer](https://open.spotify.com/album/4Ji39vIZY0YwdQSNw0ZmE4) | 2:19 |
 
-Snapshot ID: `Mjg0ODY4NjcsMDAwMDAwMDA3MjgzMWExZGYyYTg0MjcyYTAwMTg3MWU5NGZkYTAxZg==`
+Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDBlNTc5ZWZlNjI0ZTViOWY4ZWU3MWU3OWNiMTE2YTAzOQ==`

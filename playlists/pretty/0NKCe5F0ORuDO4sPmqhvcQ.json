@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1ODUsYTc5MTBmY2NmZjE3ZTQwMTkzZDFlY2Y1NzZkMzkxOTFjYzU1YWQyMQ==",
+  "snapshot_id": "MTA1ODYsNjhiYWNjZjE2OTQzMjA4YmJhMjkwYTY4ZjNjZDIyOTUzZmI1Y2ZmMw==",
   "tracks": [
     {
       "added_at": "2024-02-01 17:47:45",
@@ -2955,6 +2955,26 @@
       "duration_ms": 154723,
       "name": "rainonmyparade",
       "url": "https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh"
+    },
+    {
+      "added_at": "2024-03-01 19:24:49",
+      "album": {
+        "name": "Another Night (with Fi Sullivan)",
+        "url": "https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "Another Night (with Fi Sullivan)",
+      "url": "https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD"
     }
   ],
   "unique_name": "Moving Castle Monthly",

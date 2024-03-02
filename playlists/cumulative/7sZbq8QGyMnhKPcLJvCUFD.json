@@ -453,7 +453,7 @@
       "artists": [
         {
           "name": "sumu",
-          "url": "https://open.spotify.com/artist/0SkJYSbgi7TLXTShixp1AF"
+          "url": "https://open.spotify.com/artist/3VJrstLqhMNsvGJ7wpScsB"
         }
       ],
       "date_added": "2024-02-27",
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215196,
       "name": "Dreams pt. II",
       "url": "https://open.spotify.com/track/7kaux342y0B446JgJgojAi"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 267428,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH"
@@ -4086,6 +4086,36 @@
       "duration_ms": 232457,
       "name": "Good With It",
       "url": "https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa"
+    },
+    {
+      "album": {
+        "name": "Got A Feeling",
+        "url": "https://open.spotify.com/album/6MjM00oS1aMPvQcbppe89q"
+      },
+      "artists": [
+        {
+          "name": "Raul Ojamaa",
+          "url": "https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Soundy",
+          "url": "https://open.spotify.com/artist/2NnFxf6CSfa5tjPSOymEiY"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Got A Feeling",
+      "url": "https://open.spotify.com/track/3LgEiXnBZGyhBFcoyG5Hql"
     },
     {
       "album": {
@@ -9634,6 +9664,24 @@
       "duration_ms": 198620,
       "name": "twenty five",
       "url": "https://open.spotify.com/track/6uFAPsfbzY0oed5p2LH5OR"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0"
     },
     {
       "album": {

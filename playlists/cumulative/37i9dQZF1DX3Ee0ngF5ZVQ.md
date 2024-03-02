@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-599 songs - 1 day 11 hr 41 min
+600 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Neon](https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Neon](https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg) | 3:29 | 2024-01-12 |  |
 | [Neon You](https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:07 | 2023-06-16 | 2023-09-02 |
 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 | 2022-10-07 | 2023-06-10 |
+| [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 | 2024-03-01 |  |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |
 | [Nothin' to Lose \(But the Lonely\)](https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC) | [Texwestus](https://open.spotify.com/artist/4DQpyVVZCzvcELZZR4jASN) | [Nothing to Lose](https://open.spotify.com/album/2fIeS90l8Ksy21cQ9l1yWc) | 3:44 | 2021-12-17 | 2022-07-14 |
@@ -421,7 +422,7 @@
 | [Roger, Miller Lite and Me \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/5JqTcAUYNqTIlVWwMptv25) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Roger, Miller Lite and Me \(Live at Brooklyn Bowl, Nashville, 2021\)](https://open.spotify.com/album/1O83B5W5JotBgP91GYh4xK) | 2:51 | 2022-05-20 | 2022-07-26 |
 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 | 2024-02-23 |  |
 | [Same Place Twice](https://open.spotify.com/track/2dZzwDaLXppokzSL8TR3U3) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H), [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Same Place Twice](https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU) | 3:14 | 2023-10-06 |  |
-| [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 | 2023-10-06 |  |
+| [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 | 2023-10-06 | 2024-03-02 |
 | [Screw You, We're From Texas](https://open.spotify.com/track/6lcw6bpx9iPX98HKenz1qK) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Larry Joe Taylor](https://open.spotify.com/artist/5Hy4kF8dEUyCtXPozSzbHz) | [Josh Abbott Band and Friends: , Vol\. 2](https://open.spotify.com/album/6ChJQZB1aW5kOM6A3tJ2wT) | 4:08 | 2023-02-20 | 2023-05-13 |
 | [See You Again](https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [See You Again](https://open.spotify.com/album/7MmU8U3Vkjrl2ZAHZ5qvni) | 3:35 | 2023-07-28 | 2023-08-26 |
 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 | 2021-12-17 | 2024-02-08 |

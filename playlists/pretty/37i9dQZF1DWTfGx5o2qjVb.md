@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,440 likes - 100 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476 likes - 100 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 99 | [Twerk Dat Shit](https://open.spotify.com/track/4upCKVvU5WXrx5SPxulNa1) | [TAFKAMP](https://open.spotify.com/artist/4GwxugFPFLGMIEF72P7uas), [Irv Da Perv](https://open.spotify.com/artist/7Bc3PbZFORbWlY1suQ9bwh) | [The Most Wanted Digital Dubplates Vol\. 2](https://open.spotify.com/album/6GicX7tkelEi72tulT6ENm) | 4:04 |
 | 100 | [Standle](https://open.spotify.com/track/0Bm685T7YlpfQCANvFbCId) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Standle & Processora](https://open.spotify.com/album/7o1h1iPErW1xyCt9eNSR3v) | 7:34 |
 
-Snapshot ID: `MCxjMzFjYWFjMGRmYmJiMGJkZDcwNzE1ZjliYjQ0OWViMGYzOTI4Mzk1`
+Snapshot ID: `MCw3YWVlNTZiOGU1MmM0OGRlY2EzNTcxMTI3MWU0ZWFhYmE1ZjU0YjA5`

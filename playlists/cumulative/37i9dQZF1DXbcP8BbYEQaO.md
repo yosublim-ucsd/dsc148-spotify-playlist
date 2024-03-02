@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-629 songs - 1 day 11 hr 24 min
+630 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Kamikaze](https://open.spotify.com/track/3MAqVPyJzkYy2qZFx24OPw) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/0pOyUME049kbscTdJ0p8Rt) | 5:11 | 2023-09-23 |  |
 | [Keep An Eye On Dan](https://open.spotify.com/track/1OC16r1BdQO6hK2iqmvwXF) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 4:05 | 2021-11-06 | 2022-05-03 |
 | [Keeping It In The Dark \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Keeping It In The Dark \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/34kdsqSo8eVjo29lNLBCRl) | 3:28 | 2020-10-13\* | 2021-12-04 |
-| [Kill The Choreography](https://open.spotify.com/track/5uCPD62VzJld8n1aHnXAvv) | [Satellite Mode](https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij) | [Robots vs\. Party Girls](https://open.spotify.com/album/7HuimoHm8u50Be2WZk8mrb) | 3:10 | 2023-09-23 |  |
+| [Kill The Choreography](https://open.spotify.com/track/5uCPD62VzJld8n1aHnXAvv) | [Satellite Mode](https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij) | [Robots vs\. Party Girls](https://open.spotify.com/album/7HuimoHm8u50Be2WZk8mrb) | 3:10 | 2023-09-23 | 2024-03-02 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-10 |  |
 | [Kiss \- Edit](https://open.spotify.com/track/6pldLFN4pLfySELWJwhYxA) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Kiss](https://open.spotify.com/album/6RW7rkL2TAKGYO3XbIH6Af) | 3:04 | 2022-08-12 | 2022-09-17 |
 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-09-29 | 2024-02-10 |
@@ -614,6 +614,7 @@
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2020-10-13\* | 2021-07-10 |
 | [Where U Belong](https://open.spotify.com/track/2myef7k6ycOeDwRuC9pAGc) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Where U Belong](https://open.spotify.com/album/0RicE717prGI2LHVBrQEod) | 3:58 | 2020-11-18 | 2021-07-10 |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2020-10-13\* | 2021-06-19 |
+| [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 |  |
 | [Window Shopping](https://open.spotify.com/track/1tYBsN62rh9ssKUeam2uKX) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [Window Shopping](https://open.spotify.com/album/6NXFgZ3pHn8ftXaaT03Trs) | 3:22 | 2021-07-18 | 2022-04-16 |
 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 | 2020-10-13\* | 2021-06-26 |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2021-07-17 | 2022-02-19 |

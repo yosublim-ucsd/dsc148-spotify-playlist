@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 418186,
+  "2024-03-02": 418286,
   "date_first_scraped": "2023-02-03",
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kasi, antonius",
   "name": "Wilde Herzen",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 188716,
       "name": "1000 Liter Teer",
       "url": "https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 147692,
       "name": "BLa*_*",
       "url": "https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 183920,
       "name": "Boys Do Cry",
       "url": "https://open.spotify.com/track/0GsgFqyI21wVHP7itl1rvX"
@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 169948,
       "name": "egal",
       "url": "https://open.spotify.com/track/70VQ7qsKBUhzWgRhQUcc3X"
@@ -2906,6 +2906,24 @@
     },
     {
       "album": {
+        "name": "ficken3000",
+        "url": "https://open.spotify.com/album/5u8I6DgruN1q1IsFVBLhje"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147847,
+      "name": "ficken3000",
+      "url": "https://open.spotify.com/track/0Lux2h5FHNlWnvpLmh4NCA"
+    },
+    {
+      "album": {
         "name": "Fieber / Glatteis",
         "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
       },
@@ -3264,6 +3282,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr Noel",
+        "url": "https://open.spotify.com/album/0ZWlbdrR3ZiWYuzPOqLjGJ"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159278,
+      "name": "F\u00fcr Noel",
+      "url": "https://open.spotify.com/track/6Tgq6QgQBNPScKb0R0B3xA"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer tempor\u00e4r",
         "url": "https://open.spotify.com/album/6cMHp64TomRwVrEJHIMJmd"
       },
@@ -3311,7 +3347,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175400,
       "name": "Galaxis",
       "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
@@ -4162,6 +4198,24 @@
     },
     {
       "album": {
+        "name": "ich hass dich noch'n bisschen",
+        "url": "https://open.spotify.com/album/6nQFyDVSdK7Wzr50bPnFcN"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "ich hass dich noch'n bisschen",
+      "url": "https://open.spotify.com/track/2N5TDaTcnsEXP9vtCaTiDb"
+    },
+    {
+      "album": {
         "name": "Ich Riech Gern An B\u00fcchern",
         "url": "https://open.spotify.com/album/59BkwOdFeePDFjb5wKRhVx"
       },
@@ -4909,6 +4963,24 @@
       "duration_ms": 118823,
       "name": "keine war gro\u00dfartig",
       "url": "https://open.spotify.com/track/5iUugnkpBWQC33yhnEw3tq"
+    },
+    {
+      "album": {
+        "name": "zweitausenddreiundzwanzig",
+        "url": "https://open.spotify.com/album/1JQsKRv7NuZ9QwepJ9sRl7"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "kinder der nacht",
+      "url": "https://open.spotify.com/track/3uxG06gDBW1An1QO5tIlQ1"
     },
     {
       "album": {
@@ -5722,6 +5794,24 @@
     },
     {
       "album": {
+        "name": "bunte farben",
+        "url": "https://open.spotify.com/album/0NLlCBbWgYUu1FqacMpMLs"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "marseille",
+      "url": "https://open.spotify.com/track/57ufrqhwjOnHIahY1S2CjM"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch",
         "url": "https://open.spotify.com/album/64JsLSPoGhbMMgCirGTmFX"
       },
@@ -5737,6 +5827,24 @@
       "duration_ms": 140804,
       "name": "Maschinenmensch",
       "url": "https://open.spotify.com/track/6mnVuD8vAXH0hGPURlnJKF"
+    },
+    {
+      "album": {
+        "name": "mausmann",
+        "url": "https://open.spotify.com/album/3uS7OtCkjI83nttCZ3TRYh"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176963,
+      "name": "mausmann",
+      "url": "https://open.spotify.com/track/07z15WtiDQV9IGhb9oinIc"
     },
     {
       "album": {
@@ -7607,6 +7715,24 @@
       "duration_ms": 121145,
       "name": "schwimmen",
       "url": "https://open.spotify.com/track/7CiDxMIqpDYsfH1hmmzzcy"
+    },
+    {
+      "album": {
+        "name": "Sch\u00e4me mich",
+        "url": "https://open.spotify.com/album/7MOrMurp6kaOOrSqvtwftP"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Sch\u00e4me mich",
+      "url": "https://open.spotify.com/track/3Fn0gSvkvevwgmkPWg7pIh"
     },
     {
       "album": {
@@ -9763,7 +9889,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190210,
       "name": "wie gewohnt",
       "url": "https://open.spotify.com/track/3CqVlTbDzynkn00LO5PgM7"
@@ -10225,7 +10351,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 214093,
       "name": "\u00dcberdosis Mensch",
       "url": "https://open.spotify.com/track/6y9gcJktZF6brsR4pz5eVM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Flight Facilities, Owl Eyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,720 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,744 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 3 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 4 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 5 | [Insomnia](https://open.spotify.com/track/5UhdVOVoWQrNIprNuRitRI) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Insomnia](https://open.spotify.com/album/5HuxKnAxeiLBNPApCxEGja) | 3:17 |
-| 6 | [Everything You Do](https://open.spotify.com/track/5QvcIzVFohVArFMYUWx1Xu) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do](https://open.spotify.com/album/2HXV37PReTqdpVEjLPlvn5) | 3:03 |
+| 6 | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4) | 3:03 |
 | 7 | [Come With Me](https://open.spotify.com/track/1MGsikUV7Y0q4Yr1rju8xz) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Come With Me](https://open.spotify.com/album/0YYKgJkUYIzyr07rUSgaia) | 2:54 |
 | 8 | [Forever 2 \(Crush Mix\)](https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 3:42 |
 | 9 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Suffocate Me](https://open.spotify.com/track/1kRFs2DPSSTdmoewwbwLbA) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF) | [Suffocate Me](https://open.spotify.com/album/3lwePSnD2atyhayyhwgaDd) | 2:52 |
 | 100 | [SHELLSHOCK](https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [HOOLIGAN EP](https://open.spotify.com/album/6IaOEambxijbpW3M1SxU2H) | 2:43 |
 
-Snapshot ID: `MCxjMWViMTlhMWI1OTFjM2ZlMTBlNjllOWQwYTlkODJhMDc2Yzk3ZWZh`
+Snapshot ID: `MCw2NTY5YjQwZGVhNTU0ODM1ZjdlMzFmOTQ2ZDgxMzNjYzA0ZmUyNTMw`

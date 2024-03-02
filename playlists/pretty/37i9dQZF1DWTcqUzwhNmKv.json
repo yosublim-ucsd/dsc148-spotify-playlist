@@ -1,15 +1,31 @@
 {
-  "description": "Bad Omens & Poppy on top of today's best Metal playlist.",
-  "num_followers": 1479031,
+  "description": "Knocked Loose on top of today's best Metal playlist.",
+  "num_followers": 1479352,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2MwYmY4YjNkN2QzYjY2M2IyNWNlNWRmNzc1OWRkNDE2NWNlNGE1",
+  "snapshot_id": "MCwzODk1YzA3MzAwNzQwNjQyYzZmZWZiZDk2YzQwZmUyNzk0YjUzYWNh",
   "tracks": [
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "V.A.N",
         "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Kool-Aid",
         "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Seeing Red",
         "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Cellar Door",
         "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Scoring The End Of The World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/5MCUpUfWI7r0v931vSiWul"
     },
     {
-      "added_at": "2024-02-27 22:03:01",
-      "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Foregone (Bonus Edition)",
         "url": "https://open.spotify.com/album/6TaVKA8OkhhGvrbxCtZPpy"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/24cthHMisFuAn0QKaAYbsf"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/76DODhl0vwR4CpWKexVF4U"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3mL6qoKcWmnbwNP3ycAqEG"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/0J9nusuXGmNTOWJuGoEUHx"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Crown of Horns",
         "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
@@ -205,7 +205,23 @@
       "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Wrong Side of Heaven Volume 1 + 2",
         "url": "https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t"
@@ -225,23 +241,7 @@
       "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Antimatter",
         "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Ghost Of Me",
         "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Forgotten",
         "url": "https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Cut Me Open",
         "url": "https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7AXvMZr3JvGCoDY5VS0eFZ"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "IF IT DOESN'T HURT",
         "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "backfire",
         "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Paradigm Trigger / Angels Weep",
         "url": "https://open.spotify.com/album/1yESM99I8dgP2XBl6gTDkZ"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5sHywETRouJFGWns4QKKlp"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
@@ -465,7 +465,23 @@
       "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Shame On Me",
         "url": "https://open.spotify.com/album/4EcSKM9PjQiXywZ3ItofZG"
@@ -545,23 +561,7 @@
       "url": "https://open.spotify.com/track/33GEGdCuSpbt3x6B33Jd82"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "VIKING",
-        "url": "https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "VIKING",
-      "url": "https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Re-Vision",
         "url": "https://open.spotify.com/album/3cZYVDFa2tUQUif0YxklQG"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/7oH5PloCvUrTxcaRBgsZBa"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Get That Done",
         "url": "https://open.spotify.com/album/0rk3cPpQxE4pDhswHxRlnf"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5AKzAajma8Wl7h0GqBRknc"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Caught in the Treads",
         "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Anomaly / Drift",
         "url": "https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Miasma (feat. Winston McCall)",
         "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Sucks 2 Suck",
         "url": "https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/256sFTOD01wutUbC7omH17"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "GODMODE",
         "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Idle Hands",
         "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "A Sign of Things to Come",
         "url": "https://open.spotify.com/album/7u3fc9ml1yP9vhzGsCMHJj"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/2ekXJAzBb1CSwgz7VgxB5c"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Sleepless Deathbed",
         "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Feeding Demons",
         "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "CHILDREN OF SORROW",
         "url": "https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "TO THE FLOWERS",
         "url": "https://open.spotify.com/album/2bZdgsUdxpLHYIQHNCzsaB"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/7vEkX5ctStkJ0k6OcYP5lf"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Keeping Secrets",
         "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "welcome2paradise",
         "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Gallow",
         "url": "https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Dreadbringer",
         "url": "https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/2w5EUUiQUnbgWe3kwZAh4n"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "IHSAHN",
         "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/5iE8YiGRqD1NmFdk6RAvHq"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Never Dawn",
         "url": "https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "CMF2",
         "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Above",
         "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/0CuZB4QJyWWlblKMxN7nTK"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Z0mbie",
         "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "DROP (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Ferality",
         "url": "https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Symptoms of Survival",
         "url": "https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le"
@@ -1033,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "EndEx",
         "url": "https://open.spotify.com/album/7wHoOSWfxWuHcZrLeZHj1B"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1uSnbsUf7odODC8r6qPPPx"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Shrine (Deluxe Version)",
         "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Break My Fall",
         "url": "https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB"
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Waco Jesus",
         "url": "https://open.spotify.com/album/3wh39ZdXcywyiZWUyaqH6f"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0NGTef5nMH4wJvUz8xvfY3"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Fullness of My Being",
         "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/5vVQSRjTqOTI6Ek6SmHqa9"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6clolEOVLaSpg3mVelSzEa"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "SIRENS",
         "url": "https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU"
@@ -1169,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "The Weight Of The Mask",
         "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/4yRqoKU4KlQIYlVFP4MiuJ"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Ball and Chain",
         "url": "https://open.spotify.com/album/4oskB2iMurMQsp898CnLgk"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5cwtJzW6ouRBZ6U2jX7TrK"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Perpetual Terminal",
         "url": "https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Common Suffering",
         "url": "https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0lqnTPAsozxC6XQgoV7k7N"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Year of the Goat",
         "url": "https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb"

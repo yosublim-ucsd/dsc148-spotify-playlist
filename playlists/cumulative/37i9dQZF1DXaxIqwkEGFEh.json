@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: 21 Savage",
+  "description": "Strictly for the streets. Cover: Key Glock",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 151926,
       "name": "3D",
       "url": "https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 129593,
       "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
       "url": "https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv"
@@ -1350,6 +1350,36 @@
       "duration_ms": 156055,
       "name": "All Type",
       "url": "https://open.spotify.com/track/7mETmdLtRz7Cgx6tnfYQe1"
+    },
+    {
+      "album": {
+        "name": "ALLAT (feat. Honcho)",
+        "url": "https://open.spotify.com/album/6BUZdiyGFB4KaYchLWp7Nf"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Honcho",
+          "url": "https://open.spotify.com/artist/3nhOQpzDVpQedYYziFe9MJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "ALLAT (feat. Honcho)",
+      "url": "https://open.spotify.com/track/42vN6qwolmMizZmqsqvPtO"
     },
     {
       "album": {
@@ -2409,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152967,
+      "name": "Big Boy",
+      "url": "https://open.spotify.com/track/4rznnFpPIGET8lWpR5wZJ5"
+    },
+    {
+      "album": {
         "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
         "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
       },
@@ -3228,6 +3276,24 @@
       "duration_ms": 114036,
       "name": "Brand New Blues",
       "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
+    },
+    {
+      "album": {
+        "name": "Brazi Blue Cheese",
+        "url": "https://open.spotify.com/album/5Fu6YMOvE9weVdnBV2Lort"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122994,
+      "name": "Brazi Blue Cheese",
+      "url": "https://open.spotify.com/track/37XWwswyBuzj1LZGpDQlIu"
     },
     {
       "album": {
@@ -4428,7 +4494,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186279,
       "name": "Convos with the Dead",
       "url": "https://open.spotify.com/track/6HjOnFtuHx7VBEJ67ZUBF1"
@@ -5469,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Don't Start Pt. 3",
+        "url": "https://open.spotify.com/album/0FZSPmBJlouVZVCuCuRoq3"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "Don't Start Pt. 3",
+      "url": "https://open.spotify.com/track/2FOGddqEgiiC0p6dw3HsfP"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -5628,6 +5712,24 @@
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3aG1fFJSAdUgpG519HDxla"
+    },
+    {
+      "album": {
+        "name": "Drill Cappers",
+        "url": "https://open.spotify.com/album/1wvRB9MmdVciSFneWQRS4F"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136777,
+      "name": "Drill Cappers",
+      "url": "https://open.spotify.com/track/2NXgBrS8n8L1grmhTXKnKd"
     },
     {
       "album": {
@@ -5799,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR LIFESTYLE 2",
+        "url": "https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204461,
+      "name": "EARNED IT (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/4lB2Nqj988usKJD9hsH3sQ"
+    },
+    {
+      "album": {
         "name": "Emergency Room",
         "url": "https://open.spotify.com/album/6fc7bs6sOd9luTbKYz1KrW"
       },
@@ -5814,6 +5938,28 @@
       "duration_ms": 186269,
       "name": "Emergency Room",
       "url": "https://open.spotify.com/track/24nPqDkHRkHgqCIeeEUiyv"
+    },
+    {
+      "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177699,
+      "name": "Enough Ammo (Remix) [feat. Young Nudy]",
+      "url": "https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx"
     },
     {
       "album": {
@@ -6018,7 +6164,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236712,
       "name": "Extra Clips (feat. WizDaWizard & Wam SpinThaBin)",
       "url": "https://open.spotify.com/track/0jbVdwLdCsaTBNvDY65Xxh"
@@ -7384,7 +7530,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 134666,
       "name": "Gang Time",
       "url": "https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3"
@@ -7672,7 +7818,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179612,
       "name": "Get Lucki",
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
@@ -7760,6 +7906,28 @@
       "duration_ms": 185820,
       "name": "Gifted",
       "url": "https://open.spotify.com/track/7unA97OKgAS63AWfaQ4KYo"
+    },
+    {
+      "album": {
+        "name": "Gin & Juice (feat. BigXthaPlug)",
+        "url": "https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Gin & Juice (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/2EA5h6XD8KB070waaoclje"
     },
     {
       "album": {
@@ -10378,7 +10546,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165714,
       "name": "In The Trunk (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
@@ -11527,6 +11695,24 @@
     },
     {
       "album": {
+        "name": "Leaving the Lot",
+        "url": "https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189387,
+      "name": "Leaving the Lot",
+      "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
+    },
+    {
+      "album": {
         "name": "Time is Muney",
         "url": "https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt"
       },
@@ -12462,6 +12648,28 @@
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
+    },
+    {
+      "album": {
+        "name": "The X Tape (Deluxe)",
+        "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "Mama Said (feat. SleazyWorld Go)",
+      "url": "https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN"
     },
     {
       "album": {
@@ -13621,6 +13829,24 @@
     },
     {
       "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/2tlFBntiJJhb4Z5BDvq8f7"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145789,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/2SWIibxiRnIiL3p8XPCygL"
+    },
+    {
+      "album": {
         "name": "Murda Man",
         "url": "https://open.spotify.com/album/4jBrbC6nSEAXepJgKFR0AH"
       },
@@ -13742,7 +13968,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 150866,
       "name": "Murder & Millions",
       "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
@@ -17508,7 +17734,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175394,
       "name": "Reloaded (feat. Rob49)",
       "url": "https://open.spotify.com/track/2zRm0viyK7bCSJTumWJyDW"
@@ -19754,7 +19980,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 106679,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI"
@@ -19944,7 +20170,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167915,
       "name": "Sorrys & Ferraris",
       "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
@@ -21803,6 +22029,24 @@
     },
     {
       "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Times Like This",
+      "url": "https://open.spotify.com/track/1VeugpWB1YzNPGOqtDqpeF"
+    },
+    {
+      "album": {
         "name": "Times Up",
         "url": "https://open.spotify.com/album/7wi0hfacPZ009kEBB5WJTO"
       },
@@ -21880,6 +22124,32 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+    },
+    {
+      "album": {
+        "name": "To The Grave",
+        "url": "https://open.spotify.com/album/3YDxOOmbu1sxdZluFIRcRP"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/7Fc2z1T2Dsq7hS73tPgutA"
     },
     {
       "album": {
@@ -22399,6 +22669,28 @@
     },
     {
       "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
+    },
+    {
+      "album": {
         "name": "Two in One",
         "url": "https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0"
       },
@@ -22868,7 +23160,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186958,
       "name": "Viral (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2HNB1KfLWpQ3i7jG8LcOLU"
@@ -24462,7 +24754,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 151906,
       "name": "\ufeffBlood Splatter",
       "url": "https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7"

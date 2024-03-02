@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 191250,
       "name": "Bad Bassline",
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 127370,
       "name": "Don't Leave Me High - SubSoda Remix",
       "url": "https://open.spotify.com/track/5X502Qx0RZ8qdvE0U2vojn"
@@ -3128,6 +3128,24 @@
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "album": {
+        "name": "Girl Math",
+        "url": "https://open.spotify.com/album/1evxTeLo7NQsddb52qJEf3"
+      },
+      "artists": [
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2R4ZG5VkLXR87FkJGX5Jrd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229750,
+      "name": "Girl Math",
+      "url": "https://open.spotify.com/track/3Nv4u6rFG0FgoR71wYGHWH"
     },
     {
       "album": {
@@ -5615,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -5674,6 +5714,42 @@
       "duration_ms": 144761,
       "name": "My Thing",
       "url": "https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1kOCGGRmgqx8wSLlBshsCA"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152438,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1zpyPYZmz9iLrLVOGZUhc7"
+    },
+    {
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/3mf7MC0yHgoEM4f4dfHZuL"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU"
     },
     {
       "album": {
@@ -7050,7 +7126,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213750,
       "name": "Quaestio (i've got a question babe)",
       "url": "https://open.spotify.com/track/5HwSjHt2FnTTLONBx5Rx5p"
@@ -7236,6 +7312,32 @@
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "album": {
+        "name": "Riverside MF",
+        "url": "https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        },
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155146,
+      "name": "Riverside MF",
+      "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
     },
     {
       "album": {
@@ -8606,7 +8708,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154672,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo"
@@ -9202,7 +9304,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 202500,
       "name": "You Make Me",
       "url": "https://open.spotify.com/track/2NU8emSU0a5ZaSUU8onM3v"

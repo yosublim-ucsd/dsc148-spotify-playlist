@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126493,
+  "num_followers": 126481,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU4OSxhMTU2ZmRhYTBkNTA2Yzk3NmI4ZjhlMWU2ZTMyMTExZGFmODVkMTk3",
+  "snapshot_id": "NDU5MSw2NzEyZjNjODgyYTk0ZTA0NTE2NGFjMjMyNjI5ZDRhYWU0ZDU0MmE4",
   "tracks": [
+    {
+      "added_at": "2024-03-01 16:57:47",
+      "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
     {
       "added_at": "2024-02-29 18:04:14",
       "album": {
@@ -1135,26 +1151,6 @@
       "duration_ms": 253770,
       "name": "Echoes In My Head",
       "url": "https://open.spotify.com/track/54ASGJSgIJqBCUnvLRQsPg"
-    },
-    {
-      "added_at": "2023-11-20 16:45:40",
-      "album": {
-        "name": "HEADCASE",
-        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "HEADCASE",
-      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

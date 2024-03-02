@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> só faixa rosa, tem disposição? 🎀 Foto: LAI$ROSA
+> só faixa rosa, tem disposição? 🎀 Foto: Torya
 
-213 songs - 10 hr 5 min
+214 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Forasteiro](https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Paulo Dionísio](https://open.spotify.com/artist/2yA2ENYD6IQ6eKmf78Ym0r) | [Forasteiro](https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6) | 4:50 | 2023-05-19 | 2023-06-24 |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/1lx5dn3ESLOPPhEQ0G6TgB) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/5JWjH3OtpyiD0iQ0SJoYLw) | 2:32 | 2022-03-11 | 2022-07-29 |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 | 2022-07-08 | 2022-12-03 |
-| [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 |  |
+| [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 | 2024-03-02 |
 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 | 2023-09-22 | 2023-10-14 |
 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 | 2023-09-15 | 2023-10-21 |
 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 | 2022-03-11 | 2023-06-24 |
@@ -129,6 +129,7 @@
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 | 2022-11-25 | 2023-01-14 |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
+| [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 | 2024-03-01 |  |
 | [Negona](https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Negona](https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP) | 3:06 | 2023-12-01 |  |
 | [Negra Tipo A](https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:34 | 2024-01-19 |  |
 | [Neurose](https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz) | [Mika Mc](https://open.spotify.com/artist/7Dtyvrw9EwQcMgHuBaOZJn), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Neurose](https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg) | 2:34 | 2023-02-17 | 2023-04-01 |

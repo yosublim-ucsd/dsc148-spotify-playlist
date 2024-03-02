@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 
 > Os batidões mais agitados pra animar sua malhação!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,638 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,662 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 57 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
 | 58 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
 | 59 | [Bate Palma](https://open.spotify.com/track/7offICpl9kla5kC61uUAs9) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bate Palma](https://open.spotify.com/album/4CA7hJkZToupy8crdNKLAO) | 3:05 |
-| 60 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 |
+| 60 | [Sentou e Gostou](https://open.spotify.com/track/49wWUH5FonVIohPr33W2OH) | [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s) | [Sentou e Gostou](https://open.spotify.com/album/0XvYpQaDKdRD2osAvKJ76d) | 2:43 |
 | 61 | [Ela Vem](https://open.spotify.com/track/7GBQ9GUAyav1YW6eVyLIQe) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Ela Vem](https://open.spotify.com/album/4BIjyhqevFZ8XXwianGMrd) | 3:16 |
 | 62 | [Pra Me Provocar](https://open.spotify.com/track/4eMjjXozRE6TDSb7qZggvP) | [MC Koringa](https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt) | [A Caminhada](https://open.spotify.com/album/3VnHDmOguWERlzeujhmmYo) | 3:02 |
 | 63 | [Popotão Grandão](https://open.spotify.com/track/75E2xyRjYAsmjfDeAwdW0D) | [Mc Neguinho do ITR](https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA) | [Popotão Grandão](https://open.spotify.com/album/0DWDEZ0R8mkCVvVZJXOIcN) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX946PjwaHnSD.md) - [plain]
 | 99 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 |
 | 100 | [Lindona](https://open.spotify.com/track/1wyclICZwhqZYizAdtvzYu) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Nego Blue](https://open.spotify.com/artist/5dpdK20EYUPpUaAk9ERPFg) | [Lindona](https://open.spotify.com/album/5qrFMWpAjDjSzBPhgoXAVy) | 3:52 |
 
-Snapshot ID: `MCw5NjBiNjUxZDEyMGYyYmU3NmJlYjEyNjEyNjczZTk1ZGU5NDExNDIw`
+Snapshot ID: `MCxiODg3MjJlY2EzM2Y5NDUyNzY5NTE4YzlmOWFmNTM0YzBjMzVmZTcy`

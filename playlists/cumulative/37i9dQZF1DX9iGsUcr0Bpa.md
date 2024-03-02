@@ -2,9 +2,9 @@
 
 ### [Door Knockers](https://open.spotify.com/playlist/37i9dQZF1DX9iGsUcr0Bpa)
 
-> Classics from trailblazing women in hip\-hop\. Cover: Foxy Brown
+> Classics from trailblazing women in hip\-hop\. Cover: Missy Elliott
 
-85 songs - 5 hr 46 min
+86 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,13 @@
 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 | 2021-09-03 |  |
 | [Hater's Anthem](https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6) | [The Bootleg of the Bootleg \(Deluxe Version\)](https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh) | 5:13 | 2021-01-29 | 2022-07-20 |
 | [Here We Go \(feat\. Kelly Rowland\)](https://open.spotify.com/track/6b3CWHNAKiJRqmgz6ZcWaB) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:50 | 2021-01-29 |  |
-| [Hot Spot](https://open.spotify.com/track/27vsyn5d9HPSkeLleEnL1x) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Chyna Doll](https://open.spotify.com/album/4J79JcO99vj9Nq0iKMXcVw) | 3:50 | 2024-02-02 |  |
-| [I Can't](https://open.spotify.com/track/3dr8D2Vtv51OiawsRwYLNz) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Chyna Doll](https://open.spotify.com/album/4J79JcO99vj9Nq0iKMXcVw) | 4:47 | 2024-02-02 |  |
+| [Hot Spot](https://open.spotify.com/track/27vsyn5d9HPSkeLleEnL1x) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Chyna Doll](https://open.spotify.com/album/4J79JcO99vj9Nq0iKMXcVw) | 3:50 | 2024-02-02 | 2024-03-02 |
+| [I Can't](https://open.spotify.com/track/3dr8D2Vtv51OiawsRwYLNz) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Chyna Doll](https://open.spotify.com/album/4J79JcO99vj9Nq0iKMXcVw) | 4:47 | 2024-02-02 | 2024-03-02 |
 | [I Got That \(feat\. Beyoncé\) \- Explicit Album Version](https://open.spotify.com/track/1BONIRNVivu1sOD9xYxPhr) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 3:17 | 2021-01-29 | 2023-03-08 |
 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 | 2021-01-29 |  |
 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 | 2021-01-29 |  |
 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 | 2021-09-03 |  |
+| [Juicy Gotcha Krazy](https://open.spotify.com/track/44ITnrJGmworH1pes1UpTK) | [Oaktown's 3.5.7](https://open.spotify.com/artist/7CPOqMWRI31Z2oLHvILOtR) | [Wild & Loose](https://open.spotify.com/album/7E9HbLKsscEa9drEBbtW7w) | 4:23 | 2024-03-01 |  |
 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 | 2021-09-03 | 2023-07-01 |
 | [Ladies First](https://open.spotify.com/track/3MN82VctKXwosPol8bzyDM) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/2Z3NjmSSynmCMjPyBtd8Ss) | 3:58 | 2021-01-29 | 2022-07-18 |
 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 | 2023-01-06 | 2023-03-07 |
@@ -89,7 +90,7 @@
 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 | 2021-01-29 | 2023-09-24 |
 | [Who's That Girl?](https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 4:41 | 2021-09-03 |  |
 | [Whuteva](https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:46 | 2021-01-29 | 2022-07-29 |
-| [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 | 2021-01-29 | 2024-02-03 |
+| [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 | 2021-01-29 |  |
 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 | 2021-01-29 |  |
 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 | 2021-01-29 | 2023-07-01 |
 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 | 2021-01-29 |  |

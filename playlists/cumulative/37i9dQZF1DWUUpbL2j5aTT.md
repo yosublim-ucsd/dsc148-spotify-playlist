@@ -4,7 +4,7 @@
 
 > The best of Brazilian House\. Photo: Meca
 
-114 songs - 7 hr 7 min
+115 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cornetera](https://open.spotify.com/track/77llNe4mjR1Vesm3zoohku) | [Cityburn](https://open.spotify.com/artist/567HOJYjplPqcqvqGfBLUm) | [Cornetera](https://open.spotify.com/album/6kUsuX5ifNBUdFQPARiE6u) | 5:54 | 2023-07-21 |  |
 | [Cosmic Witch \(feat\. Anané\) \- Mochakk Remix](https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Cosmic Witch \(feat\. Anané\) \[Mochakk Remix\]](https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm) | 4:00 | 2023-07-21 |  |
 | [Cuando Vengas](https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Cuando Vengas](https://open.spotify.com/album/1fR6tN5tfSC8r2Zmux1LGz) | 2:15 | 2023-07-21 |  |
+| [Darling](https://open.spotify.com/track/7CghqDGe1G987RBcNpAPew) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Darling](https://open.spotify.com/album/42y66yWBpykoMPXM6dIFlh) | 3:00 | 2024-03-01 |  |
 | [Disco Lover](https://open.spotify.com/track/1V9rQA9gg0z1mImwUvXMKS) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [Nytron](https://open.spotify.com/artist/7wpaPcYQBZ11SddBrEGXhu) | [Disco Lover / Give Me Love](https://open.spotify.com/album/1DomIOODkN9HgfdD7n7y0t) | 4:49 | 2023-07-21 | 2023-10-14 |
 | [Don Billy](https://open.spotify.com/track/2SNo3iAEEBQfv3lWDU5MBg) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Don Billy](https://open.spotify.com/album/1OJSSfAoCY32OAOyr0dupE) | 3:25 | 2023-07-21 |  |
 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 | 2023-07-21 | 2023-11-25 |

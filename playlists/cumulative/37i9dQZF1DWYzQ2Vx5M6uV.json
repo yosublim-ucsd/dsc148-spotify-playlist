@@ -67,6 +67,40 @@
     },
     {
       "album": {
+        "name": "Ananipenda (feat. Soge Culebra, Marioo) [Remix]",
+        "url": "https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289539,
+      "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
+      "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
+    },
+    {
+      "album": {
         "name": "The Prince I Became",
         "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
       },
@@ -1978,7 +2012,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175389,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U"

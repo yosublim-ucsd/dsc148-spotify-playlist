@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: TRI.BE \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ADORA x NATTY of KISS OF LIFE \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-394 songs - 21 hr 58 min
+395 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dumhdurum](https://open.spotify.com/track/2ljLbFotsy2hFxAkjpsfbb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Look](https://open.spotify.com/album/0mWs7UThGJG413FaTzPq9Y) | 3:28 | 2021-11-29 | 2022-06-22 |
 | [Dumhdurum](https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [LOOK](https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF) | 3:28 | 2022-07-28 | 2023-12-22 |
 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 | 2021-11-29 |  |
+| [dusk twilight \(feat.NATTY \(KISS OF LIFE\)\)](https://open.spotify.com/track/4wzzsbTftX8NPnhIV1kH3A) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [NATTY \(KISS OF LIFE\)](https://open.spotify.com/artist/4s8F1LKiyDPt0NacvMI7rx) | [dusk twilight 2024](https://open.spotify.com/album/1EOmX9zvLs5mF2ei16d2R7) | 3:23 | 2024-03-01 |  |
 | [Echo](https://open.spotify.com/track/4BQrEOiu5dLYNl7kpNRNvS) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [OH MY GIRL 6th Mini Album \[REMEMBER ME\]](https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E) | 3:32 | 2021-11-29 | 2022-05-07 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-27 |  |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-28 | 2023-10-08 |
@@ -170,7 +171,7 @@
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
 | [JELLY JELLY](https://open.spotify.com/track/7yHmdxQBHXPSVrHaw8urk1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:30 | 2021-11-29 | 2022-04-18 |
 | [JJan! Koong! Kwang!](https://open.spotify.com/track/0mACEYbz42CQdqAPjIJHi6) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Welcome to MOMOLAND](https://open.spotify.com/album/3i5ryBAE1wpNq50qqDxxUG) | 3:19 | 2022-01-04 | 2022-07-05 |
-| [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 | 2024-01-04 |  |
+| [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 | 2024-01-04 | 2024-03-02 |
 | [KICK\-START](https://open.spotify.com/track/0KWHVBiWSYqbJ0dBs3UOi5) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [I'M ON IT!](https://open.spotify.com/album/23lpY8fhHxNLi5mc8OrxRU) | 3:21 | 2023-07-19 | 2023-07-25 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-11-29 | 2024-01-05 |
 | [Kiss Kiss](https://open.spotify.com/track/50ajzamysWhpMUVP89gfsQ) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [BLOSSOM](https://open.spotify.com/album/59SDRVaYsfAurXwDmOwiBe) | 3:09 | 2021-11-29 | 2022-07-29 |
@@ -259,7 +260,7 @@
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-24 |  |
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-07-28 | 2023-01-24 |
 | [POPSICLE](https://open.spotify.com/track/5vuWFpPodJPNgwmLDhUnjo) | [UHSN](https://open.spotify.com/artist/5TDD0GMGcBGGqhbunsbeRI) | [UHSN](https://open.spotify.com/album/03gf0ZArdtbWzTtld9LBb2) | 3:25 | 2022-03-29 | 2022-07-27 |
-| [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2021-11-29 | 2024-02-21 |
+| [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2021-11-29 |  |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-06 |
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-11-29 | 2022-04-20 |
 | [PROMISE \(for UNICEF Promise Campaign\)](https://open.spotify.com/track/2Gceplet3jzhweUib54mhf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [EVERGLOW FOR UNICEF PROMISE CAMPAIGN](https://open.spotify.com/album/1Sp9Cm6n0ZzTAuwAKCS0Wd) | 3:34 | 2021-11-29 | 2022-07-29 |
@@ -334,7 +335,7 @@
 | [The Blue Bird](https://open.spotify.com/track/6emq7eKDjBS9PbxAPXwdDi) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 5th Mini Album 'The Blue'](https://open.spotify.com/album/6peri17gXJDs3LQeeD66ju) | 3:15 | 2021-11-29 | 2022-07-23 |
 | [The fifth season \(SSFWL\)](https://open.spotify.com/track/5zypKmEPNSSfH4JTn9s68n) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/30CtcU5ApB65Dl9uxHQHjw) | 4:00 | 2021-11-29 | 2022-07-29 |
 | [THINK OF YOU](https://open.spotify.com/track/3WRc86I66w62pnfUpP9NHu) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:33 | 2022-01-17 | 2022-07-08 |
-| [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-20 |  |
+| [Thinkin' About You](https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#1 \[Thinkin' About You\]](https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye) | 3:07 | 2024-01-20 | 2024-03-02 |
 | [Ticket To You](https://open.spotify.com/track/7CWMMBxV5Cru2JMsKOGOsw) | [UNIVERSE TICKET](https://open.spotify.com/artist/6w3YHlIFm3SL3IKtlsMoQO) | [UNIVERSE TICKET \- Ticket To You](https://open.spotify.com/album/2W2dRYcZjFwKv7uSoHcHh6) | 3:29 | 2024-01-04 |  |
 | [Tik Tik](https://open.spotify.com/track/7wKM5HSt2peMZQVXyfHA3I) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 6th Mini Album 'Time for the moon night'](https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP) | 2:59 | 2022-03-29 | 2022-04-11 |
 | [Tiki\-Taka\(99%\)](https://open.spotify.com/track/2gLAfzOB7angHctZ0IQAtu) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [WEEK END LOL](https://open.spotify.com/album/07YKMxo9FsEqVsIauzIVXC) | 2:59 | 2021-11-29 | 2022-07-27 |

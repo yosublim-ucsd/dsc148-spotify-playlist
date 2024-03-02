@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: John Glacier",
+  "description": "Genre-less. Quality first always. Cover: ScHoolboy Q",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "4AM Ascension Day",
+        "url": "https://open.spotify.com/album/09hs2h84Ek5gk5JLBz1LRL"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159517,
+      "name": "4AM Ascension Day",
+      "url": "https://open.spotify.com/track/0vMgK1iBrKGk7kMfrybEi0"
+    },
+    {
+      "album": {
         "name": "4AM in Toronto",
         "url": "https://open.spotify.com/album/49xmVXNYHS8RmJp8C5baPY"
       },
@@ -1714,6 +1732,24 @@
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "act iii: on god? (she like)",
+        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "act iii: on god? (she like)",
+      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
       "album": {
@@ -5059,6 +5095,28 @@
     },
     {
       "album": {
+        "name": "Big Brown Eyes (feat. Orion Sun)",
+        "url": "https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184271,
+      "name": "Big Brown Eyes (feat. Orion Sun)",
+      "url": "https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe"
+    },
+    {
+      "album": {
         "name": "Big Girls",
         "url": "https://open.spotify.com/album/7t6Pr9lRrhMlAxEt1txMth"
       },
@@ -5466,7 +5524,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 309102,
       "name": "BLACKLIGHT",
       "url": "https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq"
@@ -12690,7 +12748,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 128000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
@@ -15719,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "Free Mechanical",
+        "url": "https://open.spotify.com/album/6F3glFMyrzh0y0nM159Tac"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155935,
+      "name": "Free Mechanical",
+      "url": "https://open.spotify.com/track/2RB7KpPkG1Z67wtqkTu7Nm"
+    },
+    {
+      "album": {
         "name": "Free My People (feat. Simmy & Kid Cruise)",
         "url": "https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP"
       },
@@ -18100,6 +18176,24 @@
       "duration_ms": 343348,
       "name": "Hands Tied",
       "url": "https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C"
+    },
+    {
+      "album": {
+        "name": "Hang The Rich",
+        "url": "https://open.spotify.com/album/1whgdWEYWjDwEaNkdO9D4X"
+      },
+      "artists": [
+        {
+          "name": "Dickie Landry",
+          "url": "https://open.spotify.com/artist/48rYyQyOf4fvZrINpvFu99"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "Hang The Rich",
+      "url": "https://open.spotify.com/track/1AAlCl7rReagQTOCmaqiQk"
     },
     {
       "album": {
@@ -25077,6 +25171,24 @@
     },
     {
       "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
+    },
+    {
+      "album": {
         "name": "Lo Que Vales (Para M\u00ed)",
         "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
       },
@@ -26206,7 +26318,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
@@ -26690,7 +26802,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
@@ -27626,6 +27738,24 @@
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "album": {
+        "name": "mister misfit but aint missed a fit in months",
+        "url": "https://open.spotify.com/album/2vV4XBHoshk4djb6z7ZNc1"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "mister misfit but aint missed a fit in months",
+      "url": "https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi"
     },
     {
       "album": {
@@ -30135,6 +30265,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "Sticky Thumb",
         "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
       },
@@ -30208,7 +30360,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210484,
       "name": "okok",
       "url": "https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh"
@@ -35058,7 +35210,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 114193,
       "name": "rootin4?",
       "url": "https://open.spotify.com/track/3ESwmKallWQduw5JEieKMk"
@@ -35998,6 +36150,24 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "album": {
+        "name": "Sculptor EP",
+        "url": "https://open.spotify.com/album/2B50Q0XcyJa3wCnowd44ca"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308578,
+      "name": "Sculptor",
+      "url": "https://open.spotify.com/track/5ycwhQoLUvrmaOXo8x1lLZ"
     },
     {
       "album": {
@@ -37441,6 +37611,24 @@
     },
     {
       "album": {
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
+    },
+    {
+      "album": {
         "name": "SLUGGER (feat. $NOT & slowthai)",
         "url": "https://open.spotify.com/album/3zctA2G2IQCfTKWeOGYk1h"
       },
@@ -38242,7 +38430,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
@@ -38902,6 +39090,32 @@
       "duration_ms": 213166,
       "name": "Stayed at the Party",
       "url": "https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM"
     },
     {
       "album": {
@@ -42550,7 +42764,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 251991,
       "name": "Tiny Garden",
       "url": "https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P"
@@ -43842,7 +44056,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177899,
       "name": "Upset (feat. Tommy Richman & FELIX!)",
       "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
@@ -43912,7 +44126,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 185427,
       "name": "Used To (feat. Jordan Ward)",
       "url": "https://open.spotify.com/track/3fDDXsDuxBLinRP4Rw8pMc"

@@ -1,13 +1,193 @@
 {
-  "description": "New releases for the kids. Cover: Teeny Tiny Stevies",
-  "num_followers": 17729,
+  "description": "New releases for the kids. Cover:  Casey Breves & Sam Tsui",
+  "num_followers": 17744,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA1ZjIwYmI0ZjdlMDQ0MmIyMDZlODkwYzc3N2Q0NWVkNjcwNGY5",
+  "snapshot_id": "MCw2Nzk5ZTRlMjUxNDY1MTQ1ODQxMDVlYjkyMGVhNmFiNjBjOTFlYjYz",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "The Greatest Ever Campfire Song",
+        "url": "https://open.spotify.com/album/2ZFnRBLU0V0CfNVqjEydR2"
+      },
+      "artists": [
+        {
+          "name": "Sam Tsui",
+          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
+        },
+        {
+          "name": "Casey Breves",
+          "url": "https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0"
+        }
+      ],
+      "duration_ms": 194711,
+      "name": "The Greatest Ever Campfire Song",
+      "url": "https://open.spotify.com/track/4yeiY7i4NiSv1G9V2W2igo"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Is It Over Now?",
+        "url": "https://open.spotify.com/album/2KEgxv9xrT7qomxFyBBEcT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 206873,
+      "name": "Is It Over Now?",
+      "url": "https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Do The Dip",
+        "url": "https://open.spotify.com/album/79RNH2cVjeStgKagIDpjBx"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "duration_ms": 138206,
+      "name": "Do The Dip",
+      "url": "https://open.spotify.com/track/3eLXG5CvITaLHia8aTajdR"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Cucumber Rumba",
+        "url": "https://open.spotify.com/album/7JjPNQgaj4fNelEqp4Nqwe"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "duration_ms": 210153,
+      "name": "Cucumber Rumba",
+      "url": "https://open.spotify.com/track/4pc6bmA3txy9k0hgBX7OK8"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Ice Cream Sandwich",
+        "url": "https://open.spotify.com/album/4VHprRHCJ57dmZ9uEIRLRn"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "duration_ms": 125652,
+      "name": "Ice Cream Sandwich",
+      "url": "https://open.spotify.com/track/4MDIaRyVAmXCruZcoebrlC"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Sloth Song",
+        "url": "https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 160569,
+      "name": "Sloth Song",
+      "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Bubble Guppies Bubble Bop (Vol. 3)",
+        "url": "https://open.spotify.com/album/1wnV8fYPyzRjhGm7PoxXiy"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "duration_ms": 70767,
+      "name": "We're Gonna Rock It",
+      "url": "https://open.spotify.com/track/7EJFLJLlVOGXzf8nlsj1lc"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "I Love My Garbage Truck",
+        "url": "https://open.spotify.com/album/6Hij9YO3vsLCiNuO38woCm"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "I Love My Garbage Truck",
+      "url": "https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/4jfzlorwWNBAM86cTori3g"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/5ttxYejlhiCwPTcTbNwqXu"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/01tKspJLPcqLlgrSFjYuej"
+      },
+      "artists": [
+        {
+          "name": "Ms Moni",
+          "url": "https://open.spotify.com/artist/6MTminw8fMsddWdfMHxMy2"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/7C4l2YAsRWb0pxUQWXAK7h"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "What Next ?",
+        "url": "https://open.spotify.com/album/3qtA9Hvw6n2TVuPC7niHbq"
+      },
+      "artists": [
+        {
+          "name": "Music at the Blissful",
+          "url": "https://open.spotify.com/artist/2ygivZ8sWWaIH66Ii4oYvr"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Hippopotamus",
+      "url": "https://open.spotify.com/track/4Ni9bzAJ3y4z6MKC7LRgwW"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {

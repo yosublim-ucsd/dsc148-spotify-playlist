@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 439951,
+  "2024-03-02": 439965,
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: CYBER RUI, Ash-B)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: ScHoolboy Q )",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -5001,7 +5001,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 133067,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6oRKTJSDRW5aqg4nE8vETf"
@@ -7399,7 +7399,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 170085,
       "name": "Chop",
       "url": "https://open.spotify.com/track/5tJr0DQL0lRML11c4vjvjV"
@@ -7933,7 +7933,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
@@ -11193,7 +11193,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158918,
       "name": "Eternity - feat. Dove",
       "url": "https://open.spotify.com/track/0hgFEg1GC8bmkMi4jYPptm"
@@ -12437,6 +12437,24 @@
       "duration_ms": 174189,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/4M2Cj0Pe61pHhIDrUGA2LD"
+    },
+    {
+      "album": {
+        "name": "Forever & Ever & Ever & Even After That",
+        "url": "https://open.spotify.com/album/2VZ32TB1aCoNseOeImafsb"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215198,
+      "name": "Forever & Ever & Ever & Even After That",
+      "url": "https://open.spotify.com/track/3BlXpC1PXYYbTxIulMLbP5"
     },
     {
       "album": {
@@ -17047,7 +17065,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 139200,
       "name": "Ilusi",
       "url": "https://open.spotify.com/track/59oww27UjSq32K256OhePE"
@@ -17857,7 +17875,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141033,
       "name": "Jembatan Dua",
       "url": "https://open.spotify.com/track/5B1pknrNJhrigxm0svz6Ug"
@@ -18515,7 +18533,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193279,
       "name": "Kids Return",
       "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
@@ -22153,7 +22171,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173750,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/749oQRvdvg8BJNu3oUQIVp"
@@ -23285,7 +23303,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 125793,
       "name": "No control",
       "url": "https://open.spotify.com/track/6EO7ZAlUx1Wgcu4rIIV2Q2"
@@ -24494,6 +24512,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6z7BMiNTZSeQXveWtOFpUY"
       },
@@ -24505,7 +24545,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 118656,
       "name": "OK",
       "url": "https://open.spotify.com/track/1MTvLxBXzWTSRFXSK83BzI"
@@ -25557,7 +25597,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 119998,
       "name": "PAIDNFULL",
       "url": "https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb"
@@ -28939,7 +28979,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 157252,
       "name": "Rooftop (\uc625\ud0d1)",
       "url": "https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl"
@@ -30457,7 +30497,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158892,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/1SIZ9xibXxrgaAmnBHDQec"
@@ -30719,7 +30759,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 192239,
       "name": "Sisterhood",
       "url": "https://open.spotify.com/track/4tgg91o6wImtpzH3qFycWc"
@@ -31103,6 +31143,24 @@
       "duration_ms": 123672,
       "name": "Slut Me Out",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
+    },
+    {
+      "album": {
+        "name": "SLUT ME OUT (Live From Spotify Green Screen)",
+        "url": "https://open.spotify.com/album/04vFQKejywyFsm8Imdddv1"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122957,
+      "name": "SLUT ME OUT - Live From Spotify Green Screen",
+      "url": "https://open.spotify.com/track/5Uu6DwDs2C7pIlSaLL90CA"
     },
     {
       "album": {
@@ -33923,7 +33981,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 177454,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/3opSNhBVlMOext9iYjD0m9"
@@ -35437,7 +35495,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 135007,
       "name": "Tic Tac?",
       "url": "https://open.spotify.com/track/50V9V62d0byssOftbpH0ZK"
@@ -35849,6 +35907,28 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
+        "name": "Too Dope",
+        "url": "https://open.spotify.com/album/70LmG6U7i8v69jQWXhx5Ul"
+      },
+      "artists": [
+        {
+          "name": "Strange Alias",
+          "url": "https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133161,
+      "name": "Too Dope",
+      "url": "https://open.spotify.com/track/2jsbE3rYt2j2PGs3paJDLx"
     },
     {
       "album": {
@@ -37131,7 +37211,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 150329,
       "name": "UP IN MY MIND",
       "url": "https://open.spotify.com/track/1qKq8cxDgJzDWibAn7cEK1"
@@ -37735,7 +37815,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191612,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd"
@@ -37875,7 +37955,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 122735,
       "name": "Washin My Hands",
       "url": "https://open.spotify.com/track/471t4DUuvygLnTEPPl61qO"

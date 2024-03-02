@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,609 songs - 3 day 5 hr 30 min
+1,610 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Embrace](https://open.spotify.com/track/6TBvA5Z0eSPVxtuPTffjuJ) | [Justin Christopher](https://open.spotify.com/artist/7FM0Sx0PWgTJMrv10D33J3), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Embrace](https://open.spotify.com/album/1ol5rxNaQHqHDt8CIxQqFj) | 2:24 | 2021-09-01 | 2021-10-16 |
 | [Emo Nite Artist Pass \(Day 145\)](https://open.spotify.com/track/4fsWNtEQEo8rZP1lrU2tFJ) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Junk Male](https://open.spotify.com/album/1BGhZRUESnBVfuDtTHOHET) | 1:56 | 2023-06-23 | 2023-07-22 |
 | [EMPATHY](https://open.spotify.com/track/1DazfftT2hCHbeYJdRw1qo) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [EMPATHY](https://open.spotify.com/album/4lB8S9ktn7fBvfzlyHa1mx) | 1:55 | 2022-07-18 | 2022-08-06 |
-| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 |  |
+| [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2022-11-18 | 2024-03-02 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-15 | 2022-02-05 |
 | [Enough](https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Enough](https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL) | 2:46 | 2023-03-17 | 2023-04-22 |
 | [Entertainment](https://open.spotify.com/track/79MrOt6tKb3kZWIGepEiEs) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Entertainment](https://open.spotify.com/album/6DWYESpPLyWZ83h9DJ2Vva) | 1:53 | 2020-10-13\* | 2021-03-26 |
@@ -631,6 +631,7 @@
 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 | 2021-08-06 | 2021-10-14 |
 | [HI 5](https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [HI 5](https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB) | 2:52 | 2023-03-24 | 2023-04-15 |
 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 | 2022-10-14 | 2023-01-28 |
+| [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 |  |
 | [HILL$](https://open.spotify.com/track/5Kh8IpsqrQIlMdPKi7WSbA) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [HILL$](https://open.spotify.com/album/4U9ClDKHyxKnAqdVufDn0n) | 2:22 | 2022-08-26 | 2022-09-24 |
 | [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:52 | 2023-03-17 | 2023-10-21 |
 | [Hips \(w/ Mindchatter\)](https://open.spotify.com/track/6r807Xr2NIpbKE6litA7va) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Hips \(w/ Mindchatter\)](https://open.spotify.com/album/0Fzl3cLF11oVpaEPNruUPk) | 3:44 | 2022-02-18 | 2022-06-04 |

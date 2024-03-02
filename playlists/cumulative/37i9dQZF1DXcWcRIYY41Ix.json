@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194050,
       "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
       "url": "https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169887,
       "name": "Condenada",
       "url": "https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq"
@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215931,
+      "name": "Dos Hemisferios",
+      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
@@ -3068,7 +3090,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
@@ -3380,7 +3402,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 262593,
       "name": "En Vez de Huir",
       "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
@@ -4083,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Hoy no tengo nada que hacer",
+        "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
+      },
+      "artists": [
+        {
+          "name": "Ombligo",
+          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
+        },
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251856,
+      "name": "Hoy no tengo nada que hacer",
+      "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "album": {
         "name": "Hubo Algo",
         "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
@@ -4266,6 +4310,24 @@
       "duration_ms": 300114,
       "name": "Instantes y Aullidos",
       "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+    },
+    {
+      "album": {
+        "name": "Intensos",
+        "url": "https://open.spotify.com/album/5Obfw8ABRhqjr1yG4rFayJ"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2IoQlYwKwMFJ9Kn8jIZxG9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Intensos",
+      "url": "https://open.spotify.com/track/19bVAydJuAVGXAF49ddJ3r"
     },
     {
       "album": {
@@ -5162,7 +5224,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 273332,
       "name": "Lejos de la ciudad",
       "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
@@ -5220,7 +5282,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
@@ -6014,7 +6076,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
@@ -6312,7 +6374,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
@@ -6649,6 +6711,28 @@
     },
     {
       "album": {
+        "name": "No supe verme",
+        "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        },
+        {
+          "name": "Miguelichi L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6IX6MVQxwe14jYiIJUIVzn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211459,
+      "name": "No supe verme",
+      "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
+    },
+    {
+      "album": {
         "name": "No Ves Tal Vez",
         "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
@@ -6870,7 +6954,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
@@ -8672,7 +8756,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236361,
       "name": "Solo Le Dije",
       "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
@@ -8756,7 +8840,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222000,
       "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
@@ -9458,7 +9542,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
@@ -9791,6 +9875,28 @@
     },
     {
       "album": {
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+      },
+      "artists": [
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "album": {
         "name": "una se\u00f1al",
         "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
       },
@@ -10046,6 +10152,24 @@
       "duration_ms": 194000,
       "name": "Verde Nocturno",
       "url": "https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K"
+    },
+    {
+      "album": {
+        "name": "CUERO",
+        "url": "https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111250,
+      "name": "Vidalita Andina",
+      "url": "https://open.spotify.com/track/2FTYuEJdej8TkFNWkeYxie"
     },
     {
       "album": {

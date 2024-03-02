@@ -42457,6 +42457,24 @@
     },
     {
       "album": {
+        "name": "Rock N' Rolla",
+        "url": "https://open.spotify.com/album/79WYxe1LDATJqRlDeofr9v"
+      },
+      "artists": [
+        {
+          "name": "Burgundy",
+          "url": "https://open.spotify.com/artist/33YZb6W25FDb2kn5mKDrvl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277864,
+      "name": "Rock N' Rolla",
+      "url": "https://open.spotify.com/track/6D1yuW0CCKPR1IshvwM8qw"
+    },
+    {
+      "album": {
         "name": "Romansa",
         "url": "https://open.spotify.com/album/5ASKk7uxGhkFcvXPjq1JQA"
       },
@@ -43966,6 +43984,24 @@
       "duration_ms": 258230,
       "name": "Satu Tahun Cahaya",
       "url": "https://open.spotify.com/track/5alx827A7lvvJ0HSwca6gd"
+    },
+    {
+      "album": {
+        "name": "Satu Tangan Lagi",
+        "url": "https://open.spotify.com/album/5XWAHhmaGGKP4DSXBdyicJ"
+      },
+      "artists": [
+        {
+          "name": "Joko Sinyo",
+          "url": "https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217601,
+      "name": "Satu Tangan Lagi",
+      "url": "https://open.spotify.com/track/67vdiH5roe0kAL6z7nBqo0"
     },
     {
       "album": {

@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Acabou, mas tem",
+        "url": "https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem",
+      "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
+    },
+    {
+      "album": {
         "name": "Algo \u00cdntimo",
         "url": "https://open.spotify.com/album/5r8KbnTBjBDQe0yp0h3WHE"
       },
@@ -3321,6 +3339,32 @@
     },
     {
       "album": {
+        "name": "Ludmilla (Papatracks#12)",
+        "url": "https://open.spotify.com/album/5Hxc7d6iEx2gXe8EDLst0n"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122416,
+      "name": "Ludmilla (Papatracks#12)",
+      "url": "https://open.spotify.com/track/7CKPobgc0wetmn1V990uKb"
+    },
+    {
+      "album": {
         "name": "GARCIA",
         "url": "https://open.spotify.com/album/6QWmIGUIKxpMphCOQb5s6b"
       },
@@ -5112,7 +5156,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 196626,
       "name": "Puma e Pantera",
       "url": "https://open.spotify.com/track/2zNxU5GD2ReI4K4v6OzVGr"

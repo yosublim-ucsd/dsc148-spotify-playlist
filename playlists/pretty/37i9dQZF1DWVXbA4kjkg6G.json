@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 481144,
+  "num_followers": 481372,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVjZWNjNjhkZTFhODRmNDU4OTU0ODhhMTJkN2ViM2JkZmMyOTg2",
+  "snapshot_id": "MCw5MjBkNTlhZThjYzk0ZDE4MDQzMzZjYjhlNWQ4MTU0ZmMwMzIyN2U5",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 266200,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Earth, Vol. 2",
-        "url": "https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk"
-      },
-      "artists": [
-        {
-          "name": "Artemis",
-          "url": "https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV"
-        }
-      ],
-      "duration_ms": 342500,
-      "name": "Silver Dawn",
-      "url": "https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Ninja Cuts - Funkjazztical Tricknology",
         "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 285933,
       "name": "Listen To The Beat",
       "url": "https://open.spotify.com/track/5ZoMXcVfs32XbLhinsl54S"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Earth, Vol. 2",
+        "url": "https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk"
+      },
+      "artists": [
+        {
+          "name": "Artemis",
+          "url": "https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV"
+        }
+      ],
+      "duration_ms": 342500,
+      "name": "Silver Dawn",
+      "url": "https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX"
     },
     {
       "added_at": "2023-06-20 20:30:21",

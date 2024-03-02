@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 747519,
+  "2024-03-02": 747529,
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Zac Samuel",
+  "description": "The biggest house bangers popping off in the UK, let's go! Jamie Jones, Jazzy",
   "name": "UK House Music",
   "tracks": [
     {
@@ -633,6 +633,32 @@
       "duration_ms": 156694,
       "name": "Annie",
       "url": "https://open.spotify.com/track/67sOB5aSq0ro6iuJJFDxXt"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        },
+        {
+          "name": "Pony",
+          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
       "album": {
@@ -2684,6 +2710,28 @@
     },
     {
       "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
+    },
+    {
+      "album": {
         "name": "Crank",
         "url": "https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD"
       },
@@ -3569,6 +3617,32 @@
       "duration_ms": 183680,
       "name": "Don't Ya Want It",
       "url": "https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9"
+    },
+    {
+      "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        },
+        {
+          "name": "Joelii",
+          "url": "https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR"
     },
     {
       "album": {
@@ -5925,7 +5999,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 214153,
       "name": "Homework",
       "url": "https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u"
@@ -6613,6 +6687,28 @@
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7G1S1ZQxGE67nSBAMr6WD6"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166002,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/09JbsKhqfhP20dadEeDug3"
     },
     {
       "album": {
@@ -9679,7 +9775,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 188307,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3srre2C7GNHuowM46tOe1J"
@@ -10199,7 +10295,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 224571,
       "name": "People",
       "url": "https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB"
@@ -10867,7 +10963,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182264,
       "name": "Rebel (feat. SHELLS)",
       "url": "https://open.spotify.com/track/3k3iVDb0VefhzCdKwKdYvW"
@@ -11365,7 +11461,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
@@ -13405,7 +13501,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 201547,
       "name": "Things Are Gonna Get Better",
       "url": "https://open.spotify.com/track/7w5azydGWXR8jseyAcums0"
@@ -14181,7 +14277,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 429642,
       "name": "Veggie Whopper",
       "url": "https://open.spotify.com/track/0bNG0m1bYP8TfJAMdV0DP0"
@@ -14607,6 +14703,46 @@
       "duration_ms": 368372,
       "name": "We Bring It",
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
+    },
+    {
+      "album": {
+        "name": "We Groovin",
+        "url": "https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin",
+      "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
+    },
+    {
+      "album": {
+        "name": "You Sure Do",
+        "url": "https://open.spotify.com/album/50gTjS3P6RMiJ7pERaAEIF"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "We R Bass",
+      "url": "https://open.spotify.com/track/3aVqtzLdnboGMRxngBIKPQ"
     },
     {
       "album": {
@@ -15107,6 +15243,24 @@
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
+    },
+    {
+      "album": {
+        "name": "You Know It",
+        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "You Know It",
+      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
       "album": {

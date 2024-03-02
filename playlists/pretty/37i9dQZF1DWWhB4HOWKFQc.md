@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,672 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,292 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 |
 | 75 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 |
 
-Snapshot ID: `MCwyNDM1MjFmMDU1ZGQzMDQzZWViNmIyZmEyM2Q0NGU0NDBkMjM5NzE1`
+Snapshot ID: `MCw2NTQ0OTI0YjU3YzMzZDkxMGQyMjY1MDRmMTg3NjQzMmVlMjI0NmE2`

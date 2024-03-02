@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Kassimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,185 likes - 55 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,197 likes - 55 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [BOUNCE](https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob) | [Baronetto](https://open.spotify.com/artist/0pwPxQ42me7zkEVBthrPf0) | [BOUNCE](https://open.spotify.com/album/3YFdkeBLZU1X6COJy78Qhl) | 1:42 |
 | 55 | [Push](https://open.spotify.com/track/0c3dkyiXHsl5DvEp33aGzU) | [Ramses Afro](https://open.spotify.com/artist/0BA9Z5ZuaS6LjEhj9Nkfvg) | [Push](https://open.spotify.com/album/6CbQx944aKtHlOrpiHdg8U) | 1:55 |
 
-Snapshot ID: `MCxlMTFlM2Q2ZTUzYzZhMTc3ZGI4NjE4NmRjOWIyNWM3NDViMDNlZWYx`
+Snapshot ID: `MCw1MWMwNmEwODc2ZTExZTQyNjkyZTE1NmZjYTA5OTY5NjRiMzA1OGJk`

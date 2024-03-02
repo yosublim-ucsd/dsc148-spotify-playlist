@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,318 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,572 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Gol](https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
 | 50 | [7UP](https://open.spotify.com/track/4s8ZTHaLXl96NxjVy8qSjT) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7UP](https://open.spotify.com/album/5IyMgAKUtFV7yHH8owqypb) | 2:39 |
 
-Snapshot ID: `MCxiNDJmYjAyMzRiZWI0ZTU5YTBjOGY2MjIwMzk0NDhmYTYxYjYxNTk1`
+Snapshot ID: `MCxhMjAwY2ExY2MxM2ViZjAwMmM3Y2Y1MzJkOTZmYmM5YzE5YTUxZWY4`

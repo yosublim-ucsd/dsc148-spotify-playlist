@@ -4,11 +4,12 @@
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-108 songs - 7 hr 21 min
+109 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/4c75NAZOgHdYoAobGk8oiC) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 | 2021-09-07 |  |
+| [A Deeper Shade Of Soul](https://open.spotify.com/track/0zjyyidPgJ3RtnDjXUy93w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/7anG9F0iTiBzcdEJ99msY3) | 2:48 | 2023-03-08 |  |
 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 | 2022-04-09 | 2024-02-28 |
 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 | 2022-04-09 |  |
 | [Afro Shingaling](https://open.spotify.com/track/3DkeQ5mpbIPGBuGQ4DAcXg) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/3EhyH1sdQKmnNSd3YJzEFG) | 3:57 | 2021-09-07 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 | 2022-04-09 |  |
 | [Pow Wow](https://open.spotify.com/track/33iZ7YZRt32eqtsRIEe7yj) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Orchestra Corchado](https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW) | [Pow Wow](https://open.spotify.com/album/3JZjVes4oar3ZOF3EmToMx) | 3:48 | 2021-09-07 | 2022-07-29 |
 | [Pow Wow](https://open.spotify.com/track/5ZfmBmjBWu8QV6aykIedhe) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3), [Orchestra Corchado](https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW) | [Pow Wow](https://open.spotify.com/album/5KnyUcKYo94q5uY4Br5Q7x) | 3:48 | 2021-09-07 | 2022-11-14 |
-| [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 | 2022-04-09 |  |
+| [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 | 2022-04-09 | 2024-03-02 |
 | [Que Bueno Boogaloo](https://open.spotify.com/track/343S3fphbIwx7wI4gJgNyF) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Leyendas De La Fania Vol 6](https://open.spotify.com/album/6xbr773VgXkRIEFCPFs3Iu) | 2:44 | 2021-09-07 | 2022-07-15 |
 | [Que Se Sepa](https://open.spotify.com/track/3QmiOzBxGmXf0GNzjArrw3) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:14 | 2022-04-09 | 2022-07-28 |
 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 | 2022-04-09 |  |

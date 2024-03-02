@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 23921,
+  "2024-03-02": 23922,
   "date_first_scraped": "2023-10-15",
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
   "name": "ElectroPop",
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 309014,
       "name": "Delight",
       "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
@@ -847,6 +847,24 @@
       "duration_ms": 223066,
       "name": "EMERGENCIA - Presented by PlayStation, Horizon Forbidden West",
       "url": "https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ"
+    },
+    {
+      "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
     },
     {
       "album": {

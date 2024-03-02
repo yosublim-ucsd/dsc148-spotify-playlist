@@ -1,13 +1,73 @@
 {
   "description": "The best of today's funk. Cover: Jordan Mackampa\n",
-  "num_followers": 315949,
+  "num_followers": 315989,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZhMWE5NzQxMmFiNGQ4YWE1OWE3M2JjZDQyOGM1MDVkNTQ5M2Qz",
+  "snapshot_id": "MCxiN2ZjNWMxOTYwYWJmNzI4Y2IxNzU0ODM2NmIzYjhhMGI0YWRjMWQx",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "FLAUNT IT",
+        "url": "https://open.spotify.com/album/4S8EOt1bYvw4SPDp5pBgax"
+      },
+      "artists": [
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "duration_ms": 187922,
+      "name": "FLAUNT IT",
+      "url": "https://open.spotify.com/track/2zHbZLK3FeDGsgxliT2sI1"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "He Said/She Said (Lack of Afro Remix)",
+        "url": "https://open.spotify.com/album/0WVFG00h9vS2j1puywuwoL"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        },
+        {
+          "name": "Lack Of Afro",
+          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "He Said/She Said - Lack of Afro Remix",
+      "url": "https://open.spotify.com/track/38lFhq6f4r72RGm8t3M0j0"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "High (When I\u2019m Low)",
+        "url": "https://open.spotify.com/album/4bqPhRP8HDMoA6cO0GhO0W"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "High (When I\u2019m Low)",
+      "url": "https://open.spotify.com/track/1hCemip7lYfAnPSWRYyf0z"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -23,6 +83,22 @@
       "duration_ms": 209248,
       "name": "STEP BY STEP",
       "url": "https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Dirty Disco",
+        "url": "https://open.spotify.com/album/5nmGeDHV5dmbOedJhKIRv4"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "duration_ms": 223319,
+      "name": "Dirty Disco",
+      "url": "https://open.spotify.com/track/5xf4Rsu7qjKHGBrEwgseOT"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -43,6 +119,42 @@
       "duration_ms": 154988,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5"
+      },
+      "artists": [
+        {
+          "name": "Sinkane",
+          "url": "https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w"
+        },
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6dwn7sFqft4CBBRbZTZr0E"
+      },
+      "artists": [
+        {
+          "name": "AJ McLean",
+          "url": "https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl"
+        }
+      ],
+      "duration_ms": 192011,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/5tpCdn073tTUqDNk2gUL2Q"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -89,6 +201,26 @@
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
     },
     {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "LOVE\u306a\u30b7\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z"
+      },
+      "artists": [
+        {
+          "name": "Seiya Matsumuro",
+          "url": "https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ"
+        },
+        {
+          "name": "BRADIO",
+          "url": "https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne"
+        }
+      ],
+      "duration_ms": 319300,
+      "name": "LOVE\u306a\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Monoxide",
@@ -117,20 +249,24 @@
       "url": "https://open.spotify.com/track/4NgC18dc6UottMk5mM0Vm6"
     },
     {
-      "added_at": "2024-02-16 05:01:00",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6dwn7sFqft4CBBRbZTZr0E"
+        "name": "Somebody's Watching You (XL Middleton Remix)",
+        "url": "https://open.spotify.com/album/0ewP62EoyU6j6uAZANB9DZ"
       },
       "artists": [
         {
-          "name": "AJ McLean",
-          "url": "https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl"
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
         }
       ],
-      "duration_ms": 192011,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/5tpCdn073tTUqDNk2gUL2Q"
+      "duration_ms": 215302,
+      "name": "Somebody's Watching You - XL Middleton Remix",
+      "url": "https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -167,6 +303,22 @@
       "duration_ms": 211493,
       "name": "Heavy (Wake the Wild Remix)",
       "url": "https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/57JZIPQFEt4AGiLGhM8JAb"
+      },
+      "artists": [
+        {
+          "name": "JM Bales",
+          "url": "https://open.spotify.com/artist/2JyNzzFJh2wkkZo7ZjMSs2"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/02hKpGoEiktnpLqB4CpPf5"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1577,42 +1729,6 @@
       "url": "https://open.spotify.com/track/5a1NRRfQvTMlvZ3rwO259B"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Anxiety & Circumstance",
-        "url": "https://open.spotify.com/album/7fBic8RHChT0Rh5LGe26B5"
-      },
-      "artists": [
-        {
-          "name": "Akintoye",
-          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
-        }
-      ],
-      "duration_ms": 125407,
-      "name": "Bad Day Ballad",
-      "url": "https://open.spotify.com/track/4FGuZ6tsT6XU1DXF8ctUil"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf"
-      },
-      "artists": [
-        {
-          "name": "Kazzey",
-          "url": "https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY"
-        },
-        {
-          "name": "XL Middleton",
-          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
-        }
-      ],
-      "duration_ms": 244587,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Rock With Me (Jafunk Remix)",
@@ -1637,22 +1753,6 @@
       "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR"
-      },
-      "artists": [
-        {
-          "name": "Nathan Adams",
-          "url": "https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Waste My Time",
@@ -1667,22 +1767,6 @@
       "duration_ms": 171000,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1pUiPTJBjPu1EX2wtVrikB"
-      },
-      "artists": [
-        {
-          "name": "Grayson DeWolfe",
-          "url": "https://open.spotify.com/artist/3ivAmma9JLS0z6LKXgYH5f"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1799,42 +1883,6 @@
       "duration_ms": 199669,
       "name": "Real Good",
       "url": "https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 261402,
-      "name": "Keep That Funk Alive",
-      "url": "https://open.spotify.com/track/6pSQEg63mPYvaXQVJdmEy9"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV"
-      },
-      "artists": [
-        {
-          "name": "Saint Joshua",
-          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
-        }
-      ],
-      "duration_ms": 272211,
-      "name": "Stuck on You",
-      "url": "https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH"
     },
     {
       "added_at": "2022-09-23 04:00:00",

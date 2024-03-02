@@ -4,12 +4,13 @@
 
 > y de la buena!
 
-283 songs - 16 hr 31 min
+284 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-19 | 2023-06-30 |
 | [A Dios Le Pìdo / Hielo y Fuego \- En Vivo](https://open.spotify.com/track/2RpU62wIMTwZKNc5PboVI9) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [A Dios Le Pido / Hielo y Fuego \(En Vivo\)](https://open.spotify.com/album/0x4xEO6qKrZ1Cy7byzFaot) | 3:41 | 2022-05-09 | 2022-06-04 |
+| [A PURO DOLOR](https://open.spotify.com/track/7Ho0Xbf3vHdBJiTbQocuxQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [A PURO DOLOR](https://open.spotify.com/album/3FQi4Oecz065SbJVuvvJXT) | 3:26 | 2024-03-01 |  |
 | [Adicto \(En Vivo Estadio Uno\)](https://open.spotify.com/track/5uKXd2QvZ5xi4KXGxX9Luk) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Adicto \(En Vivo Estadio Uno\)](https://open.spotify.com/album/1cVPQyAvqA6QOAjV7j25Od) | 3:56 | 2023-12-24 |  |
 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 | 2023-03-31 |  |
 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 | 2024-01-24 |  |
@@ -104,7 +105,7 @@
 | [Hey Tu](https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Hey Tu](https://open.spotify.com/album/0qEN49ipLOHVnuAaXZJSNV) | 3:16 | 2023-02-10 | 2023-04-01 |
 | [Hoy La Vi Pasar](https://open.spotify.com/track/6YwEACTymPJqiAlAyk9bHP) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Hoy La Vi Pasar](https://open.spotify.com/album/0SXYP8yW2TZDFozwD9btcm) | 2:54 | 2023-03-31 | 2023-04-12 |
 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 | 2021-12-24 |  |
-| [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2021-12-24 |  |
+| [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2021-12-24 | 2024-03-02 |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2021-12-24 | 2024-02-17 |
 | [Inocente](https://open.spotify.com/track/7uosdMQ8IXjcs6t72NTTDq) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/5X988Kfh1BWfczNEfKHwwv) | 5:10 | 2024-02-16 |  |
 | [Insaciable](https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/24JQjRIlTGax38PWGJYhAA) | 3:26 | 2021-12-24 | 2022-03-19 |

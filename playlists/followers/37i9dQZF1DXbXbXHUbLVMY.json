@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 27531,
+  "2024-03-02": 27548,
   "date_first_scraped": "2023-09-23",
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
   "name": "100 (2)",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 124077,
       "name": "51 - Freestyle",
       "url": "https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
@@ -535,10 +535,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 180912,
       "name": "Cuando Menos Lo Espera",
       "url": "https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20"
+    },
+    {
+      "album": {
+        "name": "BABA IVO",
+        "url": "https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU"
+      },
+      "artists": [
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149290,
+      "name": "Daddy Issues (feat. Simon Superti)",
+      "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
     },
     {
       "album": {
@@ -637,7 +659,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 126000,
       "name": "Distrikt 4",
       "url": "https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
@@ -1833,7 +1855,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191688,
       "name": "MIRAKEL",
       "url": "https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc"

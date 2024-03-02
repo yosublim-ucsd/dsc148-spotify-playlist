@@ -4,7 +4,7 @@
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-71 songs - 4 hr 52 min
+72 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Les sunlights des tropiques](https://open.spotify.com/track/5hRRxtVL7Lgyq20mk9rtlS) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [CD STory](https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ) | 3:57 | 2022-05-23 |  |
 | [Libertine](https://open.spotify.com/track/1zlYAnYJD7TzHiXnA6oQEW) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Libertine](https://open.spotify.com/album/2nkqzj7uKomG5q4UHV2EGi) | 3:46 | 2022-05-23 |  |
 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 | 2022-05-23 |  |
-| [Manureva](https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx) | 6:43 | 2022-05-23 |  |
+| [Manureva](https://open.spotify.com/track/3ZbA8v0v4TiZlS6zUs8uvO) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/4f9Ar34xlOejFn3Qx6W0in) | 6:43 | 2023-12-13 |  |
+| [Manureva](https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx) | 6:43 | 2022-05-23 | 2024-03-02 |
 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 | 2022-05-23 |  |
 | [Maîtresse](https://open.spotify.com/track/6UT5PGqkKoUbEEgSJEdtqY) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [L'album](https://open.spotify.com/album/0h7NQszOFKKgJ1jacUpxb0) | 4:01 | 2022-05-23 |  |
 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 | 2022-05-23 |  |

@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-396 songs - 23 hr 38 min
+397 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Virgo \(feat\. Brandee Younger, Julius Rodriguez\)](https://open.spotify.com/track/6sN7bFaMaaIU986NPHqlor) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Virgo \(feat\. Brandee Younger, Julius Rodriguez\)](https://open.spotify.com/album/1bOMTMO3847x39Tl9yvJyV) | 8:38 | 2023-03-30 | 2023-05-12 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-14 |  |
 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 | 2022-10-28 | 2023-09-15 |
+| [WATER](https://open.spotify.com/track/2YTpY29Trdd3QDwM5BYVsM) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [WATER](https://open.spotify.com/album/4g3I5g0zaCM3RRDaEFDRU2) | 1:30 | 2024-02-29 |  |
 | [Way That We Feel](https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [Way That We Feel](https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG) | 3:10 | 2022-12-02 | 2024-01-18 |
 | [We Found Love](https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [We Found Love](https://open.spotify.com/album/0jJKXcVgzIPMkbw0uYBW0p) | 3:09 | 2023-10-06 |  |
 | [We Know](https://open.spotify.com/track/5V1uCsPeliBCfFSWMsPAjz) | [SHAKUAR](https://open.spotify.com/artist/5BJ63BTcojgcTXv1GNWHmS) | [We Know](https://open.spotify.com/album/7xCQBtsHg1X5NGghnLbf9u) | 5:21 | 2024-02-16 |  |

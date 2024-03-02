@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,389 songs - 3 day 0 hr 20 min
+1,391 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,8 @@
 | [Etages](https://open.spotify.com/track/1mmkY3IFQ6Kj60wnGp6q3z) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Etages](https://open.spotify.com/album/44SCv7NlQWFdkLCErtyCfv) | 2:34 | 2021-03-27 | 2021-04-03 |
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2023-05-15 | 2023-05-17 |
 | [Euro's & Dollars](https://open.spotify.com/track/4jelEboj2QJWTLSXxuq4Pw) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Euro's & Dollars](https://open.spotify.com/album/6Qluqj4hMRFqLf3ifxm6wn) | 2:46 | 2023-02-25 | 2023-03-05 |
+| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-01 |  |
+| [Europapa \- Outro](https://open.spotify.com/track/4xLrVkZ6b1AQXTIW0pb7PX) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 1:07 | 2024-03-01 |  |
 | [Even Offline](https://open.spotify.com/track/4NgAF3bKh8lZ876AMh5hO7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 2:30 | 2022-12-03 | 2022-12-06 |
 | [Eventjes Weg](https://open.spotify.com/track/26VZUtbArNYO2lyftfhejj) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:53 | 2021-09-05 | 2021-09-06 |
 | [Excuseer](https://open.spotify.com/track/0PrxviwWNPOUJunvL9LkTI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Excuseer](https://open.spotify.com/album/1GuRi4m4Uo7KTlDTwaezUz) | 2:32 | 2022-05-28 | 2022-06-07 |
@@ -512,7 +514,7 @@
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2024-02-19 | 2024-02-28 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-26 | 2022-12-29 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2021-06-23 |
-| [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-11 |  |
+| [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-11 | 2024-03-02 |
 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-03-17 | 2023-05-07 |
 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-06 | 2023-07-09 |
 | [Heartbeat](https://open.spotify.com/track/0pbLHJrEZFFo3qijqi7XDl) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/2FnKv8ojZpkBWNUeknz3la) | 3:18 | 2023-04-02 | 2023-05-28 |
@@ -1153,7 +1155,7 @@
 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 | 2021-12-26 | 2023-12-30 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-12-01 |
-| [Streken](https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ) | [Genna](https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Streken](https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV) | 2:51 | 2024-02-27 |  |
+| [Streken](https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ) | [Genna](https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Streken](https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV) | 2:51 | 2024-02-27 | 2024-03-02 |
 | [Streken Van Een Duivel](https://open.spotify.com/track/4QgREUGJJGhfBe5zDk5cC8) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Streken Van Een Duivel](https://open.spotify.com/album/0PyCM2NQEd23W5KtZKWeId) | 3:19 | 2021-11-21 | 2021-11-28 |
 | [Streken Van Een Duivel](https://open.spotify.com/track/4wIhjMTomtYhOy1GAg8SSC) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 3:19 | 2021-11-28 | 2022-03-06 |
 | [Struggle](https://open.spotify.com/track/3ZXpGs3bjTmBS2Gms2Kw9c) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Struggle](https://open.spotify.com/album/0YA5L41B3jaVnAK8hKmfh9) | 2:27 | 2023-07-01 | 2023-07-03 |

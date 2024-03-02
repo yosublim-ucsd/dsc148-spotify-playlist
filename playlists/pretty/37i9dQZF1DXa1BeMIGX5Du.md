@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,272 likes - 85 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,364 likes - 85 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 8 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 |
 | 9 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 10 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 |
-| 11 | [Nothing More](https://open.spotify.com/track/0uPmNY3fvKCo5FMU6jTHeu) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nothing More](https://open.spotify.com/album/7LofkA7qMKLxQa4MyhVcCw) | 2:49 |
+| 11 | [Nothing More](https://open.spotify.com/track/5AK8vuswyRulHsNQt5egbx) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nothing More](https://open.spotify.com/album/0tpZErRRUDil4pqFZ9SDxP) | 2:49 |
 | 12 | [Right Back to It](https://open.spotify.com/track/34rKqu2Xx9L27b9859LslA) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 4:33 |
 | 13 | [Making It Through](https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:42 |
 | 14 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 26 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 | 27 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 |
 | 28 | [freakshow](https://open.spotify.com/track/3qebmHGlpXxLeUgA8AMWnl) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [freakshow](https://open.spotify.com/album/2D5TJv0rUZAnFTNtVEbKn4) | 3:15 |
-| 29 | [Lifetime](https://open.spotify.com/track/6zkRSY91Ly8m2TkcBtH0u9) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 5:06 |
+| 29 | [Lifetime](https://open.spotify.com/track/6zkRSY91Ly8m2TkcBtH0u9) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 5:05 |
 | 30 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 |
 | 31 | [The Place](https://open.spotify.com/track/7dSqkh6ga2uw7TlmSeeN9x) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [The Place](https://open.spotify.com/album/1OJt8Hf9hpPIl9WC6X0rYy) | 3:51 |
 | 32 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 84 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
 | 85 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MCwzM2FiZmI3MGU3YjkyMzI1ODNhMjIyOTkwMjhjOTBmYTE2MzliY2Zk`
+Snapshot ID: `MCxjNjQ3ZjVhOTM3OWI1OGI1ZWJkYmQ0NWQ4N2NmOWUyMmQ1ZWM1MGMy`

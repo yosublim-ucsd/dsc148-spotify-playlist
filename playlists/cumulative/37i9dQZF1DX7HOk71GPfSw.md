@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,968 songs - 3 day 17 hr 35 min
+1,969 songs - 3 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [FALLING SHORT](https://open.spotify.com/track/2Uwf8eajsLsSbYagzNjb5U) | [Love Jai](https://open.spotify.com/artist/7L3NGwYlrFSB9eLQrJDEkx) | [FALLING SHORT](https://open.spotify.com/album/6Re5oBy2eej988bOwzHTTm) | 2:00 | 2021-08-20 | 2021-08-24 |
 | [FALLING UP](https://open.spotify.com/track/48T8if6xg1qnKVeDV4Mhqo) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [FALLING UP](https://open.spotify.com/album/6TEHMXuZyxySr5oltVlnfB) | 5:03 | 2021-12-03 | 2022-02-26 |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-05-29 | 2023-07-29 |
+| [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-01 |  |
 | [FASTLANE](https://open.spotify.com/track/6nXqxqWDwqyXSrsW8pHAEE) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [SMILE SEASON](https://open.spotify.com/album/3lvLrzj8jhwrTeDtQiwqeR) | 1:30 | 2021-11-05 | 2022-02-24 |
 | [Fat Lip](https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG) | [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB), [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Fat Lip](https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ) | 1:57 | 2021-12-10 | 2022-01-13 |
 | [Fatal](https://open.spotify.com/track/021Rhrsf6wCPAONboIQl2U) | [Pitfall](https://open.spotify.com/artist/0bonINZ3DoCiYoXtLWwQTG) | [Fatal](https://open.spotify.com/album/6Gq9phskgwKMwPyUWCaV6X) | 1:43 | 2020-10-13\* | 2020-12-09 |

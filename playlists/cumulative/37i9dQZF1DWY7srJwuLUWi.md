@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-32 songs - 1 hr 57 min
+33 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [On My Way](https://open.spotify.com/track/3cVX33dhtE55B21yWWYiLJ) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/5FDxf9I2I6CpEYbp4hyfZn) | 2:48 | 2022-11-06 |  |
 | [Only You](https://open.spotify.com/track/5pzjzjlcEjiMdFgKZhI6fz) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/25C7dgrlL7Rcqahfa4soWA) | 3:38 | 2022-11-05 |  |
 | [Porsche](https://open.spotify.com/track/1dvfI3ftaPV7odcMps3L3Q) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Porsche](https://open.spotify.com/album/1js77EUM2hyIE0lcPhWgxB) | 2:20 | 2022-10-05 |  |
-| [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-10-05 |  |
+| [remember \(with Chin, Uneducated Kid, Paul Blanco\) \- Remix](https://open.spotify.com/track/6hP2E6HU4ZlMFCflgFu3FX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [remember \(with Chin, Uneducated Kid, Paul Blanco\) \[Remix\]](https://open.spotify.com/album/5CH8EJvrAdC2DQgyySCNiU) | 3:43 | 2022-11-14 |  |
+| [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-10-05 | 2024-03-02 |
 | [StrOngerrr \(Feat\. Loco, MINO\)](https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 4:45 | 2022-10-05 |  |
 | [The Time is Now](https://open.spotify.com/track/72aAUDnwW1O2LGUqCnWaR9) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/50tzvh8qi0a6W8s4j6X0Zi) | 3:44 | 2022-10-05 |  |
 | [To Life](https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [To Life](https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6) | 3:11 | 2022-10-05 |  |

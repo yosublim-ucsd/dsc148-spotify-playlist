@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208000,
       "name": "Always Been - Edit",
       "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Do Dat Baby",
+        "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "Do Dat Baby",
+      "url": "https://open.spotify.com/track/75DcS0cmvDFFWni1ah7UGE"
+    },
+    {
+      "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu"
       },
@@ -884,6 +906,28 @@
       "duration_ms": 223548,
       "name": "Ecstatica",
       "url": "https://open.spotify.com/track/10kgnaSAqXAU0zYhcZcarP"
+    },
+    {
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz"
+      },
+      "artists": [
+        {
+          "name": "Dafne",
+          "url": "https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH"
+        },
+        {
+          "name": "Unusual Magic",
+          "url": "https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123268,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0"
     },
     {
       "album": {
@@ -1330,7 +1374,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 264406,
       "name": "Hip Hop Spa",
       "url": "https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN"
@@ -1852,7 +1896,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200500,
       "name": "Make U Stay",
       "url": "https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb"
@@ -2338,6 +2382,28 @@
       "duration_ms": 306857,
       "name": "Real Hawt",
       "url": "https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3"
+    },
+    {
+      "album": {
+        "name": "Real Hot n Naughty",
+        "url": "https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "Felix Mufti",
+          "url": "https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Real Hot n Naughty",
+      "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
     },
     {
       "album": {

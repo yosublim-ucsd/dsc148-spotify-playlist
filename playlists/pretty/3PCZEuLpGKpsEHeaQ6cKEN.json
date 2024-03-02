@@ -1,12 +1,12 @@
 {
   "description": "The biggest Armada tracks of the moment! | Including Trance, House, Techno, Dance, Afro-House, Melodic Techno | Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Armin van Buuren, Agents Of Time",
-  "num_followers": 276612,
+  "num_followers": 276606,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTMzOTgsZmU5N2QwNjk4YWJkYWYzNWY5ODlhMjk0YzFkNDYzNmE2YTA1NjIyOQ==",
+  "snapshot_id": "NTM0MDUsNzYzY2Q4YTUzMjVhZGFkMTcyZDExNWI5Y2Q3YjVkYWU5YzA3MzViYw==",
   "tracks": [
     {
       "added_at": "2024-02-29 23:04:55",
@@ -28,7 +28,7 @@
           "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 182433,
+      "duration_ms": 182432,
       "name": "Love Is A Drug - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
     },
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
     },
     {
+      "added_at": "2024-03-01 08:25:07",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/1mQx4jG8OINe75Tbo8ST9Q"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 153100,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/2vKsgFyzvSM5TMlH5fqmBn"
+    },
+    {
       "added_at": "2024-02-29 23:04:55",
       "album": {
         "name": "Young & Foolish",
@@ -135,6 +151,34 @@
       "duration_ms": 177500,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl"
+    },
+    {
+      "added_at": "2024-03-01 12:58:22",
+      "album": {
+        "name": "Best of King Street, Pt. 4",
+        "url": "https://open.spotify.com/album/0PgznidmaB7MMW4vJwOW4n"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "UDAUFL",
+          "url": "https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "duration_ms": 190821,
+      "name": "Most Precious Love - Michael Gray Remix",
+      "url": "https://open.spotify.com/track/7hsY65jaEshpvGV93g5AIU"
     },
     {
       "added_at": "2024-02-29 23:04:55",
@@ -255,6 +299,22 @@
       "duration_ms": 180000,
       "name": "Drinks & Pills",
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
+    },
+    {
+      "added_at": "2024-03-01 09:24:36",
+      "album": {
+        "name": "Club Classics - Hard House, Vol. 1 - Armada Music",
+        "url": "https://open.spotify.com/album/5wD31D9Ur68MGSsDYCwPmh"
+      },
+      "artists": [
+        {
+          "name": "Sound De-Zign",
+          "url": "https://open.spotify.com/artist/12ANZns9LsQCSVZ3eVLmVZ"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "Happiness - Sound De-Zign 2nd Treat Remix",
+      "url": "https://open.spotify.com/track/383D9Ptgz8EDWwKIRlN9Hk"
     },
     {
       "added_at": "2024-02-29 23:04:55",
@@ -729,6 +789,26 @@
       "url": "https://open.spotify.com/track/0TXsD8pXzfE11soERSXQ1f"
     },
     {
+      "added_at": "2024-03-01 09:24:56",
+      "album": {
+        "name": "Club Classics - Hard House, Vol. 1 - Armada Music",
+        "url": "https://open.spotify.com/album/5wD31D9Ur68MGSsDYCwPmh"
+      },
+      "artists": [
+        {
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+        },
+        {
+          "name": "Club Caviar",
+          "url": "https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Blow Ya Mind - Club Caviar Remix",
+      "url": "https://open.spotify.com/track/1jEhGeEPPhQJnC8DDZieHH"
+    },
+    {
       "added_at": "2024-02-29 23:04:55",
       "album": {
         "name": "I Wanna Go",
@@ -801,6 +881,30 @@
       "url": "https://open.spotify.com/track/0W3Z0w7u8rad8EKwCfgqfx"
     },
     {
+      "added_at": "2024-03-01 09:25:09",
+      "album": {
+        "name": "Club Classics - Hard House, Vol. 1 - Armada Music",
+        "url": "https://open.spotify.com/album/5wD31D9Ur68MGSsDYCwPmh"
+      },
+      "artists": [
+        {
+          "name": "Klubbheads",
+          "url": "https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        },
+        {
+          "name": "Benjamin Bates",
+          "url": "https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Kickin' Hard - Marco V & Benjamin Remix",
+      "url": "https://open.spotify.com/track/6pCFIVNdMZ9JeymoK0csmv"
+    },
+    {
       "added_at": "2024-02-29 23:04:55",
       "album": {
         "name": "If Only I (feat. Bebe Rexha)",
@@ -856,7 +960,7 @@
           "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 303553,
+      "duration_ms": 389535,
       "name": "Offshore - Symphonic Rehearsal Mix",
       "url": "https://open.spotify.com/track/6lJwuDZiM42gUnIhULvNIm"
     },

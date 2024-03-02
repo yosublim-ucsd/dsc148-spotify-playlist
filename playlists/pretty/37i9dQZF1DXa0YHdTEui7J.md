@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,406 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,412 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 82 | [Talk Of The Town](https://open.spotify.com/track/6tNkxM6OIEew6O8453K36t) | [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Richard Ulh](https://open.spotify.com/artist/13YK5jhfOHLpzZbsxY1Aa2) | [Talk Of The Town EP](https://open.spotify.com/album/5iTRSShAjhuiWYMFV2e4ZM) | 5:28 |
 | 83 | [Are](https://open.spotify.com/track/7BFtBkBDHS6zE88YArWLXt) | [Ferro](https://open.spotify.com/artist/3DytBJZcUChfxq9k5aROYV) | [You Are Not Your Mind](https://open.spotify.com/album/3wTTlN2HESvhSS5FajVgu8) | 6:56 |
 | 84 | [God Sent '10](https://open.spotify.com/track/4UtHJPHa8QBKzqz8iapBSe) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [It's Time](https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl) | 6:03 |
-| 85 | [Feeling For You \(Les Rythmes Digitales Dreamix / Short Remix\)](https://open.spotify.com/track/3kgtewrqex2QtE4rSicyMt) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Les Rythmes Digitales](https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 5:15 |
+| 85 | [Feeling For You \- Les Rythmes Digitales Dreamix / Short Remix](https://open.spotify.com/track/3kgtewrqex2QtE4rSicyMt) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Les Rythmes Digitales](https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 5:15 |
 | 86 | [Madame Hollywood](https://open.spotify.com/track/6yxsaBtCTog7814X7GjDEv) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [Kittenz and Thee Glitz](https://open.spotify.com/album/2JmUeGcRIV0xak7KdQM7mM) | 2:51 |
 | 87 | [Toxic Love](https://open.spotify.com/track/7BRNTtEOvXQ9wYrvpMY1Eg) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Summer on Mars EP](https://open.spotify.com/album/17W4wQ4UPpxlCr9VJ379MN) | 6:32 |
 | 88 | [Gemini](https://open.spotify.com/track/5dwjQsS2ezI4NDnokvK7IM) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [In Between](https://open.spotify.com/album/2dxytgIq0LQjqSoprWoHdU) | 9:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/51gGEMAk03iyIcxlvrFnmd) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MCw3NDg3MTA0MTA2NjA5ZGIxZTIxN2Q0YWE3MDE3ZGIzMmE4ODFjMTY5`
+Snapshot ID: `MCwyNTVlMGUzMDkxYTE4NTI3MTUzN2FkNGQxNzg2ZDUxYzU0NTUxMGUz`

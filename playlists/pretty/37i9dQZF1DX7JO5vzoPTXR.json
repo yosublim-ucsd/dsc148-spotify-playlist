@@ -1,60 +1,44 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"spotify:artist:59uIMi3xrGO0kwfy7Zea24\">Navvy</a>",
-  "num_followers": 65600,
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFFNsuSPMFRwX?si=1050728f1f5d4fd2\">INK</a>",
+  "num_followers": 65632,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTA1NGI2OWQ4NGQ1NjNmOGNmMTFhNTRkYmUwYzU3YTQyZTQzZjQ3",
+  "snapshot_id": "MCw5ZDkwYmMyMjdhYjk1NmY0ZTBhMzUzOTFmOWM0NDE5ZjFkM2VkZTgy",
   "tracks": [
     {
-      "added_at": "2023-12-06 05:00:00",
+      "added_at": "2024-03-01 09:10:17",
       "album": {
-        "name": "Rachel's Song - Spotify Singles",
-        "url": "https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw"
+        "name": "Joni Mitchell: Live at BBC, 9 October 1970",
+        "url": "https://open.spotify.com/album/3dGtLPRCKbRmaHQS2YmdMx"
       },
       "artists": [
         {
-          "name": "Navvy",
-          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
         }
       ],
-      "duration_ms": 201874,
-      "name": "Rachel's Song - Spotify Singles",
-      "url": "https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d"
+      "duration_ms": 157521,
+      "name": "Big Yellow Taxi - Live",
+      "url": "https://open.spotify.com/track/6bkL6phWAdD9ll9SG47108"
     },
     {
-      "added_at": "2023-12-06 05:00:00",
+      "added_at": "2024-03-01 09:10:17",
       "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/4Zwd5fCBJNaleuzzXK1eBS"
+        "name": "Backstreets",
+        "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
       },
       "artists": [
         {
-          "name": "LO LA",
-          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
         }
       ],
-      "duration_ms": 139130,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/6iR9CU3z6Kwn1saPuJxIZj"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Golden Child",
-        "url": "https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 243214,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M"
+      "duration_ms": 209954,
+      "name": "My Theme Song",
+      "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
     },
     {
       "added_at": "2023-12-06 05:00:00",
@@ -75,6 +59,370 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Escapism. (4am Remix)",
+        "url": "https://open.spotify.com/album/4ivzJoBQmSiY79v1dcInfg"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 208542,
+      "name": "Escapism. - 4am Remix",
+      "url": "https://open.spotify.com/track/5AIUQWoMELIpAOi1WPMeSD"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 262062,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Paranoia Purple",
+      "url": "https://open.spotify.com/track/6thXydmPxnHkSzdeI4mFEi"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Rachel's Song - Spotify Singles",
+        "url": "https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Rachel's Song - Spotify Singles",
+      "url": "https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Exit Simulation",
+        "url": "https://open.spotify.com/album/2ev7kijeHHRcqXz8ke5KjG"
+      },
+      "artists": [
+        {
+          "name": "Niecy Blues",
+          "url": "https://open.spotify.com/artist/3iiPUUTrbJ4ObYjWgYoXfD"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Violently Rooted",
+      "url": "https://open.spotify.com/track/10pCUmtkGJ2IZSEhzVJKkc"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 230522,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Golden Child",
+        "url": "https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 243214,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7wGBEZamABJVD15MDQG0hl"
+    },
+    {
+      "added_at": "2023-11-08 05:00:00",
+      "album": {
+        "name": "Options (feat. Tamera & Bellah)",
+        "url": "https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB"
+      },
+      "artists": [
+        {
+          "name": "KAMILLE",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 224451,
+      "name": "Options (feat. Tamera & Bellah)",
+      "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7qMITT0TZOSk0zK27FKTOI"
+    },
+    {
+      "added_at": "2023-11-08 05:00:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/1cvSGyb6pfK5wyBrpQ0Moc"
+      },
+      "artists": [
+        {
+          "name": "Josie Beth",
+          "url": "https://open.spotify.com/artist/0tx30QHS1hiavYhtFV2PQE"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/1ed0Rw1gfRm52dWsGhJFpQ"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "too high",
+      "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "DOWN 2 EARTH",
+        "url": "https://open.spotify.com/album/5hex99Indqa3PADdOOFmDi"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 162111,
+      "name": "RAGGA",
+      "url": "https://open.spotify.com/track/2b12amwDh2479qd4d56HvG"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "voldemort",
+        "url": "https://open.spotify.com/album/3gFvSRrNAGtJqHaZ8Yt2xm"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "voldemort",
+      "url": "https://open.spotify.com/track/0DWvRCLSFFNFtN4VQnueiI"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "Love Me In Chapters II",
+        "url": "https://open.spotify.com/album/3pyo0VXySJeqCOM4N81Kvg"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219207,
+      "name": "Love Me In Chapters II",
+      "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Luv Like",
+        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 186025,
+      "name": "Luv Like",
+      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-03-01 09:10:17",
+      "album": {
+        "name": "happy im",
+        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "happy im",
+      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
+    },
+    {
+      "added_at": "2023-12-06 05:00:00",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/4Zwd5fCBJNaleuzzXK1eBS"
+      },
+      "artists": [
+        {
+          "name": "LO LA",
+          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/6iR9CU3z6Kwn1saPuJxIZj"
     },
     {
       "added_at": "2023-12-06 05:00:00",
@@ -163,94 +511,6 @@
     {
       "added_at": "2023-12-06 05:00:00",
       "album": {
-        "name": "Afil\u00e1",
-        "url": "https://open.spotify.com/album/779n8tWk8uWeG2J7rVtBAV"
-      },
-      "artists": [
-        {
-          "name": "Ali Stone",
-          "url": "https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Afil\u00e1",
-      "url": "https://open.spotify.com/track/1YFUfhcmtUYOcjXquV4mrj"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7wGBEZamABJVD15MDQG0hl"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Proud of Me",
-        "url": "https://open.spotify.com/album/7JtGRXcNMOInkJ5TCY3WDJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Westphal",
-          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
-        }
-      ],
-      "duration_ms": 175736,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2DdcR47HZPGwOxNQivLH1o"
-    },
-    {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Options (feat. Tamera & Bellah)",
-        "url": "https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB"
-      },
-      "artists": [
-        {
-          "name": "KAMILLE",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        },
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 224451,
-      "name": "Options (feat. Tamera & Bellah)",
-      "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Girl On Fire",
-        "url": "https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Brand New Me",
-      "url": "https://open.spotify.com/track/0827eActpDYORuhgvWB0oY"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
         "name": "HOW DARE YOU",
         "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
       },
@@ -263,46 +523,6 @@
       "duration_ms": 182490,
       "name": "HOW DARE YOU",
       "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "BICY",
-        "url": "https://open.spotify.com/album/06L3PH5oabZwBGSIeWHKJg"
-      },
-      "artists": [
-        {
-          "name": "DAMOYEE",
-          "url": "https://open.spotify.com/artist/2lYXh1nkiBVSAloZw2YQqD"
-        },
-        {
-          "name": "Annie Elise",
-          "url": "https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq"
-        }
-      ],
-      "duration_ms": 213203,
-      "name": "BICY",
-      "url": "https://open.spotify.com/track/0o9Thoq7pFATP9Ji6MBe3x"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1zfEafUuhzcLmhUB6mOZQS"
-      },
-      "artists": [
-        {
-          "name": "Dresage",
-          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
-        },
-        {
-          "name": "G.Smith",
-          "url": "https://open.spotify.com/artist/5tHkHru8vN2x9R9Y1Pmzvp"
-        }
-      ],
-      "duration_ms": 176695,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7pVlBShqrP6xK0MfJLsFgM"
     },
     {
       "added_at": "2023-12-06 05:00:00",
@@ -397,22 +617,6 @@
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
     },
     {
-      "added_at": "2023-11-08 05:00:00",
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
-    },
-    {
       "added_at": "2023-12-06 05:00:00",
       "album": {
         "name": "All On Me (Spotify Singles)",
@@ -451,74 +655,6 @@
     {
       "added_at": "2023-12-06 05:00:00",
       "album": {
-        "name": "The Globe Sessions",
-        "url": "https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 379426,
-      "name": "The Difficult Kind",
-      "url": "https://open.spotify.com/track/6d6cQa0KVsn3G3XnyXZg2o"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Love Me In Chapters II",
-        "url": "https://open.spotify.com/album/3pyo0VXySJeqCOM4N81Kvg"
-      },
-      "artists": [
-        {
-          "name": "Chrissi",
-          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "Love Me In Chapters II",
-      "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Please (My God)",
-        "url": "https://open.spotify.com/album/0jpkafr0YY7RGdK2h2io9f"
-      },
-      "artists": [
-        {
-          "name": "RAIGN",
-          "url": "https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4"
-        }
-      ],
-      "duration_ms": 230324,
-      "name": "Please (My God)",
-      "url": "https://open.spotify.com/track/69Y9xQO3Mzkp0yQa3pfvl5"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "It Hurts Too Much To Speak",
-        "url": "https://open.spotify.com/album/09a0hu6IvTewtfmlIbUs3m"
-      },
-      "artists": [
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 105445,
-      "name": "It Hurts Too Much To Speak",
-      "url": "https://open.spotify.com/track/1UlxaIu70eSC0AjpiCUDdw"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
         "name": "How Do You Know",
         "url": "https://open.spotify.com/album/1XoHk41Co8CNEcqO5oKbEu"
       },
@@ -535,82 +671,18 @@
     {
       "added_at": "2023-12-06 05:00:00",
       "album": {
-        "name": "My Eyes Don't See",
-        "url": "https://open.spotify.com/album/66vpvmQNJglmoheYRGviLN"
+        "name": "It Hurts Too Much To Speak",
+        "url": "https://open.spotify.com/album/09a0hu6IvTewtfmlIbUs3m"
       },
       "artists": [
         {
-          "name": "All Made Up",
-          "url": "https://open.spotify.com/artist/2MJMaQE2Iwnn3zzXRWeGnD"
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
         }
       ],
-      "duration_ms": 188066,
-      "name": "My Eyes Don't See",
-      "url": "https://open.spotify.com/track/2T8W2zTmoALwLBIHEBy1DZ"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "High and Low",
-        "url": "https://open.spotify.com/album/1JHL9C4ZLA6NsbhvECw8AL"
-      },
-      "artists": [
-        {
-          "name": "Anine Bing",
-          "url": "https://open.spotify.com/artist/6PPTVZAoUPxV5fSP0LwBfV"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "High and Low",
-      "url": "https://open.spotify.com/track/4t6fDA7HDsVjhnqVBch8LM"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Songs In The Key Of Internet",
-        "url": "https://open.spotify.com/album/5xHwBoACmq0b17EhEFHCeU"
-      },
-      "artists": [
-        {
-          "name": "Rachel K Collier",
-          "url": "https://open.spotify.com/artist/0hWL8sffP07PbVm5ilnf1o"
-        }
-      ],
-      "duration_ms": 172579,
-      "name": "Break Your Fate",
-      "url": "https://open.spotify.com/track/7iTXkS1ZpfYrsCAaToSn4q"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Wonder Woman",
-        "url": "https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "DOWN 2 EARTH",
-        "url": "https://open.spotify.com/album/5hex99Indqa3PADdOOFmDi"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "I WANT U",
-      "url": "https://open.spotify.com/track/1HOoBrjejodwLuc3yv1loA"
+      "duration_ms": 105445,
+      "name": "It Hurts Too Much To Speak",
+      "url": "https://open.spotify.com/track/1UlxaIu70eSC0AjpiCUDdw"
     }
   ],
   "unique_name": "Created by Women",

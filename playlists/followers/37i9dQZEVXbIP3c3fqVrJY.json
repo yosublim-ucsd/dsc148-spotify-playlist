@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 68628,
+  "2024-03-02": 68625,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
   "name": "Top 50 - Czech Republic",
@@ -6265,7 +6265,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 151578,
       "name": "DTB for Life",
       "url": "https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut"
@@ -24145,7 +24145,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"

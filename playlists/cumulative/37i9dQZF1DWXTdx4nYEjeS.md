@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-989 songs - 2 day 12 hr 15 min
+990 songs - 2 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-03-24 | 2023-03-04 |
 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 | 2022-04-08 | 2022-04-19 |
 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 | 2021-12-24 |  |
+| [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 | 2024-03-01 |  |
 | [Kiss Me](https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Kiss Me](https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2) | 2:43 | 2022-03-24 | 2022-04-12 |
 | [Km 0](https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Km 0](https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf) | 2:46 | 2023-06-09 | 2023-09-02 |
 | [Kurt Cobain](https://open.spotify.com/track/3xnoVm06HRKetBphMbd3uQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Kurt Cobain \- Single](https://open.spotify.com/album/2B1c1kqzGOARpObtLRc8jm) | 4:46 | 2022-03-28 | 2022-04-18 |
@@ -755,7 +756,7 @@
 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 | 2022-03-24 | 2022-04-21 |
 | [Quiero Verte Más \- Sunset Sessions](https://open.spotify.com/track/3BgeMyyQprvUSYU0AB9c84) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Quiero Verte Más \(Sunset Sessions\)](https://open.spotify.com/album/4bTfP6I3ZvLVX1Fhb1KMyn) | 4:17 | 2022-04-08 | 2022-04-29 |
 | [Quise](https://open.spotify.com/track/3aSpe9KArMXK1x75VcPTfG) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [No Pierdas la Simpleza](https://open.spotify.com/album/35hmee1Mf1kFMlNpAB125N) | 5:14 | 2022-03-28 | 2022-04-20 |
-| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-01 |  |
+| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-01 | 2024-03-02 |
 | [Qué Ironía](https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:48 | 2022-04-01 | 2022-04-08 |
 | [Qué Más Quieres de Mí](https://open.spotify.com/track/21GNomOYNYf3xoBflp5hlo) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Qué Más Quieres de Mí](https://open.spotify.com/album/50YHt1Y6bHYA3G5uqMaolp) | 5:10 | 2022-04-13 | 2022-04-20 |
 | [Qué Tal Si](https://open.spotify.com/track/1nymd0Q8wlYw8GO6qpFFzz) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Qué Tal Si](https://open.spotify.com/album/4XHpR6MehJc55fHzZ9jzre) | 3:50 | 2022-03-11 | 2022-07-25 |

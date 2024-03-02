@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-471 songs - 1 day 23 hr 2 min
+472 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [The Anthem](https://open.spotify.com/track/5s2p1jCPz5t8boDwhdX0Sc) | [Revolution](https://open.spotify.com/artist/3dhB8q5CO5NHEsMjthmxWK) | [Another Level](https://open.spotify.com/album/2XHDRw17vzanVoBwLl7siK) | 8:43 | 2023-08-16 | 2023-11-18 |
 | [The Balance](https://open.spotify.com/track/0ltqfzMQMK0eVmzPpl6pmt) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Love In Times Of Crisis](https://open.spotify.com/album/4NzOawtG9l1FIVb2RfzKou) | 4:05 | 2022-09-13 | 2022-12-15 |
 | [The Chosen One](https://open.spotify.com/track/6Sw7rlPGPnHCLO2Sl1cQs7) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 8:04 | 2023-05-03 |  |
+| [The Cure & The Cause \- Atmos Blaq Remix](https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [The Cure & The Cause \(Atmos Blaq Remix\)](https://open.spotify.com/album/1KCpufTAncrsZE9pPMGafl) | 4:10 | 2024-03-01 |  |
 | [The Harvest](https://open.spotify.com/track/3y7gWBoznU8eRzbHrhchEh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [The Harvest](https://open.spotify.com/album/30x1ju0QLEVKJYOdyryZ3g) | 2:35 | 2023-03-06 | 2023-06-20 |
 | [The Hi](https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Hi](https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs) | 7:36 | 2023-06-19 | 2023-10-13 |
 | [The Iris](https://open.spotify.com/track/0uOtptCO84OPQCzEQvkwNZ) | [Tekniq](https://open.spotify.com/artist/7l95bNnc7Bmtk7AAF6T6aD) | [Ridim](https://open.spotify.com/album/62ZqD37ORMKkpR7fDVc28M) | 7:06 | 2023-02-17 | 2023-03-25 |

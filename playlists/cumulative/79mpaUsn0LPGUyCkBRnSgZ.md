@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-588 songs - 1 day 14 hr 15 min
+592 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2024-01-12 | 2024-02-17 |
 | [100](https://open.spotify.com/track/6e6zTZH1PIyXRI6PTByfW6) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Gold Mouf \(Deluxe\)](https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00) | 3:50 | 2022-09-06 |  |
 | [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 | 2023-05-18 |  |
+| [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 | 2024-03-01 |  |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 | 2024-01-18 |
 | [2122](https://open.spotify.com/track/1VViOwNoUfimwsy3wlk7d8) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:52 | 2023-09-08 | 2024-01-22 |
@@ -65,6 +66,7 @@
 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 | 2024-02-15 |  |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |
+| [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 | 2024-03-01 |  |
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2023-08-17 |  |
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
@@ -165,6 +167,7 @@
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 | 2023-12-14 |
 | [Drone](https://open.spotify.com/track/3ZQpms23dgtgox86dd7eGV) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Time to Go Home](https://open.spotify.com/album/6qGYhu450Xc73YbNAVkM3U) | 4:33 | 2023-08-12 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |
+| [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-03-01 |  |
 | [Earth Worship Intro](https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 0:18 | 2024-01-03 |  |
 | [Earthquake](https://open.spotify.com/track/1X9468G9BtZSdjYGV3QBWm) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [My Heart Is An Open Field](https://open.spotify.com/album/6Ks507WDVnwn2p9VANI2No) | 4:14 | 2024-02-07 |  |
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 |  |
@@ -397,8 +400,9 @@
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |
 | [Ponta de Areia](https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Native Dancer](https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx) | 5:15 | 2024-01-09 |  |
-| [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 | 2024-02-26 |  |
+| [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 | 2024-02-26 | 2024-03-02 |
 | [Pre \(feat\. SK La' Flare\)](https://open.spotify.com/track/4B31QOL13iBeuIsaGD20BS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Sk La Flare](https://open.spotify.com/artist/5punRQvOjE5COQqm6JRLhx) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:52 | 2023-08-20 |  |
+| [Prelude To Ecstasy](https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:36 | 2024-03-01 |  |
 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 | 2023-05-08 |  |
 | [Pretty Hurts](https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 4:17 | 2022-09-17 | 2023-05-09 |
 | [Pretty Things](https://open.spotify.com/track/18AMwecxv5p3dIrLTbc3WE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:04 | 2022-02-19 |  |

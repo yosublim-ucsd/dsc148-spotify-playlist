@@ -184,7 +184,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169385,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
@@ -330,6 +330,28 @@
       "duration_ms": 283636,
       "name": "Anything",
       "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
+    },
+    {
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123241,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
     },
     {
       "album": {
@@ -550,7 +572,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221818,
       "name": "Barrington",
       "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
@@ -947,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Change (Remixes)",
+        "url": "https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Change - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH"
+    },
+    {
+      "album": {
         "name": "Check Yourself",
         "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
       },
@@ -966,6 +1010,28 @@
       "duration_ms": 207619,
       "name": "Check Yourself",
       "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+    },
+    {
+      "album": {
+        "name": "Gloom EP",
+        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285203,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
     },
     {
       "album": {
@@ -1254,7 +1320,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
@@ -4085,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "Silly",
+        "url": "https://open.spotify.com/album/0rxlHAZm41qpK7GgCirEy4"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        },
+        {
+          "name": "Dynamite MC",
+          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193077,
+      "name": "Silly",
+      "url": "https://open.spotify.com/track/1TbqxVUO2laIJoQ5fE6AZx"
+    },
+    {
+      "album": {
         "name": "Skanka (P Money Vocal Dub)",
         "url": "https://open.spotify.com/album/70GlGp3nB4wbZasLKDh707"
       },
@@ -4808,7 +4896,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 280656,
       "name": "Wavelord Bizniz",
       "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"

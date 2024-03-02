@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-108 songs - 6 hr 32 min
+109 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hasta Viejitos \(feat\. Carlos Vives\)](https://open.spotify.com/track/4bUrpXdPZIJMPUksA8ggDB) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Hasta Viejitos \(feat\. Carlos Vives\)](https://open.spotify.com/album/7x4fQ2jEy7sJhOyqHGi4TP) | 3:19 | 2022-05-17 |  |
 | [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 | 2024-02-09 |  |
 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 | 2022-05-17 |  |
+| [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 | 2024-03-01 |  |
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2022-05-17 |  |
 | [La Cartera](https://open.spotify.com/track/0JC81ojQymAE7l1KuJpNCq) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:20 | 2022-05-17 |  |
 | [La Mitad \- Reggaetón Remix](https://open.spotify.com/track/3kngR9LIfI4bW0b6pONy57) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lewis Picket](https://open.spotify.com/artist/4kgb3OUSqj61KLjxydJPLD) | [La Mitad \(The Remixes\)](https://open.spotify.com/album/7qyQoVHOiy1BnMopH0mpfm) | 3:32 | 2022-05-17 |  |
@@ -90,7 +91,7 @@
 | [Rompecabezas](https://open.spotify.com/track/1wtEo5LAk0Hm405a26DaND) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Rompecabezas](https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M) | 3:02 | 2022-09-02 | 2024-02-10 |
 | [Salvavidas](https://open.spotify.com/track/2ZXdTXVbAfNde0xbzAOkcr) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Salvavidas](https://open.spotify.com/album/7vhda7TSmOXiGlLtmVFS6c) | 2:57 | 2023-02-24 |  |
 | [Se Siente Bien](https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/3bTxKb6I54lCSPkP385Ko8) | 4:04 | 2022-05-17 | 2022-07-29 |
-| [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-01 |  |
+| [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-01 | 2024-03-02 |
 | [Se Siente Bien](https://open.spotify.com/track/5l4rxwXf90Af9WleuIcLDq) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/7ulOiaqdVMsoZ5zVUaNVMA) | 4:06 | 2022-09-06 | 2022-11-13 |
 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 | 2024-02-09 |  |
 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 | 2023-04-27 |  |

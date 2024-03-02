@@ -159,6 +159,28 @@
     },
     {
       "album": {
+        "name": "All Eyes Down",
+        "url": "https://open.spotify.com/album/1dQn4cFiJRHy9cMLNlnhpx"
+      },
+      "artists": [
+        {
+          "name": "M Soni",
+          "url": "https://open.spotify.com/artist/68BFsEEExE8N2YNjmYlP4X"
+        },
+        {
+          "name": "Jaggi",
+          "url": "https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "All Eyes Down",
+      "url": "https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG"
+    },
+    {
+      "album": {
         "name": "Asla",
         "url": "https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG"
       },
@@ -712,7 +734,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210767,
       "name": "Farraar",
       "url": "https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD"
@@ -1346,6 +1368,36 @@
     {
       "album": {
         "name": "Permit Badmashi Ka",
+        "url": "https://open.spotify.com/album/5iGqNO2rqsjGQYWlIhHA2F"
+      },
+      "artists": [
+        {
+          "name": "RK Crew",
+          "url": "https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw"
+        },
+        {
+          "name": "Harry Lather",
+          "url": "https://open.spotify.com/artist/7HMNlWHFbbJyWvICuRXNSt"
+        },
+        {
+          "name": "Mohit Sharma",
+          "url": "https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1"
+        },
+        {
+          "name": "Aashu Twinkle",
+          "url": "https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164854,
+      "name": "Permit Badmashi Ka",
+      "url": "https://open.spotify.com/track/4vfB7k5UOlEbpIXkGbHcmv"
+    },
+    {
+      "album": {
+        "name": "Permit Badmashi Ka",
         "url": "https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM"
       },
       "artists": [
@@ -1364,7 +1416,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164854,
       "name": "Permit Badmashi Ka",
       "url": "https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU"

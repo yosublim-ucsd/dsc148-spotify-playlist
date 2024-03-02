@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,146 songs - 2 day 12 hr 33 min
+1,148 songs - 2 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-08-05 | 2023-11-05 |
 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 | 2022-04-08 | 2023-04-11 |
 | [DIFFERENT NOW](https://open.spotify.com/track/1GBxgmzXXgXrJkRUjSDvKM) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DIFFERENT NOW](https://open.spotify.com/album/5CjjTliphX5WD59p3AQmAz) | 3:07 | 2021-12-10 | 2022-05-15 |
-| [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-02-09 |  |
+| [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-02-09 | 2024-03-02 |
 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 | 2022-03-25 | 2023-07-15 |
 | [Disconnected](https://open.spotify.com/track/1AEtTTwBiYHZ1dav7gz24Y) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Disconnected](https://open.spotify.com/album/3TvlXw45nTnW67F6w7m9Pk) | 3:40 | 2022-03-25 | 2022-04-20 |
 | [Discourse](https://open.spotify.com/track/3tbvNiWIyOS4rJmR8b1pCz) | [Weigh the Anchor](https://open.spotify.com/artist/2mjqT7Yg4BYLmbzJJn0xb8) | [Right at Home](https://open.spotify.com/album/6wyeuVZCBxgaBwoju4iRLw) | 3:29 | 2022-01-14 | 2022-04-14 |
@@ -570,6 +570,7 @@
 | [LAST BREATH](https://open.spotify.com/track/7Cs57jsBlXB0caJJf4uqP3) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [LAST BREATH](https://open.spotify.com/album/5d7HYXAIqT4XgJl9KlVOmj) | 2:12 | 2021-12-10 | 2022-05-14 |
 | [Last Resort \(Reloaded\)](https://open.spotify.com/track/52KlXDEkCkgZxuMjSqzY4L) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Last Resort \(Reloaded\)](https://open.spotify.com/album/3VXjXfZCtUllbqHKAYLSzC) | 2:17 | 2022-02-04 | 2022-12-03 |
 | [Lavender Bones](https://open.spotify.com/track/27wvnSTpsyS9k06aDtXvt8) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Lavender Bones](https://open.spotify.com/album/6CvGI6E8zQzbHLXPEsWnnt) | 3:24 | 2021-12-10 | 2022-05-20 |
+| [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-01 |  |
 | [Leave A Light On](https://open.spotify.com/track/3u2ivcqU7mN2JUMqyQfR1V) | [All Wrong](https://open.spotify.com/artist/7C1vk9cz8yDLZdwCQzYxHO) | [Leave A Light On](https://open.spotify.com/album/6Juv4i05iXyKSJoZ6l3NQJ) | 3:51 | 2022-03-25 | 2022-04-16 |
 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 | 2022-01-14 | 2022-06-12 |
 | [Leave It All Behind](https://open.spotify.com/track/3CLlEnggBg4pdxMWG1U9NC) | [The Mazlows](https://open.spotify.com/artist/60JpvikLUriWGrJ4J3Sie2) | [Community Locker](https://open.spotify.com/album/5D9yyznEqbgKD0PqOUzLQA) | 4:32 | 2022-02-04 | 2022-06-30 |
@@ -817,6 +818,7 @@
 | [Runaway](https://open.spotify.com/track/7qDdE2EzbaGpUuVxToG69w) | [CommonWealth](https://open.spotify.com/artist/1S0S2IdKlBl7gv9x8X7xpr) | [Everyone Around Me](https://open.spotify.com/album/11uPSFTfXi65EWMtjTNOEZ) | 3:51 | 2021-12-10 | 2022-06-26 |
 | [Rust](https://open.spotify.com/track/0Nbu0dyCkrACyYjvNBAQZ2) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Mind Games](https://open.spotify.com/album/3JxlzSM2oCtJtMYfEIB2Or) | 2:42 | 2022-02-04 | 2022-04-21 |
 | [SABOTAGE//](https://open.spotify.com/track/3EBOymKRlVlKuhwXaWffc7) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 3:20 | 2023-07-14 | 2023-09-16 |
+| [Safe Side](https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Connor Musarra](https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4) | [Origami](https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE) | 2:37 | 2024-03-01 |  |
 | [Salina](https://open.spotify.com/track/17tRu9Pm87oX05IYgffW0Y) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Problems](https://open.spotify.com/album/73ThcGjqsQuiNbzQuiEc70) | 4:38 | 2022-03-25 | 2022-04-10 |
 | [Santiago Peak](https://open.spotify.com/track/2o4nwQcaFOrGTIbaIEKN5G) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:12 | 2021-12-10 | 2022-07-11 |
 | [Saturday](https://open.spotify.com/track/3DVQRyBEhnRxz2bYqFNPEI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Saturday](https://open.spotify.com/album/1BE4Efd13DgJsncioqOCP6) | 2:52 | 2021-12-10 | 2022-06-06 |
@@ -1064,7 +1066,7 @@
 | [Very Long List](https://open.spotify.com/track/3WqxH9HTldfadCzTGuCWTN) | [Northbound](https://open.spotify.com/artist/0bV8hivDiFzeCTUT8DVPop) | [Soul Kiss](https://open.spotify.com/album/1Z3vrb7f6zNVjVXCrZxNn4) | 3:42 | 2021-12-10 | 2022-07-06 |
 | [Vicious](https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Vicious](https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7) | 3:27 | 2023-04-10 |  |
 | [Waiting](https://open.spotify.com/track/7G11FvN3T35moCj7yQsPnE) | [First Ghost](https://open.spotify.com/artist/0gUUgmY8PEP9rtNn4FgsUs) | [Waiting](https://open.spotify.com/album/5gJvj8ocIEqi5ZcamNnVNZ) | 3:36 | 2022-03-25 | 2022-04-15 |
-| [Waiting On Better Days](https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Waiting On Better Days](https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze) | 3:34 | 2024-01-19 |  |
+| [Waiting On Better Days](https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Waiting On Better Days](https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze) | 3:34 | 2024-01-19 | 2024-03-02 |
 | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/track/6tj1GKBc6xYLxD9OYbEHku) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Wake Me Up \(When This Nightmare's Over\)](https://open.spotify.com/album/49JE7HOO2lg2NfRuLaq1uG) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-07-08 |  |
 | [Wake Up](https://open.spotify.com/track/4lanb9IYNnwzlQd9XmTjju) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [Wake Up](https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv) | 2:54 | 2022-07-08 | 2023-10-28 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 7729,
+  "2024-03-02": 7791,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -841,7 +841,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158056,
       "name": "Fake Escobar",
       "url": "https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t"
@@ -2818,6 +2818,32 @@
     },
     {
       "album": {
+        "name": "Nee Indri Naan Illaye",
+        "url": "https://open.spotify.com/album/2kFZFtevfYDC7pD1XHQShI"
+      },
+      "artists": [
+        {
+          "name": "Kapa Chaitanya",
+          "url": "https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk"
+        },
+        {
+          "name": "Khanish",
+          "url": "https://open.spotify.com/artist/317cHV8GcMSuHY65ZHN8MQ"
+        },
+        {
+          "name": "Monika Chandrashekhar",
+          "url": "https://open.spotify.com/artist/7qXvj4OTDb9CX7WjyLiILt"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252439,
+      "name": "Nee Indri Naan Illaye",
+      "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
+    },
+    {
+      "album": {
         "name": "Needhane",
         "url": "https://open.spotify.com/album/1FjxA0FBd0aa5r2ra86QC8"
       },
@@ -4071,7 +4097,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194204,
       "name": "Thanga Magale",
       "url": "https://open.spotify.com/track/5dwCMKQcJodMO8rWFcuv7p"
@@ -4501,7 +4527,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217473,
       "name": "Unakae",
       "url": "https://open.spotify.com/track/7BWRT8MEZc1jlwuDHvpmnN"
@@ -5057,6 +5083,42 @@
       "duration_ms": 289083,
       "name": "Yendrum",
       "url": "https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ"
+    },
+    {
+      "album": {
+        "name": "Yenguren",
+        "url": "https://open.spotify.com/album/2s7daQQZ9wJl25M5WdOFx0"
+      },
+      "artists": [
+        {
+          "name": "Krishan J",
+          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Yenguren",
+      "url": "https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk"
+    },
+    {
+      "album": {
+        "name": "Yesuvae Neerae",
+        "url": "https://open.spotify.com/album/6U3MQEHiFtqZKz5U51FJNS"
+      },
+      "artists": [
+        {
+          "name": "Steve Benison",
+          "url": "https://open.spotify.com/artist/3sZyRyInSM5EuVoM77vutc"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326451,
+      "name": "Yesuvae Neerae",
+      "url": "https://open.spotify.com/track/7n8c4bgpiA76yUl1UEU2vw"
     },
     {
       "album": {

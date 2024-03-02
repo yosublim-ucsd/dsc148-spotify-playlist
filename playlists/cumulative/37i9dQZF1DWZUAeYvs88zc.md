@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-509 songs - 1 day 4 hr 40 min
+510 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 | 2022-03-25 |  |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-22 |  |
 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2024-01-26 |  |
+| [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 | 2024-03-01 |  |
 | [Believe](https://open.spotify.com/track/6MiNZJ178L6ypTnBt2G4BJ) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe \(Remixes\)](https://open.spotify.com/album/3oQ0sE7sd5xDkZlNDnZBEB) | 3:59 | 2019-07-27 | 2019-08-10 |
 | [bellyache](https://open.spotify.com/track/51NFxnQvaosfDDutk0tams) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bellyache](https://open.spotify.com/album/25FGyvj0UnD6YYWLq0s9nl) | 2:59 | 2019-05-26\* |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-03-25 | 2023-08-05 |
@@ -261,7 +262,7 @@
 | [liability \(demo\)](https://open.spotify.com/track/5fBrqaMoWuiqGlb95EZtKM) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/5WuvzhMzp0t6tuLvHxnVOo) | 2:53 | 2019-05-26\* | 2021-05-23 |
 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 | 2020-08-07 | 2022-12-29 |
 | [lie to me](https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [lie to me](https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO) | 2:57 | 2021-01-08 | 2021-10-27 |
-| [Life Is Tough \(But So Am I\)](https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Life Is Tough \(But So Am I\)](https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT) | 3:19 | 2024-01-28 |  |
+| [Life Is Tough \(But So Am I\)](https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Life Is Tough \(But So Am I\)](https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT) | 3:19 | 2024-01-28 | 2024-03-02 |
 | [Life's a Bitch \(L.A.B\)](https://open.spotify.com/track/72Stw9ZEi73pKIQsctIb9x) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Life's a Bitch \(L.A.B\)](https://open.spotify.com/album/67jN4EBiH9pMmRBnsllRw2) | 2:59 | 2021-09-25 | 2022-07-05 |
 | [Like I Remember You](https://open.spotify.com/track/6Ok1iGWO9wd5XFD3mA5lEv) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Like I Remember You](https://open.spotify.com/album/2pWvNz1MxzCDY139JLhDQm) | 3:07 | 2019-05-26\* | 2021-09-09 |
 | [Lit The Fire](https://open.spotify.com/track/1QC3Hy30xDloQAF8yVkPYR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/7fvhLoXyMHDrob2ceCfytA) | 2:50 | 2019-06-01 | 2021-05-28 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 
 > All of the Top Party Hits  on one playlist! Featuring, Lizzo, <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=BUaA00TfR56UlLKwdmVspQ"> Dua Lipa</a>, David Guetta,  Jack Harlow, Tiësto, Kenny Grace, Nathan Dawe, Bebe Rexha and many more!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,637 likes - 80 songs - 3 hr 53 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,635 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 2 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
-| 3 | [Disco Cone \(Take It High\)](https://open.spotify.com/track/0xUDBg6SMpLjCwqBlsYN8W) | [Wenzl McGowen](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Disco Cone \(Take It High\)](https://open.spotify.com/album/4uBZ2SBVqqEWxCgQhm6IVi) | 2:11 |
+| 3 | [Disco Cone \(Take It High\)](https://open.spotify.com/track/0xUDBg6SMpLjCwqBlsYN8W) | [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Disco Cone \(Take It High\)](https://open.spotify.com/album/4uBZ2SBVqqEWxCgQhm6IVi) | 2:11 |
 | 4 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 5 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
 | 6 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |

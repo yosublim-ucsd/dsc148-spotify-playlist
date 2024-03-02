@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-69 songs - 3 hr 22 min
+70 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Soulless Pluck](https://open.spotify.com/track/3yVaiFOWq4tdPcNfx2a9Tq) | [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW), [YU HUI HYEON](https://open.spotify.com/artist/5T2exIHUnJ2yoNqNVIs6IR) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 2:08 | 2023-09-07 |  |
 | [South Man](https://open.spotify.com/track/7mBiwQTea9sE66E858ptEC) | [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW), [Kim Tae Hwan](https://open.spotify.com/artist/7LDQGPw326wCxJsLBQSrXM) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 2:48 | 2023-09-07 |  |
 | [Staring At U](https://open.spotify.com/track/3SE9YZwRBFWobqqz6KQywn) | [Song jae kyung](https://open.spotify.com/artist/1fTZuhFgfK5MJaKoooM0qp) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 1:39 | 2023-09-07 |  |
+| [Starting Over](https://open.spotify.com/track/2HAB05mHjOAK2tRgewGryD) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's Playlist \#5](https://open.spotify.com/album/6JKO2elIIqJU5OQXvdI1HF) | 4:52 | 2023-09-07 |  |
 | [Steps For U](https://open.spotify.com/track/5MShRY5jg2qaeyfIBDzSRk) | [Song jae kyung](https://open.spotify.com/artist/1fTZuhFgfK5MJaKoooM0qp) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 2:22 | 2023-09-07 |  |
 | [Strange Encounter](https://open.spotify.com/track/29VFa9ze0hCkXqJIRD1WHs) | [Lee Nyeom](https://open.spotify.com/artist/1sICrpjblLnT3YlWUWpXBO) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 1:50 | 2023-09-07 |  |
 | [Trouble Check](https://open.spotify.com/track/54CmnMtINQfujZ8NU2UcP7) | [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW), [WOO JI HUN](https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 2:24 | 2023-09-07 |  |
@@ -74,7 +75,7 @@
 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 | 2023-07-31 |  |
 | [You Said It First](https://open.spotify.com/track/6ImqWUH45WyCjka3hcaZTk) | [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW), [YU HUI HYEON](https://open.spotify.com/artist/5T2exIHUnJ2yoNqNVIs6IR) | [Not Others \(Original Soundtrack\)](https://open.spotify.com/album/12cxiuVovMSmz999itEWLa) | 2:33 | 2023-09-07 |  |
 | [나를 돌아봐](https://open.spotify.com/track/3T92e7pbfXFmeOmuGRUneg) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deux](https://open.spotify.com/album/7t9nZIRd4j53LjRx8opcx3) | 3:45 | 2023-07-31 |  |
-| [덧칠](https://open.spotify.com/track/3ix0pg2CqztyynmigM72se) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's playlist \#5](https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk) | 4:52 | 2023-07-31 |  |
+| [덧칠](https://open.spotify.com/track/3ix0pg2CqztyynmigM72se) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's playlist \#5](https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk) | 4:52 | 2023-07-31 | 2024-03-02 |
 | [출국](https://open.spotify.com/track/2VSFXn3CvX3ZJXeJEkalHC) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [다중인격자](https://open.spotify.com/album/3AYmdPL0hv4zDfVj1uZ55t) | 4:34 | 2023-07-31 |  |
 | [흩어진 나날들](https://open.spotify.com/track/2RjN0mgjbH0F93YiVONFlM) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 4:22 | 2023-07-31 |  |
 

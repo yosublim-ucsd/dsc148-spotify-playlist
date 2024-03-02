@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> dora jar x ashnikko remix and sooo much moooore
+> faye webster's new album, and more gems this week
 
-2,634 songs - 5 day 21 hr 47 min
+2,639 songs - 5 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2023-11-08 |  |
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-08 | 2024-02-12 |
 | [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-08 | 2023-12-14 |
+| [if u want](https://open.spotify.com/track/569FvGfRTQHIU9N9PWJP4b) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:50 | 2024-03-01 |  |
 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 | 2020-03-03 | 2020-07-29 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-15 | 2023-06-24 |
 | [If You Were Mine](https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/7ceNaDNFy5LNlNrBkydo1C) | 3:38 | 2023-03-15 |  |
@@ -1626,6 +1627,7 @@
 | [Nosebleed Seats](https://open.spotify.com/track/3zREOGri6ic2vk6Dt2NJWk) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:41 | 2022-12-22 | 2023-01-21 |
 | [Nosebleeds](https://open.spotify.com/track/5VDrRxafQlpZy7Ew4HvVME) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Nosebleeds](https://open.spotify.com/album/1LHu52Xd1vR1xBQ5VOwtpy) | 3:35 | 2023-08-21 | 2023-08-26 |
 | [Nostalgia](https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Nostalgia](https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN) | 3:50 | 2021-02-19 | 2021-11-13 |
+| [Nostalgia](https://open.spotify.com/track/3mYrfAIQK0DgyYutDVEFGS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nostalgia](https://open.spotify.com/album/5SuaQiCSKcNR2qcbDZyJem) | 2:38 | 2024-03-01 |  |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-02-06 | 2021-11-13 |
 | [not cool anymore,](https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [not cool anymore,](https://open.spotify.com/album/59rErSG1epNkuycKrGf44A) | 3:25 | 2021-10-20 | 2021-12-02 |
 | [Not My Baby](https://open.spotify.com/track/2LWqh5RkKmWv7OunyEfC8Q) | [Amadelle](https://open.spotify.com/artist/60M8FJfBiqSIDUFNoJrlEG) | [Not My Baby](https://open.spotify.com/album/32uf1egI0WVNMOhzbhooK5) | 3:53 | 2020-04-22 | 2020-06-09 |
@@ -2059,7 +2061,7 @@
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-07-12 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-01-14 | 2022-05-24 |
 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-08-08 | 2022-09-24 |
-| [Soak](https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Soak](https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M) | 2:44 | 2024-02-16 |  |
+| [Soak](https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Soak](https://open.spotify.com/album/3i7NLcNSUEkwkngBelg73M) | 2:44 | 2024-02-16 | 2024-03-02 |
 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 | 2023-07-27 | 2023-11-18 |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2019-08-02 | 2020-05-14 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-06-12 | 2021-08-14 |
@@ -2276,6 +2278,7 @@
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-01-19 |
 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 | 2023-03-03 | 2023-04-15 |
 | [Team](https://open.spotify.com/track/15jRg8Ejs7X3JEHw38TSN3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 3:13 | 2021-06-11 | 2021-06-18 |
+| [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-03-01 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-25 | 2022-04-09 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2022-08-09 | 2022-08-19 |
 | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV) | 3:19 | 2021-10-26 | 2022-01-22 |
@@ -2354,6 +2357,7 @@
 | [This Town](https://open.spotify.com/track/4iDbH9ySrDlg7iBA0tq7Eq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:44 | 2021-02-12 | 2021-03-06 |
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-09-16 | 2022-10-26 |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-09 | 2022-10-12 |
+| [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-03-01 |  |
 | [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 | 2022-08-19 | 2022-10-29 |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 | 2022-10-11 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2023-01-27 | 2023-02-18 |
@@ -2430,6 +2434,7 @@
 | [UNBOUND](https://open.spotify.com/track/4MlEFAvTGtsJw6CGvePq8H) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [UNBOUND](https://open.spotify.com/album/1UbfTiiqAD8ZO39c6Zsenm) | 2:41 | 2020-10-16 | 2021-01-15 |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2022-06-21 | 2022-07-02 |
 | [Unconditional](https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unconditional](https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT) | 3:09 | 2022-09-22 | 2022-12-08 |
+| [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-01 |  |
 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-11-25 | 2022-12-24 |
 | [uninspired](https://open.spotify.com/track/6hPxfqdk3ObCVhePxEYYhF) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [uninspired](https://open.spotify.com/album/7DpcUxOvaiLBErRpfD14iZ) | 3:46 | 2022-04-01 | 2022-04-28 |
 | [unoriginal](https://open.spotify.com/track/3XDU9wngxRWmiCbBuHviPA) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [unoriginal](https://open.spotify.com/album/3ZImuYbhtnBbR1HUKnAG5P) | 3:23 | 2022-05-20 | 2022-06-16 |

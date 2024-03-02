@@ -6310,10 +6310,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 139826,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL"
+    },
+    {
+      "album": {
+        "name": "YELLOW CHEDDAR",
+        "url": "https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/1R1ithziTyKJ1qWjmQdRWM"
     },
     {
       "album": {

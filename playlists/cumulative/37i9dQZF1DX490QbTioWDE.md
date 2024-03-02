@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Emanero, La K'onga & David Bisbal.
 
-401 songs - 1 day 1 hr 32 min
+402 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Casi Que Me Pierdo](https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Casi Que Me Pierdo](https://open.spotify.com/album/5IQ4cyCs8yk8NSQfZ9VYao) | 2:25 | 2023-05-12 | 2023-06-22 |
 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 | 2021-12-24 | 2024-02-03 |
 | [Celosa](https://open.spotify.com/track/7vISoRZFPNYpKvsGzKCiSW) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Celosa](https://open.spotify.com/album/37g6jsBoe2sCnSiEnfc3Rg) | 4:09 | 2022-01-21 | 2022-05-12 |
-| [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 | 2022-01-21 |  |
+| [Chachachá](https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Chachachá](https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e) | 3:52 | 2022-01-21 | 2024-03-02 |
 | [CHANGA CHANGA](https://open.spotify.com/track/1PXGxJyHj8mGqnoOOh3Qy6) | [Nolberto Al k la](https://open.spotify.com/artist/0y2UIyqXN4KctxsMLgSMhm), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [CHANGA CHANGA](https://open.spotify.com/album/4WzDDha7t7nCAOuhVrCCOo) | 2:52 | 2023-01-27 | 2023-03-02 |
 | [Ciencia Ficción](https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Ciencia Ficción](https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x) | 3:34 | 2023-06-21 | 2023-09-16 |
 | [Clavadito en Mi Piel](https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Clavadito en Mi Piel](https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ) | 3:42 | 2022-07-22 | 2023-01-02 |
@@ -192,6 +192,7 @@
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
 | [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 | 2023-04-28 |
+| [Maldición / No te compares con ella \- 14 años en vivo](https://open.spotify.com/track/2xvZUElPGpm9tUpF1sa4vr) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Maldición / No te compares con ella \(14 años en vivo\)](https://open.spotify.com/album/7z1BlrOGJpQVttEmoCR90u) | 5:14 | 2024-03-01 |  |
 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 |  |
 | [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 | 2024-02-01 |
 | [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 | 2023-04-24 |  |

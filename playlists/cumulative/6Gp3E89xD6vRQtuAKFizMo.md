@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-276 songs - 13 hr 25 min
+278 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Esa Fui Yo](https://open.spotify.com/track/0x50zDF6SsQqas9BzzfL49) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Esa Fui Yo](https://open.spotify.com/album/4kRO16rJRxAFkSv4WN1bWE) | 2:06 | 2023-03-31 |  |
 | [Eternity](https://open.spotify.com/track/51AFIyM6JX77LM8wT4uxxi) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Saint Miller](https://open.spotify.com/artist/6wHv49MiC1mnnfQGQ490hr) | [Eternity](https://open.spotify.com/album/3NdO59chWqQb2P1RtKSJ9I) | 2:20 | 2023-08-09 | 2023-12-14 |
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
+| [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4) | 3:03 | 2024-03-01 |  |
 | [Fade Into Your Light](https://open.spotify.com/track/4yS497HRlZTs3LJeDF6gLR) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Fade Into Your Light](https://open.spotify.com/album/6ZkgfIAclhPJOAwYOT05D2) | 2:33 | 2023-05-12 |  |
 | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/track/1Dv11RV1ipS7R4VDgsYSX0) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT) | 3:36 | 2023-08-09 |  |
 | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/track/6Hy4gmcrhzcMlnWMBU877r) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/album/2VKwfsPMEOTceeAk8Orp0o) | 2:44 | 2023-11-22 |  |
@@ -94,6 +95,7 @@
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 | 2022-10-29 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 | 2022-12-03 |
 | [Get Lower](https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Lower](https://open.spotify.com/album/6L3OPsn0P4F6PNUDFGxDVV) | 3:11 | 2024-02-09 |  |
+| [Getting Started](https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Getting Started](https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN) | 1:58 | 2024-03-01 |  |
 | [Girls N Boys](https://open.spotify.com/track/3pQK1vMfnQnMRCtO7X6VfW) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Girls N Boys](https://open.spotify.com/album/5YxAwFb13Rum21MPS3ErYY) | 2:20 | 2023-11-22 |  |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-11-22 |  |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 |  |

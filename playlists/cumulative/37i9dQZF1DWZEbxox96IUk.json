@@ -820,6 +820,24 @@
     {
       "album": {
         "name": "Poses",
+        "url": "https://open.spotify.com/album/4f9Ar34xlOejFn3Qx6W0in"
+      },
+      "artists": [
+        {
+          "name": "Alain Chamfort",
+          "url": "https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403613,
+      "name": "Manureva",
+      "url": "https://open.spotify.com/track/3ZbA8v0v4TiZlS6zUs8uvO"
+    },
+    {
+      "album": {
+        "name": "Poses",
         "url": "https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx"
       },
       "artists": [
@@ -830,7 +848,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 403613,
       "name": "Manureva",
       "url": "https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY"

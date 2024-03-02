@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-02-29",
-  "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
+  "description": "M\u00fasica <a href=\"spotify:genre:edm_dance\">dance</a> suave.",
   "name": "Chill Tracks",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 157812,
       "name": "All Night Long - Y.V.E. 48 Remix",
       "url": "https://open.spotify.com/track/1QOVSkrcX34pDPPxa1Xv5y"
@@ -2011,6 +2011,32 @@
     },
     {
       "album": {
+        "name": "Atlantis / Drift",
+        "url": "https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213782,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW"
+    },
+    {
+      "album": {
         "name": "Atlas (Remixes)",
         "url": "https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc"
       },
@@ -2302,7 +2328,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 277523,
       "name": "Back to You (Amtrac Remix)",
       "url": "https://open.spotify.com/track/2gzWtnslb715DPDTlJ5NSi"
@@ -2768,7 +2794,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 255778,
       "name": "Believer - Marsh's Guatape Remix",
       "url": "https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N"
@@ -3250,7 +3276,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA"
@@ -3450,7 +3476,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
@@ -4084,7 +4110,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
@@ -4236,7 +4262,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 249533,
       "name": "Catching Eyes",
       "url": "https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq"
@@ -6214,7 +6240,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 235859,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE"
@@ -11930,7 +11956,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
@@ -13379,6 +13405,28 @@
     },
     {
       "album": {
+        "name": "Endless, Dawn",
+        "url": "https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292254,
+      "name": "I'll Be Here",
+      "url": "https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi"
+    },
+    {
+      "album": {
         "name": "Reviver",
         "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
       },
@@ -14522,7 +14570,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 372000,
       "name": "Just",
       "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
@@ -14634,7 +14682,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174344,
       "name": "Just Over",
       "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
@@ -16504,7 +16552,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 194730,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
@@ -16530,7 +16578,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
@@ -16702,6 +16750,32 @@
       "duration_ms": 222813,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a"
+    },
+    {
+      "album": {
+        "name": "Lost In The Melody",
+        "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182444,
+      "name": "Lost In The Melody",
+      "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
     },
     {
       "album": {
@@ -16914,7 +16988,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183876,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
@@ -19718,7 +19792,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 411147,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
@@ -22416,7 +22490,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 288387,
       "name": "Rave",
       "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
@@ -23968,7 +24042,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 153532,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
@@ -23986,7 +24060,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
@@ -25552,7 +25626,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
@@ -28224,7 +28298,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
@@ -30562,7 +30636,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 206612,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP"

@@ -1,13 +1,53 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 442730,
+  "num_followers": 442803,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjAwYjgwNGJkNWJmZjAwY2NhNmIxNjRlMzg4MjEwMDMxM2NlZTM2",
+  "snapshot_id": "MCxmODNhZTYzN2Y4NWNiYWJlN2ZkZjQwMTQ2ODdkZmMzMTlhNTdlMWVi",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU"
+      },
+      "artists": [
+        {
+          "name": "Pointy Features",
+          "url": "https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
+        "url": "https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
+      "url": "https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df"
+    },
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
@@ -75,30 +115,6 @@
       "duration_ms": 209769,
       "name": "Fast",
       "url": "https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
-        "url": "https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
-      "url": "https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df"
     },
     {
       "added_at": "2024-02-09 05:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 309936,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Behind the Wheel",
-        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
-      },
-      "artists": [
-        {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
-        }
-      ],
-      "duration_ms": 186402,
-      "name": "Lethal Love",
-      "url": "https://open.spotify.com/track/4sRtw94MxDLjdnqAzvrNuL"
     },
     {
       "added_at": "2023-10-06 04:00:00",

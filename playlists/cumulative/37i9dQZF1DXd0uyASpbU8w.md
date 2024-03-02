@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Miley Cyrus</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=yfLgwajCQv6oRJ6vNfOFTQ">Pharrell Williams</a>
 
-2,278 songs - 6 day 11 hr 17 min
+2,279 songs - 6 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,6 +1132,7 @@
 | [Like That](https://open.spotify.com/track/3ZvmjTXrQudJi3JPDHpUdR) | [Moyoza](https://open.spotify.com/artist/3zgGyPGv8x75epEqghdIfl) | [READY, SET...](https://open.spotify.com/album/3QhXqIHBydXwmlpYhqaxGx) | 2:37 | 2023-09-22 | 2023-09-29 |
 | [Like That \- Amapiano Mix](https://open.spotify.com/track/27WixP80Rhha2YkgAZZmKq) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Like That \(Amapiano Mix\)](https://open.spotify.com/album/2HZI1OHzxgCrnjg6ZcaF2k) | 3:19 | 2023-10-06 | 2023-10-13 |
 | [LIKE THIS](https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [LIKE THIS](https://open.spotify.com/album/19ZbPQ20CWfBWsBnr80VGj) | 4:07 | 2024-01-25 | 2024-02-02 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 |  |
 | [Lilizela](https://open.spotify.com/track/4rBTh8euIrO4ZyyOL7GCXl) | [StoryTeller SA](https://open.spotify.com/artist/5VbSm4js6vw0FuoWe5bidS), [SlamTwice S.A](https://open.spotify.com/artist/4ekLRp9IUyxUN0Dgvi5lYu) | [Lilizela](https://open.spotify.com/album/6N5a8Gd5Y8OEAur5FrLsRh) | 2:38 | 2023-05-25 | 2023-06-02 |
 | [Limbi](https://open.spotify.com/track/7HHkBkLksh86Qsqd8l4jYU) | [Bareno](https://open.spotify.com/artist/3HUwuKnvmz95LRPoxRFDwc), [Lakwister](https://open.spotify.com/artist/78lvkgk61m0EfRgMs1Flw6), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Limbi](https://open.spotify.com/album/0EEJ50O6o73ouAPT2pbRTW) | 3:57 | 2024-01-18 | 2024-01-26 |
 | [Limpopo](https://open.spotify.com/track/18DMJE7Lh2vTo1M0zBI674) | [Limpopo Boy](https://open.spotify.com/artist/1Bs7kMPLA2ock2YUT4s6Vf), [Mkoma Saan](https://open.spotify.com/artist/6YXIqgdPcfeDcxxY1WxNdM) | [Limpopo EP](https://open.spotify.com/album/56227SwDV3UJXYU1fygPLH) | 4:15 | 2023-10-12 | 2023-10-24 |

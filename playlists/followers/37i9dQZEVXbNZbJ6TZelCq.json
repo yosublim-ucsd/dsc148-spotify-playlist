@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 32606,
+  "2024-03-02": 32610,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -4133,7 +4133,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 151099,
       "name": "Burj Khalifa",
       "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
@@ -8300,6 +8300,24 @@
     },
     {
       "album": {
+        "name": "ee aa / Burj Khalifa",
+        "url": "https://open.spotify.com/album/1NrHCvw9MAN3yHzjFYh5Hb"
+      },
+      "artists": [
+        {
+          "name": "Lil Tayer",
+          "url": "https://open.spotify.com/artist/0qmkLAiLuUOsIiGGuVowpG"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151161,
+      "name": "ee aa / Burj Khalifa",
+      "url": "https://open.spotify.com/track/4scDayWClxqaooCBj7eZE1"
+    },
+    {
+      "album": {
         "name": "El Dios Del Trap",
         "url": "https://open.spotify.com/album/3YaKO8Onav9mtrTUQE0tjX"
       },
@@ -8373,6 +8391,24 @@
       "duration_ms": 353253,
       "name": "Enchanted (Taylor's Version)",
       "url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -14265,7 +14301,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 145617,
       "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
@@ -21023,7 +21059,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
@@ -23259,7 +23295,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
@@ -26393,7 +26429,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 159230,
       "name": "Te vreau",
       "url": "https://open.spotify.com/track/4QC1HJMSSgTEOolSYyHrwq"
@@ -27507,7 +27543,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 144800,
       "name": "Totul meu",
       "url": "https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp"

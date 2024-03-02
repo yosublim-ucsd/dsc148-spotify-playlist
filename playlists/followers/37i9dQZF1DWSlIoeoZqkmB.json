@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 813,
+  "2024-03-02": 867,
   "date_first_scraped": "2024-02-02",
   "description": "2024\u5e745\u670811\u65e5(\u571f)\uff0612\u65e5(\u65e5)K\u30a2\u30ea\u30fc\u30ca\u6a2a\u6d5c\u306b\u3066\u958b\u50ac\u3055\u308c\u308b\u300c<a href=\"https://kingsuperlive.jp/\">KING SUPER LIVE2024</a>\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u4e88\u7fd2\u7de8\uff01",
   "name": "KING SUPER LIVE 2024",
@@ -183,6 +183,114 @@
       "duration_ms": 227653,
       "name": "It's My Soul",
       "url": "https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 \u5185\u7530\u96c4\u99ac \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/2lujVBAPrXGvEcWMuO0XTj"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u96c4\u99ac",
+          "url": "https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136437,
+      "name": "KING SUPER LIVE 2024 \u5185\u7530\u96c4\u99ac \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/5RiEthKXC2PiuKlVqA2J6H"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 \u5bae\u91ce\u771f\u5b88 \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/27HnxxkZoRj1AQwTND4xpO"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u91ce\u771f\u5b88",
+          "url": "https://open.spotify.com/artist/2wmWOyjETOwI0iVIZSjiJQ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "KING SUPER LIVE 2024 \u5bae\u91ce\u771f\u5b88 \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/1UCDJxviA6BmBsuwq7Nfql"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 \u690e\u540d\u3078\u304d\u308b \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/4GjS3cAS3uLRc0ntgd7pbr"
+      },
+      "artists": [
+        {
+          "name": "\u690e\u540d\u3078\u304d\u308b",
+          "url": "https://open.spotify.com/artist/4qHRI8wwzwWuOvHis883tu"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64680,
+      "name": "KING SUPER LIVE 2024 \u690e\u540d\u3078\u304d\u308b \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/27Pgr7PULdZDIDce9f2bN1"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 \u6c34\u6a39\u5948\u3005 \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/1Hv5sUsrDkWBZkHpqYuRQF"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u6a39\u5948\u3005",
+          "url": "https://open.spotify.com/artist/6g73Ki1WjJXYbMxnNrUHt5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "KING SUPER LIVE 2024 \u6c34\u6a39\u5948\u3005 \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/5L6sNGIPvGE9gChpeBgOJw"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 \u6c34\u702c\u3044\u306e\u308a \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/1EEwKcHGedXOZHj9c5e6PA"
+      },
+      "artists": [
+        {
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83159,
+      "name": "KING SUPER LIVE 2024 \u6c34\u702c\u3044\u306e\u308a \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/0ydwg6K6qb1mICXhxpXeMt"
+    },
+    {
+      "album": {
+        "name": "KING SUPER LIVE 2024 angela \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/7geFAPsYkqnjk2pG5FGFmf"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100125,
+      "name": "KING SUPER LIVE 2024angela \u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/6j1qJBS60V8T11By9cYNQo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: ScHoolboy Q \)
 
-1,863 songs - 3 day 22 hr 20 min
+1,864 songs - 3 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [Lights saw](https://open.spotify.com/track/5uzR6vC4HD4WYhoEXl2O90) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [TEAM2MVCH](https://open.spotify.com/artist/4uT1lXYK6BODZs8UmLyMBn) | [LOST IN THE DREAM](https://open.spotify.com/album/2kqAzEm2gc3M1IgXBCucEs) | 2:57 | 2022-10-25 | 2022-12-09 |
 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9) | 4:50 | 2023-02-23 | 2023-04-07 |
 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 | 2023-07-28 | 2023-09-08 |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-02-29 |  |
 | [Lil Mama \(feat\. Boi B\)](https://open.spotify.com/track/60xlQCOQIHrj5ET5uIooJC) | [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx), [J.cob](https://open.spotify.com/artist/0ElmlBhw88a1jOhfU2hrd2), [보이비](https://open.spotify.com/artist/1ZyODLbzFaAzRMMix9Gdcb) | [Liquor loves J.cob](https://open.spotify.com/album/4llmn5zm2cQDSw9KX8dmmy) | 3:09 | 2022-03-18 | 2022-04-08 |
 | [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 | 2024-01-26 |  |
 | [LION](https://open.spotify.com/track/1apSVqNYcqLp7q7mqfpyuv) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [LION](https://open.spotify.com/album/0bpAgQSadkh9F7Biymw5Ik) | 3:06 | 2023-09-07 | 2023-10-23 |

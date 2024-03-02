@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
-  "num_followers": 216860,
+  "num_followers": 216894,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2M2Y2U4ZTY0Mzc5MGRjMzQ4MzNkZTFhYmY1MTMxMjJhOTUwZWQ5",
+  "snapshot_id": "MCxkNWY1MGI1ZDc2OGU2OTU1MGMzMmVhNTRjZmVkMTk2YzU3ZDE5Mzc4",
   "tracks": [
+    {
+      "added_at": "2024-03-01 15:28:11",
+      "album": {
+        "name": "sunfalls (am + pm)",
+        "url": "https://open.spotify.com/album/0JImpPCrD21mUTA3uXcKsH"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 216870,
+      "name": "sunfalls pm",
+      "url": "https://open.spotify.com/track/0u4pHpK3WcNR8hBft7FSpM"
+    },
     {
       "added_at": "2024-02-16 20:53:32",
       "album": {

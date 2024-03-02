@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 34948,
+  "num_followers": 34976,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGFkNjdlNDAwNjc0MGFjZGQwNmUyMTU0ZjRhZDYxMjVjZTI4ZDVi",
+  "snapshot_id": "MCxmMjA5ODg5ZDY5YTlhZjI5ZTU4NDMwMmNmN2NjZDk5MmY0MjdlYWFl",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Think (feat. Jay Park)",
         "url": "https://open.spotify.com/album/26kUYOFHxASZTDjvse7xmz"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/79NQUQKBKrCUlBGdpGszhq"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 235720,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/4w7P5OaLfcinkb0RTMNxqh"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -911,22 +911,38 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
-        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
+        "name": "School Rapper4 - Team Battle:Group",
+        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
       },
       "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Lil Bemo",
+          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
+        },
         {
           "name": "YLN Foreign",
           "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
         },
         {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
+        },
+        {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 188106,
-      "name": "DNA (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
+      "duration_ms": 241906,
+      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -979,38 +995,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 - Team Battle:Group",
-        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
+        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
+        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
       },
       "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Lil Bemo",
-          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
-        },
         {
           "name": "YLN Foreign",
           "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
         },
         {
-          "name": "PLUMA",
-          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
-        },
-        {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 241906,
-      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
+      "duration_ms": 188106,
+      "name": "DNA (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
     },
     {
       "added_at": "2023-11-27 14:05:19",

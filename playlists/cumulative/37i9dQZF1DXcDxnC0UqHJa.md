@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-274 songs - 17 hr 32 min
+275 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 | 2023-05-13 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-13 | 2022-07-29 |
-| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 |  |
+| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 | 2024-03-02 |
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
 | [Go Your Own Way](https://open.spotify.com/track/3mxxAmuF5mRj3y6hoOaWnE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered Up With Flowers](https://open.spotify.com/album/7tWPIz3f0HUGmzZlCDxqLh) | 3:34 | 2022-01-21 | 2022-06-25 |
 | [God Only Knows](https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [God Only Knows](https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0) | 3:14 | 2021-12-13 | 2022-07-29 |
@@ -125,6 +125,7 @@
 | [Hey Me, Hey Mama](https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Hey Me, Hey Mama](https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC) | 3:30 | 2022-01-21 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-13 | 2023-12-09 |
 | [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-11-17 |  |
+| [Higher Love](https://open.spotify.com/track/0jVHjo644RBj0zWWRIR7Fu) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/4nQ38LqHw2CLMPysxTtfeK) | 3:34 | 2024-02-02 |  |
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-03 | 2024-03-01 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2022-01-21 | 2022-07-22 |
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-12-13 |  |

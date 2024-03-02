@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-475 songs - 1 day 0 hr 40 min
+477 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [5EVER](https://open.spotify.com/track/7wnnnbsAcvA4cpR9Bs9U3k) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [5EVER](https://open.spotify.com/album/6BJ9pXWmezQlJP1KuNDm2n) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [90 percent](https://open.spotify.com/track/3sBwYK7ShSdnBS6EECgs5F) | [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [90 percent](https://open.spotify.com/album/5XQ1765TIYIa0slsGcR8re) | 3:53 | 2021-12-16 | 2023-01-13 |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2023-04-03 | 2023-09-29 |
+| [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [Ain't Mine](https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:32 | 2023-09-14 | 2023-11-10 |
 | [All About You](https://open.spotify.com/track/4aqRAulpuMv4np1LloQwYJ) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/5IL9eNIJTmCKB02gUUdLOY) | 3:10 | 2022-01-27 | 2022-10-13 |
 | [All About You](https://open.spotify.com/track/6Kbaa3G0goXxwIyIi0q5ic) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/6DVHEzXIRURCUoRwwYPlC8) | 3:10 | 2022-07-22 | 2023-01-13 |
@@ -41,7 +42,7 @@
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp) | 2:49 | 2021-12-16 | 2023-02-17 |
 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 | 2023-11-09 |  |
 | [Bad](https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Bad](https://open.spotify.com/album/6sjhG7TWY4MgtwReg1zAMN) | 3:08 | 2021-12-16 | 2022-06-10 |
-| [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 | 2023-11-09 |  |
+| [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 | 2023-11-09 | 2024-03-02 |
 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-09-14 | 2024-03-01 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2023-01-12 | 2023-09-15 |
 | [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 | 2023-11-09 |  |
@@ -132,7 +133,7 @@
 | [Feelin'](https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [majestic exclusives](https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn) | 2:32 | 2023-12-28 |  |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2023-09-28 |  |
 | [feelings 4 u](https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W) | [Colette Lush](https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX) | [feelings 4 u](https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe) | 2:24 | 2023-08-31 | 2023-10-13 |
-| [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 | 2023-11-16 |  |
+| [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 | 2023-11-16 | 2024-03-02 |
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 |  |
@@ -149,6 +150,7 @@
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-01-18 | 2023-09-01 |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-03-02 | 2023-11-10 |
 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 | 2023-10-13 |
+| [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 |  |
 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 | 2023-06-01 | 2023-09-22 |
 | [Gameboy Color](https://open.spotify.com/track/0arsX94THobgECcVUCOq31) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/6OGauTBfMUpc4gbAro8c3r) | 2:34 | 2023-01-12 | 2023-02-15 |
 | [Gameboy Color](https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U) | 2:34 | 2023-03-22 | 2023-09-22 |

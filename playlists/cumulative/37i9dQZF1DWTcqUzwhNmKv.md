@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Bad Omens & Poppy on top of today's best Metal playlist.
+> Knocked Loose on top of today's best Metal playlist.
 
-607 songs - 1 day 16 hr 38 min
+608 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-11-11 | 2023-03-25 |
 | [Coma Blue \- Remastered 2022](https://open.spotify.com/track/1WLWMfnnFiXYLujTlkMiou) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Coma Blue](https://open.spotify.com/album/5HvnKYQwxfXTfvoWr8Ya8c) | 3:21 | 2021-12-20 | 2022-01-07 |
 | [Conduit](https://open.spotify.com/track/4sphH7zZfGeDGiVUzTh4Kf) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Gnosis](https://open.spotify.com/album/70f88hTacrgbDXCB8PkQhy) | 4:30 | 2022-09-02 | 2022-11-19 |
+| [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 | 2024-03-01 |  |
 | [Congelia](https://open.spotify.com/track/5O2hzv6to8rtqMLNhjYmSW) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Heimdal](https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG) | 8:01 | 2023-03-03 | 2023-04-01 |
 | [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-20 | 2022-02-25 |
 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-23 |  |
@@ -559,7 +560,7 @@
 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 | 2024-01-26 |  |
 | [Vengeance](https://open.spotify.com/track/087mtS3g2C2oL1V1hSmOvB) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Vengeance](https://open.spotify.com/album/1hPFFfkRIrIIaTqiHzD6OF) | 3:50 | 2022-12-02 | 2023-03-04 |
 | [Views From Halfway Down](https://open.spotify.com/track/6K2VQLJfexhkn3teQeAwkd) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Views From Halfway Down](https://open.spotify.com/album/5Ws6SfeRSLUZWlW3tPAOtM) | 3:48 | 2021-12-20 | 2022-04-01 |
-| [VIKING](https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [VIKING](https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG) | 4:31 | 2023-11-17 |  |
+| [VIKING](https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [VIKING](https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG) | 4:31 | 2023-11-17 | 2024-03-02 |
 | [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 | 2022-08-05 | 2022-09-24 |
 | [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-06-06 | 2023-02-04 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-09-02 | 2023-05-20 |

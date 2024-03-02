@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-133 songs - 10 hr 2 min
+134 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 | 2022-01-14 |  |
 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 | 2022-01-14 |  |
 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 | 2022-01-14 |  |
-| [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 | 2022-01-14 |  |
+| [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 | 2022-01-14 | 2024-03-02 |
 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 | 2022-01-14 |  |
 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 | 2022-01-14 | 2023-10-13 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-01-14 |  |
@@ -72,6 +72,7 @@
 | [Just To Hear You Say](https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/4E8mL0pF0wa8wqQrShYVXQ) | 3:32 | 2022-01-14 | 2022-07-29 |
 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 | 2022-01-14 | 2022-11-14 |
 | [Just To Hear You Say](https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 3:33 | 2022-01-14 |  |
+| [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 | 2024-03-01 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2022-01-14 |  |
 | [List](https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [List \(Hosini Remix\)](https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4) | 4:23 | 2022-01-14 | 2022-11-26 |
 | [Lofthaus](https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Lofthaus](https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE) | 3:07 | 2024-02-02 |  |

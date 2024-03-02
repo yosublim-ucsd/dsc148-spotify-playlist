@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 23771,
+  "num_followers": 23797,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZkODMwMTA4Nzg5MmE3ZWZhNThmZjZjODY1MmVhY2IyZTM0ZTY5",
+  "snapshot_id": "MCw4N2M5YmQ0OWQ2ZGU1ZWNhYjQxMzMzYmUxOTMxNzUwNDRmODI1MWNk",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:01",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
+        "name": "Presenting Bud Shank",
+        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bill Perkins",
+          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 289735,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
-        "name": "Presenting Bud Shank",
-        "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bill Perkins",
-          "url": "https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
     },
     {
       "added_at": "2024-02-22 09:44:01",

@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197733,
       "name": "<3 beat",
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162640,
       "name": "A City\u2019s Never",
       "url": "https://open.spotify.com/track/73KU886Nys7jzLIc9CZ1f8"
@@ -710,6 +710,32 @@
       "duration_ms": 217272,
       "name": "Begin Again - Single Edit",
       "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
       "album": {
@@ -1782,7 +1808,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 285714,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
@@ -1966,7 +1992,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 252959,
       "name": "Electric Fish",
       "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
@@ -2356,6 +2382,24 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "album": {
+        "name": "Feelin' Blue",
+        "url": "https://open.spotify.com/album/42YB9hnNk9XZL5tZaJhRBD"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Feelin' Blue",
+      "url": "https://open.spotify.com/track/2UnGmYcXHH2utQ0OmLDB3d"
     },
     {
       "album": {
@@ -4023,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "Let Love Surround You",
+        "url": "https://open.spotify.com/album/2UgIk5RETm4f25Gl0VYCWt"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212461,
+      "name": "Let Love Surround You",
+      "url": "https://open.spotify.com/track/1SWNEzRsXtpbdwCtP8zGbW"
+    },
+    {
+      "album": {
         "name": "Light That Shines Through",
         "url": "https://open.spotify.com/album/5Yy56M831VMgPdbHAB8rRF"
       },
@@ -5546,7 +5612,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212252,
       "name": "One On One",
       "url": "https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g"
@@ -5839,6 +5905,28 @@
     },
     {
       "album": {
+        "name": "PHASES EP",
+        "url": "https://open.spotify.com/album/3igN5jB1bX1EydOxd6z5a0"
+      },
+      "artists": [
+        {
+          "name": "Luc de la Croixx",
+          "url": "https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59"
+        },
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Phase Me",
+      "url": "https://open.spotify.com/track/44VCj3l5eMXOnGYL7InBBt"
+    },
+    {
+      "album": {
         "name": "Grooves Of The World",
         "url": "https://open.spotify.com/album/6jda6rG402uYNM5DBzTLYv"
       },
@@ -5948,7 +6036,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL"
@@ -6308,7 +6396,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 223587,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
@@ -6970,7 +7058,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"

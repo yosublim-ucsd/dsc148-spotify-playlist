@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-766 songs - 1 day 8 hr 14 min
+767 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 | 2022-05-27 |  |
 | [Change](https://open.spotify.com/track/3DQDj5YHQBk806DxCLomWr) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Change](https://open.spotify.com/album/42wrtM8yQSiWJads72P1bJ) | 2:16 | 2023-01-20 | 2023-03-16 |
 | [Changes](https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Changes](https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy) | 1:55 | 2022-05-27 | 2022-08-10 |
+| [Chanson Pour Un Amour Perdu](https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Chanson Pour Un Amour Perdu](https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn) | 2:03 | 2024-02-27 |  |
 | [Church Bells Are Ringing](https://open.spotify.com/track/5w9BwOSa9ZI8vY9vS4nrjy) | [Kevin Lloyd](https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx) | [Church Bells Are Ringing](https://open.spotify.com/album/1oq1wr5j8XVMly9cNna4rk) | 3:03 | 2023-03-20 | 2023-05-11 |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-05-27 |  |
 | [circles](https://open.spotify.com/track/30WIxR8cPe7BFoMiaZs5SA) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx), [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [circles](https://open.spotify.com/album/0Q4SxYz6XkJpgWt7LLtGY9) | 2:03 | 2023-04-25 |  |
@@ -393,7 +394,7 @@
 | [Lys De La Paix](https://open.spotify.com/track/0BEc6joSWDSRiNRWX2CPN5) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Lys De La Paix](https://open.spotify.com/album/1LBUWlf1AXoFY9nqVMTp45) | 2:54 | 2022-05-27 | 2022-09-24 |
 | [Lysglimt](https://open.spotify.com/track/7xHJzY8wxtwT7YVV8k0QDb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lysglimt](https://open.spotify.com/album/7lhd03qjm0Osk4WOIUVPIi) | 2:06 | 2023-10-23 |  |
 | [Ma igatsen sind](https://open.spotify.com/track/3tZcp9CA8rJTTHLWhPI2MQ) | [Jelena Sepp](https://open.spotify.com/artist/5HzGoVBpzJaPxpRbhBC6FC) | [Ma igatsen sind](https://open.spotify.com/album/6pbSRvQJbhPSoCrgWtSQaC) | 2:15 | 2022-05-27 | 2023-02-14 |
-| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2022-05-27 |  |
+| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2022-05-27 | 2024-03-02 |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-05-27 |  |
 | [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2022-05-27 |  |
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2022-05-27 | 2023-03-28 |

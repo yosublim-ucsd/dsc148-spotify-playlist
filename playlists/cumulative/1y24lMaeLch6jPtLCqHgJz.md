@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-297 songs - 15 hr 15 min
+299 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Here With You](https://open.spotify.com/track/312ScazNcrS408yUVIGrPC) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [Here With You](https://open.spotify.com/album/3KToxcWG2LFewyjNFLVfNb) | 3:56 | 2022-07-29 | 2022-12-03 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-06-02 |  |
 | [Hey Brother](https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw) | 4:15 | 2023-11-21 |  |
+| [High On You \(feat\. Melissa de Kleine\)](https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Melissa de Kleine](https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA) | [High On You \(feat\. Melissa de Kleine\)](https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG) | 3:09 | 2024-03-01 |  |
 | [HIPPIE](https://open.spotify.com/track/5kWP4e5fWzq3zw3jg4JAcn) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [HIPPIE](https://open.spotify.com/album/1cZclJqvgqZySpnuLOjpeQ) | 2:28 | 2024-02-22 |  |
 | [Hold Me First](https://open.spotify.com/track/6WnKly0LC1r7lwbcqGI2tv) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Hold Me First \(feat\. NEIMY\)](https://open.spotify.com/album/70eyTtM2zF52tdcNv3yBOQ) | 3:32 | 2023-08-07 | 2023-09-16 |
 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 | 2023-04-21 | 2023-08-11 |
@@ -300,6 +301,7 @@
 | [Wish We Never Met](https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wish We Never Met](https://open.spotify.com/album/1mTsJvaFqaiCn8oMUZ62mW) | 2:43 | 2022-07-29 | 2023-09-09 |
 | [Without You \(feat\. Sandro Cavazza\)](https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2023-12-08 |  |
 | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/album/1WzD4wAhcuqIFBMZSDVoH9) | 3:21 | 2023-08-04 | 2023-09-02 |
+| [Won´t Let Go \- Festival Mix](https://open.spotify.com/track/4lqqB48xuVR3MXRM3PjUor) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg) | [Won’t Let Go \(Festival Mix\)](https://open.spotify.com/album/0Lk4f8V7oT0f8ZEgOG4W6S) | 2:43 | 2024-03-01 |  |
 | [You're Still Home](https://open.spotify.com/track/1ihSGolsCvQ85xIlUWINoP) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [You're Still Home](https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e) | 2:42 | 2022-12-01 | 2023-08-11 |
 | [You're Still Home \- Blackcode Remode](https://open.spotify.com/track/2bHcXgMCCTxXVHteDvQCF6) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [You're Still Home](https://open.spotify.com/album/2d4kzj2WTwsHiTyLddvh5e) | 2:26 | 2022-12-01 |  |
 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 | 2022-07-29 | 2022-08-27 |

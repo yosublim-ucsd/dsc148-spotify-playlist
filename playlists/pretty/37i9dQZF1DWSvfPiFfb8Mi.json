@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 551598,
+  "num_followers": 551724,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjhmZTRiYjFjZTRhYTUxZGE1ZDJiNWUyM2RmN2I3MTY5YWE4NmVl",
+  "snapshot_id": "MCwxODBjMzc3ZGMwOGM4ODIwOGMzMDE3MjcxYjExMTI3MTgwMDI2MzA1",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "She's On My Mind",
-      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "We Love Dogs!",
         "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 209970,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Ordinary Love (Folamour Remix)",
-        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "Ordinary Love - Folamour Remix",
-      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Seventies",
         "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Disco Maniac",
         "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 144545,
       "name": "Disco Maniac",
       "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Weekend Love",
         "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
+      },
+      "artists": [
+        {
+          "name": "Final Djs",
+          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "In This Life (Cassara Remix)",
         "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Never Let It Go",
-        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
-      },
-      "artists": [
-        {
-          "name": "Final Djs",
-          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Never Let It Go",
-      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+        "name": "Post Tenebras Lux",
+        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
       },
       "artists": [
         {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+      "duration_ms": 232389,
+      "name": "Post Tenebras Lux",
+      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1751,18 +1747,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Post Tenebras Lux",
-        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
         }
       ],
-      "duration_ms": 232389,
-      "name": "Post Tenebras Lux",
-      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1871,6 +1847,30 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1899,18 +1899,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "Love If You Need It (feat. Fi McCluskey)",
+        "url": "https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+        },
+        {
+          "name": "Fi McCluskey",
+          "url": "https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 204823,
+      "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
+      "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
     }
   ],
   "unique_name": "Poolside Disco",

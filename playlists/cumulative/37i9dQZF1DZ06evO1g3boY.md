@@ -4,7 +4,7 @@
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 44 min
+60 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 | 2024-02-06 |  |
 | [A Ordem Natural das Coisas \(feat\. Mc Tha\)](https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:55 | 2023-09-18 |  |
 | [A Ordem Natural das Coisas / Chiclete com Banana \- Ao Vivo](https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:40 | 2023-09-18 |  |
+| [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 | 2024-03-01 |  |
 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 | 2024-01-06 |  |
 | [Alma Gêmea \- Ao Vivo](https://open.spotify.com/track/148Qd4GVoZ3b4yLji6s7s3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 2:32 | 2023-09-18 | 2024-01-07 |
 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\)](https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 5:20 | 2023-09-18 |  |

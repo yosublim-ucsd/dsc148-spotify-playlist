@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23157,
+  "num_followers": 23156,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTIwMTU1NjUwN2RlZWFlOTQyYzUxZWQzZTIzZTUwOTU3M2ZlNzAw",
+  "snapshot_id": "MCwwNDUwNWZmOTJmMjAzMGU5ODdiNDAxMjg5MGQ1NTMxZjY5ZjBkOTBk",
   "tracks": [
     {
       "added_at": "2024-02-01 11:11:53",
@@ -283,6 +283,22 @@
       "duration_ms": 161589,
       "name": "KROORI",
       "url": "https://open.spotify.com/track/7z7xUrc1zGPdGXbM67kQX2"
+    },
+    {
+      "added_at": "2024-03-01 12:08:24",
+      "album": {
+        "name": "YENO AGIDHE-2",
+        "url": "https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 168455,
+      "name": "YENO AGIDHE-2",
+      "url": "https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N"
     },
     {
       "added_at": "2024-02-14 12:05:36",
@@ -1395,22 +1411,6 @@
       "duration_ms": 70640,
       "name": "Chikkavanu",
       "url": "https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0"
-    },
-    {
-      "added_at": "2023-06-29 11:31:15",
-      "album": {
-        "name": "FLYHIGH - Kannada",
-        "url": "https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        }
-      ],
-      "duration_ms": 235114,
-      "name": "FLYHIGH",
-      "url": "https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9"
     },
     {
       "added_at": "2024-02-19 05:32:58",

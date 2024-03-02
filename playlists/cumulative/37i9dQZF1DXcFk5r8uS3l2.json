@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186402,
       "name": "Lethal Love",
       "url": "https://open.spotify.com/track/4sRtw94MxDLjdnqAzvrNuL"
@@ -5962,6 +5962,24 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU"
+      },
+      "artists": [
+        {
+          "name": "Pointy Features",
+          "url": "https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw\"> Black Sherif</a>",
-  "num_followers": 146801,
+  "num_followers": 146941,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODRhODg3ZTE2Y2M4MGMyNTQxMmEyZTY5MzVjZThmMDVmNjM5MmY4",
+  "snapshot_id": "MCw3ZjM2MGJkNTczYmI2OWE2NjMzYjRlOWZmN2MwMTY3MTdmZTZkYTdi",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
-        }
-      ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "added_at": "2024-03-01 00:01:00",

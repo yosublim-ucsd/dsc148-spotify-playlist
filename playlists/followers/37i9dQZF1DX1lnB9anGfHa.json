@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 216119,
+  "2024-03-02": 216175,
   "date_first_scraped": "2022-03-28",
   "description": "A journey into the unknown, dark, and experimental.",
   "name": "Terra Incognita",
@@ -241,7 +241,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 394293,
       "name": "An Interior of Strange Beauty",
       "url": "https://open.spotify.com/track/6dbkobz26W6ipF4krITVAu"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 249748,
       "name": "Field of Flowers",
       "url": "https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p"
@@ -1662,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "album": {
         "name": "Ice Blink Lost",
         "url": "https://open.spotify.com/album/7yyh2OKCdRBb92fvISuKxC"
       },
@@ -1855,6 +1873,24 @@
     {
       "album": {
         "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "album": {
+        "name": "Ki moun ou ye",
         "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
       },
       "artists": [
@@ -1865,7 +1901,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
@@ -4019,6 +4055,24 @@
       "duration_ms": 526066,
       "name": "V",
       "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
+    },
+    {
+      "album": {
+        "name": "Vajranala",
+        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
+      },
+      "artists": [
+        {
+          "name": "Senyawa",
+          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522000,
+      "name": "Vajranala",
+      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
     },
     {
       "album": {

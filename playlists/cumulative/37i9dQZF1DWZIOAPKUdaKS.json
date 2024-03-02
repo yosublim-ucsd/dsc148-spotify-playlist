@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Soft piano to help you focus, work or study.",
+  "description": "Soft piano to help you focus, work or study. ",
   "name": "Focus Piano",
   "tracks": [
     {
@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Why Talk",
+        "url": "https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156625,
+      "name": "How Things Blend",
+      "url": "https://open.spotify.com/track/6M8NtnCiA9hxB1g9QscR0D"
+    },
+    {
+      "album": {
         "name": "How Things Blend",
         "url": "https://open.spotify.com/album/1p5HCYFqWBB4VqkCpf9raI"
       },
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD"

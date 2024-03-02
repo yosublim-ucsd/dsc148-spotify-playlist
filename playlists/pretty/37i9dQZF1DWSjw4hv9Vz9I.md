@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,940 likes - 120 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,990 likes - 120 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 10 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 |
 | 11 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
 | 12 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 |
-| 13 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
-| 14 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
+| 13 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
+| 14 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 15 | [How Deep Is Your Love](https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:17 |
 | 16 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 |
 | 17 | [State Line](https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip](https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS) | 2:52 |
@@ -96,24 +96,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 86 | [If It Ain't Broke](https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Sonny Cleveland](https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe) | 3:27 |
 | 87 | [I Need You](https://open.spotify.com/track/71xdcSZMYmrBzw0RVnvJEF) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [I Need You](https://open.spotify.com/album/3RDFHeCLGf0U6AsFJ4HigI) | 3:24 |
 | 88 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
-| 89 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
-| 90 | [Feeling Alive](https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 3:11 |
+| 89 | [Feeling Alive](https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 3:11 |
+| 90 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 91 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
 | 92 | [Woman \(Single Edit\)](https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8) | 3:02 |
 | 93 | [Heaven To Me](https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7) | [Theo Lawrence and The Hearts](https://open.spotify.com/artist/6bo2HtqA2nv4hdO20GZsei) | [Homemade Lemonade](https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm) | 3:46 |
-| 94 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
-| 95 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 |
+| 94 | [The Last Dance](https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb) | 3:24 |
+| 95 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
 | 96 | [Happy Days](https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:52 |
-| 97 | [The Last Dance](https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb) | 3:24 |
+| 97 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 |
 | 98 | [Written All over My Heart](https://open.spotify.com/track/7BYaW4xBFqsReDyV3KUfDU) | [Paul Caldwell](https://open.spotify.com/artist/14mcXN2C0EoRrt96ddtL4L) | [Written All over My Heart](https://open.spotify.com/album/5h7705xYVr69s40Mva8SFF) | 3:12 |
 | 99 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 |
 | 100 | [Tell Me You Want Me](https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14) | [J + the Bishops](https://open.spotify.com/artist/3X03z6e5Be1XeWxSMwCfFI) | [Tell Me You Want Me](https://open.spotify.com/album/1aatsTnusZbPtOW3LLMQ1I) | 3:36 |
 | 101 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 |
 | 102 | [I Don’t Wanna Wait](https://open.spotify.com/track/5GS1ESaSAh0SgOYvmHwhY3) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [The Tales People Tell](https://open.spotify.com/album/7AaCZdFr1ZSJyC9LUlHpRW) | 3:31 |
 | 103 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 |
-| 104 | [Blue](https://open.spotify.com/track/65sa0neBH78VDdpcnze68p) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Blue](https://open.spotify.com/album/6K8Xupp1HuUFp3qNSJfTNE) | 3:37 |
-| 105 | [More](https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Sammy Johnson](https://open.spotify.com/artist/1j2SzxQ79JgqOizEp3eqhY) | [More](https://open.spotify.com/album/28RthxTMjXJ4YdtCcmIs6u) | 3:15 |
-| 106 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 |
+| 104 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 |
+| 105 | [Blue](https://open.spotify.com/track/65sa0neBH78VDdpcnze68p) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Blue](https://open.spotify.com/album/6K8Xupp1HuUFp3qNSJfTNE) | 3:37 |
+| 106 | [More](https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Sammy Johnson](https://open.spotify.com/artist/1j2SzxQ79JgqOizEp3eqhY) | [More](https://open.spotify.com/album/28RthxTMjXJ4YdtCcmIs6u) | 3:15 |
 | 107 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
 | 108 | [Sugar](https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K) | [Sister Sparrow](https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL) | [The Weather Below](https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE) | 3:02 |
 | 109 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 119 | [Feel The Need](https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:48 |
 | 120 | [How Did I Get Here?](https://open.spotify.com/track/0RKQnH9IsHGraKtomDG980) | [LaRose Jackson](https://open.spotify.com/artist/0Bcp6BnrbGucLguN2G5ERK) | [How Did I Get Here?](https://open.spotify.com/album/4ZxulZ8Ns2KHeFbX6sQ6Dz) | 2:38 |
 
-Snapshot ID: `MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4`
+Snapshot ID: `MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw`

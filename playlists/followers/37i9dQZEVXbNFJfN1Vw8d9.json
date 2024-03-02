@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1624420,
+  "2024-03-02": 1624551,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Spain.",
   "name": "Top 50 - Spain",
@@ -5579,7 +5579,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 129845,
       "name": "El Mambo",
       "url": "https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH"
@@ -14097,6 +14097,32 @@
       "duration_ms": 216490,
       "name": "Perra",
       "url": "https://open.spotify.com/track/5Q27cpHUDQPttnB0xH7oBh"
+    },
+    {
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "PERREO LENTO",
+      "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 32389,
+  "2024-03-02": 32395,
   "date_first_scraped": "2023-12-14",
   "description": "Shake up your day at the office with this mix. Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_OfficeMusic_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
   "name": "Office Music (New & Old Hits!)",
@@ -1102,6 +1102,28 @@
     },
     {
       "album": {
+        "name": "Hypersensible (Deluxe)",
+        "url": "https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189292,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/6KHoaTf6LIYwJyCBWozjci"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -1579,7 +1601,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 210939,
       "name": "N\u2019oublie Pas (Ft. Koriass)",
       "url": "https://open.spotify.com/track/4JWcNs4BNjjGJqSArbbe2P"

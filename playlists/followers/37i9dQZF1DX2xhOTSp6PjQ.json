@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 68261,
+  "2024-03-02": 68510,
   "date_first_scraped": "2021-12-28",
   "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3?si=Phty0laJRtuz8V8VCRbxvg\">Mzukulu</a>",
   "name": "Bhinca Nation",
@@ -2363,6 +2363,28 @@
       "duration_ms": 347853,
       "name": "Nqola Yompilo",
       "url": "https://open.spotify.com/track/4EjSqywjAT6wszkZxXnPyj"
+    },
+    {
+      "album": {
+        "name": "Zulu Romance",
+        "url": "https://open.spotify.com/album/5SjM0inqx4BSEQ7HP6CFYO"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Ntombo",
+      "url": "https://open.spotify.com/track/5ELqcRmOE9PtoPlVIgAW4I"
     },
     {
       "album": {

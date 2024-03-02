@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 109057,
+  "num_followers": 109094,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWYwMDA2ZTM2MWM5MDg1M2YwMjJlNDQ4YzBkZTlhY2VjN2I5NWU5",
+  "snapshot_id": "MCw2ZmNjYzQwNGE0NmYyOTNiMzMwNjkyYTQ0NWIzOGY3YjQyNTJkY2I1",
   "tracks": [
     {
       "added_at": "2024-02-01 19:36:52",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
         }
       ],
-      "duration_ms": 311605,
-      "name": "De la Guitarra - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+      "duration_ms": 311605,
+      "name": "De la Guitarra - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Botella (En Vivo)",
-        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 277875,
-      "name": "Botella - En Vivo",
-      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "En Directo (En Vivo)",
         "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
+        "name": "Botella (En Vivo)",
+        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 277875,
+      "name": "Botella - En Vivo",
+      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
         "name": "En Vivo Obras",
         "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Solito Vas (En Vivo Movistar Arena)",
-        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 234571,
-      "name": "Solito Vas - En Vivo Movistar Arena",
-      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 369590,
       "name": "Antes y Despu\u00e9s",
       "url": "https://open.spotify.com/track/51udgXvhgt7foEEU26KDzg"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Solito Vas (En Vivo Movistar Arena)",
+        "url": "https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 234571,
+      "name": "Solito Vas - En Vivo Movistar Arena",
+      "url": "https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
-        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 244222,
-      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
-      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 288560,
       "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
+        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 244222,
+      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
+      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Vivo Ac\u00e1",
-        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 321253,
-      "name": "Vida de Topos - En Vivo",
-      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 383040,
       "name": "Espejismo - En Vivo",
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Vivo Ac\u00e1",
+        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 321253,
+      "name": "Vida de Topos - En Vivo",
+      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
         "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
         "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "22/12/18 Flores (En Vivo)",
         "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "En el Bald\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 159653,
       "name": "De No Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 253968,
+      "name": "En el Bald\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
-        "name": "Bailando en el infierno (En Vivo)",
-        "url": "https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 315250,
-      "name": "Bailando en el infierno - En Vivo",
-      "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
         "name": "Sortilegio de Arrabal (En Vivo)",
         "url": "https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 244071,
       "name": "Envuelto en Llamas - En Vivo",
       "url": "https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
+        "name": "Bailando en el infierno (En Vivo)",
+        "url": "https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 315250,
+      "name": "Bailando en el infierno - En Vivo",
+      "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
     },
     {
       "added_at": "2024-02-01 19:36:52",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-02-01 19:36:52",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-02-01 19:36:52",
+      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
-    },
-    {
-      "added_at": "2024-02-01 19:36:52",
-      "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2024-02-01 19:36:52",

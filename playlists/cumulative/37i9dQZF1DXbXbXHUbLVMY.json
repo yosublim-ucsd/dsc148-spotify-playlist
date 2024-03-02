@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Come Up",
+        "url": "https://open.spotify.com/album/5gF7ulkH0pjCqJlTnF2kAE"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115925,
+      "name": "Come Up",
+      "url": "https://open.spotify.com/track/5YPVk5H7KIIKFo2Qf24cqG"
+    },
+    {
+      "album": {
         "name": "Cuando Menos Lo Espera",
         "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"

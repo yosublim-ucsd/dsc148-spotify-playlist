@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 469757,
+  "2024-03-02": 470055,
   "date_first_scraped": "2022-05-26",
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
   "name": "The Wind Down",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 699397,
       "name": "All Armed",
       "url": "https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 219259,
       "name": "Autumn Star",
       "url": "https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 432941,
       "name": "Birds",
       "url": "https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk"
@@ -576,6 +576,32 @@
     },
     {
       "album": {
+        "name": "D.O.T.S (FloFilz Remix)",
+        "url": "https://open.spotify.com/album/4sZMPJhB9tLBkoqD9rTBZU"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        },
+        {
+          "name": "Aquiles Navarro",
+          "url": "https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148118,
+      "name": "D.O.T.S - FloFilz Remix",
+      "url": "https://open.spotify.com/track/3l2CBCiEeD7kUqaGYkd6T7"
+    },
+    {
+      "album": {
         "name": "Dark Dune",
         "url": "https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I"
       },
@@ -833,7 +859,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 291362,
       "name": "Eff Five",
       "url": "https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF"
@@ -907,6 +933,28 @@
       "duration_ms": 209552,
       "name": "Everything (feat. Carmody)",
       "url": "https://open.spotify.com/track/57YDcLOmB4sezbSAupAQuh"
+    },
+    {
+      "album": {
+        "name": "Feather",
+        "url": "https://open.spotify.com/album/4wpiQyWAeTMivcNHAEYXCg"
+      },
+      "artists": [
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        },
+        {
+          "name": "Thousand Giants",
+          "url": "https://open.spotify.com/artist/4DE6KGYc9WvDoDy3F8trt9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/08STAp6b8XFXxAVGhYQ5Oj"
     },
     {
       "album": {
@@ -1036,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Float With Me",
+        "url": "https://open.spotify.com/album/73m9CcAsNr5QsXJWNsr5CF"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180230,
+      "name": "Float With Me - Reprise",
+      "url": "https://open.spotify.com/track/6UayH2bTwHthvCuoYrxFZN"
+    },
+    {
+      "album": {
         "name": "fog",
         "url": "https://open.spotify.com/album/5C0q6Q6fVYL8WGu1oUsXfO"
       },
@@ -1159,6 +1225,24 @@
       "duration_ms": 222840,
       "name": "Grown Into You",
       "url": "https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy"
+    },
+    {
+      "album": {
+        "name": "haloes",
+        "url": "https://open.spotify.com/album/3ToJV3r9dqHtwYPLlsoCMf"
+      },
+      "artists": [
+        {
+          "name": "f\u00f8rget.",
+          "url": "https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "haloes",
+      "url": "https://open.spotify.com/track/54zbMMBTlxVurjPEWe4hUs"
     },
     {
       "album": {
@@ -1402,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/5WyNgwQ9DQ1GPPGquKmj5F"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153487,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb"
+    },
+    {
+      "album": {
         "name": "Community",
         "url": "https://open.spotify.com/album/32iiO1YRbttPWvfqPBE6ck"
       },
@@ -1547,7 +1649,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
@@ -1662,6 +1764,46 @@
     },
     {
       "album": {
+        "name": "One Last Stand",
+        "url": "https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "One Last Stand",
+      "url": "https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA"
+    },
+    {
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231152,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W"
+    },
+    {
+      "album": {
         "name": "Opals",
         "url": "https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x"
       },
@@ -1721,6 +1863,46 @@
       "duration_ms": 188750,
       "name": "Orange",
       "url": "https://open.spotify.com/track/1mjAU4Q0GTX0vD2HhbKV50"
+    },
+    {
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562061,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
+    },
+    {
+      "album": {
+        "name": "past reality",
+        "url": "https://open.spotify.com/album/6fP98Qf3uKjiuhKIFOh8ZY"
+      },
+      "artists": [
+        {
+          "name": "a vow",
+          "url": "https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100285,
+      "name": "past reality",
+      "url": "https://open.spotify.com/track/3RViAza4cOPuDOYPjrHSxn"
     },
     {
       "album": {
@@ -1989,7 +2171,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"
@@ -2131,7 +2313,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
@@ -2365,7 +2547,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141750,
       "name": "Triangular Blue Marina",
       "url": "https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs"
@@ -2405,7 +2587,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 91000,
       "name": "Unladder",
       "url": "https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC"

@@ -4,7 +4,7 @@
 
 > layan je
 
-104 songs - 6 hr 48 min
+105 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2024-01-18 |  |
 | [Dursila \- From "Malang Si Puteri"](https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Dursila \(From "Malang Si Puteri"\)](https://open.spotify.com/album/3Epscc9nKLxHYfzZnXnSL3) | 4:06 | 2024-02-22 | 2024-03-01 |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-01-25 | 2024-02-02 |
+| [Hancur Lebih Dulu](https://open.spotify.com/track/4nAoRD9mWgB5QvzKz27oqP) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Hancur Lebih Dulu](https://open.spotify.com/album/6QGFq4nA7VJV2DRiyxBi7l) | 4:32 | 2024-02-29 |  |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2024-01-18 |  |
 | [Ingkar Janji](https://open.spotify.com/track/599gm6M2EdYeGpV4TVpjin) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Ingkar Janji](https://open.spotify.com/album/5uq9r6KWHVzTcrOUCkjxGq) | 3:17 | 2024-02-29 |  |
 | [IZIN](https://open.spotify.com/track/3pG7xwdLfLDdiv5Qesk9zu) | [Adam Lee](https://open.spotify.com/artist/18jxRall36B7ZemvyxwVXe) | [IZIN](https://open.spotify.com/album/2PheDpf5nA2O5oxUrIPNYC) | 3:25 | 2024-01-18 | 2024-01-26 |

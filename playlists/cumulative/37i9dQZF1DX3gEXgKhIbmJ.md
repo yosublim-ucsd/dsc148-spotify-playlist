@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-137 songs - 5 hr 30 min
+139 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Romance de Novela](https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:08 | 2023-10-13 |  |
 | [RUSH](https://open.spotify.com/track/6pcVh06f60yGr6PRI2ar34) | [Youngui](https://open.spotify.com/artist/4cYPESnLDYxvl3eqb6OPCT), [Marabá Prod](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [RUSH](https://open.spotify.com/album/446Qzs6uDKjZ9eHauRmKly) | 1:53 | 2023-12-01 |  |
 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 | 2023-09-15 |  |
+| [Se tu me ama tatua o meu nome](https://open.spotify.com/track/42rvxn262DHdKqWJQOLIr8) | [D$ Luqi](https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt) | [Como alugar um triplex na cabeça dela](https://open.spotify.com/album/5KsT0MJfD14i0Hcjidwj8a) | 1:48 | 2024-03-01 |  |
 | [Sem Leme](https://open.spotify.com/track/5x6ZT8ZG8TMIEAz4yDlihw) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Felipe Vaz](https://open.spotify.com/artist/5vbNumMx06TDEoT2vHZVob), [CRIS.](https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99), [Buzu](https://open.spotify.com/artist/2njD5Z8sdFcJxFqbPJdYcF) | [Sem Leme](https://open.spotify.com/album/1UM4kOtKoTWwSoNpnvM2yQ) | 3:15 | 2023-09-22 | 2023-10-07 |
 | [Sem Medo](https://open.spotify.com/track/0e0CZnMjOgUPm0u8y2dkIH) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:19 | 2024-01-12 |  |
 | [Sempre Fumando](https://open.spotify.com/track/2C3oUgLzA1pIIMdhoDvPKx) | [SJCGANG](https://open.spotify.com/artist/1QiydI5RXDKHunVl9bA0di), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv), [Young Bard](https://open.spotify.com/artist/4TmYqVjCRpQPUj2Iv4Tosx) | [Sempre Fumando](https://open.spotify.com/album/7KuOhwLTELoBXFB59PXvXZ) | 2:21 | 2024-01-05 | 2024-01-27 |
@@ -139,6 +140,7 @@
 | [Vamo Viver](https://open.spotify.com/track/2GPcWcddfyRsr7PMPHa4Rt) | [Latin Lov3r](https://open.spotify.com/artist/2czZDiuuthWUiW7pdGi1Q4), [808 High](https://open.spotify.com/artist/3s93PMvWRdHj9vifRMd5Ga) | [Vamo Viver](https://open.spotify.com/album/7h120cIKoSIauw2Zo2tlXt) | 2:22 | 2024-01-12 | 2024-02-03 |
 | [Vem Jogar O Popo Pra Mim](https://open.spotify.com/track/4JnFYQqZaKw3wQikPQHmVJ) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:49 | 2023-10-13 |  |
 | [Vestido Preto](https://open.spotify.com/track/5O3DFbcVkdd8Yokx5ZeM9P) | [Veríssimo](https://open.spotify.com/artist/1BpWvKpwhtmuuZtIfM1P3a) | [Vestido Preto](https://open.spotify.com/album/760i5eyoOfMnRxpKy5mjaW) | 2:26 | 2023-10-13 | 2023-11-11 |
+| [VIBE](https://open.spotify.com/track/7u0mUH2KvAKaNfDCNOsMEB) | [Teresa](https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm), [Ramiroquai Beats](https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU) | [VIBE](https://open.spotify.com/album/2cIE59oANxsQd9cidTteRT) | 1:57 | 2024-03-01 |  |
 | [We Could've Been Jersey Club](https://open.spotify.com/track/4QyGCDEBhibMXAMc7ykfGm) | [prody999](https://open.spotify.com/artist/4Kfo118jjPablah0inQ0jD) | [We Could've Been Jersey Club](https://open.spotify.com/album/4djExDH7qd2pJJ8HeU5hy4) | 1:58 | 2023-11-17 | 2023-12-09 |
 | [Zaza](https://open.spotify.com/track/1K07DYYzPPFxJonYXj7E8C) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft), [Malibbre](https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K), [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD) | [Zaza](https://open.spotify.com/album/68nzVSDv9zqPoPxARIVo3z) | 2:44 | 2023-09-15 | 2023-10-21 |
 | [Zaza](https://open.spotify.com/track/2GgePlmi3YjIpCtsWbiDgU) | [Gstav](https://open.spotify.com/artist/4ucDxF4MIMKF6LkQu4rnc1) | [Jersey Shore](https://open.spotify.com/album/7zG9RBZGdAb7r8uvpGi4Gr) | 2:17 | 2023-11-10 | 2023-11-18 |

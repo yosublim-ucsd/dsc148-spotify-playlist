@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Louie Thesinger
+> Country music with a Latin flair\. Cover: Carin Leon & Kane Brown
 
-153 songs - 8 hr 26 min
+154 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 | 2021-12-10 |  |
 | [That Kind of Cowboy](https://open.spotify.com/track/18ZH8MilaP3O2FVZhb0JYO) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Tex Flex](https://open.spotify.com/album/4BEnJ4m3oTjGbFWfhdb0VI) | 2:57 | 2022-10-07 |  |
 | [That Kinda Night](https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [That Kinda Night](https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5) | 2:50 | 2022-11-04 |  |
+| [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-01 |  |
 | [The Unforgiven](https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW) | 4:05 | 2021-12-10 | 2022-07-29 |
 | [The Unforgiven](https://open.spotify.com/track/2OzMQSnYu4wVYBhCm3sNSZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [The Unforgiven](https://open.spotify.com/album/7KpZPUNuZBarex1NYPCezR) | 4:05 | 2022-07-08 |  |
 | [Timeless \(Spanish Version\)](https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Timeless](https://open.spotify.com/album/6pKXgkrBT3Gz7jixcrBCJ6) | 3:17 | 2021-12-10 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 173485,
+  "2024-03-02": 173575,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Ado",
   "name": "Teen Culture",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191746,
       "name": "Abrupt",
       "url": "https://open.spotify.com/track/1ALEFBi1WTJXbWjOhA1WTd"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 231713,
       "name": "Q.1",
       "url": "https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8"
@@ -3334,6 +3334,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30b9\u30b1\u30fc\u30d7",
         "url": "https://open.spotify.com/album/4PKNeWfAjbFA3WiW5xDjxY"
       },
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 197942,
       "name": "\u4e0d\u5c48\u306b\u82b1",
       "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
@@ -4357,7 +4375,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194591,
       "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
       "url": "https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT"

@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 90500,
       "name": "BREEZY",
       "url": "https://open.spotify.com/track/51XITKYiTT8sTVf4MElZg2"
@@ -6435,6 +6435,28 @@
     },
     {
       "album": {
+        "name": "KRUSHSEXX",
+        "url": "https://open.spotify.com/album/0pjk79vhRixuMAx0fIuCi1"
+      },
+      "artists": [
+        {
+          "name": "nightfxrce",
+          "url": "https://open.spotify.com/artist/0zPcNpNWxJ8KZutFU26dfW"
+        },
+        {
+          "name": "dvspair",
+          "url": "https://open.spotify.com/artist/3z0A4imcC68KLhZGn4uwzw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "KRUSHSEXX - SLOWED + REVERB",
+      "url": "https://open.spotify.com/track/27s4TayyokpSazOtWd06zX"
+    },
+    {
+      "album": {
         "name": "ENDLESS DRIVE",
         "url": "https://open.spotify.com/album/6DmSxlBNOzxoRUilHFFr0i"
       },
@@ -9708,6 +9730,28 @@
       "duration_ms": 108270,
       "name": "PIZZA PHONK",
       "url": "https://open.spotify.com/track/58IuZVow8rfBrZfpTnL6ze"
+    },
+    {
+      "album": {
+        "name": "PLANETA DESCONHECIDO",
+        "url": "https://open.spotify.com/album/3I0PQFWT0lGD5zWcGHwbRW"
+      },
+      "artists": [
+        {
+          "name": "DJ NK3",
+          "url": "https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD"
+        },
+        {
+          "name": "THEUZ ZL",
+          "url": "https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144019,
+      "name": "PLANETA DESCONHECIDO",
+      "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
     },
     {
       "album": {
@@ -14014,7 +14058,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 96278,
       "name": "YUMMI",
       "url": "https://open.spotify.com/track/74ePdGLb9VnKpazKDUUz3a"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,649 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,765 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,7 +301,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 291 | [Safe and Sound](https://open.spotify.com/track/7uCAuXGga9l4LJkXkdXzoS) | [Michael Ford](https://open.spotify.com/artist/0pxkbA5HKBZkMyqyhINQqd), [NVSV](https://open.spotify.com/artist/1ZoBPI6LQ3gSXuU2BRPyUD), [Menno](https://open.spotify.com/artist/1MPTYMphF5G5cdiATErmvM) | [Safe and Sound](https://open.spotify.com/album/24inJlzQ37LjkyDLMLKX1e) | 2:29 |
 | 292 | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army \(feat\. KOYSINA\)](https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M) | 2:13 |
 | 293 | [The Reason](https://open.spotify.com/track/1HwkW0sfJHp9VkXvhPR6zA) | [Lexio](https://open.spotify.com/artist/1MJgBvBaqWdzWexgUBPlpt), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [The Reason](https://open.spotify.com/album/6iymjbivsCl9dLn8QOWozv) | 2:47 |
-| 294 | [Let Me Love You](https://open.spotify.com/track/6gJfFDLXgOHdxZR3eNaA4K) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/5Kz63YySC7KgnFe32HvvSu) | 2:37 |
+| 294 | [Let Me Love You](https://open.spotify.com/track/6gJfFDLXgOHdxZR3eNaA4K) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/5Kz63YySC7KgnFe32HvvSu) | 2:37 |
 | 295 | [Snow \(Hey Oh\)](https://open.spotify.com/track/1kUXWeiuaYR5eO2xRh8JYl) | [Goldbird](https://open.spotify.com/artist/7bULzWHUuhNDPOrfv30dSq), [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb) | [Snow \(Hey Oh\)](https://open.spotify.com/album/6rG26DDmDBXZK1OQaloagu) | 2:44 |
 | 296 | [Heaven Is A Place On Earth](https://open.spotify.com/track/4NcW4k39BVv2KzqXzg7gYt) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Heaven Is A Place On Earth](https://open.spotify.com/album/3MDrqH7JAEghnH5ELRpyQ3) | 2:34 |
 | 297 | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/track/3pwKc5j7pB4VBShyjXesy6) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yves V](https://open.spotify.com/artist/7eou0SpSsKDJGouUekzpnK), [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Complicated \(feat\. Ryan Caraveo\)](https://open.spotify.com/album/56ZHBoO47AFn8NNKmq7UYL) | 3:24 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw0NDE4YjVmZTU2MWVlNGQzNDQ0YTZlMDAyYTA5NzM1M2MyZGUzZTBh`
+Snapshot ID: `MCxmODJiN2Y1OWY4MGIwY2E0YTg3NWMxNTZlNjc4YjU2NjZlNmNmYTVh`

@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-426 songs - 1 day 2 hr 21 min
+427 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Have no control](https://open.spotify.com/track/0pS8dgfvPuJJL1JSd73Epw) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Have no control](https://open.spotify.com/album/6JPWlvZmndErRZxkwnb6Gj) | 3:39 | 2023-10-27 | 2023-12-24 |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2023-05-04 |  |
 | [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-05-04 | 2024-01-14 |
-| [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 | 2023-09-22 |  |
+| [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 | 2023-09-22 | 2024-03-02 |
 | [Hey Ye Ye Yeah \- Slow](https://open.spotify.com/track/5h97Md9cmCNB80k2fHnFT3) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Hey Ye Ye Yeah \(Slow\)](https://open.spotify.com/album/5vvATIEeqF3VXPHRsDiTfG) | 2:51 | 2022-11-17 | 2023-01-12 |
 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 | 2023-12-13 |  |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2023-03-20 |  |
@@ -351,6 +351,7 @@
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2022-06-02 | 2023-05-05 |
 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-20 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-03-09 | 2023-03-21 |
+| [Thank God It's Friday](https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Thank God It's Friday](https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T) | 3:53 | 2024-02-23 |  |
 | [That Roy](https://open.spotify.com/track/7G035a84qdhNfjm2pV29Zx) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Justin Brown](https://open.spotify.com/artist/4YzUifC19loaHMPE0MdGNv) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 2:16 | 2022-03-31 | 2022-10-27 |
 | [The American Negro](https://open.spotify.com/track/4zmcdNHswlPehBWqsMEijS) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/7hfUy5lE0q1Zh7YBgNKGto) | 4:36 | 2022-02-17 | 2022-04-21 |
 | [The Carpenter](https://open.spotify.com/track/0GAST4Af46rS4MNGKlwTeu) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [We're Not in Kansas Anymore](https://open.spotify.com/album/7GQp63TXeYGVI6JuUapIGM) | 3:40 | 2022-12-22 | 2023-03-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 171904,
+  "2024-03-02": 171927,
   "date_first_scraped": "2022-03-28",
   "description": "Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.",
   "name": "Vinyasa Flow",
@@ -2367,6 +2367,24 @@
       "duration_ms": 160222,
       "name": "Finneas",
       "url": "https://open.spotify.com/track/0afK4XhPxWkKvHnGYCE0AM"
+    },
+    {
+      "album": {
+        "name": "fireflies",
+        "url": "https://open.spotify.com/album/6iMYwdC0KQAuqn1YsFWCAR"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128750,
+      "name": "fireflies",
+      "url": "https://open.spotify.com/track/227z0kBpLGVr4YqaTeNCIU"
     },
     {
       "album": {
@@ -5303,6 +5321,24 @@
       "duration_ms": 211274,
       "name": "on the horizon",
       "url": "https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG"
+    },
+    {
+      "album": {
+        "name": "one with the cube",
+        "url": "https://open.spotify.com/album/6HSEIuuQtNFbkqExwuu23m"
+      },
+      "artists": [
+        {
+          "name": "Govii",
+          "url": "https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126607,
+      "name": "one with the cube",
+      "url": "https://open.spotify.com/track/4rYpweh6x3xGOKejHZOFLp"
     },
     {
       "album": {

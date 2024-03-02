@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 607367,
+  "2024-03-02": 607312,
   "date_first_scraped": "2021-12-28",
   "description": "'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.",
   "name": "Christmas Coffeehouse",
@@ -1612,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "Christmas Pop Hits",
+        "url": "https://open.spotify.com/album/1YNdKcDUQ8SxZhH8k3WFXf"
+      },
+      "artists": [
+        {
+          "name": "November Lights",
+          "url": "https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191912,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/3ItP1jSko3LeUUKOqdWoEW"
+    },
+    {
+      "album": {
         "name": "Acoustic Christmas",
         "url": "https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN"
       },
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191912,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7"

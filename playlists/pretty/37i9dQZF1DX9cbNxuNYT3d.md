@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,102 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,187 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 42 | [Am I Wrong](https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3) | [Étienne de Crécy](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7) | [Tempovision](https://open.spotify.com/album/39WwIm6bjNLXKdlYQYU1q5) | 3:51 |
 | 43 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
 | 44 | [Ultra Light](https://open.spotify.com/track/0Fi7MjMYYERiLiTeGMP6VV) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [USA](https://open.spotify.com/album/7B5AzWM75xsUHY0fQX6KkT) | 4:05 |
-| 45 | [La Mouche \(DJ Falcon Metal Mix\)](https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [DJ Falcon](https://open.spotify.com/artist/4jYpX9diAOBUU0iictJYiF) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 8:58 |
+| 45 | [La Mouche \- DJ Falcon Metal Mix](https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [DJ Falcon](https://open.spotify.com/artist/4jYpX9diAOBUU0iictJYiF) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 8:58 |
 | 46 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
 | 47 | [Venus \(Sunshine People\) \[DJ Gregory Remix\]](https://open.spotify.com/track/3xUHVU3Cfqfs5I7tECQt2g) | [Cheek](https://open.spotify.com/artist/5QIYgDc1bwHkXS00viPLyC) | [Venus \(sunshine people\)](https://open.spotify.com/album/415kVuJ4SOCGDaLrE73yuQ) | 4:56 |
 | 48 | [Jacques You Body \(Make Me Sweat\)](https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U) | [Les Rythmes Digitales](https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn) | [Darkdancer](https://open.spotify.com/album/3Y8JlFFkfiqXrUP8kcvFd2) | 4:12 |
 | 49 | [The Sound of Violence](https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Au Rêve \(Deluxe Edition\)](https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97) | 7:13 |
 | 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MCwyNjIxMTYwZGNmODAxM2ZiMjhjMzg3MzhhMzZkZDk1MTU3NmJlZDhh`
+Snapshot ID: `MCxhN2Q5YmE3ZTA5MWI2MmY3OWI1ZTA3YjBjZGQxNDFkYjI1N2RmYjA4`

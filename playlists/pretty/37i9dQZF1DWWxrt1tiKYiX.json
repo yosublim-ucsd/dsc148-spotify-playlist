@@ -1,15 +1,15 @@
 {
   "description": "Lovely, acoustic pop. Cover: Taylor Swift",
-  "num_followers": 142483,
+  "num_followers": 142543,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjk3ODkzZWNhNzI1YTEzZDgwMTg2N2NkNzkyNWU2NjgzNWVjZTZk",
+  "snapshot_id": "MCwxYjgxNzI4ODBlYTFiY2RjZDc4ZDdmMjI2MGU3NmExNDg2NThmMzY4",
   "tracks": [
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
         "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
@@ -41,7 +41,27 @@
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Little Bit Better",
+        "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        },
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 227625,
+      "name": "Little Bit Better",
+      "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "greedy (remixes)",
         "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Beautiful Things (Alternate Versions)",
         "url": "https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP"
@@ -73,23 +93,27 @@
       "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Stripped Version]",
+        "url": "https://open.spotify.com/album/5kuNl1xlnjBBkS4tv111qJ"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+      "duration_ms": 169607,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Stripped Version",
+      "url": "https://open.spotify.com/track/2ED71uZCYogHDMcYh7nTW2"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "he loves me, he loves me not (stripped)",
         "url": "https://open.spotify.com/album/1u2OZ8Aqv4gNcot9JeuDBF"
@@ -121,7 +145,23 @@
       "url": "https://open.spotify.com/track/4WiOTpOFtiO2fyHoevAB3R"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Good To Be (Acoustic)",
         "url": "https://open.spotify.com/album/7dqyCFN7ka6Apau2Wir3RN"
@@ -137,7 +177,7 @@
       "url": "https://open.spotify.com/track/1y7Ymq9FEjAE3IgwdLYpP4"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Me And My Past",
         "url": "https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG"
@@ -153,7 +193,7 @@
       "url": "https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
@@ -169,7 +209,7 @@
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Ken The EP",
         "url": "https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/1LA9VHAT6r0EkMM5lrUgQp"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Unfinished Business (Acoustic)",
         "url": "https://open.spotify.com/album/5ps2KtT1GWOD9PtJ34bpDV"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/2VbO6uAFOFVaAuWGbntoQL"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
@@ -245,7 +285,7 @@
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/1RyLhITh6rdqAgtZcL5G4z"
@@ -261,7 +301,7 @@
       "url": "https://open.spotify.com/track/60rRxW2Doq3KCzpendU4Yz"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Heather On The Hill (Acoustic Version)",
         "url": "https://open.spotify.com/album/1fTQYyxGnxcRc8Zzlnx6an"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/1EM1LtvbdqXKU8Gf05aopw"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu"
@@ -313,7 +353,7 @@
       "url": "https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Matchbox",
         "url": "https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif"
@@ -329,7 +369,7 @@
       "url": "https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
@@ -365,7 +405,7 @@
       "url": "https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Something Stupid",
         "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
@@ -381,7 +421,7 @@
       "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "There It Goes (Acoustic)",
         "url": "https://open.spotify.com/album/3seUdV947SymGb26zyRt3k"
@@ -397,7 +437,7 @@
       "url": "https://open.spotify.com/track/0mRM8KuaZ62AKyNS00MRBn"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Elliot Greer Presents: Barebones II",
         "url": "https://open.spotify.com/album/1NwqBdHo8IPvu8CKqzwa51"
@@ -413,7 +453,7 @@
       "url": "https://open.spotify.com/track/7xAgn8pKEF0kYykyXOYzGb"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
@@ -429,7 +469,7 @@
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "RUNAWAY (Acoustic)",
         "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "In A Perfect World (with Julia Michaels)",
         "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
@@ -485,7 +525,7 @@
       "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
@@ -501,7 +541,7 @@
       "url": "https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "roots",
         "url": "https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Lavender Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Zuma Beach",
         "url": "https://open.spotify.com/album/712mCVzBMjXOoIl45cmj1N"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Life Goes On (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
@@ -617,7 +657,7 @@
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "STRINGS (feat. JVKE & Bazzi) [Stripped Version]",
         "url": "https://open.spotify.com/album/2WiZ4BUTVALB9f61XmI3cP"
@@ -641,7 +681,7 @@
       "url": "https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/2Q7ZNu0GWr9Lr5uoxoQ6oh"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Thunderclouds",
         "url": "https://open.spotify.com/album/5Ms2Gpc7e4cKJjBh8Gh0CJ"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/2zcoAxkc0xxXa4SnQXyhYU"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Nobody's You",
         "url": "https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "If We Ever Broke Up (Acoustic)",
         "url": "https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "summer camp",
         "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
         "url": "https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA"
@@ -797,7 +837,7 @@
       "url": "https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/6dxDMr7tAs1NCfZGZDUBja"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
@@ -829,7 +869,7 @@
       "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
@@ -845,7 +885,7 @@
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY"
@@ -861,7 +901,7 @@
       "url": "https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
@@ -877,7 +917,7 @@
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
@@ -893,7 +933,7 @@
       "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
@@ -909,7 +949,7 @@
       "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Everybody Needs Someone (feat. Vance Joy)",
         "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
@@ -929,7 +969,7 @@
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Fall Into Me (Acoustic)",
         "url": "https://open.spotify.com/album/72yeKeLsex6CggzAfQ2mKz"
@@ -945,7 +985,7 @@
       "url": "https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
@@ -965,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Numb Little Bug (Piano Version)",
         "url": "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv"
@@ -981,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Evergreen (You Didn't Deserve Me At All) [Stripped]",
         "url": "https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2"
@@ -997,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Devil Doesn\u2019t Bargain (Acoustic)",
         "url": "https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo"
@@ -1013,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "So Good (Stripped)",
         "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
@@ -1029,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
@@ -1049,7 +1089,7 @@
       "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Anti-Hero (Acoustic Version)",
         "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
@@ -1065,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "When You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj"
@@ -1081,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "she's all i wanna be (Acoustic)",
         "url": "https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ"
@@ -1097,7 +1137,7 @@
       "url": "https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
@@ -1113,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Nicer (Acoustic)",
         "url": "https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P"
@@ -1129,27 +1169,7 @@
       "url": "https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
-      "album": {
-        "name": "IT'S YOU (feat. keshi) [Stripped Version]",
-        "url": "https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 158742,
-      "name": "IT'S YOU (feat. keshi) - Stripped Version",
-      "url": "https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW"
-    },
-    {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN"
@@ -1165,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
@@ -1185,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1201,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5jAIouBES8LWMiriuNq170"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Chasing Stars (Stripped)",
         "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
@@ -1225,7 +1245,7 @@
       "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
@@ -1241,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Head on Fire (Acoustic Version)",
         "url": "https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb"
@@ -1261,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
@@ -1277,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Sunshine. The EP",
         "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
@@ -1293,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
@@ -1309,7 +1329,7 @@
       "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -1325,7 +1345,7 @@
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Lover (First Dance Remix)",
         "url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At"
@@ -1341,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Remember (Acoustic)",
         "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
@@ -1357,7 +1377,7 @@
       "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
@@ -1373,7 +1393,7 @@
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Diamonds (Acoustic)",
         "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
@@ -1389,7 +1409,7 @@
       "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Maren Morris: Reimagined",
         "url": "https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc"
@@ -1405,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Drunk On Emotions (Stripped)",
         "url": "https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s"
@@ -1425,7 +1445,7 @@
       "url": "https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
@@ -1441,7 +1461,7 @@
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Minefields (Live Acoustic)",
         "url": "https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7"
@@ -1461,7 +1481,7 @@
       "url": "https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Glad You Exist (Acoustic)",
         "url": "https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V"
@@ -1477,7 +1497,7 @@
       "url": "https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Remember That Night? (Acoustic)",
         "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
@@ -1493,7 +1513,7 @@
       "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "One Night (Stripped Version)",
         "url": "https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn"
@@ -1509,7 +1529,7 @@
       "url": "https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -1525,7 +1545,7 @@
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "willow (lonely witch version)",
         "url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc"
@@ -1541,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
@@ -1557,7 +1577,7 @@
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Bad (Acoustic)",
         "url": "https://open.spotify.com/album/6dxCR3nNb2InDCZslFNmhD"
@@ -1573,7 +1593,7 @@
       "url": "https://open.spotify.com/track/3nIOj4RC4F6FcaALZKVLWB"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
@@ -1589,7 +1609,7 @@
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Trampoline (Stripped)",
         "url": "https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB"
@@ -1605,7 +1625,7 @@
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
@@ -1625,7 +1645,7 @@
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Safe With Me (with Audrey Mika) [Acoustic]",
         "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
@@ -1645,7 +1665,7 @@
       "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Stay (Acoustic)",
         "url": "https://open.spotify.com/album/33I53O0BDLOUyecefvTf2R"
@@ -1665,23 +1685,7 @@
       "url": "https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
-      "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
-    },
-    {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
@@ -1697,7 +1701,7 @@
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
-      "added_at": "2024-02-27 23:27:04",
+      "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"

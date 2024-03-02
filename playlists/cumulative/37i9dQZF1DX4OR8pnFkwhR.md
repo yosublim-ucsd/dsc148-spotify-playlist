@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-1,444 songs - 3 day 15 hr 42 min
+1,445 songs - 3 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ainokansoki](https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Ainokansoki](https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq) | 3:54 | 2023-08-29 | 2023-09-27 |
 | [Ainokotoba](https://open.spotify.com/track/5Uup610DZkCjPXsEoyDyRN) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Hoshiwokoete](https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20) | 4:23 | 2023-03-14 | 2023-03-29 |
 | [Ainokotoba](https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Ainokotoba](https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b) | 4:25 | 2023-02-21 | 2023-03-18 |
+| [Airai](https://open.spotify.com/track/1AraC46v7BfteuiQRuGWhe) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Airai](https://open.spotify.com/album/27BYdJ8FTwN0pissOQzCJK) | 3:52 | 2024-02-29 |  |
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-12-31 | 2023-01-13 |
 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 | 2023-09-26 | 2023-12-13 |
 | [Aizen](https://open.spotify.com/track/0tKeNpT6xS8ituF43dsJHE) | [Koichan](https://open.spotify.com/artist/03Zy6Z61VsjQg4EgXpv5bE) | [Aizen](https://open.spotify.com/album/0z4GzvNeXrBCrN60rBFb6k) | 4:17 | 2023-09-26 | 2023-11-01 |
@@ -965,7 +966,7 @@
 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 | 2022-02-22 | 2022-03-30 |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 | 2023-09-09 |
 | [わたし達のジャーニー](https://open.spotify.com/track/7jBZEvYiDd1P44XrHROHfq) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたし達のジャーニー](https://open.spotify.com/album/209qMKGCRlobYowrmvIRgo) | 4:07 | 2023-06-13 | 2023-06-15 |
-| [アイライ](https://open.spotify.com/track/6CJkRcooiymjh59vFxHtKS) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [アイライ](https://open.spotify.com/album/2ESXxyR5HTcvHKOt04QCHA) | 3:52 | 2024-02-29 |  |
+| [アイライ](https://open.spotify.com/track/6CJkRcooiymjh59vFxHtKS) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [アイライ](https://open.spotify.com/album/2ESXxyR5HTcvHKOt04QCHA) | 3:52 | 2024-02-29 | 2024-03-02 |
 | [アフターオール](https://open.spotify.com/track/0MEVe1o0zhI4h8KeqAsjIA) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [アフターオール](https://open.spotify.com/album/7nSsrf3EM08XVnRjG4R3mw) | 3:38 | 2023-05-16 | 2023-05-18 |
 | [イエロー](https://open.spotify.com/track/7KsID2OzgAdWP4CL06pHAU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [イエロー](https://open.spotify.com/album/0eHdWFvgTbDhrI0GImMGyA) | 5:19 | 2024-02-27 |  |
 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 | 2023-12-26 | 2024-01-11 |

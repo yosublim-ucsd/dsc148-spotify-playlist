@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Misha Omar",
-  "num_followers": 61486,
+  "num_followers": 61491,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmVhMzk1MzkyZGU3ZTQ4Yjk4ZDgxZDI5ZmRhODQ1NWM0MjU5MzI0",
+  "snapshot_id": "MCwyMDhkMjhjZWYwZDBmY2M4YTg1NjBlZGE5MGUzZmI0OGQ1OTgyNmVh",
   "tracks": [
     {
       "added_at": "2024-02-29 16:00:00",
@@ -139,6 +139,22 @@
       "duration_ms": 237907,
       "name": "Teman",
       "url": "https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa"
+    },
+    {
+      "added_at": "2024-02-29 16:00:00",
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "added_at": "2024-02-29 16:00:00",
@@ -1079,6 +1095,26 @@
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
+        "name": "dusk twilight 2024",
+        "url": "https://open.spotify.com/album/1EOmX9zvLs5mF2ei16d2R7"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        },
+        {
+          "name": "NATTY (KISS OF LIFE)",
+          "url": "https://open.spotify.com/artist/4s8F1LKiyDPt0NacvMI7rx"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "dusk twilight (feat.NATTY (KISS OF LIFE))",
+      "url": "https://open.spotify.com/track/4wzzsbTftX8NPnhIV1kH3A"
+    },
+    {
+      "added_at": "2024-02-29 16:00:00",
+      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm"
       },
@@ -1359,6 +1395,26 @@
       "duration_ms": 211265,
       "name": "high tides, low tides.",
       "url": "https://open.spotify.com/track/4PJM5jGizbLD6p5Bj5fRyp"
+    },
+    {
+      "added_at": "2024-02-29 16:00:00",
+      "album": {
+        "name": "so easy",
+        "url": "https://open.spotify.com/album/3HiTBZ5YJbmGRhoEv2wpDf"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        },
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "duration_ms": 178532,
+      "name": "so easy",
+      "url": "https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X"
     },
     {
       "added_at": "2024-02-29 16:00:00",

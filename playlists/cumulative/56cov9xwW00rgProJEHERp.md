@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-89 songs - 5 hr 15 min
+91 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Forever Was Never Enough](https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Forever Was Never Enough](https://open.spotify.com/album/5OPbWgMmKfLsir6Er33VIm) | 2:55 | 2024-01-26 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-12-08 | 2024-02-24 |
-| [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-12-08 |  |
+| [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-12-08 | 2024-03-02 |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 |  |
 | [Hollow](https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Dweller](https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l) | 3:56 | 2023-12-08 | 2023-12-16 |
 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 | 2024-01-19 |  |
@@ -59,7 +59,7 @@
 | [Me Without You \(Acoustic\)](https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [The Acoustic Sessions](https://open.spotify.com/album/0FzEpPssQM0QRjqlsuiBc8) | 4:15 | 2023-12-08 |  |
 | [Modern Drugs](https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Modern Drugs](https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK) | 5:13 | 2024-01-26 |  |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-12-08 | 2024-02-17 |
-| [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 |  |
+| [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 | 2024-03-02 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-12-08 | 2024-02-17 |
 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-12-08 | 2024-01-13 |
 | [Noah \(Stand Still\)](https://open.spotify.com/track/2lXpWg3gOIeH22d1UMhoiL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Noah \(Stand Still\)](https://open.spotify.com/album/33oPNWUuU96juBwswrJeCU) | 3:54 | 2023-12-08 | 2024-02-17 |
@@ -71,10 +71,12 @@
 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 | 2024-01-26 |  |
 | [Part of Me](https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part of Me](https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe) | 3:28 | 2023-12-15 |  |
 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-12-08 | 2024-01-20 |
+| [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 | 2024-03-01 |  |
 | [rotted out with flies](https://open.spotify.com/track/0u7184d6EPWJxkezc4eUI0) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [rotted out with flies](https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK) | 3:00 | 2024-02-23 |  |
 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-01-27 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 |  |
 | [something i can't do](https://open.spotify.com/track/4rtGByFuVFIb3rj4ewtVYw) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [something i can't do](https://open.spotify.com/album/01lwPYxKLe0fuDFHOp9l5v) | 2:44 | 2023-12-08 | 2024-01-27 |
+| [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 |  |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 |  |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-12-08 |  |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 |  |

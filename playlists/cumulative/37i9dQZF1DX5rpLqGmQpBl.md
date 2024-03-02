@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Doctor Slump\. \(닥터슬럼프의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-30 songs - 1 hr 37 min
+31 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2024-02-14 |  |
 | [In my memory](https://open.spotify.com/track/0f1dv8Dp9wZGkiYgkjIJnj) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 | 2024-02-14 |  |
 | [In my memory \- Instrumental](https://open.spotify.com/track/3KBuMPfRmlcmH9kuDF7GBy) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 | 2024-02-14 |  |
-| [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 | 2024-02-14 |  |
+| [New Day](https://open.spotify.com/track/3TFGNIZDnYtX1biTkWvj9M) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2qfIkB00pLxeS1KiOwpuVn) | 4:02 | 2024-02-15 |  |
+| [New Day](https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 1](https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV) | 4:02 | 2024-02-14 | 2024-03-02 |
 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2024-02-14 |  |
 | [Not alone](https://open.spotify.com/track/2XMxzKKoSN88CuyywFpltL) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 | 2024-02-14 |  |
 | [Not alone \- Instrumental](https://open.spotify.com/track/5C5qLui0HhsmYAayjUBFRA) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 | 2024-02-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 57099,
+  "num_followers": 57129,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjFhYTE2YmM0Y2U4MjBjMGZmZjk2ZDViMTk3ZjJlMmYxNjVkMzc4",
+  "snapshot_id": "MCxjNmFiM2IxZWMxNTg4OTc4OGY3ZDc5MmU2MGZiZTIwNjBjZGFmMDI3",
   "tracks": [
     {
       "added_at": "2021-10-16 00:59:30",
@@ -77,38 +77,6 @@
       "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
-    },
-    {
-      "added_at": "2024-01-11 03:47:29",
-      "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Echale Az\u00facar",
-      "url": "https://open.spotify.com/track/6YeRS4KLT4a5P9Us9KzBBf"
-    },
-    {
       "added_at": "2022-12-16 01:36:22",
       "album": {
         "name": "LQRA Session #9",
@@ -131,6 +99,38 @@
       "duration_ms": 188387,
       "name": "LQRA Session #9",
       "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+    },
+    {
+      "added_at": "2024-01-11 03:47:29",
+      "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Echale Az\u00facar",
+      "url": "https://open.spotify.com/track/6YeRS4KLT4a5P9Us9KzBBf"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": "2024-01-18 15:01:55",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
       "added_at": "2022-04-23 18:00:53",
       "album": {
         "name": "Bi",
@@ -683,22 +699,6 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Drama",
@@ -823,22 +839,6 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
       "added_at": "2022-07-15 18:11:06",
       "album": {
         "name": "La Cura",
@@ -927,26 +947,6 @@
       "duration_ms": 177889,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents) (2019 Remaster)",
@@ -1055,22 +1071,6 @@
       "duration_ms": 166172,
       "name": "Supersticioso",
       "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
-    },
-    {
-      "added_at": "2022-06-02 20:34:36",
-      "album": {
-        "name": "Quisiera Ser",
-        "url": "https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 237858,
-      "name": "Quisiera Ser",
-      "url": "https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

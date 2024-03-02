@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2336908,
+  "num_followers": 2336873,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTRjMjcwZThmZmIxMjYyZTViZTgzYjFjZGFhOTIwN2NkZGM5Zjk5",
+  "snapshot_id": "MCw4YmM5OGIzNTFkOWJjY2ZmZGNmMDJiZDE3NGIzNTcwYTk1MjNhYmFk",
   "tracks": [
     {
       "added_at": "2024-02-27 23:55:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
         "name": "When You're Ready",
         "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 162673,
       "name": "Take The Journey",
       "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2024-02-27 23:55:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2024-02-27 23:55:21",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2024-02-27 23:55:21",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 234694,
       "name": "Roots And Wings",
       "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "added_at": "2024-02-27 23:55:21",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2024-02-27 23:55:21",

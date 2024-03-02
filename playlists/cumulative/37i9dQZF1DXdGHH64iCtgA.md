@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-261 songs - 20 hr 34 min
+262 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Girlhood](https://open.spotify.com/track/5WUWlMYIoMvNL35vyxNvZ5) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Girlhood, la bande originale de Bande de Filles](https://open.spotify.com/album/7DSHUPMJdMZ8YUTzehAzaT) | 2:28 | 2023-09-07 | 2023-10-02 |
 | [GMT](https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 3:08 | 2023-09-07 | 2023-10-02 |
 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 | 2022-05-06 |  |
+| [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 | 2024-03-01 |  |
 | [hard rain](https://open.spotify.com/track/069LHKgjOwo1sXUztAPHIj) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:30 | 2023-09-07 | 2023-10-02 |
 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 | 2022-06-14 |  |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2022-05-06 | 2022-07-29 |
@@ -253,7 +254,7 @@
 | [VSOD \- Velvet Sky of Dreams](https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [VSOD \(Velvet Sky of Dreams\)](https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK) | 5:42 | 2022-05-06 |  |
 | [WANT IT](https://open.spotify.com/track/4khOQnuz9OxG8bejxuqQdz) | [NICOLAS](https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1) | [WANT IT](https://open.spotify.com/album/1TbtKn1nX59HsZIUPQ3HGw) | 3:33 | 2022-05-06 | 2022-07-29 |
 | [WANT IT](https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ) | [NICOLAS](https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1) | [WANT IT](https://open.spotify.com/album/6PFzPtvG8XCphoflSlhSx6) | 3:33 | 2022-06-14 | 2023-01-29 |
-| [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 | 2022-05-06 |  |
+| [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 | 2022-05-06 | 2024-03-02 |
 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 | 2022-05-06 | 2022-07-28 |
 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/696jgH18JDcPgpIsmaZq4Z) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Dance Vault Mixes \- Where Love Lives](https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP) | 6:58 | 2022-05-06 | 2022-06-16 |
 | [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 | 2022-05-06 | 2023-01-12 |

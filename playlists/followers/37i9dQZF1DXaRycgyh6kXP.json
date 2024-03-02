@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 209566,
+  "2024-03-02": 209673,
   "date_first_scraped": "2022-02-17",
   "description": "Delicate digital expressions of the heart.",
   "name": "Electronica Romantica",
@@ -2240,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/2nXj7FISsnrz03cLqJv3SF"
+      },
+      "artists": [
+        {
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229158,
+      "name": "Permanence - Original Mix",
+      "url": "https://open.spotify.com/track/7HdEAYOe2uJoWRQAxN3Uyv"
+    },
+    {
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh"
       },
@@ -3583,7 +3601,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"

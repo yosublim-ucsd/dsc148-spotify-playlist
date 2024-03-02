@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 122682,
+  "num_followers": 122765,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDkwZDQzODhhNmJkZGQxYzcyMTdkNGMyYTU0NzE4NDVmOGMwNGU0",
+  "snapshot_id": "MCxmMDhhMDRjZTVhNWM4NmZlOTVmZDgyODYxYzEzZjJhNTI2NWQyMDk4",
   "tracks": [
     {
       "added_at": "2024-02-22 08:58:06",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Magnetism, Vol. 1",
-        "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
-      },
-      "artists": [
-        {
-          "name": "Ive Mendes",
-          "url": "https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "Magnetism, Vol. 1",
+        "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
+      },
+      "artists": [
+        {
+          "name": "Ive Mendes",
+          "url": "https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Elles",
-        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
-      },
-      "artists": [
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "Elles",
+        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
+      },
+      "artists": [
+        {
+          "name": "Louie Hobbs Trio",
+          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
+        }
+      ],
+      "duration_ms": 219625,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 131773,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/67OTFWSB6YEY3uUGcujAmw"
-      },
-      "artists": [
-        {
-          "name": "Louie Hobbs Trio",
-          "url": "https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U"
-        }
-      ],
-      "duration_ms": 219625,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/2zaTkJjKXM6grxlreDbOWR"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
-      },
-      "artists": [
-        {
-          "name": "Charles Daisey & Friends",
-          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "Viva la Vida",
         "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 159541,
       "name": "Viva la Vida",
       "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
-      },
-      "artists": [
-        {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+      },
+      "artists": [
+        {
+          "name": "tea",
+          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
+      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
@@ -1567,18 +1583,34 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+        "name": "Late Night Herbie Hancock",
+        "url": "https://open.spotify.com/album/6gnhEM1JLltKA6ophLSrDF"
       },
       "artists": [
         {
-          "name": "tea",
-          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 281333,
-      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
-      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/6O0FfT5Bug1jwow4fjgm4B"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1603,38 +1635,6 @@
       "duration_ms": 305631,
       "name": "Sorry Seems to Be the Hardest Word",
       "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
-        "name": "Late Night Herbie Hancock",
-        "url": "https://open.spotify.com/album/6gnhEM1JLltKA6ophLSrDF"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/6O0FfT5Bug1jwow4fjgm4B"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
-      },
-      "artists": [
-        {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1995,6 +1971,30 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
+        "name": "Speak Low II",
+        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
+      },
+      "artists": [
+        {
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "duration_ms": 318086,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "Ultrahang",
-        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
         }
       ],
-      "duration_ms": 402160,
-      "name": "Ladies Of the Canyon (Bonus)",
-      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2024-02-22 08:58:06",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-02-22 08:58:06",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
-    },
-    {
-      "added_at": "2024-02-22 08:58:06",
-      "album": {
         "name": "Groove Connection",
         "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 202200,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
+    },
+    {
+      "added_at": "2024-02-22 08:58:06",
+      "album": {
+        "name": "Ultrahang",
+        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 402160,
+      "name": "Ladies Of the Canyon (Bonus)",
+      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
     },
     {
       "added_at": "2024-02-22 08:58:06",

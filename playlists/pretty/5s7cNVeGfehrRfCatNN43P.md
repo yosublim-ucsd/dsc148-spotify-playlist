@@ -4,22 +4,26 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,625 likes - 13 songs - 41 min 30 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,627 likes - 17 songs - 50 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weird World](https://open.spotify.com/track/116ORJSOi1UltDApfKABzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 3:58 |
-| 2 | [Kiss Me Better](https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Kiss Me Better](https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy) | 2:40 |
-| 3 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
-| 4 | [all or nothing](https://open.spotify.com/track/0BCdlov5Bel3MfPgCXQFih) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [all or nothing](https://open.spotify.com/album/5CBc0J5OXcjIlE1TF1RwR9) | 3:43 |
-| 5 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
-| 6 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
-| 7 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 |
-| 8 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 9 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
-| 10 | [Misstag](https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Misstag](https://open.spotify.com/album/1OTudEeQA3fQsuwslytH10) | 3:11 |
-| 11 | [6am to Paris](https://open.spotify.com/track/1odZs329Z78zeDIUbJ9c28) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [6am to Paris](https://open.spotify.com/album/1DtHbdjnqLild4y0PnlbF1) | 2:50 |
-| 12 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
-| 13 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 |
+| 1 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 |
+| 2 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
+| 3 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
+| 4 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 |
+| 5 | [Nice Guy](https://open.spotify.com/track/45Cm2OHPj7L3xaBW94buSS) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Nice Guy](https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp) | 3:03 |
+| 6 | [Wild Things](https://open.spotify.com/track/3pUvLkw9jJGsAPX0ygQm2z) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/0elHwWUBdeyeZIKr0EMdQV) | 3:36 |
+| 7 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 8 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
+| 9 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 |
+| 10 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 |
+| 11 | [cubicles](https://open.spotify.com/track/5WJFP7pf2fLjPdG5dqGRlY) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [cubicles](https://open.spotify.com/album/4UmbKE0B3q8Noz6hFA22Nr) | 2:48 |
+| 12 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 |
+| 13 | [What A Devastating Turn of Events](https://open.spotify.com/track/6CxdeM5S42kp7GyMlLs1Ea) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 4:19 |
+| 14 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
+| 15 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 |
+| 16 | [Not Quite Gone](https://open.spotify.com/track/0JAhcZ6DigOmOXdCQgMxeH) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Not Quite Gone](https://open.spotify.com/album/5uKB5M2T8WipDvAXC4yP9X) | 2:53 |
+| 17 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 |
 
-Snapshot ID: `MjY3OCwxZjMwMWQ4MDQyYTVlMDY1ODBjOTEzNTE5NTY4ZTk2ZmYxZGFjOGFm`
+Snapshot ID: `MjY4MCxiOGMzN2IzYzhmY2FiMTMxOTkyZGY2OGEzOWI2MjEyNjhkMmE0NDc5`

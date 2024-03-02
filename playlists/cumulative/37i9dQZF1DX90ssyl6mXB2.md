@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-61 songs - 2 hr 54 min
+64 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [40 Days n 40 Nights \(feat\. Vory\)](https://open.spotify.com/track/3XYpgHhQs7Q3LsY3ALzWHr) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:16 | 2024-02-02 |  |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-02-02 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-02 |  |
+| [act iii: on god? \(she like\)](https://open.spotify.com/track/30uO152on2tYWoE99VaEL5) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act iii: on god? \(she like\)](https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb) | 2:50 | 2024-03-01 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 |  |
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 |  |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
@@ -26,7 +27,9 @@
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2024-02-02 |  |
 | [Fable](https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:25 | 2024-02-02 |  |
+| [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2024-03-01 |  |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-02-09 |  |
+| [friends?](https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [friends?](https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs) | 1:59 | 2024-03-01 |  |
 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-02-02 |  |
 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 | 2024-02-20 |  |
 | [Give It Up 2 Me](https://open.spotify.com/track/4BfFxN1BAS47r9OhNyWiEE) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Give It Up 2 Me](https://open.spotify.com/album/3a9bUK2pj3dgUENncg1i3o) | 2:58 | 2024-02-02 |  |

@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-238 songs - 13 hr 12 min
+239 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-15 | 2023-08-29 |
 | [Struck by Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/6LBvil8ZDD2nktYSmKkHIy) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/4kR8SzUJ4F1f7ippLeOARL) | 2:34 | 2021-12-06 | 2023-08-16 |
 | [Stupid Cupid](https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid](https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv) | 2:53 | 2023-08-15 | 2023-08-29 |
+| [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Stripped Version](https://open.spotify.com/track/2ED71uZCYogHDMcYh7nTW2) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Stripped Version\]](https://open.spotify.com/album/5kuNl1xlnjBBkS4tv111qJ) | 2:49 | 2024-03-01 |  |
 | [Sunday](https://open.spotify.com/track/1OFvEgu1WA0TeSTDMw2bjO) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Lush Loops](https://open.spotify.com/album/2yoMyh8kf4AzBRX4gr0vGF) | 1:37 | 2021-12-06 | 2023-08-16 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-08-28 |  |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-09-15 |  |

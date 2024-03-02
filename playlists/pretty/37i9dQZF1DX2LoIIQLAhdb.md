@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,365 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,422 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 15 | [Candy](https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Candy](https://open.spotify.com/album/75Q2UhYj53Mjqc7DXeGEY3) | 2:32 |
 | 16 | [Vie d’après](https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ame](https://open.spotify.com/album/3ACiqzYVVGynQtQstUXoiy) | 2:25 |
 | 17 | [Sincère](https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sincère](https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ) | 2:21 |
-| 18 | [Black lover \(Intro\)](https://open.spotify.com/track/0EFX5QeFdICzvLTvQAMWX7) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [Black lover \(Intro\)](https://open.spotify.com/album/4IHghYZ9dwlNb39Nt9xaU3) | 2:24 |
+| 18 | [Black Lover \(Intro\)](https://open.spotify.com/track/0EFX5QeFdICzvLTvQAMWX7) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [Black lover \(Intro\)](https://open.spotify.com/album/4IHghYZ9dwlNb39Nt9xaU3) | 2:24 |
 | 19 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
 | 20 | [Beau parleur](https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi \(Pt\. 2\)](https://open.spotify.com/album/41JxwnXG0TtCKaTi5LGimZ) | 2:52 |
 | 21 | [Coco & Chanel](https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet) | 2:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Mama](https://open.spotify.com/track/0hoJWbyZNiZlXiJowTn5Q6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mama](https://open.spotify.com/album/3zGYkyHUsFj4WNxKcZ7ktn) | 3:00 |
 | 40 | [GHOST & TOMMY](https://open.spotify.com/track/7FWIpbdui2fXi54J0GJ6o6) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [POWER](https://open.spotify.com/album/7evqrdGMYlXOOJi7Ozu1gs) | 2:57 |
 
-Snapshot ID: `MCw0MWE1ZTRmZDY3Zjg0MzI1Y2FmMjExZmVjNDc3MTllMzEyZjNjNjI1`
+Snapshot ID: `MCxhZWE1MTAwMzk3NzNmOGE1ZjM0NDkwZDg5YjY0MzNmNTVjOTBjYjQ3`

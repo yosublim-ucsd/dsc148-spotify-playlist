@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-95 songs - 9 hr 12 min
+96 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Saudades](https://open.spotify.com/track/3bR1zkhKF85T0mVrrIjLaT) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Saudades](https://open.spotify.com/album/0c2b9B5Cgmtwvm832NgUDR) | 3:34 | 2022-03-04 |  |
 | [Secrets](https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Secrets](https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI) | 5:27 | 2023-10-13 | 2024-01-27 |
 | [Sem Chão](https://open.spotify.com/track/5irKKFoCUyKFq8rvtSBIYM) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Sem Chão](https://open.spotify.com/album/3mCC0lCqstMOgi43doEefH) | 4:07 | 2022-03-04 |  |
+| [Shadows \(Memento Mori & Crazy Box Remix\)](https://open.spotify.com/track/1aphfUJg7oxnJ618poBMAl) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Shadows \(Memento Mori & Crazy Box Remix\)](https://open.spotify.com/album/4cZufNyR9PFES5vATZN2Fo) | 4:33 | 2024-03-01 |  |
 | [Shanti](https://open.spotify.com/track/1q6UdQJkg7ULE6qX0YVZSf) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shanti](https://open.spotify.com/album/6B2G8y3W2SXYWLgo45mDEk) | 3:50 | 2023-08-18 | 2024-01-27 |
 | [Sonho de um Passaro \- Special M Remix](https://open.spotify.com/track/2WlMKcobKZMKvoFcnlQbdS) | [Pedra Branca](https://open.spotify.com/artist/7ClRSpXsFCWnmUrSXGa8Gn), [Special M](https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX) | [Dance Floor Remixes](https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ) | 5:10 | 2022-03-04 |  |
 | [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Alex Wyze](https://open.spotify.com/artist/5F7VkOKbb7WIQFfFu7B5mQ), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp), [Muzik Dealerz](https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 | 2022-03-04 | 2023-07-08 |

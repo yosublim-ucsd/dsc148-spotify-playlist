@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 27134,
+  "2024-03-02": 27177,
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Aliocha Schneider",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Emma Peters",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -521,7 +521,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213142,
       "name": "Corps Nucl\u00e9aire",
       "url": "https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 172884,
       "name": "L'amour l'enfer",
       "url": "https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV"
@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "Multicolore",
+        "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Multicolore",
+      "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
+    },
+    {
+      "album": {
         "name": "Z\u00e9lie c'est qui ?",
         "url": "https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha"
       },
@@ -1886,6 +1904,28 @@
     },
     {
       "album": {
+        "name": "Mammif\u00e8re",
+        "url": "https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD"
+      },
+      "artists": [
+        {
+          "name": "Rouquine",
+          "url": "https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ"
+        },
+        {
+          "name": "THEOPHILE",
+          "url": "https://open.spotify.com/artist/6zkYFNl3FNXIdhQ5QOYpZm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "Poisson volant",
+      "url": "https://open.spotify.com/track/3nKNGeSonqI7Y5pAQjcQxt"
+    },
+    {
+      "album": {
         "name": "Populaire",
         "url": "https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE"
       },
@@ -2128,6 +2168,24 @@
     },
     {
       "album": {
+        "name": "sans mon soleil",
+        "url": "https://open.spotify.com/album/53pQvt5NAaAwQTwpXZtMQI"
+      },
+      "artists": [
+        {
+          "name": "Ferielle",
+          "url": "https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219039,
+      "name": "sans mon soleil",
+      "url": "https://open.spotify.com/track/7hUrPELY70yPmF4IVzM5Kw"
+    },
+    {
+      "album": {
         "name": "Sauv\u00e9e par la nuit",
         "url": "https://open.spotify.com/album/1oxBuZiPXUo6kEJhreMZmr"
       },
@@ -2157,7 +2215,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 177000,
       "name": "Scoot",
       "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"

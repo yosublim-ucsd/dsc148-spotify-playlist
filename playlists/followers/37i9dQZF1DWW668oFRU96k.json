@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 200634,
+  "2024-03-02": 200651,
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Mesto x WILHELM",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Seth Hills",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -565,7 +565,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179161,
       "name": "All in My Head",
       "url": "https://open.spotify.com/track/4YNNL9rSWanzMGEtarmKUv"
@@ -1229,6 +1229,28 @@
       "duration_ms": 188689,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI"
+    },
+    {
+      "album": {
+        "name": "Anything You Want",
+        "url": "https://open.spotify.com/album/0ZL9Dw7jjNM5oTruf0ZXmD"
+      },
+      "artists": [
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "L-Side",
+          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Anything You Want",
+      "url": "https://open.spotify.com/track/4AE09ZUZM0KkfILuUTtq6G"
     },
     {
       "album": {
@@ -1806,6 +1828,28 @@
     },
     {
       "album": {
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
+    },
+    {
+      "album": {
         "name": "16BOOSTERZ",
         "url": "https://open.spotify.com/album/0IrkJnF8UKtYPLR5pnqpgW"
       },
@@ -1891,6 +1935,28 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "album": {
+        "name": "Look In The Mirror",
+        "url": "https://open.spotify.com/album/5BTJf64AvqwYgOAcukNR9O"
+      },
+      "artists": [
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211959,
+      "name": "Bodybag (feat. Clubhouse)",
+      "url": "https://open.spotify.com/track/7GgzfCuZ0ASs8ptevKYTTj"
     },
     {
       "album": {
@@ -2170,6 +2236,32 @@
     },
     {
       "album": {
+        "name": "Bring Me On",
+        "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
+      },
+      "artists": [
+        {
+          "name": "LMNTRX",
+          "url": "https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD"
+        },
+        {
+          "name": "CIRE",
+          "url": "https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Bring Me On",
+      "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/6WuumJABwcfhfNSt9ChJXy"
       },
@@ -2405,7 +2497,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 153705,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/5yQy36RGCL7OJcklGrME9X"
@@ -2663,7 +2755,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 185249,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4DSPuJbLcJPyZw4F24aWfR"
@@ -3133,6 +3225,28 @@
       "duration_ms": 153230,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2QHR2UmW2Nf3MFVhL4ibTS"
+    },
+    {
+      "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
     },
     {
       "album": {
@@ -4333,7 +4447,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 222127,
       "name": "Dreamin\u2019 514",
       "url": "https://open.spotify.com/track/0YOIFJIldsty0RgEgUMZ1b"
@@ -4797,7 +4911,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152346,
       "name": "Everything + Nothing (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/6WPTuvAWWhCG7WhvSy4qTp"
@@ -4845,7 +4959,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 225230,
       "name": "Fact Check - 2Spade Remix",
       "url": "https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN"
@@ -4941,6 +5055,24 @@
       "duration_ms": 137424,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/1lRE7hPXdeTZhOrab1hA0T"
+    },
+    {
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/0B51aluQCSj1KMG32HUoPo"
+      },
+      "artists": [
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2BADyJlJFLUJtd4WruXdBb"
     },
     {
       "album": {
@@ -5924,6 +6056,28 @@
     },
     {
       "album": {
+        "name": "FOREVER (Kareem Ali Remix)",
+        "url": "https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        },
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "FOREVER - Kareem Ali Remix",
+      "url": "https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU"
+    },
+    {
+      "album": {
         "name": "Forget You (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/4tSBBYZHikk7WnaZclkZ0i"
       },
@@ -6221,7 +6375,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 189120,
       "name": "Get Up - Radio Edit",
       "url": "https://open.spotify.com/track/2v79qSIDtGycjfqaWiwYep"
@@ -6379,6 +6533,32 @@
       "duration_ms": 197122,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8"
+    },
+    {
+      "album": {
+        "name": "Glass House (Acoustic)",
+        "url": "https://open.spotify.com/album/2fMJIZA1bVqblR77E6teIg"
+      },
+      "artists": [
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        },
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168066,
+      "name": "Glass House (Acoustic)",
+      "url": "https://open.spotify.com/track/3QceQYNps4tRaqpzmCrBoN"
     },
     {
       "album": {
@@ -7218,6 +7398,28 @@
     },
     {
       "album": {
+        "name": "High On You (feat. Melissa de Kleine)",
+        "url": "https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Melissa de Kleine",
+          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "High On You (feat. Melissa de Kleine)",
+      "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
+    },
+    {
+      "album": {
         "name": "High With Me (feat. HERA)",
         "url": "https://open.spotify.com/album/2vYlor9aAZFHlumRlKe5xo"
       },
@@ -7607,6 +7809,28 @@
       "duration_ms": 171188,
       "name": "Hooked (Hot Stuff)",
       "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
+    },
+    {
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/5jFdwkp4wQL3a7PWAlIncg"
+      },
+      "artists": [
+        {
+          "name": "USAI",
+          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+        },
+        {
+          "name": "Redeem",
+          "url": "https://open.spotify.com/artist/6u1kWzXYc0GmRXyoWnkzPM"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/7ljHWDkPS449wZCcsaKPAE"
     },
     {
       "album": {
@@ -9403,6 +9627,32 @@
     {
       "album": {
         "name": "Lighter",
+        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "album": {
+        "name": "Lighter",
         "url": "https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX"
       },
       "artists": [
@@ -10027,6 +10277,24 @@
       "duration_ms": 166451,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/3pB0Dprmvibh84EQaOAggE"
+    },
+    {
+      "album": {
+        "name": "Love The Time",
+        "url": "https://open.spotify.com/album/06EdHzWzopCaCibluEkorL"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Love The Time",
+      "url": "https://open.spotify.com/track/0xEoyl1r3IxcrGwBu6MyyQ"
     },
     {
       "album": {
@@ -10687,7 +10955,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207535,
       "name": "Midnight Skies (feat. Jaime Deraz)",
       "url": "https://open.spotify.com/track/4cN2IBn5KtVf6LomjgsWf3"
@@ -10943,6 +11211,28 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "album": {
+        "name": "Monster (with Alok)",
+        "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175562,
+      "name": "Monster (with Alok)",
+      "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
     },
     {
       "album": {
@@ -11247,7 +11537,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 119995,
       "name": "Mundian To Bach Ke",
       "url": "https://open.spotify.com/track/58Xy5BL8WDdZZg6WWx49m3"
@@ -11452,6 +11742,28 @@
     },
     {
       "album": {
+        "name": "It All Makes Sense",
+        "url": "https://open.spotify.com/album/7JuKZCWPpuWIuJV9iGlszn"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        },
+        {
+          "name": "Leon",
+          "url": "https://open.spotify.com/artist/0FR8vsj1CQVGgXEBXkgOrV"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151022,
+      "name": "Need You Again",
+      "url": "https://open.spotify.com/track/2mhU9Ca0C834kNZ6PpYIhn"
+    },
+    {
+      "album": {
         "name": "Need You In My Life",
         "url": "https://open.spotify.com/album/2lSrPu9X77tM15CiIEBcU5"
       },
@@ -11617,7 +11929,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 174857,
       "name": "News Flash",
       "url": "https://open.spotify.com/track/6WwpiupvKNXouhWCLJntlJ"
@@ -12177,6 +12489,28 @@
       "duration_ms": 433170,
       "name": "Nothing To Hide",
       "url": "https://open.spotify.com/track/18k64Fjx1gZnh017XdteP6"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose (Club Mix)",
+        "url": "https://open.spotify.com/album/3C82q7gWQ4k1i6bno6t514"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        },
+        {
+          "name": "Lucles",
+          "url": "https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Nothing To Lose - Club Mix",
+      "url": "https://open.spotify.com/track/5vfy4WDMQKjoIil5vYkq99"
     },
     {
       "album": {
@@ -13444,6 +13778,28 @@
     },
     {
       "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Liam Geddes",
+          "url": "https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91"
+    },
+    {
+      "album": {
         "name": "Pressure (Radio Edit)",
         "url": "https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J"
       },
@@ -14698,6 +15054,32 @@
     },
     {
       "album": {
+        "name": "Runny Nose",
+        "url": "https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "NKY",
+          "url": "https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Runny Nose",
+      "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
+    },
+    {
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -15871,7 +16253,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187626,
       "name": "Stay High - Zerb Remix",
       "url": "https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF"
@@ -16289,7 +16671,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
@@ -19357,7 +19739,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152813,
       "name": "WTF R U!?",
       "url": "https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk"

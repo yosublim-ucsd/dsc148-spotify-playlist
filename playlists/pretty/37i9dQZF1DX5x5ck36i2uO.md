@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,408 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [You and Me \(feat\. Gummy\)](https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ) | 3:10 |
 | 50 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 |
 
-Snapshot ID: `MCw0NmIxNWM3MzFhODRhZDc2MTU0M2Y5YzA1YmJjYTZkYjgxYjg2Yzg2`
+Snapshot ID: `MCw3ZDE5ZTdmM2QxZjMwNzM1ODA0NTFiMDRmYWIyYzQ5MmMwZTQ0NDE1`

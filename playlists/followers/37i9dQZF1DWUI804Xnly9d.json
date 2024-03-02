@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 130929,
+  "2024-03-02": 130952,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Anuv Jain",
   "name": "Chai & Acoustic",
@@ -91,6 +91,24 @@
       "duration_ms": 212692,
       "name": "Aangan",
       "url": "https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh"
+    },
+    {
+      "album": {
+        "name": "Aao Na",
+        "url": "https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158575,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J"
     },
     {
       "album": {
@@ -4535,7 +4553,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 185000,
       "name": "Sheher",
       "url": "https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV"

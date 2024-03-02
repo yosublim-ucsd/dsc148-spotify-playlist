@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 529636,
+  "num_followers": 529706,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTY5ZGI0MTg1NDBkYzc2MzRkOGUxY2ZjYWRkMGMzODc1N2M4YzJj",
+  "snapshot_id": "MCw0NjE5MjRkNDljZDViZTZhZmVmMjYyODkzOWIzODBkMWM2NGVjYTBm",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Just Say",
-        "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Tara Carosielli",
-          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Just Say",
-      "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "EVERYTHING",
         "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 252778,
       "name": "Long Beach",
       "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Just Say",
+        "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Tara Carosielli",
+          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Just Say",
+      "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
     },
     {
       "added_at": "2023-09-16 00:49:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,991 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,056 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3) | [Kanako Kishi](https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Flower in the Snow \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj) | 2:41 |
 | 50 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 |
 
-Snapshot ID: `MCxjNmZjMWMzYTNiOTEyYTllN2ZkNmNhMzk0OWMxNmUwMjY3MTgzMTVm`
+Snapshot ID: `MCwwZTQ1NjY5ZDUxODFmODM2NWU1MDFmYTNiMWVhMTliZjQxY2UyZmZl`

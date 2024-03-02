@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Julia Q Artwork: Isu Kim
 
-2,135 songs - 5 day 6 hr 17 min
+2,136 songs - 5 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [Gabi](https://open.spotify.com/track/07uOcwr6m7IsYhqpW7pt8J) | [Patrick Lacambacal](https://open.spotify.com/artist/3wPfc9LxqTDNmgSgEo8lE2) | [Gabi](https://open.spotify.com/album/3vgaURkRJSo3aSt2PZoEmi) | 3:46 | 2023-02-23 | 2024-01-12 |
 | [Galaksiya](https://open.spotify.com/track/7FdFhreijVIfrDXzx3TOma) | [Gavv](https://open.spotify.com/artist/4OQhKvvX5GQzYIhkhW5x2M) | [Galaksiya](https://open.spotify.com/album/0rB0h1QmvoSUdouaD49pCq) | 5:57 | 2023-02-09 | 2023-02-24 |
 | [Galing Sa Wala](https://open.spotify.com/track/29PxwORM1SaHLbEJvTEoPg) | [Khael Domaro](https://open.spotify.com/artist/3ULqD3cPAmmDTfLHoPmS0R) | [Galing Sa Wala](https://open.spotify.com/album/0NoQmQeaEgBmwojsuFnHjx) | 3:23 | 2022-05-26 | 2022-06-03 |
+| [GAMBITLÜV](https://open.spotify.com/track/3XswYo6RX3PHU9s0V5G3L9) | [Aaron Fuentez](https://open.spotify.com/artist/7saXKDoncGMqUlkEyO72Zq) | [GAMBITLÜV](https://open.spotify.com/album/6blSega4yzAZfg5OOUD0at) | 2:38 | 2024-02-22 |  |
 | [Ganado](https://open.spotify.com/track/6VZXWzF7azvl34woacKiKw) | [Freddie Boi](https://open.spotify.com/artist/1yKUtH3rCYmaVF6qUDHja6), [NAM](https://open.spotify.com/artist/7IWjFF0ujgFCepFX56Q5eE) | [Ganado](https://open.spotify.com/album/6ie1qb0OX0nxpVp9BbypPD) | 3:00 | 2023-02-09 | 2023-02-17 |
 | [Gangsters](https://open.spotify.com/track/4IjSbJiMvjp7BTZsd7l7Iv) | [Japo Vs the French Girl](https://open.spotify.com/artist/14I96EEjQFjMejE629gJZ7) | [Gangsters](https://open.spotify.com/album/21cBINSxLSK0QLjrHRBcIA) | 3:52 | 2023-06-22 | 2023-07-07 |
 | [Ganun Talaga](https://open.spotify.com/track/31XDRO5EmVZxHv3dihbehu) | [Drei Sugay](https://open.spotify.com/artist/6f5IdrQoxbgR4Q8pIUVvTL) | [Ganun Talaga](https://open.spotify.com/album/3df7hCDQh5q5FYKEnxt18G) | 4:24 | 2023-02-23 | 2024-01-12 |

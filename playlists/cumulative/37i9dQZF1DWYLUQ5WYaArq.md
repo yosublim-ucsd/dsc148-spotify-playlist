@@ -4,7 +4,7 @@
 
 > a playlist for your pre or post party, either way, celebrate with PRIDE 🏳️‍🌈
 
-1,206 songs - 3 day 6 hr 0 min
+1,207 songs - 3 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,8 @@
 | [I'm Not the Same](https://open.spotify.com/track/5lZSgifthoUA1wtJkqR9Zk) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Treble & Reverb](https://open.spotify.com/album/4MJ4rEIbrugy2dE9J0QsXd) | 3:21 | 2024-02-14 | 2024-02-22 |
 | [I'm Outta Love \- Radio Edit](https://open.spotify.com/track/2CaseM6BKvQpi6blK8nbxC) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces of A Dream](https://open.spotify.com/album/6PN0LmMblPpj9yfa91Waa0) | 4:05 | 2024-02-21 | 2024-02-29 |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2023-09-14 | 2023-09-21 |
-| [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 | 2024-02-28 |  |
+| [I'm Too Sexy](https://open.spotify.com/track/1MQrMQwfqjgOjXEUaN9AMd) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Up \(Special Edition\)](https://open.spotify.com/album/0GeBgrCuLqz4NKMiv1aRez) | 2:50 | 2024-02-28 |  |
+| [I'm Too Sexy](https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt) | [Right Said Fred](https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL) | [Hits!](https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2) | 2:51 | 2024-02-28 | 2024-03-02 |
 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2024-02-14 | 2024-02-22 |
 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 | 2023-09-27 | 2023-10-05 |
 | [If I Could Only Be Sure](https://open.spotify.com/track/3X9MzewfAXyBbdPuWQDJUa) | [Nolan Porter](https://open.spotify.com/artist/7H2X4y4sB4EnP593GbQi66) | [Nolan](https://open.spotify.com/album/1Bi02TLjn4ONPqXTM6r9eu) | 3:21 | 2024-02-07 | 2024-02-15 |

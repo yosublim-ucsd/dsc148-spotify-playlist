@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 330444,
+  "num_followers": 330561,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2IxZDkyODlhNTBiMTc0ZGUyOTk2MmZkMDdhMGVjNzE0ZjVkYTRj",
+  "snapshot_id": "MCxkNzc5N2NhMWEwZjllOGEwYmIwYThhM2JlZjUzYzkxYjljYjJmMjQ1",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "So Far to Go",
         "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 154500,
       "name": "Sun Moon",
       "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "jealousy (feat. rema)",
-      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
         "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 243205,
       "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
       "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + brazy)",
         "url": "https://open.spotify.com/album/5hEYwukqmNvYtTHSgYOlos"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 286040,
       "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy",
       "url": "https://open.spotify.com/track/2pqiyukPWDQQSkKVDEoKoA"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 194177,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 194177,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
     },
     {
       "added_at": "2024-03-01 00:01:00",

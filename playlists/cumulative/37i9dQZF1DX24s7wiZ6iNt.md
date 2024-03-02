@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of indie in Canada in 2023\. Cover: Caroline Polachek
 
-283 songs - 16 hr 52 min
+284 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-11-30 | 2023-11-30 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-12-01 | 2022-12-01 |
 | [Animal](https://open.spotify.com/track/2zRDvVAN7uPToTi8Sedlf5) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:36 | 2021-12-01 | 2022-12-01 |
-| [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 | 2023-11-29 |  |
+| [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 | 2023-11-29 | 2024-03-02 |
+| [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/72AeIPJXQxYgtOIcmSnvQo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/58pSNHS8b5euMMXhLb1UAZ) | 3:48 | 2023-11-29 |  |
 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2022-11-30 | 2023-11-30 |
 | [Arm's Length](https://open.spotify.com/track/4UaRFwdpv9JFBxOvW6Xr11) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Arm's Length](https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs) | 4:11 | 2021-12-01 | 2022-12-01 |
 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 | 2023-11-29 |  |

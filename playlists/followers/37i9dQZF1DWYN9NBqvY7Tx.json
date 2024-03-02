@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 1053558,
+  "2024-03-02": 1054037,
   "date_first_scraped": "2022-05-09",
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
   "name": "Ultra Gaming",
@@ -1140,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -2153,6 +2171,28 @@
       "duration_ms": 257406,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
+    },
+    {
+      "album": {
+        "name": "TESSERACT",
+        "url": "https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dreams (Plasma Reflex) (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1"
     },
     {
       "album": {
@@ -3267,7 +3307,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 126102,
       "name": "F\u039bSHION - Speed Up",
       "url": "https://open.spotify.com/track/7hbqhzGV5y3cxtGE1ajbpb"
@@ -3293,7 +3333,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -4291,7 +4331,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 110133,
       "name": "I'm so crazy for youuu </3",
       "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
@@ -6755,7 +6795,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 268706,
       "name": "Promises - Skrillex & Nero Remix",
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"
@@ -9899,7 +9939,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 122414,
       "name": "WHAT YOU WANT!",
       "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
@@ -10087,7 +10127,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"

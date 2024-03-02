@@ -27,6 +27,36 @@
     },
     {
       "album": {
+        "name": "A Internet \u00c9 Toxica",
+        "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
+      },
+      "artists": [
+        {
+          "name": "Dj Lc",
+          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161884,
+      "name": "A Internet \u00c9 Toxica",
+      "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
+    },
+    {
+      "album": {
         "name": "A Semana Inteira",
         "url": "https://open.spotify.com/album/0mcOvuCggLZ4TC32eXi68x"
       },
@@ -1854,7 +1884,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/60uJdOohyohJqZhST7lij3"
@@ -2128,6 +2158,36 @@
       "duration_ms": 138461,
       "name": "Eu Fiquei Com a Puta",
       "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Cair na Noite",
+        "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
+      },
+      "artists": [
+        {
+          "name": "DJ RENAN DA BL",
+          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
+        },
+        {
+          "name": "Dj Jl Do Tp",
+          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125422,
+      "name": "Eu Vou Cair na Noite",
+      "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
     },
     {
       "album": {
@@ -2898,7 +2958,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
@@ -2968,6 +3028,32 @@
       "duration_ms": 232255,
       "name": "Lelalaue",
       "url": "https://open.spotify.com/track/3NBeihcw8SR7rXI0Amd6LH"
+    },
+    {
+      "album": {
+        "name": "Vamo de Nova",
+        "url": "https://open.spotify.com/album/7EO5s1F4RLF6gS3kycvxAt"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Mc Pelourinho",
+          "url": "https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx"
+        },
+        {
+          "name": "DJ Kennedy OBraboo",
+          "url": "https://open.spotify.com/artist/0We5nkC71G4o6OHkLfx9uh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125592,
+      "name": "Lembra Aquele Cara",
+      "url": "https://open.spotify.com/track/4O4zPFoJ5HWnqbGYlCA2qc"
     },
     {
       "album": {
@@ -4642,7 +4728,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 136615,
       "name": "Quebra Cabe\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
@@ -4998,7 +5084,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 118272,
       "name": "Sarra na Pe\u00e7a",
       "url": "https://open.spotify.com/track/1gOC2khxGntkFDGKZfwnFT"
@@ -5263,6 +5349,76 @@
     },
     {
       "album": {
+        "name": "Set Dj Gm 6.0",
+        "url": "https://open.spotify.com/album/3PJWTYXjCCatdpiSKNUY9N"
+      },
+      "artists": [
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "Set Dj Gm 6.0",
+      "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
+    },
+    {
+      "album": {
         "name": "Set do Dj 2W, Vol. 2",
         "url": "https://open.spotify.com/album/6Fv7UJ57SIJVRJqru2fuzu"
       },
@@ -5518,7 +5674,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 490666,
       "name": "Set PodPah",
       "url": "https://open.spotify.com/track/0yPKOHnJ3V7YY7Lhg80jJM"
@@ -5909,6 +6065,32 @@
     },
     {
       "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
+    },
+    {
+      "album": {
         "name": "Tubar\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
       },
@@ -5940,6 +6122,40 @@
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
+    },
+    {
+      "album": {
+        "name": "Baile do Bruxo (DELUXE)",
+        "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        },
+        {
+          "name": "Dj Vitin do Pc",
+          "url": "https://open.spotify.com/artist/2GAcS9WZyORyDBzd5bwfU5"
+        },
+        {
+          "name": "MC JF",
+          "url": "https://open.spotify.com/artist/70l3FIdU2mVxemr3ahhgFs"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121384,
+      "name": "TUM B\u00c1 TUM",
+      "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
     },
     {
       "album": {
@@ -6020,7 +6236,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"

@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 2868929,
+  "2024-03-02": 2869325,
   "date_first_scraped": "2020-10-13",
   "description": "Current favorites and exciting new music. Cover: Selena Gomez",
   "name": "just hits",
@@ -4181,7 +4181,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/0K44WSIFl2unqJEwKuLXGo"
@@ -4233,7 +4233,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2kNhZ57JHXkZPZH2rknRyu"

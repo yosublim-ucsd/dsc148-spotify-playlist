@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-2,237 songs - 5 day 2 hr 28 min
+2,238 songs - 5 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [Guessing Games](https://open.spotify.com/track/0xgo02DagmJEEzeOYkXD1j) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO), [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Guessing Games](https://open.spotify.com/album/5KXlcnV6vQH1dW3UdVfgfY) | 3:07 | 2021-12-01 | 2022-01-13 |
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-02-17 | 2022-04-07 |
 | [GUM](https://open.spotify.com/track/7HO5QGBU5COHjt0o7Vz62R) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [GUM](https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU) | 3:33 | 2021-12-01 | 2022-01-13 |
+| [Gun](https://open.spotify.com/track/5etSvIy1fQ3TaA8b79lDuu) | [Cancel](https://open.spotify.com/artist/4NWzLCBc7BWOFdTVKewO4Q) | [Gun](https://open.spotify.com/album/7nXbA6TRS8UL8md9Q1ZXCp) | 3:25 | 2024-03-01 |  |
 | [Gun Shy](https://open.spotify.com/track/2g44BeDO4tQpJqyT5Wpf5F) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Gun Shy](https://open.spotify.com/album/5LlDx6jpT2hit9RynClr6Z) | 3:40 | 2023-03-22 | 2023-04-13 |
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-15 | 2024-01-11 |
 | [Guts](https://open.spotify.com/track/3cJ0d47ciEYZY7VGCjzpaT) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Guts](https://open.spotify.com/album/22Gau97nAYxmUWsgn3YZcg) | 3:49 | 2023-06-07 | 2023-07-12 |

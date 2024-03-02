@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "Driven",
+        "url": "https://open.spotify.com/album/2yzkXEduzUyz2xUaikFNJt"
+      },
+      "artists": [
+        {
+          "name": "Kaira",
+          "url": "https://open.spotify.com/artist/24G9JLS9UymXL553GyzogI"
+        },
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jussi Lehtonen",
+          "url": "https://open.spotify.com/artist/2HilbFWypaCnlUZeesaIXb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417653,
+      "name": "Driven",
+      "url": "https://open.spotify.com/track/67GfR54qFkWa4GvQPXaZbK"
+    },
+    {
+      "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
       },
@@ -4243,6 +4269,36 @@
     },
     {
       "album": {
+        "name": "Your Special Loss",
+        "url": "https://open.spotify.com/album/1RIvIRKlgKxh8plgbOdlJ9"
+      },
+      "artists": [
+        {
+          "name": "Adele Sauros",
+          "url": "https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3"
+        },
+        {
+          "name": "Toomas Keski-S\u00e4ntti",
+          "url": "https://open.spotify.com/artist/6Nv4OPkMMv7s5Kush2Flp3"
+        },
+        {
+          "name": "Vesa Ojaniemi",
+          "url": "https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F"
+        },
+        {
+          "name": "Tuomas Timonen",
+          "url": "https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364613,
+      "name": "Your Special Loss",
+      "url": "https://open.spotify.com/track/3aesBSd2hA9k3pwjXUZaab"
+    },
+    {
+      "album": {
         "name": "Y\u00f6 Kaivopuistossa",
         "url": "https://open.spotify.com/album/02g76ffVx121FMO2PQjZ7h"
       },
@@ -4276,6 +4332,36 @@
       "duration_ms": 246706,
       "name": "Y\u00f6laulu",
       "url": "https://open.spotify.com/track/2ht22f3HTPT33rwoUAhCyJ"
+    },
+    {
+      "album": {
+        "name": "Zen Coltrane (A Relinquishing Ritual)",
+        "url": "https://open.spotify.com/album/1KJP9yhl3SC5qHULfsIRNr"
+      },
+      "artists": [
+        {
+          "name": "Symbiocene",
+          "url": "https://open.spotify.com/artist/5l42SzRtQuj28417dsqQ6m"
+        },
+        {
+          "name": "Jarmo Saari",
+          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
+        },
+        {
+          "name": "Pauli Lyytinen",
+          "url": "https://open.spotify.com/artist/31yZJRhBpvlTxtgQM5skfA"
+        },
+        {
+          "name": "Anni Elif",
+          "url": "https://open.spotify.com/artist/1JmCGH2y1Cifm0lRyVYAww"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244271,
+      "name": "Zen Coltrane (A Relinquishing Ritual)",
+      "url": "https://open.spotify.com/track/0C2eQx5k3HZ5d9vVtFdi59"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5k5FacKg0Ta"

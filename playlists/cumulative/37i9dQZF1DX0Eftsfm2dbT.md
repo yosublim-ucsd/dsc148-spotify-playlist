@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  Only U
 
-527 songs - 1 day 3 hr 2 min
+528 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Made In Japan](https://open.spotify.com/track/2g4R2yFO2lWf1EzVNFTM18) | [DJ YUHH](https://open.spotify.com/artist/6gKGe2OP7u3UketewgWiP4), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Made In Japan](https://open.spotify.com/album/6UVjCi5Ht0Zm64FVO9cz8f) | 2:22 | 2023-11-22 | 2024-01-12 |
 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 | 2023-09-21 | 2024-01-05 |
 | [Map](https://open.spotify.com/track/0fp0f5ZA3gUdzwB5Vlm6Wg) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [SCRAP](https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh) | 2:22 | 2023-10-31 | 2023-11-22 |
-| [Marathon](https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/4ba8By2IRyafRsALbAaSX1) | 2:19 | 2024-02-29 |  |
+| [Marathon](https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/4ba8By2IRyafRsALbAaSX1) | 2:19 | 2024-02-29 | 2024-03-02 |
+| [Marathon](https://open.spotify.com/track/1R1ithziTyKJ1qWjmQdRWM) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:19 | 2024-02-29 |  |
 | [Marmot](https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Marmot](https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F) | 2:49 | 2023-12-12 | 2024-02-14 |
 | [Master Piece](https://open.spotify.com/track/76890CDqkrO0bteb2X0dIn) | [BUPPON](https://open.spotify.com/artist/4Q4bzvnwPmKRWqdL33NIQ6), [ILL\-BOSSTINO](https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO) | [Master Piece](https://open.spotify.com/album/4AJJcvPWdfEfHtUxGCTVva) | 3:25 | 2023-10-17 | 2023-10-25 |
 | [ME TIME](https://open.spotify.com/track/3wXQUSNyXS8AsTnCn8Xn9s) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [ME TIME](https://open.spotify.com/album/6Gs7PRxTjiJArmnTQu4kQt) | 2:52 | 2023-11-14 | 2023-11-29 |

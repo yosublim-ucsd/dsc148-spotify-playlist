@@ -1,13 +1,113 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 974985,
+  "num_followers": 974981,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTc3MDMxMzVhODIzNjZjZDdlZDkxZjEzNWM3NzZiOTAxZWQ3NmFm",
+  "snapshot_id": "MCwxN2Y0ZjQyNGQ3Y2I1MjMxNTI2ZWUyM2MxZTVhYTI1MjQzMDNiMjU1",
   "tracks": [
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "LOVE NEVER FELT LIKE THIS",
+      "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Waiting for God in the Garden",
+        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Waiting for God in the Garden",
+      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You Were Mine",
+        "url": "https://open.spotify.com/album/674xNsjLRyL3aDeWG3Zmcc"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 171524,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/0nt9QNF9rY5mPTAV9Nn9yH"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
@@ -25,44 +125,68 @@
       "url": "https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+        "name": "Lo",
+        "url": "https://open.spotify.com/album/34e9TlwRud2q5TzVr84KKb"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+      "duration_ms": 301478,
+      "name": "Follow The Moon",
+      "url": "https://open.spotify.com/track/1azl0mAG86yUv8CCV6KrSB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
-        "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
+        "name": "I Don\u2019t Wanna See You Try",
+        "url": "https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
         }
       ],
-      "duration_ms": 352106,
-      "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
-      "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
+      "duration_ms": 163133,
+      "name": "I Don\u2019t Wanna See You Try",
+      "url": "https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "I Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "I Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -83,22 +207,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "LOVE NEVER FELT LIKE THIS",
-      "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL"
       },
@@ -111,38 +219,6 @@
       "duration_ms": 338195,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "I Don\u2019t Wanna See You Try",
-        "url": "https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "I Don\u2019t Wanna See You Try",
-      "url": "https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -295,22 +371,6 @@
       "duration_ms": 187324,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Long Story Short",
-        "url": "https://open.spotify.com/album/4SqAgPzPTK2iGSUghYzPS9"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Long Story Short",
-      "url": "https://open.spotify.com/track/5oZBQRkDntRkxssyD3V45Y"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -653,34 +713,6 @@
       "url": "https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
-    },
-    {
       "added_at": "2023-12-01 05:01:00",
       "album": {
         "name": "Don't Make Sense",
@@ -828,7 +860,7 @@
           "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 306050,
+      "duration_ms": 305966,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
     },
@@ -1113,26 +1145,6 @@
       "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Bebe",
-        "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203427,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
-    },
-    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Ice Slippin",
@@ -1279,22 +1291,6 @@
       "duration_ms": 268584,
       "name": "If You Think You've Seen It All",
       "url": "https://open.spotify.com/track/6nzegGZ4Y4YQq2dSsbF9R7"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/4rbl87dwD8DuREheLUJsyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/01twL64hJwU3kAiSsUsIVa"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1467,22 +1463,6 @@
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Silly Me",
-        "url": "https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 199820,
-      "name": "Silly Me",
-      "url": "https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr"
     },
     {
       "added_at": "2023-04-07 04:01:00",

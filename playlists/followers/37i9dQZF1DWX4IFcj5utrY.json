@@ -1,5 +1,5 @@
 {
-  "2024-03-01": 72994,
+  "2024-03-02": 73025,
   "date_first_scraped": "2021-12-29",
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=eXMnqbKqRbGHU2vdnJw4jQ\">DBN Gogo</a>",
   "name": "mint South Africa",
@@ -3224,6 +3224,24 @@
     },
     {
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "album": {
         "name": "Boys Chill",
         "url": "https://open.spotify.com/album/6KtOV4vuMXVqut2aNNlmTn"
       },
@@ -4283,6 +4301,28 @@
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
     },
     {
       "album": {
@@ -7309,7 +7349,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 383078,
       "name": "Hey Sister",
       "url": "https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg"
@@ -10923,7 +10963,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 374465,
       "name": "Life As You Know It",
       "url": "https://open.spotify.com/track/1YSr5YbdrChZR7yzyjRTXn"

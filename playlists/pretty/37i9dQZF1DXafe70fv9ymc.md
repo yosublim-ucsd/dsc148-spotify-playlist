@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > you give me shiverssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 49 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 |
 | 50 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 |
 
-Snapshot ID: `MCw5NmMyZTM1NzM3OWRkODBkNTIwY2QxNTU0ZjI0NjkzOTVhNzBjY2U1`
+Snapshot ID: `MCw3ZTRhNThlYmNhYjQxYmZmZTQ5NDhkZGI0OTBhZmFlZmI4M2RkZjMx`

@@ -1,12 +1,12 @@
 {
   "description": "christmas always makes me cry",
-  "num_followers": 23797,
+  "num_followers": 23795,
   "original_name": "sad xmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTkyOTg0YzExMDkwZWNjMDVmYTY3YjZkMWQ3MjhiMGU1ODUyYWFh",
+  "snapshot_id": "MCwxYjk5NmRiZDgwYTFiZTY4NGY1MjZkYTA5YmE0OWZjNTI3NjU5N2Vm",
   "tracks": [
     {
       "added_at": "2023-11-21 19:42:27",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
       "artists": [
         {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
+      "duration_ms": 121360,
+      "name": "cindy lou who",
+      "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
         }
       ],
-      "duration_ms": 121360,
-      "name": "cindy lou who",
-      "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Christmas Waltz - Remastered 1999",
-      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
-    },
-    {
-      "added_at": "2023-11-21 19:42:27",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 229840,
       "name": "\u2018tis the damn season",
       "url": "https://open.spotify.com/track/4GBkffrtA51p17JH35irGA"
+    },
+    {
+      "added_at": "2023-11-21 19:42:27",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Christmas Waltz - Remastered 1999",
+      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg"
+    },
+    {
+      "added_at": "2023-11-21 19:42:27",
+      "album": {
         "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
         "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg"
-    },
-    {
-      "added_at": "2023-11-21 19:42:27",
-      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -555,38 +555,34 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "Merry Christmas (with Percy Faith & His Orchestra)",
-        "url": "https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG"
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 237080,
-      "name": "What Child Is This? (with Percy Faith & His Orchestra)",
-      "url": "https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj"
+      "duration_ms": 178533,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -607,18 +603,22 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "Christmas Songs by Sinatra",
-        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+        "name": "Merry Christmas (with Percy Faith & His Orchestra)",
+        "url": "https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp"
+      "duration_ms": 237080,
+      "name": "What Child Is This? (with Percy Faith & His Orchestra)",
+      "url": "https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
-        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Frosty the Snowman",
-      "url": "https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp"
-    },
-    {
-      "added_at": "2023-11-21 19:42:27",
-      "album": {
         "name": "2000 Miles",
         "url": "https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 195717,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d"
+    },
+    {
+      "added_at": "2023-11-21 19:42:27",
+      "album": {
+        "name": "The Hotel Caf\u00e9 presents... Winter Songs",
+        "url": "https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp"
     },
     {
       "added_at": "2023-11-21 19:42:27",

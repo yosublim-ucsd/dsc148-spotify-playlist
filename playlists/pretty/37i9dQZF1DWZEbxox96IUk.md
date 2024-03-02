@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,023 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,059 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 50 | [Maîtresse](https://open.spotify.com/track/6UT5PGqkKoUbEEgSJEdtqY) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [L'album](https://open.spotify.com/album/0h7NQszOFKKgJ1jacUpxb0) | 4:01 |
 | 51 | [Les brunes comptent pas pour des prunes](https://open.spotify.com/track/0m3nRJ6mqWIY4LRvuy98n7) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Pop Model](https://open.spotify.com/album/3wkTAR7eZXOmh7TZcpJzD5) | 3:09 |
 | 52 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 |
-| 53 | [Manureva](https://open.spotify.com/track/6IOledhFH0nPfNv9VHsNPY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/2LNSCP5sNpZ057eCmKRLIx) | 6:43 |
+| 53 | [Manureva](https://open.spotify.com/track/3ZbA8v0v4TiZlS6zUs8uvO) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Poses](https://open.spotify.com/album/4f9Ar34xlOejFn3Qx6W0in) | 6:43 |
 | 54 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
 | 55 | [C'est l'amour \- Version originale](https://open.spotify.com/track/5fSpVOafE3DSUs0xztUf6k) | [Léopold Nord & Vous](https://open.spotify.com/artist/66M3IT7olPYfvGGRSfXQms) | [C'est l'amour](https://open.spotify.com/album/0bcoBIHzBtAmMavPXiXfgP) | 3:24 |
 | 56 | [Tes états d'âme Eric](https://open.spotify.com/track/41OT0gmF3Ku5BAo06uoKvN) | [Luna Parker](https://open.spotify.com/artist/6JWjzo212lkYEtlowpF2sK) | [Felin Pour L'Autre](https://open.spotify.com/album/3yw7s4ANFbfPw4uYFVjvW0) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 59 | [Pour le plaisir](https://open.spotify.com/track/3UbjLaV37WezwuvT2pdsIL) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 3:48 |
 | 60 | [A caus' des garçons \- Radio Version](https://open.spotify.com/track/6qVHavRuhCeoNq66osK4cL) | [A Caus' Des Garçons](https://open.spotify.com/artist/44rIoyd04L9FBK4P8zrodX) | [A caus' des garçons](https://open.spotify.com/album/2Pd31sl13MAvyawXBToJi7) | 4:13 |
 
-Snapshot ID: `MCwyNWI2NmYxNzZjZTI1OGE3NjBiNjJkZDFjYjIzNjNkY2U1OGZjYjFl`
+Snapshot ID: `MCxkZWY3NTk5YmI0YjA0YTlhNGUwMTBiYThjNTYzMzhhODhiZGQxOTFh`

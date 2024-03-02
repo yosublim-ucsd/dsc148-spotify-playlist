@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 33997,
+  "num_followers": 34038,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDE1ZGM0OTNiOWY5NGMxZjc3ZGY1Y2M3NmViMmM2NmJkMTRmMmVj",
+  "snapshot_id": "MCw2OGFmODRjNGUzZmIzNGZiOWRmMTg5MWZkMDUxNjNjYjdkZjc0MjEy",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Presenting Blind Blake",
-        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
-      },
-      "artists": [
-        {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 175200,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -427,6 +411,38 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -459,22 +475,6 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/23QW9fg9KaWS4Jza41DuIT"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Down In Mississippi",
         "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -699,22 +683,6 @@
       "duration_ms": 255506,
       "name": "Everytime I Get to Drinking",
       "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 250877,
-      "name": "Wade In The Water",
-      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -735,6 +703,22 @@
       "duration_ms": 231632,
       "name": "Tipitina",
       "url": "https://open.spotify.com/track/764IqpFAE6Xe7WVXavGchU"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 250877,
+      "name": "Wade In The Water",
+      "url": "https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "New Orleans Piano Professor",
         "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
         "name": "Chicago Piano Volume 1",
         "url": "https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 274360,
       "name": "Make Me a Pallet on the Floor",
       "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
     },
     {
       "added_at": "2023-09-15 11:43:10",

@@ -1,7 +1,7 @@
 {
-  "2024-03-01": 519573,
+  "2024-03-02": 519742,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality, Hard GZ",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -291,7 +291,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 258790,
       "name": "A tiempo",
       "url": "https://open.spotify.com/track/3zH6SxrBp37Ludmai5Xa3W"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 205479,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5blhEfe4Ac3nxKsO8HQ6wN"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 265917,
       "name": "EL CIELO",
       "url": "https://open.spotify.com/track/463VPNMkJAbRUFYlEf8NMJ"
@@ -2450,6 +2450,32 @@
     },
     {
       "album": {
+        "name": "Hip Hop Sh*t",
+        "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Chicho Beats",
+          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195113,
+      "name": "Hip Hop Sh*t",
+      "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
+    },
+    {
+      "album": {
         "name": "Mal de amores",
         "url": "https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji"
       },
@@ -2653,6 +2679,28 @@
       "duration_ms": 258709,
       "name": "Kurosawa",
       "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
+    },
+    {
+      "album": {
+        "name": "La Chatarra",
+        "url": "https://open.spotify.com/album/3rOKO9wAsFlgVMsVgITlCM"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "La Chatarra",
+      "url": "https://open.spotify.com/track/3rDOICIhlKdAoDODvDoivf"
     },
     {
       "album": {
@@ -2929,6 +2977,24 @@
       "duration_ms": 243750,
       "name": "Lacura",
       "url": "https://open.spotify.com/track/4UCBtSSeGypt1LtErdAuzY"
+    },
+    {
+      "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/68zMolcVRcnTEP0R7Si0bw"
+      },
+      "artists": [
+        {
+          "name": "Zetazen",
+          "url": "https://open.spotify.com/artist/66BpLv7bc0OLbr50D1cnGS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204098,
+      "name": "LEALTAD",
+      "url": "https://open.spotify.com/track/0vrbXaHhYGfppOoi5bQxR2"
     },
     {
       "album": {
@@ -4130,6 +4196,24 @@
     },
     {
       "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/30kHcoZcUIsNuMG03GkNfV"
+      },
+      "artists": [
+        {
+          "name": "Skinny Flex",
+          "url": "https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151072,
+      "name": "No More Drama",
+      "url": "https://open.spotify.com/track/1XhIuCtu2eIVFI7KhjaUIo"
+    },
+    {
+      "album": {
         "name": "No Se Emula",
         "url": "https://open.spotify.com/album/2E4cM64H1dU8IOYsd25qQA"
       },
@@ -4251,6 +4335,24 @@
       "duration_ms": 235204,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/3lhBtkwoZuzjaykxbQvQzX"
+    },
+    {
+      "album": {
+        "name": "OJO DE CALLE",
+        "url": "https://open.spotify.com/album/2scYWS5lAcuMZN7jRbYOyn"
+      },
+      "artists": [
+        {
+          "name": "Lopes",
+          "url": "https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175247,
+      "name": "OJO DE CALLE",
+      "url": "https://open.spotify.com/track/7ym11nrYNIMyQcMUgYu9q8"
     },
     {
       "album": {
@@ -4603,7 +4705,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187457,
       "name": "Rehabilita2",
       "url": "https://open.spotify.com/track/7EXV0ck2yivz2kwYR52rmM"
@@ -5146,6 +5248,28 @@
     },
     {
       "album": {
+        "name": "Sin Clase",
+        "url": "https://open.spotify.com/album/1avKeuJWNezllVpbZIvG1L"
+      },
+      "artists": [
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135970,
+      "name": "Sin Clase",
+      "url": "https://open.spotify.com/track/7i3r4LjKnXc6DaH6FHIp3p"
+    },
+    {
+      "album": {
         "name": "SIN CULPA",
         "url": "https://open.spotify.com/album/4DF8dnCP0fYxRHbRjrpFKn"
       },
@@ -5353,6 +5477,24 @@
       "duration_ms": 128863,
       "name": "Subsidio",
       "url": "https://open.spotify.com/track/0dpWPLQzGd9w4Lk482aYSl"
+    },
+    {
+      "album": {
+        "name": "Subze",
+        "url": "https://open.spotify.com/album/570NEQDfCt3ADJfSElIy5j"
+      },
+      "artists": [
+        {
+          "name": "Subze",
+          "url": "https://open.spotify.com/artist/1iw6ZNe7cO6LGk61z3pMRJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Subze",
+      "url": "https://open.spotify.com/track/2213JLy1B8BURHKmc8qnG1"
     },
     {
       "album": {

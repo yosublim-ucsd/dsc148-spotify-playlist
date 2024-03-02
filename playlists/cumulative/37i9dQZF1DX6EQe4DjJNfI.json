@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219487,
+      "name": "A MEIA NOITE",
+      "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
+    },
+    {
+      "album": {
         "name": "A Noite Toda",
         "url": "https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184000,
       "name": "Cad\u00ea Aquele Nosso Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw"
@@ -2813,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        },
+        {
+          "name": "Amanda Magno",
+          "url": "https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "PORTAIS",
+      "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -2942,7 +2982,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 148800,
       "name": "PURPLE",
       "url": "https://open.spotify.com/track/2J3xuJN4m01hI5aEDurglC"

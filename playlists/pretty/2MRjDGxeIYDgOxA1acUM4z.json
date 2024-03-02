@@ -6,7 +6,7 @@
     "name": "Lolo",
     "url": "https://open.spotify.com/user/126463876"
   },
-  "snapshot_id": "MTQ3LDk1NDNiZTcwYzRiMWU0MDBlMGVlM2FiM2I4OGY0NTM2ZWMwNzI2NmU=",
+  "snapshot_id": "MTUxLDY3MDFmOTRmYzlkMjI1ZmY3YjA5MmQwODdjNGY5OTdkZjU4M2IxZTE=",
   "tracks": [
     {
       "added_at": "2024-03-01 13:56:55",
@@ -871,6 +871,70 @@
       "duration_ms": 204133,
       "name": "Out There",
       "url": "https://open.spotify.com/track/6eO8bUr6vsBKuA6nLfsvUY"
+    },
+    {
+      "added_at": "2024-03-02 00:01:37",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4h8xh5PZ1CNVW9vTdqRYAL"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r"
+    },
+    {
+      "added_at": "2024-03-02 00:08:44",
+      "album": {
+        "name": "Ryan Amador",
+        "url": "https://open.spotify.com/album/0fDhnwGhz9Mzq7s8IMUtEF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Amador",
+          "url": "https://open.spotify.com/artist/1ihU4zSTmY0qQXhx8jEXWT"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Instead",
+      "url": "https://open.spotify.com/track/6Ed1ziyANcIOJOyHbfr8ie"
+    },
+    {
+      "added_at": "2024-03-02 00:51:01",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "added_at": "2024-03-02 01:17:09",
+      "album": {
+        "name": "Superache",
+        "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3TFoEJe5zNuHZStRboWPxg"
     }
   ],
   "unique_name": "HurneyNerney",

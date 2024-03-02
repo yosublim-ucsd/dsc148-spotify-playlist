@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JqheIjxBME.md) - [plain]
 
 > El cancionero que retrata las batalles y personajes que dejaron huella en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,969 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,972 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JqheIjxBME.md) - [plain]
 | 36 | [Corrido Villista](https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos De La Revolucion](https://open.spotify.com/album/3ZhQxx4Ls2u4XSci0KgHGH) | 2:34 |
 | 37 | [La Joaquinita](https://open.spotify.com/track/4GGh77wefDatoRZjXop6WF) | [Hermanos Zaizar](https://open.spotify.com/artist/5KbyfDCBeFU2FrZy5yVvyo) | [Cantares de la Revolución](https://open.spotify.com/album/7o6LjTdRyzrvnfrTEe8nPp) | 2:53 |
 | 38 | [Yo Soy el Corrido](https://open.spotify.com/track/72pO5ynabIQgdvhLHDX1HS) | [Ignacio López Tarso](https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d) | [La Gran Colección del 60 Aniversario CBS \- Ignacio López Tarso](https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp) | 0:52 |
-| 39 | [El Grano De Oro](https://open.spotify.com/track/4j3fJ8xlaEduaMwGcWRWrB) | [Los Donnenos](https://open.spotify.com/artist/5WruSrX9f5cne1grgWg6c9) | [16 Corridos De La Revolucion Mexicana](https://open.spotify.com/album/31EVfcK2KQq4ZmycwCAwml) | 3:23 |
-| 40 | [General Emiliano Zapata](https://open.spotify.com/track/5Npjt6t4TfDzF4GEVTEfXv) | [Voces del Pueblo](https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8) | [Canciones de la Revolución](https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb) | 3:04 |
-| 41 | [El Cerro de la Silla](https://open.spotify.com/track/06OALIBJvuZsCh7pBknXD2) | [Dueto Los Pajareros](https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:17 |
+| 39 | [El Cerro de la Silla](https://open.spotify.com/track/06OALIBJvuZsCh7pBknXD2) | [Dueto Los Pajareros](https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:17 |
+| 40 | [El Grano De Oro](https://open.spotify.com/track/4j3fJ8xlaEduaMwGcWRWrB) | [Los Donnenos](https://open.spotify.com/artist/5WruSrX9f5cne1grgWg6c9) | [16 Corridos De La Revolucion Mexicana](https://open.spotify.com/album/31EVfcK2KQq4ZmycwCAwml) | 3:23 |
+| 41 | [General Emiliano Zapata](https://open.spotify.com/track/5Npjt6t4TfDzF4GEVTEfXv) | [Voces del Pueblo](https://open.spotify.com/artist/2QY4NmI7vuthYSPxZHHfC8) | [Canciones de la Revolución](https://open.spotify.com/album/5AIynt1Sq2vs6tw8Y21jYb) | 3:04 |
 | 42 | [El Abandonado](https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL) | [Mariachi Popular América](https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:45 |
 | 43 | [La Valentina](https://open.spotify.com/track/2ZFHnAQlDPHftIwTEUZ3xg) | [Jorge Negrete y Maricahi](https://open.spotify.com/artist/7wl1UzFhl0FLZLvVxBRxGM) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 2:36 |
 | 44 | [Tumba Abandonada](https://open.spotify.com/track/4JbfyqL4Ogt0gU4jQrxS6l) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Revolucionarios](https://open.spotify.com/album/3S0CeB9t9ddrbCLbRQHSGn) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JqheIjxBME.md) - [plain]
 | 99 | [Cuatro Vidas](https://open.spotify.com/track/6CJq3VM4rofkMCYNDZvqsU) | [Dueto Los Pajareros](https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 3:17 |
 | 100 | [Dos Cartas Perdidas](https://open.spotify.com/track/0pzEaRxApy0Wejh5WtICJe) | [Ignacio López Tarso](https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d) | [La Gran Colección del 60 Aniversario CBS \- Ignacio López Tarso](https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp) | 16:45 |
 
-Snapshot ID: `MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3`
+Snapshot ID: `MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj`

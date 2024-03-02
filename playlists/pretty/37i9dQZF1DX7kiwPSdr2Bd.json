@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Mari Borges",
-  "num_followers": 312403,
+  "num_followers": 312530,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzRhNWM0M2M2MDZkYWJiYjNhNWM5MzI0MGMwMGVmY2VkMzUwM2Fm",
+  "snapshot_id": "MCwzYTdhZmFhNjUzZGI4ZTk5ZjAyZTQ2YjIxNGQ4NDk3MDAzZGRjN2Y2",
   "tracks": [
     {
       "added_at": "2023-12-22 15:14:14",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
         "name": "Redimido (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 347413,
       "name": "Redimido - Ao Vivo",
       "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-12-22 15:14:14",
       "album": {
-        "name": "Sensibilidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 391899,
-      "name": "Sensibilidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "Sensibilidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 391899,
+      "name": "Sensibilidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -1055,6 +1055,26 @@
       "duration_ms": 320000,
       "name": "Santo Pra Sempre (Ao Vivo)",
       "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
+    },
+    {
+      "added_at": "2023-12-22 15:14:14",
+      "album": {
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2023-12-22 15:14:14",
@@ -1143,26 +1163,6 @@
       "duration_ms": 459720,
       "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
       "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
-    },
-    {
-      "added_at": "2023-12-22 15:14:14",
-      "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2023-12-22 15:14:14",

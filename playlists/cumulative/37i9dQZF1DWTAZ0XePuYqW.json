@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:6MoQZOH2KnQrJhVtO9VoXC\">Cakes da Killa</a>",
+  "description": "That's that big energy. Cover: <a href=\"spotify:artist:6MoQZOH2KnQrJhVtO9VoXC\">Cardi B</a>",
   "name": "Bounce",
   "tracks": [
     {
@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Worldwide Link-Up",
+        "url": "https://open.spotify.com/album/1ognORvmZasab5RvjN4PcO"
+      },
+      "artists": [
+        {
+          "name": "Dana Lu",
+          "url": "https://open.spotify.com/artist/2yh299nlctFR4sx8krBlRj"
+        },
+        {
+          "name": "Taina Rain",
+          "url": "https://open.spotify.com/artist/7B88AYHeAM3ZlX6lJTS4Oz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
+    },
+    {
+      "album": {
         "name": "We Cut Keys 2",
         "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
       },
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
@@ -2618,6 +2640,24 @@
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/5PT4yvb1Poy5AssADb0vwB"
+    },
+    {
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "album": {
@@ -4634,7 +4674,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 124165,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/7IBeRHao589cOrs8AbY0hC"

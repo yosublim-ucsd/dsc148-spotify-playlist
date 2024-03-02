@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-452 songs - 1 day 1 hr 50 min
+454 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 | 2022-12-15 |  |
 | [Business \(with Ella Eyre\)](https://open.spotify.com/track/419yPCUe8gDok6z8Vwizxh) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:17 | 2022-09-08 |  |
 | [Calling](https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv) | [Chaya](https://open.spotify.com/artist/5t7FfMHr6IwUH5k2sLZ4n1) | [Calling](https://open.spotify.com/album/5v9JGhI8lAV05lTYjPQUaZ) | 3:40 | 2022-12-15 | 2023-12-14 |
-| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-02-11 |  |
+| [Can't Tame Her](https://open.spotify.com/track/0b8MRnjacbgVQlvLcg8JGQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:16 | 2024-03-01 |  |
+| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-02-11 | 2024-03-02 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-23 | 2024-02-12 |
 | [Can't Tame Her](https://open.spotify.com/track/7u6ZaLlFknLB8Nea69EtAn) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Official Music Video\)](https://open.spotify.com/album/4wUm4MQ4YK1SRkcvRa1ei7) | 3:45 | 2023-12-15 | 2024-01-26 |
 | [Can't Tame Her \- Alternate Cut](https://open.spotify.com/track/6PNlXjDbDETGseV6frN8P8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Alternate Cut\)](https://open.spotify.com/album/4FKL7pApMMQdNkGdBOIcNg) | 3:19 | 2024-01-25 | 2024-01-27 |
@@ -458,7 +459,8 @@
 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 | 2024-01-24 |  |
 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 | 2022-09-08 |  |
 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 | 2024-01-21 | 2024-02-12 |
-| [You Love Who You Love](https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:05 | 2024-02-11 |  |
+| [You Love Who You Love](https://open.spotify.com/track/3bWHOxTJpHL6fyATpYFQXl) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:05 | 2024-02-11 | 2024-03-02 |
+| [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 | 2024-03-01 |  |
 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.
