@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 422824,
+  "num_followers": 422893,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGNmMTBkZDc4MzIzZWMzMzIwOTE3MzNjOTczMjk2YjU1YmNjNTgz",
+  "snapshot_id": "MCxkYWVmMDhkZjA0NWI4ZmVmZTcwOTIzY2ExOThmMWUxNmFhMzBmYTBk",
   "tracks": [
     {
       "added_at": "2024-02-21 07:37:50",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 242073,
-      "name": "Sky Watcher",
-      "url": "https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Listen to This",
         "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 310280,
       "name": "Seventh Heaven (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "Sky Watcher",
+      "url": "https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 249257,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Encantadora",
         "url": "https://open.spotify.com/album/20I5nMh0C7vAgyq4IvFFda"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 250706,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/2Yx80wHA3bEfYdDu6bpf3B"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Global Kiss",
+        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Global Kiss",
-        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
       },
       "artists": [
         {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 261866,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
+      "duration_ms": 249300,
+      "name": "It Keeps Coming Back",
+      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -859,22 +875,6 @@
       "duration_ms": 204826,
       "name": "Amends",
       "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6R5Dme59QovnHLa8bIuwGi"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "It Keeps Coming Back",
-      "url": "https://open.spotify.com/track/5xAQZJVapuHyNPil73LQfI"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Slam Dunk",
+        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 316106,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
@@ -995,18 +1011,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Slam Dunk",
-        "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
+        "name": "Deep Blue C",
+        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
       },
       "artists": [
         {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        },
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
         }
       ],
-      "duration_ms": 316106,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6neOhWrEXAny5DKmVGnlHo"
+      "duration_ms": 266717,
+      "name": "Deep Blue C",
+      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1039,26 +1059,6 @@
       "duration_ms": 303693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Deep Blue C",
-        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        },
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 266717,
-      "name": "Deep Blue C",
-      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Brazz Street",
-      "url": "https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "J Funk City",
-        "url": "https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B"
       },
       "artists": [
         {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 248765,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn"
+      "duration_ms": 282546,
+      "name": "Brazz Street",
+      "url": "https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1355,6 +1339,22 @@
       "duration_ms": 250790,
       "name": "Fire & Water",
       "url": "https://open.spotify.com/track/5qwa2jSG5bf54d8J9MvXcq"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "J Funk City",
+        "url": "https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 248765,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/50yHsbUVQzuEy22CxpFutn"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Jazzmasters VI",
         "url": "https://open.spotify.com/album/4rQmN4oD6yEvJrVQtj2ct5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 329400,
       "name": "Cloud Watching",
       "url": "https://open.spotify.com/track/68ZLNdsXbDCUMcK8KWpL1v"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Gypsy Soul",
+        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 222747,
+      "name": "Gypsy Soul",
+      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Soulfully",
         "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 293613,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/2vtLNu4chmFJA4PDRXHLti"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Gypsy Soul",
-        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 222747,
-      "name": "Gypsy Soul",
-      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Keepin' The Faith",
         "url": "https://open.spotify.com/album/0tIxbMipwFJGEdMmvfdEDx"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 306800,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/4U8BICKUoG6sZRySInjdox"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 311359,
-      "name": "Everyone but You",
-      "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
       },
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX"
       },
@@ -1887,26 +1887,6 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/78dIxf6kjnSm1GEpHAdFuD"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Unified",
-        "url": "https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "What The Wind Knows",
-      "url": "https://open.spotify.com/track/48aCBwMYM5rfUZlN26KVRF"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -1943,6 +1923,26 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Unified",
+        "url": "https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "What The Wind Knows",
+      "url": "https://open.spotify.com/track/48aCBwMYM5rfUZlN26KVRF"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
       },
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Eye Contact",
         "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
       },
@@ -1991,34 +2007,18 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
         }
       ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sean Hector",
-          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Spray Bay",
-      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "On the Up and Up",
-        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
       },
       "artists": [
         {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+          "name": "Jeremy Sean Hector",
+          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
         }
       ],
-      "duration_ms": 248412,
-      "name": "On the Up and Up",
-      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+      "duration_ms": 287400,
+      "name": "Spray Bay",
+      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -2215,6 +2199,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/1KnHbqqPb85FQGhBDjZKa5"
-      },
-      "artists": [
-        {
-          "name": "Craig Sharmat",
-          "url": "https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/3C7UhOwpaQCfGHK5QCo8Yp"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 324133,
       "name": "His Coolness",
       "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/1KnHbqqPb85FQGhBDjZKa5"
+      },
+      "artists": [
+        {
+          "name": "Craig Sharmat",
+          "url": "https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/3C7UhOwpaQCfGHK5QCo8Yp"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 264600,
       "name": "Only 4 One Moment",
       "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
-      },
-      "artists": [
-        {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2024-02-21 07:37:50",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-02-21 07:37:50",
       "album": {
+        "name": "With Every Turn",
+        "url": "https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV"
+      },
+      "artists": [
+        {
+          "name": "Roberto Restuccia",
+          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Love Crazy",
+      "url": "https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9"
+    },
+    {
+      "added_at": "2024-02-21 07:37:50",
+      "album": {
         "name": "Quantum Drive",
         "url": "https://open.spotify.com/album/1VN8zPkmn9iQ7obf9wZqFu"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 260333,
       "name": "Valentin Dream (feat. Bob Baldwin)",
       "url": "https://open.spotify.com/track/3RO3Ct4WkUIaYIC5AP9j2A"
-    },
-    {
-      "added_at": "2024-02-21 07:37:50",
-      "album": {
-        "name": "With Every Turn",
-        "url": "https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV"
-      },
-      "artists": [
-        {
-          "name": "Roberto Restuccia",
-          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Love Crazy",
-      "url": "https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9"
     },
     {
       "added_at": "2024-02-21 07:37:50",

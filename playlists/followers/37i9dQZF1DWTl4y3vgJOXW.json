@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 3159738,
+  "2024-03-03": 3162203,
   "date_first_scraped": "2022-01-21",
   "description": "Fourth quarter, two minutes left .. get locked in. Cover: LeBron James",
   "name": "Locked In",
@@ -21,6 +21,24 @@
       "duration_ms": 275226,
       "name": "0 To 100 / The Catch Up",
       "url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7"
+    },
+    {
+      "album": {
+        "name": "02.02.99",
+        "url": "https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "02.02.99",
+      "url": "https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO"
     },
     {
       "album": {

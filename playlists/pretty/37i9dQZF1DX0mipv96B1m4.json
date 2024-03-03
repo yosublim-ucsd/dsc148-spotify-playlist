@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1025,
+  "num_followers": 1028,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjUyYWRjNDJkNjA0YzUxMzQzOTM1NGMxMzc1MDUxYWNiZjVhNTdm",
+  "snapshot_id": "MCxhYzE5ZDY3OGYyMGJmMWI1MWQ4MWU4MmQ3ZDMxOTIyNzc1N2I4MWI0",
   "tracks": [
     {
       "added_at": "2024-03-01 12:07:08",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Nkutuse",
+        "url": "https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Nkutuse",
+      "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 170721,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Nkutuse",
-        "url": "https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Nkutuse",
-      "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -539,30 +539,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Tick Talk",
-        "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI"
       },
       "artists": [
         {
           "name": "Bebe Cool",
           "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "DJ LITO",
-          "url": "https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT"
-        },
-        {
-          "name": "Sheilah Gashumba",
-          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
-        },
-        {
-          "name": "Slick Stuart & DJ Roja",
-          "url": "https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb"
         }
       ],
-      "duration_ms": 220206,
-      "name": "Tick Talk",
-      "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
+      "duration_ms": 178808,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -651,18 +639,30 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI"
+        "name": "Tick Talk",
+        "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
       },
       "artists": [
         {
           "name": "Bebe Cool",
           "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ LITO",
+          "url": "https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT"
+        },
+        {
+          "name": "Sheilah Gashumba",
+          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
+        },
+        {
+          "name": "Slick Stuart & DJ Roja",
+          "url": "https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb"
         }
       ],
-      "duration_ms": 178808,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
+      "duration_ms": 220206,
+      "name": "Tick Talk",
+      "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Pull Up On Mi Bumpa",
         "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 227896,
       "name": "Pull Up On Mi Bumpa",
       "url": "https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2024-03-01 12:07:08",

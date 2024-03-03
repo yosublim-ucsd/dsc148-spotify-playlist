@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Bo Staloch
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,020 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,217 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 57 | [Lake Missoula](https://open.spotify.com/track/4x1dWc1GgAfC04GcTlllax) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:46 |
 | 58 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 59 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
-| 60 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 |
+| 60 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 |
 | 61 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 |
 | 62 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 |
 | 63 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 149 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 |
 | 150 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 |
 
-Snapshot ID: `MCwxOWEwY2E5NGI3MjQ0NWZjMDVmNmMzOTk0N2I2YzFlZmEzMjE4MTcy`
+Snapshot ID: `MCw5NmJlNDYwNGJhNzU3NGZlMDhhODg3MjgwNjhlZWZjYTczOGFhY2Y5`

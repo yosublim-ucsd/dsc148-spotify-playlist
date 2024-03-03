@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 221975,
+  "num_followers": 222115,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODkzZTMwYTdmMDA5OTA0MTMyMDE3ZWFmYjdhYjhmYmZhY2FmZTNh",
+  "snapshot_id": "MCxjMzZhZTIyN2E3OWQ4Y2I5Yjg4ODNmYTc0ZmUzNDU1MWNlNWY1MDM1",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Commercial",
-        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
       "artists": [
         {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
+      "duration_ms": 217840,
+      "name": "Ven Aqu\u00ed",
+      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+        "name": "Commercial",
+        "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Ven Aqu\u00ed",
-      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
+      "duration_ms": 201400,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Barrio Estaci\u00f3n",
         "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 286106,
       "name": "Nada Nuevo Bajo El Sol",
       "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2022-07-06 19:51:55",

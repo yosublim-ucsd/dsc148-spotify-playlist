@@ -4,11 +4,12 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-536 songs - 1 day 8 hr 24 min
+537 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 km](https://open.spotify.com/track/1yZrJPsWRXg5fqeEozTI6L) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Que Entren En Mi Cabeza](https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz) | 2:37 | 2023-12-15 | 2024-01-20 |
+| [23](https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [23](https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O) | 2:51 | 2024-03-01 |  |
 | [29 de Gener](https://open.spotify.com/track/69qbuJBPiRWewQ9qK0fBGs) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4), [Kris Tena](https://open.spotify.com/artist/3qt8O8Di6tMLmWcTSwGuad) | [29 de Gener](https://open.spotify.com/album/4bKs3HQoSF5QFq6JJHTIxD) | 2:11 | 2022-04-01 | 2022-04-20 |
 | [A 200 mil](https://open.spotify.com/track/3zbvPrTnXS7TLbZcetQ8hQ) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [A 200 mil](https://open.spotify.com/album/17SMuOsvMwNEq0sFoicVhD) | 2:52 | 2023-05-19 | 2023-05-30 |
 | [A 200 mil](https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [A 200 mil](https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN) | 2:52 | 2021-12-24 | 2023-05-11 |
@@ -163,7 +164,7 @@
 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 | 2022-07-22 | 2024-03-02 |
 | [El don de la ternura](https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [El don de la ternura](https://open.spotify.com/album/4NchRZ46MzLJaTfN9ugXwu) | 4:57 | 2021-12-24 | 2022-07-27 |
 | [El enemigo](https://open.spotify.com/track/1z2PsIPTnUng2WGmxpTMSD) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [El enemigo](https://open.spotify.com/album/1q9OcAi9pBIlY8YzzPKRYF) | 4:04 | 2022-05-27 | 2022-07-01 |
-| [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 | 2021-12-24 |  |
+| [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 | 2021-12-24 | 2024-03-03 |
 | [El Incendio](https://open.spotify.com/track/3zS5XBRjrShQHdNEm1VBbi) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [El Incendio](https://open.spotify.com/album/416M3NiP0nm7feY21N6xZv) | 3:53 | 2023-06-30 | 2023-10-01 |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-12-24 | 2022-07-27 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-07-22 | 2023-04-29 |

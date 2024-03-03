@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 371432,
+  "num_followers": 371552,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjM3ZmUzNjM0OGY4MmRmOThlZDA4MDZkNjk2ZTNiMzljMjliZDc2",
+  "snapshot_id": "MCw2ZjBmNjkxZWUwYTA4M2E5ZWYyNjk1NGY1OGFiNGY4N2FiYzc5YWNk",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:51",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Funky Kingston",
         "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Honey I'm Homely",
         "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203933,
       "name": "Lost Again",
       "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "A Live Injection: Anthology 1968-1979",
         "url": "https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 159400,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "\u2026And The Battle Begun",
-        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
       "artists": [
         {
-          "name": "Rx Bandits",
-          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Apparition",
-      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+        "name": "\u2026And The Battle Begun",
+        "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
       "artists": [
         {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+          "name": "Rx Bandits",
+          "url": "https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 219133,
+      "name": "Apparition",
+      "url": "https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H"
     },
     {
       "added_at": "2024-02-23 18:26:51",

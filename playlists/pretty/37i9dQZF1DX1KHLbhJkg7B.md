@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,612 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,692 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
 | 100 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
 
-Snapshot ID: `MCxhMDk1NmMzNzc2Mzk2N2E2NGY5ZDc2MDkzN2M3Y2RhNzljNzc4OTY4`
+Snapshot ID: `MCxkMDQwYTM5NGJiZmUwOTI3MGMxZTljZGU3OTkwZTU0Nzc2NzA2Y2Rm`

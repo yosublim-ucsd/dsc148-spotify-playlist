@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 16643,
+  "2024-03-03": 16639,
   "date_first_scraped": "2022-03-24",
   "description": "tranquilo e calmo, no flow. Foto: Enzo Cello",
   "name": "tamo flex",
@@ -29,6 +29,24 @@
       "duration_ms": 128503,
       "name": "01 N\u00e3o \u00c9 02",
       "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
+    },
+    {
+      "album": {
+        "name": "011",
+        "url": "https://open.spotify.com/album/0luKo86kXd3Iy4IR6DYCXh"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135347,
+      "name": "011",
+      "url": "https://open.spotify.com/track/6vzfS8S7UQxvUfevpfJmEh"
     },
     {
       "album": {
@@ -515,7 +533,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174657,
       "name": "After",
       "url": "https://open.spotify.com/track/7gNWNeM3DwRw7lZhM3Hd5a"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154285,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/6edJSs6bDIY4Az54T7xnJg"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 66413,
       "name": "BAT\u00cbU!",
       "url": "https://open.spotify.com/track/6zbu7Zms7YvE3eOJeGERTN"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 138466,
       "name": "BROCOLIZ",
       "url": "https://open.spotify.com/track/5P7ASG9SpcvYCjaJI3tANl"
@@ -2423,6 +2441,32 @@
       "duration_ms": 162725,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/0EP4JCuMHMh7QX1ZqRlqg2"
+    },
+    {
+      "album": {
+        "name": "Caranguejo do Trap",
+        "url": "https://open.spotify.com/album/2FcEqf4hGkHkJ1bV4toLXO"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        },
+        {
+          "name": "WR No Beat",
+          "url": "https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176358,
+      "name": "Caranguejo do Trap",
+      "url": "https://open.spotify.com/track/3ZWBnOnNIhZnvBD2slFm1V"
     },
     {
       "album": {
@@ -3077,6 +3121,24 @@
       "duration_ms": 180701,
       "name": "Complexo",
       "url": "https://open.spotify.com/track/750GMxCXY8YfmkJt2BRPCT"
+    },
+    {
+      "album": {
+        "name": "Conduta",
+        "url": "https://open.spotify.com/album/5HuOu7c5Umv6Jy8PS1HyHJ"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153302,
+      "name": "Conduta",
+      "url": "https://open.spotify.com/track/5trmONgYJKUxXfGucmV5am"
     },
     {
       "album": {
@@ -6587,7 +6649,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 228687,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2pKBHF2hqzaKNeY4HNnUos"
@@ -7603,6 +7665,32 @@
       "duration_ms": 153365,
       "name": "Marca de Batom",
       "url": "https://open.spotify.com/track/6xOW9fUzrIsGS3M0b52PEf"
+    },
+    {
+      "album": {
+        "name": "Marcha",
+        "url": "https://open.spotify.com/album/4or0TUKLxHkSTfr9CFg4LA"
+      },
+      "artists": [
+        {
+          "name": "Hamadi",
+          "url": "https://open.spotify.com/artist/0GNVXhyrk0aYAG2O9rRt04"
+        },
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "NG Noo Beat",
+          "url": "https://open.spotify.com/artist/2Hu0hoGizeSqatqkpCR0xm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Marcha",
+      "url": "https://open.spotify.com/track/6BOfBqpqb4LLOxj4nAcrR7"
     },
     {
       "album": {
@@ -8921,6 +9009,36 @@
       "duration_ms": 153564,
       "name": "NANANI NAN\u00c3O",
       "url": "https://open.spotify.com/track/2aruxtZqyHLdm7X3XJv7lL"
+    },
+    {
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5JEmqLjAQWvcXuAPAmoUgH"
+      },
+      "artists": [
+        {
+          "name": "Pedro Medz",
+          "url": "https://open.spotify.com/artist/4qPshkDVlRqhZKRkz6tzmv"
+        },
+        {
+          "name": "Mc Biel da PL",
+          "url": "https://open.spotify.com/artist/6RjHZwryUfrpWJb420HFFq"
+        },
+        {
+          "name": "A\u00e7\u00faK",
+          "url": "https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM"
+        },
+        {
+          "name": "Cariocanubeat",
+          "url": "https://open.spotify.com/artist/5GqWDa0hPex90n1WgDe92U"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/3DqihpwpNWLMKC2oMijm9u"
     },
     {
       "album": {
@@ -11486,6 +11604,28 @@
     },
     {
       "album": {
+        "name": "Realidade",
+        "url": "https://open.spotify.com/album/2Hh0LfkIvnccFbxUjnSeUN"
+      },
+      "artists": [
+        {
+          "name": "Bezin",
+          "url": "https://open.spotify.com/artist/4AnMglEwY1PN8UbURN3YiW"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "Realidade",
+      "url": "https://open.spotify.com/track/6Qe2MWnsz7Pq5mvwZLvup7"
+    },
+    {
+      "album": {
         "name": "Reca\u00edda",
         "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
       },
@@ -12583,10 +12723,36 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152307,
       "name": "Supera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3XjdH19v0jhAqAiD2H7zir"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/3vhZlqpbymc0Ur4X6ZKBZJ"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178983,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/1e0gwbwYDglB5jDzACIxzj"
     },
     {
       "album": {
@@ -12713,7 +12879,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 110769,
       "name": "S\u00f3 Pe\u00e7as de Grife (feat. Gree Cassua)",
       "url": "https://open.spotify.com/track/3tmo4eJeSEbweJygeTK9D2"
@@ -13713,7 +13879,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 75809,
       "name": "VALDERRAMA",
       "url": "https://open.spotify.com/track/26Pw0XHr8vdkULqjGQmXfW"

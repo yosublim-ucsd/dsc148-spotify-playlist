@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 16960,
+  "2024-03-03": 16978,
   "date_first_scraped": "2021-12-29",
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5?si=ZYAE8-JXS7uWGt2AWDvWSA\">Dan Patlansky</a>",
   "name": "SA Rock ",
@@ -8251,10 +8251,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231000,
       "name": "Wild Mustang",
       "url": "https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ"
+    },
+    {
+      "album": {
+        "name": "Wild Mustang",
+        "url": "https://open.spotify.com/album/5qP7C6lrc7Ojt70NEWTBSg"
+      },
+      "artists": [
+        {
+          "name": "MUSTANG",
+          "url": "https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Wild Mustang",
+      "url": "https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC"
     },
     {
       "album": {

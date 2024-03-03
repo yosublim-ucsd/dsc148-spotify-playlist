@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,212 likes - 91 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 40,236 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sunfalls pm](https://open.spotify.com/track/0u4pHpK3WcNR8hBft7FSpM) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [sunfalls \(am + pm\)](https://open.spotify.com/album/0JImpPCrD21mUTA3uXcKsH) | 3:36 |
 | 2 | [ViBRATiON](https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [LOVE is WAR, Volume 6](https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq) | 3:50 |
 | 3 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 |
-| 4 | [Can I Make You Jealous](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
+| 4 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
 | 5 | [Sunday Service](https://open.spotify.com/track/0WnbXuprB91mCTyzaNaes0) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sunday Service](https://open.spotify.com/album/3NesbDv2ByqBw7eUAzZTlu) | 2:39 |
 | 6 | [WEIRDO](https://open.spotify.com/track/58ltuTmgwKkRGydyLP1K2w) | [benison](https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO) | [WEIRDO](https://open.spotify.com/album/5JbvWfPi6UgLGBTdXc93sW) | 3:06 |
 | 7 | [Masterpiece](https://open.spotify.com/track/3xauVLvLrxr2yuBiP5gP1X) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Masterpiece](https://open.spotify.com/album/0o1OnVqeLjyLUjRm3HEWzz) | 3:40 |

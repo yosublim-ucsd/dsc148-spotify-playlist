@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3v6xGxmx4.md) - [plain]
 
 > Featuring Jhayco, Quevedo, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3v6xGxmx4.md) - [plain]
 | 5 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 6 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 |
 | 7 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
-| 8 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
+| 8 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
 | 9 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 10 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 |
 | 11 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3v6xGxmx4.md) - [plain]
 | 24 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 |
 | 25 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
 
-Snapshot ID: `MCxiOGNkNjFkODdlN2UwYjM0NDY0Y2MyOTRmZTdlZjUxYWY3NjIxMzY1`
+Snapshot ID: `MCw4OGY2MWM0YzFlYzVhNWNhNWQxMWQ4MTk5MDNkOTMyYzZkZDE2ZGI4`

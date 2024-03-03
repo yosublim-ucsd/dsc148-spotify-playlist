@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music Charli XCX \(pictured\), Fred again.., Skepta and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,188 likes - 123 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,243 likes - 123 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [All That You Made Me](https://open.spotify.com/track/6Dl0r2R1W89PNtSmgesRXr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [All That You Made Me](https://open.spotify.com/album/3GpdTSzUQLGYOIiMurqnus) | 2:41 |
 | 100 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jada](https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 |
 | 101 | [Everything I Hate About You](https://open.spotify.com/track/3SbppORbCg20Ho8MvhXC56) | [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Everything I Hate About You](https://open.spotify.com/album/4PsIeCFNJQCtCKTJDrzPay) | 2:48 |
-| 102 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
+| 102 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
 | 103 | [Nicotine Patch](https://open.spotify.com/track/4ZnX25eDUfdHk56I9JmqfH) | [Tim Gallagher](https://open.spotify.com/artist/6o48etq0sWdCaAjVq1i9Fb) | [Nicotine Patch](https://open.spotify.com/album/52hIdPmIbzrFmNp24bWhsK) | 3:29 |
 | 104 | [Goldmine](https://open.spotify.com/track/19BFpLUtBGJo2NGBE60FtX) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [12](https://open.spotify.com/album/3vrpiZ6Bhom9gmcAWi62pi) | 2:24 |
 | 105 | [Around The World](https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Around The World](https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY) | 1:56 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 |
 | 123 | [The State](https://open.spotify.com/track/2z8W8Wyfy2XMU7kSnDTPNF) | [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Youngfella](https://open.spotify.com/album/1RRioAfHKB6wujcoO1Zi3p) | 3:07 |
 
-Snapshot ID: `MCw0NDMzZmVhYWZmZDNhMDZlODdlYTI2ZmYwNGNkNGI0ZDk1NzEwOTQx`
+Snapshot ID: `MCxhZGIxZTgxNzRhNDM3NTZkODVlMTk5YzVhMzE0YTk4ZDY2ZDU3YTVh`

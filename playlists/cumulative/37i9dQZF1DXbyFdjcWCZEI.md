@@ -4,7 +4,7 @@
 
 > Viento en la cara, pies en el agua y canciones tranqui para disfrutar del paseo.
 
-61 songs - 3 hr 31 min
+62 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Disimulao](https://open.spotify.com/track/7sqEqSeZRKrQzdkukwxFEo) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 3:39 | 2023-12-08 | 2024-03-01 |
 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-12 |  |
 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 | 2023-12-20 |  |
+| [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-02-29 |  |
 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 | 2023-12-08 |  |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2023-12-08 |  |
 | [El Viejo](https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [El Viejo](https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk) | 3:29 | 2023-12-08 |  |
@@ -46,7 +47,7 @@
 | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/track/4hklliK34BQpPNsoag1JmL) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Nuevo mundo \(feat\. Juancho Marqués\)](https://open.spotify.com/album/7vDANBArJLs5XXsgMoYnvC) | 3:20 | 2023-12-08 |  |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-12-08 |  |
 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 | 2023-12-08 |  |
-| [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 | 2023-12-08 |  |
+| [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 | 2023-12-08 | 2024-03-03 |
 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 | 2023-12-23 |  |
 | [Parapente](https://open.spotify.com/track/5C2IVL4XcZmx4lozQybkBW) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 2:42 | 2023-12-08 |  |
 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 | 2023-12-08 |  |

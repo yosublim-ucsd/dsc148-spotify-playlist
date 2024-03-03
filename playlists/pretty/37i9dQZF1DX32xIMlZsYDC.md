@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,580 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,578 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 44 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 |
 | 45 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
 | 46 | [Fairfield](https://open.spotify.com/track/2sc04X1Z2uVblrt7zqHSYS) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Fairfield](https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8) | 2:08 |
-| 47 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 |
-| 48 | [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 |
-| 49 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 |
+| 47 | [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 |
+| 48 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 |
+| 49 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 |
 | 50 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 |
 | 51 | [Pollux](https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:22 |
 | 52 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 59 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 |
 | 60 | [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 |
 | 61 | [I Remember](https://open.spotify.com/track/1tIqpXyBu4DTgzpp5nkk1G) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [I Remember](https://open.spotify.com/album/1yI3LXQAcNZx7LWVfFJLZg) | 2:22 |
-| 62 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
-| 63 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 |
+| 62 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 |
+| 63 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
 | 64 | [Mirno](https://open.spotify.com/track/7oEbJXeTbSSWBNVr0RHRgM) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Mirno](https://open.spotify.com/album/2PirqRPTKXiYVOBLgzeZ1m) | 2:01 |
 | 65 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 |
 | 66 | [Hopelessly in Love](https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Hopelessly in Love](https://open.spotify.com/album/0pU42ES2MpgobwRjLE6Rib) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 99 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 |
 | 100 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 |
 
-Snapshot ID: `MCxkMDc1ODViMTk3YWE1NGQ2NDdjNDIwYzc4MTA3YjM3NjgzNjZmMTll`
+Snapshot ID: `MCw5Y2EyZTQ1YmExYThjZDNjNzgyNTZhOTc3NTZmZjQ5MjhkZWEyMTM2`

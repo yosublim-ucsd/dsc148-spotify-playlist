@@ -1,12 +1,12 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: KAROL G",
-  "num_followers": 14539601,
+  "num_followers": 14543457,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGM5YzUxYjdjNTk3OTZjNjI1N2VmN2NiZTRjM2U0NTU0Y2FkZWQ5",
+  "snapshot_id": "MCxlYWNiZTNiMTM5OTE5NTMxNTNiNDY1OGQ0ODA1Nzk0OTE3YzU5NjJl",
   "tracks": [
     {
       "added_at": "2024-03-01 04:00:00",
@@ -170,10 +170,6 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
       "duration_ms": 186341,
@@ -571,6 +567,30 @@
       "duration_ms": 193258,
       "name": "Qu\u00e9date Beb\u00e9",
       "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
+    },
+    {
+      "added_at": "2024-03-02 17:32:33",
+      "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
     },
     {
       "added_at": "2024-03-01 04:00:00",

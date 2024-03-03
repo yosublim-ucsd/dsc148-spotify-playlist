@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,491 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,509 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Nửa Đêm Ngoài Phố](https://open.spotify.com/track/4zI8EPVSqqbSOd6x9PctNh) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:26 |
 | 50 | [Nối Lại Tình Xưa](https://open.spotify.com/track/1ujKrLvdQiLhgq2rUb3koa) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Cô Bé Ngày Xưa](https://open.spotify.com/album/43xJtGh0nNxV7ICzdRtAHS) | 4:15 |
 
-Snapshot ID: `MCw0ZmFkYjhhM2ZiOTA5OTU0NzNlNjA3MDQ4Nzg4MTViNTQwMzk4MGZj`
+Snapshot ID: `MCwyNzA0ZWU4YWJjZjdlMjdjOGMyNzgzNGQ3ZWQzODA0NjBmZGI2ZGEz`

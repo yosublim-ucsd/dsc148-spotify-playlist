@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,286 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 74 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 | 75 | [Ácido](https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [Ácido](https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt) | 2:29 |
 
-Snapshot ID: `MCw4M2QyMjljOGRmYzQ3YjFkYTQyOGM3YWIwNDkzNzUxZTM2NmEyZjg5`
+Snapshot ID: `MCwzNGYwZGJiZDBmYjNhYzg5NTA2ZjVmN2JiMzcyZjMxNDJjNWUxMjBh`

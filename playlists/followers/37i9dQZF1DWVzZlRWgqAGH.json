@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 803767,
+  "2024-03-03": 803846,
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Beyonc\u00e9",
+  "description": "Smooth joints. Cover: tg.blk",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1235,6 +1235,32 @@
       "duration_ms": 214728,
       "name": "Animal Kingdom",
       "url": "https://open.spotify.com/track/2wAryG29r8m1kOTL3SHWRP"
+    },
+    {
+      "album": {
+        "name": "YHWH is LOVE",
+        "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189418,
+      "name": "Anointed Soul",
+      "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
     },
     {
       "album": {
@@ -4435,10 +4461,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198578,
       "name": "Counting Thunder",
       "url": "https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Feels The Same",
+        "url": "https://open.spotify.com/album/5qBY1K1C7QoXWlmZ2yvV5L"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198578,
+      "name": "Counting Thunder",
+      "url": "https://open.spotify.com/track/2KNqYDH4eHT15G6pzYreYO"
     },
     {
       "album": {
@@ -6857,7 +6901,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163298,
       "name": "Fine By Myself",
       "url": "https://open.spotify.com/track/0V3Ml2chd5ssOkUrz1X7FU"
@@ -9546,6 +9590,28 @@
     },
     {
       "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/1yKM0mzIww5Fofrx5WnGNA"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187344,
+      "name": "Hot Spot",
+      "url": "https://open.spotify.com/track/2q5E2qgXkrLg1KPiWXYoWl"
+    },
+    {
+      "album": {
         "name": "Hotline",
         "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
@@ -11130,6 +11196,32 @@
     },
     {
       "album": {
+        "name": "Last Nite",
+        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
+    },
+    {
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -11196,6 +11288,24 @@
     },
     {
       "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
+    {
+      "album": {
         "name": "Lemon Water",
         "url": "https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2"
       },
@@ -11211,7 +11321,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 243938,
       "name": "Lemon Water",
       "url": "https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm"
@@ -14859,7 +14969,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269970,
       "name": "Otis' Tambourine",
       "url": "https://open.spotify.com/track/0RVMkPFCaLiTivv3eJJgcY"
@@ -15939,7 +16049,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 262360,
       "name": "Purity (feat. Frank Ocean)",
       "url": "https://open.spotify.com/track/2MF4HtZHBoUliOi9nOAbS0"
@@ -16853,7 +16963,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 262186,
       "name": "Sabah Al Noor",
       "url": "https://open.spotify.com/track/1zFOeaSMwhRD5PsDkdf79r"
@@ -18346,6 +18456,24 @@
     },
     {
       "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252671,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT"
+    },
+    {
+      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
@@ -18983,7 +19111,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222518,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw"
@@ -21753,6 +21881,28 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
+    },
+    {
+      "album": {
+        "name": "What I Like About You",
+        "url": "https://open.spotify.com/album/5CqT9IRN05wummc3zEqorc"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231198,
+      "name": "What I Like About You",
+      "url": "https://open.spotify.com/track/7BQuXsi9qxPrirAnPF2wq4"
     },
     {
       "album": {

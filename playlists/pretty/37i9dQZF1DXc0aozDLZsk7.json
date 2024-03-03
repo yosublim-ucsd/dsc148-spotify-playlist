@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 479506,
+  "num_followers": 479513,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjg5NWEwN2JiNjc4YjIzYTRhMGM5MGMyMTMwZjEwMjA4NmQxMTlh",
+  "snapshot_id": "MCwzM2M0NjBjODZjZmIwOGFmNjllNmIzMzc2MTYyZWFmZjE2YTk4ODQ0",
   "tracks": [
     {
       "added_at": "2023-06-09 16:26:46",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Know.",
         "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226106,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Rush (feat. Jessie Reyez)",
-        "url": "https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn"
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
       "artists": [
         {
           "name": "Lewis Capaldi",
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 198351,
-      "name": "Rush (feat. Jessie Reyez)",
-      "url": "https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ"
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+        "name": "Rush (feat. Jessie Reyez)",
+        "url": "https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn"
       },
       "artists": [
         {
           "name": "Lewis Capaldi",
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
+      "duration_ms": 198351,
+      "name": "Rush (feat. Jessie Reyez)",
+      "url": "https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "The Good Times and The Bad Ones",
-        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 277694,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Inside Friend (feat. John Mayer)",
-        "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
+        "name": "The Good Times and The Bad Ones",
+        "url": "https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
         }
       ],
-      "duration_ms": 175432,
-      "name": "Inside Friend (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+      "duration_ms": 277694,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1251,6 +1231,26 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Inside Friend (feat. John Mayer)",
+        "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 175432,
+      "name": "Inside Friend (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
     },
     {
       "added_at": "2023-06-09 16:26:46",

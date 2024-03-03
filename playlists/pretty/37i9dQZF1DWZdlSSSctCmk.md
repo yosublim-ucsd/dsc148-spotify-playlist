@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,880 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,926 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 | 100 | [House in the Hills](https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 4:27 |
 
-Snapshot ID: `MCwzNDlkNWJmYTdhY2YzZjMzY2U1ZWYxZGU3MTY0ZDEzYmMxOGUwN2Nm`
+Snapshot ID: `MCw5MjY1ZWJmMjdjNDcwMDE1YTc4NDMyOTMwZThmYjZmYTA0ZGY1YTVi`

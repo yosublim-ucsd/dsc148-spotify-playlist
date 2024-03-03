@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492202,
+  "num_followers": 492199,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDRjYWNkNTUxY2VkN2IwODJiNDBjYjE0ZDViZTU2Yjg2NWUwM2Mx",
+  "snapshot_id": "MCxiMDkwYTcyNDdlNWYwMzYwYzg0NWIzZGEzNmUwNWEyYmYzNzNkMjcw",
   "tracks": [
     {
       "added_at": "2024-01-26 07:48:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
     },
     {
       "added_at": "2024-01-26 07:48:12",

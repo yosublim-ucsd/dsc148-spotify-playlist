@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,311 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,286 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [Make It Hot](https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Make It Hot](https://open.spotify.com/album/5lVFS3eenpf4H7u26eiyng) | 2:48 |
 | 100 | [La Playita](https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [La Playita](https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN) | 2:45 |
 
-Snapshot ID: `MCw4YzA5MDQ1MjQ4MzliMzU4ODQ1ODY1N2MwNzJjZmZhOTA4ZTZhYmEw`
+Snapshot ID: `MCwxYmEzNzI5ZjFmYzE2Mjc5MzQwYzNkZjNkMzk1MDk1ZWM4YjYzNjgy`

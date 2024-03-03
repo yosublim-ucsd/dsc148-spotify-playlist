@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 290679,
+  "2024-03-03": 290683,
   "date_first_scraped": "2022-05-27",
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
   "name": "brisa",
@@ -3405,7 +3405,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184405,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
@@ -4995,7 +4995,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
@@ -6287,6 +6287,24 @@
       "duration_ms": 194620,
       "name": "Quando",
       "url": "https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120"
+    },
+    {
+      "album": {
+        "name": "Quando a gente ama",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155605,
+      "name": "Quando a gente ama",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
       "album": {
@@ -8485,6 +8503,24 @@
       "duration_ms": 155076,
       "name": "Vers\u00e3o brasileira",
       "url": "https://open.spotify.com/track/3s9B8mXerJ5rHOqqF9CJTO"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 25056,
+  "2024-03-03": 25162,
   "date_first_scraped": "2021-12-29",
   "description": "soso cant take this pain away ",
   "name": "Internet Famous",
@@ -6438,6 +6438,24 @@
     },
     {
       "album": {
+        "name": "Smoke + Mirrors",
+        "url": "https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122115,
+      "name": "Smoke + Mirrors",
+      "url": "https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh"
+    },
+    {
+      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -7825,7 +7843,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213714,
       "name": "Wicked Somebody",
       "url": "https://open.spotify.com/track/1qy2wUl6rJlTfdkiWVzsQq"

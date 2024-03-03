@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nsqk en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,323 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,331 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [Inhabitable](https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3YjjoBMjNDO9yxYjrSciXo) | 2:47 |
 | 75 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 
-Snapshot ID: `MCwyMWUwODY4ODlhYWNmMzc2N2EwYjJmMWM3YjNlMTNhODFiMWZhOWQw`
+Snapshot ID: `MCw3NWM3OTQxMjkyNjJjNzFiYmEzODM5NGU3MjAwMDE4NmRmZDNmNDAx`

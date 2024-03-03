@@ -1209,6 +1209,32 @@
     },
     {
       "album": {
+        "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
+        "url": "https://open.spotify.com/album/67LVW4yfjAooArLqd12n4Y"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
+      "url": "https://open.spotify.com/track/67aN7wt2CU8mwOwBc4LoiA"
+    },
+    {
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },

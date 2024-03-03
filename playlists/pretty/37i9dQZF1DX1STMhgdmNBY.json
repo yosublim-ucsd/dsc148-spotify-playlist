@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 72476,
+  "num_followers": 72537,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl",
+  "snapshot_id": "MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Three O'clock Blues",
-      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Three O'clock Blues",
+      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 210851,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
     },
     {
       "added_at": "2023-10-05 13:06:44",

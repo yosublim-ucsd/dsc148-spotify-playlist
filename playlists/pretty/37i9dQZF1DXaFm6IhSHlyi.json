@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143237,
+  "num_followers": 143252,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGM3OWM4MTRjZWM4YTFkMGI3MTU2MzNmMmJkOTMxZTBiOTdiN2I4",
+  "snapshot_id": "MCwzYmZiOWJiOTE4MzYwMzdlYzI1NDI3MzI3YjkxYjY3MDVlZmQ2NzM4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kabir Singh",
-        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 284779,
-      "name": "Tujhe Kitna Chahne Lage",
-      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 284779,
+      "name": "Tujhe Kitna Chahne Lage",
+      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Here I Am Again",
-      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Here I Am Again",
+      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 243680,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dalan Liyane",
-        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        }
-      ],
-      "duration_ms": 256417,
-      "name": "Dalan Liyane",
-      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kezbi Wara Kezbi",
         "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dalan Liyane",
+        "url": "https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "duration_ms": 256417,
+      "name": "Dalan Liyane",
+      "url": "https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
-        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
-      },
-      "artists": [
-        {
-          "name": "\uc801\uc7ac",
-          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
-      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ana Mesh Magroha",
         "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
       },
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Akustikhane",
-        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
+        "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
+        "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
       },
       "artists": [
         {
-          "name": "Kahraman Deniz",
-          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
         }
       ],
-      "duration_ms": 331607,
-      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
-      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+      "duration_ms": 307500,
+      "name": "\uc0ac\ub791\uc758\uc778\uc0ac",
+      "url": "https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2299,6 +2283,22 @@
       "duration_ms": 207920,
       "name": "I mecht nur wissn wo du bist - I.U.E.",
       "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Akustikhane",
+        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "duration_ms": 331607,
+      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
+      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
-      },
-      "artists": [
-        {
-          "name": "Hansol",
-          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2487,18 +2487,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+        "name": "#YOM",
+        "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
       },
       "artists": [
         {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
         }
       ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
+      "duration_ms": 143799,
+      "name": "Taal (#YOM 10)",
+      "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2523,18 +2523,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "#YOM",
-        "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
+        "name": "17h",
+        "url": "https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9"
       },
       "artists": [
         {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+          "name": "Malket",
+          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
         }
       ],
-      "duration_ms": 143799,
-      "name": "Taal (#YOM 10)",
-      "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
+      "duration_ms": 218673,
+      "name": "17h",
+      "url": "https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu"
     }
   ],
   "unique_name": "Ballads International",

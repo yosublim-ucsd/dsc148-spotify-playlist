@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,783 likes - 150 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,844 likes - 150 songs - 16 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 125 | [Daanah Pah Daanah](https://open.spotify.com/track/6UTSls7oqiETnQT9PJpYrW) | [Akhtar Chanal Zehri](https://open.spotify.com/artist/49WL2WS1l1qo21edbR4mnM), [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 9:10 |
 | 126 | [Coke Studio Season 9: Aye Rah\-E\-Haq Ke Shaheedo](https://open.spotify.com/track/2FFbQ7czCZUOLLDdfkTMQW) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Coke Studio Season 9: Aye Rah\-E\-Haq Ke Shaheedo](https://open.spotify.com/album/1c2fFncuN7WIgSlrJ02mZN) | 3:03 |
 | 127 | [Har Funn Maula](https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv) | [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Har Funn Maula](https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj) | 6:06 |
-| 128 | [Sab Aakho Ali Ali](https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:57 |
-| 129 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 |
+| 128 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 |
+| 129 | [Sab Aakho Ali Ali](https://open.spotify.com/track/68KDUiU15BzPLbZwpqVCw5) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:57 |
 | 130 | [Luddi Hay Jamalo](https://open.spotify.com/track/4bgnqcQr1FJ9KX41gdtep5) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Humaira Arshad](https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:30 |
 | 131 | [Nadiya](https://open.spotify.com/track/6UtkXl98FDpPocQqwq0ozB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Rahma Ali](https://open.spotify.com/artist/1qolWrPwxxGEo5N6NCAP33) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:33 |
 | 132 | [Kheryaan De Naal](https://open.spotify.com/track/4vb3eXV5MUr5qGMCJ2XdEO) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Ishq Kinara – Üsküdar’a Gider Iken](https://open.spotify.com/track/1PuRm7uUUiNlZ1yZF85e8k) | [Zoe Viccaji](https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:34 |
 | 150 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
 
-Snapshot ID: `MCwxODg5MDNiNzhmMzQxYzE5NjI1OWQ0YWI3YWNhN2E4NmJiNTJlNGMw`
+Snapshot ID: `MCwwNmU1OTI5YWIzNzhjZmMyMWJkYWQ0ZGI1OWE2YTJkY2VkMTc2OTk1`

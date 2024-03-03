@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 115028,
+  "num_followers": 115164,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2M3MWQ0NjRlZDlhMGNiMmZmZWVhYjRiZGM2ODQ3MTY0MzYyNDBj",
+  "snapshot_id": "MCxmYTkyYWRhNDIxOGRjZmViYzdjYTA4M2UxMTczZTFlMzlhYTI1MjQw",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Mi Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+      "duration_ms": 190053,
+      "name": "Mi Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Roberto Torres y su Charanga Vallenata, Vol. 2",
-        "url": "https://open.spotify.com/album/0c5HlxTCquVn8DrNWikQsE"
-      },
-      "artists": [
-        {
-          "name": "Roberto Torres",
-          "url": "https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B"
-        }
-      ],
-      "duration_ms": 420333,
-      "name": "Caballo Viejo",
-      "url": "https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Eva Mar\u00eda",
         "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 185280,
       "name": "Tan Bella Y Tan Presumida",
       "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Roberto Torres y su Charanga Vallenata, Vol. 2",
+        "url": "https://open.spotify.com/album/0c5HlxTCquVn8DrNWikQsE"
+      },
+      "artists": [
+        {
+          "name": "Roberto Torres",
+          "url": "https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B"
+        }
+      ],
+      "duration_ms": 420333,
+      "name": "Caballo Viejo",
+      "url": "https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1695,6 +1711,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
@@ -1711,22 +1743,6 @@
       "duration_ms": 250760,
       "name": "Capullo y Sorullo",
       "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1761,6 +1777,22 @@
       "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Ritmo Facil",
+      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Sabor A Cumbia",
@@ -1779,22 +1811,6 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Ritmo Facil",
-      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 2",
         "url": "https://open.spotify.com/album/7rv6OZsuVcX67G62GjpFvI"
       },
@@ -1807,38 +1823,6 @@
       "duration_ms": 193677,
       "name": "Endulzame El Caf\u00e9 Mar\u00eda",
       "url": "https://open.spotify.com/track/0tKWbYtMGFaAjVLChc6rSS"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Al Rojo Vivo",
-        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1873,20 +1857,36 @@
       "url": "https://open.spotify.com/track/23Fn6sIQVjJYwgtMYDbEd0"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
       },
       "artists": [
         {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+          "name": "Claudio Moran Y Los Universales",
+          "url": "https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+      "duration_ms": 243973,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1903,22 +1903,6 @@
       "duration_ms": 216573,
       "name": "La Enfermera",
       "url": "https://open.spotify.com/track/1MYQWI4rfKa6q1aUZpjPxT"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Claudio Moran Y Los Universales",
-          "url": "https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1951,6 +1935,22 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
     },
     {
       "added_at": "2022-01-25 19:05:16",

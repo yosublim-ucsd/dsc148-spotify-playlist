@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,842 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,905 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 |
 | 60 | [Maybe, It's Possible](https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Maybe, It's Possible](https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5) | 3:49 |
 
-Snapshot ID: `MCw0NzcyOGFlMjM3YjcyMjYxMzYyOTA3ZGQyNzJmYjYzNjcxZDMyMDJk`
+Snapshot ID: `MCxmOWZiZDljMGU0Yjc4MmZkYTA4NWY5OTdkYzgyNjc1MmQ1NzU1NDEw`

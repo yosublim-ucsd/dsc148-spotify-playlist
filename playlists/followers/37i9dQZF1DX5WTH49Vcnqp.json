@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 564498,
+  "2024-03-03": 564521,
   "date_first_scraped": "2021-12-30",
   "description": "Music that's hard to define but easy to love. Cover: Good Neighbours",
   "name": "Front Left",
@@ -4263,10 +4263,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237609,
       "name": "Consequence",
       "url": "https://open.spotify.com/track/4sb5qz20HEPHDT9AJzAnmQ"
+    },
+    {
+      "album": {
+        "name": "Under The Light",
+        "url": "https://open.spotify.com/album/6nQZCCnJGwRw7MECEYLS0j"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Consequence",
+      "url": "https://open.spotify.com/track/7BSzIbxxhrdBAkVBHw3ISS"
     },
     {
       "album": {

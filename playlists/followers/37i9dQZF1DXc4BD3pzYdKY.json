@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 149853,
+  "2024-03-03": 149948,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
   "name": "The Flow",
@@ -2455,6 +2455,24 @@
       "duration_ms": 172313,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7ECAeZLU0DckjhWcMYYU6h"
+      },
+      "artists": [
+        {
+          "name": "Ruslan",
+          "url": "https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131531,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/56IrJBpaNkq8Gg2TUlqAS5"
     },
     {
       "album": {
@@ -17883,7 +17901,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147692,
       "name": "They Wanna Know",
       "url": "https://open.spotify.com/track/0jBFFc8gspsHfpkKORCDkC"

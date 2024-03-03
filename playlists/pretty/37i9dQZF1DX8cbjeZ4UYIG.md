@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,959 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,068 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [DJs Take Control](https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW) | 5:05 |
 | 50 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 
-Snapshot ID: `MCwzOWE0MmQxYmJlZjBkNWRmODRiYWI5ZTI1ZTExZTRjYzg2YmY4N2Y2`
+Snapshot ID: `MCw2YTQ3NjFmODE0ZTFjYzgxNmVmN2I2YmViZDdmOGM5ODc2MmQxNjIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ODD Foot Works
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,589 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,610 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,29 +84,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 74 | [烏托邦](https://open.spotify.com/track/5TfKLAw45SuHeCTN6weP3M) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [烏托邦](https://open.spotify.com/album/3NMi4NhUlJtSnbS7krwvAg) | 5:14 |
 | 75 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 |
 | 76 | [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 |
-| 77 | [サルスベリ](https://open.spotify.com/track/5g1jQSIo2WDLSNxDh9V9ya) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [2000JPY](https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW) | 4:45 |
-| 78 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
+| 77 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 |
+| 78 | [サルスベリ](https://open.spotify.com/track/5g1jQSIo2WDLSNxDh9V9ya) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [2000JPY](https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW) | 4:45 |
 | 79 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 |
 | 80 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 |
 | 81 | [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 |
 | 82 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 |
-| 83 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
-| 84 | [ねむれよ、ねむれ](https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 2:37 |
-| 85 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 |
+| 83 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 |
+| 84 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
+| 85 | [ねむれよ、ねむれ](https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 2:37 |
 | 86 | [Slip, Fall, Sleep](https://open.spotify.com/track/74n2hdEZVW3ogYP74Pzh85) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Slip, Fall, Sleep](https://open.spotify.com/album/1lRfBlZjd4wHun8GPczQGH) | 3:38 |
 | 87 | [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 |
 | 88 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
-| 89 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 |
+| 89 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 |
 | 90 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 |
-| 91 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 |
-| 92 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 |
-| 93 | [Lonely star](https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:47 |
+| 91 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 |
+| 92 | [Lonely star](https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:47 |
+| 93 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 |
 | 94 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 |
-| 95 | [metro](https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [South Penguin](https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p) | 3:08 |
-| 96 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 |
+| 95 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 |
+| 96 | [metro](https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [South Penguin](https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p) | 3:08 |
 | 97 | [季節の音](https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [季節の音](https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG) | 4:02 |
-| 98 | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw) | 4:36 |
-| 99 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 |
+| 98 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 |
+| 99 | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw) | 4:36 |
 | 100 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 |
 
-Snapshot ID: `MCxiMTNiMzE1YWYyNWQ3NzgwZTBlNDJiNjBmNWZkMDU1MjEwOGZiNTNk`
+Snapshot ID: `MCxkOTJkMzA4ZTU5OTIyOTI0YWJmMDIzYjIyMmUwM2RiOGM3ZGEzNmRj`

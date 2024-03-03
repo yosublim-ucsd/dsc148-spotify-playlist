@@ -1,12 +1,12 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 134178,
+  "num_followers": 134186,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzgzZGQ5NGIwM2M5MWUwYzk3YjZhZjAyZDc0ZmRlNzZhNWNhOWNh",
+  "snapshot_id": "MCxkYzE4MzcyNzBjMDE2N2VmNzc0NzZlOTE4ZTliODdmZjVmM2RjYWU0",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Nebula's Lullaby",
-        "url": "https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo"
-      },
-      "artists": [
-        {
-          "name": "Serena Perez",
-          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
-        }
-      ],
-      "duration_ms": 128104,
-      "name": "Nebula's Lullaby",
-      "url": "https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "A Cardinal Moonlight",
         "url": "https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174180,
       "name": "A Cardinal Moonlight",
       "url": "https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Nebula's Lullaby",
+        "url": "https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo"
+      },
+      "artists": [
+        {
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+        }
+      ],
+      "duration_ms": 128104,
+      "name": "Nebula's Lullaby",
+      "url": "https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Have Faith In What Will Be",
-        "url": "https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV"
-      },
-      "artists": [
-        {
-          "name": "Francisco Chavez",
-          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
-        }
-      ],
-      "duration_ms": 198484,
-      "name": "Have Faith In What Will Be",
-      "url": "https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 258823,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Have Faith In What Will Be",
+        "url": "https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "duration_ms": 198484,
+      "name": "Have Faith In What Will Be",
+      "url": "https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Fairplex",
-        "url": "https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu"
-      },
-      "artists": [
-        {
-          "name": "Papi\u00f3",
-          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Fairplex",
-      "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "More than this",
         "url": "https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 159450,
       "name": "More than this",
       "url": "https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Fairplex",
+        "url": "https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu"
+      },
+      "artists": [
+        {
+          "name": "Papi\u00f3",
+          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Fairplex",
+      "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Weaving Together",
-        "url": "https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D"
-      },
-      "artists": [
-        {
-          "name": "Dominic Ruiz",
-          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
-        }
-      ],
-      "duration_ms": 203711,
-      "name": "Weaving Together",
-      "url": "https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Lascia Fare A Me",
         "url": "https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 185526,
       "name": "Lascia Fare A Me",
       "url": "https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Weaving Together",
+        "url": "https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "duration_ms": 203711,
+      "name": "Weaving Together",
+      "url": "https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Matira",
-        "url": "https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN"
-      },
-      "artists": [
-        {
-          "name": "Beau Hayes",
-          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "Matira",
-      "url": "https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 120967,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Matira",
+        "url": "https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "duration_ms": 140373,
+      "name": "Matira",
+      "url": "https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Sunrise Close",
-        "url": "https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur"
-      },
-      "artists": [
-        {
-          "name": "Twilight Place",
-          "url": "https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J"
-        }
-      ],
-      "duration_ms": 152791,
-      "name": "Sunrise Close",
-      "url": "https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Always With You",
         "url": "https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 147328,
       "name": "Always With You",
       "url": "https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Sunrise Close",
+        "url": "https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur"
+      },
+      "artists": [
+        {
+          "name": "Twilight Place",
+          "url": "https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J"
+        }
+      ],
+      "duration_ms": 152791,
+      "name": "Sunrise Close",
+      "url": "https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Springwood Ranch",
-        "url": "https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Springwood Ranch",
-      "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Summer Love",
         "url": "https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 127724,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Springwood Ranch",
+        "url": "https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Springwood Ranch",
+      "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "AM Sunset",
-        "url": "https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT"
-      },
-      "artists": [
-        {
-          "name": "Ralph Couvert",
-          "url": "https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "AM Sunset",
-      "url": "https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 141991,
       "name": "Meliora",
       "url": "https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "AM Sunset",
+        "url": "https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT"
+      },
+      "artists": [
+        {
+          "name": "Ralph Couvert",
+          "url": "https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "AM Sunset",
+      "url": "https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Tranquillit\u00e9",
-        "url": "https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p"
-      },
-      "artists": [
-        {
-          "name": "Phil Stent",
-          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Tranquillit\u00e9",
-      "url": "https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 124000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Tranquillit\u00e9",
+        "url": "https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p"
+      },
+      "artists": [
+        {
+          "name": "Phil Stent",
+          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Tranquillit\u00e9",
+      "url": "https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Tapera",
+        "url": "https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+        }
+      ],
+      "duration_ms": 154099,
+      "name": "Tapera",
+      "url": "https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Beyond Any Doubt",
         "url": "https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 125596,
       "name": "Sol",
       "url": "https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Tapera",
-        "url": "https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
-        }
-      ],
-      "duration_ms": 154099,
-      "name": "Tapera",
-      "url": "https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Fernweh",
-        "url": "https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI"
-      },
-      "artists": [
-        {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Fernweh",
-      "url": "https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Felicitas",
         "url": "https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 165828,
       "name": "Felicitas",
       "url": "https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Fernweh",
+        "url": "https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Retrouvailles",
-        "url": "https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf"
-      },
-      "artists": [
-        {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
-        }
-      ],
-      "duration_ms": 161116,
-      "name": "Onirique",
-      "url": "https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Stolen Moments",
         "url": "https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 162842,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Retrouvailles",
+        "url": "https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "duration_ms": 161116,
+      "name": "Onirique",
+      "url": "https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -3531,22 +3531,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Fontana Di Trevi",
-        "url": "https://open.spotify.com/album/3twbRNFI3PS5vjrnmno8g1"
-      },
-      "artists": [
-        {
-          "name": "Stella Weber",
-          "url": "https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu"
-        }
-      ],
-      "duration_ms": 128907,
-      "name": "Fontana Di Trevi",
-      "url": "https://open.spotify.com/track/6fr60p2j0uzUyYZfxKFIk5"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Passing Rain",
         "url": "https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM"
       },
@@ -3559,6 +3543,22 @@
       "duration_ms": 182750,
       "name": "Passing Rain",
       "url": "https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Fontana Di Trevi",
+        "url": "https://open.spotify.com/album/3twbRNFI3PS5vjrnmno8g1"
+      },
+      "artists": [
+        {
+          "name": "Stella Weber",
+          "url": "https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu"
+        }
+      ],
+      "duration_ms": 128907,
+      "name": "Fontana Di Trevi",
+      "url": "https://open.spotify.com/track/6fr60p2j0uzUyYZfxKFIk5"
     },
     {
       "added_at": "2024-02-23 00:01:00",

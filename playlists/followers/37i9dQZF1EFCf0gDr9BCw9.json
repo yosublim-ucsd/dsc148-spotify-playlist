@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 579,
+  "2024-03-03": 579,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs\">Billy Strayhorn</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Billy Strayhorn",
@@ -3265,6 +3265,36 @@
       "duration_ms": 112386,
       "name": "What Else Can You Do With a Drum, Pt. 1 - Calypso",
       "url": "https://open.spotify.com/track/05NaZClsqp0omXp4gYF8S0"
+    },
+    {
+      "album": {
+        "name": "Live & In Studio",
+        "url": "https://open.spotify.com/album/6BcqNuH9JWg0ntgHOdiNhW"
+      },
+      "artists": [
+        {
+          "name": "Ack van Rooyen",
+          "url": "https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s"
+        },
+        {
+          "name": "Paul Heller",
+          "url": "https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7"
+        },
+        {
+          "name": "Hubert Nuss",
+          "url": "https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8"
+        },
+        {
+          "name": "Ingmar Heller",
+          "url": "https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Wounded Love",
+      "url": "https://open.spotify.com/track/3gwT3FmmqbAGYoGyZ658nT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Waxahatchee ",
-  "num_followers": 588596,
+  "num_followers": 588601,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2YxZGNiODUzNThkNTczNWNlOGEwNGM5MWFkMzI4NzVkMzY3YTlj",
+  "snapshot_id": "MCw2ZWQ2YjBiNzIwMTVkM2FlMzBmYzBhOGE1YWU3ZmJmMDk3M2M0MDQ2",
   "tracks": [
     {
       "added_at": "2024-02-13 18:24:03",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Lost On You",
         "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 267461,
       "name": "Lost on You",
       "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -795,6 +795,38 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "The greatest",
+      "url": "https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -819,38 +851,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "The greatest",
-      "url": "https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 234857,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -883,34 +883,6 @@
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -959,6 +931,34 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
+        "name": "Pleasantville -Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Pleasantville -Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
     },
     {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
       "added_at": "2024-02-20 20:56:31",
       "album": {
         "name": "Care",
@@ -1411,6 +1395,22 @@
       "duration_ms": 277815,
       "name": "Care",
       "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Good Girls (Don\u2019t Get Used)",
         "url": "https://open.spotify.com/album/0f4hb7W851uRRZ1GJDlGGN"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 215402,
       "name": "Good Girls (Don\u2019t Get Used)",
       "url": "https://open.spotify.com/track/2FnrUcdLWId0F13GT32ugT"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2024-02-13 18:24:03",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
-    },
-    {
-      "added_at": "2024-02-13 18:24:03",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -1655,22 +1639,34 @@
     {
       "added_at": "2024-02-13 18:24:03",
       "album": {
-        "name": "What's Love (feat. MUNA)",
-        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
-      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
+    {
+      "added_at": "2024-02-13 18:24:03",
+      "album": {
+        "name": "FIRE ON MARZZ",
+        "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc"
     }
   ],
   "unique_name": "EQUAL Indie",

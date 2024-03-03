@@ -4,7 +4,7 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-335 songs - 17 hr 9 min
+336 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Fight Of Your Life](https://open.spotify.com/track/75nrUKvEyi6NUP4SJC1wit) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Fight Of Your Life](https://open.spotify.com/album/5NvLQlP11h3vpyCDJP3BJL) | 3:09 | 2022-09-14 | 2023-03-04 |
 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 | 2023-03-03 | 2023-05-27 |
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2023-08-22 | 2023-12-07 |
-| [Forma de Ser](https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Forma de Ser](https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU) | 2:49 | 2023-12-06 |  |
+| [Forma de Ser](https://open.spotify.com/track/4q2OMrJoN5UGzk4HNZqd0n) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR) | [Forma de Ser](https://open.spotify.com/album/0O8iAjrqmWHWWb1PwPBpjW) | 2:49 | 2024-01-29 |  |
+| [Forma de Ser](https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo) | [Krofon](https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Forma de Ser](https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU) | 2:49 | 2023-12-06 | 2024-03-03 |
 | [freak](https://open.spotify.com/track/16xldbcXGr6ipC3pHvlcQ5) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [r u missing](https://open.spotify.com/album/1JC06HUJLcl40hRtZxfwLY) | 2:32 | 2023-12-06 | 2023-12-11 |
 | [freak](https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [mundo dulce](https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1) | 2:32 | 2023-12-06 |  |
 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 | 2023-12-06 |  |

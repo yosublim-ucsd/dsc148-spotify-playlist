@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli XCX, Pharrell Williams & Miley Cyrus, Cardi B, Abby Sage and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,057 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,113 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 35 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 |
 | 36 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 |
 | 37 | [UP!](https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [UP!](https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP) | 2:16 |
-| 38 | [Can I Make You Jealous](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
+| 38 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
 | 39 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 40 | [Guilty Pleasure](https://open.spotify.com/track/67E4r1IZiQZyxKY0U0yHG3) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Guilty Pleasure](https://open.spotify.com/album/2UUNuVIJzNruiPt08LElwZ) | 3:28 |
 | 41 | [You Were Mine](https://open.spotify.com/track/0nt9QNF9rY5mPTAV9Nn9yH) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [You Were Mine](https://open.spotify.com/album/674xNsjLRyL3aDeWG3Zmcc) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [State Of Nature](https://open.spotify.com/track/4qlnQc8Rc2N81jHKWBG3Vp) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Too Hot To Sleep](https://open.spotify.com/album/0bbGGeVylC56xMaOfqRZX1) | 2:50 |
 | 100 | [All In Your Mind](https://open.spotify.com/track/1wTetzWvzvC0LeODG6b0dh) | [ZADA](https://open.spotify.com/artist/6xUGLRA9ZV9aSKyGgqR6Uq) | [WATER IN THE DESERT](https://open.spotify.com/album/7uScemeNpDj1HvQXsQGxK4) | 2:24 |
 
-Snapshot ID: `MCxmYjU4MDlhYzM5ODJmMjk0YzQ0YmFiMWIxZjRmMzE1OGUyNGM4Yzkz`
+Snapshot ID: `MCxmYzNlNmM5NWMwNWMxOGVjYmYwZGI3MTJiOWJkOGU1N2JjZDczZmQ5`

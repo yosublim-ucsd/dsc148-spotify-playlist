@@ -1,12 +1,12 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 61193,
+  "num_followers": 61224,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzdkODZmYjMyMGFkYzkxMGY3YmIwNGEwZTM1Mzg5MGEzOTliZjZh",
+  "snapshot_id": "MCw3MTgwYmFjYzYwOGQwNWI4YzYyYjdjOTQ2M2U3ZDA1NzI5MjNmNDFm",
   "tracks": [
     {
       "added_at": "2023-07-10 17:37:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
     },
     {
       "added_at": "2023-07-10 17:37:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Hollow Coves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,901 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,960 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 44 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 45 | [Columbus & 89th](https://open.spotify.com/track/0sPG1vCeyLzUmWTwbu46X3) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Columbus & 89th](https://open.spotify.com/album/35aTodKr8A3bp4k0LJBV51) | 4:15 |
 | 46 | [Georgia Walks](https://open.spotify.com/track/46ewa3Cu9oEqxNnh0LRWxs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Georgia Walks](https://open.spotify.com/album/5NQ5yCqEPIP4BW3BPKXAmU) | 4:07 |
-| 47 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 |
+| 47 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 |
 | 48 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 |
 | 49 | [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 |
 | 50 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 |
 | 100 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |
 
-Snapshot ID: `MCw1NWQ1MjAxN2M2ZmNiNjU0ZGE4ZDA5NTlkODhkMzc0MTZlODlmNDUw`
+Snapshot ID: `MCw1NDFjMmRiZjM2YjI5ZDc2Y2YwYTc1ZmJiNjlhODJiMzYxZGVhNDg0`

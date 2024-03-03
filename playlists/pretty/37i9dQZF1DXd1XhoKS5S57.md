@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,388 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,404 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 50 | [This Picture](https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:34 |
 | 51 | [My Place](https://open.spotify.com/track/1NAyvpW70a9lxY0YlLWFV4) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 5:36 |
 | 52 | [Face à la mer](https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [Calog3ro](https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF) | 3:43 |
-| 53 | [Breathe Me](https://open.spotify.com/track/2Bo0hh0yoQReC4reJav5DT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:32 |
-| 54 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 |
+| 53 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 |
+| 54 | [Breathe Me](https://open.spotify.com/track/2Bo0hh0yoQReC4reJav5DT) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:32 |
 | 55 | [Parce qu'on vient de loin](https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 3:52 |
 | 56 | [Sick and Tired](https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces of A Dream](https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w) | 3:32 |
 | 57 | [She Wants To Move](https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:33 |
 | 58 | [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 |
 | 59 | [Le son qui tue \(avec Natty\)](https://open.spotify.com/track/3ee6eXqZqJo3DJEiBr1SHs) | [Rohff](https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp), [Natty](https://open.spotify.com/artist/6DgyAh4MS5wtfJcP5DH2FT) | [la fierte des notres](https://open.spotify.com/album/5Cp07JiZnqruQBNZb88OCf) | 3:44 |
-| 60 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
+| 60 | [Trick Me \- Club Mix](https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:26 |
 
-Snapshot ID: `MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3`
+Snapshot ID: `MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1`

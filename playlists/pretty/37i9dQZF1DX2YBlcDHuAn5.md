@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,927 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,935 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
 | 50 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
 
-Snapshot ID: `MCxjZTVkNDY1ZGQwYzc3YjM3ZDIzZjY0Njc0OTQ2ODY4NGEzN2U5Zjk1`
+Snapshot ID: `MCxmZDIxMTViNDQ3YWZiNjBjNGNiZDA1ZDQ1MmM1OGEyZmY0ZGFhNTc0`

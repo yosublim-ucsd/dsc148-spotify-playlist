@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,468 likes - 200 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,577 likes - 200 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,9 +191,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 181 | [Our Love Remains](https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ), [Carmen Lundy](https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL) | [Back Home in Kansas City](https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k) | 5:26 |
 | 182 | [Twinkle Twinkle](https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Twinkle Twinkle](https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5) | 4:27 |
 | 183 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 |
-| 184 | [I'm Glad There Is You](https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr) | 4:09 |
-| 185 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT) | [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Duke Ellington's Sound of Love](https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z) | 4:49 |
-| 186 | [Willow Weep for Me](https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Lady Sings the Blues](https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys) | 2:38 |
+| 184 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/0pfBWnd4W7AoFA4BawU1GT) | [Sophie Wellington](https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C) | [Duke Ellington's Sound of Love](https://open.spotify.com/album/2psYSrYQkVIF4PtoQT0Y8Z) | 4:49 |
+| 185 | [Willow Weep for Me](https://open.spotify.com/track/3CouChEohjqeO4TTR9V9Vh) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Lady Sings the Blues](https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys) | 2:38 |
+| 186 | [I'm Glad There Is You](https://open.spotify.com/track/5tXrETFfbMA1q6tgP7aSwz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/2m7zerGZkKVyB192vMpvLr) | 4:09 |
 | 187 | [Until It Happens to You](https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [All You Need Is The Girl](https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz) | 4:50 |
 | 188 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 |
 | 189 | [I Didn't Know About You](https://open.spotify.com/track/7l2h3uxkaw0R4asgHyVkQP) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:37 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 |
 | 200 | [Devil May Care](https://open.spotify.com/track/51zApQvjmJu06ZhUYQADJQ) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [Devil May Care](https://open.spotify.com/album/3rotHV6RMQaDfiekV9OlkK) | 3:31 |
 
-Snapshot ID: `MCxjM2NjN2I3YmZlYjIzMzEzNjJiNzZhOTM4NDdhNmE0NjhmMmJiNTZi`
+Snapshot ID: `MCxhMjM2NjAzMDAxNzExODlkZGRjODYxZWRlOTc3M2NlOWMzYTBhMzk1`

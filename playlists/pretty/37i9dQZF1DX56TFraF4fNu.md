@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Kei Linch
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,549 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,610 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bendecida Y Afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida Y Afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 |
 | 2 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
 | 3 | [Ignorantes](https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ignorantes](https://open.spotify.com/album/7Hw9RJbQPN0gUx4xjgFLhj) | 3:30 |
-| 4 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 |
+| 4 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 |
 | 5 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
 | 6 | [Que Mas Pues \- Remix](https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 5:05 |
 | 7 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 |
 | 60 | [Tarea](https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:31 |
 
-Snapshot ID: `MCxkODZjNWExYzNhMTcwMTkzZDM1MzQwNWM5MGZmNGYyY2JlNWRkMzBh`
+Snapshot ID: `MCwzYTUyZGQ5NjZkNzJkN2M4NjkwNWExYzhhMDFjMjkwYThmNjg5NDU4`

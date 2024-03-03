@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 477772,
+  "2024-03-03": 477836,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
   "name": "Culture Tubes",
@@ -665,10 +665,32 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 219266,
       "name": "Face \u00e0 la mer",
       "url": "https://open.spotify.com/track/1FNGLwdi2avksFJKIkTnok"
+    },
+    {
+      "album": {
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "album": {

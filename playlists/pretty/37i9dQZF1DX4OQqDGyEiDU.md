@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,505 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,538 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
 | 50 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 
-Snapshot ID: `MCxmZWM0ZDZiZTc2ZmU5ZDkxMzUwMzQ1YzE0MjAzN2Y5YTM1NzA4NzE3`
+Snapshot ID: `MCxhMmFkMDc4ODA4ZGZmOTdkYjE2MjU1NDcyMjU0MTI2NTI3ZDA5ZDhl`

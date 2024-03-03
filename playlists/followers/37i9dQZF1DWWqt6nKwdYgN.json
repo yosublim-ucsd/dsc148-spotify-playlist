@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 13228,
+  "2024-03-03": 13233,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Aczino \ud83d\udc10\ud83d\udc51 en portada. ",
   "name": "Rimas Frescas ",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215189,
       "name": "1000 Colores",
       "url": "https://open.spotify.com/track/59jrNHkwH8uLIvlwQldUX6"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176170,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179000,
       "name": "AIR",
       "url": "https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0"
@@ -809,6 +809,24 @@
       "duration_ms": 247150,
       "name": "Aqu\u00ed Estoy Yo",
       "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
+    },
+    {
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
     },
     {
       "album": {
@@ -1364,6 +1382,44 @@
     },
     {
       "album": {
+        "name": "BOURDAIN",
+        "url": "https://open.spotify.com/album/2QEtBF7Ulcg7TyqgttMEa4"
+      },
+      "artists": [
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Underaiki",
+          "url": "https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo"
+        },
+        {
+          "name": "R\u00edal Guawank\u00f3",
+          "url": "https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN"
+        },
+        {
+          "name": "Vvstears",
+          "url": "https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg"
+        },
+        {
+          "name": "El Dojo",
+          "url": "https://open.spotify.com/artist/4ZNQgXLIFQ8Ud3OPGnyuQd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201372,
+      "name": "BOURDAIN",
+      "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
+    },
+    {
+      "album": {
         "name": "Brillo",
         "url": "https://open.spotify.com/album/7C6kDqbrahj6NliXQEWkGC"
       },
@@ -1914,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "Coge la Curva",
+        "url": "https://open.spotify.com/album/7rPFMUPG0QD8cHIHiVRLQn"
+      },
+      "artists": [
+        {
+          "name": "Error 999",
+          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158851,
+      "name": "Coge la Curva",
+      "url": "https://open.spotify.com/track/0WBNyc8eVldfaVYaDVI3CX"
+    },
+    {
+      "album": {
         "name": "Capo",
         "url": "https://open.spotify.com/album/48xXX0Q141vKS9UcLu9mWW"
       },
@@ -2009,7 +2083,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 295611,
       "name": "Confesi\u00f3n De Ares",
       "url": "https://open.spotify.com/track/4tSK5q7WPL60ju8voIKF5l"
@@ -2799,7 +2873,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173647,
       "name": "Dicen Que Soy",
       "url": "https://open.spotify.com/track/1hevwYRiCFb6R3gEXF3g3o"
@@ -3124,6 +3198,28 @@
     },
     {
       "album": {
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "album": {
         "name": "EL SECRETO",
         "url": "https://open.spotify.com/album/5TAdRy1D4JefUxWHn2YNef"
       },
@@ -3319,7 +3415,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177753,
       "name": "ENCENDIO",
       "url": "https://open.spotify.com/track/0lCka400ubTnDotXopGyO4"
@@ -3375,6 +3471,28 @@
       "duration_ms": 186495,
       "name": "Enrolemos uno",
       "url": "https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L"
+    },
+    {
+      "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
     },
     {
       "album": {
@@ -4143,6 +4261,32 @@
       "duration_ms": 125952,
       "name": "Hija De P",
       "url": "https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Sh*t",
+        "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Chicho Beats",
+          "url": "https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195113,
+      "name": "Hip Hop Sh*t",
+      "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
     },
     {
       "album": {
@@ -5279,7 +5423,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 130173,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
@@ -7220,6 +7364,32 @@
     },
     {
       "album": {
+        "name": "No Est\u00e1s II",
+        "url": "https://open.spotify.com/album/4tWQ9A0rlk3iGszgOLeVu0"
+      },
+      "artists": [
+        {
+          "name": "Pleito",
+          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+        },
+        {
+          "name": "Reies",
+          "url": "https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx"
+        },
+        {
+          "name": "M.Tim\u00e9re",
+          "url": "https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239330,
+      "name": "No Est\u00e1s II",
+      "url": "https://open.spotify.com/track/5PnpsdSrjziwHQW9KJySE7"
+    },
+    {
+      "album": {
         "name": "No la Cuajan",
         "url": "https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5"
       },
@@ -7560,6 +7730,24 @@
     },
     {
       "album": {
+        "name": "ODIOSOTORIUS",
+        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "ODIOSOTORIUS",
+      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
+    },
+    {
+      "album": {
         "name": "Ol\u00e9",
         "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
       },
@@ -7571,7 +7759,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163910,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
@@ -9541,7 +9729,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193043,
       "name": "Sudaca en el Rooftop",
       "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
@@ -9667,6 +9855,32 @@
       "duration_ms": 208695,
       "name": "TARIMA",
       "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
+    },
+    {
+      "album": {
+        "name": "Taylor Made",
+        "url": "https://open.spotify.com/album/0zCaVVJMvOS2d2F2NfTXYP"
+      },
+      "artists": [
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        },
+        {
+          "name": "Hi-Kymon",
+          "url": "https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb"
+        },
+        {
+          "name": "Ki\u00f1o",
+          "url": "https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Taylor Made",
+      "url": "https://open.spotify.com/track/5FnT5Jtn9WKrZqGAkkKxvi"
     },
     {
       "album": {

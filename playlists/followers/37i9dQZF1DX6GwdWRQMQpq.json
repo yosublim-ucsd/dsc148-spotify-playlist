@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 3071560,
+  "2024-03-03": 3072341,
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -849,7 +849,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 206666,
       "name": "Becky (feat. 41)",
       "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
@@ -2379,7 +2379,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
@@ -4999,6 +4999,24 @@
       "duration_ms": 180000,
       "name": "Like This (Back It Up)",
       "url": "https://open.spotify.com/track/64r5iQ8xKI1CjmtqUb8lbY"
+    },
+    {
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "album": {
@@ -8217,6 +8235,24 @@
       "duration_ms": 135733,
       "name": "The One (Sprite Limelight)",
       "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
+    },
+    {
+      "album": {
+        "name": "The P*ssy Song",
+        "url": "https://open.spotify.com/album/7hut1MKOSHcWIXdN6jSmQf"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177705,
+      "name": "The P*ssy Song",
+      "url": "https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi"
     },
     {
       "album": {

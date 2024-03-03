@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles com Bispo e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,255 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,281 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 49 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 50 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 |
-| 51 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
+| 51 | [Desilusão](https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Desilusão](https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t) | 3:42 |
 | 52 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
-| 53 | [Desilusão](https://open.spotify.com/track/5dOYPsUc993w5JZp1omn5a) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Desilusão](https://open.spotify.com/album/0Pb9Hmn5HWVAy066gySw8t) | 3:42 |
+| 53 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 54 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 55 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 56 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
 | 70 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 |
 | 71 | [DDPT](https://open.spotify.com/track/4k0qtaZjrdltLFseskSfHm) | [Denilson L.A](https://open.spotify.com/artist/1gPqaBqCV53biXorBTjsTx) | [Casa azul](https://open.spotify.com/album/3PwblwQzJFjLtCsJhIMdck) | 3:18 |
-| 72 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
-| 73 | [Tudo Para Seguir](https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Tudo Para Seguir](https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8) | 2:26 |
-| 74 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 |
+| 72 | [Leonor](https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Leonor](https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS) | 1:48 |
+| 73 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 |
+| 74 | [kingpin](https://open.spotify.com/track/4JBlF8N0V5gRZig3Bw96ka) | [BIG JONY](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [IV Período](https://open.spotify.com/album/1qMC2inXdV9XwAWGqObN40) | 3:25 |
 | 75 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 |
-| 76 | [kingpin](https://open.spotify.com/track/4JBlF8N0V5gRZig3Bw96ka) | [BIG JONY](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [IV Período](https://open.spotify.com/album/1qMC2inXdV9XwAWGqObN40) | 3:25 |
-| 77 | [Leonor](https://open.spotify.com/track/6BPHsEye29K66TBGXlmcfH) | [Nadav](https://open.spotify.com/artist/4nBPR1hXXGzBB2u4HsR4X9) | [Leonor](https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS) | 1:48 |
-| 78 | [Pedi Amor](https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU) | [RAZNOSENSE](https://open.spotify.com/artist/3S0AyPD0gLjthll7jBrcWV), [Dom Reis](https://open.spotify.com/artist/1AVZby5ziYtUBRWjSGHvwx) | [Pedi Amor](https://open.spotify.com/album/6nxWglWaQuK4KgVFLSLSnp) | 2:34 |
+| 76 | [Pedi Amor](https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU) | [RAZNOSENSE](https://open.spotify.com/artist/3S0AyPD0gLjthll7jBrcWV), [Dom Reis](https://open.spotify.com/artist/1AVZby5ziYtUBRWjSGHvwx) | [Pedi Amor](https://open.spotify.com/album/6nxWglWaQuK4KgVFLSLSnp) | 2:34 |
+| 77 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
+| 78 | [Tudo Para Seguir](https://open.spotify.com/track/1BJgqgbG3SJYaL0jfRcH46) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Tudo Para Seguir](https://open.spotify.com/album/3iMbU9zYAvjUF9wJliLFz8) | 2:26 |
 | 79 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
 | 80 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
 
-Snapshot ID: `MCw5NDNhYzI3YmEyNDVkOGY0NjQ2OWNjOGExNWFmNGFkZTE1OTI3ZWY3`
+Snapshot ID: `MCxkZTUyZjBhMzFmNjE3Mjg1MWRkZWQ3N2UxMDYxMTVkMmZjMDViM2Ez`

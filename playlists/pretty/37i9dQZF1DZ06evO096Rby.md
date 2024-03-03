@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,786 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,835 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 51 | [El Mono \- En Vivo](https://open.spotify.com/track/5WOTy1vVAhux7p6UfkMUL0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 3:13 |
 | 52 | [Tuvo Que Tuvo / El Enamorado](https://open.spotify.com/track/6N2GVCzasRYLCSxRYsITfG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 3:43 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDBiMTQ4MDYyYTVjYTMyOTZlNGM2NjVkMTVlNTMwYWEyYQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA2YTE4ZTQ3OWU4MjU1ZGJhYzJkNzk3MzkyNDBiNjU4Ng==`

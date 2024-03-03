@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334,119 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,334,654 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 99 | [Wasted Time](https://open.spotify.com/track/0MifhDugHOql4oMAea1Ont) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/48BCVjId3c06exwZ5jc4zm) | 5:48 |
 | 100 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 
-Snapshot ID: `MCwwYjRhODFhYzMzYzZkMDg4NmY3MTdiNzE5ZGY1NThjODVlMTEzOTZi`
+Snapshot ID: `MCxlMmNmYzNiOTJiMzZkMWEyNDViZWMzNjg5YmE1YjA3ZDA2NDg4Zjhi`

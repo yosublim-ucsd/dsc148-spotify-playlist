@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,308 likes - 140 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,339 likes - 140 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 139 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 |
 | 140 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 |
 
-Snapshot ID: `MCxkNGIyOWFiOTlhNzk5NjdmZTA0ODYwNzg3NzA0MWIyM2NjZmVlZmIy`
+Snapshot ID: `MCw0OWU3MGY3NTA5MTg4ODU5ZjlmNzI4OGI0MWJhMTdiN2Y0YmM1Njk1`

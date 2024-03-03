@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:2FnhKB01CBc0KBjcTDDOod">Ão</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,053 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,055 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 9 | [Love Is Blind](https://open.spotify.com/track/5BapW8rupZnFZVr1LbXOwN) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Love Is Blind](https://open.spotify.com/album/7u84uWtWk896JeSn4KgHZR) | 3:10 |
 | 10 | [Bad News](https://open.spotify.com/track/0zy7Z2HZ97flArhURX4WMV) | [Gisèle](https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna) | [Bad News](https://open.spotify.com/album/6ypF2S15cIwp9Cp9g4OKsK) | 2:52 |
 | 11 | [Nieuw Begin](https://open.spotify.com/track/5XcnofgwVisEDckg7VB8xW) | [Isabelle A](https://open.spotify.com/artist/5CCH2zBKFp8T8hy07PTrvm) | [Nieuw Begin](https://open.spotify.com/album/2uhunHJvFnUgqRUe2gK9nz) | 2:52 |
-| 12 | [DIVINE NRG](https://open.spotify.com/track/6drCMLSVhKBu3fVHe3Aq9g) | [Oriana Ikomo](https://open.spotify.com/artist/4Fjuk9Fma493YTT2HBE9ly), [MAVEE](https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte) | [DIVINE NRG](https://open.spotify.com/album/4JeyukldMSusCri5RMMZJ3) | 3:25 |
+| 12 | [DIVINE NRG](https://open.spotify.com/track/325AgZ6wdc0FZ5TA8hKTAE) | [Oriana Ikomo](https://open.spotify.com/artist/4Fjuk9Fma493YTT2HBE9ly), [MAVEE](https://open.spotify.com/artist/0JEu13E5h72umshgX4tAte) | [IMMA PLEASER](https://open.spotify.com/album/1dJa5kP9w94tcU2CWPJPnA) | 3:25 |
 | 13 | [If You Leave](https://open.spotify.com/track/65UuB3peBD72GS1fzVWVt6) | [Jessica Bouhez](https://open.spotify.com/artist/4ezdzoGzyeBw0tekkqSyQM) | [If You Leave](https://open.spotify.com/album/7y5YbY9merO6CyLb7bGoxo) | 2:44 |
 | 14 | [HALF 1](https://open.spotify.com/track/5eZmdJgugupcHDuLk8gIxt) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [HALF 1](https://open.spotify.com/album/6K3IaD0TNepzTXd9HHDCJl) | 3:49 |
 | 15 | [The Pulse](https://open.spotify.com/track/3HRd57TYoNsRHXUkduSy3w) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [The Subs](https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI) | [The Pulse EP](https://open.spotify.com/album/02rzwl7dvPAlo4j6JYcLGE) | 3:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 39 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
 | 40 | [Ceci n'est pas un cliché](https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:46 |
 
-Snapshot ID: `MCw5NjM1MDA3Mjg4ZDM0Y2Y2NDJiM2M5YWZkODI1YzZkOTVmMzY3NDc3`
+Snapshot ID: `MCw4NGE2YmQ5NjA0Y2M4Y2YzMDZiMTlkMGVjYjdhMzQwNTJkY2IwNWJj`

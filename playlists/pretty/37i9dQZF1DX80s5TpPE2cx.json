@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 8839,
+  "num_followers": 8854,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ3Njc4YTQ4MWJkZWJmZTY3YWQ1MzQ3ODFiODY5NDUzNTFiMDVj",
+  "snapshot_id": "MCwwODJhMDA0MTIyZmU1ZWM5MjkzYzc5NDJhZDlhYzZjN2NkZDA0MWQ1",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Palmwine Music",
         "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 240000,
       "name": "Popping",
       "url": "https://open.spotify.com/track/7b9QrJwaTRQYAbs0fnoilW"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Skedaddle",
         "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
       },
@@ -695,18 +675,42 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
+        "name": "Palmwine Music",
+        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
       },
       "artists": [
         {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
         }
       ],
-      "duration_ms": 187714,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
+      "duration_ms": 264138,
+      "name": "Up To You - Ikon Mix",
+      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -735,22 +739,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Palmwine Music",
-        "url": "https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
       },
       "artists": [
         {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Funbi",
-          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
         }
       ],
-      "duration_ms": 264138,
-      "name": "Up To You - Ikon Mix",
-      "url": "https://open.spotify.com/track/3I3tClYQhS7kh9qf0L2IKr"
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/5j6dGDbLUnPE5UbPOtpJAX"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        },
-        {
-          "name": "BenjiFlow",
-          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/4XRXPj54gXpXQjJ2nckf47"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -867,6 +847,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Catching a Wav",
+      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
@@ -883,18 +879,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Catching a Wav",
-      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
+      "duration_ms": 213333,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Shaken",
-        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL"
       },
       "artists": [
         {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Shaken",
-      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
+      "duration_ms": 171000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/4XRXPj54gXpXQjJ2nckf47"
     },
     {
       "added_at": "2024-03-01 00:01:00",

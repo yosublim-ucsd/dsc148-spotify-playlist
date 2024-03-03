@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Tuyo, Luedji Luna",
-  "num_followers": 346135,
+  "num_followers": 346173,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTkyMDJiZGZlMDkyN2U1YWFmMDgxZDY4MGQzNzQ3MmNmMzA4MWMw",
+  "snapshot_id": "MCw2NmI5ZmZjODBmNWUzOTk1YjY2ZTdlODU3NzEzOTE4ZGZmNTY3YWMw",
   "tracks": [
     {
       "added_at": "2024-03-01 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Portas Raras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Va7QxTQdUhh7AB57zxbX5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Seo Z\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/40wZorcwGf1nrAIieX95IU"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Portas Raras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Va7QxTQdUhh7AB57zxbX5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Seo Z\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/40wZorcwGf1nrAIieX95IU"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/6cXORwSG04rxXhOJwYDNYK"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1291,6 +1291,34 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "Ao Vivo no Coala Festival 2022",
+        "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Coala.Records",
+          "url": "https://open.spotify.com/artist/6JtpXINM32BgJ6MAJt6dCD"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 264154,
+      "name": "Tigresa - Ao Vivo no Coala Festival 2022",
+      "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Alagados",
         "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
@@ -1339,34 +1367,6 @@
       "duration_ms": 211914,
       "name": "A Menina Da Felicidade",
       "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "Ao Vivo no Coala Festival 2022",
-        "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Coala.Records",
-          "url": "https://open.spotify.com/artist/6JtpXINM32BgJ6MAJt6dCD"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 264154,
-      "name": "Tigresa - Ao Vivo no Coala Festival 2022",
-      "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
     },
     {
       "added_at": "2024-03-01 03:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-01 03:00:00",
       "album": {
+        "name": "V\u00e9spera",
+        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 195472,
+      "name": "V\u00e9spera",
+      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
+    },
+    {
+      "added_at": "2024-03-01 03:00:00",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 179995,
       "name": "Tirolirole",
       "url": "https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN"
-    },
-    {
-      "added_at": "2024-03-01 03:00:00",
-      "album": {
-        "name": "V\u00e9spera",
-        "url": "https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 195472,
-      "name": "V\u00e9spera",
-      "url": "https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw"
     },
     {
       "added_at": "2024-03-01 03:00:00",

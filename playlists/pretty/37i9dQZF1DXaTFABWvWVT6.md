@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,102 likes - 44 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,114 likes - 44 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 29 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 30 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
 | 31 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
-| 32 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
-| 33 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 |
+| 32 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 |
+| 33 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 | 34 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 35 | [Bassline Pumping](https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Bassline Pumping EP](https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE) | 3:30 |
 | 36 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 43 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 44 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 
-Snapshot ID: `MCw3YmVhYTc3YTkyM2VmNzNhYTQyYTZjMWNmNmE4MGM5MGI2ODk5OGVl`
+Snapshot ID: `MCwyNTNiMTA2ZjIwYjY3MDc0MGU3YzJmZGQ1NTAzYTJlMzQ3YTM0NTE0`

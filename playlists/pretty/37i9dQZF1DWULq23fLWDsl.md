@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,273 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,448 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 99 | [Sun Hands](https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:50 |
 | 100 | [Weekend](https://open.spotify.com/track/7DQDpDeLVS3L9kgb6ejU3z) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt) | 3:22 |
 
-Snapshot ID: `MCxlZWE0YTYxZTRkZjRhOTEzNDZiMTk5ZTQyY2E0M2FmOWI0ZTNhNDhm`
+Snapshot ID: `MCxhM2M5YWRkYWY0NTQzYjBiMDNkNDM4Zjg4YjM0OTJjMDQyNzE0NGMx`

@@ -1,9 +1,27 @@
 {
-  "2024-03-02": 30592,
+  "2024-03-03": 30657,
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Candy Sheoran",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: GULZAAR CHHANIWALA",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2GxxViTpqwz7L3a5jY59DH"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7deZn0z8YjbIrLlMXpHOQ9"
+    },
     {
       "album": {
         "name": "12 Bore",
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184888,
       "name": "Lal Dabbi",
       "url": "https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh"

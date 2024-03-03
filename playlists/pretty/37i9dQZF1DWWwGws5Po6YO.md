@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,125 likes - 100 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,142 likes - 100 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Laurus I](https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Laurus](https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l) | 4:05 |
 | 100 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 |
 
-Snapshot ID: `MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk`
+Snapshot ID: `MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx`

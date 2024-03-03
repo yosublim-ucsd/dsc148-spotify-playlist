@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 819697,
+  "2024-03-03": 819714,
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Kodak Black, Schoolboy Q and Quavo.",
+  "description": "Today's Hip-Hop with Cardi B, ScHoolboy Q and Meek Mill.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162162,
       "name": "02.02.99",
       "url": "https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO"
@@ -982,6 +982,36 @@
     },
     {
       "album": {
+        "name": "ALLAT (feat. Honcho)",
+        "url": "https://open.spotify.com/album/6BUZdiyGFB4KaYchLWp7Nf"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Honcho",
+          "url": "https://open.spotify.com/artist/3nhOQpzDVpQedYYziFe9MJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "ALLAT (feat. Honcho)",
+      "url": "https://open.spotify.com/track/42vN6qwolmMizZmqsqvPtO"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF"
       },
@@ -1289,6 +1319,28 @@
       "duration_ms": 162253,
       "name": "Arya (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
+    },
+    {
+      "album": {
+        "name": "2093 (P2)",
+        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240916,
+      "name": "As We Speak (feat. Drake)",
+      "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
     },
     {
       "album": {
@@ -3825,7 +3877,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155200,
       "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
@@ -5323,7 +5375,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 144253,
       "name": "Entrapreneur",
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
@@ -5843,7 +5895,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -7147,6 +7199,28 @@
       "duration_ms": 159330,
       "name": "Give You What You Want",
       "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
+    },
+    {
+      "album": {
+        "name": "HEATHENISM",
+        "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Giving Chanel",
+      "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
     },
     {
       "album": {
@@ -8748,6 +8822,24 @@
     },
     {
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/3ov6J7XhPyxpGSrYjL5cZl"
       },
@@ -10045,7 +10137,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165765,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
@@ -10407,6 +10499,24 @@
       "duration_ms": 148769,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8"
+    },
+    {
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "album": {
@@ -12796,6 +12906,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "OK (feat. Young Thug)",
         "url": "https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw"
       },
@@ -13159,7 +13291,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155121,
       "name": "Only Real",
       "url": "https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM"
@@ -14303,6 +14435,24 @@
       "duration_ms": 282066,
       "name": "PROUD OF ME. (feat. Fridayy)",
       "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129200,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK"
     },
     {
       "album": {
@@ -16603,7 +16753,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180800,
       "name": "Stand On It (with Future)",
       "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
@@ -18449,7 +18599,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192000,
       "name": "Tonka Truck",
       "url": "https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW"
@@ -19033,6 +19183,28 @@
       "duration_ms": 160560,
       "name": "TWINNEM (Remix) (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2t6q9bGHggJNAyNdFqDOpA"
+    },
+    {
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
       "album": {
@@ -19957,6 +20129,24 @@
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
+    },
+    {
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "album": {

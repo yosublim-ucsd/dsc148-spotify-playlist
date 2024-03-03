@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,947 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,999 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 45 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
 | 46 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 47 | [Ain't No Fun \(When The Rabbit Got The Gun\)](https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:07 |
-| 48 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 |
-| 49 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
+| 48 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
+| 49 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 |
 | 50 | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 2:55 |
 | 51 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 |
 | 52 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 73 | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Back to the Blues \(Deluxe Edition\)](https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp) | 4:05 |
 | 74 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |
 | 75 | [Movin' On](https://open.spotify.com/track/1iET7rB2cxydcGvfDz2jGo) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:01 |
-| 76 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 |
-| 77 | [Get Right Before You Get Left](https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The High Cost Of Low Living](https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N) | 3:51 |
+| 76 | [Get Right Before You Get Left](https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The High Cost Of Low Living](https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N) | 3:51 |
+| 77 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 |
 | 78 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 |
 | 79 | [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 |
 | 80 | [Lazy Morning Blues](https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS) | [Gang Of Broken Arms](https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w), [Bruce James](https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW) | [Lazy Morning Blues](https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe) | 1:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 149 | [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 |
 | 150 | [Choose Wisely](https://open.spotify.com/track/3e8FtZefLisPiLXh6MCSS6) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 |
 
-Snapshot ID: `MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1`
+Snapshot ID: `MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0`

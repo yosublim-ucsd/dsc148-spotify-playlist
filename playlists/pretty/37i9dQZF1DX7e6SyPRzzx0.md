@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,316 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,343 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 10 | [\#scrimjustwannahavefun](https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy \(deluxe edition\)](https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ) | 2:28 |
 | 11 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
 | 12 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 |
-| 13 | [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 |
+| 13 | [Miss The Rage](https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX) | 3:56 |
 | 14 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 | 15 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 16 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 49 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 |
 | 50 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 |
 
-Snapshot ID: `MCw0MDAyNTdkZjRiNmM4NmFkNDBjNjJmMDVlNTA1MjI1OGYwNDg4Zjg5`
+Snapshot ID: `MCw0ODViZGY2N2YwMGYzMWE0NzFjMWVjYWRmZjUxYzk0M2Y5ZGQxNjRl`

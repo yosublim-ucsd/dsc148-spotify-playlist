@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > faye webster's new album, and more gems this week
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,406 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,549 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 100 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 |
 | 101 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 
-Snapshot ID: `MCxjODNhNmE3YjJiMWRjZDUxYmI3MjU5NjMzMGRhMmEwYjk2MjI5ZWQy`
+Snapshot ID: `MCw5MWNlZjdiYTg3YzhmMTU2NzRmZDllMmVmOTRmMWQ1YWZhMjY3YTlm`

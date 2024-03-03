@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,562 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,585 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 50 | [Patek Water \(feat\. Offset\)](https://open.spotify.com/track/7r6LNJT2LqpLpEyZQJPygt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 3:09 |
 | 51 | [Don't Lose Me](https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:20 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAzNDZiNzUzNDU1ZjhiOWMxMmQ3NDM2YzY0MmQyZjU0NQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA0NWM5ZGJkOTgyZDk2Yjg0MmE3M2Q2MTBjYjQ2YmI1Nw==`

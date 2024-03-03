@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-193 songs - 20 hr 28 min
+194 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Crazy She Calls Me](https://open.spotify.com/track/6Iy5h7PVP0a5tKbNPBosq6) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool + Tranquillity](https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ) | 7:26 | 2022-05-13 | 2022-07-29 |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-05-13 |  |
 | [Den Tex \- 2005 Remastered](https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Tex Book Tenor \(Remastered\)](https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl) | 7:38 | 2022-05-13 |  |
-| [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:53 | 2022-09-01 |  |
+| [Don't Blame Me \- Remastered 2023](https://open.spotify.com/track/47qMNoveAg2Ek9LtURD3mt) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 4:57 | 2024-02-21 |  |
+| [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:53 | 2022-09-01 | 2024-03-03 |
 | [Don't Cry, Just Sigh](https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Third Season](https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu) | 6:54 | 2022-05-13 |  |
 | [Don't Get Around Much Any More](https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:05 | 2022-05-13 |  |
 | [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 | 2022-05-13 |  |

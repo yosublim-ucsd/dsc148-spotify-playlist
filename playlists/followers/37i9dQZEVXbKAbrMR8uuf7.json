@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 152986,
+  "2024-03-03": 153007,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -6227,7 +6227,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -7109,6 +7109,24 @@
       "duration_ms": 234786,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl"
+    },
+    {
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
     },
     {
       "album": {
@@ -8535,7 +8553,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
@@ -20069,7 +20087,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 118205,
       "name": "Rekokeo",
       "url": "https://open.spotify.com/track/7DSmP15YwBTaefjOS3JSDL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 102 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 102 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 47 | [Kidz Zone](https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:29 |
 | 48 | [Hold The Line](https://open.spotify.com/track/6Qmq1HhBs2abHTajKzAQGC) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:33 |
 | 49 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
-| 50 | [What's It Like Now](https://open.spotify.com/track/6Bol46HfUJvvznWH5fviBh) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:30 |
-| 51 | [The Other POV](https://open.spotify.com/track/6AVhXOdYBKNcdRyjAFSYCL) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 2:59 |
+| 50 | [The Other POV](https://open.spotify.com/track/6AVhXOdYBKNcdRyjAFSYCL) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 2:59 |
+| 51 | [What's It Like Now](https://open.spotify.com/track/6Bol46HfUJvvznWH5fviBh) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:30 |
 | 52 | [sicker](https://open.spotify.com/track/0HeMyHfORSIy1GKmuqH1rt) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:13 |
 | 53 | [My Star](https://open.spotify.com/track/0B1Anle9jDveF16WMEAKpA) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:43 |
 | 54 | [Pretty](https://open.spotify.com/track/4xkD4QOho9fKvCiIH5dUyu) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 2:55 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 73 | [sponge](https://open.spotify.com/track/2Z3JlrOjcC6XITyxFEgbHT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [hues](https://open.spotify.com/album/6f5Z2SBhrecKukyZDLX1vU) | 3:36 |
 | 74 | [Tell Me Again](https://open.spotify.com/track/4sH7jSUl7CbvcLxYkT9W3L) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Happy Accidents \(Deluxe Edition\)](https://open.spotify.com/album/1WF9Uo8Qm6zjY6WPS6hyqD) | 4:15 |
 | 75 | [Keep Them Close 'Cause They Will Fuck You Too](https://open.spotify.com/track/2QZml0QtO2dkbhkoaBTUqW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:14 |
-| 76 | [Brighter Days](https://open.spotify.com/track/2DfB76u7ww77XsBLD2IFFa) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:17 |
-| 77 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 |
-| 78 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 |
+| 76 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 |
+| 77 | [Brighter Days](https://open.spotify.com/track/2DfB76u7ww77XsBLD2IFFa) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:17 |
+| 78 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 |
 | 79 | [Burnt Letters](https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:54 |
 | 80 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 |
 | 81 | [Drink the World Dry](https://open.spotify.com/track/36FjsJeZkpMnzZ92JoQeFw) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 101 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 102 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `Mjg0ODkxMDAsMDAwMDAwMDA3MmIxZjFiMzllOWNiYzBkMDA1Njg1NDk1YTY5NmY4NA==`
+Snapshot ID: `Mjg0OTA1NDAsMDAwMDAwMDBhNmJiNzM0MTM0ZjZlY2I5MzdjMThiNTE2MWI0YzJjZg==`

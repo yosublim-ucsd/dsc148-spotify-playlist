@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Kid Yugi, gli artisti di Nuova Scena e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,598 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,638 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 39 | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO) | 2:54 |
 | 40 | [Sans Visage](https://open.spotify.com/track/3AutO6oAWbVktf4T8qszwT) | [Mowgli CLL](https://open.spotify.com/artist/2E2aiCcadoU9mwyBnEhkPG) | [Sans Visage](https://open.spotify.com/album/2pDkcTBThmsdWsws7tQsVS) | 3:31 |
 | 41 | [GGG FREESTYLE](https://open.spotify.com/track/4L13abrGpbIFmmKFIYhr6Y) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [GGG FREESTYLE](https://open.spotify.com/album/4xP5JSWmlb5IXhPknnel3d) | 1:30 |
-| 42 | [Impulsivo](https://open.spotify.com/track/06d57k4CoWh2cxlL4UNJXF) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR) | [Impulsivo](https://open.spotify.com/album/78WAwrk0vLP9M0an6CG0kf) | 2:08 |
+| 42 | [Impulsivo](https://open.spotify.com/track/06d57k4CoWh2cxlL4UNJXF) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [Impulsivo](https://open.spotify.com/album/78WAwrk0vLP9M0an6CG0kf) | 2:08 |
 | 43 | [NON MI RICONOSCO ≠ \(con centomilacarie & Salmo\)](https://open.spotify.com/track/1RXPbmcMA0cijWf1trj8HJ) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [NON MI RICONOSCO ≠ \(con centomilacarie & Salmo\)](https://open.spotify.com/album/5PutBua8NzMGpeATIMIohf) | 3:36 |
 | 44 | [Dimenticare](https://open.spotify.com/track/4m7JWBHn5uvbAzsJiPOK6f) | [weeded](https://open.spotify.com/artist/3gSRGBJNthvXXPmjsoVwd2) | [Dimenticare](https://open.spotify.com/album/7HN6sGMmCQM3Qz9K2r4Jqg) | 3:02 |
 | 45 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 57 | [SUPERLOVE](https://open.spotify.com/track/2aqh4OfpCqTovhIERXKejR) | [erresolo](https://open.spotify.com/artist/0lw8IVoA8vYLLzjVxpsa5w) | [SUPERLOVE](https://open.spotify.com/album/5Ve0rqlGD58bDbxd9JVIMf) | 2:34 |
 | 58 | [TR\*P](https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [TR\*P](https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b) | 2:32 |
 | 59 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
-| 60 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 |
+| 60 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:11 |
 | 61 | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V) | 3:23 |
 | 62 | [Bimba](https://open.spotify.com/track/1bWzv2TNJrRLE2L6w8qX2M) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bimba](https://open.spotify.com/album/4I52eMbRnqpUZPaBtkqgbR) | 2:39 |
 | 63 | [NEVE SULLE JORDAN \(feat\. Capo Plaza\)](https://open.spotify.com/track/3825sviXclbrTvBpjmjXiR) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Bénéfice](https://open.spotify.com/track/1MwD72DkrjNsRWcMPDSRwg) | [Le garçon](https://open.spotify.com/artist/7bfaB3zJ12yoMnFMewFrnR) | [Bénéfice](https://open.spotify.com/album/3zpuy1kFu56xmdDZRPaYdj) | 3:08 |
 | 100 | [Nati per uccidere](https://open.spotify.com/track/3DVBsNXg9WNjzTqHW2Bun2) | [MatRayden](https://open.spotify.com/artist/2vUGFWcPtQSYHNZP0qe9II) | [Nati per uccidere](https://open.spotify.com/album/4TA9WcydNbzCJzL7ibeiNH) | 2:59 |
 
-Snapshot ID: `MCxjMGE0NmU3ZDg1YzcwMWFkZTRiMTFjYWJkMzljNDA1ODVhNTYwZTdj`
+Snapshot ID: `MCw4ZGEwNzIxMjFkYWM4YmQ0MjAxZTRmMDNiNjA3OWM2ZmQ3OWE2Yjdj`

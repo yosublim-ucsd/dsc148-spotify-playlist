@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-217 songs - 11 hr 23 min
+218 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-02-17 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-01-21 | 2023-04-30 |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-14 |  |
+| [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-03-02 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-05-07 | 2022-10-09 |
 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 | 2023-07-08 |  |
 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 | 2022-01-15 | 2022-04-03 |
@@ -160,7 +161,7 @@
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-08-26 |  |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2022-01-15 | 2022-02-27 |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-01-13 |  |
-| [Oxígeno](https://open.spotify.com/track/5qy5t5uUULXGFxF0B4hIL0) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Oxígeno](https://open.spotify.com/album/7zeftieaEtJ6pvaUIpsfYw) | 2:34 | 2023-09-30 |  |
+| [Oxígeno](https://open.spotify.com/track/5qy5t5uUULXGFxF0B4hIL0) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Oxígeno](https://open.spotify.com/album/7zeftieaEtJ6pvaUIpsfYw) | 2:34 | 2023-09-30 | 2024-03-03 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-07-23 | 2023-02-12 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-04 | 2022-12-11 |
 | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 | 2022-11-19 | 2023-04-09 |

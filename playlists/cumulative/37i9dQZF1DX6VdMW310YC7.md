@@ -2,9 +2,9 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,573 songs - 4 day 12 hr 15 min
+1,574 songs - 4 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,8 @@
 | [Home](https://open.spotify.com/track/5xgVwIFfrm3yhLByAKzeYs) | [Mount Dreams](https://open.spotify.com/artist/6Ah6MMotJQevJaj47PDXMV), [Anatomy](https://open.spotify.com/artist/2NtkNBkanVI3q27YRGkASV) | [Home](https://open.spotify.com/album/2wA5firv9r9Vtl96nSMaCS) | 4:35 | 2020-05-18 | 2020-07-03 |
 | [Home \(feat\. AURORA\) \- Lane 8 Remix](https://open.spotify.com/track/6JHVg6uzRGJhHeyiosmWG1) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Home \(feat\. AURORA\) \[Remixes\]](https://open.spotify.com/album/21tfhTQxHNHZ5qPWtlzrJ3) | 7:47 | 2020-02-29\* | 2020-03-16 |
 | [Honeydew](https://open.spotify.com/track/6sBhU1fiwW3LeGd9RiuCMz) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [Honeydew](https://open.spotify.com/album/33dncp2Cj4fINJ38Wn2wBD) | 3:40 | 2021-08-27 | 2022-11-29 |
-| [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 | 2023-06-16 |  |
+| [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 | 2023-06-16 | 2024-03-03 |
+| [Hope](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA) | 3:41 | 2024-03-01 |  |
 | [Hope](https://open.spotify.com/track/3x2ewmvnhRaEPCYKUEY4EB) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Hope](https://open.spotify.com/album/19E368SaCPCcJazFZnhfH7) | 3:56 | 2022-04-29 | 2022-12-29 |
 | [Hope \- Parra For Cuva Remix](https://open.spotify.com/track/3TTsR15N3XY4G6z7F4eMwF) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [One Hundred Billion Sparks Remixed](https://open.spotify.com/album/4OIZvVt94hWeqwaSuIz7Uh) | 5:53 | 2020-03-16 | 2022-10-13 |
 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 | 2021-10-08 | 2022-07-28 |

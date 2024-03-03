@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnwM5ZuDrb9.md) - [plain]
 
 > Baseball star Ronald Acuña Jr\. takes over Fuego! Featuring Mora, Saiko, Jhayco & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnwM5ZuDrb9.md) - [plain]
 | 2 | [Paleta Pa To El Mundo](https://open.spotify.com/track/00WeA6cTYkmAbBuTmhCHYq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Paleta Pa To El Mundo](https://open.spotify.com/album/1wte6ngGeMWifMI2N0xljV) | 4:02 |
 | 3 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
 | 4 | [PASIEMPRE](https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 5:55 |
-| 5 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 |
+| 5 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 |
 | 6 | [Fiesta & Calle](https://open.spotify.com/track/45DnECkVdEzEFQIeGU7IOY) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Fiesta & Calle](https://open.spotify.com/album/15ymqQp2as2aGnkSby6nNX) | 2:33 |
 | 7 | [Mejor Que Yo](https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Mejor Que Yo](https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc) | 4:02 |
 | 8 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnwM5ZuDrb9.md) - [plain]
 | 24 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
 | 25 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 |
 
-Snapshot ID: `MCw3YzFkYzUwNWVmMTg5YTkzN2JiMjBmZGUyY2ZkZDkyOGJkOTVhNTc0`
+Snapshot ID: `MCwxNThjZWZiMzM5NzhjYTBiMWRiOTRkNjg4ZTY4YjI3YjcwNzQ3YzQ1`

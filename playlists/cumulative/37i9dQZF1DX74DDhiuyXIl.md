@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-390 songs - 1 day 4 hr 7 min
+391 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [AI](https://open.spotify.com/track/6bQ4fk3jjE6F8SLf1QYRTQ) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [AI](https://open.spotify.com/album/1QXqnUwBUiY5KFMjwJC5LT) | 4:40 | 2024-02-19 |  |
 | [As Far As I Can Go By Missing You \- Ending theme song of "Endless Love"](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [As Far As I Can Go By Missing You \(Ending theme song of "Endless Love"\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2022-06-06 | 2022-07-16 |
 | [Beautiful For Whom \- "The Little Nyonya" Opening Theme Song](https://open.spotify.com/track/6c0EmxRJ58IcR4LQZSLLhP) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Beautiful For Whom \("The Little Nyonya" Opening Theme Song\)](https://open.spotify.com/album/4VL0iAv3ur1NZXD7XlIGjt) | 4:38 | 2022-06-20 | 2022-07-20 |
-| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-27 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx) | 4:45 | 2024-02-27 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-27 | 2024-03-03 |
 | [BREAKDOWN](https://open.spotify.com/track/5W6r62U28WQKeAH83sM2y5) | [耿斯漢](https://open.spotify.com/artist/5jkvZWwbf42TNt1kFnGSce) | [BREAKDOWN](https://open.spotify.com/album/4avodBPK5QwdNztAzxko0S) | 3:50 | 2023-09-04 | 2023-09-12 |
 | [diminished](https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [diminished](https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r) | 3:54 | 2023-07-10 | 2023-07-18 |
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |

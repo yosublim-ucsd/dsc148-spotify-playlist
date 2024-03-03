@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,679,677 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,680,578 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 |
 | 80 | [Rock My Body \(with Sash!\) \- W&W x R3HAB VIP Remix](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 |
 
-Snapshot ID: `MCxhNGU1YTc4Y2U5NzUxN2UyZjc2MmFjZTExMTgwMjkxYzQ2NzczYmMy`
+Snapshot ID: `MCwzZmEzZTVkNTMxN2UwZjRmNWQxMTYyMDVmMzYwZjUyOWY3Y2ZhNjU4`

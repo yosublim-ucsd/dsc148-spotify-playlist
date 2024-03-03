@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: IDLES
 
-548 songs - 1 day 6 hr 54 min
+549 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Eyes Closed For The Winter](https://open.spotify.com/track/65qTDCHsyf7MTocHnvkKsd) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Eyes Closed For The Winter](https://open.spotify.com/album/7J6kirqor8zXlg1oRyIwrz) | 3:06 | 2022-01-21 | 2022-07-29 |
 | [Factor 50!](https://open.spotify.com/track/1vEFlprBbhVZTU0SAlPwDW) | [Medicine Cabinet](https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij) | [Factor 50!](https://open.spotify.com/album/7x3JedGA6zLR2K8nmYQy9H) | 2:27 | 2022-10-06 | 2023-01-14 |
 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 | 2023-01-20 | 2023-06-03 |
-| [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 | 2022-09-08 |  |
+| [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 | 2022-09-08 | 2024-03-03 |
 | [Famous](https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Guitar Music](https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI) | 3:19 | 2022-09-22 | 2023-05-19 |
 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 | 2024-01-12 |  |
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-21 | 2023-08-05 |
@@ -446,6 +446,7 @@
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2022-12-22 | 2023-08-16 |
 | [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 | 2023-11-17 |  |
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-10-13 | 2024-01-31 |
+| [Sometimes, I Swear](https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:38 | 2024-02-16 |  |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 | 2022-01-24 | 2022-08-19 |
 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 | 2023-10-27 |

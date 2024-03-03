@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,202 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,199 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 39 | [HOV \- Remix](https://open.spotify.com/track/35kDv86L9VuUoj29YTHmE6) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [HOV \(Remix\)](https://open.spotify.com/album/0Jum44gDjXoH6BHixA5azg) | 2:46 |
 | 40 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 | 41 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
-| 42 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 |
-| 43 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
+| 42 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
+| 43 | [COLD](https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [COLD](https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s) | 2:17 |
 | 44 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 |
 | 45 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
 | 46 | [Starlight](https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ) | [Drenchill](https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH), [Jorik Burema](https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P) | [Starlight](https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU) | 2:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 69 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 |
 | 70 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 
-Snapshot ID: `MCxlZDRjYWNkNTUxY2VkN2IwODJiNDBjYjE0ZDViZTU2Yjg2NWUwM2Mx`
+Snapshot ID: `MCxiMDkwYTcyNDdlNWYwMzYwYzg0NWIzZGEzNmUwNWEyYmYzNzNkMjcw`

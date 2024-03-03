@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,208 likes - 49 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,372 likes - 49 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 48 | [\(O\)rdinary \- Synthwave Edition](https://open.spotify.com/track/598o75t7QhZ3Rfk4zUY8KA) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [\(O\) rdinary \[Synthwave Edition\]](https://open.spotify.com/album/6uJm20KmWYCDi4fTLV8SXD) | 3:47 |
 | 49 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDA0YmUyN2Q5YTUwY2Q5MjI0YmNmN2JjNWVkNWRkNWE1OQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA3YjI3ZTUyOTAxMTM2MjA1YjE5M2U0ZTZiMGNmYTBhNg==`

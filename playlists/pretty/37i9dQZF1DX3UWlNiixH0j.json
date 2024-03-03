@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: ODD Foot Works",
-  "num_followers": 56589,
+  "num_followers": 56610,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNiMzE1YWYyNWQ3NzgwZTBlNDJiNjBmNWZkMDU1MjEwOGZiNTNk",
+  "snapshot_id": "MCxkOTJkMzA4ZTU5OTIyOTI0YWJmMDIzYjIyMmUwM2RiOGM3ZGEzNmRj",
   "tracks": [
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
-        "name": "2000JPY",
-        "url": "https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW"
-      },
-      "artists": [
-        {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "\u30b5\u30eb\u30b9\u30d9\u30ea",
-      "url": "https://open.spotify.com/track/5g1jQSIo2WDLSNxDh9V9ya"
-    },
-    {
-      "added_at": "2024-02-29 16:56:58",
-      "album": {
         "name": "Two Kites",
         "url": "https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 166206,
       "name": "Two Kites",
       "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
+    },
+    {
+      "added_at": "2024-02-29 16:56:58",
+      "album": {
+        "name": "2000JPY",
+        "url": "https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 285760,
+      "name": "\u30b5\u30eb\u30b9\u30d9\u30ea",
+      "url": "https://open.spotify.com/track/5g1jQSIo2WDLSNxDh9V9ya"
     },
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
+    },
+    {
+      "added_at": "2024-02-29 16:56:58",
+      "album": {
         "name": "Stateless feat. YonYon",
         "url": "https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 157623,
       "name": "\u306d\u3080\u308c\u3088\u3001\u306d\u3080\u308c",
       "url": "https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M"
-    },
-    {
-      "added_at": "2024-02-29 16:56:58",
-      "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 265961,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
-        "name": "mad cooking machine",
-        "url": "https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU"
+        "name": "Saba No Ichi",
+        "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
       },
       "artists": [
         {
-          "name": "ego apartment",
-          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
         }
       ],
-      "duration_ms": 185661,
-      "name": "mad cooking machine",
-      "url": "https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK"
+      "duration_ms": 155750,
+      "name": "jya-ji",
+      "url": "https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep"
     },
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1507,34 +1507,18 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
-        "name": "Saba No Ichi",
-        "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
+        "name": "mad cooking machine",
+        "url": "https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU"
       },
       "artists": [
         {
-          "name": "saba sister",
-          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
         }
       ],
-      "duration_ms": 155750,
-      "name": "jya-ji",
-      "url": "https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep"
-    },
-    {
-      "added_at": "2024-02-29 16:56:58",
-      "album": {
-        "name": "\u4e71\u75f4\u6c17",
-        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
-      },
-      "artists": [
-        {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "\u4e71\u75f4\u6c17",
-      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+      "duration_ms": 185661,
+      "name": "mad cooking machine",
+      "url": "https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK"
     },
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
+        "name": "\u4e71\u75f4\u6c17",
+        "url": "https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "\u4e71\u75f4\u6c17",
+      "url": "https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx"
+    },
+    {
+      "added_at": "2024-02-29 16:56:58",
+      "album": {
         "name": "Booorn!!",
         "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
-        "name": "South Penguin",
-        "url": "https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p"
-      },
-      "artists": [
-        {
-          "name": "South Penguin",
-          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "metro",
-      "url": "https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS"
-    },
-    {
-      "added_at": "2024-02-29 16:56:58",
-      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 148727,
       "name": "junkie",
       "url": "https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN"
+    },
+    {
+      "added_at": "2024-02-29 16:56:58",
+      "album": {
+        "name": "South Penguin",
+        "url": "https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p"
+      },
+      "artists": [
+        {
+          "name": "South Penguin",
+          "url": "https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/394JXxh1q4g3pZKOxO5HLS"
     },
     {
       "added_at": "2024-02-29 16:56:58",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-02-29 16:56:58",
       "album": {
-        "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
-        "url": "https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
-      "url": "https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em"
-    },
-    {
-      "added_at": "2024-02-29 16:56:58",
-      "album": {
         "name": "\u3042\u308a\u304c\u3068\u3046",
         "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 309348,
       "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"
+    },
+    {
+      "added_at": "2024-02-29 16:56:58",
+      "album": {
+        "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
+        "url": "https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
+      "url": "https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em"
     },
     {
       "added_at": "2024-02-29 16:56:58",

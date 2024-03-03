@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,966 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,055 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [A Los Ojos](https://open.spotify.com/track/2ncDvyrfmKtzHzX1w7oDvQ) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:06 |
 | 100 | [Mi Fe](https://open.spotify.com/track/39AMY9qtGKPtm0WHaRivId) | [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs) | [BUDDOKAI7](https://open.spotify.com/album/0GLNnBhCeernszc13na0Yn) | 2:53 |
 
-Snapshot ID: `MCxiYzA2N2Q1NDUyMGI4MjgyY2ZjNDhhZmM1YzZhODg2MTA1MWEwM2Y4`
+Snapshot ID: `MCwwZWE3M2RjMjY2ZjhmMTNlMmI3OTVhZDM0N2EwN2QwNzMwMWM2YzBh`

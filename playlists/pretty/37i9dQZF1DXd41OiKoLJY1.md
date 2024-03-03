@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Julia Q Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,190 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,199 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 23 | [Manila Boy](https://open.spotify.com/track/6jLNBKhKNrJDGC2CpUdATR) | [Cozy Wrld](https://open.spotify.com/artist/7j78RtM1knwwcgsZ4bPpFG) | [Manila Boy](https://open.spotify.com/album/70gGXl6B18orTBZEuMxTH0) | 2:29 |
 | 24 | [CONFUZED](https://open.spotify.com/track/3QZn7VoMgsIhGU5woZzNT9) | [JAM](https://open.spotify.com/artist/4XRUk6W4mFkhbyf0f5uDZW), [ARC](https://open.spotify.com/artist/3SxeBbXVF8xRVJZN81dfgx) | [CONFUZED](https://open.spotify.com/album/2VzMFvMEmPlDbdgI0RP6Lf) | 3:41 |
 | 25 | [Cold](https://open.spotify.com/track/2Ms3tMoDQZMWtDjYEZn5xd) | [Locs](https://open.spotify.com/artist/1vFDFV9qHLwrx4LB9FLYNs) | [Cold](https://open.spotify.com/album/56kriiABQtCi2xHVeupaM4) | 4:11 |
-| 26 | [Sa Aking Pagbangon](https://open.spotify.com/track/33PeFVnHOKMtAEu4Q71WCw) | [Kintab Talas](https://open.spotify.com/artist/1CjnnjQ8VKYUVhfD9AAmFS), [Audio Rebel](https://open.spotify.com/artist/1UkBuzG7ZvIbj0iKXqJyb5), [Melthyme](https://open.spotify.com/artist/6H0tWXZgHcWmh6KRxH456r), [Kicker Mori](https://open.spotify.com/artist/2Cz4DUsXWEIgQ1o0H3MMx0) | [Sa Aking Pagbangon](https://open.spotify.com/album/69j7fO65dtkkPe0Os2SwBJ) | 3:35 |
+| 26 | [Sa Aking Pagbangon](https://open.spotify.com/track/33PeFVnHOKMtAEu4Q71WCw) | [Kintab Talas](https://open.spotify.com/artist/1CjnnjQ8VKYUVhfD9AAmFS), [Audio Rebel](https://open.spotify.com/artist/1UkBuzG7ZvIbj0iKXqJyb5), [Melthyme](https://open.spotify.com/artist/6H0tWXZgHcWmh6KRxH456r), [Kicker Mori](https://open.spotify.com/artist/2Cz4DUsXWEIgQ1o0H3MMx0), [Melrhyme](https://open.spotify.com/artist/17MlQh7zBkEskSDTHnMfov) | [Sa Aking Pagbangon](https://open.spotify.com/album/69j7fO65dtkkPe0Os2SwBJ) | 3:35 |
 | 27 | [Invidia](https://open.spotify.com/track/6eBwnqYEWwzop6CSO3FA37) | [Psycho Silver](https://open.spotify.com/artist/224DNZA7tA5jja0VQJrCA2) | [Invidia](https://open.spotify.com/album/7bXyJReeRkndxM0a42oUQo) | 5:01 |
 | 28 | [Blacked Out!](https://open.spotify.com/track/4Hv3dxwmMo6Ticy22hDAW3) | [KONSTANT](https://open.spotify.com/artist/2bkT5O6LfxfaPq829lVdZH) | [Blacked Out!](https://open.spotify.com/album/02tcprC9h8MJU4dhHHs2cU) | 2:47 |
 | 29 | [WANDER](https://open.spotify.com/track/7qm7Js9GIQAnVz3W1FQWk6) | [Her Name Is Noelle](https://open.spotify.com/artist/2Fgg0mgz3aIYvS6wCGzdVT) | [WANDER](https://open.spotify.com/album/7HNwbGBfntNNszsYe51bbx) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Divine](https://open.spotify.com/track/7HC7zNnDFCVMbDdMY5TaHH) | [Iyann](https://open.spotify.com/artist/7yxN1vpq35MDcvRPn1JDhk) | [Divine](https://open.spotify.com/album/1kxVg1bUrvjgrpglff3JWU) | 3:15 |
 | 100 | [unta tinoud](https://open.spotify.com/track/58qYsyGGRLfK4lf1xp5CSb) | [Jade Makawili](https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn), [Casey Vil](https://open.spotify.com/artist/5lIIMhZPaxs9qstHGMH0EL) | [unta tinoud](https://open.spotify.com/album/272ZZuiLOUscSUirhtSfxc) | 2:50 |
 
-Snapshot ID: `MCxiM2I3MDRlMjMwNjJhZGJhNDI2NmUzOGVkNGQwYTM4ZWY5NjNlYWFh`
+Snapshot ID: `MCxkZGUxYTBmNzhmZDJlOTBmYzM1OTdkYjhmNDFkZGQyZmVlZTRjMWVj`

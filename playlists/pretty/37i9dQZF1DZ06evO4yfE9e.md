@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 21 songs - 51 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 21 songs - 51 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 16 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 |
 | 17 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344) | 2:45 |
 | 18 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
-| 19 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
-| 20 | [Press It \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Press It \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm) | 2:01 |
+| 19 | [Press It \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Press It \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm) | 2:01 |
+| 20 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
 | 21 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDAzNWRhNjEyY2UxYjM5MDgyMjBiODAzMTA3ZGYzNmI5ZA==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA1Njc3NzEzODNjYzk2N2U0OWE2ZTQwYTBhZWVhYTlhNw==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 6365,
+  "2024-03-03": 6389,
   "date_first_scraped": "2023-12-31",
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
   "name": "This Is Mc Luanna",
@@ -937,6 +937,28 @@
       "duration_ms": 178758,
       "name": "NOVINHA MANDRAKA",
       "url": "https://open.spotify.com/track/2hB98xPNhpahju25eLttyz"
+    },
+    {
+      "album": {
+        "name": "P# do Caster",
+        "url": "https://open.spotify.com/album/38oFdOTv1WRmtqdcyxGQpZ"
+      },
+      "artists": [
+        {
+          "name": "YgRick",
+          "url": "https://open.spotify.com/artist/1OfI8AO20T9uF6I1eKVyqr"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "P# do Caster",
+      "url": "https://open.spotify.com/track/7jtmSFz55svHq6dBVle1wf"
     },
     {
       "album": {

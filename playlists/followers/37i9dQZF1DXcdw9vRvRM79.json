@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 22679,
+  "2024-03-03": 22793,
   "date_first_scraped": "2023-09-29",
   "description": "Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep. ",
   "name": "Sleepy Rain Music",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "a rainy drive",
+        "url": "https://open.spotify.com/album/1db6UHObCrBOlTR6GgcpxC"
+      },
+      "artists": [
+        {
+          "name": "Mikki Johansson",
+          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "a rainy drive",
+      "url": "https://open.spotify.com/track/1CaxxugXqfTttf5WPyXjZL"
+    },
+    {
+      "album": {
         "name": "Massima Calma",
         "url": "https://open.spotify.com/album/35Ual1h57LWz1JcJBtwJ27"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 134000,
       "name": "Ambient Rain",
       "url": "https://open.spotify.com/track/458TLdY9RwkXQaDTSaiLYi"
@@ -402,6 +420,24 @@
     },
     {
       "album": {
+        "name": "Colline",
+        "url": "https://open.spotify.com/album/5MwKZxkB3QLBsyhDa6eqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elevated States",
+          "url": "https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Colline",
+      "url": "https://open.spotify.com/track/40GXN1slZTEaXCoacjuocx"
+    },
+    {
+      "album": {
         "name": "Continuous Movement",
         "url": "https://open.spotify.com/album/0cCmSDmOwDKT6Kp6RB4ltI"
       },
@@ -726,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/2p0hZLmHX3NJaGsUc3j59y"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Forest Fantasy (in a Rainy Forest)",
+      "url": "https://open.spotify.com/track/3xwNCWTgJQ5mEPgG73F4NU"
+    },
+    {
+      "album": {
         "name": "Fragile Rain",
         "url": "https://open.spotify.com/album/37GukOLRMw57Pi7ROjMGUR"
       },
@@ -1032,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Nature's Dream",
+        "url": "https://open.spotify.com/album/1MvkxYOgCJwvxv4l5u5uvJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Nature's Dream",
+      "url": "https://open.spotify.com/track/3hHlAxssSJ6naUBniRTzsx"
+    },
+    {
+      "album": {
         "name": "Oliono Forest Sound Bath",
         "url": "https://open.spotify.com/album/15XhmBVsNJGEEuqHA39yuf"
       },
@@ -1047,6 +1119,24 @@
       "duration_ms": 160090,
       "name": "Oliono Forest Sound Bath",
       "url": "https://open.spotify.com/track/3m7xaoSVwB16C5OU8Jy780"
+    },
+    {
+      "album": {
+        "name": "On Quietude",
+        "url": "https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "On Quietude",
+      "url": "https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi"
     },
     {
       "album": {
@@ -1639,6 +1729,24 @@
       "duration_ms": 212000,
       "name": "Tlaloc",
       "url": "https://open.spotify.com/track/47Jl4uiYh1YsI6p22spyJx"
+    },
+    {
+      "album": {
+        "name": "The Stars Above",
+        "url": "https://open.spotify.com/album/7i0B94HHrcWWNjz46LsqQl"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Unfettered Imagination (in the Rain)",
+      "url": "https://open.spotify.com/track/7BAIkOT7Qtef7SgwncSWCQ"
     },
     {
       "album": {

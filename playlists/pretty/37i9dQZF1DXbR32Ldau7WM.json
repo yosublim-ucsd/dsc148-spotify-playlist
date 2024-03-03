@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: Fujifabric(\u30d5\u30b8\u30d5\u30a1\u30d6\u30ea\u30c3\u30af)",
-  "num_followers": 279804,
+  "num_followers": 279866,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTI0NzUxZDg3NTQwZjM2NDgwMTVkMmU2MjUwNTgyM2QyM2FjMjNj",
+  "snapshot_id": "MCwzZTQ2NDZiYWFhNjQxNGJlY2QwZmQwYzI3Y2M0YTdhMDAwZmUxZjI1",
   "tracks": [
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "\u3055\u3059\u3089\u3044",
-        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
-      },
-      "artists": [
-        {
-          "name": "Tamio Okuda",
-          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "\u3055\u3059\u3089\u3044",
-      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "\u8f1d\u3051\u308b\u3082\u306e",
         "url": "https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 260680,
       "name": "\u8f1d\u3051\u308b\u3082\u306e",
       "url": "https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "\u3055\u3059\u3089\u3044",
+        "url": "https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "\u3055\u3059\u3089\u3044",
+      "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "GEAR BLUES",
-        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
+        "name": "COLD DISC",
+        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
       },
       "artists": [
         {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
         }
       ],
-      "duration_ms": 207773,
-      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
+      "duration_ms": 182880,
+      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "COLD DISC",
-        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
+        "name": "GEAR BLUES",
+        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
       },
       "artists": [
         {
-          "name": "Straightener",
-          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
         }
       ],
-      "duration_ms": 182880,
-      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
-      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
+      "duration_ms": 207773,
+      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Chicken Zombies",
-        "url": "https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
-      "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "\u9762\u5f71",
         "url": "https://open.spotify.com/album/0MpOLoFHkRqxTtPyjfCtmn"
       },
@@ -1571,22 +1555,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "miss you",
-        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 272709,
-      "name": "I MISS YOU",
-      "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "kaleido proud fiesta",
         "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
       },
@@ -1599,6 +1567,22 @@
       "duration_ms": 222666,
       "name": "kaleido proud fiesta",
       "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 272709,
+      "name": "I MISS YOU",
+      "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 176173,
       "name": "\u9244\u98a8 \u92ed\u304f\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/1wVMKOP4Gv0hqUE3HgP2ZG"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "Fantasista",
+        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Fantasista",
+      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
     }
   ],
   "unique_name": "Big in Japan",

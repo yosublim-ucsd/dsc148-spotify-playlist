@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,043 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,073 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [FaceTime](https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:31 |
 | 50 | [Northside](https://open.spotify.com/track/03t5G8yq7OkU7zK2gFy0OA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Northside](https://open.spotify.com/album/14DUsgTIeAW8GhMsZVeQsN) | 3:00 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDBjM2I1Y2Y4Y2JlODczMjE2MDZmZmI0ZTY4YTFjYmJkYg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBkN2JhMGUxNmJkM2Y4ZmMwZTllOGEzMzQ5YTQ1NTk0MQ==`

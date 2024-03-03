@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,921 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,032 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 46 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 | 47 | [Pray For Me](https://open.spotify.com/track/6CinFilifLHPP711UIiMfH) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Pray For Me](https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ) | 3:44 |
 | 48 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
-| 49 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 |
-| 50 | [Wind Me Up](https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Wind Me Up](https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj) | 4:10 |
+| 49 | [Wind Me Up](https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Wind Me Up](https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj) | 4:10 |
+| 50 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 |
 | 51 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 | 52 | [Pull My Heart Away](https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn) | [Samuel Sweat](https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Pull My Heart Away](https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv) | 2:30 |
 | 53 | [Blessed](https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Blessed](https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz) | 2:43 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [Give Myself Away](https://open.spotify.com/track/23XaBkQt12DgsSZk7elnUL) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Give Myself Away](https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6) | 3:24 |
 | 80 | [Bad To The Bone](https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Bad To The Bone](https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH) | 2:41 |
 | 81 | [SO MUCH](https://open.spotify.com/track/1dtlsS6d2HWcc6dn2CmRIR) | [MARV](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [SO MUCH](https://open.spotify.com/album/1LHx6JeLDqE2reKEZFNUbY) | 3:06 |
-| 82 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
-| 83 | [Lover of My Soul](https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio) | [Kateri B](https://open.spotify.com/artist/3qeeafMyxZOUjdz19FHjua), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Lover of My Soul](https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd) | 3:22 |
-| 84 | [Only Jesus](https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Only Jesus](https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ) | 2:46 |
+| 82 | [Only Jesus](https://open.spotify.com/track/3ezoX2cVZKnRy1frok8PQC) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Only Jesus](https://open.spotify.com/album/4upyzpqbWE0SvJvn8ZimeQ) | 2:46 |
+| 83 | [Be My Everything \- Reimagined](https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Be My Everything \(Reimagined\)](https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB) | 3:53 |
+| 84 | [Lover of My Soul](https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio) | [Kateri B](https://open.spotify.com/artist/3qeeafMyxZOUjdz19FHjua), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Lover of My Soul](https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd) | 3:22 |
 | 85 | [Ride](https://open.spotify.com/track/7fn9wyVJvDOVkOI1UpU20x) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Ride](https://open.spotify.com/album/4YXNOs51XA1tTdcMoJg7kk) | 2:41 |
 | 86 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 |
 | 87 | [Unconditional](https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Surrender The Will](https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ) | 2:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 97 | [Joy](https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u) | [William Demps](https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Joy](https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI) | 4:02 |
 | 98 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
 | 99 | [JUST BE US](https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [JUST BE US](https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7) | 2:22 |
-| 100 | [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 |
+| 100 | [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 |
 
-Snapshot ID: `MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl`
+Snapshot ID: `MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy`

@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 366705,
+  "2024-03-03": 366730,
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now \u2013 featuring <a href=\"spotify:artist:3SozjO3Lat463tQICI9LcE\">Tyla</a>.",
+  "description": "What's happening in R&B, right now \u2013 featuring <a href=\"spotify:artist:7tYKF4w9nC0nq9CsPZTHyP\">SZA</a>.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -263,10 +263,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "act iii: on god? (she like)",
+        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "act iii: on god? (she like)",
+      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
       "album": {
@@ -3080,6 +3098,28 @@
     },
     {
       "album": {
+        "name": "The Rebirth 3: The Party & The Bedroom",
+        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167856,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
+    },
+    {
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -4105,6 +4145,24 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE"
+    },
+    {
+      "album": {
+        "name": "FYS",
+        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209202,
+      "name": "FYS",
+      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
     },
     {
       "album": {
@@ -6329,7 +6387,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162253,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/3FYDQxyn9OHNAE6CG0iaN2"
@@ -7109,6 +7167,28 @@
       "duration_ms": 186000,
       "name": "Love In Atlanta",
       "url": "https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc"
+    },
+    {
+      "album": {
+        "name": "Love In Me",
+        "url": "https://open.spotify.com/album/5ZVTS7eOqgLP5CX9GpGclp"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Love In Me",
+      "url": "https://open.spotify.com/track/6uT0CYISZil3WQorOCZrfl"
     },
     {
       "album": {
@@ -9977,7 +10057,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 141375,
       "name": "Pusha Baby",
       "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
@@ -11577,7 +11657,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176197,
       "name": "Sun/Son",
       "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
@@ -12623,7 +12703,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 214712,
       "name": "Touchin' (feat. Kaliii)",
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
@@ -12645,6 +12725,28 @@
       "duration_ms": 193797,
       "name": "Touchin\u2019",
       "url": "https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz"
+    },
+    {
+      "album": {
+        "name": "Touchin\u2019 (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224675,
+      "name": "Touchin\u2019 (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
     },
     {
       "album": {

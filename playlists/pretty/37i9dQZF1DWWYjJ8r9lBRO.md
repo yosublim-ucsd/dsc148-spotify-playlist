@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYjJ8r9lBRO.md) - [plain]
 
 > Featuring Sky Rompiendo, Dei V, Arcángel & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYjJ8r9lBRO.md) - [plain]
 | 16 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
 | 17 | [Exclusive.mp3](https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:00 |
 | 18 | [NO PIENSO LLAMAR](https://open.spotify.com/track/3tPPP39TSamzLPOJomKALp) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [STORM](https://open.spotify.com/album/2VUckgtfYcasl2SoiuT77x) | 3:18 |
-| 19 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 |
+| 19 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 |
 | 20 | [Diabólica](https://open.spotify.com/track/2dcFfC6dq4E7jlaSzM6agR) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Diabólica](https://open.spotify.com/album/11n9y9PuTbIs8HgDgIUxQQ) | 3:12 |
 | 21 | [PÓLVORA](https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:05 |
 | 22 | [EASY BOY](https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EASY BOY](https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd) | 2:56 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYjJ8r9lBRO.md) - [plain]
 | 24 | [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 |
 | 25 | [AÚN TE PIENSO](https://open.spotify.com/track/2IENEaqLqm4fma7TRkC0Yf) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [AÚN TE PIENSO](https://open.spotify.com/album/6LB6gb6StyYE4o3tYcpfWW) | 1:47 |
 
-Snapshot ID: `MCxmYjlkNDY1ZWI5NDZiMTllNGYzMWJjYzkyMWUyMWFmOWUwOGRlYjg3`
+Snapshot ID: `MCwzNjZiNGYyZTJhZjYwOTMyMzJhMzcxMzkwNjFkZjkwMmZlZDNiNWZk`

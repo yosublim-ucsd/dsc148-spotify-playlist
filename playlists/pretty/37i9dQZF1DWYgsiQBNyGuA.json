@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 77088,
+  "num_followers": 77128,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDAxYjU0ZGQwMDU4NDk2YzAzMmY5MmZkZGRiNzY3ZDFiMjViOGMw",
+  "snapshot_id": "MCxiYmRlZTA4OThlZTBjZDUzYTVlNDFmZDEyYzFkZTI0Zjg0ZmJhODU3",
   "tracks": [
     {
       "added_at": "2024-02-09 10:33:06",
@@ -671,26 +671,22 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+        "name": "Durand Jones & The Indications",
+        "url": "https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
         },
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -711,22 +707,26 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "Durand Jones & The Indications",
-        "url": "https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
         },
         {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
         }
       ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
+      "duration_ms": 208418,
+      "name": "Things We Do for Love",
+      "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
     },
     {
       "added_at": "2024-02-09 10:33:06",

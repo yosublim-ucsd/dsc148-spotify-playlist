@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 29144,
+  "num_followers": 29164,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWQ2NTIyMTgwZDUyMWI1NzMzYTY2ZWY2NDRhMmZiOTNhMzA2ODc1",
+  "snapshot_id": "MCwxODhhNmVmZTc1NThmMGM5MWViZDM2NzlhMTc2YWU4ZjZhOTIyZmM5",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Freestyle 3",
-        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
-      },
-      "artists": [
-        {
-          "name": "freestyle",
-          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "Y (Please Tell Me Why)",
-      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 278760,
       "name": "P.D.A. (We Just Don't Care)",
       "url": "https://open.spotify.com/track/0ZBtXonwjdAbRo2UrD0Efq"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Freestyle 3",
+        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
+      },
+      "artists": [
+        {
+          "name": "freestyle",
+          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "Y (Please Tell Me Why)",
+      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "So Sniper",
-        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
-      },
-      "artists": [
-        {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
-        }
-      ],
-      "duration_ms": 263485,
-      "name": "Bk Love",
-      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
-        }
-      ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Like A Movie",
         "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "So Sniper",
+        "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
+      },
+      "artists": [
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "duration_ms": 263485,
+      "name": "Bk Love",
+      "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 243546,
       "name": "\uc911\ub3c5",
       "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Nice Dream",
-        "url": "https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt"
-      },
-      "artists": [
-        {
-          "name": "Loveholic",
-          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Nice Dream",
+        "url": "https://open.spotify.com/album/7bRslUfVWo1T6yyv083Sbt"
+      },
+      "artists": [
+        {
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/01OciRQnDUy03DisAEE1dS"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
-      },
-      "artists": [
-        {
-          "name": "Kim Yun A",
-          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
-        }
-      ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "An Ordinary Day",
         "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 212546,
       "name": "An Ordinary",
       "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+      },
+      "artists": [
+        {
+          "name": "Kim Yun A",
+          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
+        }
+      ],
+      "duration_ms": 273773,
+      "name": "Spring day goes",
+      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
     },
     {
       "added_at": "2022-06-13 13:22:46",

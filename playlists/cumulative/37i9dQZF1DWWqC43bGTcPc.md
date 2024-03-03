@@ -4,13 +4,14 @@
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 韋禮安 \(WeiBird\)
 
-89 songs - 5 hr 29 min
+90 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 | 2024-01-15 |  |
 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2024-01-15 |  |
-| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-26 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx) | 4:45 | 2024-02-26 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-26 | 2024-03-03 |
 | [BRB..](https://open.spotify.com/track/63TJ9ddXXJPeS6nztvtJOZ) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [BRB..](https://open.spotify.com/album/7mipSeDbC11eM2TL0qkOep) | 2:23 | 2024-02-26 |  |
 | [I Hate Myself Sometimes](https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/3hUr7wEoUWVlFeEV843iGT) | 2:54 | 2024-01-15 |  |
 | [I Hate Myself Sometimes \- Acoustic](https://open.spotify.com/track/5ak1ITfDTU73Lz4NCDQUvn) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes \(Acoustic\)](https://open.spotify.com/album/46y9GASK4oQjflLhbqR4tF) | 3:01 | 2024-02-05 | 2024-02-13 |

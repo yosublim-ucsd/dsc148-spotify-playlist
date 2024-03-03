@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,153 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,198 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 45 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
 | 46 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 |
 | 47 | [Roll With The Punches](https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 3:46 |
-| 48 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 |
-| 49 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 48 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 49 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 |
 | 50 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 | 51 | [Somebody Else](https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa) | 5:31 |
 | 52 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
 | 53 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
 | 54 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 |
-| 55 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 |
-| 56 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
+| 55 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
+| 56 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 |
 | 57 | [French Movie](https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip) | 3:19 |
 | 58 | [De ma Tour](https://open.spotify.com/track/5mXgCx5JKyqsIapstWQ94b) | [Reymour](https://open.spotify.com/artist/6mlzYzLXQ7gQrMg3DydrAi) | [Leviosa](https://open.spotify.com/album/4dZlnblHaQxVDbUKkdVuL3) | 3:16 |
 | 59 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Seems Like Forever](https://open.spotify.com/track/0cjkj0qO9lIFy9VY8FZE47) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/0lXckcOqOJaSVpMXdhHcGU) | 5:18 |
 | 80 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 
-Snapshot ID: `MCxiNTRlOGQxOGI1NWIyZmZiMTA5OTA5M2I3ZmZkOTAyOWFiOTFjZGQx`
+Snapshot ID: `MCxmYzg5YjYzNDUyMjYwOWIxZmM1ZTg1MGY3NTBlMWI3NTI1NWYxOGRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,104 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,105 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 69 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
 | 70 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
 
-Snapshot ID: `MCwwNjkwZDNlNzM3Yzc0N2U2YjQzYzNkNTYxMGY1MjlkOTA4NjBiNGJi`
+Snapshot ID: `MCxjOWVlNTMxZGY5NWU4MzI2ZTg3OTM5NWU3NTRhNTZmYjZjOGZlOTBk`

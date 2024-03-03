@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,378 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,416 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 63 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 |
 | 64 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 65 | [Bionic Boy](https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16) | 3:26 |
-| 66 | [Shake It](https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Shake It](https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h) | 3:09 |
-| 67 | [Noreaga](https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Noreaga](https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1) | 8:07 |
+| 66 | [Noreaga](https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Noreaga](https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1) | 8:07 |
+| 67 | [Shake It](https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Shake It](https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h) | 3:09 |
 | 68 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 69 | [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 |
 | 70 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [Fuego](https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h) | 3:10 |
 | 75 | [Alley Rave](https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq) | 6:04 |
 | 76 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 |
-| 77 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
-| 78 | [Slim Shady](https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Sublime Tech House, Vol\. 20](https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk) | 2:56 |
+| 77 | [Slim Shady](https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Sublime Tech House, Vol\. 20](https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk) | 2:56 |
+| 78 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
 | 79 | [Rudeboi](https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq) | 3:01 |
 | 80 | [Disco Trip](https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Disco Trip EP](https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY) | 3:35 |
 | 81 | [Hip Trumpets](https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [KVISION](https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR) | [Hip Trumpets](https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4) | 3:15 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 89 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
 | 90 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
 | 91 | [World Is Empty](https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [World Is Empty](https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl) | 3:16 |
-| 92 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
-| 93 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
-| 94 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
-| 95 | [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 |
-| 96 | [0121 Do One](https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Do One EP](https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl) | 3:09 |
+| 92 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 |
+| 93 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 94 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
+| 95 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
+| 96 | [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 |
 | 97 | [We Bring It](https://open.spotify.com/track/5klBsW9tLISCWfwJ82jI1l) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [We Bring It](https://open.spotify.com/album/16kmKC1uHic7yNNY9lQlPd) | 6:08 |
-| 98 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 |
+| 98 | [0121 Do One](https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Do One EP](https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl) | 3:09 |
 | 99 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 |
-| 100 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 |
+| 100 | [Touch Me](https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Touch Me](https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR) | 2:44 |
 
-Snapshot ID: `MCxjNzEzYWRjYzU4MDZkNmM0MTI1NWU4ODQwM2EzZjVjZjhmNGQ4NWE3`
+Snapshot ID: `MCxjZmViN2VjOTUxNWI0YjA0NjQ4NWFiZjE5ZDJmNmVmNTZhZDM4OThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,166 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,196 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 27 | [Baaygo Baaygo \- From "Ringa Ringa"](https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 4:32 |
 | 28 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 29 | [Dhuvun Taak](https://open.spotify.com/track/2usex5owBBkwP9AyEqv8Ve) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli](https://open.spotify.com/album/1ryMRndatZ15JqIleq2j3G) | 3:34 |
-| 30 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/1pxLwFEoHC0VuxhPpWk8Fq) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/1W5Dt62j8LRMaLKyTub3YB) | 3:04 |
+| 30 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 |
 | 31 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
 | 32 | [Angaat Aalaya \(From "Zombivli"\)](https://open.spotify.com/track/3MJXmwTHOh3F1xgvnV7kCl) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \(From "Zombivli"\) \- Single](https://open.spotify.com/album/5x16mBjk8q3rJZmgV2aUS8) | 3:46 |
 | 33 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 40 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 
-Snapshot ID: `MCw3MmQ4YjQwZWQ2YzFjN2ZhMjcxYTI0NTlhNTAyYjNhOGNhYmI3Zjdh`
+Snapshot ID: `MCw2NzcwOGY4OWVjN2U0MTUyOTE4ZWY4MzgwNzYwNDc3ZjE0ZGVhMTM4`

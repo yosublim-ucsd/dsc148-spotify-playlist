@@ -4,7 +4,7 @@
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-227 songs - 12 hr 44 min
+228 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Coplas de dos tipos de cuidado](https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Vol II.](https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN) | 3:57 | 2021-11-12 |  |
 | [Coplas de Dos Tipos de Cuidado](https://open.spotify.com/track/09OGdvIoBs0F3Ie4hxgc04) | [Jorge Negrete a Duo con Perdo Infante](https://open.spotify.com/artist/596GjlZ8yIZMVEUwpKaM0U) | [Pedro Infante \- Concierto Homenaje](https://open.spotify.com/album/7BMUDy1sFnQRu7KPZYBFoV) | 3:57 | 2021-11-12 | 2022-07-29 |
 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 | 2021-11-12 |  |
+| [Cuando Dos Almas](https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8) | 3:06 | 2023-11-28 |  |
 | [Cuando Dos Almas](https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1) | 3:06 | 2021-11-12 | 2023-12-19 |
 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:42 | 2021-11-12 |  |
 | [Cuatro Cirios](https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 2:46 | 2021-11-12 | 2022-09-13 |
@@ -161,7 +162,7 @@
 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 | 2021-11-12 |  |
 | [Nube Viajera](https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:04 | 2021-11-12 |  |
 | [Paloma Negra](https://open.spotify.com/track/2IYw9z0H2nfJM3nY6pyW0S) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Canciones Pa' Todo El Año](https://open.spotify.com/album/0TCSjd7TLYoJl7z3zDDael) | 4:31 | 2021-11-12 | 2022-07-28 |
-| [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 | 2022-09-12 |  |
+| [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 | 2022-09-12 | 2024-03-03 |
 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 | 2021-11-12 |  |
 | [Paloma Negra](https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:29 | 2023-11-28 |  |
 | [Paloma Negra](https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:29 | 2021-11-12 | 2023-12-21 |

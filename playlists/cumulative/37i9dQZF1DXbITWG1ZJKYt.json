@@ -6097,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Eastern Sounds (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303872,
+      "name": "The Plum Blossom - Remastered 2023",
+      "url": "https://open.spotify.com/track/28KPkyrSqMDrriF7JjZ6Wi"
+    },
+    {
+      "album": {
         "name": "Eastern Sounds",
         "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
       },
@@ -6108,7 +6126,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 295066,
       "name": "The Plum Blossom - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4HL2XUimEYLv0KDxD3Xpqz"

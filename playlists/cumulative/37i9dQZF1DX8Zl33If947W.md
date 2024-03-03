@@ -4,13 +4,13 @@
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-78 songs - 4 hr 1 min
+79 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1,40m](https://open.spotify.com/track/01yt4H9UXzGG61c4sxrNLB) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Im Westen nix Neues](https://open.spotify.com/album/3zxPw0NHbyX5xzQ4jJ1Qf3) | 4:19 | 2024-02-09 |  |
+| [1,40m](https://open.spotify.com/track/01yt4H9UXzGG61c4sxrNLB) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Im Westen nix Neues](https://open.spotify.com/album/3zxPw0NHbyX5xzQ4jJ1Qf3) | 4:19 | 2024-02-09 | 2024-03-03 |
 | [1000 und 1 Nacht \(Zoom!\) \- Remastered 2011](https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ) | [Klaus Lage](https://open.spotify.com/artist/2gMAioN7m2k5XulfNClMRB) | [Schweißperlen](https://open.spotify.com/album/6ON8j7fH7Sxr51rYpMb7cm) | 3:20 | 2023-03-06 |  |
-| [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 | 2023-02-13 | 2024-03-01 |
+| [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 | 2023-02-13 |  |
 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 | 2023-02-13 |  |
 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 | 2024-02-09 |  |
 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 | 2023-02-13 |  |
@@ -19,7 +19,7 @@
 | [Das Spiel](https://open.spotify.com/track/7lHHTWfwo1twOeQGMwr6cp) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8) | [Bohème](https://open.spotify.com/album/6xiAsRGDcZ0cGz3o9CE06i) | 3:01 | 2023-03-06 |  |
 | [dass liebe schön sein kann](https://open.spotify.com/track/1bTNHPvRgDGe2s19htkcPF) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [dass liebe schön sein kann](https://open.spotify.com/album/47HTLFj9B6XTFSwaYyP1X9) | 2:39 | 2024-02-09 |  |
 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 | 2023-02-13 |  |
-| [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 | 2024-02-09 |  |
+| [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 | 2024-02-09 | 2024-03-03 |
 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 | 2024-02-09 |  |
 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 | 2023-02-13 |  |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2023-02-13 |  |
@@ -77,6 +77,7 @@
 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 | 2023-02-13 |  |
 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 | 2023-02-13 |  |
 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 | 2023-02-13 |  |
+| [Weil ich dich liebe \- Remastered](https://open.spotify.com/track/6J4IzVtA7Uk6heQqcKGwy8) | [Westernhagen](https://open.spotify.com/artist/6El2bDJ8PlTKVYyEPWxfAS) | [Halleluja \(Remastered\)](https://open.spotify.com/album/12hxaOkQlSGpmhcj1EwL48) | 4:46 | 2024-02-09 |  |
 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 | 2024-02-09 |  |
 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 | 2024-02-09 |  |
 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 | 2024-02-09 |  |

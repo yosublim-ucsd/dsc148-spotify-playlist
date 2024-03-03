@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,477 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,506 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 23 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
 | 24 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 | 25 | [Malibu Barbie](https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX) | [club2020](https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Dwa Sławy](https://open.spotify.com/artist/1CEONobXawu0XPgPhgTD5a), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM) | [club2020](https://open.spotify.com/album/7C8H2mwiwBRKFpi5KeGKfT) | 3:09 |
-| 26 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
-| 27 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
+| 26 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
+| 27 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
 | 28 | [Epiphany \(I'm Leaving\) \- Jersey Club Remix](https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj), [Loog](https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Epiphany \(I'm Leaving\) \[Jersey Club Remix\]](https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo) | 2:49 |
 | 29 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 |
 | 30 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM) | 3:32 |
 | 75 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 
-Snapshot ID: `MCxlZjJiNGU0MTNjOTNlNzZlNmI5ZmQ2NTRhMjdiODc5MDk1ODYxNzll`
+Snapshot ID: `MCxmNDY1MmM2NjQzMTdlODBkNjk0OWI0MTJkMzU4NmQ0MGU4MDdkODRm`

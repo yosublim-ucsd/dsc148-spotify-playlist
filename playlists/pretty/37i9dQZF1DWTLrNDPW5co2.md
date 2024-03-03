@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,531 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,550 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 64 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 |
 | 65 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
 
-Snapshot ID: `MCwwYTMyNmNkYzhlYjI1MzU4MWMwZjA0YzkyMDQ2MTE4ZjQ0ZDBmYmI2`
+Snapshot ID: `MCxjOTBkMjE1MzA3NzExZDEyZmFkY2Y0ZWJiZjBhYzNjMzcyNmNlM2Q0`

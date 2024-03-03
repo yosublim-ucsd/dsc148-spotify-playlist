@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,814 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,822 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 9 | [ガラスボールリジェクション](https://open.spotify.com/track/3AWf6m8kodABG5zHwGlwMF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:17 |
 | 10 | [微熱のワルツ](https://open.spotify.com/track/4g8oD02yWau9P3bruCVSiD) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:16 |
 | 11 | [茜心](https://open.spotify.com/track/1hIp7DZMhrW6gxYVccHWZh) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:44 |
-| 12 | [水色のSunday](https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:30 |
-| 13 | [青空を待ってる](https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:39 |
+| 12 | [青空を待ってる](https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:39 |
+| 13 | [水色のSunday](https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:30 |
 | 14 | [Eyeをちょうだい](https://open.spotify.com/track/4zpo5aWr2n1LTjpUYu8awo) | [鬼塚夏美 \(CV.絵森 彩\)](https://open.spotify.com/artist/5ULB8cHC1ldMNZDOJc065u) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:34 |
 | 15 | [ミッドナイトラプソディ](https://open.spotify.com/track/0VVOwXxpiB4Uzvszq02L9H) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:50 |
 | 16 | [Flyer's High](https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 49 | [Welcome to 僕らのセカイ](https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 4:20 |
 | 50 | [Starlight Prologue](https://open.spotify.com/track/7zKZm2x7vuXuuxPAz9U97B) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第12話盤\)](https://open.spotify.com/album/5tNjxI6HcxmeEhTl4Q7pwf) | 4:05 |
 
-Snapshot ID: `MCw2ZjA4YTRlYmExM2E5NmZkODQ3YTEwYTNkYmUyNzlkMDJhOWZlY2Fi`
+Snapshot ID: `MCwyZWI5OWY4ZmZmYWEwZTZkZmEwNGQyMDAwMGNjNzc0NDg3Mjg0YjJk`

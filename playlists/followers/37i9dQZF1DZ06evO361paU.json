@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 251937,
+  "2024-03-03": 251990,
   "date_first_scraped": "2023-07-29",
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
   "name": "This Is Lenny Kravitz",
@@ -533,7 +533,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 280293,
       "name": "We Can Get It All Together",
       "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,458 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,459 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 59 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 |
 | 60 | [Bịt Mắt Bắt Anh](https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Bịt Mắt Bắt Anh](https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp) | 2:59 |
 
-Snapshot ID: `MCxhOWM1NTI1MjA4Y2ZkMGE2OTYyNjViMjRlODk2ODRjMWIyMTc2ZTdh`
+Snapshot ID: `MCwwOTdiNjFjNTBiOWVkMGExZDY4OGJhZDQ1YWUzYzBmYjE5MTYwZmIy`

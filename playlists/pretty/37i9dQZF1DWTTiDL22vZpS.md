@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,358 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,394 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 47 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 |
 | 48 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
 | 49 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 |
-| 50 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 |
-| 51 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
+| 50 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
+| 51 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 |
 | 52 | [Tuyonama \(feat\. Charles Ans\)](https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cool Love](https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe) | 3:24 |
 | 53 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
 | 54 | [Cuando Regreses a Mi](https://open.spotify.com/track/6s7vWQ07LAoEi2uNw4WlMB) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [El Abismo](https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc) | 3:12 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 64 | [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 |
 | 65 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
 
-Snapshot ID: `MCxlMTkxNjk4M2MwOWViMGRhNzc5MzNjM2QxMGJmZjlmNzMyYzZhNGVm`
+Snapshot ID: `MCwzYTQwNmY5MTk4NTQyNGNkMTJkMmFjMTkyZjY4ODJiZTgwN2IzZGUy`

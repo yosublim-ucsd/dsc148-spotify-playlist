@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,008 likes - 47 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,090 likes - 47 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 28 | [Meet the Woo](https://open.spotify.com/track/4kdKKsPHWsyNrvFsZrcg52) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 2:01 |
 | 29 | [Paranoia \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:32 |
 | 30 | [Merci Beaucoup](https://open.spotify.com/track/6mPZVis3gEGSSR2rhxlehT) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:55 |
-| 31 | [Flexin'](https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Flexin'](https://open.spotify.com/album/5jSifSNBzx4irk78gafWld) | 2:38 |
-| 32 | [War \(feat\. Lil Tjay\) \- Bonus](https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:41 |
+| 31 | [War \(feat\. Lil Tjay\) \- Bonus](https://open.spotify.com/track/2hYN1IVp5LGIsi5MpzcjVz) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:41 |
+| 32 | [Flexin'](https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Flexin'](https://open.spotify.com/album/5jSifSNBzx4irk78gafWld) | 2:38 |
 | 33 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 |
 | 34 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 |
 | 35 | [Like Me \(with PnB Rock\)](https://open.spotify.com/track/7knEYd7b0UcbjgChHX7QBq) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:10 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 46 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
 | 47 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDA2ZmI4ZjE4NDQ1YzU4NjUwYjgzMmMxZmI0MTZmN2Q4Mg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDAxYjFkNjQ0ZTY4NGNjZmI1N2VjZjA1MGJjODMyZTU2Yg==`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 45169,
+  "2024-03-03": 45201,
   "date_first_scraped": "2022-08-06",
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
   "name": "This Is John Lee Hooker",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 150269,
       "name": "A New Leaf",
       "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 319693,
       "name": "Annie Mae (2007 - Remaster)",
       "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
@@ -1272,6 +1272,28 @@
     },
     {
       "album": {
+        "name": "The ZZ Top Sixpack",
+        "url": "https://open.spotify.com/album/7AKBeJDSnTiCMjhWhvwhUW"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2Ja96UmPNkP8vyQ6YQqM7O"
+    },
+    {
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184960,
       "name": "One Bourbon, One Scotch, One Beer",
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
@@ -1869,7 +1891,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167400,
       "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
       "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
@@ -2423,7 +2445,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
@@ -2463,7 +2485,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "Whiskey And Wimmen'",
       "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"

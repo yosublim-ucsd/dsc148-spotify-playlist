@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,331 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,449 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 31 | [Bula Boot](https://open.spotify.com/track/3SNBgtfyfrc2CPAHyZYTrK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/6kRcW1KLuahxy5CJP91piF) | 5:34 |
 | 32 | [Sigiya Ngengoma](https://open.spotify.com/track/4GdkrELjR4thBSc2KdfulR) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:39 |
 | 33 | [Klaimar](https://open.spotify.com/track/7yd9B48OQSRTUG2oKEoPXr) | [Chiskop](https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt) | [Bash Mix 2](https://open.spotify.com/album/3jXFnAfB1GglFH95qcl1vA) | 4:03 |
-| 34 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
-| 35 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
+| 34 | [Nomalizo](https://open.spotify.com/track/2H20ibCx6qtLsI2rhs3bPb) | [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG) | [Mthandazo Wabolova](https://open.spotify.com/album/3S7R9NSguORFWfJSUhDAV4) | 5:24 |
+| 35 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |
 | 36 | [Tlo Be Rele Daar](https://open.spotify.com/track/03RGHM6AtZxkZ3rU3iAwQa) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Yizo Yizo](https://open.spotify.com/album/0MI38qrVzFPVgRiHN4ocFU) | 4:40 |
 | 37 | [Tornado Part 1](https://open.spotify.com/track/21xIGXNksYlM9FBDFQC18y) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Tornado](https://open.spotify.com/album/4MLRGUuN0sDl7bjeYj3KVa) | 5:37 |
 | 38 | [Safety Belt](https://open.spotify.com/track/57PeIcXUaNCBjlQbt0M5qS) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 49 | [Ibuhlungu](https://open.spotify.com/track/2SMayfL8qCOPA98aKdDTjN) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's Our Game \(no need to claim\)](https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt) | 4:54 |
 | 50 | [Jakarumba Kwa! Kwa! Kwa!](https://open.spotify.com/track/6ykFit7VtAKyNDXUNi8spe) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/754Vcm77VFVwsiEndZomCs) | 6:22 |
 
-Snapshot ID: `MCxkMDYxZGVlZjVkNGQzYWExYjVkNjBiY2QzYzA0ZDExZTgwOTMwZGNl`
+Snapshot ID: `MCxlODQ4MjlhODRiYmQyODM5ZGJjYTliZDc3ZGU4NDI0ZDE1NzJiYTlh`

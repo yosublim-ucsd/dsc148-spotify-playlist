@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-1,350 songs - 3 day 14 hr 31 min
+1,351 songs - 3 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [BALALA](https://open.spotify.com/track/6qMBFMQKMMrPneGoBP7qTc) | [G22](https://open.spotify.com/artist/5xRZqaqEy9SX8GrmtXoSGT) | [BALALA](https://open.spotify.com/album/1YThLtQSIjfyHAvOUM7wwy) | 3:23 | 2023-08-28 | 2023-09-12 |
 | [Beautiful](https://open.spotify.com/track/1ZpF6OCHEXxifh5LLiW0XJ) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [Beautiful](https://open.spotify.com/album/7wJ1NPwdYrO9CxUKOqbKaf) | 3:51 | 2022-11-14 | 2022-12-27 |
 | [Beautiful Girl](https://open.spotify.com/track/5kg6z0m4WkO9JscOsmVW6G) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [Beautiful Girl](https://open.spotify.com/album/1OKlkB8VkwCpkPrlwyMALi) | 2:32 | 2024-02-05 | 2024-02-20 |
-| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-26 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx) | 4:45 | 2024-02-26 |  |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-26 | 2024-03-03 |
 | [Beautiful Night \(feat\. Gingle Wang\)](https://open.spotify.com/track/18lyZf11cOLfyYUTZkNndW) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [王淨](https://open.spotify.com/artist/2DRz4c8nXd7B5Ntm7AHR4O) | [Beautiful Night \(feat\. Gingle Wang\)](https://open.spotify.com/album/2o08FFoqwttIQuZCyCtT0F) | 4:01 | 2023-04-17 | 2023-08-29 |
 | [Better Left Unsaid](https://open.spotify.com/track/0Yb9NW4OcugPmaTkIdcwau) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:21 | 2022-07-25 | 2023-02-07 |
 | [Better Left Unsaid \- "49 Days with a Merman" Soundtrack](https://open.spotify.com/track/5f8fdYhYqCdwGozzLiITJx) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Better Left Unsaid \("49 Days with a Merman" Soundtrack\)](https://open.spotify.com/album/6O3jtbOzvMsmnkZdeVLhdB) | 3:21 | 2022-11-07 | 2022-11-13 |

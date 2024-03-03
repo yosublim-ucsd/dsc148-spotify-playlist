@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Juice WRLD",
-  "num_followers": 164167,
+  "num_followers": 164218,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmU2MWViZDIyNmJlYjZlMzhhMDE5NDJjZjY5M2I4M2Q3NjViN2M3",
+  "snapshot_id": "MCwwNzJjOGY2ODk0YjIyZWJkOWYwZDNhN2I1NmNiNTVhMTE3NmEwOWYw",
   "tracks": [
     {
       "added_at": "2024-03-01 18:22:51",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-03-01 18:22:51",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2024-03-01 18:22:51",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "added_at": "2024-03-01 18:22:51",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2024-03-01 18:22:51",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-03-01 18:22:51",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+      "duration_ms": 301064,
+      "name": "G.O.M.D",
+      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
     },
     {
       "added_at": "2024-03-01 18:22:51",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2024-03-01 18:22:51",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 301064,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+      "duration_ms": 305350,
+      "name": "Dang! (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2024-03-01 18:22:51",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-01 18:22:51",
       "album": {
+        "name": "My Moment",
+        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
+    },
+    {
+      "added_at": "2024-03-01 18:22:51",
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 252256,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
-    },
-    {
-      "added_at": "2024-03-01 18:22:51",
-      "album": {
-        "name": "My Moment",
-        "url": "https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z"
     },
     {
       "added_at": "2024-03-01 18:22:51",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-03-01 18:22:51",
       "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
+    },
+    {
+      "added_at": "2024-03-01 18:22:51",
+      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 232959,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
-    },
-    {
-      "added_at": "2024-03-01 18:22:51",
-      "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
     },
     {
       "added_at": "2024-03-01 18:22:51",

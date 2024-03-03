@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 37587,
+  "2024-03-03": 37607,
   "date_first_scraped": "2023-06-30",
   "description": "With Bryson Tiller, Sonder, Summer Walker and more",
   "name": "PARTYNEXTDOOR Radio",
@@ -605,7 +605,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 195046,
       "name": "ball w/o you",
       "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 256063,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 164488,
       "name": "Care",
       "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 232502,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1uverlfbbG8InEPioAwB8y"
@@ -2685,7 +2685,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162053,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
@@ -3071,7 +3071,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 146751,
       "name": "Great Gatsby",
       "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
@@ -3093,6 +3093,24 @@
       "duration_ms": 205995,
       "name": "Grown Woman",
       "url": "https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z"
+    },
+    {
+      "album": {
+        "name": "H e r O l d F r i e n d s",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256117,
+      "name": "H e r O l d F r i e n d s",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
       "album": {
@@ -3129,24 +3147,6 @@
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
-    },
-    {
-      "album": {
-        "name": "Her Old Friends",
-        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "date_added": "2023-06-30",
-      "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
-      "duration_ms": 256117,
-      "name": "Her Old Friends",
-      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
       "album": {
@@ -3820,6 +3820,24 @@
     },
     {
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "John Redcorn",
+      "url": "https://open.spotify.com/track/3W2nknW1nTuuxUSyFCUCS8"
+    },
+    {
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -4173,7 +4191,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 176531,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL"
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 185522,
       "name": "Loose",
       "url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX"
@@ -5439,7 +5457,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 202661,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
@@ -6821,7 +6839,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237786,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
@@ -6857,7 +6875,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 264242,
       "name": "Searchin",
       "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
@@ -7448,6 +7466,24 @@
     },
     {
       "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252021,
+      "name": "Street Runner",
+      "url": "https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -7521,7 +7557,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 278066,
       "name": "Studio",
       "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
@@ -7605,7 +7641,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
@@ -7975,7 +8011,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
@@ -9301,7 +9337,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 273133,
       "name": "You",
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"

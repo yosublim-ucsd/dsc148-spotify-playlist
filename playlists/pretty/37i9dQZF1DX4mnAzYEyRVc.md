@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,904 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,944 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 83 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
 | 84 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 |
 | 85 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
-| 86 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
+| 86 | [Boogie Stop Shuffle](https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 4:16 |
 | 87 | [Baggy Trousers](https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Absolutely](https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49) | 2:47 |
-| 88 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
-| 89 | [Boogie Stop Shuffle](https://open.spotify.com/track/16kCh9rnBTGunZJ9LVeRo8) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 4:16 |
-| 90 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
-| 91 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
+| 88 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
+| 89 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
+| 90 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
+| 91 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 92 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
 | 93 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
 | 94 | [Sleepin' on the Couch \(with The Elovaters\)](https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Shellshock](https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Me Va A Castigar El Señor](https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 3:05 |
 | 100 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 
-Snapshot ID: `MCw2MDdjNjNlOGU3YzE2YWVlYTkyNmYwOTQ4ODhiMGVhMDA0OGE0ZmQx`
+Snapshot ID: `MCxkNDc3MGQ5YzIwYWFjNzI4ZWQxMjZiOTMzMDBhZmE3NjNkMmQ5ZjYy`

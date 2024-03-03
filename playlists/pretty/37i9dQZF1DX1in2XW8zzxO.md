@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,460 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,527 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Welcome To Cairo!](https://open.spotify.com/track/12OOvIG2fJkojf998UXLrA) | [2.0 Worldwide](https://open.spotify.com/artist/4gCBp9CiBWLVfMKhjUFWtS), [Bangs MuziQ](https://open.spotify.com/artist/4DiVrEeqbJOSHp7CWn7P8v), [Uncle Kee](https://open.spotify.com/artist/263fuIlGLHbVR3tFA9taEm) | [ZERO TO HUNDRED](https://open.spotify.com/album/5rLapSQjaq0g24oHxqM6p5) | 7:17 |
 | 50 | [JAGERMEISTER](https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Hakuna Mathata](https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q) | 5:27 |
 
-Snapshot ID: `MCw3MjkyOTI4ZDA1OWUzNTAzZjVlN2I0ODZhNjI5MmRhY2FlZjdjZDFj`
+Snapshot ID: `MCxiMWQwZDU3NTdmNTk3NzRmNDgyNjQzZDIzZDJkMDI4ZWZiMzNmYjhh`

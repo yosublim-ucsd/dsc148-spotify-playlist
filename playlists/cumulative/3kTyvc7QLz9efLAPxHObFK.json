@@ -23923,6 +23923,24 @@
     },
     {
       "album": {
+        "name": "Zombie Nation",
+        "url": "https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Zombie Nation",
+      "url": "https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT"
+    },
+    {
+      "album": {
         "name": "\u03a3",
         "url": "https://open.spotify.com/album/1kYUxP4zxRGWc1ltk3OTN6"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,277 likes - 150 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,364 likes - 150 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 149 | [Fire In Detroit](https://open.spotify.com/track/2bfElfcCkUD7CyGqd36sd3) | [Phil Ranelin](https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1), [Wendell Harrison](https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Phil Ranelin and Wendell Harrison JID016](https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T) | 4:59 |
 | 150 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 |
 
-Snapshot ID: `MCw3MjM1MTBlZjE4NzRlYmU0YjgyNGVlODg5M2I4NGMzNDllYmM0MGE5`
+Snapshot ID: `MCw3YWUyZmFkYmJhZjU5MzFhNTU0ZmNiYmUzYTQxMjAyZmM5ZTYyYmJj`

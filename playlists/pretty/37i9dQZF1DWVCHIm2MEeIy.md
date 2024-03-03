@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > This is our playground! 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,843 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,005 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 10 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 11 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:05 |
 | 12 | [Dance With Me](https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS) | 6:31 |
-| 13 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
-| 14 | [Away With Me \- Fideles Remix](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Away With Me \(Fideles Remix\)](https://open.spotify.com/album/0fcvUjzFhdqL6A9BQrgfAF) | 4:03 |
+| 13 | [Away With Me \- Fideles Remix](https://open.spotify.com/track/3w0NSQwB6Tj2tJfcHAIRCL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Away With Me \(Fideles Remix\)](https://open.spotify.com/album/0fcvUjzFhdqL6A9BQrgfAF) | 4:03 |
+| 14 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 15 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 |
 | 16 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 |
 | 17 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 33 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 |
 | 34 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 35 | [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 |
-| 36 | [Children \- Mind Against & Dyzen Remix](https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Children \(Mind Against & Dyzen Remix\)](https://open.spotify.com/album/1pVZmCuyBjJtYSej1Y4ewc) | 5:36 |
-| 37 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 |
+| 36 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 |
+| 37 | [Children \- Mind Against & Dyzen Remix](https://open.spotify.com/track/5hr6v1jVSkiFaKq8ZvN7Md) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Children \(Mind Against & Dyzen Remix\)](https://open.spotify.com/album/1pVZmCuyBjJtYSej1Y4ewc) | 5:36 |
 | 38 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 |
 | 39 | [Lençóis \(Love Me\) \- Cassian Remix](https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Lençóis \(Love Me\) \[Cassian Remix\]](https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b) | 4:14 |
 | 40 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
 | 70 | [Boavista \- Innellea's Arp Attachement](https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 6:48 |
 
-Snapshot ID: `MCw2MzY0MGU2MGI5NjY0YTc5ODI0ZDk5ZDA0NDYzYzQwZjM3M2IwMTMz`
+Snapshot ID: `MCw3ZTJlYzBjMWMzMGQ2NDM1NDJlNTgzMzhiNzYxYTNkYzRkZWE4Mjk3`

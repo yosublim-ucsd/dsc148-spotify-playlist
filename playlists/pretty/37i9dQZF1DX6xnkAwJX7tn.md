@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,798 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,896 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
 | 150 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
 
-Snapshot ID: `MCw1MzA0YTJlYTZmY2UwYjcyMWRjMTJmNmYyNjAxNTczZjVkMjBkNWQ3`
+Snapshot ID: `MCxiNzhmNjg3NjNiNDExZmVlMWYzN2FjOTUwNDU5ODkzMjQ0MjA0YWNi`

@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: Green Day",
-  "num_followers": 483736,
+  "num_followers": 483793,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTVhMTZlZDhkMGU4MDAzODFjOWEwZDJhYmNkM2NiN2M0ZGMwZmFi",
+  "snapshot_id": "MCw4NmYxMTNhZTZhYTIwMzRkYmU0YzVhYzgwOWIyNjcyMDQ1MGNlNjhl",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Brain Stew",
-      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -787,18 +771,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+      "duration_ms": 193000,
+      "name": "Brain Stew",
+      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Three Days Grace",
         "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 231480,
       "name": "I Hate Everything About You",
       "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Why Don't You Get A Job",
-      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
         }
       ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Sound of Madness",
-      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Sound of Madness",
+      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Dear Agony",
         "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 216733,
       "name": "I Will Not Bow",
       "url": "https://open.spotify.com/track/2yXyz4NLTZx9CLdXfLTp5E"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Crossfade",
-        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
-      },
-      "artists": [
-        {
-          "name": "Crossfade",
-          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 201400,
       "name": "Living Dead Girl",
       "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
+      },
+      "artists": [
+        {
+          "name": "Crossfade",
+          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
     },
     {
       "added_at": "2024-02-16 05:00:00",

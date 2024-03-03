@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 147345,
+  "2024-03-03": 147360,
   "date_first_scraped": "2022-02-20",
-  "description": "new gems by artists carving their own lane. cover: Erika de Casier",
+  "description": "gems by artists carving their own lane. cover: Erika de Casier",
   "name": "outliers",
   "tracks": [
     {
@@ -689,7 +689,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 172360,
       "name": "Again?",
       "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
@@ -1257,10 +1257,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 228310,
       "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
       "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
+    },
+    {
+      "album": {
+        "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+        "url": "https://open.spotify.com/album/58pSNHS8b5euMMXhLb1UAZ"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228310,
+      "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+      "url": "https://open.spotify.com/track/72AeIPJXQxYgtOIcmSnvQo"
     },
     {
       "album": {
@@ -3660,6 +3678,24 @@
     },
     {
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243452,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba"
+    },
+    {
+      "album": {
         "name": "Come For Me",
         "url": "https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC"
       },
@@ -4493,7 +4529,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231204,
       "name": "Deer Teeth",
       "url": "https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U"
@@ -5105,7 +5141,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 137473,
       "name": "DOUBLE DUTCH",
       "url": "https://open.spotify.com/track/7xc8nL2r4N5Ful0QPGlYwB"
@@ -5825,7 +5861,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 241608,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq"
@@ -6193,7 +6229,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 228996,
       "name": "Falling (For You)",
       "url": "https://open.spotify.com/track/1cWpspgmyzdO0CzNK5XxXK"
@@ -7554,6 +7590,28 @@
     },
     {
       "album": {
+        "name": "Good Torture (with Elyanna)",
+        "url": "https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Good Torture (with Elyanna)",
+      "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
+    },
+    {
+      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
@@ -8462,6 +8520,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i"
+    },
+    {
+      "album": {
         "name": "Home Maker",
         "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
       },
@@ -8824,6 +8900,24 @@
     },
     {
       "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Hang",
         "url": "https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT"
       },
@@ -9151,7 +9245,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166506,
       "name": "ice",
       "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
@@ -10322,6 +10416,28 @@
     },
     {
       "album": {
+        "name": "la honte",
+        "url": "https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209474,
+      "name": "la honte",
+      "url": "https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7"
+    },
+    {
+      "album": {
         "name": "La nuit",
         "url": "https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP"
       },
@@ -10855,6 +10971,24 @@
       "duration_ms": 182233,
       "name": "limbo",
       "url": "https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1"
+    },
+    {
+      "album": {
+        "name": "Love Hallucination",
+        "url": "https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0JELUNfPISw22UyhEXoEFG"
     },
     {
       "album": {
@@ -11509,6 +11643,24 @@
       "duration_ms": 216614,
       "name": "Mania",
       "url": "https://open.spotify.com/track/47pdvuFM95WHsL14TnvTTc"
+    },
+    {
+      "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/2WkpW9sbq926dIDjUSuepk"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250227,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/0JqaXaOMP5twlD80Sk8rre"
     },
     {
       "album": {
@@ -12237,7 +12389,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 131007,
       "name": "Money Shows",
       "url": "https://open.spotify.com/track/3g2YmyYPrztnKelA1W5Dv9"
@@ -12527,7 +12679,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208837,
       "name": "Name of God",
       "url": "https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB"
@@ -13175,7 +13327,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199183,
       "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
@@ -16150,6 +16302,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free, I'm an Animal",
+        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Set Me Free, I\u2019m an Animal",
+      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
+    },
+    {
+      "album": {
         "name": "Settle & Fly / O(O)O",
         "url": "https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R"
       },
@@ -17864,6 +18034,28 @@
     },
     {
       "album": {
+        "name": "Alcateia",
+        "url": "https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Subindo e Descendo",
+      "url": "https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg"
+    },
+    {
+      "album": {
         "name": "SummerTime",
         "url": "https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4"
       },
@@ -19247,6 +19439,24 @@
       "duration_ms": 157824,
       "name": "This Too",
       "url": "https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv"
+    },
+    {
+      "album": {
+        "name": "Ticket Holder",
+        "url": "https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155119,
+      "name": "Ticket Holder",
+      "url": "https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z"
     },
     {
       "album": {

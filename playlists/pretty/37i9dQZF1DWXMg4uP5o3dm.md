@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: ZHU & UPSAHL
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,358 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,396 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Dancing On My Grave \(feat\. KennyHoopla\)](https://open.spotify.com/track/5TSsTVTbFNxgDXPgBklGa3) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [before the afters](https://open.spotify.com/album/5pLi6ppCtjFyIKPb0qHeLI) | 2:40 |
 | 100 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 |
 
-Snapshot ID: `MTcwODA1OTYwMCwwMDAwMDAwMGVmZDI1NDZhYjIzN2Y5YzRjMTMxMWUxZDRmMGUxMjJi`
+Snapshot ID: `MCwzMjAxZmU3MTc5MGI1NDNmMjFmMGNmN2Q3OTU5NWYwZDI5ZTg5NWY0`

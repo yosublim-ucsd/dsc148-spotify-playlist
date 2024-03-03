@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Charly Benavente
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,218 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,223 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Abducida \- Remix](https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [Abducida \(Remix\)](https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX) | 2:54 |
 | 100 | [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 |
 
-Snapshot ID: `MCw5YTk5NTQ5MTJkNWMzZWI1ZTcwNmQ5ZDA2MjhkODJiZDhmODZiZmRj`
+Snapshot ID: `MCxlYzI2NTNiNzY2NGJkNjYyYjUxZmFlMjA1NTExYzViNjQ0NDZiNzNl`

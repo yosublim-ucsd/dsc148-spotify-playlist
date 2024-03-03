@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/heatherlowery/">Heather Lowery</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,402 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,395 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 48 | [So Be It](https://open.spotify.com/track/7f7qaqIYwNF61OQgDBAGod) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/7BUwxFgWYOKuS1wdqdDtJH) | 3:09 |
 | 49 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 |
 
-Snapshot ID: `MCxlNmQ0MDM0NTYyZjg0NTcyMzIxZWI0YTNlNjE3ZjlhZTk2YjI0YzA0`
+Snapshot ID: `MCwwZGEyNjUxYTU2ODdlYWQ1NjNiNmI3NWJkZDQ2NmU2ZTA5YWM0YjY5`

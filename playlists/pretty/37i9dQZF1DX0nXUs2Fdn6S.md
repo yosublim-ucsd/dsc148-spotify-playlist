@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,649 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,659 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 |
 | 60 | [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 |
 
-Snapshot ID: `MCw0ZTE5NGExNGJjNDQ2MjIyZWY4NDJjZmQ4MTEzMTNhOWNmZDNkMTg5`
+Snapshot ID: `MCwyNzM0YzNkNDY1YWZmM2IxYzAwNmI0OWNhNjZlYzMyNTc2MDlhNDhl`

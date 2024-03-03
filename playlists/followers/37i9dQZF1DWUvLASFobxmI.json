@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 475217,
+  "2024-03-03": 475322,
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Intocable en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. LEGADO 7 en portada.",
   "name": "Norte\u00f1o 2024",
   "tracks": [
     {
@@ -505,6 +505,28 @@
       "duration_ms": 216826,
       "name": "Amores Van Y Vienen",
       "url": "https://open.spotify.com/track/2W4RJv2eybzhaWbLSuRUun"
+    },
+    {
+      "album": {
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     },
     {
       "album": {
@@ -2372,6 +2394,28 @@
     },
     {
       "album": {
+        "name": "El Fulano",
+        "url": "https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142438,
+      "name": "El Fulano",
+      "url": "https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl"
+    },
+    {
+      "album": {
         "name": "El Gordo Jona",
         "url": "https://open.spotify.com/album/0VeQaZNNTz1ON4Bgv0StQI"
       },
@@ -2882,6 +2926,24 @@
     },
     {
       "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+    },
+    {
+      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -3191,6 +3253,24 @@
       "duration_ms": 224277,
       "name": "En la Meza una Flor",
       "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
+    },
+    {
+      "album": {
+        "name": "En Mi Defensa",
+        "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "En Mi Defensa",
+      "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
     },
     {
       "album": {
@@ -4913,7 +4993,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207281,
       "name": "Llegaste",
       "url": "https://open.spotify.com/track/6Eitnpo4RYqJP30YBDqcJ0"
@@ -7113,7 +7193,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 161332,
       "name": "Qu\u00e9 Guapo Estoy",
       "url": "https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt"
@@ -8239,7 +8319,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 171177,
       "name": "Toda La Razon",
       "url": "https://open.spotify.com/track/2eyuw2LUGQwOMUScPDsG4B"
@@ -8391,7 +8471,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 139333,
       "name": "Tu Mu\u00f1eco",
       "url": "https://open.spotify.com/track/2qhj3k0nr9EZebVW3rAOWL"

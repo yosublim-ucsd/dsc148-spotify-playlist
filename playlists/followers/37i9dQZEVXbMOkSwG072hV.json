@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 353496,
+  "2024-03-03": 353487,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 135057,
       "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
@@ -10059,7 +10059,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -14057,6 +14057,24 @@
       "duration_ms": 158769,
       "name": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
       "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M"
+    },
+    {
+      "album": {
+        "name": "EU BOTO OU NAO BOTO",
+        "url": "https://open.spotify.com/album/36scski00O5n47CPvlFECk"
+      },
+      "artists": [
+        {
+          "name": "dstvvd___171",
+          "url": "https://open.spotify.com/artist/1M2b8EQ6av34Gx4xOXT160"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131378,
+      "name": "EU BOTO OU NAO BOTO",
+      "url": "https://open.spotify.com/track/2r8amrfjUY8e8qAEqpzWHd"
     },
     {
       "album": {
@@ -22595,7 +22613,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -32100,6 +32118,40 @@
     },
     {
       "album": {
+        "name": "Pix ou Presente",
+        "url": "https://open.spotify.com/album/5A0eKD3Q2v0NqUbwi6M5oT"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DJ Torricelli",
+          "url": "https://open.spotify.com/artist/5DEyhfcrXFzsKDCBcTNyn3"
+        },
+        {
+          "name": "Dj Flor",
+          "url": "https://open.spotify.com/artist/4XRu9SPd5xXRdodBz66O1s"
+        },
+        {
+          "name": "DJ CARLINHOS",
+          "url": "https://open.spotify.com/artist/6FBX3c5yWFrMF2VCoMYNQ7"
+        },
+        {
+          "name": "DJ KAUE SOUZA",
+          "url": "https://open.spotify.com/artist/5ZPaotOSXiMY5Qk20xu5Ro"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163141,
+      "name": "Pix ou Presente",
+      "url": "https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL"
+    },
+    {
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -33983,7 +34035,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 131541,
       "name": "Quem Sera Sortuda",
       "url": "https://open.spotify.com/track/4auUiEZ3XnaNr5GlMNO9Vn"
@@ -42349,7 +42401,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 263702,
       "name": "Uma Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/0cK1rd4UAIzTnPtuWFqumn"
@@ -45735,6 +45787,24 @@
       "duration_ms": 227040,
       "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
       "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Vadiada & Canalhada",
+        "url": "https://open.spotify.com/album/0RJ6DKEaM63hSeMP7OuYU9"
+      },
+      "artists": [
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182768,
+      "name": "\u00c9 so uma perguntinha",
+      "url": "https://open.spotify.com/track/1ndr7r4VOenZ7VGXvc80oa"
     },
     {
       "album": {

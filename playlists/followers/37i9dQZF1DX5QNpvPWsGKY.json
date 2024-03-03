@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 115028,
+  "2024-03-03": 115164,
   "date_first_scraped": "2022-05-01",
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
   "name": "Taco Placero",
@@ -3369,10 +3369,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "album": {
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5QNpvPWsGKY"

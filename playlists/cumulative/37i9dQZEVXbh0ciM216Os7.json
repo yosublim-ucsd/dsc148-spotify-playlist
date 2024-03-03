@@ -8350,7 +8350,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 266197,
       "name": "Funky Cold Medina (Metal Version)",
       "url": "https://open.spotify.com/track/36u0QeIsResYNo1SkcLQFG"
@@ -8676,7 +8676,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 304760,
       "name": "Glorieux",
       "url": "https://open.spotify.com/track/1oKVnESjrbOlPYmMiuTYwZ"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 454370,
       "name": "Lingua Ignota",
       "url": "https://open.spotify.com/track/1cZl7hRofiCAzcWVWjHQ3q"
@@ -13046,6 +13046,32 @@
       "duration_ms": 306000,
       "name": "Losin' My Touch - Remastered 2023",
       "url": "https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0ghrsdAmeWDDbcRaOKkUBC"
+      },
+      "artists": [
+        {
+          "name": "NayCo",
+          "url": "https://open.spotify.com/artist/30HydAmFbNFmIIR0ieMO1A"
+        },
+        {
+          "name": "Morti-cole Records",
+          "url": "https://open.spotify.com/artist/3wsLvS4qGv9zI9Rd8ypk2Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210023,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/1pqS8HrxZ7R3yxhxSQgPqw"
     },
     {
       "album": {
@@ -17264,6 +17290,24 @@
       "duration_ms": 176500,
       "name": "Praise the Lord (feat. Thomas Rhett) - Live",
       "url": "https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"
+    },
+    {
+      "album": {
+        "name": "Pretty Penny (Leo Version)",
+        "url": "https://open.spotify.com/album/4RJSjL2N1OLTi1EH390dtj"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225127,
+      "name": "Pretty Penny (Leo Version)",
+      "url": "https://open.spotify.com/track/1p3CReUcACsJetivVI8Bxd"
     },
     {
       "album": {
@@ -22096,7 +22140,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"

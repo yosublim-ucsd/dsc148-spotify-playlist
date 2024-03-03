@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 156387,
+  "2024-03-03": 156405,
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -339,7 +339,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210519,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/4tO3hXwy46uaCo9eQQ9PW0"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184259,
       "name": "Kiss Me!",
       "url": "https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 214560,
       "name": "Yellow Leaf",
       "url": "https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4"
@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192558,
       "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
       "url": "https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w"
@@ -2585,7 +2585,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213220,
       "name": "\u0e04\u0e19\u0e43\u0e01\u0e25\u0e49\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e44\u0e01\u0e25 (Far Too Close)",
       "url": "https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT"
@@ -4075,7 +4075,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 191500,
       "name": "\u0e17\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg"
@@ -6491,6 +6491,24 @@
       "duration_ms": 192240,
       "name": "\u0e2d\u0e31\u0e19\u0e1f\u0e2d\u0e25 (Unfollow)",
       "url": "https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e31\u0e2a\u0e04\u0e32\u0e23\u0e32\u0e21\u0e38\u0e14 (Ohm, YaYa!)",
+        "url": "https://open.spotify.com/album/6GItPYBemHYG8As95RjchU"
+      },
+      "artists": [
+        {
+          "name": "Wizzle",
+          "url": "https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253420,
+      "name": "\u0e2d\u0e31\u0e2a\u0e04\u0e32\u0e23\u0e32\u0e21\u0e38\u0e14 (Ohm, YaYa!)",
+      "url": "https://open.spotify.com/track/48VZRlEIaC22rTff4b1eSW"
     },
     {
       "album": {

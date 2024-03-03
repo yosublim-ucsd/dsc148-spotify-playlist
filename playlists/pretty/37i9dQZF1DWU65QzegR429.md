@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,612 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,625 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 49 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
 | 50 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
 
-Snapshot ID: `MCw5OWE4MjQ3NzczZDQ4ZmNkMWQwNzU1YjI2N2YwM2EyOGRlYTBiZTNi`
+Snapshot ID: `MCxkN2VkODg0NTgzMDVmY2M2Y2RmZDhiNjRhZWQ1NDFlNzM4NzhiZGMy`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 5466,
+  "2024-03-03": 5468,
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 156573,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 182493,
       "name": "Deep Moaning Blues: 1",
       "url": "https://open.spotify.com/track/71880lDX9ffJjkZp4n0bTb"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Down By The Riverside",
       "url": "https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 155373,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199920,
       "name": "Ma Rainey's Mystery Record",
       "url": "https://open.spotify.com/track/3KE9EWJbk01560z1BIiG8g"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 171180,
       "name": "Rough and Tumble Blues",
       "url": "https://open.spotify.com/track/2rIkHGBexv1XkjgeHlQkre"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -2617,7 +2617,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193733,
       "name": "Sleep Talking Blues (Take 1)",
       "url": "https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2"
@@ -2761,7 +2761,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2779,7 +2779,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 163944,
       "name": "Stormy Sea Blues",
       "url": "https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152493,
       "name": "Victim Of The Blues",
       "url": "https://open.spotify.com/track/32NumLaEcf0Om30yt0P3JG"

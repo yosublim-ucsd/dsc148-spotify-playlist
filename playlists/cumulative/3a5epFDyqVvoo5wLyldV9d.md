@@ -4,7 +4,7 @@
 
 > 
 
-755 songs - 2 day 10 hr 44 min
+756 songs - 2 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 | 2022-01-08 |  |
 | [Cumbia Del Caribe](https://open.spotify.com/track/5DB84ae2XlBH3G6bYZaF8P) | [Edmundo Arias Y Su Orquesta](https://open.spotify.com/artist/74otTBtmNyD7u5sw5ltGMl) | [Su Mundo De Cumbias](https://open.spotify.com/album/2Rm3csy5xQqjT8hd0SJhs3) | 3:01 | 2021-12-09 |  |
 | [Cumbia Sobre el Mar](https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope \(Quantic Presenta Flowering Inferno\)](https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0) | 6:17 | 2021-07-22 |  |
+| [D.I.S.C.O.](https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR) | [Ottawan](https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7) | [D.I.S.C.O.](https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv) | 5:01 | 2024-03-02 |  |
 | [Daa Nyinaa](https://open.spotify.com/track/567JRYU3Gxdvh9810wNc4s) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC) | 6:07 | 2019-09-07 |  |
 | [Dalkavuk](https://open.spotify.com/track/1H1iCQ05MWM2CUuts2UhA1) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 5:06 | 2020-04-13 |  |
 | [Dalkavuk \- Baris K Edit](https://open.spotify.com/track/1F0k6Lfr9jp9g6H43YFYIc) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Istanbul 70: Psych, Disco, Folk Edits by Baris K \- Vol\. II](https://open.spotify.com/album/6J1mfLqgykLUhctF6yVUg0) | 5:27 | 2020-04-13 |  |

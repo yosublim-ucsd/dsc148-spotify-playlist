@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,490 likes - 85 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,602 likes - 85 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 40 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
 | 41 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
 | 42 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 |
-| 43 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
-| 44 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 |
+| 43 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 |
+| 44 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 45 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 46 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
 | 47 | [Vendavais \- Ao Vivo](https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Vendavais \(Ao Vivo\)](https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV) | 6:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Ele Não Mudou](https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Mudou](https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4) | 4:29 |
 | 85 | [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 |
 
-Snapshot ID: `MCxkNzlkMDkzZDE2YmRhZTBlZWZhMGViNTVhMWY5MTEyZjNmNmE0MmY5`
+Snapshot ID: `MCw2ODdmM2ViNDhlMDJlZDU0NTdkNjY0NmEyMjE4ZmVmMzRkZWU2Y2Y3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,718 likes - 56 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,757 likes - 56 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 55 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 56 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 |
 
-Snapshot ID: `MCw3M2Q5YTA0Njc2OGRiOGFlZDUxNGJjNDk1ODY1MzNiZTI2ODc0ZGYz`
+Snapshot ID: `MCxlMzVjN2ZkOWI4NDY3NDg3MDZmZDhmOTVmODU3NGExOTA3NzQ0YmQ1`

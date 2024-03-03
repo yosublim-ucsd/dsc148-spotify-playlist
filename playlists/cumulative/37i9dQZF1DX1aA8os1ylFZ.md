@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-477 songs - 1 day 0 hr 47 min
+479 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Don't Let Me Go \- Acoustic](https://open.spotify.com/track/2Z7kD2hHqeAobmKvmOrM8z) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Don't Let Me Go](https://open.spotify.com/album/4ekuM8n60Nc0oahtk00eks) | 2:26 | 2021-12-16 | 2022-07-29 |
 | [Don't Let Me Go \- Acoustic Version](https://open.spotify.com/track/3V45eJq8oD7NufORRxxtYF) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Don't Let Me Go](https://open.spotify.com/album/4AxWxykTgAFcyxr7WgDYiK) | 2:25 | 2022-07-22 | 2023-01-13 |
 | [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2023-01-12 | 2023-02-17 |
-| [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 | 2023-11-09 |  |
+| [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 | 2023-11-09 | 2024-03-03 |
 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 | 2021-12-16 | 2023-09-01 |
 | [Drift Away](https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Drift Away](https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x) | 2:27 | 2023-04-20 | 2023-08-22 |
 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-11-08 |  |
@@ -267,7 +267,7 @@
 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 | 2022-03-25 | 2023-01-13 |
 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 | 2023-01-12 | 2023-03-01 |
 | [Love Me Like You Say You Love Me](https://open.spotify.com/track/48awI0zekKygGs7Yz03uNU) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Love Me Like You Say You Love Me](https://open.spotify.com/album/2XRkxFKzK69QcPC2tIhg3t) | 2:19 | 2021-12-16 | 2023-01-13 |
-| [Love On Film](https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Love On Film](https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW) | 2:03 | 2023-10-12 |  |
+| [Love On Film](https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Love On Film](https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW) | 2:03 | 2023-10-12 | 2024-03-03 |
 | [Love Songs](https://open.spotify.com/track/2zO7frDqm0ut8oY58EqgEz) | [ADORAH](https://open.spotify.com/artist/5ftK3lzR9iapCysM5XBCj2) | [20 Feet Tall](https://open.spotify.com/album/6T8DlBJ7z7q9dc7rzBauUQ) | 2:48 | 2021-12-16 | 2023-01-13 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-03-25 | 2023-01-13 |
 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 | 2021-12-16 | 2023-01-13 |
@@ -278,6 +278,7 @@
 | [Magic](https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 4:44 | 2023-01-12 | 2023-09-22 |
 | [Make Me Wanna](https://open.spotify.com/track/5PvgFjmrALevsoP09K9HNW) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:54 | 2023-04-23 | 2023-05-24 |
 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 | 2023-01-12 | 2023-05-07 |
+| [Make You Remember Me](https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Make You Remember Me](https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz) | 2:25 | 2024-03-01 |  |
 | [Mamma Mia](https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa) | 1:29 | 2024-02-23 |  |
 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 | 2023-04-06 | 2023-09-01 |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-12-16 | 2022-01-21 |
@@ -482,6 +483,7 @@
 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 | 2023-09-21 | 2024-01-26 |
 | [You All Day](https://open.spotify.com/track/6k3ybhZHeFtZsuyidDFriA) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [You All Day](https://open.spotify.com/album/7tfllHucm1Wdwo6xyclI0u) | 2:20 | 2023-03-22 | 2023-11-17 |
 | [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-12 |  |
+| [You Don't Call Me](https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [You Don't Call Me](https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM) | 2:27 | 2024-03-01 |  |
 | [YOU got what i need](https://open.spotify.com/track/12rGDE4wphOzVLLeWzBWJr) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [YOU got what i need](https://open.spotify.com/album/6O8CA5GZVKn3WopaOmKXEm) | 3:02 | 2021-12-16 | 2022-03-25 |
 | [Zwanger in De Club](https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [Zwanger in De Club](https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ) | 3:52 | 2023-11-16 |  |
 | [—˚✦ ඔබ + මම ♬ !!! ❀˚](https://open.spotify.com/track/3JxC5UZmAOsmQuyFR0ZMlr) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [closure](https://open.spotify.com/album/17JyDBTfjqukxO3VViUy89) | 2:33 | 2021-12-16 | 2023-01-13 |

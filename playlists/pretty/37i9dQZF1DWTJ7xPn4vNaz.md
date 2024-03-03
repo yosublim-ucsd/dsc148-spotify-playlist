@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: Roberta Flack
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,295,563 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,296,452 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
 | 150 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 |
 
-Snapshot ID: `MCw5Nzg5MWY4ZTE3ZjE0ZmUxODVjZGQyMThhYTE0NjE0NGMzMGEwYzBl`
+Snapshot ID: `MCwwMTRlMDk5YjM2MmVhZjlhMjcyZTNlODkzZWZiNWFhZjRjMTZjZWY0`

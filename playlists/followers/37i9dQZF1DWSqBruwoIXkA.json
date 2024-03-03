@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1725540,
+  "2024-03-03": 1726113,
   "date_first_scraped": "2021-12-21",
   "description": "heartbreak feels good in a place like this Cover: Lizzy McAlpine",
   "name": "sad hour",
@@ -2933,6 +2933,24 @@
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "album": {
+        "name": "Enough of Me",
+        "url": "https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148978,
+      "name": "Enough of Me",
+      "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
     },
     {
       "album": {
@@ -8413,7 +8431,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156120,
       "name": "One Without the Other",
       "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,420 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,465 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 32 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
 | 33 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 |
 | 34 | [BETTER WITH YOU](https://open.spotify.com/track/3OAfKHdo5dhB14BN9WI8UT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [BETTER WITH YOU](https://open.spotify.com/album/7M3bVpD6IaQDDzVegVgJJz) | 2:46 |
-| 35 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
+| 35 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
 | 36 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
-| 37 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
+| 37 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
 | 38 | [Rest On Us](https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmore](https://open.spotify.com/artist/3F4uNC54SZeUGL2AkZJEw1) | [Rest On Us](https://open.spotify.com/album/17ppxNXzGYBaJyVFnhuKhR) | 3:29 |
 | 39 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
 | 40 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 72 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 73 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
 | 74 | [Never Let You Go \- Live](https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:53 |
-| 75 | [Love Goes On \- Remix](https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy) | 3:42 |
+| 75 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 
-Snapshot ID: `MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm`
+Snapshot ID: `MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4`

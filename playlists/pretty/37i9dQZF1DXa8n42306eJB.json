@@ -1,12 +1,12 @@
 {
   "description": "Good vibes for good times!",
-  "num_followers": 289893,
+  "num_followers": 289971,
   "original_name": "Reggae Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDhhMzkyYzYzZWZkMzY0Y2YxZDYxMGU2OTQxN2Q2YmU0NWZjOGJj",
+  "snapshot_id": "MCxhYWYyZGRiZjNhNDg1NTFlYTg2NzQ4YmViNGY3NzU5MTdlMzExMDY3",
   "tracks": [
     {
       "added_at": "2024-02-08 13:00:00",
@@ -1202,6 +1202,10 @@
         {
           "name": "Victor J Sefo",
           "url": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+        },
+        {
+          "name": "Sefos.Beats",
+          "url": "https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI"
         }
       ],
       "duration_ms": 253004,

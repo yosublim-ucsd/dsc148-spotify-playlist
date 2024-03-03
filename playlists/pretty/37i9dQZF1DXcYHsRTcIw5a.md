@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,085 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,167 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 37 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
 | 38 | [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 |
 | 39 | [Baba Boom Time](https://open.spotify.com/track/7aPjIs1vrygEAGgODAo6Ca) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Celebrating Jamaica 50: The History of Reggae](https://open.spotify.com/album/5EeBMrKxZEkVcr00cNgZM2) | 3:00 |
-| 40 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
-| 41 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
-| 42 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
-| 43 | [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 |
-| 44 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 |
+| 40 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
+| 41 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
+| 42 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
+| 43 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 |
+| 44 | [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 |
 | 45 | [Rukumbine](https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV) | [Bobby Aitken](https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6) | [Classic Hits from Treasure Isle](https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8) | 2:41 |
 | 46 | [Old Fashioned Way](https://open.spotify.com/track/5bCVtWqo79No5jlsAz4lHN) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Hudson Affair: Keith Hudson and Friends](https://open.spotify.com/album/4QvHHgI6n36Y2rNwFwEmNB) | 2:35 |
 | 47 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 |
 | 50 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 
-Snapshot ID: `MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1`
+Snapshot ID: `MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll`

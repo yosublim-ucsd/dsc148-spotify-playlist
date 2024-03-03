@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 11015,
+  "2024-03-03": 11020,
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Luis Angel \"El Flaco\"",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: DannyLux",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -1586,6 +1586,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198145,
+      "name": "El 2",
+      "url": "https://open.spotify.com/track/41kC1zrv2t2Tb683qkSUQz"
+    },
+    {
+      "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
       },
@@ -1967,6 +1989,28 @@
       "duration_ms": 126906,
       "name": "El Jabal\u00ed",
       "url": "https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
     },
     {
       "album": {
@@ -2496,6 +2540,28 @@
     },
     {
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204539,
+      "name": "FRACASO (With Alejandro Buelna)",
+      "url": "https://open.spotify.com/track/1uZo4RpiQPDn4FVrckJvrx"
+    },
+    {
+      "album": {
         "name": "Fruta Prohibida (En Vivo)",
         "url": "https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y"
       },
@@ -2648,6 +2714,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "album": {
         "name": "Torbellino",
         "url": "https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF"
       },
@@ -2760,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
       },
@@ -2775,6 +2881,24 @@
       "duration_ms": 178575,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/65KYsmbRY9PgXbM1rpfNMQ"
+    },
+    {
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189246,
+      "name": "Isidro",
+      "url": "https://open.spotify.com/track/6OPg5vuIXXAKQJy1tvtDa6"
     },
     {
       "album": {
@@ -3666,6 +3790,24 @@
     },
     {
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242074,
+      "name": "MALDITO ALCOHOL",
+      "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
+    },
+    {
+      "album": {
         "name": "La S\u00e1nchez",
         "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
@@ -4021,6 +4163,24 @@
       "duration_ms": 222968,
       "name": "Mi Vida Sin Ti",
       "url": "https://open.spotify.com/track/7aDq8oxYo6nOdNrhmBTBXi"
+    },
+    {
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171166,
+      "name": "Miguel Angel",
+      "url": "https://open.spotify.com/track/0EyFU8FnoxuLzodH3kGRv2"
     },
     {
       "album": {
@@ -5561,6 +5721,24 @@
       "duration_ms": 194685,
       "name": "Se acab\u00f3",
       "url": "https://open.spotify.com/track/29wEM41esAVMnNbLw2Lcyz"
+    },
+    {
+      "album": {
+        "name": "Leyendas",
+        "url": "https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269187,
+      "name": "Se Despide Juanito",
+      "url": "https://open.spotify.com/track/27bqGoKjhBmmHifcxSLJPY"
     },
     {
       "album": {

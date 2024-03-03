@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,645 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,676 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 29 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 30 | [Larme à gauche](https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 2:56 |
 | 31 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 |
-| 32 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
-| 33 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
+| 32 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
+| 33 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
 | 34 | [Pluie fine \- Polo & Pan Remix](https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Fille de ta région remixée](https://open.spotify.com/album/6mM9jFuElvjw45AfSHNf0c) | 3:58 |
 | 35 | [I Go \- Soulwax Remix](https://open.spotify.com/track/3PQyUWqndc51vb1JYrqxuC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs) | 6:50 |
 | 36 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 100 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 
-Snapshot ID: `MCxlMGI2ZGMyMGVlOGM0OWYwZWNjY2NiNjVmOWI0NGY3ZjllYWRmNzhl`
+Snapshot ID: `MCxkNDM4MTVjMzVjMjU2ZWUwZTU2MWM0ZjY1ZDFhNjM1MDRiNTM1YWQy`

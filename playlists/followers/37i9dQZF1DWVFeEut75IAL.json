@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 794063,
+  "2024-03-03": 794445,
   "date_first_scraped": "2021-12-28",
   "description": "The most calming classical music.",
   "name": "Calming Classical",
@@ -337,10 +337,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207046,
       "name": "Abendlied, Op. 85 No. 12 (Arr. Grosvenor)",
       "url": "https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s"
+    },
+    {
+      "album": {
+        "name": "Abendlied, Op. 85, No. 12 (Arr. for String Orchestra by Johan Svendsen)",
+        "url": "https://open.spotify.com/album/1lEgngrSglgOHxOM2AnRqZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Lucerne Festival Strings",
+          "url": "https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc"
+        },
+        {
+          "name": "Daniel Dodds",
+          "url": "https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Abendlied, Op. 85, No. 12 (Arr. for String Orchestra by Johan Svendsen)",
+      "url": "https://open.spotify.com/track/0QbizI8RErYJIi9ROgRM8Z"
     },
     {
       "album": {
@@ -783,6 +809,36 @@
       "duration_ms": 308426,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/42LRjYQYJeogQINxQo0BcJ"
+    },
+    {
+      "album": {
+        "name": "Brahms & Busoni Violin Concertos",
+        "url": "https://open.spotify.com/album/192CqdyyKrnFuO8U3E0nYZ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Francesca Dego",
+          "url": "https://open.spotify.com/artist/3yb6cUrMO05D2GrrUW8lde"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Dalia Stasevska",
+          "url": "https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521000,
+      "name": "Concerto in D Major, Op. 77: II. Adagio",
+      "url": "https://open.spotify.com/track/0HVX7Itc5H4CnOZP8683Km"
     },
     {
       "album": {
@@ -1392,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
+    },
+    {
+      "album": {
         "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
         "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
       },
@@ -1993,6 +2067,28 @@
       "duration_ms": 241803,
       "name": "Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
       "url": "https://open.spotify.com/track/18JxYMTSFKZlxqdNFrOs1r"
+    },
+    {
+      "album": {
+        "name": "Scriabin: PROLOGUE (Quasi Niente from Piano Sonata No. 1 in F Minor, Op. 6: IV. Funebre)",
+        "url": "https://open.spotify.com/album/40uKc91V4ROdSwiArLeW2F"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Julius Asal",
+          "url": "https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90493,
+      "name": "PROLOGUE (Quasi Niente from Piano Sonata No. 1 in F Minor, Op. 6: IV. Funebre) - Upright Version",
+      "url": "https://open.spotify.com/track/2S4CBHdoNjOuxItsfYaUEu"
     },
     {
       "album": {

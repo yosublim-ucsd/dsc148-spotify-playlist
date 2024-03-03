@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 93731,
+  "2024-03-03": 93757,
   "date_first_scraped": "2022-01-01",
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
   "name": "Orbit",
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201373,
       "name": "black & gold",
       "url": "https://open.spotify.com/track/5IPHTe3gNyJNJGukYwDamD"
@@ -1427,6 +1427,48 @@
       "duration_ms": 119999,
       "name": "BOWLiNG (feat. Thundercat)",
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
+    },
+    {
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        },
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        },
+        {
+          "name": "Kanyi Mavi",
+          "url": "https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "Box Of Stars Pt. 1",
+      "url": "https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI"
     },
     {
       "album": {
@@ -5729,7 +5771,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 226062,
       "name": "Keep Going On",
       "url": "https://open.spotify.com/track/0fZAf4lctzwn8zqMsa3RHp"
@@ -5931,6 +5973,32 @@
       "duration_ms": 272000,
       "name": "LADYBIRD",
       "url": "https://open.spotify.com/track/3mpexMDzp0UnOBKbW73hiM"
+    },
+    {
+      "album": {
+        "name": "Last Nite",
+        "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
     },
     {
       "album": {
@@ -9551,7 +9619,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190515,
       "name": "Sugar Coating - Edit",
       "url": "https://open.spotify.com/track/4dQi75NfxBM2XrUQCmCKfP"
@@ -9867,6 +9935,32 @@
       "duration_ms": 176378,
       "name": "Take Flight - edbl Remix",
       "url": "https://open.spotify.com/track/6dU1gPHs4LNyVpDIOq54iG"
+    },
+    {
+      "album": {
+        "name": "Take Time + Guava",
+        "url": "https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236112,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz"
     },
     {
       "album": {
@@ -11087,6 +11181,24 @@
       "duration_ms": 163636,
       "name": "VibeNineThree (Rework)",
       "url": "https://open.spotify.com/track/3EZoiGsnVUIFC0yEUZWRMA"
+    },
+    {
+      "album": {
+        "name": "LOVE is WAR, Volume 6",
+        "url": "https://open.spotify.com/album/2c7MJXnJwq0hiNdoGAPvgq"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230103,
+      "name": "ViBRATiON",
+      "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
     },
     {
       "album": {

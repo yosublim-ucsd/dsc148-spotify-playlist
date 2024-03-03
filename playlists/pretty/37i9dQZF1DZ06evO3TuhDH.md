@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,519 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,523 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 10 | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ) | 2:51 |
 | 11 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 12 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
-| 13 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
-| 14 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 13 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 14 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 |
 | 15 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
 | 16 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 |
-| 17 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
-| 18 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
+| 17 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
+| 18 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
 | 19 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 |
 | 20 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
 | 21 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 |
 | 50 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAzNDE4ZTllN2Q5NzhmZjY5OGE3ZTFiOWI5NzA2MDgyNA==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBkYTQyOWRkYzMxNGVkYjg5MWNmZjIxZjVkYzcyZTg2YQ==`

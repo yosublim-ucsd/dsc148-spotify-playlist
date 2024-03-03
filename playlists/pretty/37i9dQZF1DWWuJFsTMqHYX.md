@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,278 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,434 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
 | 50 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv) | 6:07 |
 
-Snapshot ID: `MCw2ZDBiZWFkYmM2OWY4Y2E5ZTY3MTY1ZTJlMTJjMjBjMjYwYzVkZjQx`
+Snapshot ID: `MCw4MzcxZjEyZjZiOTcyZTk0YzNjNTI0YmFlM2IwNzJlOGIwN2RmMTk4`

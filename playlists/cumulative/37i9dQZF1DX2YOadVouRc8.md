@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-380 songs - 18 hr 50 min
+381 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-29 | 2023-11-03 |
 | [Angel Dust](https://open.spotify.com/track/3fPf1NouFIWvxJGZa7O07g) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc) | [Angel Dust](https://open.spotify.com/album/1chFNnjmzacp0xb2uhgn7P) | 2:47 | 2023-03-30 | 2023-06-06 |
 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 | 2023-06-22 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-03-01 |  |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-02-16 |
-| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-16 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-16 | 2024-03-03 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-02-07 |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 |  |

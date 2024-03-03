@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 195833,
+  "2024-03-03": 195850,
   "date_first_scraped": "2023-03-18",
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
   "name": "This Is Bethel Music",
@@ -333,7 +333,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 371774,
       "name": "Extravagant - Live",
       "url": "https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 314306,
       "name": "Gravity - Instrumental",
       "url": "https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,270 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,280 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 16 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
 | 17 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 18 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
-| 19 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 20 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:22 |
+| 19 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:22 |
+| 20 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 21 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 22 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
 | 23 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 89 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 |
 | 90 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 |
 | 91 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
-| 92 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
-| 93 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
+| 92 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
+| 93 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
 | 94 | [Un\-Break My Heart \(Spotify Singles\)](https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:16 |
 | 95 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
 | 96 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 124 | [Walking Away \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 3:21 |
 | 125 | [T\-Shirt \(Spotify Mix\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Spotify Singles](https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe) | 2:43 |
 
-Snapshot ID: `MCxlODcxNWY3N2U1ZDI0OTAzNzVkMDdhM2EzZmFkODMwZjY3ODljZGIy`
+Snapshot ID: `MCwzNmExZDcyY2U1ZGQ4NzY5YzY1MWRlN2Q1ZjQ2NjFjNzYxZTIxMGVj`

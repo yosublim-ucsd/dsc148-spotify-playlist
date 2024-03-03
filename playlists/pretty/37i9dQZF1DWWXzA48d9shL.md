@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,201 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,383 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 53 | [There Goes My Mind](https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [There Goes My Mind](https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6) | 3:38 |
 | 54 | [KOTA](https://open.spotify.com/track/6eYNLf71cggJ1OKIgu8gnW) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [SOUTH STRIP](https://open.spotify.com/album/6erVSzriWHdz8wEYpM0iU2) | 3:15 |
 | 55 | [MK Plus Ultra](https://open.spotify.com/track/00cEH1g73uoXOeZk04HX7r) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6uWl5ITWhAI6KM1WyOQWRM) | 2:10 |
-| 56 | [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 |
+| 56 | [GANJA GOBLIN](https://open.spotify.com/track/4QF5JIoChpdZZajgYHNT6a) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/503xD5jcJZEK7Ckf3vDpL2) | 2:30 |
 | 57 | [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 |
 | 58 | [A Perfect & Immortal Machine](https://open.spotify.com/track/51gdQs4BEup4BpCW4pV5yS) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [A Perfect & Immortal Machine](https://open.spotify.com/album/1ciEMexkTfMisF87MJIRrY) | 2:10 |
 | 59 | [EXCUSE ME??](https://open.spotify.com/track/1uSda4N8BCsNpCSSjtUEWg) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Andy Christ](https://open.spotify.com/artist/7CBMPDJkT3251VCtVITNr5) | [EXCUSE ME??](https://open.spotify.com/album/133081TGy3yKC5qRGyBQTe) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [RECOIL](https://open.spotify.com/track/31jBzecMTqfx1gM48riFLd) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Pupa](https://open.spotify.com/album/44obgGVAFZpmAio7tHjvLq) | 1:50 |
 | 100 | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/track/5MrQWiPCl5x6WFuni1hV2p) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/album/6sdW9d68koNLQXuchDsJLN) | 2:48 |
 
-Snapshot ID: `MCxkY2MyMmUxOTlhYzMwYzhiNjNkYjQ2NTE0N2ViZGZhNTg3ZjA4Zjc1`
+Snapshot ID: `MCxkODVhNmY0NDEwNWQ0OTg0MGM5YTg1NjM5YWFjMTI2OThhNGQxY2Ux`

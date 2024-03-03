@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,834 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892,357 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 |
 | 100 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 |
 
-Snapshot ID: `MCxjZmNmMzNjMTlkN2FjMGY5ODJhYmE0ODA2NGUyOGUxYjM2ZGNkOTNk`
+Snapshot ID: `MCxmODE2MzI5MTJhMTcwZjdhMzdhYjkzM2QyNzU4ZTg0OTUxYzY5NTQ5`

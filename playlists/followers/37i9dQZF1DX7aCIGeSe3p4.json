@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 159501,
+  "2024-03-03": 159719,
   "date_first_scraped": "2023-09-18",
-  "description": "como olvidar aquella tarde cuando por poco pierdo al nene \ud83e\udee0\ud83e\udd22 Cosechando los \u00e9xitos del internet \ud83e\udd20",
+  "description": "don dimadon que suene un corrid\u00f3n \ud83d\ude08\ud83c\udf7e Cosechando los \u00e9xitos del internet \ud83e\udd20",
   "name": "Rancho Viral",
   "tracks": [
     {
@@ -717,7 +717,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221330,
       "name": "CUMBIA 85",
       "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
@@ -775,6 +775,32 @@
       "duration_ms": 209062,
       "name": "Dame Amor",
       "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
+    },
+    {
+      "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "album": {

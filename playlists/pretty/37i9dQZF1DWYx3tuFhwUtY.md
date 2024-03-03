@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,257 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,265 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 74 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 75 | [Detroit Basketball](https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:27 |
 
-Snapshot ID: `MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz`
+Snapshot ID: `MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj`

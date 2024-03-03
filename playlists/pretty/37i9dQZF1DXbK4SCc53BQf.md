@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,322 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,363 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 5 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 |
 | 6 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
 | 7 | [El Maestro de Galilea](https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:46 |
-| 8 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 |
-| 9 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
+| 8 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
+| 9 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 |
 | 10 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
 | 11 | [Si Estoy Contigo \- En Vivo](https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 4:11 |
 | 12 | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a) | 3:42 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 20 | [Fiesta](https://open.spotify.com/track/1nqJ147DenACjQsFw2FWGN) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0yXPcyG4gS3W6m2aQACbVD) | 4:38 |
 | 21 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
 | 22 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
-| 23 | [Tu Voz Hablar](https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [No Hay Limites](https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM) | 3:56 |
-| 24 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 23 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 24 | [Tu Voz Hablar](https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [No Hay Limites](https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM) | 3:56 |
 | 25 | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Me Llevas Más Alto](https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2) | 3:19 |
-| 26 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
-| 27 | [Tengo un Nuevo Amor \- Salsa](https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Fiesta Celestia: Amado Mio](https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k) | 4:42 |
+| 26 | [Tengo un Nuevo Amor \- Salsa](https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Fiesta Celestia: Amado Mio](https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k) | 4:42 |
+| 27 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 28 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 |
 | 29 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
 | 30 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Va Cae](https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf) | 3:10 |
 | 50 | [No Vaya a Ser](https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk) | [Britt](https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv) | [No Vaya a Ser](https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G) | 3:10 |
 
-Snapshot ID: `MCxlOWRjOGQyMDc1YjMxZDdlYmI2MmNhYzU2MDdhM2EzYWQ3ODM2MTIy`
+Snapshot ID: `MCwxMmY3YWM4YjBhNGVkMDE1NWIxY2M4NTE3NzIxOGE2ODFmMTU4ZTdh`

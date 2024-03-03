@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carin Leon & Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,355 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,370 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 7 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 |
 | 8 | [NAVI](https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAVI](https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi) | 2:15 |
 | 9 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
-| 10 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 10 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 11 | [Mi Viejo](https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Mi Viejo \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR) | 5:03 |
 | 12 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
 | 13 | [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Me Vale V](https://open.spotify.com/track/7KO00ABO1mYdBQMw8jvy3l) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Me Vale V](https://open.spotify.com/album/5PFzu3JXWMoA8NHlZr7ZAO) | 2:33 |
 | 55 | [Ley de Atracción](https://open.spotify.com/track/1o7Bb4THzpBXKmARYRBySr) | [Mardeybor](https://open.spotify.com/artist/7FLbZBr6eoDNRFa4aW8UZZ) | [Ley de Atracción](https://open.spotify.com/album/2987HxMx0Gi2mku3xPAPi2) | 3:09 |
 
-Snapshot ID: `MCw5YzAzNDkzYWE4MjZjOTVjZmI4OTJiMmM5ZjdjMjE0YzViMjdiYjk5`
+Snapshot ID: `MCw3MzU3YzdlOWEzOTYwNjViM2RiNjBhY2NkOWQ3MmI2M2NiNGVjZmJm`

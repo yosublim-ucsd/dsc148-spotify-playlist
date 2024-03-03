@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,221 likes - 70 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,254 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 |
 | 68 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
 | 69 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
-| 70 | [Carry On \- Rezident Remix](https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Carry On \(Rezident Remix\)](https://open.spotify.com/album/0oNy96DTfddGGcKvBslhZx) | 3:50 |
+| 70 | [A Thousand Knives \(Enamour Remix\) \(Edit\)](https://open.spotify.com/track/6yBupGjozwryAZYsGQi4eo) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p) | 4:49 |
 
-Snapshot ID: `MCxiMTQ4NmM4Mzg1NWEwODFmNzFjMDMxYzExNGFjMWM1ZjllYjVmYWY3`
+Snapshot ID: `MCw5M2Q4ZjY0NzQ1NzFkZjBmNDA1N2YzYjI3MjdlNDE2MWZiMWMxZTA4`

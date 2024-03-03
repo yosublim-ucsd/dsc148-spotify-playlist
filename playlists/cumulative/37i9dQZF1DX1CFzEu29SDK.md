@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-52 songs - 3 hr 19 min
+53 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2023-12-15 |  |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2023-12-15 |  |
 | [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-12-15 |  |
-| [Compute](https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Compute](https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk) | 4:23 | 2023-12-15 |  |
+| [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 | 2024-02-15 |  |
+| [Compute](https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Compute](https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk) | 4:23 | 2023-12-15 | 2024-03-03 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-12-15 |  |
 | [Dog Days](https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Dog Days](https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8) | 3:43 | 2023-12-15 |  |
 | [Don Julio](https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Don Julio](https://open.spotify.com/album/7hb7VPTh4LMlTIBAy3x32Y) | 3:08 | 2023-12-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,636 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,673 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 |
 | 150 | [Agnes Water Blues](https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni) | [Maynard Heap](https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9) | [Agnes Water Blues](https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd) | 3:56 |
 
-Snapshot ID: `MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi`
+Snapshot ID: `MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi`

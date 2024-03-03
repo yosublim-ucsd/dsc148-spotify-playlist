@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,645 likes - 48 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,708 likes - 48 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 32 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 33 | [Sabor A Mi](https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Rhythm & Romance](https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO) | 4:22 |
 | 34 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
-| 35 | [Always](https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:34 |
-| 36 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
+| 35 | [The Champion's Theme](https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:19 |
+| 36 | [Always](https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:34 |
 | 37 | [I'm in the Mood for Love](https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:02 |
 | 38 | [Paradise](https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Paradise](https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr) | 4:14 |
 | 39 | [Jasmine Flower](https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:36 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 47 | [One More Time \(feat\. Chante Moore\)](https://open.spotify.com/track/3jWIQKsrPtAxQEWJ0V89xR) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:01 |
 | 48 | [Baby G](https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/1i2GAfGtYhaveFdUX3mcgj) | 3:35 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAyMDIwZDkyZTcyNmY1YzIxYmNjM2RhOGY5NTgyYzVmZg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBkNzYyNGM4ODdiYWVhMmI0Y2YyNGE0OWZiODc4NWViNA==`

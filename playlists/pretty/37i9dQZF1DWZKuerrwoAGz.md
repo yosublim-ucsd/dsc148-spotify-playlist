@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,960 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,211 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 | 149 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 |
 | 150 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
 
-Snapshot ID: `MCxhNmU5ZDQwNzJhMzIyMDZjZWM1MjI2ZjJjNDg0OWFlNjUxYzZjZmEx`
+Snapshot ID: `MCw0Y2M3ODAzNWE1MzdiNTc2NDVkNTc1OWZhNWJjZWU5NWIyYWYxYWMz`

@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 416569,
+  "num_followers": 416594,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDY5M2UwZmYxZjdiMTMyNTA1NGRmYTJmNTAyMTZkNzZiOTFkMzk2",
+  "snapshot_id": "MCwwYzA2ZmEwY2MwYTZjOTliMGI4MGY2OTM5OWY4ZGZlOTg2MmJjNGMy",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 242266,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "In The Blossom of Their Shade",
+        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 214747,
+      "name": "Get It \u2018Fore It\u2019s Gone",
+      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "In The Blossom of Their Shade",
-        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Get It \u2018Fore It\u2019s Gone",
-      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "I Am Not There Anymore",
-        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
-      },
-      "artists": [
-        {
-          "name": "The Clientele",
-          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Blue Over Blue",
-      "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Shadowglow",
         "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 214748,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "I Am Not There Anymore",
+        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
+      },
+      "artists": [
+        {
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Blue Over Blue",
+      "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Still Life (feat. Joseph)",
         "url": "https://open.spotify.com/album/6UxKGcyntU9E3f8Zx4PZ4b"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/6wurCbhueS1T61C2BgRHnL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Show Up",
-        "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Show Up",
-      "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Shepherd in a Sheepskin Vest",
-        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "What Comes After Certainty",
-      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/55RwdXfVSWCReqDBioMxVV"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Shepherd in a Sheepskin Vest",
+        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "What Comes After Certainty",
+      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -2431,22 +2447,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Wayfinder",
         "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
@@ -2459,6 +2459,22 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2479,22 +2495,6 @@
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-03-01 05:00:00",

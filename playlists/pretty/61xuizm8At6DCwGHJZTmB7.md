@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2023 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,270 likes - 200 songs - 18 hr 53 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,271 likes - 200 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

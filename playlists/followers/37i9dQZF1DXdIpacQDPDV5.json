@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 306743,
+  "2024-03-03": 306751,
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: John Summit and Hayla",
+  "description": "The best of today's dance hits. Cover: Sultan + Shepard",
   "name": "mint Canada",
   "tracks": [
     {
@@ -1828,6 +1828,28 @@
     },
     {
       "album": {
+        "name": "Bad Town",
+        "url": "https://open.spotify.com/album/2KggVcAY0RMidWcqJoEF5U"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155691,
+      "name": "Bad Town",
+      "url": "https://open.spotify.com/track/6UoFZEFRgy19CsQOfCJQmp"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
       },
@@ -2761,7 +2783,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 209433,
       "name": "Bringing Me Home",
       "url": "https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7"
@@ -6101,6 +6123,28 @@
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "album": {
+        "name": "Everywhere, Nowhere",
+        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Everywhere, Nowhere",
+      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
     },
     {
       "album": {
@@ -9505,7 +9549,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220588,
       "name": "Hungover (with Camden Cox)",
       "url": "https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi"
@@ -9611,7 +9655,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199696,
       "name": "I Believe In Love Again - Jex Opolis Remix Edit",
       "url": "https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu"
@@ -10037,6 +10081,28 @@
       "duration_ms": 158546,
       "name": "I Wonder (feat. Shai)",
       "url": "https://open.spotify.com/track/1aRdoiTy948hSqKI4bEyvJ"
+    },
+    {
+      "album": {
+        "name": "Endless, Dawn",
+        "url": "https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292254,
+      "name": "I'll Be Here",
+      "url": "https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi"
     },
     {
       "album": {
@@ -10641,7 +10707,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 150461,
       "name": "Into Me",
       "url": "https://open.spotify.com/track/6S5Io7s3oUEY3ti6hoE6NL"
@@ -11049,7 +11115,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173000,
       "name": "Just Wanna Dance",
       "url": "https://open.spotify.com/track/6XykCAI8phR1uYnKCDaxt6"
@@ -11988,6 +12054,32 @@
     },
     {
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -12633,7 +12725,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180480,
       "name": "Lost In Mumbai",
       "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
@@ -12779,7 +12871,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
@@ -12973,6 +13065,28 @@
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
+    },
+    {
+      "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
       "album": {
@@ -16441,7 +16555,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 189840,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/4WwfpOIISmychHPjGomGOj"
@@ -18253,6 +18367,32 @@
       "duration_ms": 279088,
       "name": "Running Blind",
       "url": "https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up"
+    },
+    {
+      "album": {
+        "name": "Runny Nose",
+        "url": "https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "NKY",
+          "url": "https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Runny Nose",
+      "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
     },
     {
       "album": {
@@ -20185,6 +20325,32 @@
       "duration_ms": 184761,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5hDUXwlPXCJ07mP7lEem9k"
+    },
+    {
+      "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
     },
     {
       "album": {
@@ -22226,6 +22392,32 @@
     },
     {
       "album": {
+        "name": "Thrilla",
+        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134222,
+      "name": "Thrilla",
+      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
+    },
+    {
+      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
       },
@@ -23383,6 +23575,24 @@
       "duration_ms": 292443,
       "name": "Volition",
       "url": "https://open.spotify.com/track/0nGRMJGfNJVY9SNGckjP04"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {
@@ -25445,7 +25655,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"

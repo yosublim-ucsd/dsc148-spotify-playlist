@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,919 likes - 222 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,950 likes - 222 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 221 | [Saeti](https://open.spotify.com/track/33pQ0Ab4hb0gZIuFmxstQS) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Saeti](https://open.spotify.com/album/1W9hJSSrJcaknCU4DFkico) | 2:06 |
 | 222 | [A Few Hours](https://open.spotify.com/track/20rCllouidVPzTggWjTYoS) | [Ajola Dipa](https://open.spotify.com/artist/3TIcmGpg3CkztLlSXNOlqF) | [A Few Hours](https://open.spotify.com/album/1cZBHiBjw7qvv1qeKDCcsv) | 2:18 |
 
-Snapshot ID: `MCw1NDkyM2I2MjkyMmY5NzExNmE5MzI0YjY3OTIxMGYwOTJiZmM3OWIw`
+Snapshot ID: `MCw4ZjIxNjQyMGYyNTk0ZmU4OGRiMjllMmQxOTllYTNhMjRiOGIxMjY4`

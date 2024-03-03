@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,594 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,590 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 51 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
 | 52 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
 | 53 | [Cempasúchil](https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música \(Edición Especial\)](https://open.spotify.com/album/75lParfrGxiexJOFlDh94X) | 4:14 |
-| 54 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
-| 55 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 54 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 55 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
 | 56 | [Gracias A La Vida \- Remasterizado 1983](https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina Y El Mar \(Remasterizado 1983\)](https://open.spotify.com/album/4n8smL6EFarc0we2I7trAP) | 4:05 |
 | 57 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 58 | [La Calaca](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre"](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 86 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
 | 87 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
 | 88 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 |
-| 89 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
-| 90 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 89 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |
+| 90 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
 | 91 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
 | 92 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |
 | 93 | [La Llorona](https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [La Llorona](https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
 | 100 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
 
-Snapshot ID: `MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy`
+Snapshot ID: `MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh`

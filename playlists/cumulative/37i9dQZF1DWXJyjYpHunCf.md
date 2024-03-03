@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Myles Smith
 
-362 songs - 20 hr 46 min
+363 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Mr\. Nobody](https://open.spotify.com/track/4Wt2BCVTuHmOJm6CEGgxaM) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Mr\. Nobody](https://open.spotify.com/album/64OuLnO1a6e8hg5I0EKICU) | 3:21 | 2023-10-06 |  |
 | [Muse](https://open.spotify.com/track/5PAd8j7jtOnTVvqmN2ELf2) | [Simon and the Island](https://open.spotify.com/artist/5SQFUf8WwN1HmEx366givT) | [Simon and the Island](https://open.spotify.com/album/1KxHY8j8mguMqfX3pqPYNB) | 3:12 | 2021-11-12 | 2022-07-07 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-02-21 |  |
-| [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-25 |  |
+| [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-25 | 2024-03-03 |
+| [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 | 2024-02-23 |  |
 | [My Home](https://open.spotify.com/track/0MtfUEHee9p6RsqAwW8gyF) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/1K4dKsiNYFfJBYykQQXw6R) | 3:26 | 2023-10-20 | 2024-02-14 |
 | [My Home](https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Home](https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND) | 3:26 | 2024-02-09 |  |
 | [My Repair](https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 3:05 | 2022-03-12 |  |

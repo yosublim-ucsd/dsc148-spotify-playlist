@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,209 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,272 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Christ Be With Me](https://open.spotify.com/track/0ZJzZI0hyMxWtUg3kOyPce) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [The Brilliance Original Mixtape](https://open.spotify.com/album/0duE0bJzF0cq6n7YNQAP3P) | 3:03 |
 | 100 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
 
-Snapshot ID: `MCxkMjdkOTk3OTE1YzBjZThhMTcxZTEyNmFlYzE5ZTRkYWM3M2Y1OWEw`
+Snapshot ID: `MCw1Y2I2Nzc0ODk1YmRkNGI1NjU4NjM1MzlhNjhiMTNkMTI4NmRjY2Yw`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 7845848,
+  "2024-03-03": 7846498,
   "date_first_scraped": "2019-07-29",
   "description": "Get happy with today's dose of feel-good songs!",
   "name": "Mood Booster",
@@ -563,6 +563,24 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
       "album": {
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/3IHaiorYWOcr8Kzs85PWF7"
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
@@ -3703,6 +3721,28 @@
       "duration_ms": 151733,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/7jaDLcrbilPxoH4mIcYyB3"
+    },
+    {
+      "album": {
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "I GOT YOU (Feat. Lauv)",
+      "url": "https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT"
     },
     {
       "album": {
@@ -8035,6 +8075,24 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "album": {

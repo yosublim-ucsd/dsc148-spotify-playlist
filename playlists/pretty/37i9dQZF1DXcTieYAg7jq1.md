@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Emmy Meli
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,742 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,763 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 100 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 101 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 
-Snapshot ID: `MCxkYzBjYTNhY2ZkOGFiNzcxMWZkNDI5MmFkNmY4ZmJlZWFmZmI1ZDM3`
+Snapshot ID: `MCw4MzQ5NWJjMjFkZjI5MDA4MDdkYWQzNTE0MDU1NWFjMzRlM2I0MTg1`

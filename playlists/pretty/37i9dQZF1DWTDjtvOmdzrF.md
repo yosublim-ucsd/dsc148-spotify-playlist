@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,133 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,215 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [April](https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 4:21 |
 | 75 | [Indah Pada Waktunya](https://open.spotify.com/track/28Gd45dRqr92unRNIOxSWZ) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Indah Pada Waktunya](https://open.spotify.com/album/58N9l8IdTOtwOk2C9FEdA4) | 4:00 |
 
-Snapshot ID: `MCwzZjhhZmI5YWI3NjIyNWRiMzE1YzdhOTM0ZmU3MTdiNzBiMThhODAw`
+Snapshot ID: `MCwzYTI0MmVjYTRmYzU2OTM0NzQxNGI4NTI4NGVlMWViM2UwNGFlODYy`

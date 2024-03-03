@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 597140,
+  "2024-03-03": 597399,
   "date_first_scraped": "2022-03-01",
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Miel San Marcos</a> y <a href=\"spotify:artist:4fdCGYM7dtJLa3LvR1ccto\">Gabriela Rocha</a> ",
   "name": "\u00c9xitos Cristianos",
@@ -2018,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Adoraci\u00f3n II",
+        "url": "https://open.spotify.com/album/7FU46piVdzeRmyUPvgL32z"
+      },
+      "artists": [
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/7pSt0qyCuUK6ZXREKa4SxF"
+    },
+    {
+      "album": {
         "name": "Con Qu\u00e9 Pagar\u00e9?",
         "url": "https://open.spotify.com/album/5SOg5hB6NprWFePQ4uRcn7"
       },
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 225000,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3VYlrsMKVYCZ8s8JCMEhGT"
@@ -2654,6 +2672,32 @@
     },
     {
       "album": {
+        "name": "c\u00f3mo pasar\u00e1 ??",
+        "url": "https://open.spotify.com/album/2oGMEJBHE2x01zrEFJMgxO"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Lucas Consuegra",
+          "url": "https://open.spotify.com/artist/4xinFSeogiKTV50SiA7bdH"
+        },
+        {
+          "name": "Melannie Betancourth",
+          "url": "https://open.spotify.com/artist/6hII7gniNzgpnuAHuNm8A6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "c\u00f3mo pasar\u00e1 ??",
+      "url": "https://open.spotify.com/track/4H2dfPSnJJwAeYAk1qMMYU"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Te Amamos (feat. Karen Espinosa & Johnny Pe\u00f1a)",
         "url": "https://open.spotify.com/album/0Gf8wWBy3I08ERf6IGwrSq"
       },
@@ -2903,7 +2947,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184917,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1"
@@ -4502,6 +4546,28 @@
     },
     {
       "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3mCwJlqdenJPZ2Idfi21Id"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Damaris Guerra",
+          "url": "https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204070,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/4ft3rwQR8NBX7NAGBKebAd"
+    },
+    {
+      "album": {
         "name": "Fiel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8"
       },
@@ -5310,6 +5376,24 @@
     },
     {
       "album": {
+        "name": "Hosanna, Maranata",
+        "url": "https://open.spotify.com/album/0vgZbSM8fSBTfQGIGwFKHm"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230197,
+      "name": "Hosanna, Maranata",
+      "url": "https://open.spotify.com/track/6FMUrIgZx8CXpHPfdwtcNb"
+    },
+    {
+      "album": {
         "name": "Il\u00f3gico",
         "url": "https://open.spotify.com/album/0D95KEMVwtZsLrAT19YDA2"
       },
@@ -6001,7 +6085,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 189887,
       "name": "lo que crees de m\u00ed",
       "url": "https://open.spotify.com/track/6SHBIYT7Woz5wAF0J3Vgq0"
@@ -6687,6 +6771,28 @@
       "duration_ms": 298976,
       "name": "Mi Dios",
       "url": "https://open.spotify.com/track/2sv8SthOOhWNAd9diJG7d2"
+    },
+    {
+      "album": {
+        "name": "Mi Dios Es El Primero",
+        "url": "https://open.spotify.com/album/7qkNBwRcLHZ4MKtUBFK1qE"
+      },
+      "artists": [
+        {
+          "name": "Lorens Salcedo",
+          "url": "https://open.spotify.com/artist/0jE7MuW4BnzjciUx3nTJYH"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580150,
+      "name": "Mi Dios Es El Primero",
+      "url": "https://open.spotify.com/track/5hkIqZsDpgfm7hhtXqc602"
     },
     {
       "album": {
@@ -8221,7 +8327,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 203861,
       "name": "Profundo II",
       "url": "https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm"
@@ -8647,7 +8753,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198529,
       "name": "Rey De Reyes // La Doxologia",
       "url": "https://open.spotify.com/track/6xSHR9HwQU79gwHO4eZfFi"
@@ -9331,7 +9437,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 272609,
       "name": "Solo Con Tu Voz",
       "url": "https://open.spotify.com/track/0HBvhub2pRc3eCx56OnAXN"
@@ -10407,6 +10513,24 @@
       "duration_ms": 224403,
       "name": "Tu Manto - Remix",
       "url": "https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok"
+    },
+    {
+      "album": {
+        "name": "Tu Mesa Sana (A Tua Mesa Cura)",
+        "url": "https://open.spotify.com/album/1zesMsitrOAZ0C2bsFqlwy"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345996,
+      "name": "Tu Mesa Sana (A Tua Mesa Cura)",
+      "url": "https://open.spotify.com/track/3PGs71XnOHZhOWlrIZLbv9"
     },
     {
       "album": {

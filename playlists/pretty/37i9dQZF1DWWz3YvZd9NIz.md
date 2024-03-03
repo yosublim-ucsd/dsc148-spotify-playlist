@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,463 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,699 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 70 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
 
-Snapshot ID: `MCwwMGYwMTkzM2Q1ZTkyZDdhZjFlMWYyMTViNmRiOTgyNDNjYzkyNjA4`
+Snapshot ID: `MCxhODIxZDg0NGZmYjkyZTllMjAwODBhZmQ5Mjc1MzZiZWQzYjE3M2Rm`

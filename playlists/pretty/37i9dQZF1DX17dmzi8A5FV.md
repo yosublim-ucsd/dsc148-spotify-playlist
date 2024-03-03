@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,244 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,394 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 63 | [Summer Girls](https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:17 |
 | 64 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |
 | 65 | [Everybody Get Up \- Radio Edit](https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:03 |
-| 66 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
+| 66 | [It's Alright \- The Guvnor Mix](https://open.spotify.com/track/0hiUOCWNdPefjaEAjcJ8Cq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Walthamstow](https://open.spotify.com/album/5hVUeW05qGAIc1YA3h2Y7O) | 4:40 |
 | 67 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
 | 68 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
 | 69 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
-| 70 | [It's Alright \- The Guvnor Mix](https://open.spotify.com/track/0hiUOCWNdPefjaEAjcJ8Cq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Walthamstow](https://open.spotify.com/album/5hVUeW05qGAIc1YA3h2Y7O) | 4:40 |
+| 70 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
 | 71 | [Waves](https://open.spotify.com/track/4U0N9zBsEYqGCqiK0yfHa3) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/41AXbfQZyrp4Jkf0s5FyjX) | 3:14 |
 | 72 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
 | 73 | [All or Nothing](https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 4:41 |
 | 74 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 |
 | 75 | [Chloe \(You're the One I Want\)](https://open.spotify.com/track/036GQb6SETOJJG8BxJTNxc) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:42 |
 
-Snapshot ID: `MCxiZGZiMjMzOGRjYzI3ODQ1OTNiMzFkNDdiMTM4OWViZGE4NTRjN2Rl`
+Snapshot ID: `MCxhNzg5MDE3YWI0OGRjNmIwOGYzMjVhNjAxZGM4NmY3NzZlYWIyNWU4`

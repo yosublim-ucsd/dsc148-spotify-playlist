@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 170475,
+  "num_followers": 170575,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGRmZmJiYjdiZDliODllNzJjNzg5MmE3NWU0MjRmYzVjNWE4MzFj",
+  "snapshot_id": "MCxjYzllNzlmYjMyMmUxODM4ZjliMWIxODI4ZTdlN2FhZjAxYjRjMjll",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Somebody Loan Me A Dime (Remastered)",
         "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 176747,
       "name": "Somebody Loan Me A Dime - Remastered",
       "url": "https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Soul Tender",
         "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 459940,
       "name": "Midnight Healing",
       "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "The Amogla Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lee & His Mean Blues Band",
+          "url": "https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg"
+        }
+      ],
+      "duration_ms": 299973,
+      "name": "Mean Blues",
+      "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 316666,
       "name": "You Don't Want Me",
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "The Amogla Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
-      },
-      "artists": [
-        {
-          "name": "Floyd Lee & His Mean Blues Band",
-          "url": "https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg"
-        }
-      ],
-      "duration_ms": 299973,
-      "name": "Mean Blues",
-      "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Blues On The Bay",
-      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues",
+      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Willie's Blues",
         "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/48gcTGds5MLWEURDjbpwYE"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues",
-      "url": "https://open.spotify.com/track/2fMyMnv8L2fqCoVAB97jj3"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 443160,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+      "duration_ms": 443160,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1707,6 +1691,22 @@
       "duration_ms": 263893,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
+      },
+      "artists": [
+        {
+          "name": "Sean Taylor",
+          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
+        }
+      ],
+      "duration_ms": 153276,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
     }
   ],
   "unique_name": "Blues on the Rocks",

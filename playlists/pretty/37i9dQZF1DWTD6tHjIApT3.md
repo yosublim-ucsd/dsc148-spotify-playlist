@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,383 likes - 99 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,453 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 98 | [UP TO ME!](https://open.spotify.com/track/0J9Uc8VeEljV62jAcdLXQO) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli) | 3:30 |
 | 99 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 
-Snapshot ID: `MCxlZGJlZDYyYmRmNTRlYThlMjQwN2NjOTFmMjA3ZTQwYjBjN2I5MGVl`
+Snapshot ID: `MCwzMTQyMThmNGRkYmI4MWQ0ZWNhMmEzNjdiNDBlMjQyNjdjOTE3MDQ2`

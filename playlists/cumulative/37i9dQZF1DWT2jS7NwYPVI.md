@@ -4,7 +4,7 @@
 
 > your rock/alt cheat sheet \| Cover: Been Stellar
 
-2,193 songs - 4 day 19 hr 44 min
+2,194 songs - 4 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,7 +1225,8 @@
 | [Memory](https://open.spotify.com/track/21kvruyJddCLQguDk9oklX) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Memory](https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P) | 3:17 | 2021-12-03 | 2022-03-18 |
 | [MEMORY\_FRACTURE](https://open.spotify.com/track/0iTRaGiDId80CearDCsyLC) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MEMORY\_FRACTURE](https://open.spotify.com/album/6ZMsqaNvqJTVLij2sNJfUc) | 4:18 | 2022-04-22 | 2022-06-18 |
 | [MENTHOL\*](https://open.spotify.com/track/72rEOdEzgGc81Gos5dD0Je) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/4fdI8lc6iPhJrsNi7pBgPl) | 3:07 | 2021-12-10 | 2022-02-26 |
-| [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 |  |
+| [Mercy](https://open.spotify.com/track/0Y8pSUf21GSadiskxuRhUl) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/0bHyVYXp5wWwo7smsgGBLC) | 3:07 | 2024-03-01 |  |
+| [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 | 2024-03-03 |
 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 | 2023-09-22 | 2023-10-21 |
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2022-03-04 | 2022-04-23 |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2023-11-17 | 2024-01-11 |

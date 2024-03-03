@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
+  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -699,22 +699,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Broken Boy (feat. Iggy Pop)",
-        "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 163207,
-      "name": "Broken Boy (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -735,18 +731,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+        "name": "Broken Boy (feat. Iggy Pop)",
+        "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+      "duration_ms": 163207,
+      "name": "Broken Boy (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",

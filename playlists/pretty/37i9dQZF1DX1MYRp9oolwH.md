@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,793 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,830 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 24 | [Maaye Chesi \(From "Devil \- The British Secret Agent"\)](https://open.spotify.com/track/3NJa12j9bLQ7eZHg0JNrRD) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Satya\. R\. V](https://open.spotify.com/artist/26MD358Q6ZiDWOCo4qkn4M), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maaye Chesi \(From "Devil \- The British Secret Agent"\)](https://open.spotify.com/album/7GFHgmIeKYt8B9TYO9hPvy) | 4:06 |
 | 25 | [Na Roja Nuvve \(From "Kushi"\)](https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Na Roja Nuvve \(From "Kushi"\) \- Single](https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS) | 4:02 |
 | 26 | [Nee Jathai](https://open.spotify.com/track/5tnfQ6duDT5puWQgXdM3iu) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N), [Rehman](https://open.spotify.com/artist/6rcVCXZM8jdsftTbGBSec9) | [Gandeevadhari Arjuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GEBKVxYcebjsTSQOndDym) | 3:54 |
-| 27 | [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Kallatho Kaatesinave \(From "Rudramkota"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0k6PpEYhxbIMQmJNEmMNLp) | 4:39 |
+| 27 | [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb) | [U.V.Niranjan](https://open.spotify.com/artist/1HhXD7tI767VTOcesD5fRf), [Vinod Kumar](https://open.spotify.com/artist/7uqmh3Pn62x0o8whff0egz), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/album/6i6vtXVWJb6LIZlL36t5XN) | 4:39 |
 | 28 | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj) | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi) | 3:19 |
 | 29 | [Koyilamma \(From "Love Reddy"\)](https://open.spotify.com/track/7aRv44LmE8rhAVwT6SRGtD) | [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Koyilamma \(From "Love Reddy"\)](https://open.spotify.com/album/4Xk6nYXU18ONTbWuxFy4KE) | 3:54 |
 | 30 | [Sittharala Sithravathi](https://open.spotify.com/track/41fwiD8lWd33niYg3yQ14D) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Aadikeshava](https://open.spotify.com/album/4LXMolmh5RAfzyjqZ2tnxZ) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Neelaa Nannilaa](https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [7:11 PM](https://open.spotify.com/album/3XgIwL4L4wOU7vSeOJqU5q) | 3:48 |
 | 50 | [Nalo Nena Natho Nena \(From "Men Too"\)](https://open.spotify.com/track/6qDgzlheGhzLWVOgPIl2QG) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Elisha Praveen G](https://open.spotify.com/artist/54lR2AS080rX9Pfv05qqeQ) | [Nalo Nena Natho Nena \(From "Men Too"\) \- Single](https://open.spotify.com/album/3Wr3YjX3t5HtehdRow7joC) | 2:29 |
 
-Snapshot ID: `MCw1NGFlNjRlOTFkNTY1NjI5Nzg3ODIyNDYxYmYzNDkyMDQ1MTE5NzA0`
+Snapshot ID: `MCxjMzNjZWZiMGE3OTFlMzc5ZTFmOTY1NDBmMDJlMDQ2ODNhMzNkMmM3`

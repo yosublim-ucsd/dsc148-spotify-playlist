@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 102773,
+  "2024-03-03": 102805,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -5937,7 +5937,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160941,
       "name": "CREEPIN",
       "url": "https://open.spotify.com/track/4nsQnnPYRr91YasY3pRM7P"
@@ -10909,7 +10909,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 223543,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
@@ -15459,7 +15459,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224000,
       "name": "LATHOS STIGMI",
       "url": "https://open.spotify.com/track/0QYvLPWRd09XPfn8LvIgNl"
@@ -24027,7 +24027,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -28369,7 +28369,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188817,
       "name": "TOO BASIC",
       "url": "https://open.spotify.com/track/3AK7Flu634dMN6XoqcBKnh"
@@ -29991,6 +29991,28 @@
       "duration_ms": 190941,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/6tGl1mj5CyoB1hUtOKyhkQ"
+    },
+    {
+      "album": {
+        "name": "VROXI",
+        "url": "https://open.spotify.com/album/2n2G8ca5ixnqFX2BcQjVGe"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146971,
+      "name": "VROXI",
+      "url": "https://open.spotify.com/track/3locVDFVD0EIROWR3ORKGx"
     },
     {
       "album": {

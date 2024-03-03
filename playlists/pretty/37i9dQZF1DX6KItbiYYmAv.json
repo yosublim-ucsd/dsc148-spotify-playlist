@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731725,
+  "num_followers": 731786,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODVkMWEwMGQ1ZmFkNzljZjdiNjQ1MDgxZDA1YTJlZGEyODMzMDgy",
+  "snapshot_id": "MCxkMWU1NzAzYmQ2MzIwMTU3NzNhMGExNzRkNjRkOGVhYjUyMWY0YmI5",
   "tracks": [
     {
       "added_at": "2024-02-01 23:02:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-02-01 23:02:00",
       "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2024-02-01 23:02:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-02-01 23:02:00",
-      "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2024-02-01 23:02:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-01 23:02:00",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
-    },
-    {
-      "added_at": "2024-02-01 23:02:00",
-      "album": {
         "name": "Welcome To The Cruel World",
         "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 204360,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
+    },
+    {
+      "added_at": "2024-02-01 23:02:00",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2024-02-01 23:02:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-02-01 23:02:00",
       "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu"
+    },
+    {
+      "added_at": "2024-02-01 23:02:00",
+      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2024-02-01 23:02:00",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
-    },
-    {
-      "added_at": "2024-02-01 23:02:00",
-      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2024-02-01 23:02:00",
       "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny"
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
       "artists": [
         {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
         }
       ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu"
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2024-02-01 23:02:00",

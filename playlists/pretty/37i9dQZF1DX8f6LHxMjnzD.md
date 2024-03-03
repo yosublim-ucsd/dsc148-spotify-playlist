@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: mgk
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,862 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,900 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Do Dat Baby](https://open.spotify.com/track/75DcS0cmvDFFWni1ah7UGE) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Do Dat Baby](https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0) | 3:07 |
 | 40 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 |
 
-Snapshot ID: `MCw3ZDQ3OGRlMGUxOTNiZWVhMjAwODg4NjRmZmZiYWM0YTQ5NTVjOWE0`
+Snapshot ID: `MCxjYTQzMTMxN2JlNmU3YWMyNzNjODUwNDg2NjI5YWY2NTAyY2E3NWU5`

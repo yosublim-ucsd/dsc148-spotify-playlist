@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 18028,
+  "2024-03-03": 18024,
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: RaiNao",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Diego Torres",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -571,6 +571,24 @@
       "duration_ms": 91384,
       "name": "ADVAE",
       "url": "https://open.spotify.com/track/3AsQGp6j8ckBnihho9Ehyy"
+    },
+    {
+      "album": {
+        "name": "Radio Sunshine",
+        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "After",
+      "url": "https://open.spotify.com/track/1wqemF4W6m8ngByUudBNVM"
     },
     {
       "album": {
@@ -3114,6 +3132,24 @@
     },
     {
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177898,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/0we5p19SNAg4cWU7H7bDZW"
+    },
+    {
+      "album": {
         "name": "MUCHO TXT",
         "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
@@ -4558,6 +4594,28 @@
     },
     {
       "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Berta Rojas",
+          "url": "https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188660,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/5vdJji14SAJksjDYl0uzAs"
+    },
+    {
+      "album": {
         "name": "alivio",
         "url": "https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI"
       },
@@ -5216,6 +5274,24 @@
     },
     {
       "album": {
+        "name": "en mis senti",
+        "url": "https://open.spotify.com/album/2VGkPWcXxzmail4Xj3axpl"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196488,
+      "name": "en mis senti",
+      "url": "https://open.spotify.com/track/6ISpA3TnDKUT7DrZniNDSi"
+    },
+    {
+      "album": {
         "name": "D\u00e9cimo Cuarto",
         "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
@@ -5555,6 +5631,24 @@
       "duration_ms": 404933,
       "name": "Esto Es Vida - Live",
       "url": "https://open.spotify.com/track/0sJXeMEkWXyxIdCegVL5vo"
+    },
+    {
+      "album": {
+        "name": "estrella$ en el techo",
+        "url": "https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140916,
+      "name": "estrella$ en el techo",
+      "url": "https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8"
     },
     {
       "album": {
@@ -6818,6 +6912,24 @@
     },
     {
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -7158,6 +7270,28 @@
     },
     {
       "album": {
+        "name": "Kapun",
+        "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183422,
+      "name": "Kapun",
+      "url": "https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM"
+    },
+    {
+      "album": {
         "name": "LUNA AZUL EN TOKYO",
         "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
       },
@@ -7445,6 +7579,24 @@
       "duration_ms": 151988,
       "name": "LA NENA DE ARGENTINA",
       "url": "https://open.spotify.com/track/4u3vvLgg6AVkdhitdzA0RG"
+    },
+    {
+      "album": {
+        "name": "la nena de un gang$ter",
+        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206256,
+      "name": "la nena de un gang$ter",
+      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
     },
     {
       "album": {
@@ -8100,6 +8252,24 @@
     },
     {
       "album": {
+        "name": "idek",
+        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152044,
+      "name": "lento",
+      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+    },
+    {
+      "album": {
         "name": "Fin de Semana Largo",
         "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
       },
@@ -8365,6 +8535,24 @@
       "duration_ms": 180565,
       "name": "LO LOGR\u00c9",
       "url": "https://open.spotify.com/track/46WF4Sv3OOpxuoK4kFqXiC"
+    },
+    {
+      "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
     },
     {
       "album": {
@@ -8829,6 +9017,24 @@
       "duration_ms": 191068,
       "name": "Maldita Apuesta",
       "url": "https://open.spotify.com/track/7gakV9BayM9mpnGjBIqMDv"
+    },
+    {
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242074,
+      "name": "MALDITO ALCOHOL",
+      "url": "https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY"
     },
     {
       "album": {
@@ -10669,6 +10875,24 @@
       "duration_ms": 130666,
       "name": "Noche Pasajera",
       "url": "https://open.spotify.com/track/6znS2IFjc2JLKmnmphkjl8"
+    },
+    {
+      "album": {
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Noche Sola",
+      "url": "https://open.spotify.com/track/5s0oqsDFOm3R2IOyeqREKg"
     },
     {
       "album": {
@@ -12646,6 +12870,24 @@
     },
     {
       "album": {
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
+    },
+    {
+      "album": {
         "name": "Fin de Semana Largo",
         "url": "https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7"
       },
@@ -13237,6 +13479,24 @@
       "duration_ms": 210130,
       "name": "Sad Gang (Versi\u00f3n Reggaet\u00f3n)",
       "url": "https://open.spotify.com/track/2XkAudwRY3mHW3MGMT61AA"
+    },
+    {
+      "album": {
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Saico",
+      "url": "https://open.spotify.com/track/0Fr9JCHdkU2NsGxmBYvXuA"
     },
     {
       "album": {
@@ -14712,6 +14972,24 @@
     },
     {
       "album": {
+        "name": "idek",
+        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91826,
+      "name": "te amo",
+      "url": "https://open.spotify.com/track/3SuQdW3lAioU7FOrr1VV38"
+    },
+    {
+      "album": {
         "name": "TE ENCANT\u00d3",
         "url": "https://open.spotify.com/album/1JP7wPQ4JkAGnsw0Njk1Tx"
       },
@@ -14999,6 +15277,24 @@
       "duration_ms": 206803,
       "name": "Todo lo que puedo darte",
       "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139029,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/04ggLMxWlifAbxfhq2rGyd"
     },
     {
       "album": {
@@ -15710,6 +16006,24 @@
     },
     {
       "album": {
+        "name": "Radio Sunshine",
+        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Vacation Bae",
+      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
+    },
+    {
+      "album": {
         "name": "Vajkoczy",
         "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
       },
@@ -16381,6 +16695,24 @@
       "duration_ms": 122666,
       "name": "WALKING",
       "url": "https://open.spotify.com/track/5Eyxp9HGI3XPZufAy9mHYh"
+    },
+    {
+      "album": {
+        "name": "Radio Sunshine",
+        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/50XxipPJAmRmT0QwcqM82u"
     },
     {
       "album": {

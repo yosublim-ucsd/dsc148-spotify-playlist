@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,558 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,518 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 12 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 |
 | 13 | [样子 \- 电视剧《要久久爱》主题曲](https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [样子 \(电视剧《要久久爱》主题曲\)](https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9) | 4:06 |
 | 14 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
-| 15 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
-| 16 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 |
+| 15 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 |
+| 16 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
 | 17 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
 | 18 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
 | 19 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 | 49 | [Mulher](https://open.spotify.com/track/6rp587rqWb8bw4cUmzBdw3) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 4:49 |
 
-Snapshot ID: `MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj`
+Snapshot ID: `MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw`

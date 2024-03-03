@@ -4,7 +4,7 @@
 
 > Cover: Yeat
 
-60 songs - 2 hr 34 min
+61 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 | 2024-02-21 |
 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 | 2024-02-02 |  |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-12-01 |  |
-| [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2023-12-01 |  |
+| [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2023-12-01 | 2024-03-03 |
+| [Miss The Rage](https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX) | 3:56 | 2023-12-01 |  |
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-12-01 |  |
 | [Money Addicts](https://open.spotify.com/track/0R5awPL6A2oHJuFI0C0dTr) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Money Addicts](https://open.spotify.com/album/6tAtP9Y2Xj6ImN0THsKIDh) | 1:37 | 2023-12-01 |  |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2023-12-01 |  |

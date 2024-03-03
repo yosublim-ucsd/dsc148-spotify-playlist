@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNEYk4npZDx.md) - [plain]
 
 > The music from Love Life on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,047 likes - 104 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,072 likes - 104 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNEYk4npZDx.md) - [plain]
 | 103 | [Summer Brings the Sunshine](https://open.spotify.com/track/4UYKnpqvHrvDKpblMr9JxZ) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6yligzKEGqNHxMWUF6zPiA) | 4:20 |
 | 104 | [Glad and Sorry](https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:06 |
 
-Snapshot ID: `MCwxY2QzYmYzYmVjNTFiM2I3MzFhNGRjY2EzZmM2NmM0NDEwYTA0ZTZi`
+Snapshot ID: `MCwwN2Q1NjZhOTFmOWIxMWRkYzczODE5Y2M1MTE4YmRhMWY3ZjMxYTFj`

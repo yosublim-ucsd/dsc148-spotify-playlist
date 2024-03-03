@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 8587,
+  "2024-03-03": 8586,
   "date_first_scraped": "2023-11-08",
   "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Bombay Bicycle Club",
   "name": "Chill Indie Music",
@@ -989,7 +989,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
@@ -1397,6 +1397,24 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "album": {
+        "name": "Meant",
+        "url": "https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Meant",
+      "url": "https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH"
     },
     {
       "album": {

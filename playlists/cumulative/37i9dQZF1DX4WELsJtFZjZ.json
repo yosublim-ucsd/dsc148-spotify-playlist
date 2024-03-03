@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
@@ -1878,6 +1878,24 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309018,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     },
     {
       "album": {

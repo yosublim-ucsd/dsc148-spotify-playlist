@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,474 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,577 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 60 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 |
 
-Snapshot ID: `MCxhZTcwNzdlNjg5MWE2MDhmMmQ0YTFkYTFjN2U3ZTQyZmI0ZmJkZmJm`
+Snapshot ID: `MCxhYzI5OTA3Y2JjOTdiZTMwYTdlZTU4MGMzMmFmNTc1NzA0NzI0NWM5`

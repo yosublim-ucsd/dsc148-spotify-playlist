@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,543 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,601 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 85 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
 | 86 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
 | 87 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |
-| 88 | [Gozando](https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Gozando](https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC) | 3:36 |
-| 89 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
-| 90 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
-| 91 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
-| 92 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
-| 93 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
-| 94 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK) | 3:33 |
+| 88 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/5CUUtc9NNti7eiTp5yFOCK) | 3:33 |
+| 89 | [Gozando](https://open.spotify.com/track/0o6MsPQs0f2xjkMnahNvby) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Gozando](https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC) | 3:36 |
+| 90 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
+| 91 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
+| 92 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
+| 93 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 |
+| 94 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
 | 95 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
 | 96 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
 | 97 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 | 100 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
 
-Snapshot ID: `MCxhMDY5MmNjZDEwYTA3MWNkNzQ2ZjMwNWQ2Njg1MzMxNGZkNTRiZjEw`
+Snapshot ID: `MCw5ZTViN2RkZDg4MTViODM0NTVlYzhhNTkzODEzMTA3M2M2NmE5NTFk`

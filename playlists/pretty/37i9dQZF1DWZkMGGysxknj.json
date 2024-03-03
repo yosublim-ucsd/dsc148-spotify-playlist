@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 824797,
+  "num_followers": 824811,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTZkYjRkMWJmNmEzYmY3NTU5ZmYyNTk1M2IxMzk3ZmRkNzIyMzJi",
+  "snapshot_id": "MCw3MTM3NDdiMThiNDc1OWE4MWRiOTM2NTUwOWM4MWE2MWU3ZjUxZTBh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "City Of Stars",
         "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 154858,
       "name": "City Of Stars",
       "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
-      },
-      "artists": [
-        {
-          "name": "Powell Sullivan",
-          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
-        }
-      ],
-      "duration_ms": 281302,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Powell Sullivan",
+          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
         }
       ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+      "duration_ms": 281302,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 192853,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1215,6 +1199,22 @@
       "duration_ms": 226877,
       "name": "Bad Liar",
       "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 212624,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/4iNcyb5KYzejr9t5OROcFw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 218157,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/3JnT8BV7zW6uuOWVgec98v"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 218904,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -1791,18 +1807,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
         }
       ],
-      "duration_ms": 218904,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Songs of Dylan",
         "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
       },
@@ -2103,22 +2119,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Physical (Acoustic)",
         "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        },
-        {
-          "name": "Sad Boy",
-          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
-        }
-      ],
-      "duration_ms": 145075,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Mi Gente (Acoustic)",
         "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
@@ -2191,18 +2171,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        },
+        {
+          "name": "Sad Boy",
+          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+      "duration_ms": 145075,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2219,6 +2203,22 @@
       "duration_ms": 244946,
       "name": "Attention",
       "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 182118,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

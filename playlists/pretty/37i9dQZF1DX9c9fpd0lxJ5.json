@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 446774,
+  "num_followers": 446801,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YThlMjkwOTFjMmQyZmU3MjNhYTJkM2QyYjZkYzc2N2IyNzJlMDZi",
+  "snapshot_id": "MCwzY2YwY2I4MDI0NTMwNTRhYjljZWY3MTc3ZmQzNTBjMjczY2Q4NzQ4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Como Si Fuera La Primera Vez",
-        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "Como Si Fuera La Primera Vez",
-      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Como Si Fuera La Primera Vez",
+        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "Como Si Fuera La Primera Vez",
+      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "jard\u00edn de flores",
         "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2024-02-23 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 102223,
+  "2024-03-03": 102252,
   "date_first_scraped": "2022-01-21",
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada.",
   "name": "Mujeres Brav\u00edas",
@@ -2440,6 +2440,24 @@
     },
     {
       "album": {
+        "name": "La Fama de una Dama",
+        "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168317,
+      "name": "La Fama de una Dama",
+      "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+    },
+    {
+      "album": {
         "name": "A Tu Salud",
         "url": "https://open.spotify.com/album/2gOqmt3eRAfyhBfRUb5pjf"
       },
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
@@ -3393,6 +3411,24 @@
       "duration_ms": 185756,
       "name": "Mejor Vida",
       "url": "https://open.spotify.com/track/6QazgEu8ooIRRACpvqd51H"
+    },
+    {
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "album": {
@@ -4287,7 +4323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"

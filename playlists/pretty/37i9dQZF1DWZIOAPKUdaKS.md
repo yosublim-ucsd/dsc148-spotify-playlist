@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,839 likes - 264 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,882 likes - 264 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 263 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 |
 | 264 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 |
 
-Snapshot ID: `MCwwYzVjY2U3ZjhiYmFmMjA1YTliNWZhNjQ2ZjI3ZDc0NzE3ZDQ1ODBi`
+Snapshot ID: `MCw0ODE5YTEyNGNhOWQwYjRlMjdmYmUwNzYxNzljZjZkNzA1M2I0Nzg1`

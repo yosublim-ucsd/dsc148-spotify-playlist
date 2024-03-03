@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 333789,
+  "num_followers": 333873,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3",
+  "snapshot_id": "MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -51,6 +51,26 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/2p62jUmltlSQua2IViQBaz"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -243,22 +243,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
+        "name": "Ring of Ice (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
       },
       "artists": [
         {
-          "name": "Gang Speed",
-          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
         },
         {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 179738,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
+      "duration_ms": 216344,
+      "name": "Ring of Ice - Stereoact Remix",
+      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -283,22 +283,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Ring of Ice (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
       "artists": [
         {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
         }
       ],
-      "duration_ms": 216344,
-      "name": "Ring of Ice - Stereoact Remix",
-      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
+      "duration_ms": 179738,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "I'm Okay",
         "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 176347,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2023-12-01 11:00:00",

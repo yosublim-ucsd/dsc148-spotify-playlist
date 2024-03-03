@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,450 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,485 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Backstage in Minneapolis](https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO Vol\. 5](https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql) | 3:06 |
 | 50 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
 
-Snapshot ID: `MCxlZjhiMTg4MTRmM2I4ODFhYWJhMWNmOTU2ZjdkNTY4MDdjZGViYTA4`
+Snapshot ID: `MCwwMzU3YzcxY2Q0ZmUzOWNkNGFhNDk5YTU0NTQyN2ZkYjM4NGFmNDkw`

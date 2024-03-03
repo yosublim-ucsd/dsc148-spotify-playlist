@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,554 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,600 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 44 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 45 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 |
 | 46 | [Libre \(feat\. Tommy Royale\)](https://open.spotify.com/track/7GloK7WTwb5wK8rIjymhRC) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
-| 47 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
+| 47 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
 | 48 | [Pray for Me](https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pray for Me](https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H) | 2:45 |
-| 49 | [Praise](https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Praise](https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3) | 2:03 |
+| 49 | [Good News](https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:13 |
 | 50 | [Tricky](https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Tricky](https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB) | 2:12 |
 | 51 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 52 | [NO WEAPON](https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [NO WEAPON](https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 100 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 |
 
-Snapshot ID: `MCxmZTQyNmQ2MjA3MmE0NmEwNTkxZjliYjllZmQ5YTMxY2VkZGQxZGU3`
+Snapshot ID: `MCwzZjFlNmUwODdhYzhkZWM5M2M4NmJkY2VhOTBlYTczNDdmZjYyNTNk`

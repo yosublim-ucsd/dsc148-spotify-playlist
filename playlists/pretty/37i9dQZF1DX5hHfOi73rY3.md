@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,424 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,474 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 |
 | 50 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
 
-Snapshot ID: `MCxiOWZmOGFiMTMzOWNiM2ZiMGViYTUxNmM2YTlkNjk2NjNkNjVmMTE2`
+Snapshot ID: `MCxkMjkzOTQ1MWFlY2RmNjZmNGM2NGZiZDM1ODc5YzI3NjdkZThmZGYy`

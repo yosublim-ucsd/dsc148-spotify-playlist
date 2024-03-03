@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,497 likes - 508 songs - 1 day 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,499 likes - 508 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,8 +210,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 200 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 201 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
 | 202 | [Come On Down](https://open.spotify.com/track/4HetWr51uag7ayWoZAX9d4) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 4:17 |
-| 203 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
-| 204 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 |
+| 203 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 |
+| 204 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
 | 205 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
 | 206 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
 | 207 | [All My Tomorrows](https://open.spotify.com/track/5XZtY0wYBt5Hi5fY9I00Dy) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:46 |
@@ -237,8 +237,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 227 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 228 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
 | 229 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
-| 230 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
-| 231 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 230 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 231 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
 | 232 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 233 | [I'll Say Good\-Bye For The Two Of Us](https://open.spotify.com/track/41UPzh1tCy4YPexDGov4Gq) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Greatest Hits](https://open.spotify.com/album/7AP7VvN3oX4fEEvW2bdbo9) | 4:37 |
 | 234 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
@@ -254,8 +254,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 244 | [Everything Changes](https://open.spotify.com/track/378MBhAXwx1OexsqBZMBGa) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:24 |
 | 245 | [If You Could See You \(Through My Eyes\)](https://open.spotify.com/track/6VcWyiv7ILCFkJ4QW061P4) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:57 |
 | 246 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
-| 247 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
-| 248 | [You Are My Home](https://open.spotify.com/track/4I5gpBUfTcqJHO93byBpj3) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dance With Me Music From The Motion Picture](https://open.spotify.com/album/4bos6gNopheWkjbVnf6sGj) | 5:09 |
+| 247 | [You Are My Home](https://open.spotify.com/track/4I5gpBUfTcqJHO93byBpj3) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dance With Me Music From The Motion Picture](https://open.spotify.com/album/4bos6gNopheWkjbVnf6sGj) | 5:09 |
+| 248 | [Cry Over Me](https://open.spotify.com/track/1XUcDN732D3YOYtZjAEq02) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell 3](https://open.spotify.com/album/3Az1FmmreuG2fS7uCU6VPJ) | 4:38 |
 | 249 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 250 | [Careless Heart](https://open.spotify.com/track/3LQFJ4XfUy8SqSM7vQgFqM) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 4:08 |
 | 251 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 507 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 508 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDBhYTIzMzIwODQ3YWUwMjVkOTM5N2VmYjJmOGE4Yjc2Mg==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDA3N2RiOTY4MjliZThkYjNlNWY5Yzg5NzZlNmQzNDIzMA==`

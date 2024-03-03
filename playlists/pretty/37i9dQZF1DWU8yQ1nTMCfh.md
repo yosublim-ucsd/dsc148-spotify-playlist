@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,271 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,294 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 74 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
 | 75 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 |
 
-Snapshot ID: `MCwzZmYxN2NjODFlMTIzZTljMWMyNWVkYzQ1MGJmZGFmYWQwN2I4NmEx`
+Snapshot ID: `MCwwM2UyOGFlMGVkNTNkMzczZDBmMWI3ZGI4YTExYWFhNzRmNzA4NGM3`

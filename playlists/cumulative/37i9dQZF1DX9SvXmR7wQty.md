@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Marie\-Mai
 
-2,352 songs - 5 day 5 hr 36 min
+2,353 songs - 5 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [440](https://open.spotify.com/track/6VeMApCAe4bx2Z79IClTjs) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Staccway](https://open.spotify.com/artist/49kOX9GLJqL1gMQNFLqeNJ), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Kurrency](https://open.spotify.com/album/35j7uGCXwPDwoislpwGLga) | 3:18 | 2022-09-02 | 2022-09-17 |
 | [48H](https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Libre](https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy) | 2:59 | 2023-12-15 | 2024-01-13 |
 | [4h30](https://open.spotify.com/track/3diDGmZXIAUdigweJUS3aA) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm), [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Rien n'a changé](https://open.spotify.com/album/27CuGXzwlWOTrLdy9GzGBD) | 2:13 | 2022-04-22 | 2022-04-29 |
+| [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-01 |  |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2021-12-31 | 2022-01-22 |
 | [500](https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [500](https://open.spotify.com/album/0OOhemBhXqxbrahJbrNSUD) | 2:49 | 2023-12-22 | 2024-01-20 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 | 2022-07-09 |
@@ -2064,7 +2065,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 |  |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
-| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 |  |
+| [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 | 2024-03-03 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 | 2024-01-24 |
 | [Terre de nos aïeux](https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Terre de nos aïeux](https://open.spotify.com/album/27Wzl8f2PhavvspsLTmaci) | 3:52 | 2022-01-14 | 2022-01-22 |
 | [Tes mots couverture](https://open.spotify.com/track/5raETuowQmDMYsQCjRyrbP) | [Charles Robert](https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h) | [Tes mots couverture](https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW) | 3:00 | 2022-10-14 | 2022-10-22 |

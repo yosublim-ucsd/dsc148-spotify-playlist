@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 46244,
+  "num_followers": 46271,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1",
+  "snapshot_id": "MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
       },
       "artists": [
         {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -859,22 +863,34 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Gaslighter's Ball",
-        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
         }
       ],
-      "duration_ms": 190956,
-      "name": "Gaslighter's Ball",
-      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -895,22 +911,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
-      },
-      "artists": [
-        {
-          "name": "Curtis Baker & The Bravehearts",
-          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Blues On Blues",
         "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
       },
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "R&B from the Marquee / At the Cavern (Remastered)",
-        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
       },
       "artists": [
         {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+          "name": "Curtis Baker & The Bravehearts",
+          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
         }
       ],
-      "duration_ms": 150465,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+      "duration_ms": 187582,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
       },
       "artists": [
         {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
         }
       ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
     },
     {
       "added_at": "2023-08-23 10:31:46",

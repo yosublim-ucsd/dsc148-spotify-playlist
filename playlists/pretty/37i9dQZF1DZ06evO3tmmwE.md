@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 6 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 |
 | 7 | [Colorados](https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:59 |
 | 8 | [Cleto's Cumbia](https://open.spotify.com/track/6FV2yWirHKhStM39YqTUZ6) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:43 |
-| 9 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
-| 10 | [Uno Cuhh](https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Uno Cuhh](https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE) | 2:34 |
+| 9 | [Uno Cuhh](https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Chingo Bling](https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5) | [Uno Cuhh](https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE) | 2:34 |
+| 10 | [Mexicanos](https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Izzy93](https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 1:47 |
 | 11 | [Que Caramba](https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Grupo Zaaz](https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw), [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 4:24 |
 | 12 | [Bofo](https://open.spotify.com/track/1w8E3O3yhbPGPBbVZf6TZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 2:44 |
 | 13 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 29 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
 | 30 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 |
 | 31 | [Golden Child](https://open.spotify.com/track/1hwd655VNQi36ID8lbpM6R) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:08 |
-| 32 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
-| 33 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
+| 32 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
+| 33 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
 | 34 | [EL RODEO](https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58) | [Rap Geekz](https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O), [Gringo the MC](https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [EL RODEO](https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf) | 3:46 |
 | 35 | [Riding On 6's](https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 4:13 |
 | 36 | [Cuerno De Chivo](https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG) | [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Cuerno De Chivo](https://open.spotify.com/album/095rXozHEwtskDElFmJC2m) | 2:35 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 47 | [Like Sheen](https://open.spotify.com/track/6dMLp2T3kdrEJjmnUssBhn) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Ronnie Trees](https://open.spotify.com/artist/5wvqDnrMEfNwAPCFr8u0qR) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 1:27 |
 | 48 | [Money Manziel](https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Glock Simmons](https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:51 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDBkMjI4MTRkYmRjNDc2NWFiNmIwMjVlZDVkYjliNGE1Mw==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBjNGNkYTRkNWNmZDNkODc3YTgzOGUyMWZhYWM0MzcwMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,913 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,881 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 122 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 |
 | 123 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 |
 | 124 | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx) | 3:20 |
-| 125 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 |
-| 126 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
+| 125 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
+| 126 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 |
 | 127 | [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 |
 | 128 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
 | 129 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 136 | [Talk About Love](https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Talk About Love](https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN) | 3:48 |
 | 137 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 |
 | 138 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 |
-| 139 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
-| 140 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [MANIAC \(feat\. Windser\)](https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91) | 3:00 |
+| 139 | [MANIAC \(feat\. Windser\)](https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [MANIAC \(feat\. Windser\)](https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91) | 3:00 |
+| 140 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
 | 141 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 |
 | 142 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 |
 | 143 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 149 | [Dare You To Doubt Me](https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Dare You To Doubt Me](https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3) | 3:11 |
 | 150 | [Let Me Know](https://open.spotify.com/track/33SgocvhjtPtuXkb3at5Id) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB) | 2:17 |
 
-Snapshot ID: `MCxlYmUzYWNmMjQxNjQ5ZjU0MDI5MTdiNzdhZjdjZjI5ZmZlNmNkZTJj`
+Snapshot ID: `MCw4MWQ0NjI2ZDlhNzQ2NzQyMzVlMTlhNmI3NTg0ZDYyODFhYjk0YWM2`

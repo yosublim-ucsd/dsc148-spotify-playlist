@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34698,
+  "num_followers": 34699,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGYzMjI0MGJkMzQ5ZTQ5MGZhMmZhNDg2Y2Q1YTc4NmUxZGM5MWYw",
+  "snapshot_id": "MCxjZmY2N2Y0YWM5YzRhNDkyZmQwMjBkYzIyODMyNjNkZGRhYzMwNTNk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Pork And Beans",
-      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 345706,
       "name": "City Of Blinding Lights",
       "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Pork And Beans",
+      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
     },
     {
       "added_at": "2021-04-09 06:36:41",

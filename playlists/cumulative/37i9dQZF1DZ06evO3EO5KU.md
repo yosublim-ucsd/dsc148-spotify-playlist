@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-85 songs - 4 hr 38 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 | 2022-06-25 |  |
 | [Lo Que Aprendí Desde Niño](https://open.spotify.com/track/0pGTkBPOqtqtU6uhhwfsOT) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:06 | 2022-06-01 | 2022-10-13 |
 | [Los Versos De Muel](https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2) | [Darey de la Sierra](https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Los Versos De Muel](https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a) | 3:25 | 2022-12-02 | 2023-12-14 |
+| [Luces, Cámara y Acción](https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U) | 2:59 | 2024-03-02 |  |
 | [Me Llamas \- En Vivo](https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 4:42 | 2022-06-01 |  |
 | [Mi Riqueza](https://open.spotify.com/track/4JXI9yB7EWRsHRfMKfwXUf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:29 | 2022-06-01 |  |
 | [Mi Soledad](https://open.spotify.com/track/34INKokSiDUJb1XbmPJdRQ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 2:41 | 2023-09-15 |  |

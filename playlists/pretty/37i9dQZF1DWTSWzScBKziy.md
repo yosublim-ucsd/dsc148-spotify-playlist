@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,391 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,441 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
 | 100 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
 
-Snapshot ID: `MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy`
+Snapshot ID: `MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx`

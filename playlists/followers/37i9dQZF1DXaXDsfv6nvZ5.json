@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 758906,
+  "2024-03-03": 759129,
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "The R&B You Love: Soul Of The '70s",
+        "url": "https://open.spotify.com/album/7I92re0t1xeZk0V4gaAKRT"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287332,
+      "name": "Can I Have This Groove",
+      "url": "https://open.spotify.com/track/0jZb3hm5NSnwHaLjiwZoV0"
+    },
+    {
+      "album": {
         "name": "Can We Be Friends?",
         "url": "https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o"
       },
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX"
@@ -3433,6 +3451,28 @@
       "duration_ms": 153684,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Know (Remix)",
+        "url": "https://open.spotify.com/album/0k0rGyoaunyLPKf3Jg2x47"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
+        {
+          "name": "Tarriona 'Tank' Ball",
+          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "I Just Wanna Know - Remix",
+      "url": "https://open.spotify.com/track/6urgrE1xiLMHrnG19NaCtz"
     },
     {
       "album": {
@@ -5715,7 +5755,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188333,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
@@ -6201,6 +6241,28 @@
       "duration_ms": 181920,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4NhTEjDsRmEkvcWY1MRF9X"
+    },
+    {
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265018,
+      "name": "Quality Time (feat. Butcher Brown)",
+      "url": "https://open.spotify.com/track/3Oz9eoxcyNKUYaJiCt9hpf"
     },
     {
       "album": {
@@ -8227,7 +8289,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 189187,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"

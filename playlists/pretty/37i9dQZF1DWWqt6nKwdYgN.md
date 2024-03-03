@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Aczino 🐐👑 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,228 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,233 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [TARIMA](https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [TARIMA](https://open.spotify.com/album/3Mv4iYvIenzYXXntdpN2Ff) | 3:28 |
 | 100 | [El Poder y la Traición](https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [El Poder y la Traición](https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe) | 4:04 |
 
-Snapshot ID: `MCw0MjM4Zjc3MzM5YzgwYzMyZDQ2MDNlYzgwODUwN2RiOTRlN2U1M2U0`
+Snapshot ID: `MCw0ZGRhY2E5ZDA4YzI1NTg4ODI4NGRlMjZmY2VhMTg4OGIyOThiYmQy`

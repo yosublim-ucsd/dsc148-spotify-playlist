@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S"
       },

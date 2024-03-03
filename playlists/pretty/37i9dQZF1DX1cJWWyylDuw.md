@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,871 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,112 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Rage](https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:54 |
 | 150 | [Plague Bringer \- Inhuman Rework](https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Plague Bringer \(Inhuman Rework\)](https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH) | 3:25 |
 
-Snapshot ID: `MCxhODUxMDc4MDIyOGJiMTk2YWQxZDQ1MjgyNjkwNmZmZmNkMzk2MTJk`
+Snapshot ID: `MCw5MzhiMDQ2YmQyZDdhODM4NjZiNDE2NTlhY2JkZjc5MmRmMWU1NDQ4`

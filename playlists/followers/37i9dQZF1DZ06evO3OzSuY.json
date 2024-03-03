@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 23465,
+  "2024-03-03": 23465,
   "date_first_scraped": "2023-12-19",
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
   "name": "This Is Zendaya",
@@ -459,7 +459,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"

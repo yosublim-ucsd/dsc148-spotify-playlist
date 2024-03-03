@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,979 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,049 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 30 | [Strangers](https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Strangers](https://open.spotify.com/album/4sDKw6zSaaQGmPbezJmNIL) | 2:09 |
 | 31 | [La Chica\-cá](https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [La Chica\-cá](https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT) | 2:54 |
 | 32 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 |
-| 33 | [Can I Make You Jealous](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
+| 33 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
 | 34 | [Don't Leave](https://open.spotify.com/track/1sRBnzf4Pc6u0gxZfLw5OT) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Don't Leave](https://open.spotify.com/album/0FNUF1V9mDJT7VKuoEdhnq) | 3:01 |
 | 35 | [emotional capacity](https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [emotional capacity](https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn) | 3:14 |
 | 36 | [Control](https://open.spotify.com/track/5zhDwSZJIHcjjfBrsArYFj) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Home](https://open.spotify.com/album/4riI3YeCVOSwLg6AVlIEO3) | 2:40 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 43 | [Mandela Effect](https://open.spotify.com/track/6GNgAadUHbvhFIkXX0hRDm) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [My Brian Is Fried \(Deluxe\)](https://open.spotify.com/album/2UwYbfzvTPFzkiiXsH5DJX) | 2:13 |
 | 44 | [when you land](https://open.spotify.com/track/3NSG8uyMRl1FwtCj1U8CIo) | [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [when you land](https://open.spotify.com/album/7KTKbEVYXRrott5Xt6ChPT) | 3:11 |
 | 45 | [FLAUNT IT](https://open.spotify.com/track/2zHbZLK3FeDGsgxliT2sI1) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [FLAUNT IT](https://open.spotify.com/album/4S8EOt1bYvw4SPDp5pBgax) | 3:07 |
-| 46 | [Good Intentions](https://open.spotify.com/track/505JdlYcBOwaATh7iT3WWV) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Good Intentions](https://open.spotify.com/album/1BstsiYcJJ1YMetykBA1So) | 2:55 |
+| 46 | [good intentions](https://open.spotify.com/track/505JdlYcBOwaATh7iT3WWV) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [good intentions](https://open.spotify.com/album/1BstsiYcJJ1YMetykBA1So) | 2:55 |
 | 47 | [On the Fly](https://open.spotify.com/track/4kbG49MfL5pds2thENuHDo) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [On the Fly](https://open.spotify.com/album/5tlWX02LZSV46xj4Yoj0wN) | 2:55 |
 | 48 | [cry for help!](https://open.spotify.com/track/0QBVBpn0JNZ8ZUhGxqmKo2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [THIS IS A CRY FOR HELP](https://open.spotify.com/album/0L1rHfQJILHQ7NiJVXUs1O) | 2:48 |
 | 49 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [No Service](https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [No Service](https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM) | 2:20 |
 | 100 | [Dancing and Crying](https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying](https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd) | 3:17 |
 
-Snapshot ID: `MCxiNGNjZWE5Yjk5NTQ1YWRlZmQ1NTVjOGM1OWViOWEwZjNiMzhhODE1`
+Snapshot ID: `MCwxNzM4ZjA1ZTU3NTI4ZDIzZDA4Yzg2ZDBlNjBhMmU2ZjM1MDk4ZTA5`

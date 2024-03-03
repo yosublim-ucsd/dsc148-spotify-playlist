@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 
 > Pura malhação retrô para você suar as polâinas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,387 likes - 44 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,548 likes - 44 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 | 7 | [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 |
 | 8 | [Don't Stop Believin'](https://open.spotify.com/track/3DtK601PJiNPe8COo67unB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Flash Back Internacional](https://open.spotify.com/album/0xHBgcc8mjG1FILI9NPrg9) | 4:09 |
 | 9 | [Dressed For Success](https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 4:09 |
-| 10 | [Bette Davis Eyes \- Re\-Recorded](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 |
+| 10 | [Bette Davis Eyes](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:48 |
 | 11 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 | 12 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 13 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 | 43 | [Bad \- 2012 Remaster](https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:07 |
 | 44 | [Save a Prayer \- Single Version](https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:45 |
 
-Snapshot ID: `MCw4Y2I4YmE4ZDJiMjZkYjM2OTc0MTg3ZWI3MzU0ZDA1ZTNiZmNjZTBm`
+Snapshot ID: `MCw4MWUyZDRiZTVmNTg5ZWFhZjAxM2U1N2NlNTkwNjRjNGJiMWVmOWU3`

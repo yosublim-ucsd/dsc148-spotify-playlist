@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,944 likes - 181 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,230 likes - 181 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 2 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 |
 | 3 | [Past Lives \- Ian Asher Remix](https://open.spotify.com/track/7wewclsl0Gez4hiGm9DQjs) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Past Lives \(Ian Asher Remix\)](https://open.spotify.com/album/1V4WlHIf6mJKgntuXgy1BR) | 3:12 |
 | 4 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 |
-| 5 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
+| 5 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 6 | [Need you](https://open.spotify.com/track/72ezioGJGqEEpUWMsCBeil) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Need you](https://open.spotify.com/album/5MnrvjNLuy6hR13XJGcxxt) | 2:55 |
 | 7 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 |
 | 8 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 180 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 181 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCw1NzY0NjE2YzQ2OWY0ODdmZWUyZWVhZWEyZWRmMmYxNjc1YTk0ZjEw`
+Snapshot ID: `MCwxYmJlYTFmY2NkYTdiZWEwNzYwNmViMjhjYzY1NGYwOGE3OTE5ZjU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,868 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,943 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [must be nice \(metaphorically speaking\)](https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV) | 2:57 |
 | 80 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 
-Snapshot ID: `MCxiZTY3MWVkZDI0NGI4NzFjZTI1ZTk3ZWFiMTkyMzQxNmI3Y2Q2ODBi`
+Snapshot ID: `MCw2OTk1ZmExYWQzMDhiODE0NjRhNGUxOTczZWJjNDY0NTczMDY5NTQ3`

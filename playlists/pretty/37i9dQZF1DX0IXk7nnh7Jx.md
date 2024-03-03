@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,380 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,417 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 |
 | 150 | [Candlelight](https://open.spotify.com/track/3aIEDekEyK5BOOoLuJNo4C) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Candlelight](https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe) | 3:54 |
 
-Snapshot ID: `MCxlYjdmZjBhZWQ1NzQ3MDU0NWJkZTBmY2MzMTRlMDhlYmFjMDcyN2I3`
+Snapshot ID: `MCxmZjVlNjg2MzUwNWI0M2RhZTFlOWFlMDJjMGI2NTExOWFmNzFjMWE2`

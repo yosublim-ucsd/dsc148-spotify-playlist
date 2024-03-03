@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 596580,
+  "num_followers": 596719,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTEwYjcwZGZmMjlhZjg4NmRjN2JhZjAzYmM2ZGY4OTIxZWZjMjYx",
+  "snapshot_id": "MCxkZDg2MTQ4MTc0OWNiNmU2MTE2ZGY3MGUzNTliM2RlZjU3ODZiYjAw",
   "tracks": [
     {
       "added_at": "2024-02-16 19:57:55",
@@ -539,8 +539,8 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -655,8 +655,8 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Daughter, Daughter",
+        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 205022,
+      "name": "Daughter, Daughter",
+      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Daughter, Daughter",
-        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "Daughter, Daughter",
-      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Heaven Help Me",
         "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2024-02-16 19:57:55",

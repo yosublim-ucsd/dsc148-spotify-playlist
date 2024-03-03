@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 7006,
+  "num_followers": 7012,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjcyMWZkYTk0NGIyNTU1OTZhZDk0YjAzNDFlZWVmMzc2YTQ5ZWFh",
+  "snapshot_id": "MCw1Y2YyNWJmZjg5ZmQ0OWRmNzM4OTJhMGNlYWU4MDBkYmM1MDYwZWUx",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Sempiterno",
         "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/1eG68fWLXO7IphzE4GOeJf"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "added_at": "2023-06-27 18:03:27",

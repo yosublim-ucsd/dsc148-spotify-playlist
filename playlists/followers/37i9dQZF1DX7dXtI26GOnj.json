@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 175841,
+  "2024-03-03": 175931,
   "date_first_scraped": "2022-01-02",
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Kali Uchis, Peso Pluma",
   "name": "Calorcito",
@@ -2109,6 +2109,24 @@
       "duration_ms": 232222,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "album": {
+        "name": "Diamantes y Amaranto",
+        "url": "https://open.spotify.com/album/7KBsfhoXIXYBfp9fhZkOrV"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "Diamantes y Amaranto",
+      "url": "https://open.spotify.com/track/0broc0xlsIJOBHFYEAOcS1"
     },
     {
       "album": {
@@ -6663,7 +6681,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
@@ -7179,6 +7197,24 @@
       "duration_ms": 172414,
       "name": "Somos Iguales",
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
+    },
+    {
+      "album": {
+        "name": "Soy un HP",
+        "url": "https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146282,
+      "name": "Soy un HP",
+      "url": "https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn"
     },
     {
       "album": {
@@ -8487,7 +8523,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 203360,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"

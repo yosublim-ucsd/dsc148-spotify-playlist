@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 | 2024-02-23 |  |
+| [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 | 2024-02-23 |  |
 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-05-26 |  |
 | [Aguardiente](https://open.spotify.com/track/3ZAeqSO5szb2IDsAHqnYk6) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Aguardiente](https://open.spotify.com/album/0xooEKUlRZ4kgyBBfA9Ird) | 2:47 | 2023-10-13 | 2024-02-24 |
 | [Ahora Qué](https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B) | [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mirar Pa' Dentro](https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ) | 2:47 | 2023-07-14 |  |

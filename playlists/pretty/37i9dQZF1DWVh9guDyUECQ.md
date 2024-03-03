@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,677 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,741 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
 | 100 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
 
-Snapshot ID: `MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3`
+Snapshot ID: `MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj`

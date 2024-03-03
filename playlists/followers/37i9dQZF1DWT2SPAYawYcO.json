@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 371118,
+  "2024-03-03": 371142,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: Fred Again..",
   "name": "New Music Friday AU & NZ",
@@ -1572,7 +1572,7 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165017,
+      "duration_ms": 170440,
       "name": "act iii: on god? (she like)",
       "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
@@ -11101,10 +11101,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237609,
       "name": "Consequence",
       "url": "https://open.spotify.com/track/4sb5qz20HEPHDT9AJzAnmQ"
+    },
+    {
+      "album": {
+        "name": "Under The Light",
+        "url": "https://open.spotify.com/album/6nQZCCnJGwRw7MECEYLS0j"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Consequence",
+      "url": "https://open.spotify.com/track/7BSzIbxxhrdBAkVBHw3ISS"
     },
     {
       "album": {
@@ -19789,7 +19807,7 @@
     {
       "album": {
         "name": "Chorus",
-        "url": "https://open.spotify.com/album/6tD6M1Xvth4BAOjX6pN0Hp"
+        "url": "https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS"
       },
       "artists": [
         {
@@ -19800,6 +19818,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275412,
+      "name": "Future Life",
+      "url": "https://open.spotify.com/track/49Z4ep3ToXuPFRykvnFZ0h"
+    },
+    {
+      "album": {
+        "name": "Chorus",
+        "url": "https://open.spotify.com/album/6tD6M1Xvth4BAOjX6pN0Hp"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-02",
       "duration_ms": 275412,
       "name": "Future Life",
       "url": "https://open.spotify.com/track/7v0voLLDAuIoObrdjYKQyq"
@@ -31711,6 +31747,24 @@
       "duration_ms": 198893,
       "name": "Like Me Too",
       "url": "https://open.spotify.com/track/4dA0FG8PHVPqeImmVc0Drj"
+    },
+    {
+      "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "album": {
@@ -44368,7 +44422,7 @@
     },
     {
       "album": {
-        "name": "ROCK N ROLL",
+        "name": "ROCK N ROLL (AJ Curtis & Scorey)",
         "url": "https://open.spotify.com/album/2T58BzlIIc7i3QaitHJghc"
       },
       "artists": [
@@ -44385,7 +44439,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157750,
-      "name": "ROCK N ROLL",
+      "name": "ROCK N ROLL (AJ Curtis & Scorey)",
       "url": "https://open.spotify.com/track/6uTGvlGFc6baBvOBZFQmKk"
     },
     {

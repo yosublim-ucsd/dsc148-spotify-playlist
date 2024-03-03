@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,154 likes - 33 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,166 likes - 33 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 17 | [Succession \- Andante Risoluto](https://open.spotify.com/track/1hUiKGTTOQcYSaAxXZwUCA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 4 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/2RIG29bd8zdq0TtHHTLZdV) | 2:28 |
 | 18 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
 | 19 | [Dead Reckoning Opening Titles](https://open.spotify.com/track/5UwiTSY5hB74NxIaiWBRHx) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Mission: Impossible \- Dead Reckoning Part One \(Music from the Motion Picture\)](https://open.spotify.com/album/4t1wHeUBtPD2nsIgVTGSOg) | 1:12 |
-| 20 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
-| 21 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 |
+| 20 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 |
+| 21 | [Osage Oil Boom](https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY) | [Robbie Robertson](https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf) | [Killers of the Flower Moon \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp) | 2:51 |
 | 22 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
 | 23 | [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 |
 | 24 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 |
 | 33 | [See Ya / Into the Unknown](https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A) | [The Holdovers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D) | 4:39 |
 
-Snapshot ID: `MCw5ZmNhZjE1ZWViNThiYjg3N2UzNjc1NDMyMzQ5MGI1Y2NmZGU0ZmQy`
+Snapshot ID: `MCxiM2Q3ZjlkM2FmYWJlYzJjZWIzOGNiNWJjZmY0MzIyNjg4YWQwZTA1`

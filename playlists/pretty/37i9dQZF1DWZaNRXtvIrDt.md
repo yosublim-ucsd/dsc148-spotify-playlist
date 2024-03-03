@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Moktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,575 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,576 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Vintage](https://open.spotify.com/track/1gADdwkCLDpJ9Fp4ODQxmg) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Vintage](https://open.spotify.com/album/174kj0jeVxhZpOUUyyMdG0) | 3:16 |
 | 80 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCw3MTllMDg0ZThiMGExMGNlYmY1YzU2ZTdlNzkxODAyZTVlNDFiOTJm`
+Snapshot ID: `MCxkZmE3NDM1MGE0ZThhOWNkNjdhNjYwZDJkYzVjODMwMDZlYTg0MGY3`

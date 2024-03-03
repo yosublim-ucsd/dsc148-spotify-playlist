@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,129 likes - 142 songs - 7 hr 56 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,143 likes - 142 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 13 | [In The Sky](https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [In The Sky](https://open.spotify.com/album/0JHdqE1akiFDDTcWM7oJAw) | 3:53 |
 | 14 | [Overdrive](https://open.spotify.com/track/1RjAO5GLBf0UG3OMVUMQXQ) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [POWERLINE](https://open.spotify.com/album/5PUAHjQxmID1PrFDXicDkM) | 3:36 |
 | 15 | [ENERGY](https://open.spotify.com/track/21kA52qhWFHNkWrlBb4Vzt) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [ENERGY](https://open.spotify.com/album/3ocrKFvn3Xh3zCus2f7PL6) | 3:39 |
-| 16 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 16 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 17 | [Popstar shit.](https://open.spotify.com/track/7tJSmCD9SaZdJZqqO1ezVK) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Popstar shit.](https://open.spotify.com/album/5KwIGTyonaPG0pihilRpKs) | 2:08 |
 | 18 | [Poetry](https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Liam Geddes](https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2) | [Poetry](https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV) | 3:58 |
 | 19 | [Fallout](https://open.spotify.com/track/2ODnXTSPquz48lOTVC9E0E) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Fallout](https://open.spotify.com/album/6r4efDjDUbOrxPTheRzB4T) | 1:59 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 25 | [Burning Doghouse](https://open.spotify.com/track/4FGtOCJV6ExayepusoUTpl) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Burning Doghouse](https://open.spotify.com/album/0dE9NXYwSE1236aycODSNd) | 2:09 |
 | 26 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 |
 | 27 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 |
-| 28 | [Sleep](https://open.spotify.com/track/5Ydg6U09aMW0nYSmMeDoUm) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y), [Dalilah](https://open.spotify.com/artist/6Z3j6fJc6ORvmJi3OM2b2n), [Cole Edwards](https://open.spotify.com/artist/6T0yQtYqAuCCbBcSZBn9KK) | [Sleep](https://open.spotify.com/album/4WRcXxh1K3l97eMsdsRvvE) | 2:41 |
+| 28 | [Sleep](https://open.spotify.com/track/5Ydg6U09aMW0nYSmMeDoUm) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y), [Dalilah](https://open.spotify.com/artist/6Z3j6fJc6ORvmJi3OM2b2n) | [Sleep](https://open.spotify.com/album/4WRcXxh1K3l97eMsdsRvvE) | 2:41 |
 | 29 | [Bodybag \(feat\. Clubhouse\)](https://open.spotify.com/track/7GgzfCuZ0ASs8ptevKYTTj) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Look In The Mirror](https://open.spotify.com/album/5BTJf64AvqwYgOAcukNR9O) | 3:31 |
 | 30 | [Gentle Riot](https://open.spotify.com/track/67G1NE1OKfNWnYObI3GYv4) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg), [mayari.](https://open.spotify.com/artist/3wPoE2gIk83VpDRlBs5bR9) | [Gentle Riot](https://open.spotify.com/album/0dHkvLByYGTKCU1fC3GkCz) | 4:47 |
 | 31 | [Tears](https://open.spotify.com/track/3Pb3mjpqfot6uUMdB0xSiS) | [Aekae](https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu) | [Tears](https://open.spotify.com/album/1PC82JnJY76ui81bSv1NfA) | 3:02 |

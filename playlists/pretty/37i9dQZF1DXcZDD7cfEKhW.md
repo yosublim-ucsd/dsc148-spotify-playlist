@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,405,935 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,406,102 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [I’m Just Ken \- Purple Disco Machine Remix](https://open.spotify.com/track/1NlrxPK5C3cPi4oUmOUMhR) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 2:55 |
 | 75 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
 
-Snapshot ID: `MCwzOTBiOTA5NjllMmIzN2E4N2E0YWI2YmQ5NzYxNjJhMDAyYmQ1Njky`
+Snapshot ID: `MCw3M2ViMjMxMjFhODcxNWM5MzBmYWViNWFhMjcwZjgwOGUzOWEyYmRh`

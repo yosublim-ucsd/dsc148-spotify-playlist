@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,066 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,086 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 50 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
 
-Snapshot ID: `MCw3MDBjYjhkYjQ2YTY5NmYzMmFkMTZiMmIwMWQ2MmU5NzZkZDFiN2Q3`
+Snapshot ID: `MCwwZDZkZTAyNDA4YjhmMTJkZGRhOWNiNzA1YWMyZDk3ZjY3Zjg1YzJm`

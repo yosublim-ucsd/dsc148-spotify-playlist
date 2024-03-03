@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Yung Gravy & Jesse McCartney
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,639 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,627 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 19 | [Car Trouble](https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Car Trouble](https://open.spotify.com/album/72HCvZNzt1VB7QjqY1QYVV) | 5:13 |
 | 20 | [Nature Song](https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv) | [TogetherEffect](https://open.spotify.com/artist/43O9PYwjSqOaAgz8BQxswm) | [Nature Song](https://open.spotify.com/album/2EiH4Rpf1OIxnvbZXOjkHe) | 3:06 |
 | 21 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 |
-| 22 | [Can I Make You Jealous](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
+| 22 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
 | 23 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 |
 | 24 | [Strangers](https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Strangers](https://open.spotify.com/album/4sDKw6zSaaQGmPbezJmNIL) | 2:09 |
 | 25 | [Call my name](https://open.spotify.com/track/2XKjhJbd57Jiqdy5SCZNWh) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Call my name](https://open.spotify.com/album/63h57g2255TS4fojZzu63M) | 2:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 65 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCw1MzYzNDUwYWNmZDYxMzY0MmM1YmE5ZWJjYmVjNGIwNjU3NzNiYjVk`
+Snapshot ID: `MCwwNTRjY2U0ODEyZDU2NzJiOGIzZDM0MmNhNzQ4MzVmYTZiMWM2OGE3`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 6909,
+  "2024-03-03": 6910,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -2063,6 +2063,32 @@
       "duration_ms": 188484,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4"
+    },
+    {
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "Seya",
+      "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
     },
     {
       "album": {
@@ -2197,6 +2223,24 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "album": {
@@ -2857,7 +2901,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
@@ -3087,6 +3131,24 @@
       "duration_ms": 253000,
       "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
       "url": "https://open.spotify.com/track/1N0LbbD7X8FBwTuHkHPjvE"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u043c\u043e\u0436\u0435\u0448 \u0434\u0430 \u043c\u0435 \u0437\u0430\u043c\u0435\u043d\u0438\u0448",
+        "url": "https://open.spotify.com/album/4gE8tisSVUA23WG3TSwXAD"
+      },
+      "artists": [
+        {
+          "name": "Anelia",
+          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "\u041d\u0435 \u043c\u043e\u0436\u0435\u0448 \u0434\u0430 \u043c\u0435 \u0437\u0430\u043c\u0435\u043d\u0438\u0448",
+      "url": "https://open.spotify.com/track/1emslYAmTEd1yFbfPMB5Z4"
     },
     {
       "album": {

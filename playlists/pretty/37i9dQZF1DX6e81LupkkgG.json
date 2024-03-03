@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 345544,
+  "num_followers": 345533,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjRhYmFiN2RkOGYzYjAxZmIzNWE3YjVkM2UxOTczN2YzOTliMTBi",
+  "snapshot_id": "MCw0ZWQ4NzBmOTQxZDY0MzUyM2MyMjc4MmI3NTI0ZDFhODEyMGZmNzcx",
   "tracks": [
     {
       "added_at": "2024-02-22 17:48:54",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "older",
-        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 137778,
-      "name": "older",
-      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "this is what winter feels like",
-        "url": "https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "this is what winter feels like",
-      "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "this is what winter feels like",
+        "url": "https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "this is what winter feels like",
+      "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "The Glass",
-        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 211190,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
-    },
-    {
-      "added_at": "2024-02-22 17:48:54",
-      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
+    },
+    {
+      "added_at": "2024-02-22 17:48:54",
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
     },
     {
       "added_at": "2024-02-22 17:48:54",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-02-22 17:48:54",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 205286,
-      "name": "A Concert Six Months From Now",
-      "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+      "duration_ms": 239076,
+      "name": "Lover - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     }
   ],
   "unique_name": "Friozinho",

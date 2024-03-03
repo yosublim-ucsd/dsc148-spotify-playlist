@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
+    },
+    {
+      "album": {
         "name": "Fangclub",
         "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
       },

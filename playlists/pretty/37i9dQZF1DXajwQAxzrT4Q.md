@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,567 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,628 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 39 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
 | 40 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vibe \(If I Back It Up\)](https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0) | 1:23 |
 | 41 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
-| 42 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
-| 43 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
+| 42 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
+| 43 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 |
 | 44 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 |
 | 45 | [\#miles \(OMG edit\)](https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles \(OMG edit\)](https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V) | 2:17 |
 | 46 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 70 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 | 71 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
 | 72 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
-| 73 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
-| 74 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
+| 73 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
+| 74 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 75 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
 
-Snapshot ID: `MCxkM2Q4ZDQyZGI5OGI0NGNjZTE1MDJhN2U2MTBkNzYwODAzZjJkOGNh`
+Snapshot ID: `MCw1OGY3ZWEwMWEzMTE1MDc2MmRiZDllOTk1MjE0YTYzNGY4NTRiZGM4`

@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 755052,
+  "num_followers": 755222,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E4YWFkYWFjN2Q1ODUzMTdmZTk4OWU3YzA4MTE0OWM3NTc3ZjY0",
+  "snapshot_id": "MCxiNDQ4ZDhiODMzNzBlYTg3YTk3MDM5Yzk4MzM4ZTZkMGYyOWY1YmM2",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Before the Storm",
         "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 445210,
       "name": "Before the Storm",
       "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
-      },
-      "artists": [
-        {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        },
-        {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        },
-        {
-          "name": "Meditelectro",
-          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -863,22 +839,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
       "artists": [
         {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
         },
         {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+        },
+        {
+          "name": "Meditelectro",
+          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -895,6 +875,26 @@
       "duration_ms": 279000,
       "name": "Man Dies Alone - Short Version",
       "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 383861,
+      "name": "Running After Dark",
+      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "WannaCry",
-        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 383861,
-      "name": "Running After Dark",
-      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         }
       ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2024-02-23 00:01:00",

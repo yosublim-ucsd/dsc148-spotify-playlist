@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Maria Becerra, Ivy Queen, Anitta, KAROL G and more.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,781,598 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,782,717 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 33 | [LUCES DE COLORES](https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LUCES DE COLORES](https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7) | 3:36 |
 | 34 | [Pórtate Mal](https://open.spotify.com/track/3SyHka4ECN3LWJvzrziAU3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pórtate Mal](https://open.spotify.com/album/6713FPmL6HtkJ2MYcVcYDz) | 2:15 |
 | 35 | [CUAL ES ESA](https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 2:52 |
-| 36 | [Xxx\_Rosario\_xxX](https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:08 |
+| 36 | [Xxx\_Rosario\_xxX](https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:08 |
 | 37 | [Mis Amigas](https://open.spotify.com/track/3UFQS4N8U8BvmfBB7O2Xzj) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Mis Amigas](https://open.spotify.com/album/1u2Lre6OsLp51FghhQra6G) | 3:18 |
 | 38 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 39 | [Karma](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Karma](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 49 | [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 |
 | 50 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 
-Snapshot ID: `MCxjMWZkNzMwYzZhYWY2NzliMjMyMGEwMTY1Y2ZmOGE1YzljZDhlMDM4`
+Snapshot ID: `MCxhY2EyZjdkN2E1MjBhYmRiMmU4NDk3ZjQzMzI0NTdlYjM0NDZkMDk2`

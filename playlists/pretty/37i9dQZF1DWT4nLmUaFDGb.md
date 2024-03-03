@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,460 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,727 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,13 +103,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 93 | [Eat It Too](https://open.spotify.com/track/0O0KbAdK46piVPjL1Oxcjc) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Eat It Too](https://open.spotify.com/album/2UY7GxtvGs4hgG1MrieYHn) | 3:46 |
 | 94 | [Take on Me](https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Take on Me](https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD) | 4:30 |
 | 95 | [The Look Of Love](https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [The Look Of Love \- Burt Bacharach Songbook](https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2) | 4:33 |
-| 96 | [I'm Confessin'](https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 2:58 |
-| 97 | [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 |
+| 96 | [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 |
+| 97 | [I'm Confessin'](https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 2:58 |
 | 98 | [I'll Tell You Something](https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Always Seem to Get Things Wrong](https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6) | 4:11 |
 | 99 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 |
 | 100 | [Hey Jude](https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 6:28 |
-| 101 | [Some Kind Of Wonderful](https://open.spotify.com/track/0H6oFJd0ZGJUYqs7zA3I42) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/5aQ4x8ZmB8m4N5UxJGMOgH) | 3:30 |
-| 102 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
+| 101 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
+| 102 | [Some Kind Of Wonderful](https://open.spotify.com/track/0H6oFJd0ZGJUYqs7zA3I42) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [On The Moon](https://open.spotify.com/album/5aQ4x8ZmB8m4N5UxJGMOgH) | 3:30 |
 | 103 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 |
 | 104 | [Since I Fell For You](https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 2:58 |
 | 105 | [The Moon's a Harsh Mistress](https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [The Moon, the Stars and You](https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq) | 4:45 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 141 | [I'm the Sky, I'm the Earth](https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT) | [Deniz Taşar](https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6), [Halil Çağlar Serin](https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd) | [I'm the Sky, I'm the Earth](https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq) | 2:55 |
 | 142 | [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 |
 | 143 | [Sunflower](https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2) | [mystery tea.](https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo) | [Sunflower](https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj) | 3:56 |
-| 144 | [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 |
-| 145 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 |
+| 144 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 |
+| 145 | [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 |
 | 146 | [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 |
 | 147 | [There Is No Future](https://open.spotify.com/track/4GNxanwS4whzAEAwGg6xDK) | [Sara Aldén](https://open.spotify.com/artist/0o6Us7eXQeb43ShOAYLRpN), [August Björn](https://open.spotify.com/artist/6sUCF9k9erkUjpUaLbJtw8), [Daniel Andersson](https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6), [Malin Kjellgren](https://open.spotify.com/artist/0Ndl68PzVzsX2aSM3t1VRc) | [There Is No Future](https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV) | 5:00 |
 | 148 | [Carry On](https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Carry On](https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G) | 3:48 |
 | 149 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
 | 150 | [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 |
 
-Snapshot ID: `MCxiMTllMTJmZDQ0NjZjODgwYzRlNThhMjRkNjU2NzYyZTc0OGQwMTA5`
+Snapshot ID: `MCxiODczM2RmOGE1MmNjODUwNTE1OTY1OWE5MWNkNzA2YzRjZTYwODNm`

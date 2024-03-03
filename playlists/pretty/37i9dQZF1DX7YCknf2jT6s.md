@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: NALEDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,674 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,760 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
 | 2 | [Anointed Soul](https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ) | [Jahari Massamba Unit](https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [YHWH is LOVE](https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji) | 3:09 |
 | 3 | [Fandango](https://open.spotify.com/track/2rLN8vZ2d9HGeljlmZFhTx) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Fandango](https://open.spotify.com/album/7sD4UjyuDSS2vcdMGT1YH6) | 7:10 |
-| 4 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
+| 4 | [Take Time](https://open.spotify.com/track/64jc8TDPmYkrO93D7Q7QTz) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Take Time + Guava](https://open.spotify.com/album/5Urmwa9noXx3WJkZGpxArN) | 3:56 |
 | 5 | [Speak To Me](https://open.spotify.com/track/7wc9v9f1agzyv4nckk0peS) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 4:14 |
 | 6 | [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 |
 | 7 | [MOMENTUM](https://open.spotify.com/track/57B1YJVhgmCFAcryA9W2xu) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [MOMENTUM](https://open.spotify.com/album/6qdewILD6KlnRvj7Ts0kUe) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
 | 100 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 
-Snapshot ID: `MCw5YzUwYWJhZjY4YjNmZDk3ZWM4Y2E2ZDhmZmNmMDdmMjIwMmI4ODYy`
+Snapshot ID: `MCxjYzExZmZkM2U1NGFjMzk4OGZiMThkMTA1ZGQ2YTcyNjNmZDk5M2I2`

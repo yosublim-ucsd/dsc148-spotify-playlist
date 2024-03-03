@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Kassimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,197 likes - 55 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,185 likes - 55 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 47 | [Statt ferm](https://open.spotify.com/track/6yPNbFCaMfEhoCYGgOrg5x) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Statt ferm](https://open.spotify.com/album/68nhHDerY9JEnrIk2j5NoG) | 2:14 |
 | 48 | [Non ci basta](https://open.spotify.com/track/0pOLk0GIHU3INPdYt1Bjn7) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Non ci basta](https://open.spotify.com/album/2ch95H0nbpGZ3JbannmLnV) | 2:49 |
 | 49 | [Attimi](https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Attimi](https://open.spotify.com/album/6m8vAIVU1BttTt6e09Vrax) | 1:57 |
-| 50 | [Impulsivo](https://open.spotify.com/track/06d57k4CoWh2cxlL4UNJXF) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR) | [Impulsivo](https://open.spotify.com/album/78WAwrk0vLP9M0an6CG0kf) | 2:08 |
+| 50 | [Impulsivo](https://open.spotify.com/track/06d57k4CoWh2cxlL4UNJXF) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [Impulsivo](https://open.spotify.com/album/78WAwrk0vLP9M0an6CG0kf) | 2:08 |
 | 51 | [NO TIME](https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [NO TIME](https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h) | 2:37 |
 | 52 | [Realness](https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Realness](https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq) | 2:18 |
 | 53 | [Drugtown](https://open.spotify.com/track/6oyHPutCAlWrBTBdkgON6b) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R) | [Drugtown](https://open.spotify.com/album/7z3wFZooC9wv9h2MiBrfK6) | 1:32 |
 | 54 | [BOUNCE](https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob) | [Baronetto](https://open.spotify.com/artist/0pwPxQ42me7zkEVBthrPf0) | [BOUNCE](https://open.spotify.com/album/3YFdkeBLZU1X6COJy78Qhl) | 1:42 |
 | 55 | [Push](https://open.spotify.com/track/0c3dkyiXHsl5DvEp33aGzU) | [Ramses Afro](https://open.spotify.com/artist/0BA9Z5ZuaS6LjEhj9Nkfvg) | [Push](https://open.spotify.com/album/6CbQx944aKtHlOrpiHdg8U) | 1:55 |
 
-Snapshot ID: `MCw1MWMwNmEwODc2ZTExZTQyNjkyZTE1NmZjYTA5OTY5NjRiMzA1OGJk`
+Snapshot ID: `MCxlMTFlM2Q2ZTUzYzZhMTc3ZGI4NjE4NmRjOWIyNWM3NDViMDNlZWYx`

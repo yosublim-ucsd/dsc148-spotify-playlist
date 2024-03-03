@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,080 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,109 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 90 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 91 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 |
 | 92 | [Enemies \(feat\. DaBaby\)](https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:16 |
-| 93 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 1:46 |
-| 94 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:28 |
+| 93 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:28 |
+| 94 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 1:46 |
 | 95 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 96 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 |
 | 97 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
 | 100 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
 
-Snapshot ID: `MCw1YzJlNzVkYzVhZTE4OTI4ZDRkNzRmYjI1YTZmOTFhMjc3ZjBjNWZi`
+Snapshot ID: `MCxlMTFiMDY0MDUyNWMzMGNkZDllZTUxZTJkNmNhOTUxNjU0YTQ1ZTQ0`

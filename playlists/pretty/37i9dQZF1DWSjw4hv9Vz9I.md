@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,990 likes - 120 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,064 likes - 120 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 67 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 | 68 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 69 | [Hot Shot](https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io) | [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Look Closer](https://open.spotify.com/album/1WaH3Jqbs7gcTpVFmPmHX9) | 3:31 |
-| 70 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
-| 71 | [When It Was Wrong](https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU) | 3:34 |
+| 70 | [When It Was Wrong](https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU) | 3:34 |
+| 71 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
 | 72 | [Can't Fight the Feeling](https://open.spotify.com/track/419J8whWlrbG1sA0ezN0IV) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Black Velvet](https://open.spotify.com/album/7g2c9X1xsOSqKDBOtQHrWY) | 2:48 |
 | 73 | [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 |
 | 74 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 119 | [Feel The Need](https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:48 |
 | 120 | [How Did I Get Here?](https://open.spotify.com/track/0RKQnH9IsHGraKtomDG980) | [LaRose Jackson](https://open.spotify.com/artist/0Bcp6BnrbGucLguN2G5ERK) | [How Did I Get Here?](https://open.spotify.com/album/4ZxulZ8Ns2KHeFbX6sQ6Dz) | 2:38 |
 
-Snapshot ID: `MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw`
+Snapshot ID: `MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4`

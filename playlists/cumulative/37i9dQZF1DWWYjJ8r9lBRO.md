@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AÚN TE PIENSO](https://open.spotify.com/track/2IENEaqLqm4fma7TRkC0Yf) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [AÚN TE PIENSO](https://open.spotify.com/album/6LB6gb6StyYE4o3tYcpfWW) | 1:47 | 2023-11-27 |  |
-| [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-11-27 |  |
+| [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 | 2023-11-27 |  |
 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 | 2023-11-27 |  |
 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 | 2023-11-27 |  |
 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 | 2023-11-27 |  |

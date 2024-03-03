@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 55542,
+  "2024-03-03": 55584,
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Kamau",
+  "description": "boom bap renasce todo dia. Foto: Salvador da Rima",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192000,
       "name": "Boca do Cais",
       "url": "https://open.spotify.com/track/2EsQKH1tYRXFlGF8obK8Uh"
@@ -2322,6 +2322,42 @@
     },
     {
       "album": {
+        "name": "dias&dias",
+        "url": "https://open.spotify.com/album/5Ph5UwES7MXXqEGCEeu956"
+      },
+      "artists": [
+        {
+          "name": "Pete Mcee",
+          "url": "https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "dias&dias",
+      "url": "https://open.spotify.com/track/5WTm3b1aBTBdeOEBdpp5L7"
+    },
+    {
+      "album": {
+        "name": "Dificuldades",
+        "url": "https://open.spotify.com/album/3Am6SnNxaxNKimP4Zu9cpr"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187294,
+      "name": "Dificuldades",
+      "url": "https://open.spotify.com/track/2LbXikcpgkS5ZkQHMjDzbp"
+    },
+    {
+      "album": {
         "name": "Digital",
         "url": "https://open.spotify.com/album/3tgawpgdSL4ngA9izrvQxh"
       },
@@ -3322,6 +3358,24 @@
     },
     {
       "album": {
+        "name": "FONTE ||",
+        "url": "https://open.spotify.com/album/31TTFgxLStUMfVgK6jOz41"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255478,
+      "name": "FONTE ||",
+      "url": "https://open.spotify.com/track/6MmCQhk7nVGRWHd1V9vfqW"
+    },
+    {
+      "album": {
         "name": "Forja",
         "url": "https://open.spotify.com/album/0sI4CDAdcaGF1lSvyTQwyd"
       },
@@ -3875,7 +3929,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 96492,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/7piZ2IueZlF39p4Wm4qOrX"
@@ -3967,7 +4021,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158181,
       "name": "Individualista",
       "url": "https://open.spotify.com/track/4loexMkB3JfT0fYhg60lPr"
@@ -4724,6 +4778,28 @@
     },
     {
       "album": {
+        "name": "Menina Contradit\u00f3ria",
+        "url": "https://open.spotify.com/album/6XHgeeJ1d3MLP5xqC1hg6j"
+      },
+      "artists": [
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
+        },
+        {
+          "name": "Elleven",
+          "url": "https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128166,
+      "name": "Menina Contradit\u00f3ria",
+      "url": "https://open.spotify.com/track/5skIFWEhbnqfupKSvpYjZe"
+    },
+    {
+      "album": {
         "name": "MIXTAPE EU MERMO",
         "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
       },
@@ -5447,7 +5523,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 103714,
       "name": "N\u00e3o Existe Ateu",
       "url": "https://open.spotify.com/track/4SY6JgyWYZUSsvOFdCln9J"
@@ -5685,10 +5761,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 64643,
       "name": "O Alquimista",
       "url": "https://open.spotify.com/track/4wG2QWrMbiWZQ4eDvQLSmy"
+    },
+    {
+      "album": {
+        "name": "O Alvo",
+        "url": "https://open.spotify.com/album/6fcUUTg9SEEPXBY92gN8yE"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150677,
+      "name": "O Alvo",
+      "url": "https://open.spotify.com/track/2z2mV6ogP5WXYFWGZJX8CD"
     },
     {
       "album": {
@@ -6375,6 +6469,28 @@
       "duration_ms": 67865,
       "name": "Pelo Fim da Tradi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6UG0YdRqmTNmZGprncX5XA"
+    },
+    {
+      "album": {
+        "name": "Pequenos Gigantes",
+        "url": "https://open.spotify.com/album/2DS05mmU9SWppp9K0eu3NX"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Pequenos Gigantes",
+      "url": "https://open.spotify.com/track/09cXkWw79uSJpMGnGo1K3E"
     },
     {
       "album": {
@@ -7857,7 +7973,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 98652,
       "name": "SESH #1 - Viv\u00eancias Daqui",
       "url": "https://open.spotify.com/track/6eacckfJdyScwfqk8RxAxO"

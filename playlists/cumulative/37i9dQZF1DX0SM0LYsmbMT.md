@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,038 songs - 6 day 10 hr 21 min
+4,039 songs - 6 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [Cherry Stones](https://open.spotify.com/track/55KXvUcU1tvECZlpNFedXO) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Cherry Stones](https://open.spotify.com/album/2M68YNq9ZdZ64thqkTIxs1) | 2:32 | 2022-01-06 | 2022-04-22 |
 | [Cherub](https://open.spotify.com/track/334PH2p4kvl1ogPDnLQIXQ) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Cherub](https://open.spotify.com/album/2RNf7DJTzpzC9Z2nyK4lm6) | 2:14 | 2023-12-01 |  |
 | [chi min](https://open.spotify.com/track/5gZFmD6Bszxepn75fAdM0j) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [cloud sounds](https://open.spotify.com/album/3eiUaf9V3bysHOlQriQXdQ) | 1:34 | 2020-04-07 | 2020-05-29 |
+| [Chichihua](https://open.spotify.com/track/2r20uyktL1iCiwXIBN19ok) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Chichihua](https://open.spotify.com/album/35oTJKHgxTkIz1JShPRo0d) | 1:58 | 2024-03-01 |  |
 | [Childhood](https://open.spotify.com/track/3hZpcMWfacJLqVGd0ztxU9) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Childhood](https://open.spotify.com/album/7jdyTJRycpreAiWRz0etTm) | 2:02 | 2023-02-09 | 2023-03-18 |
 | [Chili Sin Carne Bowl](https://open.spotify.com/track/7j7AK2Iz3D37CxFrY8MCtZ) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Chili Sin Carne Bowl](https://open.spotify.com/album/7ChYgDAbK5ljCGw5xScxTX) | 1:44 | 2020-10-23 | 2020-12-09 |
 | [chill](https://open.spotify.com/track/3Ubll7InWuFIXXJBQYlFqf) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [chill](https://open.spotify.com/album/1iK457VQxTWAAClRlbKvd7) | 1:36 | 2021-08-27 | 2022-01-28 |
@@ -2316,7 +2317,7 @@
 | [Naked Woman](https://open.spotify.com/track/3FidHZS4FF8l4BUAQeuv4l) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Naked Woman](https://open.spotify.com/album/5ShPXtOEM9aWQfHx3VOfYF) | 2:13 | 2021-07-09 | 2021-09-10 |
 | [nami](https://open.spotify.com/track/4WpWo3QutktWiRsLBJayK2) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [bookisa](https://open.spotify.com/album/1sfIkFcMtn4HfIu7q1Lbar) | 2:23 | 2021-12-03 | 2022-03-11 |
 | [Naming Clouds](https://open.spotify.com/track/2BgEnSZWPomufRA3eKjdxZ) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Naming Clouds](https://open.spotify.com/album/2lT3msaYSoTHbm2GYNPG5C) | 1:44 | 2023-06-01 |  |
-| [Namsan](https://open.spotify.com/track/6DvqrdLeklqm3JGjNSLqA4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Beautiful Disco](https://open.spotify.com/artist/4bNcfgeja8qTyJFLUE3YF3) | [Namsan](https://open.spotify.com/album/1uPHGsV1pCql43H5SRoi25) | 2:32 | 2024-03-01 |  |
+| [Namsan](https://open.spotify.com/track/6DvqrdLeklqm3JGjNSLqA4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Beautiful Disco](https://open.spotify.com/artist/4bNcfgeja8qTyJFLUE3YF3) | [Namsan](https://open.spotify.com/album/1uPHGsV1pCql43H5SRoi25) | 2:32 | 2024-03-01 | 2024-03-03 |
 | [Nap](https://open.spotify.com/track/4ZH1ss95lOiKEbOBDMWZax) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nap](https://open.spotify.com/album/2WpXr02mgVyYd7LFK8jaXx) | 3:20 | 2020-10-09 | 2021-01-04 |
 | [Narctis](https://open.spotify.com/track/1NZKXkCgKFZhBvvVPe2IHH) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Narctis](https://open.spotify.com/album/0Ha721dDcHIpaeonJgE77j) | 2:33 | 2020-04-24 | 2020-07-03 |
 | [Natsu](https://open.spotify.com/track/5r9075hPYZN8E7ddE2WoJs) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Natsu](https://open.spotify.com/album/3yCrW20GRiYBLHxbF4zYr4) | 2:36 | 2021-01-09 | 2021-05-28 |

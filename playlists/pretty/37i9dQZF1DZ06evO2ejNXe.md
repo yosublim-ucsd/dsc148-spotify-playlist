@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 34 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 |
 | 35 | [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 |
 | 36 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
-| 37 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
-| 38 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 |
+| 37 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 |
+| 38 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 |
 | 39 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
 | 40 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
 | 41 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 46 | [Oh Mi Nena](https://open.spotify.com/track/3CcvrZonEbz9TjM5R3TlM0) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:13 |
 | 47 | [Los Mosquitos](https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 4:08 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDBmYzZlZTJkMDk1YTVkMTY1MzU1M2JiZWQ4ZDI3MGExZQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBjZmIzNmVhYzg0YWVhMTZiM2NjNDdmZWQ4NzEzMzJiOA==`

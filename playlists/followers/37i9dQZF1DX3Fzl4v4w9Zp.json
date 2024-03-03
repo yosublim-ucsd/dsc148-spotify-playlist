@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 607966,
+  "2024-03-03": 608034,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
@@ -3054,6 +3054,24 @@
     },
     {
       "album": {
+        "name": "Norther",
+        "url": "https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Fire in the Sky",
+      "url": "https://open.spotify.com/track/21KtzK2Ca651OjwqmSLuLF"
+    },
+    {
+      "album": {
         "name": "Fire Line",
         "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
       },
@@ -4148,6 +4166,28 @@
     },
     {
       "album": {
+        "name": "Hello Stranger (feat. S.G. Goodman)",
+        "url": "https://open.spotify.com/album/5jzDJVklyWHXCAkSYWuMsc"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "Hello Stranger (feat. S.G. Goodman)",
+      "url": "https://open.spotify.com/track/1gWd9YGWMxVoEH9pSVCBon"
+    },
+    {
+      "album": {
         "name": "You Get It All",
         "url": "https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT"
       },
@@ -4547,6 +4587,24 @@
       "duration_ms": 285525,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+    },
+    {
+      "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     },
     {
       "album": {
@@ -5862,6 +5920,24 @@
     },
     {
       "album": {
+        "name": "Love Of A Girl",
+        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "Love Of A Girl",
+      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
+    },
+    {
+      "album": {
         "name": "Love You Now",
         "url": "https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6"
       },
@@ -6679,7 +6755,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 285549,
       "name": "Northwest",
       "url": "https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1"
@@ -7539,7 +7615,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234215,
       "name": "Problem",
       "url": "https://open.spotify.com/track/0F0ROYKhiZhAKioVBOoy8V"
@@ -8477,7 +8553,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269015,
       "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
       "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
@@ -8513,7 +8589,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 233880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/65admj6zDhGkbFZq9RzaBH"
@@ -10097,10 +10173,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212201,
       "name": "Tide of Love",
       "url": "https://open.spotify.com/track/2o349jiFKT0rfdYMHoC96f"
+    },
+    {
+      "album": {
+        "name": "Mellow War",
+        "url": "https://open.spotify.com/album/0Jd8RkTQ1kqieqVlENwyJR"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212201,
+      "name": "Tide of Love",
+      "url": "https://open.spotify.com/track/4lq1JdHhuIs4VOwHhENQvf"
     },
     {
       "album": {
@@ -10123,6 +10217,28 @@
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
+    },
+    {
+      "album": {
+        "name": "Nothing Here's the Same",
+        "url": "https://open.spotify.com/album/4OgbzmcCLRxW6Nl70i2c2q"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Peyton",
+          "url": "https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0"
+        },
+        {
+          "name": "Abigail Peyton",
+          "url": "https://open.spotify.com/artist/2Hl6tMrcJPzA5mTYgUWVv3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286826,
+      "name": "To the Country (feat. Abigail Peyton)",
+      "url": "https://open.spotify.com/track/4v8oUP3hxjfhy0nSSf03tl"
     },
     {
       "album": {
@@ -10787,7 +10903,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234799,
       "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"

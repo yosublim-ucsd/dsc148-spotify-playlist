@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,201 likes - 76 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,244 likes - 76 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 7 | [Dança do Pensamento](https://open.spotify.com/track/38sNUG2AIrO7P2lWqLQEHG) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 3:31 |
 | 8 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 |
 | 9 | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/track/4ZZSTRy9eugd4v9falGoMs) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv) | [Briga de Casal \(Estilo Vagabundo 5\)](https://open.spotify.com/album/5e1VkQhetJMWxRb77LGPCj) | 3:10 |
-| 10 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/0in5MharrmpP0ZBA25Tm1Q) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Tunes That Stick Vol 6](https://open.spotify.com/album/69vmtpUmljdtwNf4mdcHGS) | 2:55 |
+| 10 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/3l9y0qxIuH7qvvWNuG9IC3) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Welcome To COPACABANA \- The Brazilian Melting Pop](https://open.spotify.com/album/0veFCfLzR5pOgNVXzAXlJQ) | 2:56 |
 | 11 | [Hip Hop](https://open.spotify.com/track/73QNN34ltQRUR2i6hI08Vd) | [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Hip Hop](https://open.spotify.com/album/0CjnAZ9CdW6wSoMCnLA7w8) | 3:27 |
 | 12 | [Chama os Mulekes](https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 5:53 |
 | 13 | [Not Bad Boy](https://open.spotify.com/track/30g6Q7eLE2yHgcmOiHmkDq) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Not Bad Boy](https://open.spotify.com/album/5WWFo7oGUUoO6VGWa8yZRq) | 4:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 75 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 76 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCxmZTMzYTE2ZjcwOTQ1NWFmMjViYzEwNjU3YmQyNDEzNjVmNmQwZDg2`
+Snapshot ID: `MCw1OTE0NjIyNmVmZmI4M2YzNTA0NWNmMjY4M2RhZDExNDU0NzYzZWM0`

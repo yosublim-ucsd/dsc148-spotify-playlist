@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Crystal Skies
 
-509 songs - 1 day 6 hr 34 min
+510 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-08 | 2022-08-19 |
 | [Losing My Mind](https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Losing My Mind](https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV) | 3:12 | 2022-07-08 | 2023-09-02 |
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-07-08 | 2022-07-29 |
-| [Lost Control](https://open.spotify.com/track/4wKf4F0N5fz1ziHw5u6BWB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Two Worlds Apart](https://open.spotify.com/album/3IDwApCed2IedcLFrw15jm) | 1:58 | 2023-09-22 |  |
+| [Lost Control](https://open.spotify.com/track/4wKf4F0N5fz1ziHw5u6BWB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Two Worlds Apart](https://open.spotify.com/album/3IDwApCed2IedcLFrw15jm) | 1:58 | 2023-09-22 | 2024-03-03 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-07-08 | 2024-02-07 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-07-08 |  |
 | [Love Is A Highway \(feat\. NERIAH\)](https://open.spotify.com/track/1725ZPzVwEYaFTztQzmu9s) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Love Is A Highway \(feat\. NERIAH\)](https://open.spotify.com/album/2LkFKtRubAVcnJPVNtW5Vf) | 3:54 | 2023-05-05 | 2023-12-16 |
@@ -429,6 +429,7 @@
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-07-08 | 2023-07-22 |
 | [Start Over \(feat\. Danni Carra\)](https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Somewhere In Between EP](https://open.spotify.com/album/2bnNcIyUBsgGGVI2EWSPY7) | 4:10 | 2022-07-08 | 2023-03-18 |
 | [Stay](https://open.spotify.com/track/4cEWuDn97aI64yw6HrZvBc) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Stay](https://open.spotify.com/album/1LJxKzYjl4bOxgGpb0rei3) | 4:09 | 2022-07-08 | 2022-11-14 |
+| [Stay \- Afinity Remix](https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Stay](https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp) | 3:44 | 2024-03-01 |  |
 | [Stay The Night](https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Stay The Night](https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ) | 3:50 | 2023-03-24 | 2023-08-09 |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-13 |  |
 | [Stepping Stone](https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Stepping Stone](https://open.spotify.com/album/33X7rnQRpkNH21T1WLaNCr) | 3:52 | 2022-07-08 | 2022-09-03 |

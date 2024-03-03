@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,462 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,504 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 99 | [Westerpark](https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC) | [BSS \(AMS\)](https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH) | [Suikerplein EP](https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ) | 5:13 |
 | 100 | [The Body Keeps Score](https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [The Body Keeps Score / I Left My Juul in Monterey](https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt) | 3:27 |
 
-Snapshot ID: `MCw3YWE4Y2NmN2M5MDdiNGZkNDU0MTBjYWY2ODNmMmY0NmM2NTFjZjJh`
+Snapshot ID: `MCxmOTMxYTcwZGE0OTAxMzRkODM4Mjg0ODgxYTg3YjgzZmRiNjlkMjQ0`

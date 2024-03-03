@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,819 likes - 104 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,855 likes - 104 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 60 | [Can't Sleep](https://open.spotify.com/track/2Uwllv1d2yJHNUrQG7RVLV) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Can't Sleep](https://open.spotify.com/album/6uUDr2fhcwB5kPacZ4HP5h) | 3:45 |
 | 61 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
 | 62 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
-| 63 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
-| 64 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
+| 63 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
+| 64 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
 | 65 | [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 |
 | 66 | [Bricks in the Wall](https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 3:27 |
 | 67 | [High Level](https://open.spotify.com/track/0ukJe2qwhEseGHFB5DTM70) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 2:39 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 100 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 101 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
 | 102 | [The Reapers](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [The Reapers](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
-| 103 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
-| 104 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 103 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 104 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 
-Snapshot ID: `MCw1Yjc5OTIwY2Y2NTRjMGM4MDJlMzZjNmM1NGY4NjRiMjZjMjA2ZDhh`
+Snapshot ID: `MCwzMzYyYjVkMzk3OWQ1YTFiOWQ3YWY3YmNmOWQzY2FkN2EyZjkwOWE1`

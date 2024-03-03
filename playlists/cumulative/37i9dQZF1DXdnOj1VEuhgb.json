@@ -4618,6 +4618,32 @@
     {
       "album": {
         "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Risk (feat. UZI & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW"
+    },
+    {
+      "album": {
+        "name": "Seductive",
         "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
       },
       "artists": [
@@ -4662,7 +4688,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 191133,
       "name": "Risk (feat. UZI & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK"

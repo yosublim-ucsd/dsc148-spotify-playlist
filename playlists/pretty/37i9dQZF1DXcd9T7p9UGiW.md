@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Rotimi, Nasty C, Mayorkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,320 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,428 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 34 | [soso \(with Ozuna\)](https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 3:22 |
 | 35 | [Wow \(feat\. Skepta & Naira Marley\)](https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 2:59 |
 | 36 | [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [The Gentle Man](https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY) | 3:02 |
-| 37 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 |
+| 37 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 |
 | 38 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 |
 | 39 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 40 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 81 | [Ananipenda \(feat\. Soge Culebra, Marioo\) \- Remix](https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Ananipenda \(feat\. Soge Culebra, Marioo\) \[Remix\]](https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0) | 4:49 |
 | 82 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
 
-Snapshot ID: `MCxhZTZjYjcyNTMxOGFmYjUxMzMzZmM4ZWNmYjFjN2UwMGM2OGVlOWQ0`
+Snapshot ID: `MCxiMDNhMjU3OWFlNWFiYzM5MWYwNzViZGJkYmEyMWNlZWE2ZjA2YTNi`

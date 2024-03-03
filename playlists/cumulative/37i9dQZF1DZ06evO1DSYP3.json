@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 196245,
       "name": "nirvana",
       "url": "https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut"
@@ -1064,6 +1064,28 @@
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
+    },
+    {
+      "album": {
+        "name": "Trying Me",
+        "url": "https://open.spotify.com/album/6pI4FHyb3ZXNtfqgyZGWbZ"
+      },
+      "artists": [
+        {
+          "name": "Jammy",
+          "url": "https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Trying Me",
+      "url": "https://open.spotify.com/track/4XgeghQAOvnb4WzgIW1OJb"
     },
     {
       "album": {

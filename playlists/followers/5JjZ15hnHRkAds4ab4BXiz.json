@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 0,
+  "2024-03-03": 0,
   "date_first_scraped": "2023-11-18",
   "description": "",
   "name": "Ballads",
@@ -791,6 +791,28 @@
       "duration_ms": 260000,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438493,
+      "name": "Just the Two of Us (feat. Bill Withers)",
+      "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
     },
     {
       "album": {
@@ -1595,6 +1617,24 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "album": {

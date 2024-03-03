@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,476 likes - 70 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,537 likes - 70 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 33 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
 | 34 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 |
 | 35 | [Trouble In Mind](https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 4:38 |
-| 36 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
-| 37 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
+| 36 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
+| 37 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
 | 38 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
 | 39 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
 | 40 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 41 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
-| 42 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
-| 43 | [Love & Devotion](https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp) | [You Don't Know Me](https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC) | 3:30 |
+| 42 | [Love & Devotion](https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms) | [HeavyDrunk](https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp) | [You Don't Know Me](https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC) | 3:30 |
+| 43 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
 | 44 | [No Headstone on My Grave](https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 |
 | 45 | ['Tain't Nobody's Biz'ness If I Do](https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 7:01 |
 | 46 | [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 | 70 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 
-Snapshot ID: `MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl`
+Snapshot ID: `MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk`

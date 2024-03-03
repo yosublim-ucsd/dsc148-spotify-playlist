@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 63467,
+  "num_followers": 63546,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThiZGNlY2JhYmIwZTdkOTY5MDM4ZjVmZGI0OThjZTg2ZjU0YmU5",
+  "snapshot_id": "MCw1ZjE2YmIwMjk3OWU5ODZhNWRjYjgyNDNkMjAyYjZmOTJiOWQxOGJk",
   "tracks": [
     {
       "added_at": "2024-03-01 09:24:23",
@@ -171,26 +171,6 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Another Vibe (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -203,6 +183,22 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -231,18 +227,22 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -351,22 +351,22 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -419,42 +419,6 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -479,6 +443,22 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
       },
@@ -495,6 +475,22 @@
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -579,18 +575,18 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -655,22 +651,6 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -707,6 +687,22 @@
       "duration_ms": 166958,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -751,38 +747,6 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Too Busy To Be Bae",
-        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "Too Busy To Be Bae",
-      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -795,6 +759,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Too Busy To Be Bae",
+        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 177203,
+      "name": "Too Busy To Be Bae",
+      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -827,22 +807,6 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 145031,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -935,6 +899,22 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
         "name": "Jaga Jaga (with Babyboy AV)",
         "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
@@ -955,8 +935,8 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
       },
       "artists": [
         {
@@ -964,25 +944,9 @@
           "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+      "duration_ms": 145031,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -1039,26 +1003,6 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -1075,6 +1019,26 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -1107,6 +1071,22 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -1163,6 +1143,22 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -1195,22 +1191,6 @@
       "duration_ms": 124076,
       "name": "Anabella",
       "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2024-03-01 09:24:23",
       "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
@@ -1407,26 +1407,6 @@
       "duration_ms": 172394,
       "name": "Tour",
       "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
-    },
-    {
-      "added_at": "2024-03-01 09:24:23",
-      "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2024-03-01 09:24:23",
@@ -1495,6 +1475,22 @@
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+    },
+    {
+      "added_at": "2024-03-01 09:24:23",
+      "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

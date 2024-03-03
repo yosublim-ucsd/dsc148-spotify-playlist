@@ -4158,10 +4158,28 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
+    },
+    {
+      "album": {
+        "name": "my friend's toyota",
+        "url": "https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "my friend's toyota",
+      "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
     },
     {
       "album": {

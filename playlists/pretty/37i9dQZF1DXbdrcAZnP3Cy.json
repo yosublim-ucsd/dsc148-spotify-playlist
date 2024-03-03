@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 162389,
+  "num_followers": 162473,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODg1MTgwZDZjN2QzYTU5MDY0YTkwNGM3NDhiZWUxYTAwNzBmNmRl",
+  "snapshot_id": "MCw2Y2ZhNzFlYWYyMzYzMzhiOGVjMmNlN2ZiMzg5MWM2MzViYzlhOGYy",
   "tracks": [
     {
       "added_at": "2023-05-01 21:44:18",
@@ -491,18 +491,26 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "Int\u00e9ntalo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 193533,
+      "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
+      "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -527,26 +535,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Int\u00e9ntalo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
-      "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "La Reuni\u00f3n",
         "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 167986,
       "name": "Me llamo Raquel",
       "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 188310,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "C\u00f3mo Me Duele",
-      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 227440,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
     },
     {
       "added_at": "2023-05-01 21:44:18",

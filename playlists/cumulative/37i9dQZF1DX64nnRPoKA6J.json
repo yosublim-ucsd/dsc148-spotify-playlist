@@ -664,7 +664,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
@@ -3396,6 +3396,24 @@
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "What Is Love (7\" Mix)",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
     },
     {
       "album": {

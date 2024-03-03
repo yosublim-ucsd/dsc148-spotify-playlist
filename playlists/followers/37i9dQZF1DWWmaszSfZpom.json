@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 981295,
+  "2024-03-03": 981339,
   "date_first_scraped": "2021-12-29",
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
   "name": "Segue o Baile",
@@ -2137,6 +2137,32 @@
     {
       "album": {
         "name": "Sentou e Gostou",
+        "url": "https://open.spotify.com/album/0XvYpQaDKdRD2osAvKJ76d"
+      },
+      "artists": [
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
+        },
+        {
+          "name": "MC JottaP\u00ea",
+          "url": "https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3"
+        },
+        {
+          "name": "MC M10",
+          "url": "https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sentou e Gostou",
+      "url": "https://open.spotify.com/track/49wWUH5FonVIohPr33W2OH"
+    },
+    {
+      "album": {
+        "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe"
       },
       "artists": [
@@ -2155,7 +2181,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163200,
       "name": "Sentou e Gostou",
       "url": "https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX"

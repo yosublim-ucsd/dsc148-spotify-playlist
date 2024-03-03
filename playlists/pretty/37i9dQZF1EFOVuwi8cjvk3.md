@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 227 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 227 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 29 | [Try Me](https://open.spotify.com/track/4ppTAJUbNXELZcoUaL90wo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:41 |
 | 30 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
 | 31 | [ASTROTHUNDER](https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:22 |
-| 32 | [Spoil My Night \(feat\. Swae Lee\)](https://open.spotify.com/track/5VuxWXbt7XENQCtE9TzpTv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:14 |
-| 33 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 |
+| 32 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 |
+| 33 | [Spoil My Night \(feat\. Swae Lee\)](https://open.spotify.com/track/5VuxWXbt7XENQCtE9TzpTv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:14 |
 | 34 | [WAKE UP](https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:51 |
 | 35 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 |
 | 36 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 211 | [Reste en vie \- fragile](https://open.spotify.com/track/20eyfLl6Qib62ljOowPA6O) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile x Fragile \(Version deluxe\)](https://open.spotify.com/album/7BcRdUtUhuDpvyOsv1a4lF) | 3:13 |
 | 212 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
 | 213 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
-| 214 | [Dear Boy](https://open.spotify.com/track/47LToA6rpfFwwMu7npAwWd) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:05 |
-| 215 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
+| 214 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
+| 215 | [Dear Boy](https://open.spotify.com/track/47LToA6rpfFwwMu7npAwWd) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:05 |
 | 216 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 |
 | 217 | [Love Me Back](https://open.spotify.com/track/3TkWlPbDAl2LbYIQMgHT3B) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 2:49 |
 | 218 | [The Archer](https://open.spotify.com/track/3Mf6TqIKVALxZ2oUsd7EYp) | [Killa Sin](https://open.spotify.com/artist/67XIntxIqJFHkWpewJcrOb) | [The Man With The Iron Fists](https://open.spotify.com/album/6uMBoMl43IIKHoCj8iVd7X) | 2:55 |
@@ -236,4 +236,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 226 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 227 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Mjg0ODkwODAsMDAwMDAwMDBlMTY1NmUzMDk3ZGVhYzViNTdhMmY0MGNmM2E3NDE1NA==`
+Snapshot ID: `Mjg0OTA1MjAsMDAwMDAwMDA2YWYzZGU1NzJlYWI1NWFmN2FmODVhNWNiZmQ4YmJlYw==`

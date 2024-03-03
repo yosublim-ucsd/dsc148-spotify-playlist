@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,510 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,602 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 31 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 |
 | 32 | [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 |
 | 33 | [O Amor de Deus](https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B) | [O Amor de Deus](https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg) | 2:36 |
-| 34 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
-| 35 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 |
+| 34 | [Você Por Perto](https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Você Por Perto](https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew) | 3:51 |
+| 35 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
 | 36 | [Tudo](https://open.spotify.com/track/5wbSVolmtQA6kodui95x40) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [SL.27.4](https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy) | 3:57 |
 | 37 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 |
 | 38 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Me Esvaziar \(Releitura\)](https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Me Esvaziar \(Releitura\)](https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ) | 3:03 |
 | 85 | [A Casa Caiu](https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Ele e Nóiz](https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv) | 2:52 |
 
-Snapshot ID: `MCwzNWVlM2E0NWIyYjc5ZDRiMDExNGI2MTExNTBlMmU2YzYxZjJmOGUw`
+Snapshot ID: `MCxmZDBmYTY5Yzc4NGU1NjAxYWM3MzEwZWU0ZTAxMmIyNTllZTAzMzY4`

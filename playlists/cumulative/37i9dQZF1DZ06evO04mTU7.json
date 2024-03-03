@@ -163,6 +163,28 @@
     },
     {
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+    },
+    {
+      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },

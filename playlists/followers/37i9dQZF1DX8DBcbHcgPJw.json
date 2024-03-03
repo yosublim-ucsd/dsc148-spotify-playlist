@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1188400,
+  "2024-03-03": 1188417,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: LiL CaKe.",
   "name": "Dame M\u00e1s Cumbia",
@@ -592,6 +592,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed, As\u00ed, As\u00ed",
+        "url": "https://open.spotify.com/album/3jQlZc0J2p9lgf1E1wzpS2"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Llanos",
+          "url": "https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi"
+        },
+        {
+          "name": "Dimelo Ismael",
+          "url": "https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134100,
+      "name": "As\u00ed, As\u00ed, As\u00ed",
+      "url": "https://open.spotify.com/track/1Wu8fpeDCKqKeBLEf03FzO"
+    },
+    {
+      "album": {
         "name": "Atiende",
         "url": "https://open.spotify.com/album/10n2JUOUDFuy2WdJNPRtSA"
       },
@@ -1015,7 +1037,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175909,
       "name": "Cachorro",
       "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
@@ -1823,7 +1845,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
@@ -3903,7 +3925,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194666,
       "name": "La Gira",
       "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
@@ -4836,6 +4858,24 @@
     },
     {
       "album": {
+        "name": "M.A.I (Cumbia)",
+        "url": "https://open.spotify.com/album/3LgyjdX3NThzQmW8uX20qI"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211390,
+      "name": "M.A.I (Cumbia)",
+      "url": "https://open.spotify.com/track/0tjri5BNkvJFtYjLnh7o8T"
+    },
+    {
+      "album": {
         "name": "Mal Acostumbrao",
         "url": "https://open.spotify.com/album/62zqxFDW2zEkFqgH8A1fqu"
       },
@@ -5426,6 +5466,24 @@
     },
     {
       "album": {
+        "name": "Multibesos, Ia N. 1",
+        "url": "https://open.spotify.com/album/289iLOZ725oMFiwReCDYLP"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163715,
+      "name": "Multibesos, Ia N. 1",
+      "url": "https://open.spotify.com/track/5KJrhW88CDznvca8f2Ahry"
+    },
+    {
+      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -5647,6 +5705,28 @@
       "duration_ms": 124589,
       "name": "NO ES LO QUE PARECE",
       "url": "https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA"
+    },
+    {
+      "album": {
+        "name": "NO FUIMOS",
+        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136853,
+      "name": "NO FUIMOS",
+      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
     },
     {
       "album": {
@@ -9891,7 +9971,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 140426,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"

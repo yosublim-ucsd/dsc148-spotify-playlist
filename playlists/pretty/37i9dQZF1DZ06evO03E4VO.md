@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,014 likes - 39 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 |
-| 2 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 |
+| 1 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 |
+| 2 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 |
 | 3 | [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 |
 | 4 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
 | 5 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 11 | [ocean waves](https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [ocean waves](https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT) | 3:40 |
 | 12 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
 | 13 | [down 4 u](https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 2:57 |
-| 14 | [party in my head \(ur not invited\)](https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy) | 3:03 |
-| 15 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
+| 14 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
+| 15 | [party in my head \(ur not invited\)](https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy) | 3:03 |
 | 16 | [sad girls always finish first](https://open.spotify.com/track/5eBL4nPwEnlQSmjX6zCeOu) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1uOzpySeBwLPkB26QGURgS) | 3:15 |
 | 17 | [indica](https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:25 |
 | 18 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 38 | [¡párate!](https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx) | 2:33 |
 | 39 | [voicenote](https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 3:23 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDBjMDFjZmM5NDQyMDBhMDhlY2UzODRiOWY5MjljMGFhMg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA0MmViZjg3NzY4MDQyZjVkMjgwMWMwNTM4YThkM2Y0Yg==`

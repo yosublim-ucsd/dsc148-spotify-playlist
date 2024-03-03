@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 22043,
+  "num_followers": 22053,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTE0MTEzNjFmMjU0OGUzZWExYWE1NjY4MzJjOGYzOTI2MDFhOWVm",
+  "snapshot_id": "MCxiY2NlNTMzMDAwOWYyOTFjMjU3NDUxOTkxMTI0OWZkZWZhMWE1YTVh",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -279,18 +279,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
       "artists": [
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 325638,
-      "name": "Love Ain't My Favorite Word",
-      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -311,18 +311,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
+      "duration_ms": 325638,
+      "name": "Love Ain't My Favorite Word",
+      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -439,6 +439,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2022-05-13 04:02:00",

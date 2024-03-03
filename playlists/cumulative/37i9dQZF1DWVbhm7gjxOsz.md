@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-164 songs - 9 hr 29 min
+165 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 | 2023-05-01 |  |
 | [Nobody's Clown](https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR) | 3:29 | 2023-05-01 |  |
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2023-05-01 |  |
+| [Oh What A Night](https://open.spotify.com/track/3Gee9OCvrf5FvG3Q4W7Fb6) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [At Their Very Best](https://open.spotify.com/album/6zS15NmWhOo0XIZgTaKbSV) | 2:52 | 2024-01-05 |  |
 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 | 2023-05-01 |  |
 | [Oh, How It Hurts](https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Oh, How It Hurts](https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh) | 2:59 | 2023-05-01 |  |
 | [On A Sunday Afternoon](https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2) | [Frost Presents...Raza Radio](https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj) | 3:32 | 2023-05-01 |  |
@@ -138,7 +139,7 @@
 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 | 2023-05-01 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 | 2023-05-01 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah) | [Dedicated to the Ones I Love, Vol\. 2](https://open.spotify.com/album/136641IlsqgJbCADEqlwqp) | 3:51 | 2023-05-01 |  |
-| [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 | 2023-08-29 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 | 2023-08-29 | 2024-03-03 |
 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 | 2023-05-01 |  |
 | [The Bells](https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [The Complete Motown Singles Vol\. 10: 1970](https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe) | 2:52 | 2023-05-01 |  |
 | [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 | 2023-05-01 | 2024-01-06 |

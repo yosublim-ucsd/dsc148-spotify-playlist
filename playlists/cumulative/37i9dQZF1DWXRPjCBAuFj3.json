@@ -5058,7 +5058,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 173440,
       "name": "ILL WHAT I BLEED",
       "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
@@ -6620,7 +6620,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 202306,
       "name": "MEZZANOTTE (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/1TVrjQh9mfod3CMgG8eLqy"
@@ -7756,6 +7756,28 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
       "album": {
@@ -9344,6 +9366,32 @@
     {
       "album": {
         "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Risk (feat. UZI & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW"
+    },
+    {
+      "album": {
+        "name": "Seductive",
         "url": "https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz"
       },
       "artists": [
@@ -9388,7 +9436,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 191133,
       "name": "Risk (feat. UZI & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK"
@@ -10812,6 +10860,24 @@
       "duration_ms": 221601,
       "name": "Ten Cuidao",
       "url": "https://open.spotify.com/track/7BUsACnVIfWB6SGfSWuBMk"
+    },
+    {
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177260,
+      "name": "THank god 4 me",
+      "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
     },
     {
       "album": {

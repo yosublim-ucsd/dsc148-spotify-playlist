@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,633 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,634 likes - 271 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 24 | [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 |
 | 25 | [Tapestry](https://open.spotify.com/track/4kCS2MgX5dQFyqHy21MzJG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:13 |
 | 26 | [Child of Mine](https://open.spotify.com/track/4A7oANUhxquUpTCuu6GmoD) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:02 |
-| 27 | [](https://open.spotify.com/track/5ewcbH8HRUcbDD0UsXa9by) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RnHxju5IKBQchj1yQW3eu) | 0:00 |
+| 27 | [Go Away Little Girl \(2023 Remastered\)](https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Essential Classics, Vol\. 16: Steve Lawrence](https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej) | 2:11 |
 | 28 | [Take a Giant Step \- 1969 Version](https://open.spotify.com/track/6Nf71UnBJ89Y36vn0PwY8D) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 4:15 |
 | 29 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
 | 30 | [Porpoise Song](https://open.spotify.com/track/02tiurLpJcKS0aFVsyvKz3) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 2:40 |
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 203 | [Ambrosia](https://open.spotify.com/track/5nwvCxZTbwOEjltAewJg0P) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:15 |
 | 204 | [To Know That I Love You](https://open.spotify.com/track/2lNcjEw3KBhKQbM2RkI9Bj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:31 |
 | 205 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
-| 206 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
-| 207 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 206 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 207 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 208 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
 | 209 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 210 | [Sweet Adonis](https://open.spotify.com/track/73vUP8IfRHcUjJVrgRHpg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:21 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDAwODViMmM4NmE2YTM2Y2E3Mjc5ZDk5MDY1NWY1MjA5OQ==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDBlYjI4YTEzNWViMzNmN2U3NWMzZjFmMmNkNDUwODUxOQ==`

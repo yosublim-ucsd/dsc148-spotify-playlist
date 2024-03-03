@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,362 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,486 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 37 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 38 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
 | 39 | [Hang On Natty](https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Soul Jazz Records presents Sugar Minott at Studio One](https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp) | 2:52 |
-| 40 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
-| 41 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
-| 42 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
-| 43 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 40 | [Trouble Maker](https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:58 |
+| 41 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 |
+| 42 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
+| 43 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 | 44 | [Heavenless](https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl) | [Don Drummond & The Skatalites — Heavenless](https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 6:12 |
 | 45 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
-| 46 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
-| 47 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 |
+| 46 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 |
+| 47 | [Reggae Feet](https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG) | [Lloyd Williams](https://open.spotify.com/artist/0neTVvqj2VQoVQRrfWtfNE) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:34 |
 | 48 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
 | 49 | [Another Day](https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt) | [Roy Richards](https://open.spotify.com/artist/0X4uxfskqekFkXgS7MTQAU) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 1:57 |
 | 50 | [Drum Song](https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU) | [Devon "Soul" Russell](https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Coconut Rock](https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:49 |
 | 60 | [Keep on Moving](https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:30 |
 
-Snapshot ID: `MCw4NWNmZjlmYWM0ZTc0NDNlZDg3ODY5ZWViOWQzYTcwODcyZWJmOTc0`
+Snapshot ID: `MCw4Y2NhMzJkYjE0YmE1ZDVlYWNjNjA3NTI4MGNhMWNiNDg2MTgwOTRl`

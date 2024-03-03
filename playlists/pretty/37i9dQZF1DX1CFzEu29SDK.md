@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,917 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,965 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 20 | [Get Hard \(You In The Lobby\)](https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Get Hard \(You In The Lobby\)](https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn) | 2:36 |
 | 21 | [Don Julio](https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Don Julio](https://open.spotify.com/album/7hb7VPTh4LMlTIBAy3x32Y) | 3:08 |
 | 22 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
-| 23 | [Compute](https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Compute](https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk) | 4:23 |
+| 23 | [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 |
 | 24 | [Now U Do](https://open.spotify.com/track/6HzL348HHRk2dWHNzx42aj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 3:28 |
 | 25 | [Voodoo](https://open.spotify.com/track/5cGBQ9W3XtRuRQFgDklDrI) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Perfect Mistakes](https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp) | 3:53 |
 | 26 | [Escape \- John Summit Remix](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Escape \(John Summit Remix\)](https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 49 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 50 | [Fearing Love \- Club Mix](https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc) | [Damiano C](https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Camille Safiya](https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D) | [Fearing Love](https://open.spotify.com/album/6C40PL4H8Mn4pWadW4ZA6u) | 7:28 |
 
-Snapshot ID: `MCw4NGVkMzkzMjg3NTEyZjg3MTM3MGM1YWUzODA3YWQyZWIyODVhODc3`
+Snapshot ID: `MCxlNjQzMjQxM2ViY2IyYmI4NDk1YWYzYzVmYzZjNjhhYTMyYTNjMjA3`

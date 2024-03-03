@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,628 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,838 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 |
 | 100 | [In Christ Alone](https://open.spotify.com/track/5DFOkSH4ToaLPM0pFVzWn9) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 4:16 |
 
-Snapshot ID: `MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj`
+Snapshot ID: `MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx`

@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 982582,
+  "2024-03-03": 982694,
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:4hAridhpYF50cbO6o7jB3b\">Mosaic MSC</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 488253,
       "name": "Crowns Down - Live",
       "url": "https://open.spotify.com/track/2kTSwNHkrqxGs6sSINXjmD"
@@ -3360,6 +3360,28 @@
     },
     {
       "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390020,
+      "name": "He Who Is To Come - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
+    },
+    {
+      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6"
       },
@@ -3595,7 +3617,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 547598,
       "name": "Holy Hallelujah - Live",
       "url": "https://open.spotify.com/track/0rLMg3eCwLHCNKQcN0TZ3I"
@@ -4129,7 +4151,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 294507,
       "name": "I Reach Out",
       "url": "https://open.spotify.com/track/0tY7AoV2NmEYx5lC8XLc4t"
@@ -8236,6 +8258,24 @@
     },
     {
       "album": {
+        "name": "Stacking Stones (Reimagined)",
+        "url": "https://open.spotify.com/album/6jQyS9Yk5FruVLnUDrZj0j"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357342,
+      "name": "Stacking Stones (Reimagined)",
+      "url": "https://open.spotify.com/track/2DAFg061bHts2RlDcTDUEb"
+    },
+    {
+      "album": {
         "name": "Standing Tall",
         "url": "https://open.spotify.com/album/79NlmToigH5fSiDONEeeWP"
       },
@@ -8634,6 +8674,24 @@
     },
     {
       "album": {
+        "name": "Made For More (Live)",
+        "url": "https://open.spotify.com/album/0TchDjWSD1zqYTJcYbcBZA"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "Thank You Jesus - Live",
+      "url": "https://open.spotify.com/track/0J6stnJiIO8QC6sCQzGZsX"
+    },
+    {
+      "album": {
         "name": "Thank You Lord (Live)",
         "url": "https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE"
       },
@@ -8809,7 +8867,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217191,
       "name": "The Jesus Way",
       "url": "https://open.spotify.com/track/3T7cxYf9tElo30T84xAuCG"
@@ -8933,7 +8991,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 336249,
       "name": "The Lord Will Provide - Live From Passion 2024",
       "url": "https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW"
@@ -9626,6 +9684,24 @@
     },
     {
       "album": {
+        "name": "Life is Hard. God is Good.",
+        "url": "https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330167,
+      "name": "To The Lamb",
+      "url": "https://open.spotify.com/track/5IILKBAHeBrZyyrdYq8FwA"
+    },
+    {
+      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
@@ -9805,6 +9881,28 @@
       "duration_ms": 308254,
       "name": "Trust You Again",
       "url": "https://open.spotify.com/track/6S1ba7g7dfOq4h4kWVpJO0"
+    },
+    {
+      "album": {
+        "name": "Undeserving (Ready For You)",
+        "url": "https://open.spotify.com/album/58JDtCxbi8kpaV4zYTh1aY"
+      },
+      "artists": [
+        {
+          "name": "ICF Worship",
+          "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dominik Laim",
+          "url": "https://open.spotify.com/artist/0udPC7cUyylgH64F092xPd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Undeserving (Ready For You)",
+      "url": "https://open.spotify.com/track/7zMzRCGESIFqRxWFl51O0J"
     },
     {
       "album": {
@@ -10151,28 +10249,6 @@
     {
       "album": {
         "name": "Who Else (Live)",
-        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "date_added": "2024-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 331219,
-      "name": "Who Else - Live",
-      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
-    },
-    {
-      "album": {
-        "name": "Who Else (Live)",
         "url": "https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB"
       },
       "artists": [
@@ -10191,6 +10267,28 @@
       "duration_ms": 290894,
       "name": "Who Else - Live",
       "url": "https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H"
+    },
+    {
+      "album": {
+        "name": "Who Else (Live)",
+        "url": "https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331219,
+      "name": "Who Else - Live at Gateway Conference",
+      "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
     },
     {
       "album": {

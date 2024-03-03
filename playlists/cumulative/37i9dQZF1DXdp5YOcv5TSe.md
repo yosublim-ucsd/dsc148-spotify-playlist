@@ -4,7 +4,7 @@
 
 > The official G2 Esports playlist\. Currently curated by: G2 CS2
 
-348 songs - 21 hr 12 min
+349 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2023-12-11 | 2024-01-28 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2023-07-26 | 2023-09-15 |
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2023-12-11 |  |
-| [Roze](https://open.spotify.com/track/0JNPCThIHsG8zphORbTR16) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/3F380dBX1laVxluSsl2Zf9) | 3:04 | 2023-07-26 |  |
+| [Roze](https://open.spotify.com/track/01N44Vg2hHhp2U4KXN7xzc) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/0fFVpuIf6YJudZ0Uukne82) | 3:04 | 2023-12-11 |  |
+| [Roze](https://open.spotify.com/track/0JNPCThIHsG8zphORbTR16) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/3F380dBX1laVxluSsl2Zf9) | 3:04 | 2023-07-26 | 2024-03-03 |
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-12-11 |  |
 | [Running With A Ghost](https://open.spotify.com/track/1aIKdWC2AwJV3AtBLDzm4M) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Grace](https://open.spotify.com/artist/7yQjrGrrDaA7vXTZTMFMoR) | [Teenage Emotions](https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL) | 3:51 | 2023-04-03 | 2023-04-28 |
 | [Sad \(feat\. Afrojack\)](https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Sad \(feat\. Afrojack\)](https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD) | 2:41 | 2023-04-27 | 2023-07-08 |

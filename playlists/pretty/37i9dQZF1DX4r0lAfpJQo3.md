@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 
 > All bad things must come to an end\. Listen to the music inspired by Breaking Bad, curated by Vince Gilligan and Thomas Golubić.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,088 likes - 62 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,159 likes - 62 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4r0lAfpJQo3.md) - [plain]
 | 61 | [El Paso](https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 4:19 |
 | 62 | [Baby Blue \- Remastered 2010](https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:37 |
 
-Snapshot ID: `MCxiODI1NjkzZmQ2NzcxMjk3MTdkM2Y2ODljMTM3NjNiZGVhNDA4M2Q0`
+Snapshot ID: `MCxhYjkzZmRjMzc1YTlmZjNhZGVlYTEyNjUxMTUxNzg4MGRkNGYwZjBi`

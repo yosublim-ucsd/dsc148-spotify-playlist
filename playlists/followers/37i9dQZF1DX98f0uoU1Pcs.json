@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 270213,
+  "2024-03-03": 270303,
   "date_first_scraped": "2021-12-21",
   "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Dehd",
   "name": "Noisy",
@@ -403,6 +403,24 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "album": {
+        "name": "Lemon On Plastic",
+        "url": "https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv"
+      },
+      "artists": [
+        {
+          "name": "Perennial",
+          "url": "https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65654,
+      "name": "Art History",
+      "url": "https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd"
     },
     {
       "album": {
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217342,
       "name": "Elvis In The Army",
       "url": "https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN"
@@ -3337,7 +3355,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156761,
       "name": "Final Summer",
       "url": "https://open.spotify.com/track/1Vl9uXkXwSCEit0hafWtFd"
@@ -4137,6 +4155,24 @@
       "duration_ms": 174558,
       "name": "Gut (Cookie Cut)",
       "url": "https://open.spotify.com/track/5acmJ71asU4lylieUAQFxP"
+    },
+    {
+      "album": {
+        "name": "Guzzle Blood",
+        "url": "https://open.spotify.com/album/3BbGyAaSxeOwC5CAeO1vYj"
+      },
+      "artists": [
+        {
+          "name": "Les Savy Fav",
+          "url": "https://open.spotify.com/artist/5DZBnxCYzs32O2bbqK8KNg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Guzzle Blood",
+      "url": "https://open.spotify.com/track/61cUK4RBgKkbBnRD9TvElW"
     },
     {
       "album": {
@@ -4977,7 +5013,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
@@ -6202,6 +6238,24 @@
     },
     {
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Loud Bark",
+      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
+    },
+    {
+      "album": {
         "name": "Love Is Fire",
         "url": "https://open.spotify.com/album/5KW9VWfXcQ7rI9tAF5Og0h"
       },
@@ -6872,6 +6926,24 @@
     },
     {
       "album": {
+        "name": "Half Divorced",
+        "url": "https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268389,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6"
       },
@@ -6883,7 +6955,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 268389,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx"
@@ -8532,6 +8604,24 @@
     },
     {
       "album": {
+        "name": "Running Through The Campus",
+        "url": "https://open.spotify.com/album/5CM0ezcLZzjZeQxwVlAeW1"
+      },
+      "artists": [
+        {
+          "name": "Cloud Nothings",
+          "url": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Running Through The Campus",
+      "url": "https://open.spotify.com/track/422l4EwnKnhoNDWtB1eeSD"
+    },
+    {
+      "album": {
         "name": "Same Difference",
         "url": "https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb"
       },
@@ -9605,7 +9695,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269015,
       "name": "Swing (In A Dream)",
       "url": "https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN"
@@ -9717,6 +9807,24 @@
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh"
+    },
+    {
+      "album": {
+        "name": "Playing Favorites",
+        "url": "https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq"
+      },
+      "artists": [
+        {
+          "name": "Sheer Mag",
+          "url": "https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "Tea On The Kettle",
+      "url": "https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o"
     },
     {
       "album": {
@@ -10239,7 +10347,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204033,
       "name": "Theia",
       "url": "https://open.spotify.com/track/6hmnybtq0KphATLwxZ1THd"

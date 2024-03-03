@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-562 songs - 1 day 9 hr 13 min
+564 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 | 2023-10-27 |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
-| [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 | 2023-11-10 |  |
+| [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 | 2023-11-10 | 2024-03-03 |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-07-28 |  |
 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2023-10-27 |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
@@ -72,6 +72,7 @@
 | [Caer](https://open.spotify.com/track/6nZyCxho4vUZ8NYMqarGxb) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [21](https://open.spotify.com/album/54nZ5cngRbzb1n6O77uUvd) | 3:01 | 2022-07-01 | 2022-07-24 |
 | [Camboya](https://open.spotify.com/track/3UnJZXnun86Yel6yJsK8Gp) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Cobra Filipina](https://open.spotify.com/album/0KYV5W1TsFdtGmmchSab0G) | 3:15 | 2022-06-03 | 2022-07-24 |
 | [Camisa Narco](https://open.spotify.com/track/4cL55AHQbC3sgxOR6rYuMG) | [Las Armas Bs\. As.](https://open.spotify.com/artist/6DW99ulUSSJHyUzdNJuimJ) | [Vol.I](https://open.spotify.com/album/0SwMxvldDmIAU6PWstYtvj) | 3:30 | 2022-07-01 | 2022-07-16 |
+| [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 | 2024-02-29 |  |
 | [Canción de Flora](https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Canción de Flora](https://open.spotify.com/album/7cVg7x1aVZYh0qP7oB1Lxw) | 3:49 | 2022-06-03 | 2022-07-29 |
 | [Candy](https://open.spotify.com/track/0QQtYBkrf5hyxJFej7n8WT) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Candy](https://open.spotify.com/album/7dM9MuZU35g3k4Ow5YfQdM) | 2:47 | 2022-06-03 | 2023-03-03 |
 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-07 |  |
@@ -104,6 +105,7 @@
 | [Corta el Pasto](https://open.spotify.com/track/6Q4pQccsF4MxLRJvOKMLgn) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB) | [Corta el Pasto](https://open.spotify.com/album/5jMETPlnode6bJwSL9Xz9e) | 3:39 | 2022-07-15 | 2022-07-24 |
 | [Cowabunga](https://open.spotify.com/track/2f9nPIbfe3VLzOY2yAZyul) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Cowabunga](https://open.spotify.com/album/1VvgRcf9Wylmx8iLWpbTdc) | 4:07 | 2023-08-11 | 2023-08-25 |
 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 | 2023-10-27 |
+| [Crucificame](https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu) | [Por ejemplo ahora](https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy), [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Prietto](https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts) | [Rain](https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS) | 4:30 | 2024-02-29 |  |
 | [Cuando Dormís](https://open.spotify.com/track/1kJRzMvUuyraGRpYoLJwJH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Cuando Dormís](https://open.spotify.com/album/6w1W1PFLtW6GAb20rIIuN3) | 2:21 | 2022-06-03 | 2022-07-28 |
 | [Cuando Llegaste](https://open.spotify.com/track/5xVyBw15GcXawmYpYf2kmf) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Cuando Llegaste](https://open.spotify.com/album/55eWMznApVTgLen1AdgSLw) | 2:42 | 2022-07-01 | 2022-07-24 |
 | [Cuenta Conmigo](https://open.spotify.com/track/5pkLzY2lawUgk6TZHph7uN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Cuenta Conmigo](https://open.spotify.com/album/1PV8wnu2yvaGsq7WQnbj4P) | 4:51 | 2022-06-03 | 2022-07-29 |
@@ -528,7 +530,7 @@
 | [Tú No Me Tienes Que Salvar](https://open.spotify.com/track/0ytEtD2kJH402e4tr29BCE) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Tú No Me Tienes Que Salvar](https://open.spotify.com/album/0SpuX0dssFYOk9FbkqJgih) | 3:50 | 2022-06-03 | 2022-07-29 |
 | [Tú No Me Tienes Que Salvar](https://open.spotify.com/track/648639ImUdRqgV1nzvXYQE) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Tú No Me Tienes Que Salvar](https://open.spotify.com/album/5pzm3qZYdcY2WucocBaTj9) | 3:50 | 2022-07-15 | 2023-03-03 |
 | [Ultravioleta](https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F), [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ultravioleta](https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO) | 5:14 | 2022-11-11 | 2023-08-05 |
-| [Umbral](https://open.spotify.com/track/0a8Jx0sGNGXqouKK6uBXp7) | [EUI](https://open.spotify.com/artist/3IdEjZcMkM3f1IcFQkSj92) | [Umbral](https://open.spotify.com/album/3R0a1IuzAvXBgIW9eXR6O0) | 2:52 | 2024-02-29 |  |
+| [Umbral](https://open.spotify.com/track/0a8Jx0sGNGXqouKK6uBXp7) | [EUI](https://open.spotify.com/artist/3IdEjZcMkM3f1IcFQkSj92) | [Umbral](https://open.spotify.com/album/3R0a1IuzAvXBgIW9eXR6O0) | 2:52 | 2024-02-29 | 2024-03-03 |
 | [Un Cactus](https://open.spotify.com/track/1ryPVXya20fTWNhxzydX4K) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Supersad \(Parte 2\)](https://open.spotify.com/album/24EzhJe728sgblG5U3zDE0) | 2:16 | 2022-06-03 | 2022-07-23 |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2022-09-09 | 2022-10-12 |
 | [Un Recuerdo](https://open.spotify.com/track/1q06uH13BsX1S7xW7FAjlQ) | [Andrés Guerrero](https://open.spotify.com/artist/5DZ6Jknzod4InSRVzxpajz), [DOMΔ](https://open.spotify.com/artist/4CEn2mufh7u7qkxxC0ICDk) | [Un Recuerdo](https://open.spotify.com/album/5SqxZQlpBefSeSTrbeMi3g) | 4:43 | 2022-07-01 | 2022-07-29 |

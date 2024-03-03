@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: ReoNa",
-  "num_followers": 154056,
+  "num_followers": 154126,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTQ1NjY5ZDUxODFmODM2NWU1MDFmYTNiMWVhMTliZjQxY2UyZmZl",
+  "snapshot_id": "MCxjNmZjMWMzYTNiOTEyYTllN2ZkNmNhMzk0OWMxNmUwMjY3MTgzMTVm",
   "tracks": [
     {
       "added_at": "2024-02-20 15:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
+        "name": "Gotoubun no Hanayome ~Arigatou no Hana~",
+        "url": "https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Gotoubun no Hanayome ~Arigatou no Hana~",
+      "url": "https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
         "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
         "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 161166,
       "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
       "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
-        "name": "Gotoubun no Hanayome ~Arigatou no Hana~",
-        "url": "https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
-          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Gotoubun no Hanayome ~Arigatou no Hana~",
-      "url": "https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls"
     }
   ],
   "unique_name": "EQUAL Anime",

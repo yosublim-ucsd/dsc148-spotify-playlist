@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 50351,
+  "num_followers": 50357,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjM2YzQ2MzE1ZjE3M2EzZDYzNzIzODUxNzkzMWNmOTY3ODA5Y2Iy",
+  "snapshot_id": "MCxiN2M3ZGIwYWY1ZGVjNjkxOTg3MWM4MGUzNGU4YzdiYTI1ZDg3NjY4",
   "tracks": [
     {
       "added_at": "2024-01-26 03:01:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Walkin (Key Glock remix)",
         "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "luvu222",
-        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
       },
       "artists": [
         {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 110571,
-      "name": "luvu222",
-      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 174474,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "BLOCKBUSTA",
-        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 201356,
-      "name": "REMIND 'EM (feat. Quavo)",
-      "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 226006,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 201356,
+      "name": "REMIND 'EM (feat. Quavo)",
+      "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "King Zoo",
-        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 118615,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "King Zoo",
+        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 118615,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -2259,18 +2259,18 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+        "name": "Muddy Waters",
+        "url": "https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 187416,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
+      "duration_ms": 251480,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -2291,42 +2291,18 @@
     {
       "added_at": "2024-01-26 03:01:00",
       "album": {
-        "name": "Muddy Waters",
-        "url": "https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h"
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
       },
       "artists": [
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 251480,
-      "name": "Pick It Up",
-      "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
-    },
-    {
-      "added_at": "2024-01-26 03:01:00",
-      "album": {
-        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
+      "duration_ms": 187416,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
     },
     {
       "added_at": "2024-01-26 03:01:00",
@@ -2351,6 +2327,30 @@
       "duration_ms": 242006,
       "name": "A Roller Skating Jam Named \"Saturdays\"",
       "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
+    },
+    {
+      "added_at": "2024-01-26 03:01:00",
+      "album": {
+        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
     },
     {
       "added_at": "2024-01-26 03:01:00",

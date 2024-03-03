@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,450 likes - 20 songs - 1 hr 6 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,454 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 8 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
 | 9 | [MALIBU MARY \- Kaskade Remix](https://open.spotify.com/track/7GFyb8WP3hN3YAq18kJjqc) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [MALIBU MARY \(Kaskade Remix\)](https://open.spotify.com/album/6baFJpbqBf1fypEsR7KOVs) | 4:16 |
 | 10 | [Monaco](https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Monaco EP](https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug) | 3:20 |
-| 11 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 11 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 12 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 |
 | 13 | [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 |
 | 14 | [Touch](https://open.spotify.com/track/2AsEtnstQ2rOThdttbqTbL) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [I'm Ready EP](https://open.spotify.com/album/66h6uOgDSkRrTD0eG0PE4W) | 3:07 |

@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 30 min
+64 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [I Remember You](https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL) | 4:13 | 2023-11-10 |  |
 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/07GGbKqM9rBCv8sGFwpp3Q) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:06 | 2023-11-10 |  |
 | [Isobel](https://open.spotify.com/track/1qyD5xpCI53VtITnxwB5Xn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:47 | 2023-11-10 |  |
-| [It's Not Up To You](https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:08 | 2023-11-10 |  |
+| [It's Not up to You](https://open.spotify.com/track/4bZnIdaGBf162pZEkxXSgQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:08 | 2024-03-02 |  |
+| [It's Not Up To You](https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:08 | 2023-11-10 | 2024-03-03 |
 | [It's Oh So Quiet](https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:38 | 2023-11-10 |  |
 | [I’ve Seen It All](https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20) | 5:29 | 2023-11-10 |  |
 | [Jóga](https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 5:05 | 2023-11-10 |  |
@@ -47,6 +48,7 @@
 | [Like Someone In Love](https://open.spotify.com/track/61QEkw7VnsH9kWUm1Zjunq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:33 | 2023-11-10 | 2023-12-16 |
 | [Lionsong](https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:08 | 2023-11-10 |  |
 | [Mycelia](https://open.spotify.com/track/15hl5FGO5b5ChONsKTLvde) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 2:00 | 2023-11-10 | 2024-01-28 |
+| [Mycelia](https://open.spotify.com/track/61HE70rCrYsQCuZuL54Ni5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 2:00 | 2024-03-02 |  |
 | [No Embrace](https://open.spotify.com/track/5v7JvwgoPu7U6yERGNhruD) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca](https://open.spotify.com/album/0zm40o2MnYmpxcKKProN8U) | 4:13 | 2024-01-30 | 2024-02-02 |
 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 | 2023-11-10 |  |
 | [Oceania](https://open.spotify.com/track/4aQGlcbxrtsDRo8JvMUDC5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:24 | 2023-11-10 |  |

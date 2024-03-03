@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,629 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,647 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 48 | [Jíbaro](https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:09 |
 | 49 | [Como lo Hiciste Ayer](https://open.spotify.com/track/6qO97TNzBV8SUlYweB6TwL) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Como lo Hiciste Ayer](https://open.spotify.com/album/7FDqEsJCMBdctcmfA81r0F) | 3:41 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDA2MTg2ZmRiYjJiY2MyZGE2MTg5MWQwMjljOTg2NDljZg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDAzMWY5ZWQyZTVhZmUwNDM5N2MyYTY0ZmRhY2QxYzNjMQ==`

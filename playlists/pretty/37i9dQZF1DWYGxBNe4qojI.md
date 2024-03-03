@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: The Roots
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,305 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,397 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
 | 50 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
 
-Snapshot ID: `MCwyZTVkMDAwODcyMTcxODVjODkzMjdkNmJmNjAxNDM3OTA4YTVmYzk4`
+Snapshot ID: `MCwyZDM1NGZmOTVmODg4ODc3Mjk0NjgwZGZiYWVlODRiYTAyMzc0OWI0`

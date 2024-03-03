@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,047 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,054 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 20 | [Drift driving](https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:04 |
 | 21 | [DAYBREAK INTERLUDE](https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:52 |
 | 22 | [Re\-raise](https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re\-raise](https://open.spotify.com/album/1ahdCCGrE726AaQLrl5bu2) | 4:13 |
-| 23 | [カラフル](https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カラフル](https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e) | 4:38 |
-| 24 | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 |
+| 23 | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 |
+| 24 | [カラフル](https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カラフル](https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e) | 4:38 |
 | 25 | [幸せでいて](https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 5:00 |
 | 26 | [Labyrinth](https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Labyrinth](https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt) | 4:35 |
 | 27 | [星屑マジック](https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:33 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 38 | [願いはShine On The Sea](https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 3:38 |
 | 39 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
 | 40 | [U COMPLETE ME](https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:19 |
-| 41 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
-| 42 | [ピタゴラス☆ファイター](https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ピタゴラス☆ファイター](https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR) | 5:24 |
+| 41 | [ピタゴラス☆ファイター](https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ピタゴラス☆ファイター](https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR) | 5:24 |
+| 42 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 43 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
 | 44 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
 | 45 | [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 67 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
 | 68 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 69 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
-| 70 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
+| 70 | [TOMORROW EViDENCE](https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:26 |
 
-Snapshot ID: `MCxhNjM1NmJhZTNlY2MxNWFlODRiMGZhYWFlODI2ZjBjYzQxODkzNjU4`
+Snapshot ID: `MCxhNjM3NDljZDMxZmNjYmQ2Y2QzODcwOWI3ODEzMDU2MGFhZDk2ZTQx`

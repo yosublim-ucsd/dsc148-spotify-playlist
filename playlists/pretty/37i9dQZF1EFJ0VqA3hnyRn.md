@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 248 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 248 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 32 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0nAq9zxgvrVVFYnY7ZwkCf) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [777](https://open.spotify.com/album/5ueY4adtiHTNj7FLkgb15I) | 3:01 |
 | 33 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
 | 34 | [Jennie \(feat\. R\. City, Bori\)](https://open.spotify.com/track/7uM7YZwNZqdDMG0NfGhmux) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:04 |
-| 35 | [Can't Stop Dancin'](https://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Can't Stop Dancin'](https://open.spotify.com/album/0fwnH770rSy9L2F172lTMu) | 3:18 |
-| 36 | [L.A.LOVE \(la la\) \(feat\. YG\)](https://open.spotify.com/track/746BlfyY0hVG65EtfaNvwo) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:31 |
+| 35 | [L.A.LOVE \(la la\) \(feat\. YG\)](https://open.spotify.com/track/746BlfyY0hVG65EtfaNvwo) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:31 |
+| 36 | [Can't Stop Dancin'](https://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Can't Stop Dancin'](https://open.spotify.com/album/0fwnH770rSy9L2F172lTMu) | 3:18 |
 | 37 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
 | 38 | [Take You There](https://open.spotify.com/track/6AdLyvisRKHLAwARaZMGr6) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:56 |
 | 39 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 247 | [Treat](https://open.spotify.com/track/4ZiqVkjqQ5vgCWmMbo8wBM) | [Rice Krispies Treats](https://open.spotify.com/artist/7sypsCkKclWN3euFcaJIf6) | [Treat](https://open.spotify.com/album/2rzEqrSxpm9uQ2W6epyXre) | 2:46 |
 | 248 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg0ODkxMDAsMDAwMDAwMDAwYTkzNzc1ZmM2NGE2ZGRlYzEwOTlkNGI5OTdhMjgwZQ==`
+Snapshot ID: `Mjg0OTA1NDAsMDAwMDAwMDBkZmIxYjcxY2M5YzQ1ZWU0Yjg4MGJhNTNhZWFhZWU4OA==`

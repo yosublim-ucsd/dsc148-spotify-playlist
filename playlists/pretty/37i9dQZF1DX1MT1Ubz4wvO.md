@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Volcán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,169 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,185 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [lo q necesitabas](https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [lo q necesitabas](https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT) | 1:43 |
 | 50 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 
-Snapshot ID: `MCw4NTU5YjQyMzNjYmM5MDUwNTY1OGNhOTkzMjVhYmYxNmM2ZjUxYWZh`
+Snapshot ID: `MCxhYWJkMjM0ZTRiOWJmZTJkYjhmOGUxOGFlODA4YmI2MmI2YWEyOTcw`

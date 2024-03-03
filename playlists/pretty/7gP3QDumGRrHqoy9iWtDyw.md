@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,426 likes - 172 songs - 11 hr 7 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,508 likes - 172 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 87 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 88 | [Son De Lo](https://open.spotify.com/track/3U9GYQdeo9YiXzNxvTEGhu) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Son De Lo](https://open.spotify.com/album/4PqdFzjOLS359UQVTs2zzG) | 3:05 |
 | 89 | [Más](https://open.spotify.com/track/24VzgnyiJGGs5kXrUP6Bzh) | [Nolek](https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Más EP](https://open.spotify.com/album/1qtCUy1YhIEU6H2a5C0OKX) | 3:30 |
-| 90 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 |
+| 90 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 |
 | 91 | [Deeper Love](https://open.spotify.com/track/2LgCE2RDlkqxXmJzdJx6lw) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Valntna](https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn) | [Deeper Love](https://open.spotify.com/album/3xXEPcM9asl2xphtVKiDKa) | 2:15 |
 | 92 | [To My Beat](https://open.spotify.com/track/6hipG3AE5fxqxTyjIV0WjW) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV) | [To My Beat](https://open.spotify.com/album/5xrRS6Py811EiTkxg0bCHk) | 3:19 |
 | 93 | [Looney Tune \- Rico The Wizard 97' Lemon Mix](https://open.spotify.com/track/2jfw4IlavZ4FvW1vYtfGlx) | [nit](https://open.spotify.com/artist/40HtWrk52wYoKa7OvTded8), [Rico The Wizard](https://open.spotify.com/artist/6rfITpHS30aWFsJ0CWMDTm) | [Looney Tune](https://open.spotify.com/album/7ChRg8EyEs5vcVB51JoNoZ) | 5:37 |

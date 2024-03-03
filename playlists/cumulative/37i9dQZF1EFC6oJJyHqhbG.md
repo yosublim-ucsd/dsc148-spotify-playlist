@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 7 hr 17 min
+121 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Sayonara](https://open.spotify.com/track/16ixxF0p99BSfdN6c5GvFx) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:41 | 2024-02-27 |  |
 | [Sayonara](https://open.spotify.com/track/3pxpehNYmzUrRM98mjl7zV) | [Widi Widiana](https://open.spotify.com/artist/5EaOkE5kUc9OLIUgFepJKL) | [Gek Cantik](https://open.spotify.com/album/3uvjHYzBWj1CGDCHins7uP) | 4:34 | 2024-02-27 |  |
 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 | 2024-02-27 |  |
+| [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 | 2024-03-02 |  |
 | [Sensitive Subject Matter](https://open.spotify.com/track/2KbyUAh59HHFd4SRAa5VG3) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:05 | 2024-02-27 |  |
 | [Show Me](https://open.spotify.com/track/2citvEGmOgIoGl6Jend3cU) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:06 | 2024-02-27 |  |
 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 | 2024-02-27 |  |

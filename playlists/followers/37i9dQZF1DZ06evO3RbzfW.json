@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1297221,
+  "2024-03-03": 1297457,
   "date_first_scraped": "2022-05-31",
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
   "name": "This Is Rammstein",
@@ -161,10 +161,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201533,
       "name": "B\u00fcck dich",
       "url": "https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht (Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203383,
+      "name": "B\u00fcck dich",
+      "url": "https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg"
     },
     {
       "album": {

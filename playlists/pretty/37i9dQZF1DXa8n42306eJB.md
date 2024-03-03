@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,893 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,971 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 64 | [Party](https://open.spotify.com/track/0AHbwnfwocPdIN9CvQCYKr) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/01G2mx0ulpRXWEYr7jnVvI) | 4:37 |
 | 65 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 |
 | 66 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
-| 67 | [My Everything](https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P) | 4:13 |
+| 67 | [My Everything](https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Sefos.Beats](https://open.spotify.com/artist/2aTFbEhLLTETPB9jRgs8VI) | [My Everything](https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P) | 4:13 |
 | 68 | [Show Me](https://open.spotify.com/track/0ERGzuyTquZmQwOmeZLZpr) | [Nesian N.I.N.E.](https://open.spotify.com/artist/7DUqqw1aXnOYoiB7ebj4ra) | [Press Play](https://open.spotify.com/album/2EOopSh7XEMhVLrUlwHv6I) | 4:22 |
 | 69 | [Girl Let Me Love You](https://open.spotify.com/track/4Y9zKEV6KQPtzXR4QhK8ra) | [Hiiata](https://open.spotify.com/artist/1njbZwHly0BAjymors85Nv) | [Girl Let Me Love You](https://open.spotify.com/album/1tLbrpwrPP2etSdewPhyZ7) | 3:17 |
 | 70 | [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 80 | [If I Ever \(feat\. J Boog\)](https://open.spotify.com/track/24QYLOpc7vYphfSk89ZEeg) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [If I Ever \(feat\. J Boog\) \- Single](https://open.spotify.com/album/5i8MnTWpHcGZdO6F775dWE) | 4:42 |
 | 81 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCwzMDhhMzkyYzYzZWZkMzY0Y2YxZDYxMGU2OTQxN2Q2YmU0NWZjOGJj`
+Snapshot ID: `MCxhYWYyZGRiZjNhNDg1NTFlYTg2NzQ4YmViNGY3NzU5MTdlMzExMDY3`

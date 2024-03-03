@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Jasiel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,227 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,253 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 |
 | 90 | [No Vas A Volver](https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Danno Summer](https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2) | [Malas Decisiones](https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2) | 3:01 |
 
-Snapshot ID: `MCwwYmQ2NTdhMzhmZWJmZjQxZjg2MWJlYWEyN2FlMGRhZmE5NjE2Yzhl`
+Snapshot ID: `MCxiOWQyZWE3MjQ2YTJmODM1MmJjMmMxNjI0Y2RlMDMxZmE1ZjVkM2Nh`

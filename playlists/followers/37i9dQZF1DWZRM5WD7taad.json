@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 59152,
+  "2024-03-03": 59165,
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ana Tijoux en Portada ",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ximbo en Portada ",
   "name": "Femcees",
   "tracks": [
     {
@@ -735,7 +735,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 248236,
       "name": "Boom Bap",
       "url": "https://open.spotify.com/track/2kIXwWsqqkSl16EaBBPHta"
@@ -2251,7 +2251,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194685,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/501X2Nrk11zzfOn546Rhti"
@@ -4818,6 +4818,28 @@
     },
     {
       "album": {
+        "name": "Todxs lxs cuerpxs",
+        "url": "https://open.spotify.com/album/6FUGcy9fgsWJBJQeDhkr9g"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        },
+        {
+          "name": "KEVS",
+          "url": "https://open.spotify.com/artist/7raTkac2KWLDPLyqBS0kqj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Todxs lxs cuerpxs",
+      "url": "https://open.spotify.com/track/31QL88tRXrt1HauyNoyxs4"
+    },
+    {
+      "album": {
         "name": "TOLKIN YIT",
         "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
       },
@@ -5153,6 +5175,28 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "Wollstonerap (Fuerza, fe y poder)",
+        "url": "https://open.spotify.com/album/24JHxvMUs1TyEONrm68kbH"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Rabia Rivera",
+          "url": "https://open.spotify.com/artist/1mKlMW38n3dOmsOIfaOaOU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Wollstonerap (Fuerza, fe y poder)",
+      "url": "https://open.spotify.com/track/58EAlRZqL57qmBazrcmYlk"
     },
     {
       "album": {

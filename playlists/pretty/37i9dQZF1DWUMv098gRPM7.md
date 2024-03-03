@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Aqyila
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,413 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,428 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
 | 75 | [Always](https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Lost In You](https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt) | 2:33 |
 
-Snapshot ID: `MCw0YWI0YTA2MDU5MjcwZmFkMTY0YjVmNmEwOTM3OGY0N2QxNTdjMzMx`
+Snapshot ID: `MCw5YmEyYTdmNmQ2ZDNkMTBhZjMwMDhiNTgyODM2ODVhZTk4NWNiNDBl`

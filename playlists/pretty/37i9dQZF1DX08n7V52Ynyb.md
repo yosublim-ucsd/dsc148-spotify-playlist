@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,940 likes - 125 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,008 likes - 125 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 70 | [From a Mother to a Child](https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads La Cour](https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf) | [Indigo](https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx) | 7:28 |
 | 71 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 |
 | 72 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 |
-| 73 | [Body And Soul](https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL) | [Muriel Zoe](https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq) | [Neon Blue](https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh) | 4:22 |
-| 74 | [Maybe You'll Be There](https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 3:39 |
+| 73 | [Maybe You'll Be There](https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 3:39 |
+| 74 | [Body And Soul](https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL) | [Muriel Zoe](https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq) | [Neon Blue](https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh) | 4:22 |
 | 75 | [Lush Life](https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:45 |
 | 76 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 |
 | 77 | [City Garden](https://open.spotify.com/track/3aK6okIXyrM2nVDCSHB9v6) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1) | 6:34 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 92 | [Memories of You](https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:20 |
 | 93 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 |
 | 94 | [There You Are](https://open.spotify.com/track/1g30SgnZXLzcgHj9eVszPs) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [There You Are](https://open.spotify.com/album/12f8nBfTJsR7JYovTWFprd) | 4:16 |
-| 95 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
-| 96 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 |
+| 95 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 |
+| 96 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
 | 97 | [Nature Boy](https://open.spotify.com/track/6FlvwL0btl7luPQ3BwvTRE) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:35 |
 | 98 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 |
 | 99 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [Free](https://open.spotify.com/track/0KusctMrYGg8GPNJ9toqLn) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Free](https://open.spotify.com/album/3eGu0A9JdxOx38N5iY556O) | 3:35 |
 | 125 | [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 |
 
-Snapshot ID: `MCwwZDBiNzFjNDc3ZjlhOWM1ZjdiNmY3NjliNzIzNzU5YTA5NWFkZjkw`
+Snapshot ID: `MCxlMDEyM2E0YjEyYTUzZWJmNzAyNjEzNzAxMDJkMzI0OTYyMzkwYWNj`

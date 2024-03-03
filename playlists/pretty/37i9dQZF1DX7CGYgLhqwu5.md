@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,396 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,432 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 100 | [Misery Loves Company](https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Viva](https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk) | 2:33 |
 
-Snapshot ID: `MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0`
+Snapshot ID: `MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl`

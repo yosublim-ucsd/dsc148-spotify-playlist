@@ -1,12 +1,12 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 1713,
+  "num_followers": 1723,
   "original_name": "Songs You Need To Save",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQ1ODQ2MGRhODBlZDE2YzA5OTdhMTk2MGYzOTJjZTU5YjE4ZTQ5",
+  "snapshot_id": "MCxlNWMxNjM0ZmViNGFlYTEwYTZkYjA0MTYyNjg0Mjg5YzdiN2ExZmQ5",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -112,7 +112,7 @@
       },
       "artists": [
         {
-          "name": "Saiko",
+          "name": "SAIKO",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "lady madrizZz",
-        "url": "https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 131020,
-      "name": "lady madrizZz",
-      "url": "https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Mamasota",
         "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "VITALICIO",
-        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+        "name": "lady madrizZz",
+        "url": "https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         }
       ],
-      "duration_ms": 120000,
-      "name": "VITALICIO",
-      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
+      "duration_ms": 131020,
+      "name": "lady madrizZz",
+      "url": "https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -255,6 +239,22 @@
       "duration_ms": 219526,
       "name": "REM",
       "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "roadhead",
-        "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "roadhead",
-      "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 211474,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "roadhead",
+        "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "roadhead",
+      "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -439,6 +439,22 @@
       "duration_ms": 335111,
       "name": "Ron En El Piso",
       "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 195928,
       "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     }
   ],
   "unique_name": "Songs You Need To Save",

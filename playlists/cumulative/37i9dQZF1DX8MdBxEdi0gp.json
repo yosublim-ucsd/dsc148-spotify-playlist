@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 206226,
       "name": "El cari\u00f1o que perd\u00ed",
       "url": "https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw"
@@ -3354,6 +3354,24 @@
       "duration_ms": 182999,
       "name": "Recuerdos de una Noche",
       "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
+    },
+    {
+      "album": {
+        "name": "Frente a Frente de Tr\u00edos",
+        "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198310,
+      "name": "Reg\u00e1lame Esta Noche",
+      "url": "https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw"
     },
     {
       "album": {

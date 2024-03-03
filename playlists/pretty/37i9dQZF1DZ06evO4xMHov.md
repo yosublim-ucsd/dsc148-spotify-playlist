@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,222 likes - 51 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,230 likes - 51 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Deus do Impossível, YAHWEH \- Ao Vivo](https://open.spotify.com/track/22xPTz1KSuxHCwIcKVmAtl) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Deus do Impossível, YAHWEH \(Ao Vivo\)](https://open.spotify.com/album/1gWiTsl8U6Mgxm6MxVRhGh) | 5:46 |
 | 51 | [Sua Justiça Prevalecerá \- Ao Vivo](https://open.spotify.com/track/4V7D0jAi0jQ63KevpcXurL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 5:07 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDBhNjlkNGVjODBhZTMwZDc5ZjA3NWRmNmM2YzQxMzExZg==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDAxYjAzMDMzZjQyMGE3OTI2MDM3ZGIyZDg5NWUzN2U1Yw==`

@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 532538,
+  "num_followers": 532669,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYwNjdhZTJhNjAxMzk2YzhiMWFiNTQ0ODBhYjYwMjRiZWYxYzhj",
+  "snapshot_id": "MCxiOGQ3Yjk4OGJkMzI4ZGMxOGY3MjczNDhiM2FlZWE1YWY2NGQ0MjE3",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 173288,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
         "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 188250,
       "name": "bolero de desamor",
       "url": "https://open.spotify.com/track/7FS3QZg04oaKrtOgQjluVu"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-02-16 06:00:00",

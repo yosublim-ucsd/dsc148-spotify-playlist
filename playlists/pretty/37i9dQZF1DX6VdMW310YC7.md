@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,702,134 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,702,441 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 16 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 |
 | 17 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 |
 | 18 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
-| 19 | [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 |
+| 19 | [Hope](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA) | 3:41 |
 | 20 | [Pipi Dormir](https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Pipi Dormir](https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU) | 6:34 |
 | 21 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 |
 | 22 | [Demons \- Massane Remix](https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ) | 4:03 |
@@ -79,17 +79,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 69 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 | 70 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 |
 | 71 | [By Your Side](https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [By Your Side](https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx) | 3:40 |
-| 72 | [It's Ok It's Alright](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [It's Ok It's Alright](https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h) | 4:03 |
-| 73 | [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 |
+| 72 | [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 |
+| 73 | [It's Ok It's Alright](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [It's Ok It's Alright](https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h) | 4:03 |
 | 74 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 75 | [Before Dawn](https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Before Dawn](https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb) | 3:18 |
 | 76 | [Anywhere \(Road Trippin'\)](https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Anywhere \(Road Trippin'\)](https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA) | 4:34 |
 | 77 | [Paradise](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Paradise](https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo) | 4:07 |
-| 78 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
+| 78 | [The Chase \(Edit\)](https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Chase \(Edit\)](https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ) | 2:50 |
 | 79 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 80 | [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 |
 | 81 | [Rule The World](https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Rule The World](https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth) | 2:56 |
-| 82 | [The Chase \(Edit\)](https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Chase \(Edit\)](https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ) | 2:50 |
+| 82 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 | 83 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
 | 84 | [Give It Up](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Give It Up](https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u) | 5:16 |
 | 85 | [Holding Me Back](https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back](https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 |
 | 100 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 
-Snapshot ID: `MCxkMjQzOWIyZmUyYmQxZDc4NzFhNDAyODljNThmYzRmY2QyZmQ5ZmNj`
+Snapshot ID: `MCxjMDY3YjFhZWE1MWU0YWEzN2U0YWFjMTRlODRhNGU0OWZhOTgwNTg5`

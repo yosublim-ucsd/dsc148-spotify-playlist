@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Kemuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,931 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,987 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 79 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
 | 80 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
 
-Snapshot ID: `MCxjZThkOTk5ZjRkYjYxNGY3YTExMjc1MjMyN2JjODI5ODYyYjdkZmY3`
+Snapshot ID: `MCxlOWNmYjFlMmU5YzZhMDFhMTVhOTQxZDFmN2UwNWZjOTk5Njk4MmZi`

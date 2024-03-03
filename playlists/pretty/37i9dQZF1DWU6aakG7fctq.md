@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: A.CHAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,720 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,711 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 22 | [En Vez de Huir](https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo N..\. \(83%\)](https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW) | 4:22 |
 | 23 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
 | 24 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
-| 25 | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \- El Michels Affair Remix](https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \(El Michels Affair Remix\)](https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b) | 2:41 |
-| 26 | [Tuyo](https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tuyo](https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g) | 3:18 |
+| 25 | [Tuyo](https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tuyo](https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g) | 3:18 |
+| 26 | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \- El Michels Affair Remix](https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \(El Michels Affair Remix\)](https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b) | 2:41 |
 | 27 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
 | 28 | [Estar Cerca de Ti](https://open.spotify.com/track/5bpaf2lcJD8neZJu4hbqKc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Estar Cerca de Ti](https://open.spotify.com/album/6Ws43EfbO4IGba7j3gKXzl) | 2:05 |
 | 29 | [TOTAL90NOSTALGIA](https://open.spotify.com/track/5ffLdAti2Kb4XFZ2mPNrxp) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:28 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 87 | [Antes De Partir](https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Julian Carrion](https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih) | [Antes De Partir](https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq) | 5:27 |
 | 88 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
 | 89 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 |
-| 90 | [Fuego](https://open.spotify.com/track/3U9y0hOHQddR8idPdaSnAo) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/2Q7Chgh9BWep2hmZh5wPaF) | 2:58 |
-| 91 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 |
+| 90 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 |
+| 91 | [Fuego](https://open.spotify.com/track/3U9y0hOHQddR8idPdaSnAo) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/2Q7Chgh9BWep2hmZh5wPaF) | 2:58 |
 | 92 | [hot wheels](https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [hot wheels](https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2) | 2:49 |
 | 93 | [Donde Se Fue el Sol](https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Donde Se Fue el Sol](https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ) | 3:39 |
 | 94 | [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Solsticio](https://open.spotify.com/track/7u9sGwbew6vUE2TD6zs5ET) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Solsticio](https://open.spotify.com/album/62XqnH9WsWL8OViYAUQyCX) | 3:57 |
 | 100 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 
-Snapshot ID: `MCw1MTAwMzE2OWU5YTliNGQzZWYyODQ1MGYxODE2NDUyYmU5MWQxOWJi`
+Snapshot ID: `MCwxZjU4OTNhOWRhZmFlMTgyM2UxZmUwZGU2Mzc5NmI1MmY2MmM2NDUx`

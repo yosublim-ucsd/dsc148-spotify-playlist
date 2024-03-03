@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,520 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,568 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 34 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 |
 | 35 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 |
 | 36 | [Nos Usamos](https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Uno Es Mínimo Dos](https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK) | 4:29 |
-| 37 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 |
-| 38 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
+| 37 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
+| 38 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 |
 | 39 | [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 |
 | 40 | [Estoy Ahí](https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz) | [Mystérika](https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC) | [El Comienzo](https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN) | 3:56 |
 | 41 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 69 | [Miércoles Azul](https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys) | [Miércoles Azul](https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI) | 2:47 |
 | 70 | [Guaraní Landscape](https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv) | [Guaraní Landscape](https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY) | 3:09 |
 | 71 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |
-| 72 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
-| 73 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
+| 72 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
+| 73 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
 | 74 | [Orange Waves](https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh) | [Arkei](https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw) | [Aesthetic Beach](https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW) | 2:06 |
 | 75 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
 | 76 | [Monstera](https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Acrylic Label](https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F) | [Monstera](https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
 | 80 | [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 |
 
-Snapshot ID: `MCw0YTRhMDMwM2IxZDE4ZGUyNmQwMjU0M2Y5NmQ2OTZjMmE1OTg1YjA1`
+Snapshot ID: `MCxjMjlmNTVkNzE5Mjg3ODFhYzI4MWQ2MWYwMTczNjA1MTg0YWM3Y2I3`

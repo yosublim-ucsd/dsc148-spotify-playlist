@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 54000,
+  "2024-03-03": 54007,
   "date_first_scraped": "2023-07-23",
   "description": "The best of Brazilian House. Photo: Meca",
   "name": "House Brasil",
@@ -667,6 +667,24 @@
       "duration_ms": 135238,
       "name": "Cuando Vengas",
       "url": "https://open.spotify.com/track/1l0aHFk8ABCVRTshocDReQ"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/42y66yWBpykoMPXM6dIFlh"
+      },
+      "artists": [
+        {
+          "name": "Slow Motion",
+          "url": "https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/7CghqDGe1G987RBcNpAPew"
     },
     {
       "album": {

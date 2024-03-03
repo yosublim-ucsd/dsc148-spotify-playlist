@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,952 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,992 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 99 | [Boundaries \- DRAMA Remix](https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Boundaries \(DRAMA Remix\)](https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl) | 3:40 |
 | 100 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 |
 
-Snapshot ID: `MCwxYTcwNDgyZjRlNGI3OWYxMWMyZDhjNjdmZDVkZTExNDUwMTYzY2Y0`
+Snapshot ID: `MCwyYTA5OWQ4OTFiYWVmNDU3NTA3YzZjYzNkNmFlZWY2NWU4NzU0ZTE0`

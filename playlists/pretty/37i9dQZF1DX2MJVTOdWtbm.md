@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,583 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,584 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 45 | [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 |
 | 46 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 47 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 |
-| 48 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
-| 49 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 |
-| 50 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
-| 51 | [Aquí Sigo](https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:38 |
+| 48 | [Aquí Sigo](https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:38 |
+| 49 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
+| 50 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 |
+| 51 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 52 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 |
 | 53 | [Garabatos](https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO) | 3:22 |
 | 54 | [Escápate](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escápate](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 59 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
 | 60 | [Te La Dedico](https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:51 |
 | 61 | [Te Hice Mal \(Remix\)](https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI) | [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Hice Mal \(Remix\)](https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk) | 4:29 |
-| 62 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
-| 63 | [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 |
+| 62 | [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 |
+| 63 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
 | 64 | [Los Domingos La Paso Solita](https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Los Domingos La Paso Solita](https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h) | 3:19 |
 | 65 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 66 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 99 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
 | 100 | [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 |
 
-Snapshot ID: `MCwxNjM5MGE4ZDU1Yzk0YTIzMDIzOTQzZWMzMGU4Y2U5MjY2ODM5ZDE0`
+Snapshot ID: `MCw0ZTYwZGU5NzlhMzM1YjYxNTZmYzgwM2I5MjY4MDNkYmUwZGY4Mzcy`

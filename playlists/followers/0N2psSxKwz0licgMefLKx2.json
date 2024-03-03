@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 10400,
+  "2024-03-03": 10400,
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Keith Urban",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -93,6 +93,24 @@
       "duration_ms": 185110,
       "name": "Ain't The One",
       "url": "https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62"
+    },
+    {
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183820,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
     },
     {
       "album": {
@@ -497,7 +515,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 260959,
       "name": "Don't Take The Girl",
       "url": "https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 218813,
       "name": "Flip a Coin",
       "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
@@ -1148,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "Messed Up As Me",
+        "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Messed Up As Me",
+      "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
+    },
+    {
+      "album": {
         "name": "Milwaukee",
         "url": "https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V"
       },
@@ -1525,7 +1561,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 229106,
       "name": "Remember Me Well",
       "url": "https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm"
@@ -1673,10 +1709,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224837,
       "name": "So Many Summers",
       "url": "https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },
     {
       "album": {
@@ -1875,6 +1929,24 @@
       "duration_ms": 217058,
       "name": "This Is My Dirt",
       "url": "https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD"
+    },
+    {
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "album": {

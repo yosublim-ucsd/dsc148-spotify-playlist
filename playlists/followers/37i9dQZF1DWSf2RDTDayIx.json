@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 2343488,
+  "2024-03-03": 2343842,
   "date_first_scraped": "2021-12-21",
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
   "name": "Happy Beats",
@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
@@ -2977,6 +2977,28 @@
       "duration_ms": 187368,
       "name": "Guess I'm Jaded (RAC Mix)",
       "url": "https://open.spotify.com/track/6ivAF3eU90MFrhFi5EFkcQ"
+    },
+    {
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "album": {
@@ -3993,7 +4015,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 281381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
@@ -4873,7 +4895,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180943,
       "name": "Loving You (feat. Katy Alex)",
       "url": "https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb"
@@ -5377,6 +5399,28 @@
       "duration_ms": 201290,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0"
+    },
+    {
+      "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "album": {
@@ -7155,7 +7199,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210440,
       "name": "Suenos Bravos",
       "url": "https://open.spotify.com/track/2tMIzKu3vXQzvbDShxjbmu"

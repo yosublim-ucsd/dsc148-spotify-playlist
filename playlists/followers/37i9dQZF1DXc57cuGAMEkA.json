@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 102682,
+  "2024-03-03": 102702,
   "date_first_scraped": "2023-02-01",
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Pharrell Williams & Miley Cyrus, \u91ce\u7530\u6d0b\u6b21\u90ce, Eve, The Kid LAROI and more! cover: Pharrell Williams, Miley Cyrus\n",
   "name": "New Music Friday Japan",
@@ -27871,10 +27871,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 206013,
       "name": "Grooving Night",
       "url": "https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5"
+    },
+    {
+      "album": {
+        "name": "Grooving Night",
+        "url": "https://open.spotify.com/album/2BsJ7p2HeWyaLtDapCF8TT"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Grooving Night",
+      "url": "https://open.spotify.com/track/7wDbhuuqxiw0pCUAIEkVAW"
     },
     {
       "album": {
@@ -39770,6 +39788,24 @@
     },
     {
       "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
+    },
+    {
+      "album": {
         "name": "Likka Sto",
         "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
       },
@@ -42577,10 +42613,32 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 139826,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL"
+    },
+    {
+      "album": {
+        "name": "YELLOW CHEDDAR",
+        "url": "https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/1R1ithziTyKJ1qWjmQdRWM"
     },
     {
       "album": {
@@ -53554,7 +53612,7 @@
         },
         {
           "name": "Takashi Sorimachi",
-          "url": "https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e"
+          "url": "https://open.spotify.com/artist/4vQ7seGB4Mgvqt162vcgXG"
         }
       ],
       "date_added": "2024-02-29",
@@ -82227,7 +82285,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220500,
       "name": "\u30de\u30cb\u30de\u30cb",
       "url": "https://open.spotify.com/track/3Cw21i1oJAIsywtqTaFJGC"

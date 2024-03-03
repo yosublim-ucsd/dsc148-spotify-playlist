@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=k4DFCvkkR02xdMIFWyvsIA">Ricky Tyler</a>, <a href="https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=BpFQ2gMISXGC5lAblqoGFg">Bien</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,777 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,793 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 73 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 |
 | 74 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 |
 
-Snapshot ID: `MCw3MzJhMWM3NmU1MjEwZGI3YTVkNWM0YzYyZjkyMzhiYmJiMDhhNjVm`
+Snapshot ID: `MCw3ZGMzNTkxY2RmYzgyY2IwOGU5MTIzODQwMTkxYWNmOTA0YzljZjEz`

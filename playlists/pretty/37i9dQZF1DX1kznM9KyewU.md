@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,520 likes - 90 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,526 likes - 90 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
 | 90 | [Word Up \- Radio Mix](https://open.spotify.com/track/17CWwbHJ2ThM5MXj90ObrS) | [Gun](https://open.spotify.com/artist/1dip2dCkBIylIFyDfZQfFu) | [Swagger](https://open.spotify.com/album/4otuhE6BoXmrxa12vW6deO) | 4:20 |
 
-Snapshot ID: `MCwzYzEwZDYyYWZkMmIxODBjY2NkNWIzZjJiMTQ1NGNlMjA2MjU0Yjdj`
+Snapshot ID: `MCxlYzJjZWU3YTc0OTRjYzFiNmM5N2JiYTU5MDcyNGVmZjM2MzJiY2Vi`

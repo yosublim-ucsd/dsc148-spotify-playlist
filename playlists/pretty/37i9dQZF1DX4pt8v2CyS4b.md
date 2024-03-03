@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,778 likes - 83 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,793 likes - 83 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 | 82 | [OSR I \- I](https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [One Strange Rock \(Original Series Soundtrack\)](https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6) | 3:54 |
 | 83 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 |
 
-Snapshot ID: `MCwwNDUyZjRlZGFmNGM0MzI4NzU0OGEzMjI5ZDUzMjRjYjM1NDQ1YTdm`
+Snapshot ID: `MCwxYmFlZmZmZjU3MzZkN2E4NzdhZjg2YWRhMWViYWEyNjIwM2JlNzI2`

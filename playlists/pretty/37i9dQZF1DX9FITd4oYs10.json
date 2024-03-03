@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17901,
+  "num_followers": 17904,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDAyMTk3NjE1YmVmN2M2NDBhZWFiN2U0ZTYzNzdiMDQyYjYyMTNj",
+  "snapshot_id": "MCw5NDQ5ODI3MTRhODZlZTdkYzhkYzk0MWJiMjNkMTU5M2FkMGM1YzBj",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Bonde da Madrugada pt. 2",
+        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Rap, Cerva, Erva e Muita Larica",
+      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Irm\u00e3o Dqbrada!",
         "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 360559,
       "name": "Irm\u00e3o DQbrada!",
       "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Bonde da Madrugada pt. 2",
-        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Rap, Cerva, Erva e Muita Larica",
-      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2024-02-23 18:00:29",

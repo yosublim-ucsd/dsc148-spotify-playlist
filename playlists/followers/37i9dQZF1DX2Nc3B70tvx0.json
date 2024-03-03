@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 2124452,
+  "2024-03-03": 2124486,
   "date_first_scraped": "2019-05-26",
   "description": "The best in modern indie. Cover: Vampire Weekend",
   "name": "Front Page Indie",
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
@@ -2587,7 +2587,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 185458,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
@@ -5389,7 +5389,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
@@ -9563,7 +9563,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
@@ -11195,7 +11195,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
@@ -11483,7 +11483,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
@@ -14411,6 +14411,24 @@
       "duration_ms": 232758,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2"
+    },
+    {
+      "album": {
+        "name": "Parallel Realms",
+        "url": "https://open.spotify.com/album/6gkh9oOIjRJ24JXKSX9LWp"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191959,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV"
     },
     {
       "album": {
@@ -20834,6 +20852,24 @@
     },
     {
       "album": {
+        "name": "Meant",
+        "url": "https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Meant",
+      "url": "https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH"
+    },
+    {
+      "album": {
         "name": "Sus Dog",
         "url": "https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f"
       },
@@ -21749,7 +21785,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 299613,
       "name": "Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
@@ -25691,7 +25727,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269999,
       "name": "Pick At Your Face",
       "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
@@ -31289,7 +31325,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200453,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
@@ -31929,6 +31965,24 @@
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp"
+    },
+    {
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "album": {
@@ -35231,6 +35285,24 @@
       "duration_ms": 217517,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/3KRiNc9gBfTe15xM1XVGHp"
+    },
+    {
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,898 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,907 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 | 100 | [Faith Fall \- pensive piano](https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/2vJsF3qyoL0wqmyrAZsVZ8) | 4:18 |
 
-Snapshot ID: `MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4`
+Snapshot ID: `MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx`

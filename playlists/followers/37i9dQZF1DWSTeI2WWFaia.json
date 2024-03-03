@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1602450,
+  "2024-03-03": 1602485,
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1544,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235317,
+      "name": "Blueslides",
+      "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
+    },
+    {
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/41QRDll7uVEhOxYa35BdNY"
       },
@@ -2080,6 +2098,28 @@
     },
     {
       "album": {
+        "name": "Carbone",
+        "url": "https://open.spotify.com/album/2AaRurOyfUYFZWZFvDGNWd"
+      },
+      "artists": [
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Stoupe",
+          "url": "https://open.spotify.com/artist/04UrujFn9VOscInw9kwHH8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124719,
+      "name": "Carbone",
+      "url": "https://open.spotify.com/track/3PCHM2bYzRGzbNz1rxi6JQ"
+    },
+    {
+      "album": {
         "name": "Casamigos Freestyle",
         "url": "https://open.spotify.com/album/255y0FUpZ5VgDRDrSh7FiT"
       },
@@ -2551,7 +2591,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 390697,
       "name": "Creative Luxury",
       "url": "https://open.spotify.com/track/62GOjBzsJ6hUl5gxNNFDE7"
@@ -2613,7 +2653,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174773,
       "name": "Daddy Kane (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
@@ -2901,7 +2941,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175648,
       "name": "DeNiro & Pesci",
       "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
@@ -8226,6 +8266,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "One Foot In",
         "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
       },
@@ -10850,6 +10912,28 @@
     },
     {
       "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
+    },
+    {
+      "album": {
         "name": "STILL (Five & A F*** You) [Deluxe]",
         "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
       },
@@ -11535,7 +11619,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"

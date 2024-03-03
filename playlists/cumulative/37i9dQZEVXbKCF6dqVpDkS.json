@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -7728,7 +7728,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Engelbewaarder",
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
@@ -9154,7 +9154,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
@@ -9322,7 +9322,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 170295,
       "name": "Gang Nog Steeds",
       "url": "https://open.spotify.com/track/6i8smmdOylOZjK3R9pArJh"
@@ -13919,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "Kijk Door Me Ogen",
+        "url": "https://open.spotify.com/album/5yuJx49qbpcjwBXPmF4XUj"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193165,
+      "name": "Kijk Door Me Ogen",
+      "url": "https://open.spotify.com/track/4vx0RX7eZvUBVB5PDjqixD"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
@@ -16769,6 +16787,28 @@
     },
     {
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC"
       },
@@ -18024,7 +18064,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
@@ -20706,7 +20746,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -22938,7 +22978,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F"
@@ -24854,7 +24894,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -25424,7 +25464,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 178408,
       "name": "Trust Me Mate",
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
@@ -26754,7 +26794,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

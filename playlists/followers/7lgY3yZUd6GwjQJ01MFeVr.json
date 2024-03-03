@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 34921,
+  "2024-03-03": 34920,
   "date_first_scraped": "2023-12-14",
   "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75_EbuOhDg\"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
   "name": "Complete Country",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 186293,
       "name": "Friends Like That",
       "url": "https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163600,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
@@ -1131,6 +1131,28 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "album": {
+        "name": "Purple Irises",
+        "url": "https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221508,
+      "name": "Purple Irises",
+      "url": "https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y"
     },
     {
       "album": {
@@ -1560,6 +1582,24 @@
     },
     {
       "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "album": {
         "name": "Two Wheel Drive Cowboy",
         "url": "https://open.spotify.com/album/7dLzLHc2JEWefwat5ZoSWm"
       },
@@ -1593,6 +1633,24 @@
       "duration_ms": 180000,
       "name": "We All Grow Up",
       "url": "https://open.spotify.com/track/4MYVzXhpm5iMnRZj6cWkSu"
+    },
+    {
+      "album": {
+        "name": "We Both Know",
+        "url": "https://open.spotify.com/album/569MveUgubA2WeTrfmbxnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Daniels",
+          "url": "https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186530,
+      "name": "We Both Know",
+      "url": "https://open.spotify.com/track/3Ir8iKCv67pW100PDSgWtk"
     },
     {
       "album": {

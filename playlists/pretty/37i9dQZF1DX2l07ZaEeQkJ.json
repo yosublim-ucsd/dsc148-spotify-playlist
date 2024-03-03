@@ -1,12 +1,12 @@
 {
-  "description": "traka hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 50824,
+  "description": "k\u00e9? traka... de mujer \ud83c\udf80\ud83d\udc85\ud83c\udffd\ud83d\udc95\ud83c\udf38",
+  "num_followers": 51207,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzlmMDM1NzZiYzQxOGUyNTM5M2JmYTkxYWIxZDc3ZTg3NzI5OWM2",
+  "snapshot_id": "MCwyMjliZmUxNzM4ODc4MDU2YmUyOTI2ZTVkOWFhMzlmYTFkYjc3MjI5",
   "tracks": [
     {
       "added_at": "2024-01-29 19:46:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-01-29 19:46:48",
       "album": {
+        "name": "Derecho y Chueco",
+        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 157364,
+      "name": "Derecho y Chueco",
+      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "added_at": "2024-01-29 19:46:48",
+      "album": {
         "name": "PLEBADA",
         "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
-    },
-    {
-      "added_at": "2024-01-29 19:46:48",
-      "album": {
-        "name": "Derecho y Chueco",
-        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 157364,
-      "name": "Derecho y Chueco",
-      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
     },
     {
       "added_at": "2024-01-29 19:46:48",

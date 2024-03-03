@@ -1,12 +1,12 @@
 {
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 227902,
+  "num_followers": 228005,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjI0ZWNkYTkyMTAyYTFhOWJiNjU2OWM2ZTA5YTZmNGY2MWI4M2Nh",
+  "snapshot_id": "MCw1M2RmMTlhMGJlYmE3ZDk5MWIyYTk2OGM3YTAyODJmZTYwNzRkZTFh",
   "tracks": [
     {
       "added_at": "2024-03-01 03:01:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 163056,
+      "name": "A Preta Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 163056,
-      "name": "A Preta Venceu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 187979,
+      "name": "Saudade da Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -487,42 +507,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 187979,
-      "name": "Saudade da Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Deixa em Off - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Deixa em Off - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -627,6 +627,38 @@
       "duration_ms": 174556,
       "name": "Invis\u00edvel pt.2",
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Vida Rasa",
+      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -743,6 +775,22 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -759,22 +807,6 @@
       "duration_ms": 451284,
       "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150851,
-      "name": "Baile Charme - Ao Vivo",
-      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -879,30 +911,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -975,6 +983,30 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -1019,38 +1051,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "442",
-        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Vida Rasa",
-      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
-        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 204058,
-      "name": "Polo Norte - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
         "name": "Sim ou N\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 192160,
       "name": "Sim ou N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
+        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 204058,
+      "name": "Polo Norte - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
     },
     {
       "added_at": "2024-03-01 03:01:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-03-01 03:01:00",
       "album": {
+        "name": "\u00c9 Assim Que Tem Que Ser (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27ciDLV1xbT2M0dZiaD4nc"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 208140,
+      "name": "\u00c9 Assim Que Tem Que Ser - Ao Vivo",
+      "url": "https://open.spotify.com/track/2vpMqfzcVi8WawTwRBlIqK"
+    },
+    {
+      "added_at": "2024-03-01 03:01:00",
+      "album": {
         "name": "O Que Que T\u00e1 Acontecendo",
         "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 158769,
       "name": "O Que Que T\u00e1 Acontecendo",
       "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2024-03-01 03:01:00",
-      "album": {
-        "name": "\u00c9 Assim Que Tem Que Ser (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27ciDLV1xbT2M0dZiaD4nc"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 208140,
-      "name": "\u00c9 Assim Que Tem Que Ser - Ao Vivo",
-      "url": "https://open.spotify.com/track/2vpMqfzcVi8WawTwRBlIqK"
     },
     {
       "added_at": "2024-03-01 03:01:00",

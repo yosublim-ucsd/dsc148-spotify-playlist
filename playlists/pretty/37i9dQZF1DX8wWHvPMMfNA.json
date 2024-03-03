@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 246144,
+  "num_followers": 246202,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODNlNzBkNzJiNDIyOTg0MjU4Nzg1YjU5NzdkNzY2MzUzOTQ4ZTAx",
+  "snapshot_id": "MCw3ZjI1OTJmODM1OGNhNjRhZDk5NGM3MzZiOThlN2MzZTZlN2FkNTA4",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Decor-free",
-        "url": "https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf"
-      },
-      "artists": [
-        {
-          "name": "Sarah Troedsson",
-          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
-        }
-      ],
-      "duration_ms": 239163,
-      "name": "Decor-free",
-      "url": "https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Autumn Promises",
         "url": "https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "In My Own Small World",
-        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
+        "name": "Decor-free",
+        "url": "https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf"
       },
       "artists": [
         {
-          "name": "Mr. Right Time",
-          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+          "name": "Sarah Troedsson",
+          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
         }
       ],
-      "duration_ms": 258414,
-      "name": "What's Life Without You",
-      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+      "duration_ms": 239163,
+      "name": "Decor-free",
+      "url": "https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1959,6 +1943,22 @@
       "duration_ms": 186074,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "In My Own Small World",
+        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "duration_ms": 258414,
+      "name": "What's Life Without You",
+      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Sally Waits",
-        "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
-      },
-      "artists": [
-        {
-          "name": "Three Four Trio",
-          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
-        }
-      ],
-      "duration_ms": 158645,
-      "name": "Forget About It, Al",
-      "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "All Of The Little Things I Know",
         "url": "https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 291200,
       "name": "All Of The Little Things I Know",
       "url": "https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Sally Waits",
+        "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
+      },
+      "artists": [
+        {
+          "name": "Three Four Trio",
+          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
+        }
+      ],
+      "duration_ms": 158645,
+      "name": "Forget About It, Al",
+      "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -3691,22 +3691,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "The Flow of Your Way",
-        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 144573,
-      "name": "You're Just Full of Inspiration",
-      "url": "https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Blues for a Lost Love",
         "url": "https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL"
       },
@@ -3735,6 +3719,22 @@
       "duration_ms": 328810,
       "name": "All the Stars",
       "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "The Flow of Your Way",
+        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "duration_ms": 144573,
+      "name": "You're Just Full of Inspiration",
+      "url": "https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -5755,22 +5755,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Keeping Records",
-        "url": "https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7"
-      },
-      "artists": [
-        {
-          "name": "Gaige Myers",
-          "url": "https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE"
-        }
-      ],
-      "duration_ms": 221149,
-      "name": "Keeping Records",
-      "url": "https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "I awake",
         "url": "https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q"
       },
@@ -5847,6 +5831,22 @@
       "duration_ms": 162769,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/03M7H0z2xqFrcHhohJUGoC"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Keeping Records",
+        "url": "https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7"
+      },
+      "artists": [
+        {
+          "name": "Gaige Myers",
+          "url": "https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE"
+        }
+      ],
+      "duration_ms": 221149,
+      "name": "Keeping Records",
+      "url": "https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -6227,6 +6227,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Mystic Melancholy",
+        "url": "https://open.spotify.com/album/3fgiQHp4OHLbjkbavGv9Wm"
+      },
+      "artists": [
+        {
+          "name": "Billy Buss Quartet",
+          "url": "https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF"
+        }
+      ],
+      "duration_ms": 222209,
+      "name": "Mystic Melancholy",
+      "url": "https://open.spotify.com/track/7489e1ULwkoljHeHUFUssi"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ"
       },
@@ -6255,22 +6271,6 @@
       "duration_ms": 180691,
       "name": "If You Say Goodbye",
       "url": "https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Mystic Melancholy",
-        "url": "https://open.spotify.com/album/3fgiQHp4OHLbjkbavGv9Wm"
-      },
-      "artists": [
-        {
-          "name": "Billy Buss Quartet",
-          "url": "https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF"
-        }
-      ],
-      "duration_ms": 222209,
-      "name": "Mystic Melancholy",
-      "url": "https://open.spotify.com/track/7489e1ULwkoljHeHUFUssi"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -7351,22 +7351,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Irridescent Mountains",
-        "url": "https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq"
-      },
-      "artists": [
-        {
-          "name": "Felix McCoy Quartet",
-          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
-        }
-      ],
-      "duration_ms": 199952,
-      "name": "Irridescent Mountains",
-      "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Dream you're chasing",
         "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
       },
@@ -7379,6 +7363,22 @@
       "duration_ms": 150903,
       "name": "Dream you're chasing",
       "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Irridescent Mountains",
+        "url": "https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq"
+      },
+      "artists": [
+        {
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+        }
+      ],
+      "duration_ms": 199952,
+      "name": "Irridescent Mountains",
+      "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -7975,22 +7975,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "He Said She Got It Going",
-        "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 158075,
-      "name": "He Said She Got It Going",
-      "url": "https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "That's Nothing",
         "url": "https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD"
       },
@@ -8003,6 +7987,22 @@
       "duration_ms": 266637,
       "name": "That's Nothing",
       "url": "https://open.spotify.com/track/211NFPThPEPKCoScvCAelb"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "He Said She Got It Going",
+        "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "duration_ms": 158075,
+      "name": "He Said She Got It Going",
+      "url": "https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8391,22 +8391,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "The View of Aurora",
-        "url": "https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 168938,
-      "name": "The View of Aurora",
-      "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Rue Saint-Rustique",
         "url": "https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB"
       },
@@ -8423,18 +8407,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Tammy's Song",
-        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+        "name": "The View of Aurora",
+        "url": "https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T"
       },
       "artists": [
         {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
         }
       ],
-      "duration_ms": 260690,
-      "name": "Tammy's Song",
-      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
+      "duration_ms": 168938,
+      "name": "The View of Aurora",
+      "url": "https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8451,6 +8435,22 @@
       "duration_ms": 215767,
       "name": "Prez Delight",
       "url": "https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Tammy's Song",
+        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 260690,
+      "name": "Tammy's Song",
+      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -8599,6 +8599,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Oscar Peterson: Hits & Rarities",
         "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
       },
@@ -8627,22 +8643,6 @@
       "duration_ms": 471173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9015,22 +9015,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Where is Jack?",
-        "url": "https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S"
-      },
-      "artists": [
-        {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
-        }
-      ],
-      "duration_ms": 215231,
-      "name": "Where is Jack?",
-      "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Blues-A-Plenty",
         "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
       },
@@ -9043,6 +9027,22 @@
       "duration_ms": 219680,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Where is Jack?",
+        "url": "https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "duration_ms": 215231,
+      "name": "Where is Jack?",
+      "url": "https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9483,22 +9483,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Comeuppance",
-        "url": "https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En"
-      },
-      "artists": [
-        {
-          "name": "Clover Post",
-          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
-        }
-      ],
-      "duration_ms": 275159,
-      "name": "Comeuppance",
-      "url": "https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Isn\u2019t this nice?",
         "url": "https://open.spotify.com/album/6J0s9bF3L1td3B8QvOKiCP"
       },
@@ -9527,6 +9511,22 @@
       "duration_ms": 172378,
       "name": "Vinegar replacing honey",
       "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Comeuppance",
+        "url": "https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "duration_ms": 275159,
+      "name": "Comeuppance",
+      "url": "https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9691,22 +9691,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Blue Mist",
-        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
-      },
-      "artists": [
-        {
-          "name": "Matt Marantz Quartet",
-          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
-        }
-      ],
-      "duration_ms": 320957,
-      "name": "Pour It Out",
-      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Thea",
         "url": "https://open.spotify.com/album/1JWQZRwYtSDoW7P3Yy0uOq"
       },
@@ -9719,6 +9703,22 @@
       "duration_ms": 226907,
       "name": "Thea",
       "url": "https://open.spotify.com/track/6wyOFWdvUX8lKVVyzf2x5u"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "duration_ms": 320957,
+      "name": "Pour It Out",
+      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9835,6 +9835,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Swingin' Skylines",
+        "url": "https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "duration_ms": 235455,
+      "name": "Swingin' Skylines",
+      "url": "https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Clover runs",
         "url": "https://open.spotify.com/album/3a2deDvRsmV4PzpR6vqOpi"
       },
@@ -9931,18 +9947,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Swingin' Skylines",
-        "url": "https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD"
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C"
       },
       "artists": [
         {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
         }
       ],
-      "duration_ms": 235455,
-      "name": "Swingin' Skylines",
-      "url": "https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH"
+      "duration_ms": 219092,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -9959,22 +9975,6 @@
       "duration_ms": 230208,
       "name": "More than you know",
       "url": "https://open.spotify.com/track/0KDlzhSMPS14CBl50556yf"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C"
-      },
-      "artists": [
-        {
-          "name": "Astoria Three",
-          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
-        }
-      ],
-      "duration_ms": 219092,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -10211,22 +10211,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Blue Velvet",
-        "url": "https://open.spotify.com/album/6nT8TqdQqXsoqa9UC8ptVm"
-      },
-      "artists": [
-        {
-          "name": "Irvin Smith Group",
-          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
-        }
-      ],
-      "duration_ms": 170495,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Epilogue",
         "url": "https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK"
       },
@@ -10239,6 +10223,22 @@
       "duration_ms": 213451,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Blue Velvet",
+        "url": "https://open.spotify.com/album/6nT8TqdQqXsoqa9UC8ptVm"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "duration_ms": 170495,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -10403,22 +10403,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Lost In Your Eyes",
-        "url": "https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh"
-      },
-      "artists": [
-        {
-          "name": "Bill Parker",
-          "url": "https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj"
-        }
-      ],
-      "duration_ms": 200790,
-      "name": "Say It Over And Over Again",
-      "url": "https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Out of Nowhere",
         "url": "https://open.spotify.com/album/0i7uLYNXlVDX8OwRmE57Px"
       },
@@ -10447,6 +10431,22 @@
       "duration_ms": 227166,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Lost In Your Eyes",
+        "url": "https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh"
+      },
+      "artists": [
+        {
+          "name": "Bill Parker",
+          "url": "https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj"
+        }
+      ],
+      "duration_ms": 200790,
+      "name": "Say It Over And Over Again",
+      "url": "https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9"
     },
     {
       "added_at": "2024-02-23 00:01:00",

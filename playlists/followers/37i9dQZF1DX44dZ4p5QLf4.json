@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 479432,
+  "2024-03-03": 479472,
   "date_first_scraped": "2021-12-21",
   "description": "A blend of new songs and artists in the soul space. Cover: Elmiene",
   "name": "Next Wave Soul",
@@ -7715,6 +7715,24 @@
       "duration_ms": 205355,
       "name": "Waiting Line",
       "url": "https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi"
+    },
+    {
+      "album": {
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/4g3I5g0zaCM3RRDaEFDRU2"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90718,
+      "name": "WATER",
+      "url": "https://open.spotify.com/track/2YTpY29Trdd3QDwM5BYVsM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Wallows",
-  "num_followers": 1689643,
+  "num_followers": 1689646,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjJlMjk4NDFmYmUyYzViZmRiM2VmNDkzOWIyNmMzMThiOWUzY2Jj",
+  "snapshot_id": "MCwxYjY3NGEyNGM1NTQ2ZDE1NmVmYTk2ZTYzYzg3ZGM0MmFjMjJhNWFj",
   "tracks": [
     {
       "added_at": "2024-02-28 21:25:13",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
     },
     {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
-    },
-    {
       "added_at": "2024-02-27 15:36:10",
       "album": {
         "name": "Me Before You",
@@ -519,6 +503,22 @@
       "duration_ms": 203519,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202736,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -917,6 +917,26 @@
       "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
     },
     {
+      "added_at": "2024-02-27 15:36:10",
+      "album": {
+        "name": "Lil Tune",
+        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Lil Tune",
+      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
+    },
+    {
       "added_at": "2024-02-09 18:17:32",
       "album": {
         "name": "Learning",
@@ -947,26 +967,6 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
-    },
-    {
-      "added_at": "2024-02-27 15:36:10",
-      "album": {
-        "name": "Lil Tune",
-        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        },
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Lil Tune",
-      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "It's Ok to Cry",
-        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "It's Ok to Cry",
-      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "It's Ok to Cry",
+        "url": "https://open.spotify.com/album/0xemqy7Lea1gWWxi25Ubzp"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "It's Ok to Cry",
+      "url": "https://open.spotify.com/track/3LpatCGL0WM7na3JWk1NlY"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Moon Girl",
-        "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
-      },
-      "artists": [
-        {
-          "name": "Ha Vay",
-          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
-        }
-      ],
-      "duration_ms": 206042,
-      "name": "Moon Girl",
-      "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "HATELOVE",
         "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Moon Girl",
+        "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
+      },
+      "artists": [
+        {
+          "name": "Ha Vay",
+          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
+        }
+      ],
+      "duration_ms": 206042,
+      "name": "Moon Girl",
+      "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Dangerous Game",
-        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "Dangerous Game",
-      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Rave Angel",
         "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 199906,
       "name": "Rave Angel",
       "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Dangerous Game",
+        "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "Dangerous Game",
+      "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Fred Perry Girl",
         "url": "https://open.spotify.com/album/29s0Za6wwubjxwHh0PSI4d"
       },
@@ -1451,38 +1467,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -1531,6 +1499,38 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2024-02-09 18:17:32",

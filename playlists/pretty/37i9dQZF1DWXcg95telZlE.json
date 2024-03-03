@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 345652,
+  "num_followers": 345805,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkyMTI4NSwwMDAwMDAwMDM4OTJlM2Q3OWI0ZTRhZmIwODU3MzkzZmRhZTFlMWFm",
+  "snapshot_id": "MCw4Y2JiM2UyMjE4YWMyYWJhOGNjZTM0NTRmNDgyNDQ4OTU3YWNmMTlh",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So",
-      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
     },
     {
       "added_at": "2022-05-30 12:59:00",

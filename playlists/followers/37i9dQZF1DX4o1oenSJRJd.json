@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 11080296,
+  "2024-03-03": 11082353,
   "date_first_scraped": "2019-05-26",
-  "description": "The biggest songs of the 2000s. ",
+  "description": "The biggest songs of the 2000s. Cover: Kelly Clarkson",
   "name": "All Out 2000s",
   "tracks": [
     {
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224640,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
@@ -3939,7 +3939,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
@@ -4777,7 +4777,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
@@ -7824,6 +7824,24 @@
     },
     {
       "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+    },
+    {
+      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
       },
@@ -9477,6 +9495,24 @@
     {
       "album": {
         "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
+    },
+    {
+      "album": {
+        "name": "Breakaway",
         "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
       },
       "artists": [
@@ -11067,7 +11103,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 266893,
       "name": "U Remind Me",
       "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"

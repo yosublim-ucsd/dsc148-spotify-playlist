@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 826208,
+  "num_followers": 826330,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1",
+  "snapshot_id": "MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 234961,
-      "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
-      "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Numanice #2",
         "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 164141,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 234961,
+      "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
+      "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cachorro",
-        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
-      },
-      "artists": [
-        {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "Cora\u00e7\u00e3o Cachorro",
-      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 177826,
       "name": "A Culpa \u00e9 do Meu Grau (feat. Z\u00e9 Neto & Cristiano) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7gL7YRproDW26eSk16yMbc"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
     },
     {
       "added_at": "2023-11-17 03:01:00",

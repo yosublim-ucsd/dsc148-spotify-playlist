@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 384141,
+  "2024-03-03": 384219,
   "date_first_scraped": "2021-12-28",
   "description": "Dedicated to all the programmers out there.",
   "name": "Coding Mode  ",
@@ -847,6 +847,24 @@
     {
       "album": {
         "name": "Winter in America",
+        "url": "https://open.spotify.com/album/1Qqec87qoPAf7smXO2Lp7c"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513749,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/24Ep9FEe0cqXGHs5LH2V4s"
+    },
+    {
+      "album": {
+        "name": "Winter in America",
         "url": "https://open.spotify.com/album/1na34qpvNXMvcbNk7Q1g1P"
       },
       "artists": [
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 513749,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2bSQIZHLpDkJXD47SMGJV9"

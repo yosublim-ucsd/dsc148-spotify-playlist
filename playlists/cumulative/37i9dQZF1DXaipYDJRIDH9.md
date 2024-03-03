@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-108 songs - 4 hr 34 min
+109 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2024-01-09 |  |
 | [Ballad](https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 2:51 | 2024-01-29 | 2024-02-04 |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2024-01-09 |  |
+| [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-02-27 |  |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2024-01-09 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2024-01-09 |  |
 | [Chiral](https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Chiral](https://open.spotify.com/album/2GGXazjr151pmesoEHWst8) | 2:27 | 2024-01-09 | 2024-02-16 |
@@ -48,7 +49,7 @@
 | [Forbidden Chords](https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR) | [Eugenius R\. Malmgren](https://open.spotify.com/artist/2uODFqBJo1WlHbFBSuyLW9) | [Forbidden Chords](https://open.spotify.com/album/5qG5zlXidasaBblysEBt4A) | 2:19 | 2024-01-09 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2024-01-09 |  |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2024-01-09 |  |
-| [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2024-01-09 |  |
+| [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2024-01-09 | 2024-03-03 |
 | [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-09 |  |
 | [In the clouds](https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [In the clouds](https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD) | 2:03 | 2024-01-09 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2024-01-09 |  |

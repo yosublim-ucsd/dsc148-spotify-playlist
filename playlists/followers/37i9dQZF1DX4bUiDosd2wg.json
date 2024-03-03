@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 9156,
+  "2024-03-03": 9158,
   "date_first_scraped": "2022-11-23",
   "description": "90-00\ub144\ub300 \uc138\uae30\ub9d0 \uac10\uc131\uc744 \ud568\uaed8 \ud588\ub358 \uadf8 \ub54c \uadf8 \ubc1c\ub77c\ub4dc \uac10\uc131\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "\uc138\uae30\ub9d0 \ubc1c\ub77c\ub4dc",
@@ -1391,7 +1391,7 @@
     {
       "album": {
         "name": "Me After You",
-        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+        "url": "https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt"
       },
       "artists": [
         {
@@ -1402,6 +1402,24 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0"
+    },
+    {
+      "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-02",
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"

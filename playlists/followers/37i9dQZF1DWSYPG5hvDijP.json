@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 79497,
+  "2024-03-03": 79564,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -1229,8 +1229,8 @@
           "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
         },
         {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+          "name": "Natania Lalwani",
+          "url": "https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW"
         }
       ],
       "date_added": "2023-08-23",
@@ -3927,6 +3927,28 @@
       "duration_ms": 257523,
       "name": "Rishte",
       "url": "https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF"
+    },
+    {
+      "album": {
+        "name": "Rudali",
+        "url": "https://open.spotify.com/album/6qrGSiZRziEDlAQq0PZFKh"
+      },
+      "artists": [
+        {
+          "name": "Farhan Khan",
+          "url": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy"
+        },
+        {
+          "name": "Mr. Doss",
+          "url": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Rudali",
+      "url": "https://open.spotify.com/track/5IbcfJPO1LQ97hzaNIXF3L"
     },
     {
       "album": {

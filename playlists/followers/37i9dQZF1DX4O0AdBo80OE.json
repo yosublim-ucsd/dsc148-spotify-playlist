@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 72699,
+  "2024-03-03": 72729,
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Tino el Ping\u00fcino en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Robot95 en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -222,6 +222,28 @@
     },
     {
       "album": {
+        "name": "alexademie",
+        "url": "https://open.spotify.com/album/1BfuhqJvGSzRfswonWNmRf"
+      },
+      "artists": [
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167707,
+      "name": "alexademie",
+      "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
+    },
+    {
+      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -259,7 +281,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169684,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
@@ -715,7 +737,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188616,
       "name": "C\u00f3mo Te Olvido?",
       "url": "https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64"
@@ -1207,7 +1229,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
@@ -1736,6 +1758,32 @@
     },
     {
       "album": {
+        "name": "No Est\u00e1s II",
+        "url": "https://open.spotify.com/album/4tWQ9A0rlk3iGszgOLeVu0"
+      },
+      "artists": [
+        {
+          "name": "Pleito",
+          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+        },
+        {
+          "name": "Reies",
+          "url": "https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx"
+        },
+        {
+          "name": "M.Tim\u00e9re",
+          "url": "https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239330,
+      "name": "No Est\u00e1s II",
+      "url": "https://open.spotify.com/track/5PnpsdSrjziwHQW9KJySE7"
+    },
+    {
+      "album": {
         "name": "No Llegar\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV"
       },
@@ -1771,6 +1819,40 @@
       "duration_ms": 255712,
       "name": "No Llegar\u00e9 (Remix)",
       "url": "https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ"
+    },
+    {
+      "album": {
+        "name": "NO LOGR\u00c9 CONQUISTARTE",
+        "url": "https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "NO LOGR\u00c9 CONQUISTARTE",
+      "url": "https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI"
     },
     {
       "album": {
@@ -1895,7 +1977,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 263520,
       "name": "Nuestros Tiempos",
       "url": "https://open.spotify.com/track/51k4iO1owyC47eouXkG8FK"
@@ -1965,6 +2047,28 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"
+    },
+    {
+      "album": {
+        "name": "Pausa (Remix)",
+        "url": "https://open.spotify.com/album/6ex7ZduWRPvw5JNZ5HyDeB"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        },
+        {
+          "name": "Chusi",
+          "url": "https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Pausa - Remix",
+      "url": "https://open.spotify.com/track/3HrpdOpGUB3TyRzm84H7D8"
     },
     {
       "album": {
@@ -2279,6 +2383,28 @@
       "duration_ms": 196666,
       "name": "Quiero Volar",
       "url": "https://open.spotify.com/track/2bM6FYZ98SZovujg3p3XtP"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Onda Mija",
+        "url": "https://open.spotify.com/album/6Fnmf8xjY2jQ72gJan5UQR"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Qu\u00e9 Onda Mija",
+      "url": "https://open.spotify.com/track/4f6cNqzrxR4oRnvJ5sezLl"
     },
     {
       "album": {
@@ -2617,7 +2743,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 223500,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1Z2rizszFDMFwhAUIVjgnj"
@@ -2955,6 +3081,28 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
+    },
+    {
+      "album": {
+        "name": "Vegetales Con Pescado (Remix)",
+        "url": "https://open.spotify.com/album/4pjBEumgbOf1eaTx5ci2nt"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182300,
+      "name": "Vegetales Con Pescado - Remix",
+      "url": "https://open.spotify.com/track/1nyDH4jMldAnJCk6undK67"
     },
     {
       "album": {

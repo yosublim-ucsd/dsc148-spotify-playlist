@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1106106,
+  "2024-03-03": 1106142,
   "date_first_scraped": "2019-07-30",
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
   "name": "Bedroom Pop",
@@ -6139,7 +6139,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 214424,
       "name": "Goodbye Texas",
       "url": "https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A"
@@ -15315,6 +15315,24 @@
       "duration_ms": 167897,
       "name": "Trippy World",
       "url": "https://open.spotify.com/track/0IzEXsrtZN9onM5t4dtyGr"
+    },
+    {
+      "album": {
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
       "album": {

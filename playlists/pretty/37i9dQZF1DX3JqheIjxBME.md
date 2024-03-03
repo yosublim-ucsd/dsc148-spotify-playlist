@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JqheIjxBME.md) - [plain]
 
 > El cancionero que retrata las batalles y personajes que dejaron huella en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,972 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,986 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JqheIjxBME.md) - [plain]
 | 99 | [Cuatro Vidas](https://open.spotify.com/track/6CJq3VM4rofkMCYNDZvqsU) | [Dueto Los Pajareros](https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo) | [Cantares de la Revolución Mexicana y Canciones Norteñas](https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur) | 3:17 |
 | 100 | [Dos Cartas Perdidas](https://open.spotify.com/track/0pzEaRxApy0Wejh5WtICJe) | [Ignacio López Tarso](https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d) | [La Gran Colección del 60 Aniversario CBS \- Ignacio López Tarso](https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp) | 16:45 |
 
-Snapshot ID: `MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj`
+Snapshot ID: `MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3`

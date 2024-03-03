@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,962 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,977 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
 | 100 | [So in Love with You](https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Love Oh Love](https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e) | 2:58 |
 
-Snapshot ID: `MCxhNDVlYzZiNmQ4MzliMjk5OGM0NmU0MjYyNzQ2N2E5YWM5MTFmMDRk`
+Snapshot ID: `MCw0ZWYxNWJmMTgyOTI4YjU3ZDMxZTg1NTgwNTJjZDM0ZGZkYTBkMTMw`

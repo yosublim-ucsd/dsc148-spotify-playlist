@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 291690,
+  "num_followers": 291840,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjY2NjRmZjk0MjU3ODRlZjkxM2RlOTg1YTU2ODMwOGVlZjM2MWE4",
+  "snapshot_id": "MCw1Njk5N2EyMzBkZWI3ZTkzM2E2MzY5NTMzZTY5MmNlNmFlMDBmZjZh",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Formoso \u00c9s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
-      },
-      "artists": [
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        },
-        {
-          "name": "Rapha Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Formoso \u00c9s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Formoso \u00c9s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
+      },
+      "artists": [
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+        },
+        {
+          "name": "Rapha Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Formoso \u00c9s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
     },
     {
       "added_at": "2023-12-22 03:00:00",

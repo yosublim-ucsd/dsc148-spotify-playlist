@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,982 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,054 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
 | 64 | [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 |
 
-Snapshot ID: `MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx`
+Snapshot ID: `MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0`

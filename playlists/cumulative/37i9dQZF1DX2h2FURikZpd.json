@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 200000,
       "name": "Amor Perdido",
       "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
@@ -320,7 +320,7 @@
       },
       "artists": [
         {
-          "name": "Saiko",
+          "name": "SAIKO",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
@@ -912,6 +912,24 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {

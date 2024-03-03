@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 18 min
+103 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [El Federal De Caminos](https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Con](https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB) | 3:08 | 2022-06-01 |  |
 | [El Tonto Que Te Amó](https://open.spotify.com/track/0U8vL1iTfY59FNyUNeVQxx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amigos Del Alma](https://open.spotify.com/album/1ec2ZvSs6ZXYW2PxyfaS1t) | 2:40 | 2022-06-01 | 2023-04-12 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:28 | 2022-06-15 | 2023-11-11 |
-| [Enséñame A Olvidar](https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:27 | 2023-11-10 |  |
+| [Enséñame A Olvidar](https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:27 | 2023-11-10 | 2024-03-03 |
 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 | 2022-06-01 |  |
 | [Florita Del Alma](https://open.spotify.com/track/1mqYLkiDrFo2YM7EUBTfyT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [¿Por Qué?](https://open.spotify.com/album/3yPIKcaIMhOmRStCt9MfPe) | 3:03 | 2022-06-01 | 2022-10-13 |
 | [Gaviota](https://open.spotify.com/track/3mmWb4tMQ5hN74KRhCDfcE) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Antología De Un Rey \- 30 Joyas Musicales](https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk) | 2:54 | 2022-06-20 | 2022-07-27 |
@@ -83,6 +83,7 @@
 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 | 2022-06-01 |  |
 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 | 2022-06-01 |  |
 | [Que Tal Si Te Compro](https://open.spotify.com/track/0uCuMs49RrVr6aTAjItT8c) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [RECORDANDO A LOS RELAMPAGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x) | 1:56 | 2022-06-02 | 2023-11-11 |
+| [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 | 2024-03-02 |  |
 | [Quisiera Tener Alas](https://open.spotify.com/track/2HTIJanLHMBCu6PpzvpruE) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:31 | 2023-11-10 | 2024-01-20 |
 | [Qué Casualidad](https://open.spotify.com/track/2IeZVwidxkQVzmt4Lyza8m) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:02 | 2022-06-01 | 2022-06-06 |
 | [Qué Casualidad \- En Vivo](https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 3:38 | 2022-06-05 |  |

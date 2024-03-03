@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,825 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,907 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 68 | [Change Your Mind](https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Change Your Mind](https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM) | 2:54 |
 | 69 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 |
 | 70 | [I Wonder](https://open.spotify.com/track/3SHLX5ePGvPKcWKM05Thga) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:37 |
-| 71 | [fifth avenue](https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh) | 2:53 |
+| 71 | [fifth avenue](https://open.spotify.com/track/75TMv5EOaXBPoJI1txKTYM) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/3sE8ogSNyN8IQJVVUEb4s3) | 2:53 |
 | 72 | [Seriously](https://open.spotify.com/track/2tZydIqc9WGEXu7CMQDvWO) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Seriously](https://open.spotify.com/album/49mC0ME53Low2Uw4EbzPuq) | 2:50 |
 | 73 | [No One Knows \(with Laufey\)](https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:59 |
 | 74 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 97 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 98 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 |
 
-Snapshot ID: `MCxkMmYyZGMyZmJhNGYwOWE5NDg3ZWZiNmYyMGNhYzBhN2VlNDg0M2Fk`
+Snapshot ID: `MCwwNzk2NjViMDAxMzQzNmIxMjRjNTZmNzNlN2Q3MDExNDRlMzE0OGU5`

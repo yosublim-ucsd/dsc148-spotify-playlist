@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27548,
+  "num_followers": 27546,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE3NjhiMDNhYzk4MzhlYTRiY2I3MmY0MTFkMDlmNDQ3ZWZiZmEx",
+  "snapshot_id": "MCwwNzU3ZDllZWE4NWE4Nzk0YzEzNDU1MDI1MTY3ZTc3Y2FkYTcwODYy",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Feeling Myself",
-        "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "KALASH",
         "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 130615,
       "name": "KALASH",
       "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Feeling Myself",
+        "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "N\u00e5nting i Luften",
         "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 151168,
       "name": "N\u00e5nting i Luften",
       "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Vidunderbarn",
-        "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "Vidunderbarn",
-      "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Det Regner Penger (Allez Allez)",
         "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Vidunderbarn",
+        "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "Vidunderbarn",
+      "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Bundet Til En By",
-        "url": "https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 161874,
-      "name": "Bundet Til En By",
-      "url": "https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Bundet Til En By",
+        "url": "https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 161874,
+      "name": "Bundet Til En By",
+      "url": "https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y"
     },
     {
       "added_at": "2024-02-29 23:00:00",

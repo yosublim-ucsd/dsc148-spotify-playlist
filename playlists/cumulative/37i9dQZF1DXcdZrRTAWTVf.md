@@ -4,7 +4,7 @@
 
 > Featuring Omar Courtz, Mora, KAROL G & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-27 songs - 1 hr 25 min
+28 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2023-03-09 |  |
 | [BRRR](https://open.spotify.com/track/029cuB69yYCgVHND32hjcT) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:36 | 2023-03-09 |  |
 | [California](https://open.spotify.com/track/19iUrnYyBAG5LaxT72ajsM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:31 | 2023-03-09 |  |
-| [Copiloto](https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy) | 2:21 | 2023-03-09 |  |
+| [Copiloto](https://open.spotify.com/track/3welJNgI6udhFk7sL3PpV5) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/63o7fM4ZAmOE9dZthjmipy) | 2:21 | 2023-03-09 | 2024-03-03 |
+| [Copiloto](https://open.spotify.com/track/3z8wPhBhn6LlPqf3OKhgiJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Copiloto](https://open.spotify.com/album/6sDHWcUZnGOax9Rhg7X3h6) | 2:21 | 2023-03-09 |  |
 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 | 2023-03-09 |  |
 | [Hacerte de To'](https://open.spotify.com/track/6DRWN9O6O9LcL2e3nczZfW) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Hacerte de To'](https://open.spotify.com/album/5RJ4FHboqOZEsNQQcPrk7s) | 2:29 | 2023-03-09 |  |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-03-09 |  |
@@ -29,7 +30,7 @@
 | [Perreándote](https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 3:26 | 2023-03-09 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-03-09 |  |
 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 | 2023-03-09 |  |
-| [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 | 2023-03-09 |  |
+| [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 | 2023-03-09 |  |
 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-03-09 |  |
 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 | 2023-03-09 |  |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-09 |  |

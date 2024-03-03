@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 191218,
+  "2024-03-03": 191279,
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Dot.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: HYBS.",
   "name": "borderless",
   "tracks": [
     {
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 243066,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak"
@@ -3733,6 +3733,24 @@
       "duration_ms": 190675,
       "name": "Dos vidas",
       "url": "https://open.spotify.com/track/4mG1Qzy4jjQ8M41b27aqTL"
+    },
+    {
+      "album": {
+        "name": "Dose Sustent\u00e1vel",
+        "url": "https://open.spotify.com/album/2n0zU8t0ixU0VUGjVJV8Ru"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9rcules",
+          "url": "https://open.spotify.com/artist/01H6bymDcpWkeM7MsUp4Zh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170037,
+      "name": "Dose Sustent\u00e1vel",
+      "url": "https://open.spotify.com/track/6PKgpmyOF4DYuIPJt8T8GV"
     },
     {
       "album": {
@@ -4690,6 +4708,24 @@
     },
     {
       "album": {
+        "name": "favourite jeans",
+        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "favourite jeans",
+      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "album": {
         "name": "Fck Love",
         "url": "https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5"
       },
@@ -4995,7 +5031,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183108,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs"
@@ -5745,7 +5781,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 284571,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb"
@@ -5807,7 +5843,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190986,
       "name": "G\u00fcn\u00fcn Birinde",
       "url": "https://open.spotify.com/track/4BIBtBTeA1XTmjhFA2ayHv"
@@ -6433,6 +6469,28 @@
       "duration_ms": 170482,
       "name": "i'd probably die in my bed",
       "url": "https://open.spotify.com/track/0Tc3VFHylUypUKv8xksgzM"
+    },
+    {
+      "album": {
+        "name": "I'll Be Mine",
+        "url": "https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC"
+      },
+      "artists": [
+        {
+          "name": "flu",
+          "url": "https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R"
+        },
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210584,
+      "name": "I'll Be Mine",
+      "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
     },
     {
       "album": {
@@ -8259,7 +8317,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 268912,
       "name": "Lucent Tides",
       "url": "https://open.spotify.com/track/3LRwgm5Ws5deslamMvfFJX"
@@ -9066,6 +9124,24 @@
     },
     {
       "album": {
+        "name": "Your Favorite Things",
+        "url": "https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318575,
+      "name": "Movie Light",
+      "url": "https://open.spotify.com/track/6rstFUEqEGPkfLCdsiZrm7"
+    },
+    {
+      "album": {
         "name": "Mr. Daydream",
         "url": "https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1"
       },
@@ -9207,7 +9283,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179810,
       "name": "My Simple Jeep (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB"
@@ -10163,7 +10239,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211360,
       "name": "Ontas",
       "url": "https://open.spotify.com/track/5c0ANTIJT5sybnh0OINtTo"
@@ -10551,7 +10627,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167000,
       "name": "Pas la peine",
       "url": "https://open.spotify.com/track/4rjS2xJ4ky6S9unMoNfujB"
@@ -12002,6 +12078,24 @@
     },
     {
       "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210416,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr"
       },
@@ -12817,7 +12911,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"
@@ -13483,7 +13577,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 189661,
       "name": "Symbols",
       "url": "https://open.spotify.com/track/1ivU854n33K6OP1BFgh6Yu"
@@ -14523,7 +14617,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -14689,6 +14783,24 @@
       "duration_ms": 171840,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20"
+    },
+    {
+      "album": {
+        "name": "Un Llavero",
+        "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190235,
+      "name": "Un Llavero",
+      "url": "https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5"
     },
     {
       "album": {
@@ -15085,7 +15197,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 159272,
       "name": "vulnerable",
       "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 
 > Featuring Yng Lvcas, Jowell & Randy, Dalex & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,908 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 | 14 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 15 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
 | 16 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 |
-| 17 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 |
+| 17 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 |
 | 18 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
 | 19 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 |
 | 20 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 | 24 | [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 |
 | 25 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 |
 
-Snapshot ID: `MCxlYTYzZmI3YTIwNjRiOTU3NjZmMzg1M2Q2YTQ4NjFjOGZjN2FkNDFk`
+Snapshot ID: `MCwwZDczODlkMWQyN2VjYzJlYjRmYzc4MDJmNGQ0NDE4NTQxZGIxMWM1`

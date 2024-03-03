@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-92 songs - 4 hr 51 min
+93 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2023-01-18 |  |
 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 | 2023-01-18 |  |
 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 | 2023-01-18 |  |
-| [Essa Mina](https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7) | 6:10 | 2023-01-18 |  |
+| [Essa Mina](https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7) | 6:10 | 2023-01-18 | 2024-03-03 |
+| [Essa Mina](https://open.spotify.com/track/6dOgG8Pmiv3jRgJsz4Nkf2) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Four to the Floor 23](https://open.spotify.com/album/2u3mb3CZ1ZAufllAIQ2Zy4) | 6:10 | 2023-01-18 |  |
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2023-01-18 |  |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-18 |  |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2023-01-18 |  |

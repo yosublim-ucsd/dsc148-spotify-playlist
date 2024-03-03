@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1246377,
+  "num_followers": 1246860,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjQ1MTMxOTk0ZmViNmM1NTk1YjMyNDdiYjQwZDFiMGY2YjY2YTE4",
+  "snapshot_id": "MCxmZDQ3NmU2MzEyYWRkNDE5MmQxYmQ3ZTI5MDVmMjMxZDJiMmE5MTc3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "Green Street (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 160508,
       "name": "Super Fly Funk",
       "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 281866,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Chapter 7",
-        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Ty",
-          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Chapter 7 (feat. Ty)",
-      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Chapter 7",
+        "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Ty",
+          "url": "https://open.spotify.com/artist/2hED6gNVoqGvmmX8i5dRoj"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Chapter 7 (feat. Ty)",
+      "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1295,22 +1327,6 @@
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2uweJu8oFGaj7F3cMCX2Ha"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1407,38 +1423,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Eerf Evil",
-          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
-        },
-        {
-          "name": "Outrageous Claims",
-          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Chase It",
-      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Eerf Evil",
+          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        },
+        {
+          "name": "Outrageous Claims",
+          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
         }
       ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+      "duration_ms": 185160,
+      "name": "Chase It",
+      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         }
       ],
-      "duration_ms": 276252,
-      "name": "Organic Rust",
-      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1715,22 +1719,18 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
       "artists": [
         {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
+      "duration_ms": 276252,
+      "name": "Organic Rust",
+      "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 297990,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4"
+    },
+    {
+      "added_at": "2024-03-01 05:01:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     }
   ],
   "unique_name": "Jazz Rap",

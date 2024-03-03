@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 16988,
+  "2024-03-03": 16998,
   "date_first_scraped": "2023-07-08",
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Mehtab Ali Niazi",
   "name": "ECHO : Soulful Sitar",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Hindustani Classics - Instrumental",
+        "url": "https://open.spotify.com/album/4LMygqOC79uSoN7CyeOcZR"
+      },
+      "artists": [
+        {
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219456,
+      "name": "Barsan Lagi - Instrumental",
+      "url": "https://open.spotify.com/track/5uiBr9Y0pzpw5mST50Cza3"
+    },
+    {
+      "album": {
         "name": "The Pleasurable Mind in Healing Music",
         "url": "https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 140571,
       "name": "Beauty of Sitar",
       "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"

@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-290 songs - 15 hr 50 min
+291 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,12 +246,13 @@
 | [shawty](https://open.spotify.com/track/6igv1u6xlqiRBlAG6ufzsp) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [shawty](https://open.spotify.com/album/5Dkwj5xqOTljq4FGwmKzJq) | 2:46 | 2023-07-07 | 2023-07-15 |
 | [Si Te Vas](https://open.spotify.com/track/7BiERLxbhwF9CZbuV8I62J) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si Te Vas](https://open.spotify.com/album/5jVtPMqd1MJUuJyhcRKMQj) | 2:52 | 2023-07-07 | 2023-08-19 |
 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2023-08-11 |  |
-| [Siesta De Verano](https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:08 | 2023-12-07 |  |
+| [Siesta De Verano](https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:08 | 2023-12-07 | 2024-03-03 |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2023-03-17 | 2023-08-12 |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-06-02 |  |
 | [SloMo](https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz) | 2:56 | 2023-11-10 |  |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2023-08-11 | 2023-11-04 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2023-03-17 | 2023-08-12 |
+| [Solo](https://open.spotify.com/track/1wPAOYQJcGSqvXkqcQHExr) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Solo](https://open.spotify.com/album/1288f3Kr8eeE0ZWcyoyEjs) | 3:24 | 2024-02-29 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-03-17 | 2023-08-12 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2023-03-17 | 2023-08-12 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-03-17 | 2023-08-12 |

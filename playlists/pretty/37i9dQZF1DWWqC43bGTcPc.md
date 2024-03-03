@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 韋禮安 \(WeiBird\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,755 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,866 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 19 | [你是我這輩子最想愛的呀](https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [你是我這輩子最想愛的呀](https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv) | 4:24 |
 | 20 | [異鄉客](https://open.spotify.com/track/7s9NiXbLkvNEMS3dqloDy7) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [庭竹](https://open.spotify.com/artist/3ZWV6vCWv9OJ4WKZHgFwGV) | [異鄉客](https://open.spotify.com/album/0u5hAElMm0Y9J1u7S5zKZ6) | 2:14 |
 | 21 | [必巡 \(三立戲劇《含笑食堂》片尾曲/《嘉慶君遊臺灣》片頭曲\)](https://open.spotify.com/track/3MHs8CC273iKTyGLVrLwxG) | [曾瑋中](https://open.spotify.com/artist/7zY8finbugZLFpNfwNe4qW) | [總會有一工](https://open.spotify.com/album/6jyy3GnC8nOShlkmv6xKkV) | 4:26 |
-| 22 | [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 |
+| 22 | [Beautiful Love \(原創版\)](https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx) | 4:45 |
 | 23 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 |
 | 24 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 |
 | 25 | [喜歡你](https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [喜歡你](https://open.spotify.com/album/28K6BO4fYxKi3xD6sgQWWb) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [样子 \- 电视剧《要久久爱》主题曲](https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [样子 \(电视剧《要久久爱》主题曲\)](https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9) | 4:06 |
 | 50 | [夏夜煙火 \- Winter Version](https://open.spotify.com/track/4bYYHLmyriYvCbod1kUU47) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [夏夜煙火 \(Winter Version\)](https://open.spotify.com/album/2W0C6o4GeMTLG130OtCsjh) | 4:24 |
 
-Snapshot ID: `MCw3MzllMjczYjU5ZGZlNmU4OTM2ZDgyMzM5YjkyZWQxMTNjZTY4NTdm`
+Snapshot ID: `MCwyOGM2MjgzYjMxMjJmM2I5NGYyNjNjMDcyNTQxMzk5NWVkNTEzNGM3`

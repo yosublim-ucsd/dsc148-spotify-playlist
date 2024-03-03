@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- W.i.S.H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,192 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,206 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 5 | [Mere Qareeb](https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Mere Qareeb](https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo) | 3:09 |
 | 6 | [kahaani \(feat\. Lothika\)](https://open.spotify.com/track/2LUpbowztkHYrtYvXc45Nt) | [Aadya](https://open.spotify.com/artist/4P3Iw29k94k2bcNSGcllxA), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [kahaani \(feat\. Lothika\)](https://open.spotify.com/album/7m1A7n3fgjRyqGpQs1AhPc) | 2:54 |
 | 7 | [KAMLI](https://open.spotify.com/track/0Y7g1wEicHQRGZUmofuuNw) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [KAMLI](https://open.spotify.com/album/1eSbfv80dcE4E5zuUllTxb) | 3:53 |
-| 8 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
+| 8 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Durgesh R Rajbhatt](https://open.spotify.com/artist/7sE4BlKQa4zVmZm0YTiL4R), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
 | 9 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 |
 | 10 | [Imtihaan](https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7) | [Mehak Kaur](https://open.spotify.com/artist/3BKyvED3cIdsCwC2c0hB3V), [Chetna](https://open.spotify.com/artist/7FpN5hS8hNphK0l1X5JxrA), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22) | [Imtihaan](https://open.spotify.com/album/5gm9Iht544NL4K6Yydbx89) | 3:17 |
 | 11 | [Kishmish](https://open.spotify.com/track/0y0PU8VFoud2NTXfkUmr7g) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Kishmish](https://open.spotify.com/album/1YFzCuDm6sdX1mFvu6ngXA) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
 | 75 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
 
-Snapshot ID: `MCwyMDViODE0M2U4NjZlNjU3ZDM2ZWQwODdmMDUwNmQwYmE4OTE2YmIx`
+Snapshot ID: `MCwwZmJkNzQwNDAwNzgwMDE4MjAxZDdlYmMxMzI1YWRjM2M1ZmY0YjQ2`

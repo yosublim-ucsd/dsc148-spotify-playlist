@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 32928,
+  "num_followers": 32977,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTE4YjY1NTYyYzg2ZDAxOWYyZmJkMmM0NjUwMTU4Yjg3YjUzN2U2",
+  "snapshot_id": "MCxhOWRmZGU2NDJiMWNjNWE0MjA4MmIyYjdiNzZjYzViYjRhMzYxNjEw",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Decision Unanime",
-        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
       "artists": [
         {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
+      "duration_ms": 323266,
+      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
     },
     {
       "added_at": "2023-10-19 19:33:34",

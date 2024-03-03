@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 315989,
+  "2024-03-03": 316028,
   "date_first_scraped": "2021-12-21",
   "description": "The best of today's funk. Cover: Jordan Mackampa\n",
   "name": "Nu-Funk",
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 125407,
       "name": "Bad Day Ballad",
       "url": "https://open.spotify.com/track/4FGuZ6tsT6XU1DXF8ctUil"
@@ -1056,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/57JZIPQFEt4AGiLGhM8JAb"
+      },
+      "artists": [
+        {
+          "name": "JM Bales",
+          "url": "https://open.spotify.com/artist/2JyNzzFJh2wkkZo7ZjMSs2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/02hKpGoEiktnpLqB4CpPf5"
+    },
+    {
+      "album": {
         "name": "Call Me Wild",
         "url": "https://open.spotify.com/album/1YLvobKUqac9M0PeUZ8WeV"
       },
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG"
@@ -1621,6 +1639,24 @@
       "duration_ms": 200000,
       "name": "Dead Inside Shuffle",
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
+    },
+    {
+      "album": {
+        "name": "Dirty Disco",
+        "url": "https://open.spotify.com/album/5nmGeDHV5dmbOedJhKIRv4"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223319,
+      "name": "Dirty Disco",
+      "url": "https://open.spotify.com/track/5xf4Rsu7qjKHGBrEwgseOT"
     },
     {
       "album": {
@@ -2177,6 +2213,24 @@
       "duration_ms": 193090,
       "name": "Fixations",
       "url": "https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt"
+    },
+    {
+      "album": {
+        "name": "FLAUNT IT",
+        "url": "https://open.spotify.com/album/4S8EOt1bYvw4SPDp5pBgax"
+      },
+      "artists": [
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187922,
+      "name": "FLAUNT IT",
+      "url": "https://open.spotify.com/track/2zHbZLK3FeDGsgxliT2sI1"
     },
     {
       "album": {
@@ -2998,6 +3052,28 @@
     },
     {
       "album": {
+        "name": "He Said/She Said (Lack of Afro Remix)",
+        "url": "https://open.spotify.com/album/0WVFG00h9vS2j1puywuwoL"
+      },
+      "artists": [
+        {
+          "name": "Acantha Lang",
+          "url": "https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO"
+        },
+        {
+          "name": "Lack Of Afro",
+          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175792,
+      "name": "He Said/She Said - Lack of Afro Remix",
+      "url": "https://open.spotify.com/track/38lFhq6f4r72RGm8t3M0j0"
+    },
+    {
+      "album": {
         "name": "Headache Ft. George Clinton - Xtended Mix",
         "url": "https://open.spotify.com/album/69nnNpFY0G4D2VvkIIiY4t"
       },
@@ -3167,6 +3243,32 @@
       "duration_ms": 258039,
       "name": "Hide",
       "url": "https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12"
+    },
+    {
+      "album": {
+        "name": "High (When I\u2019m Low)",
+        "url": "https://open.spotify.com/album/4bqPhRP8HDMoA6cO0GhO0W"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "High (When I\u2019m Low)",
+      "url": "https://open.spotify.com/track/1hCemip7lYfAnPSWRYyf0z"
     },
     {
       "album": {
@@ -4133,7 +4235,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 261402,
       "name": "Keep That Funk Alive",
       "url": "https://open.spotify.com/track/6pSQEg63mPYvaXQVJdmEy9"
@@ -4599,6 +4701,28 @@
       "duration_ms": 198900,
       "name": "Lover (Love Her)",
       "url": "https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy"
+    },
+    {
+      "album": {
+        "name": "LOVE\u306a\u30b7\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z"
+      },
+      "artists": [
+        {
+          "name": "Seiya Matsumuro",
+          "url": "https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ"
+        },
+        {
+          "name": "BRADIO",
+          "url": "https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319300,
+      "name": "LOVE\u306a\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6"
     },
     {
       "album": {
@@ -5449,7 +5573,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 248000,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4"
@@ -6089,7 +6213,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 244587,
       "name": "Serious",
       "url": "https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1"
@@ -6424,6 +6548,28 @@
     },
     {
       "album": {
+        "name": "Somebody's Watching You (XL Middleton Remix)",
+        "url": "https://open.spotify.com/album/0ewP62EoyU6j6uAZANB9DZ"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        },
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215302,
+      "name": "Somebody's Watching You - XL Middleton Remix",
+      "url": "https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R"
+    },
+    {
+      "album": {
         "name": "Speechless",
         "url": "https://open.spotify.com/album/2QWhgvAIJJwt6HJCO5lwSh"
       },
@@ -6525,7 +6671,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 272211,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH"
@@ -7433,6 +7579,28 @@
       "duration_ms": 133707,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc"
+    },
+    {
+      "album": {
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/35v2JrGN2UKU9QDwSfcaa5"
+      },
+      "artists": [
+        {
+          "name": "Sinkane",
+          "url": "https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w"
+        },
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/1iFLqxy0jMaCXshHTAHIFQ"
     },
     {
       "album": {

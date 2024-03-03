@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas! Banda MS en portada.",
-  "num_followers": 854993,
+  "num_followers": 855133,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjZmYjJiM2VlYzgwOGYwOTg3NDU5ZmRhYzdmN2YzZjJjOWYzMWM0",
+  "snapshot_id": "MCxjNjU5MGYwOTBjMTk4N2VhOTVjMTQxMjJkYjhkN2FlM2Q3MDkwMDA3",
   "tracks": [
     {
       "added_at": "2024-01-16 23:36:42",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 220154,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 220154,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA"
     },
     {
       "added_at": "2024-01-16 23:36:42",

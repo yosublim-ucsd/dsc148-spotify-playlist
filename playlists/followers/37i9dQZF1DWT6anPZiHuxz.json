@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 500679,
+  "2024-03-03": 500766,
   "date_first_scraped": "2022-09-23",
   "description": "Chasing that runner's high",
   "name": "Running Club",
@@ -139,7 +139,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215696,
       "name": "Anti-Hero - Jayda G Remix",
       "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
@@ -568,6 +568,36 @@
     },
     {
       "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+    },
+    {
+      "album": {
         "name": "Castles (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
       },
@@ -583,7 +613,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204000,
       "name": "Castles - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
@@ -1826,6 +1856,28 @@
     },
     {
       "album": {
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
+    },
+    {
+      "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },
@@ -2533,7 +2585,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 258284,
       "name": "Nothing To Lose (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
@@ -3805,6 +3857,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "album": {

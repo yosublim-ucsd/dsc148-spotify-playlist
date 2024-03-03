@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,928 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,004 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
 | 65 | [You Shook Me \- Alternate Version](https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 2:28 |
 
-Snapshot ID: `MCwyYzhiNWJmODNlMTZjMzEzNjM5ODFjZjRiMjEyMTkwNDA3NWU5NGI5`
+Snapshot ID: `MCw0ZDk0YjhkOWU5MzQwZGFiZTM2NTExYzg3NDJlYTYwNDAyYThhOTM1`

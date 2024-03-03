@@ -943,6 +943,32 @@
     },
     {
       "album": {
+        "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+        "url": "https://open.spotify.com/album/0PGerhN0CDzcLWVQ4NmNV3"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182914,
+      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+      "url": "https://open.spotify.com/track/63Usxhj16VSx7FuNQVF1eX"
+    },
+    {
+      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF"
       },

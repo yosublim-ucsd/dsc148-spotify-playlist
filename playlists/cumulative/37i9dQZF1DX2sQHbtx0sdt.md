@@ -4,7 +4,7 @@
 
 > New and trending hip\-hop from around the world\. Cover: Malik Montana & Lil Tjay
 
-304 songs - 15 hr 2 min
+305 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-16 |  |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-08-04 | 2024-01-13 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-11-29 | 2024-01-13 |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-03-01 |  |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-02-16 |
-| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-09 |  |
+| [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-09 | 2024-03-03 |
 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 | 2024-02-09 |  |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2024-01-12 |  |
 | [B2B \(feat\. Benjazzy & Bonbero\)](https://open.spotify.com/track/1AyUsDts7KQXq7w4KsH9YL) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [BAD HOP \(Deluxe Edition\)](https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r) | 3:40 | 2024-02-23 |  |

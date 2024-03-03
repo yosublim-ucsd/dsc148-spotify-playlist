@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Diego Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,144 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,205 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0) | 3:03 |
 | 85 | [Donde digan las estrellas](https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Gonzalo Hermida](https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or) | [Donde digan las estrellas](https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY) | 3:32 |
 
-Snapshot ID: `MCxmOGY5ZTc1NTIzMmZkMDc2MTEwYjhhYTI3NjlkODIzNzU2YzU0MjI5`
+Snapshot ID: `MCw3MTRkYWJhOWY4NzUwYzE5Nzc3ODVkODMzYmE1YWJkZDAwN2VhNTU3`

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-820 songs - 1 day 20 hr 37 min
+821 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,8 @@
 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-11-25 |  |
 | [Saari Raat](https://open.spotify.com/track/2Ckp3rIzVkLmXpS8eTbw93) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Tasha Tah](https://open.spotify.com/artist/3Tj7DWYCzvjZ0RtFBmWqED) | [Content](https://open.spotify.com/album/7sfAbKboLn2pNEIkogayd3) | 3:03 | 2022-11-22 | 2022-12-16 |
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-03-21 | 2023-05-06 |
-| [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 | 2022-08-24 |  |
+| [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 | 2022-08-24 | 2024-03-03 |
+| [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/track/0GBX9wVCM4tVA2D2oKRUHy) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Moh](https://open.spotify.com/album/7HaoeXXwevkq2PKS9Q4Ewk) | 4:20 | 2024-02-21 |  |
 | [Sab Ton Sohna](https://open.spotify.com/track/6mAovKYMzKh2GXjRxf1MBs) | [Mehtab Virk](https://open.spotify.com/artist/6npKsb0CeJMFX3FwjKybfD), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Diljot Singh](https://open.spotify.com/artist/5tVnXYsdGvaQUw5dGP0Jzi) | [Sab Ton Sohna](https://open.spotify.com/album/2ZDlFSF66TFDLE7aO8JdQJ) | 2:01 | 2022-04-18 | 2022-04-29 |
 | [Sadi Goodluck \(feat\. Aman Hayer\)](https://open.spotify.com/track/1vpHo0efrA4MknIfSilvFB) | [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Aman Hayer](https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus) | [Sadi Goodluck \(feat\. Aman Hayer\)](https://open.spotify.com/album/7ogfUS96zWyJNJDDLmgfHB) | 3:25 | 2022-02-08 | 2022-02-12 |
 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 | 2024-01-24 |  |

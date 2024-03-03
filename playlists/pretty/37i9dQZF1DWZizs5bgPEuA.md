@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Gonzy & Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,776 likes - 29 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,779 likes - 29 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
 | 2 | [LA CALMA](https://open.spotify.com/track/0j5ocCGz4i7q0aPD1gNZ6H) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 2:41 |
-| 3 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 |
-| 4 | [CORLEONE](https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:12 |
-| 5 | [Extasisssssss](https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 1:56 |
+| 3 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 |
+| 4 | [CORLEONE](https://open.spotify.com/track/4PxuQB2bwMFyP6qjHDBsmb) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:12 |
+| 5 | [Extasisssssss](https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 1:56 |
 | 6 | [MAMI CHAKALOSA](https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [MAMI CHAKALOSA](https://open.spotify.com/album/7qNA059vQm84DreXknnuHr) | 2:16 |
 | 7 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
 | 8 | [Pekorita Love](https://open.spotify.com/track/2ziBsYeJNdhwFjKDjr9rKx) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dj Jester](https://open.spotify.com/artist/3acXvaPqSOwM7EabXX0225), [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:14 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 28 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 29 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
 
-Snapshot ID: `MCxhNmQ1NDk2NDZiZjQyMTc5YTE0Mjc2MWViYzMzMDljY2I3ZjhiMGFk`
+Snapshot ID: `MCw2NzZjNDhhMTgyOWYyYzEzOWQ1Zjk1MDQ2NDAyZWYyMWM4YTI0YzEw`

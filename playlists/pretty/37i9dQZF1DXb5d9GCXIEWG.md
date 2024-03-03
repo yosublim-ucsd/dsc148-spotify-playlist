@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5d9GCXIEWG.md) - [plain]
 
 > Featuring Bizarrap, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 223 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5d9GCXIEWG.md) - [plain]
 | 15 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
 | 16 | [Molokai](https://open.spotify.com/track/2YkSw1p4mb2w77rLvESKeu) | [Prod Socram](https://open.spotify.com/artist/4U8C0APjzrrDmSDmMFQeRa) | [Molokai](https://open.spotify.com/album/4MaJZVsaNSj0t9cJZrRPvc) | 2:16 |
 | 17 | [Pa Que Pichea](https://open.spotify.com/track/2Ul7codMpIxUYt9JQee6PZ) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [Sorry, Estoy en Mi Darkera](https://open.spotify.com/album/6NK4S0ZPUudBrWThVBz8c3) | 2:42 |
-| 18 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
+| 18 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 19 | [RITUAL](https://open.spotify.com/track/3eaCOZEhx4ObxFVrlAf5BV) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:34 |
 | 20 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
 
-Snapshot ID: `MCwxMDhjYmZkNDM3MGZiZWY0MzQ0ZTU5NzU4Njk4MjdkOWRhY2M0MmNm`
+Snapshot ID: `MCxlZWQ0NTU4MzM4YjA0NmRiYTFjNDc1NThhYmE4MTg1NjM3NDIwYTBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,368 likes - 230 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,547 likes - 230 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
 | 230 | [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 |
 
-Snapshot ID: `MCwwN2Q2OTY3MjNhZjY0N2E3ZDJiZGI0ZTgwYjJhMDVlMjljMjM1N2Jh`
+Snapshot ID: `MCw3YWNkY2ViNzk2MzlmNmI0N2RmNWQ5ZDViNjE1YmI0YzFkNjhiMGFl`

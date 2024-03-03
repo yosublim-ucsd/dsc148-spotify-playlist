@@ -1,12 +1,12 @@
 {
   "description": "Canciones para emocionarnos, reflexionar y celebrar, elegidas por <a href=\"spotify:show:5GfRxX2kl2BJVB1e7AgcDh\"> Marco Antonio Regil</a>",
-  "num_followers": 16452,
+  "num_followers": 16454,
   "original_name": "Insp\u00edrate con Marco Antonio Regil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGY0MmU5N2Y0NmY5NjBkMmNmMzAyOGM1ZjZkZjE0ZjlmZjNiYTYx",
+  "snapshot_id": "MCw1MDQ0MWM0ZThiOTJmZjAyZmZjNzk4ODRmZDhiMjBlMDg5Y2VjYWQ3",
   "tracks": [
     {
       "added_at": "2024-01-16 19:35:43",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-16 19:35:43",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2024-01-16 19:35:43",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2024-01-16 19:35:43",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2024-01-16 19:35:43",

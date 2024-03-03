@@ -1967,6 +1967,32 @@
     },
     {
       "album": {
+        "name": "ALEXANDER MCQUEEN (The Versions)",
+        "url": "https://open.spotify.com/album/3SfJfd69dsBwKcYfmyHgVu"
+      },
+      "artists": [
+        {
+          "name": "BENTLY BOY",
+          "url": "https://open.spotify.com/artist/5O6G0s4pUvarYNRP5qhByW"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Elise Estrada",
+          "url": "https://open.spotify.com/artist/2YXSkQ0ZcXbIttcvsnbKQ5"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "ALEXANDER MCQUEEN - Club Version",
+      "url": "https://open.spotify.com/track/222Wb60mBCBWTVCXnuWizI"
+    },
+    {
+      "album": {
         "name": "Dandy",
         "url": "https://open.spotify.com/album/12ltn3SIfnfo3uU7NSUeRu"
       },
@@ -3138,7 +3164,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 172545,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4kr7VKfBPPuZVJMQrH4VVH"
@@ -11720,7 +11746,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 175250,
       "name": "Cut from the Same Cloth",
       "url": "https://open.spotify.com/track/4UmeCqdPrQJ6iJyI6UW2YE"
@@ -11800,6 +11826,24 @@
       "duration_ms": 195572,
       "name": "C\u00falpame",
       "url": "https://open.spotify.com/track/3V4KnzS51NS5H5xOAFoNoR"
+    },
+    {
+      "album": {
+        "name": "S3XTAP3, Vol.1",
+        "url": "https://open.spotify.com/album/5uObmapwPIWAJG8hVRFRqM"
+      },
+      "artists": [
+        {
+          "name": "Hollowprrr",
+          "url": "https://open.spotify.com/artist/5vxhpaw0j1BJSeRSW7u4p0"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206604,
+      "name": "D 1na Ma",
+      "url": "https://open.spotify.com/track/3w0TdDb9fSq9MroN6gAGC9"
     },
     {
       "album": {
@@ -14904,6 +14948,24 @@
       "duration_ms": 222528,
       "name": "Easier",
       "url": "https://open.spotify.com/track/148cMa7QxQ1mHqORpUX5T2"
+    },
+    {
+      "album": {
+        "name": "Easily",
+        "url": "https://open.spotify.com/album/3NDATLW5oLq54KNsP6azzf"
+      },
+      "artists": [
+        {
+          "name": "Grace Abel",
+          "url": "https://open.spotify.com/artist/15nU6bw1MjF0s3hnnRU8Ry"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177898,
+      "name": "Easily",
+      "url": "https://open.spotify.com/track/34TqI0ukJWvg2iqo0ZI9NF"
     },
     {
       "album": {
@@ -26178,7 +26240,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 193124,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/19cHrFNWx0rjKHG3Kan4XU"
@@ -31661,6 +31723,28 @@
     },
     {
       "album": {
+        "name": "Man or the Monster",
+        "url": "https://open.spotify.com/album/6xUeQScfIEGSQwEG6pJC56"
+      },
+      "artists": [
+        {
+          "name": "Liza Jane",
+          "url": "https://open.spotify.com/artist/6EzV5mGHnMPZHlpOf5MiuZ"
+        },
+        {
+          "name": "StoneBridge",
+          "url": "https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146476,
+      "name": "Man or the Monster",
+      "url": "https://open.spotify.com/track/5YSZvF8O18K7spKWEjO2jl"
+    },
+    {
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -36422,7 +36506,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 200121,
       "name": "NOVEMBER 24",
       "url": "https://open.spotify.com/track/0WaTfRCWcnBk0e3J1ka82Q"
@@ -44676,7 +44760,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 146086,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/1hNBLycvuZVkqMO5N7IuHT"
@@ -46964,7 +47048,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 160454,
       "name": "Sue\u00f1o De Verano",
       "url": "https://open.spotify.com/track/6qYXc6mGRhYy7yqKb5PzJt"
@@ -49280,7 +49364,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 170374,
       "name": "that's how u know i love u",
       "url": "https://open.spotify.com/track/6bHdIMY8o05A3tnhXPj2Wb"
@@ -54533,6 +54617,28 @@
     },
     {
       "album": {
+        "name": "Watch My Step",
+        "url": "https://open.spotify.com/album/5ksthQYq2VnABskKLhvXJN"
+      },
+      "artists": [
+        {
+          "name": "A Beck",
+          "url": "https://open.spotify.com/artist/69GkoGyUBGTzsrML2IkSPp"
+        },
+        {
+          "name": "ThatDevastator",
+          "url": "https://open.spotify.com/artist/3H02nudrAZnnpshXqGIw2g"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121782,
+      "name": "Watch My Step",
+      "url": "https://open.spotify.com/track/5K4SG5e4PAwedC1Xo0dspD"
+    },
+    {
+      "album": {
         "name": "Watching",
         "url": "https://open.spotify.com/album/2dActs0JX7NI0enYJnebNQ"
       },
@@ -54620,6 +54726,24 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
+        "name": "watercolor sky",
+        "url": "https://open.spotify.com/album/6EtNyUmbNrQl38faOL7GSg"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "watercolor sky",
+      "url": "https://open.spotify.com/track/7u2gxJGW7w98bGAEu8xtpl"
     },
     {
       "album": {

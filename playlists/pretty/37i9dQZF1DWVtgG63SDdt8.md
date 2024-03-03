@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:2cB6hX2LI14KUTAevpaYn2">Josh Baldwin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,086 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,201 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Narrow Road](https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Narrow Road](https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1) | 4:25 |
 | 100 | [Always On The Way](https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Always On The Way](https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW) | 4:28 |
 
-Snapshot ID: `MCw2YTdkZjkwZDYyNWNhMDliNjZmZjU5MjI0NDZiYTc5YzgzYTU5ZjQ1`
+Snapshot ID: `MCw2NDAxZDNkMTA3MTQ4NjlmNzJhNGFjNDE1MGEzNzA2OThjNWUyZDI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,672 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,720 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 |
 | 50 | [dark snowy night \- Slowed & Reverb Version](https://open.spotify.com/track/05GNWCE3kGfTRIh2Zld3NH) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [dark snowy night](https://open.spotify.com/album/0WnATwrpuFPvyTpqxo1R5O) | 3:31 |
 
-Snapshot ID: `MCxhZmE3ZWNkMTI0OWE0ZjMwN2JlYjhkZDdjNGNkNTFhYzhjOWIzODM2`
+Snapshot ID: `MCw4MmQ2MzVlMjQ3MDJjZmYxNWNhNzFiYmJmODAxYmI2ZWRiODcyYWU3`

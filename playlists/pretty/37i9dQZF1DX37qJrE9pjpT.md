@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Darassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,406 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 30 | [Khali champlin/KASUKU](https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ) | [Ebebé Jamal](https://open.spotify.com/artist/7AzVO32lt5KYfoYAxqu0UA) | [Khali champlin/KASUKU](https://open.spotify.com/album/1zyRqHQkLh9rHJkwD3wyse) | 3:02 |
 | 31 | [Find you a Place / Safehouse](https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ) | [Ynnek](https://open.spotify.com/artist/2wu6U4rf0z3MR6sIeWlghK), [EUGKEN](https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV) | [CHF on a Hollow Night](https://open.spotify.com/album/1VuGBhknDEQZjtf3KRgvL9) | 2:56 |
 | 32 | [Vitu Vingi](https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Vitu Vingi](https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b) | 4:06 |
-| 33 | [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 |
+| 33 | [Money walk \(Mwendo wa cash\)](https://open.spotify.com/track/22Yraq4HqJHdU0pTvLlQEt) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Money walk \(Mwendo wa cash\)](https://open.spotify.com/album/1b4r2l7V1UWD8Wr9gQe7ZE) | 3:17 |
 | 34 | [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 |
 | 35 | [All on me](https://open.spotify.com/track/5OHsQBkjTliOsXMtXblj7m) | [BenValla](https://open.spotify.com/artist/4VBZgz5hmOsdxZtKnOM64I) | [All on me](https://open.spotify.com/album/7FLvdh7njvIp5w8yi7exVW) | 3:20 |
 | 36 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Tu Come](https://open.spotify.com/track/0jOTg1Ic8NwzqMim1tEl7R) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Tu Come](https://open.spotify.com/album/1QAR3X1YbOlc4G6gtYtywJ) | 3:47 |
 | 50 | [Mdhambi](https://open.spotify.com/track/2KAaty1XUWrsELJHLDZKOg) | [Dicazzi](https://open.spotify.com/artist/4hWi07h5D1vykcvmWFUZCo) | [Mdhambi](https://open.spotify.com/album/5IsxHtDjpP0t6XEViVu2KE) | 2:45 |
 
-Snapshot ID: `MCwzMGY5YWU4MGNlODFjMGRmZWExNDBhNTBkNDA2ZDQ2YmUwMTMzMTQ4`
+Snapshot ID: `MCxlMTY3Njg5Mjk2ZmYwMzhkMGJhNjEzOWJiNWNkNmE5NTllNDE4NWVm`

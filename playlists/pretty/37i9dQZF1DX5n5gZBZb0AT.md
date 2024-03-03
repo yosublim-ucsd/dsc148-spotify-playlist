@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,887 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,500 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 |
 | 40 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
 
-Snapshot ID: `MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3`
+Snapshot ID: `MCxmYjRiMDBkNTNhZGVmNjIyNGRiN2RhNDY1MWFkNWI4YjI0ODFmYWI4`

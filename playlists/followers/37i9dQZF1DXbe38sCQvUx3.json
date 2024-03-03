@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 160933,
+  "2024-03-03": 161592,
   "date_first_scraped": "2023-08-09",
   "description": "a la orden pa'l desorden",
   "name": "b\u00e9lico y aluc\u00edn",
@@ -830,6 +830,32 @@
     },
     {
       "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -1424,6 +1450,28 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "album": {
         "name": "El Nini",
         "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
@@ -1497,7 +1545,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
@@ -1555,7 +1603,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 164245,
       "name": "El Toro Encartado - Spotify Singles",
       "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
@@ -1858,6 +1906,32 @@
     },
     {
       "album": {
+        "name": "Fresas de la Capital (Remix)",
+        "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Fresas de la Capital - Remix",
+      "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
+    },
+    {
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -1949,10 +2023,54 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "album": {
+        "name": "GPI (Remix)",
+        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "album": {
@@ -2063,6 +2181,28 @@
       "duration_ms": 174293,
       "name": "H\u00edbrido",
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
+    },
+    {
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
     },
     {
       "album": {
@@ -2703,7 +2843,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
@@ -2961,7 +3101,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
@@ -3001,7 +3141,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162092,
       "name": "M\u00e1s Que Disney",
       "url": "https://open.spotify.com/track/3opTNcoH22CTN1XMtf6tw3"

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 426878,
+  "num_followers": 426987,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAxZjMyYmQ3MDczNjk0ZjY1NGY0M2E5N2Y2ZjcwNzRhNmY1ZGFi",
+  "snapshot_id": "MCxmNmY4NDllZDMzMDMzNmQ4ZjRkNjQ4ZmQ2ZWU4ZGIwZjQ0MDg3MTQ0",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 110820,
       "name": "Slither",
       "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Sleeping In Your Garden",
-        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
-      },
-      "artists": [
-        {
-          "name": "Gia Ford",
-          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
-        }
-      ],
-      "duration_ms": 204029,
-      "name": "Sleeping In Your Garden",
-      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 177316,
       "name": "Flood",
       "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Sleeping In Your Garden",
+        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
+      },
+      "artists": [
+        {
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
+        }
+      ],
+      "duration_ms": 204029,
+      "name": "Sleeping In Your Garden",
+      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Wicked Animal",
-        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
-      },
-      "artists": [
-        {
-          "name": "Amandla Stenberg",
-          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
-        },
-        {
-          "name": "Bobbi Salv\u00f6r Menuez",
-          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
-        }
-      ],
-      "duration_ms": 284745,
-      "name": "Wicked Animal",
-      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 233556,
       "name": "Blue May",
       "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Wicked Animal",
+        "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
+      },
+      "artists": [
+        {
+          "name": "Amandla Stenberg",
+          "url": "https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck"
+        },
+        {
+          "name": "Bobbi Salv\u00f6r Menuez",
+          "url": "https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J"
+        }
+      ],
+      "duration_ms": 284745,
+      "name": "Wicked Animal",
+      "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
     },
     {
       "added_at": "2023-11-03 23:08:22",

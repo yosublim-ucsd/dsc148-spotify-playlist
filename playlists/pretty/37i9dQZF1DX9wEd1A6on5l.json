@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 49445,
+  "num_followers": 49506,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzZhOWFhZTBhMzE1OTU0OTkzZmNkYjE4ZTg3NTVkZmZhOTYxZjVj",
+  "snapshot_id": "MCxkMmZhMzM0OTA4ZGJkNTljODU1ODgxMGZiODRlZmI4NWMxMjZlYjgz",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Too Busy To Be Bae",
-        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 177203,
-      "name": "Too Busy To Be Bae",
-      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Too Busy To Be Bae",
+        "url": "https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 177203,
+      "name": "Too Busy To Be Bae",
+      "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -771,18 +787,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -803,26 +823,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -855,6 +855,30 @@
       "duration_ms": 136551,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "GWAGWALADA",
+        "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 188985,
+      "name": "GWAGWALADA",
+      "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -915,26 +939,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "GWAGWALADA",
-        "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 188985,
-      "name": "GWAGWALADA",
-      "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "Outside / Obaa Sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 180512,
       "name": "Outside (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2024-03-01 00:01:00",

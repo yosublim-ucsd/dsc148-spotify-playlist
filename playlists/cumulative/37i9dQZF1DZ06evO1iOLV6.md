@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-124 songs - 7 hr 14 min
+125 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 | 2021-12-28 | 2022-09-11 |
 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 | 2023-11-10 |  |
 | [HIGHER](https://open.spotify.com/track/6S1W6Ll9DEAFMsQYoiem4l) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [HIGHER](https://open.spotify.com/album/4yXr5GRRquWlt7ExXmh7CY) | 3:11 | 2023-08-19 | 2023-11-11 |
+| [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/track/63Usxhj16VSx7FuNQVF1eX) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/album/0PGerhN0CDzcLWVQ4NmNV3) | 3:02 | 2024-03-02 |  |
 | [I'm In Love](https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [I'm In Love](https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF) | 3:29 | 2021-12-28 |  |
 | [In My Head](https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [In My Head](https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1) | 3:14 | 2021-12-28 |  |
 | [Inshallah](https://open.spotify.com/track/6PfPfk6nwJFu5XX38R2obK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:15 | 2023-09-09 | 2023-09-13 |

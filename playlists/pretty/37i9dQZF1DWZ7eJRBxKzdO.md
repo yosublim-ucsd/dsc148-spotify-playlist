@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,526 likes - 120 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,315 likes - 120 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 |
 | 120 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/1rENS47PLnO8c7WIjRCD46) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Summer Hits 2023](https://open.spotify.com/album/2yvOcQ8ZZvOKntENMFBrbI) | 2:08 |
 
-Snapshot ID: `MCwwZmZkY2Q2OWIyM2ZlZDNlM2RlODBkY2VmNWM0ZmYwNzc0MjQyY2Qy`
+Snapshot ID: `MCwwMTk0MTNkNTY3NzM4MjBiNGY3M2VkOTE4NmZkNmQ2NjJjOTdjMDY5`

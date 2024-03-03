@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 132582,
+  "2024-03-03": 132627,
   "date_first_scraped": "2023-09-19",
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
   "name": "This Is MC Cabelinho",
@@ -533,12 +533,12 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
           "name": "Heron",
           "url": "https://open.spotify.com/artist/6ckKeUM4OxpRhdXzWamJAN"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
       "date_added": "2023-09-18",

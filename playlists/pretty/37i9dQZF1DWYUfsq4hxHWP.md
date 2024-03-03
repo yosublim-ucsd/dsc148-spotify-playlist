@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,499 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,535 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Tonight Ain't The Day](https://open.spotify.com/track/74QLeZ1c4Obi1uza5kpzUV) | [Steven Champion](https://open.spotify.com/artist/6q1g9kegyUqBXcoxDBulA6) | [Tonight Ain't The Day](https://open.spotify.com/album/4cdLbs8YQfeMvr1OKQQV0n) | 3:11 |
 | 100 | [Born For Leaving](https://open.spotify.com/track/6WkPVQxlnoOney8ULiXsxU) | [Niklas Juritsch](https://open.spotify.com/artist/4Nb87ZShMW1LoCrRjBJoJO) | [Born For Leaving](https://open.spotify.com/album/6STDg1uyOdbgrmPAFqSiRb) | 3:30 |
 
-Snapshot ID: `MCxhZjlhOTcyYTI1MjllMGM4MGMxODJjMjc3ODFkNGIxMGYyMDU0OTE1`
+Snapshot ID: `MCwxY2E5N2I4NzdlMGJkNzg4MzY4NGMwNDBjNzc2MWE5ZTk2NDQ1ZmMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,288 likes - 47 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,315 likes - 48 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,29 +31,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 21 | [Pluto](https://open.spotify.com/track/6aJIbT3rh6jF9xqM2hBLel) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:19 |
 | 22 | [Enjoy](https://open.spotify.com/track/28GJnnbJ7fOKi2YBqlxWb9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:57 |
 | 23 | [Like Someone in Love](https://open.spotify.com/track/0eDVClItJH4PkfPu7dciKP) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:33 |
-| 24 | [It's Not Up To You](https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:08 |
+| 24 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 |
 | 25 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/07GGbKqM9rBCv8sGFwpp3Q) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:06 |
 | 26 | [Oceania](https://open.spotify.com/track/4aQGlcbxrtsDRo8JvMUDC5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:24 |
 | 27 | [Stonemilker](https://open.spotify.com/track/7mg5wIB2b6D5K5mOhALKxs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:49 |
-| 28 | [Sun In My Mouth](https://open.spotify.com/track/3EjTqXJF3xuaEYplpcPQYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 2:40 |
+| 28 | [It's Not up to You](https://open.spotify.com/track/4bZnIdaGBf162pZEkxXSgQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:08 |
 | 29 | [I’ve Seen It All](https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20) | 5:29 |
 | 30 | [Atopos](https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:46 |
 | 31 | [I Remember You](https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL) | 4:13 |
 | 32 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m) | 3:44 |
 | 33 | [Blissing Me](https://open.spotify.com/track/0QEwFjt0hX1aQqrJY20HCz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 5:05 |
-| 34 | [Triumph Of A Heart](https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:04 |
-| 35 | [History Of Touches](https://open.spotify.com/track/5VrL9zKmi3P2IwtnvP5yfU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 3:00 |
-| 36 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
+| 34 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
+| 35 | [Triumph Of A Heart](https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:04 |
+| 36 | [History Of Touches](https://open.spotify.com/track/5VrL9zKmi3P2IwtnvP5yfU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 3:00 |
 | 37 | [Beautiful Mother](https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:16 |
-| 38 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:57 |
-| 39 | [Lionsong](https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:08 |
-| 40 | [Declare Independence](https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3) | 4:13 |
+| 38 | [Declare Independence](https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3) | 4:13 |
+| 39 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:57 |
+| 40 | [Lionsong](https://open.spotify.com/track/2ZW9hbML7eNemHLsak7zjF) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:08 |
 | 41 | [Sharing Orb](https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:48 |
 | 42 | [Batabid](https://open.spotify.com/track/1h2JfIHKYy1zE4oztaWt0M) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/6y8qmVF6G3lVjTDztWrNWb) | 2:26 |
-| 43 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 |
-| 44 | [Where Is The Line](https://open.spotify.com/track/6b7MeZUEaRBLix7nfl3aRQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:41 |
+| 43 | [Where Is The Line](https://open.spotify.com/track/6b7MeZUEaRBLix7nfl3aRQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:41 |
+| 44 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 |
 | 45 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 |
 | 46 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
-| 47 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
+| 47 | [Mycelia](https://open.spotify.com/track/61HE70rCrYsQCuZuL54Ni5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 2:00 |
+| 48 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDAyMTg1NDQ0MTMyNmI5MDAzNDU2OWYxODJkNDMzYTJiMQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBkY2JjM2RjYjc2ZWJlYzFiNjE1YjdjMGI5MzliZmZlNQ==`

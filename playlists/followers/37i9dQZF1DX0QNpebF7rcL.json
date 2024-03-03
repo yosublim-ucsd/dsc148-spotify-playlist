@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 54939,
+  "2024-03-03": 54971,
   "date_first_scraped": "2021-12-28",
   "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
@@ -791,7 +791,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 290007,
       "name": "Broken",
       "url": "https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ"
@@ -929,6 +929,24 @@
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2pJfPlDG4xvJmOKixsrISC"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5PRCKNOjJjpvqZyPQOrspK"
     },
     {
       "album": {
@@ -4106,6 +4124,24 @@
     },
     {
       "album": {
+        "name": "One Last Boogie",
+        "url": "https://open.spotify.com/album/5clpmV8UmjOao0GkclTH09"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "One Last Boogie",
+      "url": "https://open.spotify.com/track/2SY1hcVPAgzugC7F5lzNMZ"
+    },
+    {
+      "album": {
         "name": "One Monkey Can Stop a Show",
         "url": "https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN"
       },
@@ -4645,7 +4681,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192484,
       "name": "She Calls Me Kingfish",
       "url": "https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc"
@@ -5267,6 +5303,24 @@
       "duration_ms": 250092,
       "name": "Talkin' Company Man Blues",
       "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/3XXt7jo30yi07AseATCdby"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255989,
+      "name": "Talkin' To Myself",
+      "url": "https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs"
     },
     {
       "album": {
@@ -6505,7 +6559,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 274066,
       "name": "You Don't Know the Blues",
       "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"

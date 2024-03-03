@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 31 min
+56 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 | 2023-12-30 |  |
 | [Inverno](https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 4:00 | 2023-12-30 |  |
 | [Jurei/Odin](https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Colírio da Cólera](https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt) | 3:22 | 2023-12-30 |  |
+| [Lago Transparente](https://open.spotify.com/track/5YGsqIIwkPF8IbXNqFwaPt) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Lago Transparente](https://open.spotify.com/album/0zfPyGTovFa0ZForEwBxAi) | 2:14 | 2024-03-02 |  |
 | [Lambada](https://open.spotify.com/track/0mVt6wggA6Y9XuGpCVfVzE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:47 | 2023-12-30 |  |
 | [Lamentável, Pt\. III](https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Pior Disco do Ano](https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli) | 3:30 | 2023-12-30 |  |
 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 | 2023-12-30 |  |
@@ -62,6 +63,6 @@
 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 | 2023-12-30 |  |
 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 | 2024-01-17 |  |
 | [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 | 2023-12-30 |  |
-| [Vai Ver](https://open.spotify.com/track/6pBstFxNtMwaWIRn18jpoy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 2:49 | 2024-02-23 |  |
+| [Vai Ver](https://open.spotify.com/track/6pBstFxNtMwaWIRn18jpoy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 2:49 | 2024-02-23 | 2024-03-03 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

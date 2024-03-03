@@ -1,12 +1,12 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 275241,
+  "num_followers": 275439,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI0MGQ4ZGU0YjcxMmVmZDgyMjYxNmE0OWUzZWYxOGY2MTdlNmY0",
+  "snapshot_id": "MCw4YWQzY2RhYmQzZWYyYWUwZDA2NDVkZmRkZDNhNzkzODZhZDQyYzhk",
   "tracks": [
     {
       "added_at": "2022-08-04 20:14:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "No Me Olvidaras",
         "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 230186,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Hansel & Raul 33",
-        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 348600,
-      "name": "Ella Feat. Luis Enrique",
-      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Hansel & Raul 33",
+        "url": "https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 348600,
+      "name": "Ella Feat. Luis Enrique",
+      "url": "https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "Sin Escencia",
+        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Sin Escencia",
+      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "Sin Escencia",
-        "url": "https://open.spotify.com/album/3G4proiHOSagEvS94X2txr"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Sin Escencia",
-      "url": "https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261484,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Mas Grande Que Nunca",
         "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
       },
       "artists": [
         {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 267416,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
+      "duration_ms": 261484,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1271,6 +1255,22 @@
       "duration_ms": 311733,
       "name": "Caretas",
       "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 267416,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 261591,
-      "name": "Mujer Ara\u00f1a",
-      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Amor de Locos",
         "url": "https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 261591,
+      "name": "Mujer Ara\u00f1a",
+      "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1599,6 +1599,30 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "La Rebelion",
+        "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
+      },
+      "artists": [
+        {
+          "name": "racheasf",
+          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
+        },
+        {
+          "name": "417se",
+          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
+        },
+        {
+          "name": "firatsamsi",
+          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
+        }
+      ],
+      "duration_ms": 376451,
+      "name": "La Rebelion",
+      "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Salsa Estelar",
         "url": "https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157"
       },
@@ -1631,30 +1655,6 @@
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "La Rebelion",
-        "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
-      },
-      "artists": [
-        {
-          "name": "racheasf",
-          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
-        },
-        {
-          "name": "417se",
-          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
-        },
-        {
-          "name": "firatsamsi",
-          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
-        }
-      ],
-      "duration_ms": 376451,
-      "name": "La Rebelion",
-      "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
     }
   ],
   "unique_name": "Salsa de Oro",

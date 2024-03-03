@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 
 > The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=SG75sGTeTrKqESWSWc4n7g">Linkin Park</a>, Mother Mother, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,149 likes - 65 songs - 3 hr 32 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,147 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

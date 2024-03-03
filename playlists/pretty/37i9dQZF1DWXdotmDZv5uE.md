@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,095 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,117 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 26 | [Juarez](https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 1:52 |
 | 27 | [El Amanecer](https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 9:25 |
 | 28 | [Huapango 2](https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Jorge Cristian](https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS) | [Marimbas Y Regional Vol\. 1](https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI) | 1:38 |
-| 29 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
-| 30 | [Los machetes](https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:34 |
+| 29 | [Los machetes](https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:34 |
+| 30 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
 | 31 | [El Barrilito](https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [Mis Rancheras Favoritas](https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP) | 2:49 |
 | 32 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
 | 33 | [El Siquisiri](https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a) | [Sones Jarochos](https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux), [Los Nacionales De Jacinto Gatica](https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr) | [Sones Jarochos \- Los Nacionales De Jacinto Gatica \- Feria Mexicana](https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 | 100 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 
-Snapshot ID: `MCw5YmUzYzY1ZTM1NjJlNzRjZDIwZjI5YWVmZDlkZDI3ZjEwNjFhNWYx`
+Snapshot ID: `MCw3NGU3ZjcyZTk0OGE3YmY3ODFjOTAyNWYzZjIzZGRhZGQwNDM3Zjgz`

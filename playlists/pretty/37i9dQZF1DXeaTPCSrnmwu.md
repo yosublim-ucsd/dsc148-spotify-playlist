@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 9 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
 | 10 | [Dos gardenias \(Piano version\)](https://open.spotify.com/track/2mkhpwb9lD7l26HdvluhkK) | [Pedro "Periquin" Castro](https://open.spotify.com/artist/5CLzUZxXAb7lFCYVcxkeif) | [Piano Bolero](https://open.spotify.com/album/76zj09agpV8rUgMFLeX5e7) | 3:15 |
 | 11 | [Stormy Weather](https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 3:34 |
-| 12 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
-| 13 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 |
+| 12 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 |
+| 13 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
 | 14 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 |
 | 15 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
 | 16 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 | 50 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 
-Snapshot ID: `MCwwMzYzMWUwZTVjYmYzMjJjZmU5YmU3OWJiNDM4ZGM1N2U5ZGRkMDk4`
+Snapshot ID: `MCxlMjlmNGM0NzI5YzUyZWI2N2M4NjA3ZGU3MmRlZGIwZmQwM2Y1YzMx`

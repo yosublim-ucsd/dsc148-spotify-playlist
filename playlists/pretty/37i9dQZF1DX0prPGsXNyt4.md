@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,652 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,704 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 29 | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy) | 3:54 |
 | 30 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 31 | [Sagitário](https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1) | 2:52 |
-| 32 | [Dichave](https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Daquele Naip](https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg) | 3:30 |
-| 33 | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7) | 5:53 |
+| 32 | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7) | 5:53 |
+| 33 | [Dichave](https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Daquele Naip](https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg) | 3:30 |
 | 34 | [Essa Noite](https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 2:34 |
 | 35 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 |
 | 36 | [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCwzN2NmNGVjMDJjZTFmY2M1NDFkNzQ5MzIzMzMyNGRlNDM0ZTI1NjE1`
+Snapshot ID: `MCwzMTE3ZWJkNjU5ODllYjcxYTAzY2E3MDU0NGJlZjA1NDhmYzJiYzE4`

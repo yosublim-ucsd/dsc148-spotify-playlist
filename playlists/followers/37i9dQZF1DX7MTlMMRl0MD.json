@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1861101,
+  "2024-03-03": 1861242,
   "date_first_scraped": "2022-03-22",
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce",
   "name": "Bachata Lovers",
@@ -303,7 +303,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169418,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
@@ -5063,6 +5063,24 @@
       "duration_ms": 259053,
       "name": "Que Cosas Tiene El Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1sRLHqXAohDI070tWU6QIS"
+    },
+    {
+      "album": {
+        "name": "Que Me Importa",
+        "url": "https://open.spotify.com/album/4w8tP5YeY0t8fJjBNfivg8"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Que Me Importa",
+      "url": "https://open.spotify.com/track/3IPV7bpJGN0d1ca5mBOrtf"
     },
     {
       "album": {

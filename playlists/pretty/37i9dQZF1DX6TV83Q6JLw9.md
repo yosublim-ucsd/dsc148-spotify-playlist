@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TV83Q6JLw9.md) - [plain]
 
 > Featuring Bellakath, Dani Flow, KAROL G & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TV83Q6JLw9.md) - [plain]
 | 17 | [PALABRAS SOBRAN \- REMIX](https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Palabras Sobran \(Remix\)](https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9) | 4:48 |
 | 18 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 |
 | 19 | [SANDUNGA](https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SANDUNGA](https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID) | 4:01 |
-| 20 | [Arena y Sal](https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tunvao](https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC) | [Arena y Sal](https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT) | 2:54 |
+| 20 | [Arena y Sal](https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tunvao](https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC) | [Arena y Sal](https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT) | 2:54 |
 | 21 | [GANGSTA LUV](https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [GANGSTA LUV](https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP) | 3:51 |
 | 22 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
 | 23 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 |
 | 24 | [Musiando \(Sesión 11\)](https://open.spotify.com/track/5TPG3fyIni3kMBIAIPGH4Q) | [Trap House Latino](https://open.spotify.com/artist/1dJxxEzHPucXmosEl8pNiH), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dimelo Ninow](https://open.spotify.com/artist/797WGYmfHakSqOgtHMFkGa) | [Musiando \(Sesión 11\)](https://open.spotify.com/album/0oN7lGVuLMB0gfmRprjPNC) | 2:20 |
 | 25 | [OCASO](https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [OCASO](https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI) | 3:53 |
 
-Snapshot ID: `MCxjMjYyNDZjYzY2M2IwNDM3M2I5NjliODlhYjc4ODIxODVkZTEzYWRh`
+Snapshot ID: `MCxmNmM0ZmQ1NzQ5NzQwNDk1ZGM4NGIwNzVmNWI1NTM3OGZjZjZiMjll`

@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 344443,
+  "num_followers": 344476,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjJkOWM1MDk2MjZkZDE4MTZlZmQxOTY0ZDk0ZTQ5NWYzMDUzNWNk",
+  "snapshot_id": "MCw2MTA0YWI2ZmQxYWE4YjJhNjU4Yzc0ODJhYjVlM2Y4ZWY0MDM1YjY4",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
         "name": "Year of the Caprese",
         "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Blood Type",
         "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 202597,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "Ritual Union",
-        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Ritual Union",
-      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Waiting For The Dawn",
         "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Ritual Union",
+        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Ritual Union",
+      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
     }
   ],
   "unique_name": " Indie Pop 2010s",

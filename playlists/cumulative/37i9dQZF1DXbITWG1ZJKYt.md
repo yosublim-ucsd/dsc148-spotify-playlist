@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-367 songs - 1 day 7 hr 57 min
+368 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 | 2023-05-03 |  |
 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 | 2021-12-02 |  |
 | [The Nearness Of You \- Remastered](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 | 2021-12-02 |  |
-| [The Plum Blossom \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4HL2XUimEYLv0KDxD3Xpqz) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:55 | 2022-08-17 |  |
+| [The Plum Blossom \- Remastered 2023](https://open.spotify.com/track/28KPkyrSqMDrriF7JjZ6Wi) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds \(Remastered 2023\)](https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf) | 5:03 | 2024-02-20 |  |
+| [The Plum Blossom \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4HL2XUimEYLv0KDxD3Xpqz) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:55 | 2022-08-17 | 2024-03-03 |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Slide Hampton](https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys) | [A Day in Copenhagen](https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC) | 4:57 | 2021-12-02 |  |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2022-03-11 |  |
 | [The Things We Did Last Summer](https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Hub of Hubbard](https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa) | 7:19 | 2021-12-02 |  |

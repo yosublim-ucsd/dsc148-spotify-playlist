@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 90235,
+  "2024-03-03": 90265,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211777,
       "name": "01 Chuy\u1ec7n D\u1edf Dang",
       "url": "https://open.spotify.com/track/3vWCRttEOSRmXZs8jfAPSX"
@@ -12468,6 +12468,32 @@
     },
     {
       "album": {
+        "name": "pho real",
+        "url": "https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "Anh Phan",
+          "url": "https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "pho real",
+      "url": "https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js"
+    },
+    {
+      "album": {
         "name": "PHONG (feat. TGSN & Tyronee)",
         "url": "https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI"
       },
@@ -14361,7 +14387,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -14387,6 +14413,24 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (Usher Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+    },
+    {
+      "album": {
+        "name": "Top 10 Global - Sped Up (Remix)",
+        "url": "https://open.spotify.com/album/2HImbyFZK0mf4GK0tIrMhO"
+      },
+      "artists": [
+        {
+          "name": "Beat Record",
+          "url": "https://open.spotify.com/artist/0WwKxmZjmKUp9y0Jg1LWk1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211104,
+      "name": "Standing Next to You - Sped Up - Remix",
+      "url": "https://open.spotify.com/track/0paWX66K9n7sYR9AkKkyzB"
     },
     {
       "album": {

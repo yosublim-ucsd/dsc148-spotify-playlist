@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,639 likes - 375 songs - 17 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,670 likes - 375 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 374 | [Roaring Thunder](https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z) | [Exotic Thunder & Rain](https://open.spotify.com/artist/6AEnJuV30ZBpEn1UqSLAHF) | [First Edition](https://open.spotify.com/album/1sDvTTk8d0Tl1tJWYhcpfR) | 3:07 |
 | 375 | [Northern Thunder](https://open.spotify.com/track/1nM1KVbx4nHwsuw5oIJUET) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Northern Thunder](https://open.spotify.com/album/3LIYmvq3IcnN6amdl0Tf2U) | 2:34 |
 
-Snapshot ID: `MCwxOTg1NzNiNjVmZWJlMWQ3NTVlZjFiNWI5Zjg2ZDhjNzE2YmY4OWUx`
+Snapshot ID: `MCwyMGYwMjQ3YjQ0Y2EyNzBiNDEzNjg3ZjQwYjBlNmJmYzdmMDU0ZDA5`

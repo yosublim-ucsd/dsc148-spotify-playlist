@@ -1,12 +1,12 @@
 {
-  "description": "100% Pinoy hits from your favorite artists! Cover: Up Dharma Down",
-  "num_followers": 2403605,
+  "description": "100% Pinoy hits from your favorite artists! Cover: SUD",
+  "num_followers": 2404123,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGY0OWYyN2UzODAzZmE3ZTI0NDBlNDZhNmZkYmE4ZmEwOTBmZGYw",
+  "snapshot_id": "MCxkNmJhMDA0NTQxNTY3ODFlMjIzYjdjOWUzNmI5MzdmZjQ4NGYwMjdl",
   "tracks": [
     {
       "added_at": "2024-01-31 04:16:32",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
         "name": "Nobela",
         "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Pauwi Nako",
-        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
       "artists": [
         {
@@ -576,25 +592,13 @@
           "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
         },
         {
-          "name": "Jnske",
-          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
-        },
-        {
-          "name": "Bullet D",
-          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
-        },
-        {
           "name": "Yuridope",
           "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
         }
       ],
-      "duration_ms": 341573,
-      "name": "Pauwi Nako",
-      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -611,22 +615,6 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -739,30 +727,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
-      },
-      "artists": [
-        {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        }
-      ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
       },
@@ -775,6 +739,42 @@
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Pauwi Nako",
+        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
+      },
+      "artists": [
+        {
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        },
+        {
+          "name": "Bullet D",
+          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "duration_ms": 341573,
+      "name": "Pauwi Nako",
+      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
     },
     {
       "added_at": "2024-01-31 04:16:32",

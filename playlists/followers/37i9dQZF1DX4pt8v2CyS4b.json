@@ -1,9 +1,27 @@
 {
-  "2024-03-02": 9778,
+  "2024-03-03": 9793,
   "date_first_scraped": "2023-12-27",
-  "description": "Listen to the original music from Genius: MLK/X with songs by Aloe Blacc, Jacob Banks, and Rhiannon Giddens on the National Geographic Official Playlist. Streaming now on Hulu and D+.",
+  "description": "Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu. Photo Credit: Oscar Dewhurst.",
   "name": "National Geographic Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103613,
+      "name": "70 Strong",
+      "url": "https://open.spotify.com/track/1P2xPlniMZcrgKurHDOfkC"
+    },
     {
       "album": {
         "name": "Secrets of the Elephants (Original Series Soundtrack)",
@@ -75,6 +93,24 @@
       "duration_ms": 196448,
       "name": "Beach Living",
       "url": "https://open.spotify.com/track/2BlWGB7wM2dSiQ9JUjJMND"
+    },
+    {
+      "album": {
+        "name": "Boys Wanna Be Her",
+        "url": "https://open.spotify.com/album/6Ct0Mywt5YZMLr41yLNsDh"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/7eMjl8fLykfgpxrNr0KyqJ"
     },
     {
       "album": {
@@ -191,6 +227,24 @@
       "duration_ms": 111472,
       "name": "Coda (Then Everything Changed)",
       "url": "https://open.spotify.com/track/77ioL0510r3qGHiDgHUky4"
+    },
+    {
+      "album": {
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292656,
+      "name": "Courage to Change",
+      "url": "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw"
     },
     {
       "album": {
@@ -482,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Jagna",
+        "url": "https://open.spotify.com/album/5lhcZCY7jbAgjeIjaxnkBg"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221031,
+      "name": "Jagna",
+      "url": "https://open.spotify.com/track/0cnRaqtU77LP6pj0y0Y5tp"
+    },
+    {
+      "album": {
         "name": "Genius: MLK/X (Songs from the Original Series)",
         "url": "https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0"
       },
@@ -515,6 +587,24 @@
       "duration_ms": 180730,
       "name": "Kenya",
       "url": "https://open.spotify.com/track/745PDHBEq9IAk492Ct1zaZ"
+    },
+    {
+      "album": {
+        "name": "Gravel & Wine",
+        "url": "https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Kill Of The Night",
+      "url": "https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM"
     },
     {
       "album": {
@@ -645,6 +735,24 @@
       "duration_ms": 152887,
       "name": "National Geographic Theme - Symphony of Our World Version",
       "url": "https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4"
+    },
+    {
+      "album": {
+        "name": "KVRZ",
+        "url": "https://open.spotify.com/album/5fvQp8oYo9cmQ4zk1F86FM"
+      },
+      "artists": [
+        {
+          "name": "Kat Meoz",
+          "url": "https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "One Way or Another",
+      "url": "https://open.spotify.com/track/34W2hczMTlE7kxLue20lW0"
     },
     {
       "album": {
@@ -804,6 +912,24 @@
     },
     {
       "album": {
+        "name": "MATA",
+        "url": "https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/7KnvTWgBoiY0Ypp6AHO5qU"
+    },
+    {
+      "album": {
         "name": "Genius: MLK/X (Songs from the Original Series)",
         "url": "https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0"
       },
@@ -877,6 +1003,60 @@
       "duration_ms": 153216,
       "name": "Sea Turtle",
       "url": "https://open.spotify.com/track/3vAnvSdQJLDgWH2NxSEOic"
+    },
+    {
+      "album": {
+        "name": "Spirituals",
+        "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7zvmi94ekefZgqq4E1JZ9H"
+    },
+    {
+      "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52226,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/3npiCYzlwprZjaukhmGDZi"
+    },
+    {
+      "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74173,
+      "name": "Sisters = Survival",
+      "url": "https://open.spotify.com/track/1NF5Mdnt6lc7fjG0GdsZAW"
     },
     {
       "album": {
@@ -974,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Taking the Crown",
+      "url": "https://open.spotify.com/track/0YyC0PVVwlE6Q6ZtuRBG7x"
+    },
+    {
+      "album": {
         "name": "Fire of Love (Music From and Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW"
       },
@@ -1054,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66200,
+      "name": "The Crater",
+      "url": "https://open.spotify.com/track/0QqiVjQQur066I62QTMfNG"
+    },
+    {
+      "album": {
         "name": "Secrets of the Elephants (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
       },
@@ -1126,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Through the Dark",
+      "url": "https://open.spotify.com/track/6DL5Wc5rwmITnKOi4tpt6N"
+    },
+    {
+      "album": {
         "name": "LA 92 (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/2o8yuykY3WBWSlNRkGvSIu"
       },
@@ -1144,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Queens (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/32FXOYo9gp1ifmhqA0a1P5"
+      },
+      "artists": [
+        {
+          "name": "Morgan Kibby",
+          "url": "https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123666,
+      "name": "Tribes",
+      "url": "https://open.spotify.com/track/677AIqHTflBDfeVfh0yqpo"
+    },
+    {
+      "album": {
         "name": "Umi (From \"Queens\")",
         "url": "https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu"
       },
@@ -1155,7 +1407,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 149161,
       "name": "Umi - From \"Queens\"",
       "url": "https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs"
@@ -1257,6 +1509,24 @@
       "duration_ms": 240896,
       "name": "Working Late, Going Out",
       "url": "https://open.spotify.com/track/6SXgrXgn9U4cUd31bsbw2H"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "you should see me in a crown",
+      "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
     },
     {
       "album": {

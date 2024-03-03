@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,877 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,930 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 49 | [Sixty Minute Man](https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF) | [Billy Ward & The Dominoes](https://open.spotify.com/artist/5N6BX9UJbyuWlb4rxH8mJk) | [Sixty Minute Man](https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo) | 2:33 |
 | 50 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 
-Snapshot ID: `MCw3MmE0YzQ3NTMzNWQzYWQ2Mzc4YmY0ZmUxMTQzYjJjYmY3MjAxM2U5`
+Snapshot ID: `MCxhZDE4MzBhYzJhYmY0NDRjMGQxMGU5YzM0MDk5MzNhNTUwNmM3NWMy`

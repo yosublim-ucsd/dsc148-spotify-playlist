@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 147519,
+  "num_followers": 147620,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNmZTZjZDNmMDU4MTlhZWY3ZDQ0YjY4MTE5YTcyYzJmMGQxYjQ1",
+  "snapshot_id": "MCwyZmU3ZDczMGY1Njk4ODA4ZjU0MjdiMTc5ZDg0NzFhZDljZWNlY2I1",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -707,22 +707,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Love Like I Drink",
-        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
+        "name": "Prayed For You (Wedding Version)",
+        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
       },
       "artists": [
         {
-          "name": "Carter Winter",
-          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
-        },
-        {
-          "name": "Allie Colleen",
-          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 195309,
-      "name": "Love Like I Drink",
-      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+      "duration_ms": 205306,
+      "name": "Prayed For You - Wedding Version",
+      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Prayed For You (Wedding Version)",
-        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
+        "name": "Love Like I Drink",
+        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
       "artists": [
         {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Carter Winter",
+          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
+        },
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
         }
       ],
-      "duration_ms": 205306,
-      "name": "Prayed For You - Wedding Version",
-      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
+      "duration_ms": 195309,
+      "name": "Love Like I Drink",
+      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Something's Gonna Kill Me (Piano)",
         "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "duration_ms": 204004,
+      "name": "Better Off Gone (Acoustic Sessions)",
+      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
-      },
-      "artists": [
-        {
-          "name": "Logan Mize",
-          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Better Off Gone (Acoustic Sessions)",
-      "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
     },
     {
       "added_at": "2024-02-23 05:00:00",

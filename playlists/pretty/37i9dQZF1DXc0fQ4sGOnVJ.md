@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,898 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,905 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 |
 
-Snapshot ID: `MCw3NmI3Y2VjZjgwYmUxNTRlZDY5ZWIxZWMzYjE5ZGFmZWMxODMyNjAw`
+Snapshot ID: `MCwxZmU3MWY5MDhlN2RlMjhiNjVhM2YyYTVhMjdhMTBiZjBhOGQ0ZTUy`

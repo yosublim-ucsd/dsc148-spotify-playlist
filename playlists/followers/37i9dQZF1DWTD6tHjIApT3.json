@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 109383,
+  "2024-03-03": 109453,
   "date_first_scraped": "2022-05-30",
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: eill",
   "name": "Women's Voice",
@@ -7977,10 +7977,28 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 206013,
       "name": "Grooving Night",
       "url": "https://open.spotify.com/track/7h9MdoxJd91ZlCeWXUqvU5"
+    },
+    {
+      "album": {
+        "name": "Grooving Night",
+        "url": "https://open.spotify.com/album/2BsJ7p2HeWyaLtDapCF8TT"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Grooving Night",
+      "url": "https://open.spotify.com/track/7wDbhuuqxiw0pCUAIEkVAW"
     },
     {
       "album": {
@@ -37409,7 +37427,7 @@
     {
       "album": {
         "name": "\u6625\u3068\u9580\u51fa",
-        "url": "https://open.spotify.com/album/45iZOyATobrJl6rFK61vH7"
+        "url": "https://open.spotify.com/album/6egH67qzKZHCzxXTI1V93x"
       },
       "artists": [
         {
@@ -37420,6 +37438,24 @@
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 261375,
+      "name": "\u6625\u3068\u9580\u51fa",
+      "url": "https://open.spotify.com/track/3CCPQAC4jEWyzvnFFt06BV"
+    },
+    {
+      "album": {
+        "name": "\u6625\u3068\u9580\u51fa",
+        "url": "https://open.spotify.com/album/45iZOyATobrJl6rFK61vH7"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ca\u30d5\u30b5\u30de\u30e6",
+          "url": "https://open.spotify.com/artist/1uESGfxoaOLG8KzuiAuuVh"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-02",
       "duration_ms": 261375,
       "name": "\u6625\u3068\u9580\u51fa",
       "url": "https://open.spotify.com/track/5rXsiXeu6eOECkW4wOVcBs"

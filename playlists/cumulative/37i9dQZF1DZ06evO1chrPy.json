@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+    },
+    {
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },

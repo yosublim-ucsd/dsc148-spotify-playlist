@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Seth Hills
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,651 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,661 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 |
 | 3 | [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 |
 | 4 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
-| 5 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 5 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 6 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 |
 | 7 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 |
 | 8 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 94 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 |
 | 95 | [How Will I Know](https://open.spotify.com/track/5zRJAOEqm5XWg3QLKhCdE5) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW) | [How Will I Know](https://open.spotify.com/album/50yYH2HfFr3fITB46Fqh8m) | 2:24 |
 
-Snapshot ID: `MCw3YWYyY2FkYzdmNjZlMmJjNTVlMDEzNGVlNDE4MTYyNjQyMzJjMmQw`
+Snapshot ID: `MCxlNjg0NDRkYmZmNmI2OGI0ODJlZTFjMDA1MjJhMjcwMTgwMjVkM2Uy`

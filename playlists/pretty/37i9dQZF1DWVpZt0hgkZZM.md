@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,891 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,915 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Golpe Con Golpe](https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:30 |
 | 100 | [Entre Rejas](https://open.spotify.com/track/1jBGM9PNMIZCe46WQ3i4ZB) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Burro Leñero](https://open.spotify.com/album/2YlM4ylMqp7rzXpsE9lXJJ) | 3:53 |
 
-Snapshot ID: `MCw5ZDIxMzIzNWM1NGYxZTg2MDA5YWZkNGQzZmQ4MzYxY2YyM2E0Yzg3`
+Snapshot ID: `MCwyZGU3YWZjMjgwYTJhOWRjZmNmODc2NmQ2ZDRkMzRmYWI3ZWUzZjVl`

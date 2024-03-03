@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 168183,
+  "num_followers": 168253,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjkwNTdmMWNkYzlkYWRlOWY3NDI1ZTNiZDI4YzgwM2NhMTgxNDYw",
+  "snapshot_id": "MCw3MmMyMjc1MTQ4OWYyNzlhZTg3NWViN2I3MDg0NzFmMDUxYzVkYWFj",
   "tracks": [
     {
       "added_at": "2024-03-01 19:18:05",
@@ -282,6 +282,10 @@
         {
           "name": "Juan Sinatra",
           "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
         }
       ],
       "duration_ms": 176170,
@@ -459,6 +463,30 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Dib\u00fajame",
+        "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 236932,
+      "name": "Dib\u00fajame",
+      "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -483,30 +511,6 @@
       "duration_ms": 308000,
       "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Dib\u00fajame",
-        "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 236932,
-      "name": "Dib\u00fajame",
-      "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -551,26 +555,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
-      },
-      "artists": [
-        {
-          "name": "Santy-P",
-          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
-        },
-        {
-          "name": "Moree Neri",
-          "url": "https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
       },
@@ -595,6 +579,26 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
+      },
+      "artists": [
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        },
+        {
+          "name": "Moree Neri",
+          "url": "https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -683,6 +687,26 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Todo Menso",
+        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 191917,
+      "name": "Todo Menso",
+      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -755,26 +779,6 @@
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Todo Menso",
-        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 191917,
-      "name": "Todo Menso",
-      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1619,22 +1623,6 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
         "name": "Confundido",
         "url": "https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve"
       },
@@ -1647,6 +1635,22 @@
       "duration_ms": 276000,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
+        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1755,6 +1759,26 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Smoky",
+          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+        }
+      ],
+      "duration_ms": 229717,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
+    },
+    {
+      "added_at": "2024-03-01 19:18:05",
+      "album": {
         "name": "La Luna y Tus Lunares",
         "url": "https://open.spotify.com/album/4CHRHhcyHUSEUJh2zYAosk"
       },
@@ -1779,22 +1803,22 @@
     {
       "added_at": "2024-03-01 19:18:05",
       "album": {
-        "name": "Ella Es",
-        "url": "https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P"
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/7zR6tG73BWnHml3UjZbFCn"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         },
         {
-          "name": "Smoky",
-          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 229717,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
+      "duration_ms": 160449,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6oHceJfgSlVAGAD8n4cQcR"
     },
     {
       "added_at": "2024-03-01 19:18:05",
@@ -1847,26 +1871,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2024-03-01 19:18:05",
-      "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/7zR6tG73BWnHml3UjZbFCn"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 160449,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6oHceJfgSlVAGAD8n4cQcR"
     },
     {
       "added_at": "2024-03-01 19:18:05",

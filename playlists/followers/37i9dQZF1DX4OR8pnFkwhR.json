@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 67791,
+  "2024-03-03": 67825,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u5341\u660e",
   "name": "RADAR: Early Noise ",
@@ -753,6 +753,24 @@
       "duration_ms": 265290,
       "name": "Ainokotoba",
       "url": "https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq"
+    },
+    {
+      "album": {
+        "name": "Airai",
+        "url": "https://open.spotify.com/album/27BYdJ8FTwN0pissOQzCJK"
+      },
+      "artists": [
+        {
+          "name": "Yamato Mori",
+          "url": "https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232472,
+      "name": "Airai",
+      "url": "https://open.spotify.com/track/1AraC46v7BfteuiQRuGWhe"
     },
     {
       "album": {
@@ -17799,7 +17817,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 232472,
       "name": "\u30a2\u30a4\u30e9\u30a4",
       "url": "https://open.spotify.com/track/6CJkRcooiymjh59vFxHtKS"

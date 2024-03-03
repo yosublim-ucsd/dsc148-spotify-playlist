@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,795 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,922 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [So I've Been Told](https://open.spotify.com/track/1tAFpWt9kNI3b17so9ZfxN) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [So I've Been Told](https://open.spotify.com/album/1p2ZmvbGwG4u3bKQfbvfpN) | 3:36 |
 | 80 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 |
 
-Snapshot ID: `MCxhZGFmMjVkZWVhOWQzYzY4MTg2MmFmNDkxZjQ1NGU1NjliOGQwNzZh`
+Snapshot ID: `MCxiMzY4ZWU1N2ZmNmFlNzRmMjQ5ZTM1Yjg1MzY1OThmZThhMDIyMzQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Jarina De Marco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,548 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,549 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 44 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 45 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
 | 46 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 |
-| 47 | [Daiquiri](https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 1:03 |
-| 48 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 47 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 48 | [Daiquiri](https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 1:03 |
 | 49 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 50 | [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 |
 | 51 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 65 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
 | 66 | [En el Temblor \(feat\. Chico Mann\)](https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Taurus](https://open.spotify.com/album/27bZK5n13Hoz2n3OscFxJf) | 3:36 |
 | 67 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
-| 68 | [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 |
-| 69 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
+| 68 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
+| 69 | [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 |
 | 70 | [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 |
 | 71 | [Comadre](https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:32 |
 | 72 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 75 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
 
-Snapshot ID: `MCwzNjBkYTMwNjlkODBkZWIyMDBiNGY0YjFhMDMyYTZiZTQzZjc5NGZk`
+Snapshot ID: `MCxjMWY3MTY4OGI2MDc1NDkwYmFkYWYyYjYyM2E3MDQ3YTcyZWY3NDJh`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 
 ### [traka](https://open.spotify.com/playlist/37i9dQZF1DX2l07ZaEeQkJ)
 
-> traka hdsptm 👿👹🍻🍾🫡💸
+> ké? traka..\. de mujer 🎀💅🏽💕🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,824 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,207 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 39 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 |
 | 40 | [B de Bellako](https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [B de Bellako](https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB) | 3:08 |
 | 41 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 |
-| 42 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
-| 43 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 |
+| 42 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 |
+| 43 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
 | 44 | [Brattiputy](https://open.spotify.com/track/4NRvhgXpBfLCPjdDbZHjp7) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Brattiputy](https://open.spotify.com/album/2jmAx9Pl6bp05KnJvBNV1f) | 3:50 |
 | 45 | [Dembow Freson](https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Dembow Freson](https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n) | 2:08 |
 | 46 | [QUÉ ROLLITO PRIMAVERA](https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [QUÉ ROLLITO PRIMAVERA](https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 49 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 |
 | 50 | [CHUPON](https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [CHUPON](https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh) | 3:21 |
 
-Snapshot ID: `MCxiNzlmMDM1NzZiYzQxOGUyNTM5M2JmYTkxYWIxZDc3ZTg3NzI5OWM2`
+Snapshot ID: `MCwyMjliZmUxNzM4ODc4MDU2YmUyOTI2ZTVkOWFhMzlmYTFkYjc3MjI5`

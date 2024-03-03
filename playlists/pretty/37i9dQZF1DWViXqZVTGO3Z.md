@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,362 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,348 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 |
 | 150 | [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 |
 
-Snapshot ID: `MCwxYmY1NmFjYzEwMzBkZDY1OWQwNGVhMzg5YzRlNjczN2M4OWNiODdk`
+Snapshot ID: `MCw1NTU1YjdmMTI4YzNhNzk2MTk0NTQ5NGIwZTk0M2RmZjg5YmU3YmZh`

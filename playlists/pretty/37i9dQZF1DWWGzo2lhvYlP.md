@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,990 likes - 200 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,001 likes - 200 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 159 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 |
 | 160 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 161 | [attention \(with Justin Bieber\)](https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:00 |
-| 162 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
-| 163 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 |
+| 162 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 |
+| 163 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
 | 164 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
 | 165 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
 | 166 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 170 | [I Wrote A Song](https://open.spotify.com/track/4pgvkzREry5fLOKbkr0Z0W) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:45 |
 | 171 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 |
 | 172 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
-| 173 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
-| 174 | [At Least I Had Fun](https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [At Least I Had Fun](https://open.spotify.com/album/1j6i0vwWSIGi3DamfRUHuP) | 2:50 |
+| 173 | [At Least I Had Fun](https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [At Least I Had Fun](https://open.spotify.com/album/1j6i0vwWSIGi3DamfRUHuP) | 2:50 |
+| 174 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 | 175 | [Get To Know You](https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Get To Know You](https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU) | 3:21 |
 | 176 | [Other Side of the Moon](https://open.spotify.com/track/1w5r3hEoLfLaltoXj1AwW4) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 2:51 |
 | 177 | [What I Want](https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36) | 2:50 |
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 185 | [House On Fire](https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [House On Fire](https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K) | 3:21 |
 | 186 | [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 |
 | 187 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 |
-| 188 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 |
-| 189 | [No](https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:03 |
+| 188 | [No](https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:03 |
+| 189 | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [In My Head \(feat\. Travis Barker\)](https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS) | 2:10 |
 | 190 | [Static Body](https://open.spotify.com/track/5q45fpmnIeg0aen9agRcKN) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Static Body](https://open.spotify.com/album/1oqJmSYzNZry10d4aUxD20) | 3:03 |
 | 191 | [Losing You](https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:46 |
 | 192 | [Put a Light on Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [Call on Me](https://open.spotify.com/track/2GxkC3PeOaUd1FBVHkAyOU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 2:50 |
 | 200 | [My Bed](https://open.spotify.com/track/7BZ2xgtqnvle8d5EiR3xcy) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/2RkBBR9ARKnTM4BDptb3tT) | 2:44 |
 
-Snapshot ID: `MCwxYjNhNTI0NjJkYjNlNDA3ODExOGQxZWM0YjIyOWIxOGY2NzM2ZTJm`
+Snapshot ID: `MCwzNTI0MTEwNDljODI4YmZlM2I2YzdmNjkxZDAzMzhlZDFmMDZhNGY4`

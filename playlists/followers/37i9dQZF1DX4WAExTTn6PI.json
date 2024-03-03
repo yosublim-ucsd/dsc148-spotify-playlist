@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 37269,
+  "2024-03-03": 37316,
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: Margo Cilker",
+  "description": "Americana's artists and hits of tomorrow. Cover: Willow Avalon",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 264762,
       "name": "Blues Comin' On",
       "url": "https://open.spotify.com/track/1VSVt61UOSyhMAEsShuvT8"
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/1Lc96fEQjo6DzXIVQVJMtv"
+      },
+      "artists": [
+        {
+          "name": "Kate Gillespie",
+          "url": "https://open.spotify.com/artist/6ci7cpgQnyd6mWMAXWQI0T"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269582,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/0wvZqIlytT107FSU3uY6O5"
+    },
+    {
+      "album": {
         "name": "Frosty",
         "url": "https://open.spotify.com/album/5k2zEnNqQRfmR8CWdJaAtH"
       },
@@ -1012,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Rich, Goin' Broke",
+        "url": "https://open.spotify.com/album/1VT15KtWbwalDu01fn7PUw"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "Gettin' Rich, Goin' Broke",
+      "url": "https://open.spotify.com/track/6IOYVC0QkgAvPJfBanVo1r"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2csD3zZHTpq4t6qsZrDcr4"
       },
@@ -1131,7 +1167,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 250893,
       "name": "Good Night Down in Georgia",
       "url": "https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h"
@@ -1527,7 +1563,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211533,
       "name": "I Still Believe in You",
       "url": "https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8"
@@ -2065,6 +2101,24 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
+    },
+    {
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
     },
     {
       "album": {
@@ -2761,7 +2815,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 230520,
       "name": "Sexy After Dark",
       "url": "https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb"
@@ -2985,7 +3039,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"

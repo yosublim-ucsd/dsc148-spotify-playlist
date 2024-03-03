@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 118265,
+  "2024-03-03": 118290,
   "date_first_scraped": "2021-01-03",
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
   "name": "Caf\u00e9 montr\u00e9alais",
@@ -4479,10 +4479,28 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
+    },
+    {
+      "album": {
+        "name": "Looking At Me",
+        "url": "https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Looking At Me",
+      "url": "https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1"
     },
     {
       "album": {

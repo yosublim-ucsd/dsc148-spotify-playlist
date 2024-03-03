@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,265 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,302 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 40 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 |
 | 41 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
 | 42 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
-| 43 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
-| 44 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
+| 43 | [atlas](https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO) | [hard to dream](https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq) | 3:52 |
+| 44 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 45 | [Something to Say](https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Something to Say](https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri) | 4:04 |
 | 46 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
 | 47 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 | 100 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 |
 
-Snapshot ID: `MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk`
+Snapshot ID: `MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Las Marías en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,223 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,252 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 90 | [Cerrada Al Amor](https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cerrada Al Amor](https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx) | 3:24 |
 | 91 | [Cuando Te Acuerdes de Mí \- Live Session](https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Cuando Te Acuerdes de Mí \(Live Session\)](https://open.spotify.com/album/2oyruBJWp4DTJYsEXn5SZX) | 4:34 |
 | 92 | [Me Gusta Tener de a Dos \(En Vivo\)](https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [En Vivo Desde Houston](https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL) | 2:59 |
-| 93 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
-| 94 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
+| 93 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
+| 94 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
 | 95 | [Soy de Parral](https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Soy de Parral](https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE) | 3:25 |
 | 96 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
 | 97 | [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 |
 | 98 | [Lindo Güerito \- En Vivo](https://open.spotify.com/track/2O9fhXMbU6pAFUM8JMYM7k) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 3:32 |
-| 99 | [Directito A Mi Herida \- En Vivo](https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Directito A Mi Herida \(En Vivo\)](https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT) | 2:55 |
-| 100 | [Easy On Me](https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Easy On Me](https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B) | 3:41 |
+| 99 | [Easy On Me](https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Easy On Me](https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B) | 3:41 |
+| 100 | [Directito A Mi Herida \- En Vivo](https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Directito A Mi Herida \(En Vivo\)](https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT) | 2:55 |
 
-Snapshot ID: `MCwyYjVhYTY4YjFhYzEyMTdlZTRjNDk3M2JkYzc4ZjM0OGFmY2MzZmQz`
+Snapshot ID: `MCwzNmMyMzg0ODQxZDZlOWFmODA3NzI3ZjQxYWQyZTRlNzJmZWJmYWZm`

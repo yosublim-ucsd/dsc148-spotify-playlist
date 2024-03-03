@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,049 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,422 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 25 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
 | 26 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 |
 | 27 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
-| 28 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
-| 29 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
+| 28 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
+| 29 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
 | 30 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 31 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 32 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 50 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
 
-Snapshot ID: `MCw4MjM0NTFhZmRiYmQ4YzNkOWEyNThjNDU4ODYyMWViMDFkNDMxMjVm`
+Snapshot ID: `MCw0YWQyZjhhODVjMDMwYmU3YzM4NDc5MTJjNzgzNjM1YmU3ZDg1YmEx`

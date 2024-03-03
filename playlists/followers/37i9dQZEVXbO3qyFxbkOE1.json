@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1828859,
+  "2024-03-03": 1829650,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Mexico.",
   "name": "Top 50 - Mexico",
@@ -3399,6 +3399,24 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "C\u00f3mo Te Atreves",
+      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
     },
     {
       "album": {
@@ -14251,7 +14269,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193021,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH"

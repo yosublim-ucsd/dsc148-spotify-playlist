@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,953 likes - 70 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,066 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 |
 | 70 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
 
-Snapshot ID: `MCxhMTZjOTFiMzcwYzk3YmVlOGFlOTA4YTdhOWU2YzM0NmU3YmFmODM1`
+Snapshot ID: `MCw4NzQyYThmZTM3NTQyOTViZDYyNDBiZGFiYzc2YTc2NzY3ZTBjZGEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,753 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,758 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 |
 | 100 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
 
-Snapshot ID: `MCxjZmJhYjNhMDE0ZjdhNDFhZWMyMmFhNzNhOGIwOWE3MWQ4MDBiMTIw`
+Snapshot ID: `MCwxODUyZjYxNzJiMjEzZDdjMTA5MjllMTZhNzgxY2YzMGZkMjBlZWE4`

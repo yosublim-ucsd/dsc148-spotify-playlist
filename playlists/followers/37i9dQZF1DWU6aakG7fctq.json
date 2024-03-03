@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 493720,
+  "2024-03-03": 493711,
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Yorghaki",
+  "description": "Fresh Latin Indie. Cover: A.CHAL",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201903,
       "name": "22:22",
       "url": "https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 237526,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
@@ -1434,6 +1434,28 @@
     },
     {
       "album": {
+        "name": "cari\u00f1o",
+        "url": "https://open.spotify.com/album/4upKb8eibwPX6VEa42g47s"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187378,
+      "name": "cari\u00f1o",
+      "url": "https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn"
+    },
+    {
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -2555,7 +2577,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 203396,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc"
@@ -2853,6 +2875,42 @@
       "duration_ms": 154119,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
+    },
+    {
+      "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "album": {
+        "name": "Era Primavera",
+        "url": "https://open.spotify.com/album/6neGV0F44OSV979QtmColK"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Era Primavera",
+      "url": "https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj"
     },
     {
       "album": {
@@ -3783,7 +3841,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165000,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
@@ -7873,6 +7931,24 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "album": {
+        "name": "ESP\u00cdRITU",
+        "url": "https://open.spotify.com/album/1l4DLLvpzcHxswYRrSMMf7"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
     },
     {
       "album": {

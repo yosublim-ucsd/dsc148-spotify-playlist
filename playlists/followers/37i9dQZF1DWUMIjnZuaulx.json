@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 281727,
+  "2024-03-03": 281802,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:6qL5lCa1VbCzWiVgnj6QIV\">Anthony Evans</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:6hKHFC67DZJNw9tg1l0lIe\">Sinach</a> and <a href=\"spotify:artist:7pUnaNwiKa3p27L1EwB4X6\">Israel Houghton</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -101,7 +101,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
@@ -145,6 +145,28 @@
       "duration_ms": 249943,
       "name": "Able - Live",
       "url": "https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa"
+    },
+    {
+      "album": {
+        "name": "Able",
+        "url": "https://open.spotify.com/album/6rIjou6T4snwPFCWKAiIg2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242355,
+      "name": "Able - Radio Edit",
+      "url": "https://open.spotify.com/track/4o9QSSqtyH0Ju9NjBp7wjQ"
     },
     {
       "album": {
@@ -531,7 +553,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
@@ -4041,7 +4063,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194483,
       "name": "In The Name Of Jesus 24 (2024 Remastered)",
       "url": "https://open.spotify.com/track/5S3943bhp8FDII5k1JX8nH"
@@ -5498,6 +5520,24 @@
     },
     {
       "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/6RZj2LbPznyiLoxqkV85O5"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/0bvf9gsH7z0nfiI1J2yav8"
+    },
+    {
+      "album": {
         "name": "Never Let Me Down (Radio Edit)",
         "url": "https://open.spotify.com/album/3gbha6N9JuiaXLB29z4AeN"
       },
@@ -6109,6 +6149,24 @@
       "duration_ms": 625443,
       "name": "Only One Night Tho - Live",
       "url": "https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "album": {
@@ -7651,7 +7709,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 196000,
       "name": "The Lord Will Make a Way",
       "url": "https://open.spotify.com/track/6o17Mnq1MQMLasaCqqCUbM"
@@ -8213,6 +8271,28 @@
       "duration_ms": 346124,
       "name": "Victory Is Coming - Live",
       "url": "https://open.spotify.com/track/3GppTzAXlHi2ayQsUQdZza"
+    },
+    {
+      "album": {
+        "name": "Victory Is My Name (Live)",
+        "url": "https://open.spotify.com/album/3vlzneXVToeavkIE9SAiIV"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444990,
+      "name": "Victory Is My Name - Live",
+      "url": "https://open.spotify.com/track/3ynj0hnQty6bZWtjVjlqCO"
     },
     {
       "album": {
@@ -8877,6 +8957,36 @@
       "duration_ms": 350000,
       "name": "With My Hands",
       "url": "https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb"
+      },
+      "artists": [
+        {
+          "name": "Jevon Dewand",
+          "url": "https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        },
+        {
+          "name": "Gasner the Artist",
+          "url": "https://open.spotify.com/artist/1Ik7iTeQpqDquiNN80odM3"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267374,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
     },
     {
       "album": {

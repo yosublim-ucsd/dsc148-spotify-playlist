@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,487 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,491 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 26 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 27 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
 | 28 | [Up Top Boss](https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07) | 3:30 |
-| 29 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
-| 30 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
+| 29 | [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 |
+| 30 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 31 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
 | 32 | [Wileside Government](https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9) | 3:22 |
 | 33 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 57 | [Bend Yuh Back](https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bend Yuh Back](https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P) | 2:34 |
 | 58 | [Earthquake](https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Rats Hole Riddim](https://open.spotify.com/album/6iMD5L9a8b28BmBRRMvZcl) | 3:10 |
 | 59 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
-| 60 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
-| 61 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
+| 60 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
+| 61 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
 | 62 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 63 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 64 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx`
+Snapshot ID: `MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0`

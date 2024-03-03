@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 124491,
+  "2024-03-03": 124521,
   "date_first_scraped": "2023-08-09",
   "description": "Nuestra alma mater es la calle. El Makabelico en portada",
   "name": "Los Malportados ",
@@ -65,6 +65,24 @@
       "duration_ms": 223970,
       "name": "Aqui no dominas nada",
       "url": "https://open.spotify.com/track/1lGKVCGOgKSiDJbnvNUMyU"
+    },
+    {
+      "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
     },
     {
       "album": {
@@ -493,7 +511,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 339692,
       "name": "Cumbia Guanajuato",
       "url": "https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U"
@@ -601,6 +619,24 @@
       "duration_ms": 200547,
       "name": "De Abajo Pa'rriba",
       "url": "https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R"
+    },
+    {
+      "album": {
+        "name": "Delta 1",
+        "url": "https://open.spotify.com/album/6V1UWIZDSQh74X6bluw3xg"
+      },
+      "artists": [
+        {
+          "name": "InclanMx",
+          "url": "https://open.spotify.com/artist/3gi1sKJAa0ZGUwX2IvDbEG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370076,
+      "name": "Delta 1",
+      "url": "https://open.spotify.com/track/5qfGOmZyf3dqMnXfWMtqsH"
     },
     {
       "album": {
@@ -760,6 +796,28 @@
     },
     {
       "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
+    },
+    {
+      "album": {
         "name": "El Cuadro del Terror",
         "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
       },
@@ -907,7 +965,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222631,
       "name": "HDP",
       "url": "https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp"
@@ -977,7 +1035,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 267695,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9"
@@ -1725,7 +1783,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188000,
       "name": "Otra Bala",
       "url": "https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo"
@@ -1777,6 +1835,24 @@
       "duration_ms": 292571,
       "name": "Padre Mio",
       "url": "https://open.spotify.com/track/0cMtiFwU0UzdzDaeyP4CqP"
+    },
+    {
+      "album": {
+        "name": "Para El Jesse 1 (La Escalade)",
+        "url": "https://open.spotify.com/album/0S1IDWsAQ4gh6z66TFlcuG"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215272,
+      "name": "Para El Jesse 1 (La Escalade)",
+      "url": "https://open.spotify.com/track/5F10MiltUwhGHz5L891BXA"
     },
     {
       "album": {

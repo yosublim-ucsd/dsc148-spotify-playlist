@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,650 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,653 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 41 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
 | 42 | [Ciego](https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:28 |
 | 43 | [Ave Nocturna](https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 5:40 |
-| 44 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 |
-| 45 | [Mi Mexico](https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Mi Mexico](https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il) | 5:49 |
+| 44 | [Mi Mexico](https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Mi Mexico](https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il) | 5:49 |
+| 45 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 |
 | 46 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
 | 47 | [El o Ella](https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 4:37 |
 | 48 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
 | 49 | [C\. P.](https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:28 |
 | 50 | [Guerrillero](https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:43 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDAzNmJkNDE2NTlmOTlkZjYyNTQwOTM4YjdjODQ5YzYzNA==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDA2MzMzZDUwNmQyNzg4ZDU2MTlmMzc0YzcwN2FjMmVjOQ==`

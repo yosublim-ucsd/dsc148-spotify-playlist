@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 126155,
+  "2024-03-03": 126227,
   "date_first_scraped": "2022-04-22",
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
   "name": "Amor Festivalero",
@@ -21,6 +21,28 @@
       "duration_ms": 218440,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "album": {
+        "name": "All\u00ed Donde Sol\u00edamos Gritar",
+        "url": "https://open.spotify.com/album/5FgUTMgWFhaxcL3MJUxwqx"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219716,
+      "name": "All\u00ed Donde Sol\u00edamos Gritar",
+      "url": "https://open.spotify.com/track/6wBASLUGaAzhBh5q0iu6VR"
     },
     {
       "album": {
@@ -234,6 +256,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda de Mayo",
+        "url": "https://open.spotify.com/album/5fKj3CZGaVuKPRplmsJD9O"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00eda de Mayo",
+      "url": "https://open.spotify.com/track/2g1d6hZ6pBloIZGZD3d66O"
+    },
+    {
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -393,7 +433,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
@@ -643,7 +683,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269813,
       "name": "Llamame, Si Me Necesitas",
       "url": "https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY"
@@ -661,10 +701,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201293,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
+    },
+    {
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "album": {
@@ -918,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP"
+    },
+    {
+      "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
       },
@@ -1045,7 +1121,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 248093,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/7sRYqqUGrmHsM9X8XX8h2G"
@@ -1283,7 +1359,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 202666,
       "name": "Te Vas a Acordar de M\u00ed",
       "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
@@ -1377,6 +1453,28 @@
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
+    },
+    {
+      "album": {
+        "name": "Una Cosa Lleva a la Otra",
+        "url": "https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212631,
+      "name": "Una Cosa Lleva a la Otra",
+      "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
     },
     {
       "album": {

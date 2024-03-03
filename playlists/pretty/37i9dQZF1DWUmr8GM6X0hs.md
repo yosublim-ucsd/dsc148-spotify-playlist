@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,517 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,565 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Qué Quieres Tú de Mi / De Qué Estoy Hecha](https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Un Bolero un Vals](https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo) | 6:24 |
 | 60 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
 
-Snapshot ID: `MCxjNDUxYWIyMWJjMWQ3YzIzMTE0MzBkZDU3NDQzMWJkMjdiMTE1MDQw`
+Snapshot ID: `MCw0OGNhMjE3MTZjYjkyYTAyMDQwNWE0YmFlMTk0ODViN2NjMmQ4M2I1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,875 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,915 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 99 | [Good Parts](https://open.spotify.com/track/1pMf7KYlEZPtc0lhUaAGBh) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Good Parts](https://open.spotify.com/album/3Wk3wyZuXvi0ODAZgDogc6) | 2:15 |
 | 100 | [The Best For Us](https://open.spotify.com/track/4sZXUgyS6ZAcnJMwl5ZWGf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [The Best For Us](https://open.spotify.com/album/2mgOV0WTIT3NA8BJyuBLof) | 3:38 |
 
-Snapshot ID: `MCwzMTk3MDQwMDRlODZlMzM2MjFmZWFjZTI5ZDE1MmY5M2QxMTMxMzM3`
+Snapshot ID: `MCw2ZTJhOTgxNTNiNzQ1OTRjZDdjNmE0N2EwOTliNTI1ODNiZDIyNjQx`

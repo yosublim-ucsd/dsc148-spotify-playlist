@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 36 min
+54 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 | 2024-01-29 |  |
 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 | 2024-01-29 |  |
 | [El Popeye](https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:36 | 2024-01-29 |  |
+| [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-03-02 |  |
 | [El Señoron](https://open.spotify.com/track/38vFTLhNQ2Yp3IbNFLSvO8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:10 | 2024-01-29 |  |
 | [En El Calorón](https://open.spotify.com/track/6N7TWCgpK7kRfpnyQ6yt5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [En El Calorón](https://open.spotify.com/album/7gPpeOQQNtZn90O5YvA7Ai) | 2:39 | 2024-01-29 |  |
 | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt) | 2:47 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,268 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,599 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 74 | [Moonlight \- Rave Edit](https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight \(Rave Edit\)](https://open.spotify.com/album/2efgNZbcsAf9eYJ8hwXSJM) | 2:33 |
 | 75 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 
-Snapshot ID: `MCw5ZjJkMTUyODhiMWMyMWU1YTc2ZjNjMmMzZDZjMDZkZmQxNDVkYjQz`
+Snapshot ID: `MCxhMmZmYmNlZDE3Mjg0MWQ4MjUyMzU4MmFhYjRkNTAwNmYyZTY1MGRm`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Julia Q Artwork: Isu Kim\n",
-  "num_followers": 59190,
+  "num_followers": 59199,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2I3MDRlMjMwNjJhZGJhNDI2NmUzOGVkNGQwYTM4ZWY5NjNlYWFh",
+  "snapshot_id": "MCxkZGUxYTBmNzhmZDJlOTBmYzM1OTdkYjhmNDFkZGQyZmVlZTRjMWVj",
   "tracks": [
     {
       "added_at": "2024-02-29 16:00:00",
@@ -454,6 +454,10 @@
         {
           "name": "Kicker Mori",
           "url": "https://open.spotify.com/artist/2Cz4DUsXWEIgQ1o0H3MMx0"
+        },
+        {
+          "name": "Melrhyme",
+          "url": "https://open.spotify.com/artist/17MlQh7zBkEskSDTHnMfov"
         }
       ],
       "duration_ms": 215000,

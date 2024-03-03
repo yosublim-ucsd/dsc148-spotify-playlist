@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,765 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,869 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 14 | [Cake by the Ocean](https://open.spotify.com/track/4bEnIyA8aI9QknGdCTriKz) | [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Cake by the Ocean](https://open.spotify.com/album/1utsAmDR8vntqWvhcNn7D8) | 3:25 |
 | 15 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
 | 16 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 |
-| 17 | [Kylie](https://open.spotify.com/track/5Tvr4qyXcmggPVOxGE1ULS) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/4xW5897r9lZkK2oLAdM1QP) | 2:51 |
+| 17 | [Kylie](https://open.spotify.com/track/4Tp5xH1a5sGHGvryrQ7ZIa) | [FEEL](https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi) | [Kylie](https://open.spotify.com/album/3cCW4JoslwfcrlaAWpWHFq) | 2:51 |
 | 18 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 |
 | 19 | [As It Was](https://open.spotify.com/track/7bQOdx4Gi5tPgurxDn6DqG) | [OVRtone](https://open.spotify.com/artist/5A6Hm1KPIyEocja6frAutH), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [As It Was](https://open.spotify.com/album/2yXPI2SBdbdFH4k3aV4Jlx) | 2:29 |
 | 20 | [Flowers](https://open.spotify.com/track/5cbXenJuFqre3P9G3sYRpV) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [STORi](https://open.spotify.com/artist/0cNL0rBLHK5qIViN1EYM6h) | [Flowers](https://open.spotify.com/album/2Jws4VUvOIirsghBsI5JEh) | 3:24 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCxmODJiN2Y1OWY4MGIwY2E0YTg3NWMxNTZlNjc4YjU2NjZlNmNmYTVh`
+Snapshot ID: `MCw0NDE4YjVmZTU2MWVlNGQzNDQ0YTZlMDAyYTA5NzM1M2MyZGUzZTBh`

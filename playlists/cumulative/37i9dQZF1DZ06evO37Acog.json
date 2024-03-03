@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 207666,
       "name": "Ens\u00e9\u00f1ame A Olvidar",
       "url": "https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa"
@@ -1356,6 +1356,24 @@
       "duration_ms": 116693,
       "name": "Que Tal Si Te Compro",
       "url": "https://open.spotify.com/track/0uCuMs49RrVr6aTAjItT8c"
+    },
+    {
+      "album": {
+        "name": "Quisiera Tener Alas",
+        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Quisiera Tener Alas",
+      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
     },
     {
       "album": {

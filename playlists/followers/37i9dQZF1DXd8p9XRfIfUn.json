@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 69978,
+  "2024-03-03": 70036,
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: Itzza Primera",
+  "description": "Lo mejor de la nueva. Foto: Picus",
   "name": "Academia Reggaet\u00f3n",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 196992,
       "name": "Amor Coleto",
       "url": "https://open.spotify.com/track/2kNDb2SH1i5lmXjLR1aYvs"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 201649,
       "name": "BXLCON",
       "url": "https://open.spotify.com/track/36uWQGJgND5K4MIek2uxj2"
@@ -647,6 +647,32 @@
       "duration_ms": 161282,
       "name": "Coja Su Turno",
       "url": "https://open.spotify.com/track/5biLJCYTswO3bHmu2mqHsh"
+    },
+    {
+      "album": {
+        "name": "Color Rosa",
+        "url": "https://open.spotify.com/album/2pJaEhgjEO1LkrCPrPX2Fn"
+      },
+      "artists": [
+        {
+          "name": "Inzunza",
+          "url": "https://open.spotify.com/artist/5Yv10NlxqvTchOR3rwMuNM"
+        },
+        {
+          "name": "LUNO_MX",
+          "url": "https://open.spotify.com/artist/3YkS4XdFhF9ZvaLgicBw0x"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216551,
+      "name": "Color Rosa",
+      "url": "https://open.spotify.com/track/7JHSIa1j6MBKyLpKFDM0g1"
     },
     {
       "album": {
@@ -972,6 +998,28 @@
     },
     {
       "album": {
+        "name": "CULIGOTIKA",
+        "url": "https://open.spotify.com/album/4n9mr0wnbqy9n56hopbFnU"
+      },
+      "artists": [
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "CULIGOTIKA",
+      "url": "https://open.spotify.com/track/0Qy0ssIMo9jy74V2gKrpSQ"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1ndo Ser\u00e1",
         "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
       },
@@ -1201,7 +1249,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154264,
       "name": "El Proceso",
       "url": "https://open.spotify.com/track/0U7Np9KFcf7jWLvKUv1mn8"
@@ -1358,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+    },
+    {
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/1VBrOjKN7GxRaxCzy9eh5k"
       },
@@ -1391,7 +1457,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197227,
       "name": "Flow Dopamina",
       "url": "https://open.spotify.com/track/5KT68s5vx2eAhGiVoKDXXX"
@@ -2511,7 +2577,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 178240,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
@@ -3519,7 +3585,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
@@ -3797,7 +3863,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 125923,
       "name": "Que a Pasao",
       "url": "https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk"
@@ -4465,7 +4531,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 149333,
       "name": "Taladrarr",
       "url": "https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4"
@@ -4597,7 +4663,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 146666,
       "name": "TERAPIA",
       "url": "https://open.spotify.com/track/4pA5Y7Omr9R86ZkxX6XWQQ"
@@ -4927,6 +4993,24 @@
       "duration_ms": 217480,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4"
+    },
+    {
+      "album": {
+        "name": "unounouno",
+        "url": "https://open.spotify.com/album/14SIXMv3v5fsZPrLLaomvv"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "unounouno",
+      "url": "https://open.spotify.com/track/7naAI44wmXbFhV6ynvrXgo"
     },
     {
       "album": {
@@ -5307,7 +5391,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 217263,
       "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
       "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"

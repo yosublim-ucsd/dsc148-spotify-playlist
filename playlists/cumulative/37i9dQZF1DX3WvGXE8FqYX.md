@@ -2,9 +2,9 @@
 
 ### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
 
-> Celebrating all the great women of pop music\. Cover: Lana Del Rey and Taylor Swift
+> Celebrating all the great women of pop music\. Cover: Kylie Minogue
 
-554 songs - 1 day 9 hr 11 min
+555 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Call Home](https://open.spotify.com/track/7dI1tZW6OwZtGBqWNfj2pV) | [Heathers](https://open.spotify.com/artist/21phwrA11ZBrtOOcWZmAb6) | [Call Home](https://open.spotify.com/album/1eewrBLyIln79cXuFvEnyn) | 3:31 | 2021-03-14 | 2022-04-21 |
 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 | 2021-03-01 | 2022-04-14 |
 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 | 2019-06-23 | 2022-04-18 |
-| [Can't Get You out of My Head](https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:50 | 2021-03-11 | 2022-04-17 |
+| [Can't Get You out of My Head](https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:50 | 2021-03-11 |  |
 | [Candy](https://open.spotify.com/track/4sSWhUCUU4uVH11koVo8or) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [So Real](https://open.spotify.com/album/6OxXInyONKRYCV0AfoskPE) | 3:54 | 2021-03-09 | 2022-04-20 |
 | [Castles](https://open.spotify.com/track/2WmsRaMVqKzM78EtK0jBzu) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/4wRZUSFCtfQaZYNXJzKi2F) | 3:31 | 2019-10-27 | 2022-04-19 |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2022-07-15 | 2022-07-29 |
@@ -253,7 +253,7 @@
 | [Is It Really Me You're Missing](https://open.spotify.com/track/1WO6kvO7P8TOsuhBaqun5w) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/3LfWFLY5JrPbzuGVbBzwS3) | 3:52 | 2019-08-31 | 2022-04-17 |
 | [Issues](https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues](https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP) | 2:56 | 2019-05-26\* | 2022-04-20 |
 | [It Must Have Been Love](https://open.spotify.com/track/2julHzta3pq6E1ugxyvsbj) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2XUnzfH9UxXfubUQaD60bh) | 4:19 | 2021-03-22 | 2022-04-18 |
-| [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 | 2022-09-02 |  |
+| [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 | 2022-09-02 | 2024-03-03 |
 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2022-03-25 | 2022-07-05 |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 | 2021-03-08 | 2022-04-21 |
@@ -371,6 +371,7 @@
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2019-06-25 |  |
 | [Orange Trees](https://open.spotify.com/track/368UaeqCCqT237KgIN8H5I) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:07 | 2019-09-22 | 2022-04-13 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-09-15 | 2023-10-12 |
+| [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2024-02-14 |  |
 | [Panic Attack](https://open.spotify.com/track/21lRoKXPoqvz39rMJaYvJn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/0Pu4TIIwXPnNityDAL7EAe) | 3:44 | 2019-06-23 | 2022-04-18 |
 | [Panic Attacks \(feat\. Yoshi Flower\)](https://open.spotify.com/track/65zxFF6Hh0PrVnXMMfFFrA) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Panic Attacks \(feat\. Yoshi Flower\)](https://open.spotify.com/album/3B3kEdOYVzqpHwd0FaRkze) | 2:54 | 2019-06-22 | 2022-04-18 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2023-03-21 |  |
@@ -534,7 +535,7 @@
 | [What About Us](https://open.spotify.com/track/31MkGwj0SWgZaTvEt5Hgxv) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [What About Us](https://open.spotify.com/album/3rHjznKxeCNz38iF3tGv4J) | 4:31 | 2019-05-26\* | 2019-08-29 |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2021-03-08 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2019-08-29 | 2021-03-02 |
-| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-03-21 |  |
+| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-03-21 | 2024-03-03 |
 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 | 2021-03-08 | 2022-04-13 |
 | [White Noise \(R3hab Remix\)](https://open.spotify.com/track/7dpnZJj7ITXcnmbmLIdEqs) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [White Noise \(R3hab Remix\)](https://open.spotify.com/album/3qTqXZZnABBxdP4smJdnJK) | 3:16 | 2021-03-08 | 2022-04-19 |
 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 | 2023-11-20 |  |

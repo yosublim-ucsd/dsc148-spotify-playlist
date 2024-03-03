@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55307,
+  "num_followers": 55308,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYyNjU3MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYyNzQ0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Stay in Your Lane",
         "url": "https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Praise Jah In The Moonlight",
-        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Praise Jah In The Moonlight",
-      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Circus Psycho",
         "url": "https://open.spotify.com/album/0C0Wp17Buq8ibnTVAHLvWP"
@@ -197,23 +197,7 @@
       "url": "https://open.spotify.com/track/7iX1CIwNgmqs2eMP7xLcB5"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Katchi Sera (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Katchi Sera - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
@@ -229,7 +213,39 @@
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "The Bottom 2",
+        "url": "https://open.spotify.com/album/2yRssSNZhlrDbmk5sgTCAM"
+      },
+      "artists": [
+        {
+          "name": "Glorb",
+          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
+        }
+      ],
+      "duration_ms": 164903,
+      "name": "The Bottom 2",
+      "url": "https://open.spotify.com/track/5fqaeJMmqwhDzdYD7b4J51"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Katchi Sera (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Katchi Sera - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Ve Haaniyaan",
         "url": "https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5"
@@ -269,23 +285,7 @@
       "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "The Bottom 2",
-        "url": "https://open.spotify.com/album/2yRssSNZhlrDbmk5sgTCAM"
-      },
-      "artists": [
-        {
-          "name": "Glorb",
-          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
-        }
-      ],
-      "duration_ms": 164903,
-      "name": "The Bottom 2",
-      "url": "https://open.spotify.com/track/5fqaeJMmqwhDzdYD7b4J51"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Devil You Know",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
@@ -317,23 +317,7 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
@@ -349,7 +333,23 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -377,7 +377,23 @@
       "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Get In With Me",
+        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 120792,
+      "name": "Get In With Me",
+      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -393,23 +409,7 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -457,23 +457,23 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
-        "name": "Get In With Me",
-        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 120792,
-      "name": "Get In With Me",
-      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "I\u2019d Rather Overdose",
         "url": "https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH"
@@ -493,23 +493,7 @@
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -525,7 +509,23 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
@@ -565,7 +565,23 @@
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "LOVE IN STEREO",
         "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
@@ -585,7 +601,23 @@
       "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
@@ -601,7 +633,23 @@
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
@@ -633,55 +681,7 @@
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
-      },
-      "artists": [
-        {
-          "name": "Livingston",
-          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "A Cold Sunday",
         "url": "https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G"
@@ -697,7 +697,23 @@
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -721,39 +737,23 @@
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+        "name": "2 days into college",
+        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
       "artists": [
         {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
         }
       ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+      "duration_ms": 168113,
+      "name": "2 days into college",
+      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Meet The Lilithz",
-        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
-      },
-      "artists": [
-        {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
-        }
-      ],
-      "duration_ms": 126481,
-      "name": "CLEARED - Remix",
-      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ"
@@ -777,7 +777,55 @@
       "url": "https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -801,7 +849,7 @@
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
@@ -817,23 +865,7 @@
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -869,39 +901,7 @@
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
-      "album": {
-        "name": "2 days into college",
-        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
-      },
-      "artists": [
-        {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
-        }
-      ],
-      "duration_ms": 168113,
-      "name": "2 days into college",
-      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
-    },
-    {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "TWS 1st Mini Album 'Sparkling Blue'",
         "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
@@ -917,23 +917,23 @@
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dance Floor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-03-01 14:58:47",
+      "added_at": "2024-03-02 17:37:33",
       "album": {
         "name": "90s Rap Mashup",
         "url": "https://open.spotify.com/album/5Kt5QHJX0wnEk3A3mAApR5"

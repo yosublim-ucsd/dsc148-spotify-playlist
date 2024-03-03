@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 168086,
+  "2024-03-03": 168098,
   "date_first_scraped": "2022-09-09",
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
   "name": "This Is Miranda Lambert",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 168293,
       "name": "Airstream Song",
       "url": "https://open.spotify.com/track/5FXLX6lLO3SWATDIqfTCzz"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"

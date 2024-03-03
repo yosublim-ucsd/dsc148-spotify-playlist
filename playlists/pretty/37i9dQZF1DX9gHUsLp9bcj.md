@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,262 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,285 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 13 | [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 |
 | 14 | [La Mucura](https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Benny Moré Con Pérez Prado](https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt) | 3:14 |
 | 15 | [Tú, solo tú](https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:17 |
-| 16 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
-| 17 | [Solamente una Vez](https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:22 |
+| 16 | [Solamente una Vez](https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 3:22 |
+| 17 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 | 18 | [Mil Besos](https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:22 |
 | 19 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
 | 20 | [Cerezo Rosa](https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo](https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 49 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 50 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
 
-Snapshot ID: `MCwwODFhYzEzZjNlMmVjNmZiN2Y1ZjZhZDZjNDM2MWY5MGRhOTFmZWVh`
+Snapshot ID: `MCw3NmM2YzUzM2FiMmRlNmJhZTUwYzc4MGMyNTUxZGVkNDA1MzljMzA2`

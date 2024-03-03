@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,758 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,786 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 149 | [True Love](https://open.spotify.com/track/6QrUlBbT5SwVnE6DfQXqBg) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [Honest Conversations, Pt\. 1](https://open.spotify.com/album/3r0M6eBmFFCRYa7k2xF9SO) | 3:13 |
 | 150 | [Antagonista](https://open.spotify.com/track/2BVdkWkRhGPiJ6ootfw8vA) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Antagonista](https://open.spotify.com/album/1rG3vXp9bSKK9slELad52Z) | 2:35 |
 
-Snapshot ID: `MCw2MjA4NGU0MjIxNzA4NjRjYzUyOWI5MGIyN2Y3ZjA1N2QxN2QxODk5`
+Snapshot ID: `MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj`

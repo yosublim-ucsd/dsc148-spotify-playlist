@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Rak in cover.",
-  "num_followers": 39636,
+  "num_followers": 39659,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTdmMGJjYTk5MmFmMjZhOWM1ZTA1NjUyZWJjNzRiOThlOTMyNGIz",
+  "snapshot_id": "MCxlNzNhOTE3NzViOTllODBmM2EzMGI1NjJlMzAwMjczMDNkYWJhMTQx",
   "tracks": [
     {
       "added_at": "2024-02-29 23:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Da 1k In Su (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "La Novit\u00e0 (feat. Mostro)",
-        "url": "https://open.spotify.com/album/1W3wlUse97Ubgc8iPFJk0Z"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mostro",
-          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
-        }
-      ],
-      "duration_ms": 245434,
-      "name": "La Novit\u00e0 (feat. Mostro)",
-      "url": "https://open.spotify.com/track/2LvX1NpoVEZITNQrBeRRb5"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "La Novit\u00e0 (feat. Mostro)",
+        "url": "https://open.spotify.com/album/1W3wlUse97Ubgc8iPFJk0Z"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        }
+      ],
+      "duration_ms": 245434,
+      "name": "La Novit\u00e0 (feat. Mostro)",
+      "url": "https://open.spotify.com/track/2LvX1NpoVEZITNQrBeRRb5"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Scienza Doppia H",
+        "url": "https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Il cielo su Roma",
+      "url": "https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Leggenda da Bar",
-        "url": "https://open.spotify.com/album/00hG2B91nQ2723PPkdNYCI"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Leggenda da Bar",
-      "url": "https://open.spotify.com/track/7b7jcHHVSpzrT38C2rm2PL"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1275,22 +1271,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Scienza Doppia H",
-        "url": "https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Il cielo su Roma",
-      "url": "https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Leggenda da Bar",
+        "url": "https://open.spotify.com/album/00hG2B91nQ2723PPkdNYCI"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Leggenda da Bar",
+      "url": "https://open.spotify.com/track/7b7jcHHVSpzrT38C2rm2PL"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1323,46 +1323,6 @@
       "duration_ms": 179936,
       "name": "Guardie&Ladri (feat. Nayt)",
       "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 130593,
-      "name": "Yeah (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Narciso (feat. Murubutu)",
-      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1399,6 +1359,26 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 130593,
+      "name": "Yeah (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
       },
@@ -1427,6 +1407,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Ci sentiamo poi",
         "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
       },
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "The Newkingztape, Vol. 1",
-        "url": "https://open.spotify.com/album/7JWProXxk4k412vG7fJj3J"
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Non Mi Avrete Mai",
-      "url": "https://open.spotify.com/track/1Uz7oq3Fe54LozBaydosIQ"
+      "duration_ms": 163750,
+      "name": "Narciso (feat. Murubutu)",
+      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+        "name": "The Newkingztape, Vol. 1",
+        "url": "https://open.spotify.com/album/7JWProXxk4k412vG7fJj3J"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+      "duration_ms": 238120,
+      "name": "Non Mi Avrete Mai",
+      "url": "https://open.spotify.com/track/1Uz7oq3Fe54LozBaydosIQ"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1523,6 +1523,38 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Dead poets",
+        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        },
+        {
+          "name": "The Rockness Monstah",
+          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
+        },
+        {
+          "name": "Mic Handz",
+          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
+        }
+      ],
+      "duration_ms": 291757,
+      "name": "Poeti estinti",
+      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1571,94 +1603,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Dead poets",
-        "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        },
-        {
-          "name": "The Rockness Monstah",
-          "url": "https://open.spotify.com/artist/7mXBMpEz4S7jAnBgdYq5mI"
-        },
-        {
-          "name": "Mic Handz",
-          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
-        }
-      ],
-      "duration_ms": 291757,
-      "name": "Poeti estinti",
-      "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Fuoco Sacro (feat. Colle Der Fomento)",
-        "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 287895,
-      "name": "Fuoco Sacro (feat. Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "L'avventura di due sposi",
         "url": "https://open.spotify.com/album/2NGRzTmycSnDlKqTVh4OVd"
       },
@@ -1683,6 +1627,62 @@
       "duration_ms": 233760,
       "name": "L'avventura di due sposi",
       "url": "https://open.spotify.com/track/5GoPBAe0vccUACENH46cvT"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+        "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 287895,
+      "name": "Fuoco Sacro (feat. Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1719,6 +1719,34 @@
       "duration_ms": 391960,
       "name": "La porra",
       "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "Dead Poets 4 - Ad Honorem",
+        "url": "https://open.spotify.com/album/4diOqdpo2ZU7UJ8pUzaP7I"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "Un'altra gemma nelle tasche",
+      "url": "https://open.spotify.com/track/2nMwMcPElGtkDN9u0GOrIl"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1767,30 +1795,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Dead Poets 4 - Ad Honorem",
-        "url": "https://open.spotify.com/album/4diOqdpo2ZU7UJ8pUzaP7I"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
-        },
-        {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 218045,
-      "name": "Un'altra gemma nelle tasche",
-      "url": "https://open.spotify.com/track/2nMwMcPElGtkDN9u0GOrIl"
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
         "name": "Ritorno",
         "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
       },
@@ -1863,22 +1863,6 @@
       "duration_ms": 155641,
       "name": "Te Famo Scuola (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/5vePPd0uqG37XJT6RYLzYi"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "-/-/-/-/-(L'attesa)",
+        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 277826,
+      "name": "Cose Preziose (Variante Di Lunenberg)",
+      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "-/-/-/-/-(L'attesa)",
-        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
         }
       ],
-      "duration_ms": 277826,
-      "name": "Cose Preziose (Variante Di Lunenberg)",
-      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
         "name": "Candeline (feat. Ghemon)",
         "url": "https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 153028,
       "name": "Candeline (feat. Ghemon)",
       "url": "https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -2187,22 +2187,6 @@
       "duration_ms": 187959,
       "name": "Parla piano",
       "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
-    },
-    {
-      "added_at": "2024-02-29 23:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -2275,26 +2259,18 @@
     {
       "added_at": "2024-02-29 23:01:00",
       "album": {
-        "name": "King Kong vs Godzilla",
-        "url": "https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F"
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
       "artists": [
         {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Brava Gente",
-          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
         }
       ],
-      "duration_ms": 164820,
-      "name": "King Kong vs Godzilla",
-      "url": "https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5"
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-02-29 23:01:00",
@@ -2319,6 +2295,30 @@
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
+    },
+    {
+      "added_at": "2024-02-29 23:01:00",
+      "album": {
+        "name": "King Kong vs Godzilla",
+        "url": "https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "duration_ms": 164820,
+      "name": "King Kong vs Godzilla",
+      "url": "https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5"
     },
     {
       "added_at": "2024-02-29 23:01:00",

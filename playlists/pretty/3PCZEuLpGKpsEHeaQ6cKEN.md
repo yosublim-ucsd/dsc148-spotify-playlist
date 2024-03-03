@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Trance, House, Techno, Dance, Afro\-House, Melodic Techno \| Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren, Agents Of Time
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,606 likes - 173 songs - 9 hr 19 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 276,607 likes - 173 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 44 | [Kickin' Hard \- Marco V & Benjamin Remix](https://open.spotify.com/track/6pCFIVNdMZ9JeymoK0csmv) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Benjamin Bates](https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W) | [Club Classics \- Hard House, Vol\. 1 \- Armada Music](https://open.spotify.com/album/5wD31D9Ur68MGSsDYCwPmh) | 3:24 |
 | 45 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 |
 | 46 | [Overpowered](https://open.spotify.com/track/7uK5JxAsY8gkZpe0WxF0Rt) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Overpowered](https://open.spotify.com/album/51ewt5eIln1nQrlxfIO3hw) | 2:40 |
-| 47 | [Offshore \- Symphonic Rehearsal Mix](https://open.spotify.com/track/6lJwuDZiM42gUnIhULvNIm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore \(Symphonic Rehearsal Mix\)](https://open.spotify.com/album/0ypuzOMS3mE5YL2jUtOdYg) | 6:29 |
+| 47 | [Offshore \- Symphonic Rehearsal Mix](https://open.spotify.com/track/6lJwuDZiM42gUnIhULvNIm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore \(Symphonic Rehearsal Mix\)](https://open.spotify.com/album/0ypuzOMS3mE5YL2jUtOdYg) | 6:24 |
 | 48 | [Love The Rain Days](https://open.spotify.com/track/3doKxZuW2B3SpcHvaHqgW3) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Love The Rain Days](https://open.spotify.com/album/1DhGpe5z4rr9yLNwtxMDGe) | 3:25 |
 | 49 | [Realize](https://open.spotify.com/track/3J5GnyvqaDVNIkoyoZGQUK) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Realize \(AVAION Remix\)](https://open.spotify.com/album/6c1MJUNdL7oYjL0fNPu7LF) | 2:57 |
 | 50 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 |

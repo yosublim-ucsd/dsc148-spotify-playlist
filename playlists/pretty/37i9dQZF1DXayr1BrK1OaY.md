@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,489 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,634 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 90 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
 | 91 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
 | 92 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
-| 93 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
-| 94 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
-| 95 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
-| 96 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
+| 93 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 |
+| 94 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
+| 95 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
+| 96 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 97 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
 | 98 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 99 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 100 | [Always](https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 7:28 |
 
-Snapshot ID: `MCxhZDYwMDM5M2Q0NjZlNzczNDYxNzFjMjc3NWJjYzk3ZDk2MDU3NjNk`
+Snapshot ID: `MCxlOGQzOTMwMjA3YTA4OWVkZGY2YTNiNTcwYmQ3NDg5M2Q3MmYzMmE4`

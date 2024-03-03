@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,566 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,654 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 49 | [Read Your Mind](https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Private Room](https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL) | 4:23 |
 | 50 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 
-Snapshot ID: `MCw1NGMyYjcyNmVlZmIwMzRhODY3MTk4NDVkMWY3M2UyYTAyMzI4ODBj`
+Snapshot ID: `MCxkODBmNDZjMTkzOWQyZGJlOGI2NjU5MjA2YTZmZDU0NDRhMDc3Njkx`

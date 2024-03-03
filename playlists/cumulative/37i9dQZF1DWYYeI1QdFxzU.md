@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-150 songs - 10 hr 26 min
+151 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2024-01-05 |  |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2021-10-15 | 2023-08-02 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2021-10-15 |  |
+| [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 | 2024-03-01 |  |
 | [CARONTE](https://open.spotify.com/track/7FdNsT55XUVcJtPAfNUXhk) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [LP5](https://open.spotify.com/album/5q1fLCH66wHNsoiAVfaPJ8) | 4:40 | 2021-10-15 | 2022-06-25 |
 | [Caves Lit by Flame](https://open.spotify.com/track/6uksFpENKduAMBgTetGBF5) | [Jamal Green](https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt) | [Poly Mole \(Original Game Soundtrack\)](https://open.spotify.com/album/6ppxUf6S8w9dOw7OkVJDcG) | 3:50 | 2021-10-15 | 2024-01-04 |
 | [Chaos](https://open.spotify.com/track/1ung7jgLEj5RhGgEKGSvsW) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/4ElTuHgR6R1nZ25brAnGja) | 2:28 | 2021-10-15 | 2022-07-29 |
@@ -69,7 +70,7 @@
 | [fog](https://open.spotify.com/track/6Ah5mV4uS4QEzLtpMIyskk) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [fog](https://open.spotify.com/album/5C0q6Q6fVYL8WGu1oUsXfO) | 2:26 | 2024-01-05 |  |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2021-10-15 | 2023-11-06 |
 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 | 2023-10-20 |  |
-| [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 |  |
+| [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 | 2024-03-03 |
 | [Get Away](https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:07 | 2021-10-15 | 2022-10-13 |
 | [Grown Into You](https://open.spotify.com/track/2nOtqboltnadNSXWSFOdKT) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Grown Into You](https://open.spotify.com/album/3VqfUxHV8ZjcRJq9ihbBVr) | 3:42 | 2021-10-15 | 2022-07-29 |
 | [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 | 2021-10-15 | 2023-10-22 |

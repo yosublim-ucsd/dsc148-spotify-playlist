@@ -4,7 +4,7 @@
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-55 songs - 5 hr 10 min
+56 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-02 |  |
 | [Onememma](https://open.spotify.com/track/1AeUQHTbDnBwRqhFqFPZo8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 4:06 | 2023-06-20 |  |
 | [Onememma \(feat\. Chioma Jesus\)](https://open.spotify.com/track/5B6ckleglIos5782GxMYml) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/2IFuVXPJGCErObIAp2TBuA) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:06 | 2023-04-02 | 2023-06-21 |
+| [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-02 |  |
 | [Onyedikagi](https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi](https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J) | 4:57 | 2023-04-02 |  |
 | [Oyoyo Chukwu](https://open.spotify.com/track/5WR1mNYq5TZ91wLUFdcRXZ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6LPvDzMH8QOzboO3gmm69l) | 5:17 | 2023-04-02 |  |
 | [Power Belongs To Jesus](https://open.spotify.com/track/5fqI7ZiaxhNAGDD2rO0v9R) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/4XDq3mAaDCBSBJzRGszNoN) | 4:16 | 2023-04-02 |  |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
@@ -1287,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114984,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
+    },
+    {
+      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -2084,7 +2106,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 188484,
       "name": "Seya",
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
@@ -2360,7 +2382,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
@@ -2788,7 +2810,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -2860,7 +2882,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 199047,
       "name": "Yat\u0131ya",
       "url": "https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F"
@@ -2900,7 +2922,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
@@ -3068,7 +3090,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 182000,
       "name": "\u0414\u0438\u0448\u0430\u043c",
       "url": "https://open.spotify.com/track/3fbGueS16dRZD2awFGTKYB"
@@ -3144,7 +3166,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 186983,
       "name": "\u041d\u0435 \u043c\u043e\u0436\u0435\u0448 \u0434\u0430 \u043c\u0435 \u0437\u0430\u043c\u0435\u043d\u0438\u0448",
       "url": "https://open.spotify.com/track/1emslYAmTEd1yFbfPMB5Z4"

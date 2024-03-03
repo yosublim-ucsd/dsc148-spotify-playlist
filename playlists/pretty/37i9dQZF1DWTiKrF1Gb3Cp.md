@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,890 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,975 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 100 | [Soy De Barrio](https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Top 20 Éxitos](https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM) | 3:48 |
 
-Snapshot ID: `MCwwYmVmYmJmZmI5YzU4YjVmYjE5YzgzMjNlNDdkZWMyNjUxODM4ODc0`
+Snapshot ID: `MCxkMTJhYzQ2NjMzOTVmZDhjMDI2YzRhZmY2NjBlYjNjNDJhNzYzYWU5`

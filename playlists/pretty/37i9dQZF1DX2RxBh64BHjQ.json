@@ -1,12 +1,12 @@
 {
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3BAgmPNIK5IJl7zMK1wvMA\">That Mexican OT</a>",
-  "num_followers": 2769449,
+  "num_followers": 2769512,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODIxMzlmNDdmMTVmNmU1MjIxMGUwYjQzODk4Y2ZmNTJiY2I3MjQ3",
+  "snapshot_id": "MCxmM2RhMGJkYjM1ODcxYzZmZGNlZDJkMWFjMGQ3YmMyY2UxNjZiZTAw",
   "tracks": [
     {
       "added_at": "2024-03-01 05:05:41",
@@ -1414,6 +1414,10 @@
         {
           "name": "Big Boogie",
           "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
       "duration_ms": 223471,

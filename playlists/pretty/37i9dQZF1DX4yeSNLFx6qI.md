@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,699,568 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,699,648 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
 | 100 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 |
 
-Snapshot ID: `MCw3MzFkMmI1NTEzNzlkMDAwYmI2YjczMGZiNmFmYzBlNzE5NGMzZTgx`
+Snapshot ID: `MCxhZTQ0OGE0NDk5NDQyYjczM2VlMjU0MDdhYmY5OWUyYjQ0ZTFkNzgw`

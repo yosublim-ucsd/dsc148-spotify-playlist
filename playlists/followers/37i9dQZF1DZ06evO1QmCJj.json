@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 36060,
+  "2024-03-03": 36082,
   "date_first_scraped": "2023-11-11",
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
   "name": "This Is Lola Indigo",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166426,
       "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
       "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"
@@ -1334,6 +1334,28 @@
     },
     {
       "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "UNA BACHATA",
+      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
+    },
+    {
+      "album": {
         "name": "UNA BACHATA",
         "url": "https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh"
       },
@@ -1349,7 +1371,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc"

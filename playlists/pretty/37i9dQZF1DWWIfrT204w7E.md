@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,252 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,280 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 50 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
 
-Snapshot ID: `MCw5Y2MyMmM5OWU0NzgwZjZmNTBmZWJkYWRjMDEzZTU3Mzg3MThkNTVk`
+Snapshot ID: `MCw5M2ZhNGQ5ZmY0OTc5MGQwNTg1NDYzOGI3NDA5ODdlMTQ1OGVkY2Vm`

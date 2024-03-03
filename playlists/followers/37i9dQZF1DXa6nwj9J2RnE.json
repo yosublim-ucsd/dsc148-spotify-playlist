@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 25987,
+  "2024-03-03": 25990,
   "date_first_scraped": "2023-02-25",
   "description": "edgy muziek met een rand uit eigen land. cover: Eefje de Visser",
   "name": "karakter.",
@@ -317,10 +317,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 230462,
       "name": "Child Of Sin",
       "url": "https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc"
+    },
+    {
+      "album": {
+        "name": "Child Of Sin",
+        "url": "https://open.spotify.com/album/27pijtvIJCfkZh6f9LQc2o"
+      },
+      "artists": [
+        {
+          "name": "Kovacs",
+          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
+        },
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230462,
+      "name": "Child Of Sin",
+      "url": "https://open.spotify.com/track/6Z3o0LKIaqvfAnqFVROUzY"
     },
     {
       "album": {

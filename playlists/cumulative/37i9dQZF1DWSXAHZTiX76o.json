@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 310333,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
@@ -636,6 +636,24 @@
       "duration_ms": 134906,
       "name": "Molly's Chambers",
       "url": "https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04"
+    },
+    {
+      "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
     },
     {
       "album": {

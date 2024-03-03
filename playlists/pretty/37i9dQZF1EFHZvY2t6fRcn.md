@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 61 | [Contact](https://open.spotify.com/track/1tBIQgGTfEzZVLLcKK8wIp) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Contact](https://open.spotify.com/album/69zHpPx9IkCA2V3WkjrG87) | 3:42 |
 | 62 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 |
 | 63 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 |
-| 64 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
-| 65 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
+| 64 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
+| 65 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
 | 66 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 |
 | 67 | [Healing Hurts](https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:42 |
 | 68 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 99 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
 | 100 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 |
 | 101 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 |
-| 102 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
-| 103 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 |
+| 102 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 |
+| 103 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 |
 | 104 | [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 |
 | 105 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
 | 106 | [COMATOSE](https://open.spotify.com/track/0WPWiuKkA0nA0uSpzB61CJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [COMATOSE](https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K) | 3:28 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 120 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 121 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDBiNDcwMTE1MGEyYzA3NTRjMDRkNzhlZGFmYjM1ZWNhYg==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDA0MzFhYjMyNzVhZmJkODVhMWZjZDQ0YWY5MDY4YWRhOA==`

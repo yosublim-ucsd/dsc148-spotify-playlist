@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 25 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
 | 26 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 27 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
-| 28 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
-| 29 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
+| 28 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
+| 29 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
 | 30 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 |
 | 31 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
 | 32 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 | 50 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 
-Snapshot ID: `MCw0MjUwMDJjMjZiNjJhM2ViOGQwNGMzMmU0MzBkMDUwNTU5ZTFlNTQw`
+Snapshot ID: `MCxkODNiMjNhMTBjMTFiMzQ4NmRlNzkxMDI3ZGFiMjRhODdhYzM2YmQ1`

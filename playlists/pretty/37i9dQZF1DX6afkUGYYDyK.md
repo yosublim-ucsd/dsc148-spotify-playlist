@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,014 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,016 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 24 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 25 | [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 |
 | 26 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
-| 27 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
-| 28 | [My Tribute](https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Platinum Praise Collection: Andrae Crouch](https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF) | 3:37 |
+| 27 | [My Tribute](https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Platinum Praise Collection: Andrae Crouch](https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF) | 3:37 |
+| 28 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 29 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 30 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 31 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 45 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
 | 46 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 |
 | 47 | [God of the Ages \- Single Version \- Live](https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Sarah Bird](https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [God of the Ages \(Live At The Manor\)](https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu) | 4:16 |
-| 48 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 |
-| 49 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
+| 48 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
+| 49 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 |
 | 50 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 51 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
 | 52 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1`
+Snapshot ID: `MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5`

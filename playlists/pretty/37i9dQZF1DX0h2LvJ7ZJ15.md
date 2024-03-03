@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,311 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,615 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 |
 | 2 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 3 | [Fluxxwave \(Slowed + Reverb\)](https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:41 |
-| 4 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
-| 5 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 |
+| 4 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 |
+| 5 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
 | 6 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
 | 7 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
 | 8 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 24 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
 | 25 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
 | 26 | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG) | 2:20 |
-| 27 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 |
-| 28 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
+| 27 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
+| 28 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 |
 | 29 | [SMOKE IT OFF \- Slowed & Reverb](https://open.spotify.com/track/5zZl85FZc5wQsItOOnVpTE) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 2:13 |
 | 30 | [Only Love Can Hurt Like This \- Slowed Down Version](https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Slowed Down Version\)](https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG) | 4:17 |
 | 31 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am empty](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 50 | [Living Life, In The Night \- slowed](https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night \(slowed\)](https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY) | 2:21 |
 
-Snapshot ID: `MCw0NGFiM2M1ZDVlZWUwYTRhOGI5NjQ4MjgwM2NkN2QzNGE3YjM4MzVl`
+Snapshot ID: `MCxlODIwZmYwYTc3MDhhMGM3YjJmYWJjNmYyZDVjNWIzYjhlMDgyY2Yx`

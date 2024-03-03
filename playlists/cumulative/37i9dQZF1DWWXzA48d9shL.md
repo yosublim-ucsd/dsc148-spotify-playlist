@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-595 songs - 23 hr 29 min
+596 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [funee hat freestyle](https://open.spotify.com/track/3teR1IvmGUM27ldUnMlGtK) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [songs that i am not proud of anymore](https://open.spotify.com/album/5lWxoPRQTlqtAHD6U1kcdS) | 1:39 | 2021-12-10 | 2022-04-16 |
 | [FUXK \(feat\. Ski Mask the Slump God\)](https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:40 | 2022-06-10 | 2022-07-27 |
 | [GANG!!!](https://open.spotify.com/track/10autmmii4jqigGxSgOTiX) | [Wovvoka](https://open.spotify.com/artist/0pAZH4BCRTfoEudFH245iF) | [GANG!!!](https://open.spotify.com/album/4nP7j30TkBQLpY2wommHRs) | 1:28 | 2022-02-16 | 2022-04-16 |
-| [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 | 2023-08-04 |  |
+| [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 | 2023-08-04 | 2024-03-03 |
+| [GANJA GOBLIN](https://open.spotify.com/track/4QF5JIoChpdZZajgYHNT6a) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/503xD5jcJZEK7Ckf3vDpL2) | 2:30 | 2023-08-04 |  |
 | [Garden Tomb](https://open.spotify.com/track/1VEcAxXahWTAr6lgQNOfMh) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KEVLAR MONEY BAGS](https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2) | 2:54 | 2023-08-04 |  |
 | [GARGOYLE](https://open.spotify.com/track/1mnFKVFAtkgsmnj14MER9u) | [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GARGOYLE](https://open.spotify.com/album/7f1XGhSvqc69NzTEypWN0s) | 3:39 | 2022-02-25 | 2022-06-04 |
 | [gaslight\_gatekeep\_girlboss](https://open.spotify.com/track/7Lp2pYwPl9yZrTK6mXgdmC) | [plane\_walker](https://open.spotify.com/artist/7AC6Gk6j5rsDuyne9LKQ71), [nAvvvi](https://open.spotify.com/artist/2xTxOg2hhTL9PV8IYaZ18W), [Lord Distortion](https://open.spotify.com/artist/43tKe2VlroCkY1eSfcwp7f) | [blood\_gulch](https://open.spotify.com/album/5ydHLycTI5FY2qiBYDXRut) | 2:19 | 2022-04-15 | 2022-04-20 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 75216,
+  "2024-03-03": 75220,
   "date_first_scraped": "2022-09-15",
   "description": "Tunes for sun drenched days and balmy nights.",
   "name": "Summer Daze",
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163560,
       "name": "Changing",
       "url": "https://open.spotify.com/track/2RYVsSQNpUV0d7KOmb3lAr"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 190546,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"

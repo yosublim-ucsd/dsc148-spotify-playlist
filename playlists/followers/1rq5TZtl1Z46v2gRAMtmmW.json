@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 29309,
+  "2024-03-03": 29313,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -613,7 +613,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211726,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
@@ -1744,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
+    },
+    {
+      "album": {
         "name": "Heather Park",
         "url": "https://open.spotify.com/album/1VKmlsq627xxebmf53jHME"
       },
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 283074,
       "name": "How Music Makes You Feel Better",
       "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
@@ -2946,6 +2964,28 @@
     },
     {
       "album": {
+        "name": "One Last Call",
+        "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256859,
+      "name": "One Last Call",
+      "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
+    },
+    {
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
       },
@@ -3015,7 +3055,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 562061,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ"
@@ -3327,7 +3367,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181546,
       "name": "S e x",
       "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
@@ -3633,7 +3673,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 171692,
       "name": "Somebody - Trance Wax Remix",
       "url": "https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl"

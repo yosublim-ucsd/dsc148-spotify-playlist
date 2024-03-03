@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 62936,
+  "num_followers": 63025,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWE2NTgzOTY2NjNiNzZhYTY1OWMyODRlMTMyMDMxYWVlMzE0MjA1",
+  "snapshot_id": "MCwxMzUxZTdjNGYyZjVkMzJiOTMzZTU2MmMyOGQ2OGU2OTVmYjcxNzE1",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "I will pray",
+        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 170631,
+      "name": "I will pray",
+      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Truth in Sounds",
         "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "I will pray",
-        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 170631,
-      "name": "I will pray",
-      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Only God Can Save Me",
-        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -901,6 +885,22 @@
       "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Ebenezeri",
@@ -923,6 +923,26 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Frankincense",
+        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Ka Anyi Bulie (feat. Don Moen)",
+      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -959,26 +979,6 @@
       "duration_ms": 165254,
       "name": "Talk & Do",
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Frankincense",
-        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Ka Anyi Bulie (feat. Don Moen)",
-      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Elijah Level (with Limoblaze)",
-        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 173262,
-      "name": "Elijah Level (with Limoblaze)",
-      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elijah Level (with Limoblaze)",
+        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 173262,
+      "name": "Elijah Level (with Limoblaze)",
+      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1293,26 +1293,6 @@
       "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
-        }
-      ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Kumama Papa",
@@ -1331,6 +1311,26 @@
       "duration_ms": 157161,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "God Turned It Around",
-        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 619333,
-      "name": "God Turned It Around",
-      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "God Turned It Around",
+        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 619333,
+      "name": "God Turned It Around",
+      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
     },
     {
       "added_at": "2023-12-15 00:01:00",

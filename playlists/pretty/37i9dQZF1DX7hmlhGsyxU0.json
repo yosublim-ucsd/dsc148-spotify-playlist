@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 159205,
+  "num_followers": 159294,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
+  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "The Innkeeper and the Moon",
-        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
-      },
-      "artists": [
-        {
-          "name": "Austin Joy",
-          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
-        }
-      ],
-      "duration_ms": 317682,
-      "name": "The Innkeeper and the Moon",
-      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "The Innkeeper and the Moon",
+        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
+      },
+      "artists": [
+        {
+          "name": "Austin Joy",
+          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
+        }
+      ],
+      "duration_ms": 317682,
+      "name": "The Innkeeper and the Moon",
+      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
-      },
-      "artists": [
-        {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
       "artists": [
         {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
         }
       ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Words Left Unspoken",
         "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
       },
       "artists": [
         {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
         }
       ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/0ozuLQjABDwXsGpZh8327b"
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
       },
       "artists": [
         {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
         }
       ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
     },
     {
       "added_at": "2023-06-27 16:12:39",

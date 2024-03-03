@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "D.I.S.C.O.",
+        "url": "https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301453,
+      "name": "D.I.S.C.O.",
+      "url": "https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR"
+    },
+    {
+      "album": {
         "name": "Obaa Sima",
         "url": "https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC"
       },

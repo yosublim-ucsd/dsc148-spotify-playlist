@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 281557,
+  "2024-03-03": 281744,
   "date_first_scraped": "2023-12-31",
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto",
   "name": "Domingu\u00eara",
@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Um S\u00f3 Ideal Ao Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/3fuH1ULvfSxaA8CzQASB87"
+      },
+      "artists": [
+        {
+          "name": "Um S\u00f3 Ideal",
+          "url": "https://open.spotify.com/artist/2jxLQBuFvOGi4VcMHVSPgY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549529,
+      "name": "Momentos / N\u00e3o Foi a Toa / Antes de Dizer Adeus / Mundo de Oz / Tempo de Aprender - Ao Vivo",
+      "url": "https://open.spotify.com/track/3o69MeC6BXFpXL3sWyPqzI"
+    },
+    {
+      "album": {
         "name": "Sub\u00farbio, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5XBQoMlbSi956F5MiEF1ar"
       },
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 196416,
       "name": "Pout-Pourri: Eu Vacilei / A Gente Pega Fogo",
       "url": "https://open.spotify.com/track/2lLvMPadTGcmYdOV4W3wj3"
@@ -1359,6 +1377,28 @@
       "duration_ms": 232557,
       "name": "Pra Ser Feliz / Joguei a Toalha - Ao Vivo",
       "url": "https://open.spotify.com/track/6VnNCf7lFTaEnjcxHOu4dS"
+    },
+    {
+      "album": {
+        "name": "Roda De Samba Fala Comigo Convida Tiee (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/565t9GiCfNywZEhcsZR3ak"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fala Comigo",
+          "url": "https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq"
+        },
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186736,
+      "name": "Problema Emocional / Brilho No Olhar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7dI9v9Wh3gFDX6QgcCbCGX"
     },
     {
       "album": {
@@ -1523,7 +1563,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 601187,
       "name": "Reinventar / Trai\u00e7\u00e3o / Sorria / S\u00f3 Pro Meu Prazer / Sem Radar - Ao Vivo",
       "url": "https://open.spotify.com/track/5j6u9MYCgQmgGFqDKc4N6o"

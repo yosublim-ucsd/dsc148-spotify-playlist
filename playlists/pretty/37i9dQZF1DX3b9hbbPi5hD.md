@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,395 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,681 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 41 | [Two Hearts](https://open.spotify.com/track/4s33OWdJwxpD4Va3XgAS1K) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 3:34 |
 | 42 | [Satisfied Mind](https://open.spotify.com/track/4H8wbuOyL7gBXfzN2f8kQ6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:49 |
 | 43 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 |
-| 44 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/6V9zt5xJ65Q2rugWX77iFb) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Ridin' High](https://open.spotify.com/album/3kCVkiAlYhOOUIom8GgGPy) | 2:35 |
+| 44 | [\(Love Is\) the Tender Trap](https://open.spotify.com/track/6V9zt5xJ65Q2rugWX77iFb) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Ridin' High](https://open.spotify.com/album/3kCVkiAlYhOOUIom8GgGPy) | 2:35 |
 | 45 | [Outshined \- Remastered](https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:11 |
 | 46 | [I Want Your Body](https://open.spotify.com/track/5keVHhRytkZTQ6tukYtXS9) | [Nymphomania](https://open.spotify.com/artist/2gA8mpcqoWuwlXBmtBrxH1) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 4:18 |
 | 47 | [Winged](https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X) | [James Russo](https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 0:08 |
 
-Snapshot ID: `MCxlNDYwNjA5ZGE0YjAzMDUyZDVkMzg3YThmMDYzZmFjMDdkYTk5ZTMw`
+Snapshot ID: `MCw0MThmNjA4YzNlNjJmMjRmZjhmNjlhMDAwMzVmOGM4N2MxYWMyM2Vi`

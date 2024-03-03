@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s\. Cover: Sister Rosetta Tharpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,070 likes - 150 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,312 likes - 150 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 149 | [Black Coffee](https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:20 |
 | 150 | [Hey, Good Lookin'](https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:54 |
 
-Snapshot ID: `MCw5NGUwOTA3YTQwYTEzMTc3MWFhMzc4NjQzOTcwYjk4Njc5MDA2MGFk`
+Snapshot ID: `MCwzNTQyYjNhZTRlMTg2MWUwZDNmNjNlMTE4MTQxN2M1YzkwYjU4MWEw`

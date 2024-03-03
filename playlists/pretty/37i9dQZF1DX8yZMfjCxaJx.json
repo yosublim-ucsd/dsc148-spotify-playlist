@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Los Plebes del Rancho, Juanpa Salazar en portada.",
-  "num_followers": 211900,
+  "num_followers": 211996,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGQ1MmRjOTI2MzlmNDliNmI5NjRiOGZlMWYyNDAzM2U0NThlY2Fi",
+  "snapshot_id": "MCw1ZWE0YmNkMzI0NDIzYTYzNzY0YmJhZjkwOTUyMGJhNTUyZDY4OTcy",
   "tracks": [
     {
       "added_at": "2024-03-01 06:00:00",
@@ -375,22 +375,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+        "name": "Que Empiece El Juego",
+        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         },
         {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+      "duration_ms": 149697,
+      "name": "Que Empiece El Juego",
+      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Que Empiece El Juego",
-        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
       "artists": [
         {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         },
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
         }
       ],
-      "duration_ms": 149697,
-      "name": "Que Empiece El Juego",
-      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -627,7 +627,7 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "El R\u00e1pido",
+        "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
       "artists": [
@@ -645,7 +645,7 @@
         }
       ],
       "duration_ms": 208405,
-      "name": "El R\u00e1pido",
+      "name": "El R\u00e1pido - En vivo",
       "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Clave 18",
-        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 235663,
-      "name": "Clave 18",
-      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "El Vocho",
         "url": "https://open.spotify.com/album/6STegWJxkTwumApW32e8hl"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 190725,
       "name": "El Vocho",
       "url": "https://open.spotify.com/track/31Q8g39em3t71EvBvwN3GE"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Clave 18",
+        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 235663,
+      "name": "Clave 18",
+      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Desde Topo Hasta La Sierra",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
-        }
-      ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Estilo Especial (En Vivo)",
-        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 247065,
-      "name": "Estilo Especial - En Vivo",
-      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1159,6 +1159,26 @@
       "duration_ms": 123013,
       "name": "Nene Zambada",
       "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "Estilo Especial (En Vivo)",
+        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 247065,
+      "name": "Estilo Especial - En Vivo",
+      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1267,18 +1287,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+        "name": "Me Dicen El Nini",
+        "url": "https://open.spotify.com/album/1mlysUpLxuUf6wrZOEpFim"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
         }
       ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+      "duration_ms": 215121,
+      "name": "Me Dicen El Nini",
+      "url": "https://open.spotify.com/track/2fZ7RBS83fcOz2qS0sRgOb"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1303,26 +1327,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Me Dicen El Nini",
-        "url": "https://open.spotify.com/album/1mlysUpLxuUf6wrZOEpFim"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Markitos Toys",
-          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
-        }
-      ],
-      "duration_ms": 215121,
-      "name": "Me Dicen El Nini",
-      "url": "https://open.spotify.com/track/2fZ7RBS83fcOz2qS0sRgOb"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -1335,6 +1339,38 @@
       "duration_ms": 224693,
       "name": "Ismael Pa\u2019 Servirle",
       "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "A Punta De Balazos (En Vivo)",
+        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 237700,
+      "name": "A Punta De Balazos (En Vivo)",
+      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1355,22 +1391,6 @@
       "duration_ms": 176613,
       "name": "Yo Soy El Bueno - En Vivo",
       "url": "https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "A Punta De Balazos (En Vivo)",
-        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 237700,
-      "name": "A Punta De Balazos (En Vivo)",
-      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1439,22 +1459,6 @@
       "duration_ms": 216735,
       "name": "Me La Rolo",
       "url": "https://open.spotify.com/track/6BOEWJ6rnCLKHpPjgRnegT"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 199041,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
     }
   ],
   "unique_name": "Corridos Chakalosos",

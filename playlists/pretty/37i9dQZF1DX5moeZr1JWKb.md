@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Mc Kno & Nanpa Básico
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,883 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,888 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 8 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 |
 | 9 | [Lejos](https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Old Tom Parr](https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K) | 2:10 |
 | 10 | [Excálibur](https://open.spotify.com/track/0n28ai4yMotZny94Wn9QPt) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Yakari.](https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs) | [Excálibur](https://open.spotify.com/album/74iGL5ud1G2NZ0B5rTFoFF) | 3:17 |
-| 11 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 |
+| 11 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 |
 | 12 | [Solito](https://open.spotify.com/track/3XwqbCIwHKFqTO5uSDdlRd) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Solito](https://open.spotify.com/album/4UtHfLNMicKbFyJ9SDWgCr) | 3:01 |
 | 13 | [El Amar](https://open.spotify.com/track/3OX2n994SozF2qMriERWGA) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Betta Music Colombia](https://open.spotify.com/artist/35PP5ZMLRYIrfUAqMGfowI) | [El Amar](https://open.spotify.com/album/58LsSodkuhqaIV4Q2DlEr2) | 2:58 |
 | 14 | [Bogotá](https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Bogotá](https://open.spotify.com/album/3eSvHe6Q008l85ZJ8s6lEH) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCxmZDZmOWJlMzA0YmVmYzMzNTdiNjA1YTc4NTI5YWM1YmRlMDY0MmUy`
+Snapshot ID: `MCw5YTE0M2NmYmQ5OWE5NjdkMjU3YzMyOTI4ZjA0MWViOTJhNTFlMWE4`

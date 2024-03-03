@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-336 songs - 21 hr 22 min
+337 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Any Light](https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Any Light](https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo) | 3:00 | 2024-02-16 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2021-10-22 |  |
 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 | 2021-10-22 | 2022-07-25 |
-| [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 | 2023-05-19 | 2024-02-28 |
+| [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 | 2023-05-19 |  |
 | [Belly of the Beast](https://open.spotify.com/track/3MT16l7xF06sV4Mz21jQbE) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/1qEZmrrpl0dC86sNRfaZlq) | 3:15 | 2021-10-22 | 2023-04-30 |
 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 | 2021-10-22 | 2022-07-23 |
 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 | 2021-10-22 | 2022-07-08 |
@@ -131,7 +131,7 @@
 | [I Wish I Could Write You a Song](https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [I Wish I Could Write You a Song](https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X) | 4:08 | 2021-10-22 | 2022-07-29 |
 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 | 2022-05-27 |  |
 | [I Won't Run From It](https://open.spotify.com/track/7aW3SM5qFJu0IYVOWrAvRQ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/3LBRCisCaxgQjb5nwSMPgU) | 3:38 | 2021-10-22 | 2022-07-29 |
-| [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 | 2021-10-22 |  |
+| [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 | 2021-10-22 | 2024-03-03 |
 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 | 2021-10-22 |  |
 | [I'm Around](https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 4:31 | 2022-05-27 |  |
 | [I'm Around \(feat\. Ariel Posen\)](https://open.spotify.com/track/6YEuH4oOA1T7zhfM57Y4dw) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around \(feat\. Ariel Posen\)](https://open.spotify.com/album/1VbqbeqMBeHFdBQHRQhoae) | 4:31 | 2021-10-22 | 2022-07-29 |
@@ -250,7 +250,7 @@
 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 | 2021-10-22 |  |
 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 | 2021-10-22 | 2024-01-26 |
 | [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 | 2021-10-22 | 2022-07-27 |
-| [Tenderhearted](https://open.spotify.com/track/4dvDPY5piE0KexzgjEtfef) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 2:54 | 2021-10-22 |  |
+| [Tenderhearted](https://open.spotify.com/track/4dvDPY5piE0KexzgjEtfef) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 2:54 | 2021-10-22 | 2024-03-03 |
 | [Terms of Surrender](https://open.spotify.com/track/4bHIsdXLSWWONWKv15L5YT) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:11 | 2021-10-22 | 2022-07-29 |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2022-05-27 |  |
 | [The Best \(On the Back Porch\)](https://open.spotify.com/track/0K0RGnqg8FYIo2zKJdNUvm) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [The Best \(On the Back Porch\)](https://open.spotify.com/album/5RsYXz1VxtpYA48dBc8BYO) | 2:29 | 2021-10-22 | 2023-07-06 |
@@ -277,6 +277,7 @@
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-05-27 |  |
 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 | 2021-10-22 | 2023-03-31 |
 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 | 2021-10-22 | 2022-07-29 |
+| [The West Coast of Clare](https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns) | 5:26 | 2024-02-20 |  |
 | [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 | 2022-05-27 | 2024-01-05 |
 | [The West Coast Of Clare](https://open.spotify.com/track/5Jd4WYKDUvvGQyAkkMLSsP) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The West Coast Of Clare](https://open.spotify.com/album/50Vlxh0lJvptb6NMS9NCma) | 5:26 | 2021-10-22 | 2022-07-28 |
 | [The Yellow Mile](https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [The Yellow Mile](https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b) | 3:03 | 2024-02-16 |  |

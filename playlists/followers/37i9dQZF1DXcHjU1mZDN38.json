@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 5481,
+  "2024-03-03": 5611,
   "date_first_scraped": "2024-01-11",
   "description": "This is Matt Hansen. All the essential tunes, all in one playlist.",
   "name": "This is Matt Hansen",
@@ -93,6 +93,24 @@
       "duration_ms": 204941,
       "name": "dead the day ur gone",
       "url": "https://open.spotify.com/track/31TRokpfafCscZwykk36VZ"
+    },
+    {
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
     },
     {
       "album": {

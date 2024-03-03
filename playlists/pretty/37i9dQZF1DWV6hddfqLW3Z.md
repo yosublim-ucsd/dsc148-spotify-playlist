@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,073 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,129 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 |
 | 70 | [Vilarejo \- Ao Vivo](https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas Ao Vivo](https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b) | 4:33 |
 
-Snapshot ID: `MCwzYWM4OGRjMzM3OGViNjI4Y2U2OWNlYzgzZTA4ZWE2YjZkYzUwNTEy`
+Snapshot ID: `MCwzMWY2YWQ3ZGQxNTJlOGZkODczOGQ4MjZiOWZlMTgyM2QzNWU3MDQ3`

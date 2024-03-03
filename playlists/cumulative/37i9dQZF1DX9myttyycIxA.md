@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Been Stellar
 
-1,186 songs - 2 day 19 hr 27 min
+1,187 songs - 2 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,8 @@
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-04 | 2022-04-26 |
 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-12 | 2023-06-16 |
 | [Medicine](https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Medicine](https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb) | 4:49 | 2023-09-29 |  |
-| [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 |  |
+| [Mercy](https://open.spotify.com/track/0Y8pSUf21GSadiskxuRhUl) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/0bHyVYXp5wWwo7smsgGBLC) | 3:07 | 2024-03-01 |  |
+| [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 | 2024-03-03 |
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-01-28 | 2022-04-16 |
 | [Miles Away](https://open.spotify.com/track/0crUa9CCdhANfB7vUWVeJ5) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [This Stupid World](https://open.spotify.com/album/3LaJpJFSY3cmLFEHJl2z6E) | 7:30 | 2023-06-15 | 2023-11-18 |
 | [Milk thistle](https://open.spotify.com/track/5y4X9wlY2eCakB7SAQdJi2) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Milk thistle](https://open.spotify.com/album/0729P28WmI1nx1duo1JNX8) | 3:12 | 2024-01-05 | 2024-02-17 |

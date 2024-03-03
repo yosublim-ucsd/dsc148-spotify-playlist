@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ministry
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,741 likes - 56 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,817 likes - 56 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 48 | [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 |
 | 49 | [On Your Own](https://open.spotify.com/track/4EpuUELu7FRziZXUOGoUqm) | [ASCEND](https://open.spotify.com/artist/0p59sLWiu1qJbLH2YM5gph) | [Vile](https://open.spotify.com/album/0rmG5zHkJHM2dxBBKIO1wp) | 3:59 |
 | 50 | [In Control](https://open.spotify.com/track/41Hc1WbMIuJuREPdTYMOuF) | [Pale Path](https://open.spotify.com/artist/7guXfR9IZ23NkaKn0OdpvD) | [In Control](https://open.spotify.com/album/7qfF56QxohIzMJAdXIvqom) | 3:35 |
-| 51 | [Red planet](https://open.spotify.com/track/2E4Y42ONdWRM0tQCvqZjQw) | [Needle Grey](https://open.spotify.com/artist/1Gcx54BveqUDjBW77fZykY) | [To Exist, Beyond our Words](https://open.spotify.com/album/21Lt0mZiMz9GNlcaXnbLhh) | 3:39 |
+| 51 | [Red Planet](https://open.spotify.com/track/2E4Y42ONdWRM0tQCvqZjQw) | [Needle Grey](https://open.spotify.com/artist/1Gcx54BveqUDjBW77fZykY) | [To Exist, Beyond Our Words](https://open.spotify.com/album/21Lt0mZiMz9GNlcaXnbLhh) | 3:39 |
 | 52 | [Hayabusa](https://open.spotify.com/track/0NPTxE0DNdIRDhpTXM6zEB) | [FreeHowling](https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG) | [Hayabusa](https://open.spotify.com/album/3UU8QJLVRdUAui259gk7K6) | 2:04 |
 | 53 | [Hurt](https://open.spotify.com/track/0LhHaQ4nPBAh5UUguqwLCw) | [Arrow Minds](https://open.spotify.com/artist/3hbsahnDfum7FiOyCLS4Wq) | [Hurt](https://open.spotify.com/album/7oKjDwnrn5hajlmH29xZcU) | 3:55 |
 | 54 | [One in a Million](https://open.spotify.com/track/6BeKB2v9J93NWYfSVY89cH) | [Crippled Fingers](https://open.spotify.com/artist/1m0NGrnG30rVP5JInBM5NI) | [One in a Million](https://open.spotify.com/album/6r6whpmv4HM43bl8PDKlFJ) | 3:41 |
 | 55 | [Hateful Thing](https://open.spotify.com/track/2wX7Gg3OmC6FZ2Z19GeYiX) | [The Talon](https://open.spotify.com/artist/2Tjzc5qmjZitZGevgFdBQj) | [Hateful Thing](https://open.spotify.com/album/6vVqC6kfgbgCE0L6Uy0EAF) | 3:16 |
 | 56 | [E.X.I.T.](https://open.spotify.com/track/4f2hClEenwgWD0y3BPdBtu) | [While Oceans Burn](https://open.spotify.com/artist/4FKHhRVQJg6ya19DuFbrf7) | [E.X.I.T.](https://open.spotify.com/album/2hOqIZNiEjjeryQ617JhcO) | 3:18 |
 
-Snapshot ID: `MCwxYTg0ZjdmNWJhNzM4MTczNWJlMmQyNTBiZDhmNzgxNmE3ZjQ3NGE5`
+Snapshot ID: `MCwwYmJiODQyNDQ2OWQ4YTEyNTkxYzk5YzU0MzdhODYyOTc3MjJmYzA4`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 3595,
+  "2024-03-03": 3620,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl\">Ryan Tedder</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ryan Tedder",
@@ -7557,6 +7557,28 @@
     {
       "album": {
         "name": "Cyclone",
+        "url": "https://open.spotify.com/album/7op1W43ZmzV93amrOQdwl8"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Thrill Is Gone (feat. Ryan Tedder)",
+      "url": "https://open.spotify.com/track/3IHYaVggUnnOD3jORDrqJT"
+    },
+    {
+      "album": {
+        "name": "Cyclone",
         "url": "https://open.spotify.com/album/6zjZyvMo3r2Rvmkq9YcUgi"
       },
       "artists": [
@@ -7571,7 +7593,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 266133,
       "name": "Thrill Is Gone (feat. Ryan Tedder)",
       "url": "https://open.spotify.com/track/4Oj5dBcZr9Cp7Gcc9wjGRF"

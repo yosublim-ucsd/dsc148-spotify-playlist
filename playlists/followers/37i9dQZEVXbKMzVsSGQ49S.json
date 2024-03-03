@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 41648,
+  "2024-03-03": 41659,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -15827,7 +15827,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 138573,
       "name": "KENNI SJ\u00c1LFUM M\u00c9R UM",
       "url": "https://open.spotify.com/track/5mRwqT33lhNXdyHDCiXs32"
@@ -27385,7 +27385,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 115238,
       "name": "STARS",
       "url": "https://open.spotify.com/track/347AQK5Lyhn6RvB8tBGYxt"
@@ -28487,6 +28487,24 @@
       "duration_ms": 150573,
       "name": "SV\u00d6RT N\u00d3TT",
       "url": "https://open.spotify.com/track/71mITRydUM9bFRAy2CaKhv"
+    },
+    {
+      "album": {
+        "name": "SWAGGED OUT",
+        "url": "https://open.spotify.com/album/7gpYwe0LUejL2d8oNa67Ps"
+      },
+      "artists": [
+        {
+          "name": "Danjel",
+          "url": "https://open.spotify.com/artist/2DGamydCQov2VWEncYL4xB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134074,
+      "name": "SWAGGED OUT",
+      "url": "https://open.spotify.com/track/2jM9dTnPjRRpaw8hdIPI3n"
     },
     {
       "album": {
@@ -31191,6 +31209,24 @@
       "duration_ms": 211407,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1YkPsz9pAQEj6lx6kuy8lU"
+    },
+    {
+      "album": {
+        "name": "Vera \u00c9g",
+        "url": "https://open.spotify.com/album/0qPOMbacZGvWEvSiHdhZVL"
+      },
+      "artists": [
+        {
+          "name": "BIGJOE",
+          "url": "https://open.spotify.com/artist/2g1JZf6kemAdNJo7lWljy2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174155,
+      "name": "Vera \u00c9g",
+      "url": "https://open.spotify.com/track/60lzrcUBhZBwgAatLdj51P"
     },
     {
       "album": {

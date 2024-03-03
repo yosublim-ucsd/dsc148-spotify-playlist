@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ?si=Rx4GocATQRi3wFfTxZGd9A">F3line</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,718 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,726 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 |
 | 50 | [Ndo Livhuwa](https://open.spotify.com/track/5ECBbluQXHq9cstS7dOex0) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [Ndo Livhuwa](https://open.spotify.com/album/5h3inLRt9hyAfBLGXLtosY) | 5:12 |
 
-Snapshot ID: `MCxlMmM5Yzk4OTJjMmVhOTMzZWI5MmFlNTM3N2E1Zjg0MGQwOTVkMjUy`
+Snapshot ID: `MCwyMzlkM2Q3MGIzMzg1OTMxMjlmZDQyY2JkYjIzOTkxMDk4NTZmMzNk`

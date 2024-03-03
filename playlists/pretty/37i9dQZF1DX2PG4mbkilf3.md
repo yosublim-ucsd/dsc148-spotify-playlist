@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with <a href="spotify:artist:3dLvESWiG5LWozJmdvk6D0">Shantel May</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,027 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,069 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 100 | [Fly Girl](https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Fly Girl](https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke) | 3:12 |
 
-Snapshot ID: `MCxjOTBhOGI1YTRkNjkyNzllZDRjYjVmZjNlMWVhMDQ2ODlkNjhhMWMz`
+Snapshot ID: `MCxmMTlmNTE3YzUyNmZlZjFkYjIxYzlkZTNjZGY3YmFlOTJmMjNjYzc1`

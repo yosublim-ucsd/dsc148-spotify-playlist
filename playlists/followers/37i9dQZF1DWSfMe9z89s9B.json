@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1381226,
+  "2024-03-03": 1381428,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Rhyan Douglas",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Asha Imuno",
   "name": "Vanguard",
   "tracks": [
     {
@@ -579,6 +579,24 @@
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
+        "name": "act iii: on god? (she like)",
+        "url": "https://open.spotify.com/album/3Tq1vvYtgk2AgJpB9f2lTb"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "act iii: on god? (she like)",
+      "url": "https://open.spotify.com/track/30uO152on2tYWoE99VaEL5"
     },
     {
       "album": {
@@ -5893,7 +5911,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 268800,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN"
@@ -7310,6 +7328,24 @@
     },
     {
       "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "album": {
         "name": "girl meets world (demo)",
         "url": "https://open.spotify.com/album/4Qp2V1GKu39CIEyPPmI0rm"
       },
@@ -8704,6 +8740,28 @@
     },
     {
       "album": {
+        "name": "PINS & NEEDLES",
+        "url": "https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        },
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195257,
+      "name": "HONEY (feat. bLAck pARty)",
+      "url": "https://open.spotify.com/track/6jTytYwbjNGK0dRQMSJZRq"
+    },
+    {
+      "album": {
         "name": "LIBBIE 02",
         "url": "https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD"
       },
@@ -9141,7 +9199,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181227,
       "name": "I Love Being Invisible",
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
@@ -18279,7 +18337,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179813,
       "name": "The Candy Lady",
       "url": "https://open.spotify.com/track/20uAh3tlJ8foTmOGxCc8tc"

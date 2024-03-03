@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring ACRAZE\. 50% techno, 50% house
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,795 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,939 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 1 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 2 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 |
 | 3 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
 | 4 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 60 | [Burnin'](https://open.spotify.com/track/55NFZV4mg6VcXvoB0M65d0) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Burnin'](https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U) | 3:10 |
 | 61 | [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 |
 | 62 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 |
-| 63 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
+| 63 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
 | 64 | [Low Rider \- Kyle Watson Remix](https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Low Rider \(Kyle Watson Remix\)](https://open.spotify.com/album/2GbMNQQT9q4Y3ULVdmwbji) | 3:20 |
 | 65 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 |
 | 66 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Give Me A Sign](https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Give Me A Sign](https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs) | 2:49 |
 | 125 | [What I'm Sayin](https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [What I'm Sayin](https://open.spotify.com/album/3eTZQ42Toe7G2ze1rs5fgu) | 3:20 |
 
-Snapshot ID: `MCwwNjE0OTdlZDQ0YWZkNzkzNmI2MTUwMThhMzZjYjQyZGRlNjk2YzIw`
+Snapshot ID: `MCwxNDk3MjQzY2IxNjU1MjM3ZWQ3NzZjZDMwMmFhMmYyYWQxMDI4NWQx`

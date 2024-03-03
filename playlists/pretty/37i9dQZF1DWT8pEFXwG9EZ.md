@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,824 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,907 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 
-Snapshot ID: `MCxiM2ExZWQ1NTliZWViNGM2YTUwMzk1YTM0OTBmYmI3ZTg2NmJmOTcz`
+Snapshot ID: `MCw5NmMyODcwYTY2MmExODA3YTNlNDQ1MDg0NjBlY2RjZDkzMWY5MTM0`

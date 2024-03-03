@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 330561,
+  "num_followers": 330704,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzc5N2NhMWEwZjllOGEwYmIwYThhM2JlZjUzYzkxYjljYjJmMjQ1",
+  "snapshot_id": "MCw5Y2IxZDkyODlhNTBiMTc0ZGUyOTk2MmZkMDdhMGVjNzE0ZjVkYTRj",
   "tracks": [
     {
       "added_at": "2024-03-01 00:01:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 61280,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+      "duration_ms": 61280,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -647,22 +647,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 159666,
-      "name": "jealousy (feat. rema)",
-      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -691,22 +691,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         },
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -723,6 +723,26 @@
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Black Magic Woman",
+        "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        }
+      ],
+      "duration_ms": 218625,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -775,26 +795,6 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Black Magic Woman",
-        "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Kaylan Arnold",
-          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
-        }
-      ],
-      "duration_ms": 218625,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1167,34 +1167,22 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + brazy)",
-        "url": "https://open.spotify.com/album/5hEYwukqmNvYtTHSgYOlos"
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
         },
         {
-          "name": "Flexulant",
-          "url": "https://open.spotify.com/artist/7KPkt13eGzrIOc8jShZzSi"
-        },
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Rahrah Gabor",
-          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 286040,
-      "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy",
-      "url": "https://open.spotify.com/track/2pqiyukPWDQQSkKVDEoKoA"
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -1235,22 +1223,34 @@
     {
       "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
+        "name": "Closure (Flexulant x BAMBII Remix feat. Rahrah Gabor + brazy)",
+        "url": "https://open.spotify.com/album/5hEYwukqmNvYtTHSgYOlos"
       },
       "artists": [
         {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         },
         {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Flexulant",
+          "url": "https://open.spotify.com/artist/7KPkt13eGzrIOc8jShZzSi"
+        },
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Rahrah Gabor",
+          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+      "duration_ms": 286040,
+      "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor + Brazy",
+      "url": "https://open.spotify.com/track/2pqiyukPWDQQSkKVDEoKoA"
     },
     {
       "added_at": "2024-03-01 00:01:00",

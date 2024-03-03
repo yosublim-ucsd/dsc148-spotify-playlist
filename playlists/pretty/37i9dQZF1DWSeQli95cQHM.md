@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,105 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,116 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 50 | [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 |
 
-Snapshot ID: `MCwwNDJhMDNiMjM3N2QzOWJmMjM4ODZiYmJmODA2NTZlNGRmOWVjOGFl`
+Snapshot ID: `MCw3ZDcxNTU2YmE3ZjNiMGQ3YjllMTIyMGE3ZDE5ZWI5YWI3M2YwNmYx`

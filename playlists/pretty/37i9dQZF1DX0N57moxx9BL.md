@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,744 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,797 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 99 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 |
 | 100 | [In Defiance](https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3) | [Matt Sassano](https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk) | [In Defiance](https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5) | 3:26 |
 
-Snapshot ID: `MCwyZWM3NjBiYmFmMDUxM2EwZDU3ZTAwZDMxMjA1NjFjNzFhOTgxZGJl`
+Snapshot ID: `MCw5NWI2MjU1ZDVhYjcyMTM5ZTNkYTIxZjgxNDRhNTM5OGMxNzVhNGM1`

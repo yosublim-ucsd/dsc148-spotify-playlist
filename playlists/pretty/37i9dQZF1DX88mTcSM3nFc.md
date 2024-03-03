@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,795 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,793 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 45 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
 | 46 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 47 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
-| 48 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 |
-| 49 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
+| 48 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
+| 49 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 |
 | 50 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 
-Snapshot ID: `MCwxYjk5NmRiZDgwYTFiZTY4NGY1MjZkYTA5YmE0OWZjNTI3NjU5N2Vm`
+Snapshot ID: `MCwzZTkyOTg0YzExMDkwZWNjMDVmYTY3YjZkMWQ3MjhiMGU1ODUyYWFh`

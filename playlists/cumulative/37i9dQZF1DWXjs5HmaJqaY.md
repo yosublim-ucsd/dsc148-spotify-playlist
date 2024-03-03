@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-207 songs - 20 hr 41 min
+209 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Castamaer](https://open.spotify.com/track/5nqtCmVai6flScoNJ5GnJf) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 8:00 | 2023-03-03 | 2023-05-06 |
 | [Cedes](https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Cedes](https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl) | 6:36 | 2022-09-16 | 2023-10-28 |
 | [Cee](https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Cee](https://open.spotify.com/album/0984f8nBVFnUqEebp5bFLg) | 5:11 | 2023-10-27 | 2023-12-09 |
+| [Come Home \- Club Edit](https://open.spotify.com/track/48QYHP0YVZQ4JsHS6okJPf) | [Stefan Hollaender](https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI) | [Come Home](https://open.spotify.com/album/7IYcwitat2vswUJALt4Uru) | 3:58 | 2024-03-02 |  |
 | [Coronation](https://open.spotify.com/track/5rKd7CRzESI68mH6eWmmTp) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:37 | 2022-09-16 | 2023-03-04 |
 | [Create](https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Create](https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq) | 3:54 | 2023-02-10 | 2023-05-06 |
 | [Cut The Midrange \- Ryan McCormack Remix](https://open.spotify.com/track/4F50ZMSQuNew7uzG9b3Myu) | [Watchman](https://open.spotify.com/artist/3ovvDDRUrwfCMz7RsBzxj6), [Ryan McCormack](https://open.spotify.com/artist/5JB4gxjkwdXPkP4ACEzWbQ) | [Plastic City Radio Show Season Nine \- Part 4](https://open.spotify.com/album/76JDFLjDgL2UflBm1JkXfT) | 7:26 | 2023-06-23 | 2023-11-08 |
@@ -202,7 +203,7 @@
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-09-16 | 2022-12-03 |
 | [Victoria](https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Victoria](https://open.spotify.com/album/77xt4VI6PKWacDLscctnhk) | 4:28 | 2022-09-16 | 2022-10-28 |
 | [Vienna \- Edit](https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [Vienna \(Edit\)](https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju) | 3:08 | 2023-08-18 |  |
-| [Vision](https://open.spotify.com/track/4qR93LMtQH160vEEoxegTD) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Vision](https://open.spotify.com/album/4nsRDOpMJaj9KO4mz1bnoW) | 4:02 | 2023-11-07 |  |
+| [Vision](https://open.spotify.com/track/4qR93LMtQH160vEEoxegTD) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Vision](https://open.spotify.com/album/4nsRDOpMJaj9KO4mz1bnoW) | 4:02 | 2023-11-07 | 2024-03-03 |
 | [Voices](https://open.spotify.com/track/1FwFv6kS81a4lsx9tJD2hE) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Voices](https://open.spotify.com/album/4REOwk3rHoHIETrGt1m1YX) | 4:54 | 2023-10-06 | 2023-12-09 |
 | [Voices \(feat\. Dan Diamond\)](https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4) | [Carlo Reutz](https://open.spotify.com/artist/58zpCe706KHkMTIGCC4HSq), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Global Underground: Select \#6 \(Unmixed\)](https://open.spotify.com/album/73RcWGhmonTvHLdN5iuVwn) | 7:19 | 2022-09-16 | 2023-02-11 |
 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 | 2022-12-09 | 2023-02-04 |
@@ -211,6 +212,7 @@
 | [Where Did You Go Away](https://open.spotify.com/track/2r4kgctK3SkVV60aG17szN) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG) | [Where Did You Go Away](https://open.spotify.com/album/6XkS3fLKFvRtQ4xv3gWwOj) | 6:14 | 2023-10-20 | 2024-01-27 |
 | [Woow One](https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [WooW](https://open.spotify.com/album/4a7p2hB9yRUQHpyinOhVeV) | 5:49 | 2022-09-16 | 2023-02-11 |
 | [Wormhole](https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz) | 7:42 | 2023-05-02 | 2023-06-24 |
+| [You](https://open.spotify.com/track/3wRLulchIZg3qKFOO43wT0) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [You](https://open.spotify.com/album/75xFrxG6vy2YHwTzPD8o8Q) | 3:00 | 2024-03-02 |  |
 | [You \- Wankelmut Remix](https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [You](https://open.spotify.com/album/6vuHAobWZhR04B3NDRdOPC) | 7:19 | 2022-12-16 | 2023-05-06 |
 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 | 2023-07-14 |  |
 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 | 2022-11-07 | 2023-05-06 |

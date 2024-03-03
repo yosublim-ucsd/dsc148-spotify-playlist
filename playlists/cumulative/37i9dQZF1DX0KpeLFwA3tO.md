@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Games We Play
 
-1,638 songs - 3 day 9 hr 42 min
+1,639 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1433,7 +1433,8 @@
 | [The Rent](https://open.spotify.com/track/61aNP3upsNJMLRdWf8Mj5v) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [The Rent](https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL) | 2:53 | 2022-02-25 | 2022-04-22 |
 | [The Right Shade Of Red](https://open.spotify.com/track/6mLaJI8imLia1JI2pXRwyR) | [Second Harbour](https://open.spotify.com/artist/3Fgap7QLxEmn6on1A6bdah) | [The Right Shade Of Red](https://open.spotify.com/album/5pbYs0DL7jqUCNWBKjIg6Q) | 2:48 | 2022-04-07 | 2022-05-21 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-09-22 | 2022-11-11 |
-| [The Same Ordinary](https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [The Same Ordinary](https://open.spotify.com/album/38l16Gbz36o6lS2gPIW8GN) | 1:10 | 2024-01-26 |  |
+| [The Same Ordinary](https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [The Same Ordinary](https://open.spotify.com/album/38l16Gbz36o6lS2gPIW8GN) | 1:10 | 2024-01-26 | 2024-03-03 |
+| [The Same Ordinary](https://open.spotify.com/track/54R07VskSEqrvrtKxn2bW5) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 1:10 | 2024-03-01 |  |
 | [The Service](https://open.spotify.com/track/5frQ815y2MozbjcCg8y4TZ) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [In Passing \(Live\)](https://open.spotify.com/album/6xhZ8WNn9WvYQa6JKCv9t4) | 3:14 | 2021-12-17 | 2022-01-15 |
 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-16 |  |
 | [The Sickest Things](https://open.spotify.com/track/69rSpAiZX9EjU0ImnoopIX) | [Heart Shaped Lakes](https://open.spotify.com/artist/2VYDx1RJQZuhbWZbnuvb3E) | [The Sickest Things](https://open.spotify.com/album/3xagHVWSsTCAdG93gUy8T0) | 4:11 | 2022-04-21 | 2022-06-03 |

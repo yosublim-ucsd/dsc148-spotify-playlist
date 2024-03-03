@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 94315,
+  "2024-03-03": 94324,
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Andi",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Jordan Suaste",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Built To Be Bad",
+        "url": "https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz"
+      },
+      "artists": [
+        {
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189280,
+      "name": "Built To Be Bad",
+      "url": "https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb"
+    },
+    {
+      "album": {
         "name": "Bumble Bee",
         "url": "https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl"
       },
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180924,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC"
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 128181,
       "name": "Happy",
       "url": "https://open.spotify.com/track/5DMQrvxg6Rcy0z8Zl75dCh"
@@ -6263,10 +6281,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
+    },
+    {
+      "album": {
+        "name": "Looking At Me",
+        "url": "https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Looking At Me",
+      "url": "https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1"
     },
     {
       "album": {
@@ -6537,6 +6573,24 @@
       "duration_ms": 232186,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/3swoC2pDa2pQsGFJIvyd4g"
+    },
+    {
+      "album": {
+        "name": "Love Who You Want To",
+        "url": "https://open.spotify.com/album/2Rd0jhqAsjQceN2NvbTav2"
+      },
+      "artists": [
+        {
+          "name": "Jordan Suaste",
+          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164939,
+      "name": "Love Who You Want To",
+      "url": "https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE"
     },
     {
       "album": {
@@ -9689,7 +9743,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197205,
       "name": "Tell You More",
       "url": "https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3"
@@ -9747,6 +9801,24 @@
       "duration_ms": 237442,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz"
+    },
+    {
+      "album": {
+        "name": "tetherball",
+        "url": "https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "tetherball",
+      "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
     },
     {
       "album": {

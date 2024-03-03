@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,637 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,641 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 26 | [Garden](https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:56 |
 | 27 | [All Ways Love](https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG), [Paul Izak](https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys), [Anna Surento](https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE) | [Campfire Anthems, Vol\. I](https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw) | 3:42 |
 | 28 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
-| 29 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
-| 30 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 29 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
+| 30 | [Indigo Sea](https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH) | [Ajeet](https://open.spotify.com/artist/3sBtKwaTveANiltp7XgBLU), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Indigo Sea](https://open.spotify.com/album/22uesuPEjJxkT7X8aa2r2N) | 4:47 |
 | 31 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 |
 | 32 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 |
 | 33 | [Dragonfly](https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf) | [Nahko](https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S) | [My Name Is Bear](https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor) | 4:45 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 38 | [Directions](https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 4:21 |
 | 39 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 |
 | 40 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
-| 41 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
-| 42 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
+| 41 | [Angels Above Me](https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Angels Above Me](https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD) | 4:26 |
+| 42 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 43 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
 | 44 | [Free Mind](https://open.spotify.com/track/0sIxAwobJDRyxlx6kvD2oo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Flow State](https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc) | 3:25 |
 | 45 | [Stronger \- Acoustic](https://open.spotify.com/track/21Yq2RZa4fyV6juXaCQOFV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/5434GTkVlcoMWYaKUUBIXd) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 49 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 50 | [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 |
 
-Snapshot ID: `MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1`
+Snapshot ID: `MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0`

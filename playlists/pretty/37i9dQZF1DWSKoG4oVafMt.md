@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,792 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,981 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 70 | [Gal Ban Jae](https://open.spotify.com/track/3aIGOC1v9wB7njRT8lIWe3) | [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/0Meuata3D39FTArEFqqnZg) | 3:31 |
 | 71 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 |
 | 72 | [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 |
-| 73 | [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 |
+| 73 | [Sab Kuchh \(From "Moh"\)](https://open.spotify.com/track/0GBX9wVCM4tVA2D2oKRUHy) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Moh](https://open.spotify.com/album/7HaoeXXwevkq2PKS9Q4Ewk) | 4:20 |
 | 74 | [Naah Lofi](https://open.spotify.com/track/7B8WJgjZzzV1uS7v9z8FGX) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Naah Lofi](https://open.spotify.com/album/3Cz2ocxGPWWREjLucIdaO7) | 3:18 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `MCxlOGFmYWE4ZmU1NDU4ZGE5OWQ0ZGFiNjNmZTJkOGRiYzI4ZjkwMDM1`
+Snapshot ID: `MCw4MTJjN2UyNDc5YWIwZDNlM2QxN2Q5NDM3MjJkM2FlOTA4Zjc1NDFi`

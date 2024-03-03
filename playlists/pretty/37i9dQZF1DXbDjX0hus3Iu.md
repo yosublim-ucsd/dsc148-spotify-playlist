@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,138 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,224 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 64 | [Before the Bullets Fly](https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 3:40 |
 | 65 | [Don't Pass Me By](https://open.spotify.com/track/4eeCQtgohd0nLeI2t5XgGo) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Open All Night](https://open.spotify.com/album/7GDQBAinophlJEa8AZiAQg) | 4:53 |
 | 66 | [Rattlesnake Rock 'N' Roller](https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Marauder](https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN) | 4:02 |
-| 67 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
-| 68 | [Country Side Of Life](https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:30 |
+| 67 | [Country Side Of Life](https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:30 |
+| 68 | [Takin' Up Space](https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ) | [Van Zant](https://open.spotify.com/artist/6ZRkCThyw6syuSOAGT7lY1) | [Get Right With The Man](https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp) | 2:45 |
 | 69 | [Brickyard Road \- l](https://open.spotify.com/track/7G0hwJmqqFJmaM2h1HxRZZ) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 6:40 |
 | 70 | [Travelin' Shoes](https://open.spotify.com/track/4pxj2nEkmypTXihGBv6gB1) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Let It Flow](https://open.spotify.com/album/51KKT6XplZzoUF4h2uWV29) | 7:20 |
 | 71 | [Shake 'Em On Down](https://open.spotify.com/track/2rtQWHXfXwyxKYyoWo60zw) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7) | 4:08 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 75 | [Hit the Nail on the Head \- Remastered](https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 2:22 |
 | 76 | [Island](https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:15 |
 | 77 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
-| 78 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |
-| 79 | [Grey Ghost](https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ) | [Henry Paul Band](https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s) | [Grey Ghost](https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M) | 6:51 |
+| 78 | [Grey Ghost](https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ) | [Henry Paul Band](https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s) | [Grey Ghost](https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M) | 6:51 |
+| 79 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |
 | 80 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
 | 81 | [Can't Keep Running](https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 4:02 |
 | 82 | [That's Your Secret](https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 5:16 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 88 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
 | 89 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 90 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
-| 91 | [Rise of the Rebel](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 3:53 |
-| 92 | [Goin' Down South](https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7) | 6:10 |
-| 93 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
-| 94 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
+| 91 | [Goin' Down South](https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7) | 6:10 |
+| 92 | [Rise of the Rebel](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 3:53 |
+| 93 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
+| 94 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
 | 95 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 96 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
 | 97 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
 | 100 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 
-Snapshot ID: `MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi`
+Snapshot ID: `MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5`

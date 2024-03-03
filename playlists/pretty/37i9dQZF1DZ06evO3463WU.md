@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,355 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,421 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 5 | [Pero La Recuerdo \(Cumbia Santa Maria\)](https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:47 |
 | 6 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
 | 7 | [No Llega el Olvido \- En Vivo](https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 4:32 |
-| 8 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
+| 8 | [Mis Canciones de Amor](https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 2:50 |
 | 9 | [Mi Amor Y Mi Agonia](https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 2:51 |
-| 10 | [Mis Canciones de Amor](https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 2:50 |
+| 10 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 11 | [Te Esperare](https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:32 |
 | 12 | [Nuestro Amor](https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I) | 3:31 |
 | 13 | [Nunca Cambies](https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 27 | [Pasion de Amor](https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:38 |
 | 28 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 |
 | 29 | [El Vagabundo Que Te Ama](https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:25 |
-| 30 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
-| 31 | [Cuenta Conmigo](https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:36 |
+| 30 | [Cuenta Conmigo](https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:36 |
+| 31 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 |
 | 32 | [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 |
 | 33 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 |
 | 34 | [Unidos Para Amarnos](https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Bendita Mujer](https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [No Va a Matarme Tu Amor](https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No Va a Matarme Tu Amor](https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX) | 3:09 |
 | 50 | [Una Tarde Como Cualquiera](https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Historia](https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq) | 3:10 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAwNTA4NDg3MmJjNjE3ZGZmNDc4Y2YzMjFmNjAwYTEyMA==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBmMjIxNjY0ZmFhM2QwYWUxNzA3NWIxYjAwM2ZmZTdjZA==`

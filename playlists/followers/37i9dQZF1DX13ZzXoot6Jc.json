@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 456283,
+  "2024-03-03": 456298,
   "date_first_scraped": "2022-07-31",
   "description": "Country hits that will have you singing every word. Cover: Chris Stapleton",
   "name": "Country Favourites",
@@ -745,6 +745,24 @@
       "duration_ms": 171000,
       "name": "Come Get Your Memory",
       "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
+    },
+    {
+      "album": {
+        "name": "Corralling the Blues",
+        "url": "https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Corralling the Blues",
+      "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
     },
     {
       "album": {
@@ -1827,6 +1845,32 @@
       "duration_ms": 204237,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ"
+    },
+    {
+      "album": {
+        "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+        "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
     },
     {
       "album": {
@@ -4478,6 +4522,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Tennessee",
+        "url": "https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Tell Me Tennessee",
+      "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
+    },
+    {
+      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
       },
@@ -4827,6 +4889,24 @@
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+    },
+    {
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "album": {
@@ -5282,6 +5362,24 @@
     },
     {
       "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "album": {
         "name": "Brothers Osborne",
         "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
       },
@@ -5369,6 +5467,24 @@
       "duration_ms": 182930,
       "name": "Wild Hearts",
       "url": "https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Wildflowers and Wild Horses",
+      "url": "https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh"
     },
     {
       "album": {

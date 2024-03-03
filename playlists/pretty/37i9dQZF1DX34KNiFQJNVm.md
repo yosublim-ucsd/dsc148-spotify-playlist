@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Simone Mendes, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,423 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,052 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 55 | [Vilão](https://open.spotify.com/track/0PMMHK0q093BkQ85YpS7dt) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Vilão](https://open.spotify.com/album/2jbBOf8fGp8btrQON5127d) | 2:32 |
 | 56 | [Sambaluz](https://open.spotify.com/track/7fjvAWTTW2KogXeHlx6UKf) | [Moyseis Marques](https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb) | [Sambaluz](https://open.spotify.com/album/4ZKHmJYUaz6bL2aMIWymRU) | 3:25 |
 | 57 | [LIMÃO](https://open.spotify.com/track/4jPUsd9EElz1AgiEM0axZG) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [LIMÃO](https://open.spotify.com/album/7o8LOcVrGcSecxWCdDtaKT) | 2:41 |
-| 58 | [Suco de Gangorra](https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Suco de Gangorra](https://open.spotify.com/album/4Hoih1dEL4czmn7HVWRtZ4) | 2:31 |
+| 58 | [Suco de Gangorra](https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Suco de Gangorra](https://open.spotify.com/album/4Hoih1dEL4czmn7HVWRtZ4) | 2:33 |
 | 59 | [Véspera](https://open.spotify.com/track/33F9hre8luwI7mkN6bklqw) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Véspera](https://open.spotify.com/album/1wtRT6kvBB1kros2zJhTnm) | 3:15 |
 | 60 | [Quero Você](https://open.spotify.com/track/4T8qC5OMkDNoTdD4bHYlpI) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Quero Você](https://open.spotify.com/album/4AD1AUoo1t9oP1463wzROo) | 2:53 |
 | 61 | [Cerveja E Socorro \- Ao Vivo](https://open.spotify.com/track/3ZYefg5dVlhx56HkSrHjCo) | [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Cerveja E Socorro \(Ao Vivo\)](https://open.spotify.com/album/4uejksykxv7qONSwI3CxQt) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [011](https://open.spotify.com/track/6vzfS8S7UQxvUfevpfJmEh) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [011](https://open.spotify.com/album/0luKo86kXd3Iy4IR6DYCXh) | 2:15 |
 | 75 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 |
 
-Snapshot ID: `MCw4YmIyYjhlNmIyMzYyMzY4ZTZkNDExZDNiMmMyODczZmVjZWQyMDhj`
+Snapshot ID: `MCw4NGU0OGUxZDM5MDNlZWI4NzNlZDQ1NmIwMjY0MzA4ZjU4MWU3NGFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,968 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,973 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Portrait Of Jenny](https://open.spotify.com/track/1C5HpiqUgOY7v5audtXeXa) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 4:35 |
 | 75 | [Lucky To Be Me](https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:41 |
 
-Snapshot ID: `MCw3MGVjMjEyZjlhMGZlNmFhZWNjNjUyZjNmNzI4ZDUzZDdiM2Q1MzBi`
+Snapshot ID: `MCw0NDY2Mjg3MzNmMWRkNGFmMzYxYzhiYmUyYWUxNDg3NGJmMTc2ODky`

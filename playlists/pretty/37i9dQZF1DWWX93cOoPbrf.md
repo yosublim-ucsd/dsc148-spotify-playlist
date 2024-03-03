@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. La Ventaja en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,083 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,339 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 23 | [100% Mayo](https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [100% Mayo](https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV) | 3:34 |
 | 24 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 25 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
-| 26 | [El Rápido](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
+| 26 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
 | 27 | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Banda La Experta](https://open.spotify.com/artist/3fptmCH7rgFpe0Iw6fsor5) | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/album/6kpfWnsv0yxILzTonbcnWP) | 2:42 |
 | 28 | [Cerramos la Gucci](https://open.spotify.com/track/548CEsTMQebmJBXscI8X11) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Cerramos La Gucci](https://open.spotify.com/album/3z9FUdR7OZKVgjlOBNq0mK) | 3:02 |
 | 29 | [Otro Día, Otra Aventura](https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Otro Día, Otra Aventura](https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Patrona \- Versión tumbada](https://open.spotify.com/track/484ZCMVwR1d6RB2Ld6FEUk) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [La Patrona \(Versión tumbada\)](https://open.spotify.com/album/2qQozPHFQnkBOVHZDLCaCg) | 2:55 |
 | 75 | [Los Consejos](https://open.spotify.com/track/79svXirLbrP765DNZ98fOS) | [Alfonso Payan y Asociados](https://open.spotify.com/artist/18zpXbLiUltDfI9Nmvs62k) | [Los Consejos](https://open.spotify.com/album/0xDsZom72TImPgWbpf4JYa) | 2:45 |
 
-Snapshot ID: `MCxiYWFjZDhhNjM1MmVjYjM3YWNhNWRkZDMzZDlkMDljNWIxNmM5ZTAw`
+Snapshot ID: `MCwzNTUzMzZiNmYxYjlhODU3MGVkMTY3MzA3ODliYjlmYjQyMWRkZmYz`

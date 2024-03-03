@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,656 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,713 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
 | 80 | [Blauer](https://open.spotify.com/track/70TPpmAKLK49gcs58JqqWy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:55 |
 
-Snapshot ID: `MCwyNjliNTIzMDA2OWQwMzU3MWI2NTEzYmFkNDRjOWVhMzU3YWYwMmJm`
+Snapshot ID: `MCw4YjNkNjAyMjc0NzQ0M2I3MGMxYWIwMDQ4MmQ3MTc0NmUzYzI5YWI2`

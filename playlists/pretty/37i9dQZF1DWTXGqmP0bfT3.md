@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,697 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,099 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 | 100 | [Sleepless Deathbed](https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Sleepless Deathbed](https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ) | 3:58 |
 
-Snapshot ID: `MCw4NWE2NjE0NDY4MWJlODQ2Y2IyZmRiMjBhM2EzYTllOWVkZTlhMzRh`
+Snapshot ID: `MCxmYjg3YmY3MTA0MWRlNzdkYzI5NDQyZDQyZjE1ZTVjZGNjMDNhZWM1`

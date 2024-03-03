@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1689643,
+  "2024-03-03": 1689646,
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: Wallows",
   "name": "Indie Pop",
@@ -8719,7 +8719,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
@@ -16663,6 +16663,24 @@
       "duration_ms": 188813,
       "name": "Last Man On Earth",
       "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176861,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG"
     },
     {
       "album": {

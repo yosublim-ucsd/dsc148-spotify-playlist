@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,271 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,319 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 50 | [De Emmenaar En De Olifant](https://open.spotify.com/track/4rr14IebFrbBbOoaE4eZil) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [De Emmenaar En De Olifant](https://open.spotify.com/album/09w1AQSPJe00kj6YLL1wO4) | 2:53 |
 | 51 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 |
 | 52 | [Balu](https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Balu](https://open.spotify.com/album/0k3Iu4vn19MBPYtefVrJPX) | 3:52 |
-| 53 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 53 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 54 | [My Business \(feat\. BKO\)](https://open.spotify.com/track/7ITFNuFTSSYH301gpHOpxi) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 3:25 |
 | 55 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 | 56 | [Crazy](https://open.spotify.com/track/5Hk6Ki2g81MipLqrJSl16L) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [Crazy](https://open.spotify.com/album/6iglB4TumeugRnIGQonZTE) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 |
 | 100 | [DEKY](https://open.spotify.com/track/0Np68D600re65N0BavKeSX) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [DEKY](https://open.spotify.com/album/2VwKL57BpBwbcEoNNNFPkU) | 3:21 |
 
-Snapshot ID: `MCw1MzRhNzBmNTI0ZmU2YjkxNDYwMGJhMGNkNDJiNzg5OWZmNjE1Nzlm`
+Snapshot ID: `MCxlZWVhNzU3OTk4ZGUzMzM1MTBmOWE0NmM2MTdiNTFkZGI4MzVhMDJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,950 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,936 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 15 | [\(There's No Place Like\) Home for the Holidays \- 1954 Version](https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:51 |
 | 16 | [White Christmas](https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:38 |
 | 17 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
-| 18 | [Christmas In New Orleans](https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:55 |
-| 19 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
+| 18 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
+| 19 | [Christmas In New Orleans](https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:55 |
 | 20 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:25 |
 | 21 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 |
 | 22 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 | 70 | [The Very Best Day This Year](https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/2w32SlRvzHGycxGXbvCzS1) | 2:56 |
 
-Snapshot ID: `MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3`
+Snapshot ID: `MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3`

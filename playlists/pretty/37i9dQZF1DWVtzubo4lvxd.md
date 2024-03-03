@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,223 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,219 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [hand of god](https://open.spotify.com/track/4U3ch2mx6XHGIRrpQuIlWQ) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2QbZsCrvSQeFKn1UUgJxXw) | 1:43 |
 | 75 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 |
 
-Snapshot ID: `MCxhNGQ0ZDcxMWNlMjlkYzE0Mzc4OTA5ODcyNzJhMGFmMmVlOTk4Nzgz`
+Snapshot ID: `MCwxY2IzM2ExZTYwMzQ2ODFhNDE3M2QwZDc5ZjE1OGQ4NTY3MTJhMjdk`

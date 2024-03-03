@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,466 likes - 137 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,526 likes - 137 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 90 | [A Passage Of Life](https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Celestial Scenery: Breezing Universe, Volume 6](https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5) | 8:02 |
 | 91 | [1958 Revisited](https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa) | [Fred Weinberg](https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ) | [The Weinberg Method of Nonsynthetic Electronic Rock](https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y) | 2:08 |
 | 92 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 |
-| 93 | [Treiben](https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT) | [CV Vision](https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk) | [Elemente](https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc) | 14:52 |
-| 94 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
+| 93 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
+| 94 | [Treiben](https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT) | [CV Vision](https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk) | [Elemente](https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc) | 14:52 |
 | 95 | [Highway E 1](https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem) | [Claude Larson](https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7) | [Surroundings](https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X) | 3:45 |
 | 96 | [Mescalito \- Remastered](https://open.spotify.com/track/31yVM1tAu20JonoiZLwvPB) | [Joerg Reiter](https://open.spotify.com/artist/2VXiRg7dss0hlXqjnW0Tvl), [Stephan Diez](https://open.spotify.com/artist/0J4Gw4K5R7naDWzJ47sxeB), [Thomas Stabenow](https://open.spotify.com/artist/18aieIdG23v1o6BsbCT74y), [Freddie Santiago](https://open.spotify.com/artist/3ULOPQl1fyQZRViwpmGv0I) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 2:51 |
 | 97 | [When Bernie Speaks](https://open.spotify.com/track/4SgfZLGOzrfYVdJeUngOsm) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Bernie Worrell](https://open.spotify.com/artist/3vB7T6czx1Jh89YEnzM0UF) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 6:48 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 136 | [Analog Dialog](https://open.spotify.com/track/2qy7njw5MSmj4S8XWaRTFB) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [David Chazam](https://open.spotify.com/artist/49nkdr5SwbOV8xD1tp2SGH) | [Eclektronics](https://open.spotify.com/album/0MKKKbaTDi0jNo5i9hXjko) | 4:43 |
 | 137 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 |
 
-Snapshot ID: `MCw5ZTRkYWVmYWNiNDE5OGE3YjEyZTNmNWY0YzExMGRiMjVkOTQ3NzVl`
+Snapshot ID: `MCw0ODM2MmY5MTRjYjMzZDBkMmYzNDkzNWYyYmJkOWU1ZmFiNTM2NmIx`

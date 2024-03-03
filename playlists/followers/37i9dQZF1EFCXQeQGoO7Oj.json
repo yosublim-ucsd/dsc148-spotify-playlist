@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 115531,
+  "2024-03-03": 115534,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS\">Max Martin</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Max Martin",
@@ -2507,6 +2507,24 @@
       "duration_ms": 239520,
       "name": "Easier To Lie",
       "url": "https://open.spotify.com/track/1zGeD4pgev5ODR5jg4TnAm"
+    },
+    {
+      "album": {
+        "name": "Eintausend Teile",
+        "url": "https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143013,
+      "name": "Eintausend Teile",
+      "url": "https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6"
     },
     {
       "album": {

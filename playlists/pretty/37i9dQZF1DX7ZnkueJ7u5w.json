@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 265500,
+  "num_followers": 265509,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWY5OTViYjQ4MWI1NDNmYjkzYzdiMDg2ZTFhZjMwNzZhZTUxZGRm",
+  "snapshot_id": "MCw3NmViYmE1ODYyNDhhZjRiMzdlYTM4OTljMDJhZGQ1Y2QwNWMwMTI1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
+        "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Mi Ni\u00f1a Mujer",
+      "url": "https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -903,18 +923,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 214933,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -939,22 +959,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -967,6 +971,22 @@
       "duration_ms": 187200,
       "name": "Matamoros Querido",
       "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Cumbia De Los Cuervos",
+        "url": "https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Super T",
+          "url": "https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -991,18 +1011,34 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Cumbia De Los Cuervos",
-        "url": "https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq"
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
       },
       "artists": [
         {
-          "name": "Grupo Super T",
-          "url": "https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW"
+      "duration_ms": 289506,
+      "name": "El Baile del Beeper - Version Mexico",
+      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1023,18 +1059,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
+        "name": "Amor Y Cumbia",
+        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
       },
       "artists": [
         {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 289506,
-      "name": "El Baile del Beeper - Version Mexico",
-      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
+      "duration_ms": 236760,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1051,42 +1087,6 @@
       "duration_ms": 288560,
       "name": "Esc\u00e1ndalo",
       "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
-        "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Mi Ni\u00f1a Mujer",
-      "url": "https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "Amor Y Cumbia",
-        "url": "https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
     },
     {
       "added_at": "2022-08-02 22:46:01",

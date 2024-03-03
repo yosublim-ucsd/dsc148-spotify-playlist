@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: JIXGO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,108 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 69 | [กาล \(Stay\)](https://open.spotify.com/track/6CNXO6fdaVWNkY9cCTkSYT) | [Hit And Run](https://open.spotify.com/artist/6KvUdKgpu2lpTaVvb12iLG) | [กาล \(Stay\)](https://open.spotify.com/album/2KH2739EWc8iKcTQtu67iP) | 4:03 |
 | 70 | [tastes like honey](https://open.spotify.com/track/767iVqx4fkjNXA01cn8I3G) | [DENVERDoNET](https://open.spotify.com/artist/3MfdEX6vOgh4rPcMC55855) | [tastes like honey](https://open.spotify.com/album/7kqcYXvQd8k7Uo5SA180zs) | 4:10 |
 
-Snapshot ID: `MCxmZDNiOWIyZDQ3ZDFjN2Y4N2U1M2FhMGUzODU4MDQ0OGQ4ZWJkNzA4`
+Snapshot ID: `MCwzYzk5MjU2ZWQ5MmFmZDU1MDhjZjU0ZWFhMGRkOTgyYjUxZTliMGU3`

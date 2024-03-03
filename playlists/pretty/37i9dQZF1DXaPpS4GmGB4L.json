@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 58947,
+  "num_followers": 58999,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1",
+  "snapshot_id": "MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Well, I Done Got Over It",
-        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I Am The Moon: II. Ascension",
         "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Well, I Done Got Over It",
+        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Bob Corritore & Friends: Women In Blues Showcase",
-        "url": "https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x"
-      },
-      "artists": [
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 166975,
-      "name": "You're Gonna Be Sorry",
-      "url": "https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The High Cost Of Low Living",
         "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 231800,
       "name": "Get Right Before You Get Left",
       "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Bob Corritore & Friends: Women In Blues Showcase",
+        "url": "https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 166975,
+      "name": "You're Gonna Be Sorry",
+      "url": "https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp"
     },
     {
       "added_at": "2023-11-24 19:21:59",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,432 likes - 108 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,441 likes - 108 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [被我弄丢的你 \- 电影《被我弄丢的你》同名主题曲](https://open.spotify.com/track/4SkZXHdpY6uJted7BcnNlQ) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [被我弄丟的你 \(电影《被我弄丢的你》同名主题曲\)](https://open.spotify.com/album/4mPhzOCdyxEqIaAu79lhas) | 4:11 |
-| 2 | [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 |
+| 2 | [Beautiful Love \(原創版\)](https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx) | 4:45 |
 | 3 | [过了很久的爱](https://open.spotify.com/track/700QSaJbuakysNywVHEODw) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [过了很久的爱](https://open.spotify.com/album/10UOietJ3Visp4Rfsbq4wY) | 2:47 |
 | 4 | [別說你會懂](https://open.spotify.com/track/3VarFqtF3FIOUlhImJ9L3O) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [別說你會懂](https://open.spotify.com/album/6Id8ebzreIMZ9J4zl7vs3u) | 3:30 |
 | 5 | [同一片天空](https://open.spotify.com/track/2qJI7w14ndNy0FR0F1yrV3) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [同一片天空](https://open.spotify.com/album/0XTk1NNZ9FzZsHBW6yQDDw) | 4:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 107 | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/track/00jPopb33woapLbXAe4e1t) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [我愛你對不起 謝謝你沒關係](https://open.spotify.com/album/4qF7TO24rkByR998SX23lT) | 5:05 |
 | 108 | [AI](https://open.spotify.com/track/6bQ4fk3jjE6F8SLf1QYRTQ) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [AI](https://open.spotify.com/album/1QXqnUwBUiY5KFMjwJC5LT) | 4:40 |
 
-Snapshot ID: `MCw5NjYxNmU3ZDQyMTAwMjc5ZDg3ZTRhODFiYWVjMmUxMWZkMDBjM2Y1`
+Snapshot ID: `MCxhZmMyYzFmYWM5Y2QxZWVhNDg1ZDE3MjJjMWI2M2NjMDhmMmMxZWQ1`

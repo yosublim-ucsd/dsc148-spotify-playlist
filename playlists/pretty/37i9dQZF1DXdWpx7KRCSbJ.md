@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,921 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,931 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 25 | [Ar Condicionado no 15 \- Ao Vivo](https://open.spotify.com/track/59iqQY09BBJD3cSvojPsh0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [In Miami Beach \(Ao Vivo\)](https://open.spotify.com/album/20wBgOGIjSo3lWwgXfishN) | 2:51 |
 | 26 | [Bonita, Lindinha e Sagaz](https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Bonita, Lindinha e Sagaz](https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx) | 2:35 |
 | 27 | [Cem Mil \- Ao Vivo](https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:23 |
-| 28 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
+| 28 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 29 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
-| 30 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
+| 30 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
 | 31 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 32 | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sim ou não \(Participação especial de Maluma\)](https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b) | 3:26 |
 | 33 | [Sorte Que Cê Beija Bem \- Ao Vivo](https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Campo Grande](https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu) | 2:31 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 35 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 36 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
 | 37 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 |
-| 38 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
+| 38 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 39 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 40 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
-| 41 | [Terremoto](https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Terremoto](https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i) | 2:26 |
+| 40 | [Terremoto](https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Terremoto](https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i) | 2:26 |
+| 41 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 42 | [Malemolência](https://open.spotify.com/track/0ZTr6t4E5UurJE9oRYocbk) | [Dynho Alves](https://open.spotify.com/artist/1BRkfP0amngMbqJ4aV3KKp) | [Malemolência](https://open.spotify.com/album/0xcjQ2Z5aqmL2tp3RSYy8K) | 2:15 |
 | 43 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
 | 44 | [Rabiola](https://open.spotify.com/track/4ElQE5JDPUuESlyHCHNOXA) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Rabiola](https://open.spotify.com/album/4bOxfdAsnDjUy0sAqjqKyk) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 70 | [Quero Que Tu Vá](https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu) | [Quero Que Tu Vá](https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh) | 2:19 |
 
-Snapshot ID: `MCw1MTE5ZDhjNjg2ZmUzN2U2YjIxYTliOTUyMjI4ZWYyZTEyMGRlMDdh`
+Snapshot ID: `MCwyODA1M2JjMDg5MzJhMTQ0MTM4MjBmNjhjMGI5ZjdkYmRhYTU4YWZl`

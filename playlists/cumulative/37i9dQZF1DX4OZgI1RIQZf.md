@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-123 songs - 7 hr 28 min
+124 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 | 2022-11-02 | 2022-11-13 |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2022-10-26 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-10-26 |  |
-| [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 | 2022-10-26 |  |
+| [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 | 2022-10-26 | 2024-03-03 |
 | [Release The Bats](https://open.spotify.com/track/5Nb2FhpX5DjmvybICaqDoU) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Live 81\-82](https://open.spotify.com/album/2FbzZ11gAKgysGmMRqmrZf) | 3:05 | 2022-10-26 | 2022-11-03 |
 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 | 2022-10-26 |  |
 | [River Styx](https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:55 | 2022-10-26 |  |
@@ -107,6 +107,7 @@
 | [Standing On Ghosts](https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words To Stand On](https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS) | 3:31 | 2022-10-26 |  |
 | [Suck the Blood from My Wound](https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 4:49 | 2022-10-26 |  |
 | [Superstition](https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/6eeRBkc7lIYGX8H2Ba1zWG) | 4:40 | 2022-10-26 | 2023-07-07 |
+| [Superstition](https://open.spotify.com/track/51VuzlsigtGe7bfZgxWOQS) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/6igSL7RFTwQYPdgiYXImOs) | 4:40 | 2023-10-27 |  |
 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 | 2023-02-09 | 2024-02-28 |
 | [The Antidote](https://open.spotify.com/track/2rKP4A3wm8b5zLFyqSXCMY) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 3:39 | 2022-10-26 | 2022-11-03 |
 | [The Chills](https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 3:48 | 2022-10-26 |  |

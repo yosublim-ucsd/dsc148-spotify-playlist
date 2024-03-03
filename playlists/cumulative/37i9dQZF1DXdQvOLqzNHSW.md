@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-722 songs - 1 day 19 hr 30 min
+723 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-11-21 |  |
 | [Mr Blue \- Jadu Heart Mix](https://open.spotify.com/track/19NFmoi1v0epTpIOETCjFs) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 3:24 | 2023-08-18 | 2023-10-24 |
 | [Mr\. Moon](https://open.spotify.com/track/46gce56bpmcADKw3i00Lju) | [niquo](https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF), [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Art Collection](https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB) | 2:30 | 2023-08-18 |  |
-| [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 | 2023-01-03 |  |
+| [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 | 2023-01-03 | 2024-03-03 |
+| [MUTUAL](https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/5KMM5rZU1frov5gNAHL8GE) | 2:49 | 2024-01-04 |  |
 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 | 2022-07-12 | 2022-07-29 |
 | [My Kind of Woman](https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:10 | 2020-12-21 | 2022-07-09 |
 | [My Man](https://open.spotify.com/track/1FcGnA8Mj34RfEMJ8UHKXq) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/1GVapAXmeqaW9wUkp7rWt6) | 3:23 | 2023-05-25 | 2023-11-18 |

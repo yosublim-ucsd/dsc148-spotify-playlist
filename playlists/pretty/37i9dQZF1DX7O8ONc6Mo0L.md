@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,690 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,840 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 64 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 |
 | 65 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |
 | 66 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
-| 67 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 |
-| 68 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
+| 67 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
+| 68 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 |
 | 69 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
 | 70 | [Sala De Estar \- Ao Vivo](https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Késia Soares](https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook) | [Sala De Estar \(Ao Vivo\)](https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ) | 4:20 |
 | 71 | [O Lugar \(Ao Vivo\)](https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m) | [Gabi Oliveira](https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [O Lugar \(Ao Vivo\)](https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
 | 80 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
 
-Snapshot ID: `MCxlNjY2NjRmZjk0MjU3ODRlZjkxM2RlOTg1YTU2ODMwOGVlZjM2MWE4`
+Snapshot ID: `MCw1Njk5N2EyMzBkZWI3ZTkzM2E2MzY5NTMzZTY5MmNlNmFlMDBmZjZh`

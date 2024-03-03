@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,183 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,261 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 48 | [Crushed Ice](https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB) | 4:40 |
 | 49 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/0Dhlcr8EQOAp0hHbhz1ozR) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
 | 50 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
-| 51 | [Pull Up To The Bumper \- Edit](https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI) | 3:38 |
-| 52 | [First True Love Affair \- Larry Levan Remix](https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair](https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq) | 7:08 |
+| 51 | [First True Love Affair \- Larry Levan Remix](https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair](https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq) | 7:08 |
+| 52 | [Pull Up To The Bumper \- Edit](https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI) | 3:38 |
 | 53 | [The Sweetest Meditation](https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe) | 5:54 |
 | 54 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
 | 55 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
-| 56 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 |
-| 57 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
+| 56 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
+| 57 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 |
 | 58 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 |
 | 59 | [Is It All over My Face? \(Female Version\) \(2012 \- Remaster\)](https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N) | 7:07 |
 | 60 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`
+Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,742 likes - 90 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,804 likes - 90 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 55 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 |
 | 56 | [Dark Clouds Rain Soul \- Dub](https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Joyful Noise](https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd) | 5:10 |
 | 57 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
-| 58 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
-| 59 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
+| 58 | [Whirl Keeps Turning](https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Galactica Rush](https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF) | 5:20 |
+| 59 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 | 60 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 |
 | 61 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 |
 | 62 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
@@ -86,17 +86,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 76 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
 | 77 | [Nothing Has Changed](https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In Pursuit Of The 13th Note](https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S) | 4:46 |
 | 78 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 |
-| 79 | [Dear Limmertz](https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth: Outubro](https://open.spotify.com/album/6baaqatjoaHoivfzexDedw) | 4:34 |
+| 79 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 80 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
-| 81 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
-| 82 | [Datskat](https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 3:40 |
+| 81 | [Datskat](https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 3:40 |
+| 82 | [Dear Limmertz](https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Azymuth: Outubro](https://open.spotify.com/album/6baaqatjoaHoivfzexDedw) | 4:34 |
 | 83 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
-| 84 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
-| 85 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 84 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 85 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 86 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
 | 87 | [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 |
 | 88 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 | 89 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 90 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 
-Snapshot ID: `MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj`
+Snapshot ID: `MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi`

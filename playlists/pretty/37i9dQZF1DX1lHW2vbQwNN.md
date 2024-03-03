@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,317 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,774 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 73 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 74 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
 | 75 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 |
-| 76 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
+| 76 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
 | 77 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
-| 78 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
+| 78 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 79 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 80 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 81 | [Make It Rain](https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me, Myself & I](https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 99 | [EveryGirl In The World](https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 5:13 |
 | 100 | [Hustler Musik](https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:03 |
 
-Snapshot ID: `MCwwNzFhMDE2YjlmNTMxNzAxMmVlOTlkNTQwN2U3NGJkNzk0YTlkMDg4`
+Snapshot ID: `MCw4YzlhNTExN2MxNGVmNmU2ZTQxY2QxMjEyY2IwZTAxOGM3NGEwZDg5`

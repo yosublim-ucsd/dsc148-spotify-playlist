@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-116 songs - 8 hr 59 min
+117 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Como Eu Te Quero](https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:30 | 2022-03-11 |  |
 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 | 2022-12-02 |  |
 | [Dança do Pensamento](https://open.spotify.com/track/38sNUG2AIrO7P2lWqLQEHG) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Invisível Azul](https://open.spotify.com/album/2NRLRvaELqvwnW9E3xzuKH) | 3:31 | 2023-08-25 |  |
-| [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/0in5MharrmpP0ZBA25Tm1Q) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Tunes That Stick Vol 6](https://open.spotify.com/album/69vmtpUmljdtwNf4mdcHGS) | 2:55 | 2023-03-10 |  |
+| [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/0in5MharrmpP0ZBA25Tm1Q) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Tunes That Stick Vol 6](https://open.spotify.com/album/69vmtpUmljdtwNf4mdcHGS) | 2:55 | 2023-03-10 | 2024-03-03 |
 | [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [A Arte Do Barulho](https://open.spotify.com/album/5ZfSz6IVs85lm5zRxlvAZi) | 2:55 | 2022-03-11 | 2023-04-15 |
+| [Desabafo / Deixa Eu Dizer](https://open.spotify.com/track/3l9y0qxIuH7qvvWNuG9IC3) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Claudia](https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC) | [Welcome To COPACABANA \- The Brazilian Melting Pop](https://open.spotify.com/album/0veFCfLzR5pOgNVXzAXlJQ) | 2:56 | 2023-12-22 |  |
 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/1A7uDimTjK1RRZwuWMDpzb) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua \(Ao Vivo\)](https://open.spotify.com/album/6mbN3nlzU1rQTJmOFvI7iA) | 4:48 | 2022-09-23 |  |
 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 | 2022-03-11 |  |
 | [Dj Qap pra Sempre](https://open.spotify.com/track/1PzbbWWpnn9Lx09lcEZiyn) | [Dj Qap](https://open.spotify.com/artist/2eWZvyjFinIYLKuhg18GuA), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Ana Preta](https://open.spotify.com/artist/7J53BPDKOFVgU3CFVnNQud), [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Deborah Crespo](https://open.spotify.com/artist/2oePGqnENPf3MD86YVtP4x), [Muka Mc](https://open.spotify.com/artist/2siN4xXTDSrovyjUejmm4P), [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka), [Sâmela Araújo](https://open.spotify.com/artist/3qFFZIY3scdBx5hTaXiBa2) | [Dj Qap pra Sempre](https://open.spotify.com/album/09AENheDe1DztawKI7jDsV) | 3:51 | 2023-01-20 | 2023-08-26 |

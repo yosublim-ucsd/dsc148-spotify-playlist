@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1020800,
+  "2024-03-03": 1021586,
   "date_first_scraped": "2022-01-05",
   "description": "The biggest party hits of the 2000s. Cover: Shakira. ",
   "name": "Party Hits 2000s",
@@ -3638,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
+    },
+    {
+      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -6125,7 +6143,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"

@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 377869,
+  "2024-03-03": 378078,
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Ak4:20.",
+  "description": "Este Flow tiene otro Flow. Foto: FloyyMenor & Lucky Brown.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 142676,
       "name": "619",
       "url": "https://open.spotify.com/track/0dACXp164P8EsZAJNUJuBu"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187158,
       "name": "Avisa",
       "url": "https://open.spotify.com/track/16nItJy3LUeqGSboABfWWY"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175200,
       "name": "BBY TU",
       "url": "https://open.spotify.com/track/2NeRBD8SRdOlSAfKVz5FGj"
@@ -1541,6 +1541,28 @@
       "duration_ms": 135529,
       "name": "Bellakito",
       "url": "https://open.spotify.com/track/5IOVbRnXblWdhz3AZRUeWa"
+    },
+    {
+      "album": {
+        "name": "Bellakona",
+        "url": "https://open.spotify.com/album/3HZZ7UjNLjAxo5g1j7ReWr"
+      },
+      "artists": [
+        {
+          "name": "La H",
+          "url": "https://open.spotify.com/artist/32fYbFLlUkxqoPZkTLOSPZ"
+        },
+        {
+          "name": "JOSEPE EL DEMENTE",
+          "url": "https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152428,
+      "name": "Bellakona",
+      "url": "https://open.spotify.com/track/5w3W55dZCiaXwvm6hqJNDI"
     },
     {
       "album": {
@@ -2517,7 +2539,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199578,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/4rxxABCcAMcJNntLOEPr0E"
@@ -3316,6 +3338,28 @@
     },
     {
       "album": {
+        "name": "Donde y Cuando",
+        "url": "https://open.spotify.com/album/1oBaQoUeOHaxQ1hiC8ZceA"
+      },
+      "artists": [
+        {
+          "name": "Maiky",
+          "url": "https://open.spotify.com/artist/09Dc4cT1x21mS1dgxQGbnG"
+        },
+        {
+          "name": "Basty Corvalan",
+          "url": "https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186691,
+      "name": "Donde y Cuando",
+      "url": "https://open.spotify.com/track/4UdPH5U7yM81VHwmwrhHpt"
+    },
+    {
+      "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO"
       },
@@ -3823,6 +3867,28 @@
       "duration_ms": 240000,
       "name": "Encima de Mi",
       "url": "https://open.spotify.com/track/7qHH0VoBxzBF6NsCOpR9Xx"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167691,
+      "name": "Enrolar",
+      "url": "https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa"
     },
     {
       "album": {
@@ -4901,6 +4967,24 @@
       "duration_ms": 192786,
       "name": "Guarden las Pistolas",
       "url": "https://open.spotify.com/track/1B0Xr9qkFs2ENa2AHraCSo"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141563,
+      "name": "Guaya Guaya...",
+      "url": "https://open.spotify.com/track/5SIBKku7Xuw5hGu5VKHVw0"
     },
     {
       "album": {
@@ -6081,7 +6165,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236170,
       "name": "LAS OLAS",
       "url": "https://open.spotify.com/track/38Zk9IlEHdOn85EP4NOqqL"
@@ -6141,6 +6225,52 @@
       "duration_ms": 183328,
       "name": "Le Gustan lo' Flaites",
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "album": {
+        "name": "Le Gustan Lo' Flaites (feat. ECKO, Agus Padilla, Julianno Sosa, Look DC & LAALODJ) [Remix]",
+        "url": "https://open.spotify.com/album/1bajvwkaJhi4Pe7KsuJQn2"
+      },
+      "artists": [
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        },
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Look DC",
+          "url": "https://open.spotify.com/artist/5i7omv4qeyFwx7kd4jYK9i"
+        },
+        {
+          "name": "Laalo Dj",
+          "url": "https://open.spotify.com/artist/5CvUQOMHfFFXlCd8SGaR5A"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331200,
+      "name": "Le Gustan Lo' Flaites (feat. ECKO, Agus Padilla, Julianno Sosa, Look DC & LAALODJ) - Remix",
+      "url": "https://open.spotify.com/track/7rex6bIOuoKEVxQkf0sIMM"
     },
     {
       "album": {
@@ -6736,6 +6866,28 @@
     },
     {
       "album": {
+        "name": "Luz Verde",
+        "url": "https://open.spotify.com/album/7clZqL05aJuFdh3BzDiInT"
+      },
+      "artists": [
+        {
+          "name": "Chuchu Retro",
+          "url": "https://open.spotify.com/artist/3BhLm0rzP3kwnkLj7yXAaI"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Luz Verde",
+      "url": "https://open.spotify.com/track/3DB1bl2tkKYTCOt90Y5gIM"
+    },
+    {
+      "album": {
         "name": "MADRID",
         "url": "https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D"
       },
@@ -7015,7 +7167,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 202500,
       "name": "MAMI PRETTY",
       "url": "https://open.spotify.com/track/6FkpK0jE9XP2XkujGrQrAl"
@@ -7445,6 +7597,28 @@
       "duration_ms": 176713,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/2OkUvEoWFbrfMdizByk8Ej"
+    },
+    {
+      "album": {
+        "name": "ME GUSTA",
+        "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135352,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
     },
     {
       "album": {
@@ -9794,6 +9968,28 @@
     },
     {
       "album": {
+        "name": "PARQUE ARAUCO",
+        "url": "https://open.spotify.com/album/66026i4bX6azKz8o2zpJnZ"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215977,
+      "name": "PARQUE ARAUCO",
+      "url": "https://open.spotify.com/track/02ARVBRHlZDbGY2AzX6lXq"
+    },
+    {
+      "album": {
         "name": "PARTY DE MALEANTES (RMX)",
         "url": "https://open.spotify.com/album/5kZF7dNdOpXm66JJ4Taxp2"
       },
@@ -9821,7 +10017,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 308366,
       "name": "PARTY DE MALEANTES - RMX",
       "url": "https://open.spotify.com/track/3lMXF0Sn0X1n1CBJn3pNYM"
@@ -10277,7 +10473,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198979,
       "name": "PESKEMONO A BESOS",
       "url": "https://open.spotify.com/track/6HIWmZtG8xYI4gwZzETOgv"
@@ -10705,6 +10901,28 @@
       "duration_ms": 180044,
       "name": "Prende El Blon",
       "url": "https://open.spotify.com/track/4ud0BYTYy1Ov72vyi4Mxuy"
+    },
+    {
+      "album": {
+        "name": "Los Rompecorazones, Vol. 2",
+        "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Prend\u00eda",
+      "url": "https://open.spotify.com/track/2dOIo2IwiauY5cAvRZzBln"
     },
     {
       "album": {
@@ -14417,7 +14635,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 153402,
       "name": "Verdad?",
       "url": "https://open.spotify.com/track/7qK5h1DAiTvMkYqcIOnluj"
@@ -14523,7 +14741,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 123370,
       "name": "Vista Al Mar",
       "url": "https://open.spotify.com/track/5pUpMHRC1oMrDHIu3WXaXW"
@@ -14909,6 +15127,32 @@
       "duration_ms": 217263,
       "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
       "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Pasar\u00eda?",
+        "url": "https://open.spotify.com/album/6gpePHbBfjxJM7yVZsO9Er"
+      },
+      "artists": [
+        {
+          "name": "Ik4rus",
+          "url": "https://open.spotify.com/artist/1g1KWZZGulKVVX9A5o0zRT"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Edu Yevenes",
+          "url": "https://open.spotify.com/artist/3cFR2blcMtIx9ojylWkeX9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u00bfQu\u00e9 Pasar\u00eda?",
+      "url": "https://open.spotify.com/track/3UELjiVOtYjBXOPtb09DiO"
     },
     {
       "album": {

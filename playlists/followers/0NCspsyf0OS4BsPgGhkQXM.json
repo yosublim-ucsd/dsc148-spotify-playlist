@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 2032742,
+  "2024-03-03": 2032841,
   "date_first_scraped": "2022-01-22",
   "description": "The Official Trap Nation Playlist ",
   "name": "Trap Nation",
@@ -3407,6 +3407,28 @@
       "duration_ms": 205241,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/0oHPlZZ15WEmQ2AsSHxuXr"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1W3AezxuF7d3NiTVGhskc8"
+      },
+      "artists": [
+        {
+          "name": "Siik",
+          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5lPnSJBGv9jVG2uKYCayWH"
     },
     {
       "album": {
@@ -10141,6 +10163,24 @@
       "duration_ms": 182068,
       "name": "Keep You As A Memory",
       "url": "https://open.spotify.com/track/0xDXJKshFXRGTNCJcnj9rP"
+    },
+    {
+      "album": {
+        "name": "Kernkraft 400",
+        "url": "https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126915,
+      "name": "Kernkraft 400",
+      "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
     },
     {
       "album": {
@@ -20591,6 +20631,28 @@
       "duration_ms": 187317,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/0QmjtrK695axPhCtW2uSqm"
+    },
+    {
+      "album": {
+        "name": "Voyage Voyage (Techno Remix)",
+        "url": "https://open.spotify.com/album/0fz3AiFKCurJbYdUY6PVDl"
+      },
+      "artists": [
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129931,
+      "name": "Voyage Voyage - Techno Remix",
+      "url": "https://open.spotify.com/track/4A7QhMjQjJ55SremtfhE0W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Vinka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,949 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 |
 | 50 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
 
-Snapshot ID: `MCw4NThiNDQyMGE4NjEyNjNmYjg3NzJkODViMThjZDE1ZjUwOWZiM2U3`
+Snapshot ID: `MCw1OThmNjM4ZDMyYTdmZGNjODhmZTM4Nzc0NjViNTZlOTA3NjMwOTRh`

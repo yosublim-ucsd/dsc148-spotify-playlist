@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,202 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,206 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 61 | [Look Ma I Did It](https://open.spotify.com/track/3uztfF7OXyy236dCjuCGqu) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/7aQ7J34jTVnrnbdXs2PA8V) | 2:57 |
 | 62 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 |
 | 63 | [I Guess It's Never Enough](https://open.spotify.com/track/3UwcdHtQg3KvF4bgM02Kre) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [I Guess It's Never Enough](https://open.spotify.com/album/17BiP5ualaag0gBolfOIXZ) | 3:30 |
-| 64 | [Essa Mina](https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7) | 6:10 |
+| 64 | [Essa Mina](https://open.spotify.com/track/6dOgG8Pmiv3jRgJsz4Nkf2) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Four to the Floor 23](https://open.spotify.com/album/2u3mb3CZ1ZAufllAIQ2Zy4) | 6:10 |
 | 65 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 |
 | 66 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 |
 | 67 | [Eraser](https://open.spotify.com/track/0nkAPLYLJpOkIDY8AvGQ1e) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Eraser](https://open.spotify.com/album/4FLgMLbRhhZ1qOUV0T4mDn) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [Summer Love](https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq) | 3:55 |
 
-Snapshot ID: `MCw1YzFmYjczNTBhNzNlNjM1ZTUxNjZhOWY0ZDljMTIxN2UyNDcwMzQ2`
+Snapshot ID: `MCwxN2ExNjNiNjgwNGRjNDE4NWY4ZDY0NzFlNDIwNjE5NmE2ZTdhYzBh`

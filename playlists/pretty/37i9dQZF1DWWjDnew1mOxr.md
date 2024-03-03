@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Snuts
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,748 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,776 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 74 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 | 75 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 |
 | 76 | [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 |
-| 77 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 |
-| 78 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 77 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 78 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 |
 | 79 | [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 |
 | 80 | [Alright](https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Alright](https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ) | 3:28 |
 | 81 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 95 | [Godless](https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Godless](https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs) | 3:19 |
 | 96 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
 | 97 | [SQUEEZE ME LIKE A LEMON](https://open.spotify.com/track/2owmH2uDBkaaTyTtYR3oKF) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [SQUEEZE ME LIKE A LEMON](https://open.spotify.com/album/7H6SgwSso0FsLknG0EkqyA) | 2:47 |
-| 98 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
-| 99 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
+| 98 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
+| 99 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
 | 100 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 |
 
-Snapshot ID: `MCw2NWJkYjJkMmJmMmEwMjdlMTUyMjBiMGMzNGFjOGUxNGE1MjUxNDZl`
+Snapshot ID: `MCxhNDlkMzI3YTMzZmI5NzY3NGFiMGY0YzZhZjk2ZjMzMjkxZDgwOTcy`

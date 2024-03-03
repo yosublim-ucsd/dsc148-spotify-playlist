@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,968 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,017 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
 | 100 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 |
 
-Snapshot ID: `MCw4MDA5YmE5ZmI5MjkxYzdiYTA0ZmVkNzMyY2MwZjI0YjI0MDljMTM2`
+Snapshot ID: `MCw0YjYyNGFjOGI4Mjg4MjU0Mjg0MDhhOWNjMjhhOGY4MjJkMTBkMTMw`

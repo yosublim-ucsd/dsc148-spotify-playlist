@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-823 songs - 2 day 1 hr 5 min
+824 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [我反芻著你留下的寂寞](https://open.spotify.com/track/2Qxaglvzsc0129JB4O0XCF) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我反芻著你留下的寂寞](https://open.spotify.com/album/5mZw3T0H1hK582ePR25C3p) | 4:15 | 2021-12-16 | 2022-01-20 |
 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 | 2024-01-12 | 2024-02-05 |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2021-11-04 | 2021-12-02 |
-| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 |  |
+| [我就想你](https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 3:24 | 2022-04-23 | 2024-03-03 |
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 | 2023-05-06 |
@@ -824,6 +824,7 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-25 | 2023-11-05 |
 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 | 2021-08-05 | 2021-08-28 |
 | [青花瓷](https://open.spotify.com/track/479lquEL4Mzh3tQLtnHVfL) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/3CFQKBIkZKTRxU3EvZ1oHY) | 3:57 | 2022-07-09 | 2022-07-11 |
+| [頭號玩家 NO.1 Player](https://open.spotify.com/track/4UBEu6iSvM9vGqBwbaSiQP) | [張哲瀚](https://open.spotify.com/artist/1DMI6oQrrt8rVMVN83jXA7) | [曼陀羅 Datura](https://open.spotify.com/album/7hDV1K0YeyCPGqIE01IjEL) | 3:42 | 2024-03-02 |  |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2022-08-23 | 2022-09-01 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-08-15 |
 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 | 2023-12-21 |

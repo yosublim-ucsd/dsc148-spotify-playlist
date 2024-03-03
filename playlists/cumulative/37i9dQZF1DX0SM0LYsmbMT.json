@@ -12007,6 +12007,24 @@
     },
     {
       "album": {
+        "name": "Chichihua",
+        "url": "https://open.spotify.com/album/35oTJKHgxTkIz1JShPRo0d"
+      },
+      "artists": [
+        {
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118489,
+      "name": "Chichihua",
+      "url": "https://open.spotify.com/track/2r20uyktL1iCiwXIBN19ok"
+    },
+    {
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/7jdyTJRycpreAiWRz0etTm"
       },
@@ -46552,7 +46570,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 152359,
       "name": "Namsan",
       "url": "https://open.spotify.com/track/6DvqrdLeklqm3JGjNSLqA4"

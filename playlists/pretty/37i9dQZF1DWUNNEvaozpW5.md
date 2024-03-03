@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa con Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,841 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,935 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 99 | [Como Si Fueras a Morir Mañana \- Madrid Nuclear \- En Directo](https://open.spotify.com/track/5LscAfMaxkC3ciH2kUZtOa) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Madrid Nuclear \- En Directo](https://open.spotify.com/album/0nfk8ZUr3ufktOOaiIGFB9) | 4:43 |
 | 100 | [La Guarida](https://open.spotify.com/track/7fE07t0An6dmhgeJvGiOcL) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [La Guarida](https://open.spotify.com/album/3qS55NGnROWVe23UcBMfxZ) | 3:45 |
 
-Snapshot ID: `MCw0NGQ4OTM0ODlhZmJjMGQ1MDdjMDNlMWVkYTdmNGY0NDJmZjBhN2Zm`
+Snapshot ID: `MCxiOWIyN2FhN2RiNThlNjI2NGRhZTNlY2NmYmY4ZTE2MmI5NjNhNzFk`

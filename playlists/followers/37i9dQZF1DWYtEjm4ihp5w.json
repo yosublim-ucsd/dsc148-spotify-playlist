@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 142603,
+  "2024-03-03": 142723,
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: 7ARI",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Figoshin",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190631,
       "name": "7bss Tmout",
       "url": "https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr"
@@ -597,6 +597,28 @@
       "duration_ms": 175000,
       "name": "B\u00c9N\u00c9F",
       "url": "https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5"
+    },
+    {
+      "album": {
+        "name": "CA VA CHANGER",
+        "url": "https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232643,
+      "name": "CA VA CHANGER",
+      "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,440 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,453 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 59 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
 | 60 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 61 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
-| 62 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
-| 63 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
+| 62 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
+| 63 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
 | 64 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
 | 65 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
 | 66 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 75 | [Un nouveau jour va se lever](https://open.spotify.com/track/76LS5dHm0faY67uTILq24m) | [Les Académiciens 2004](https://open.spotify.com/artist/0ngR9CsCD7CZUqY4gUnFyZ) | [Star Académie 2004](https://open.spotify.com/album/1LeElbISsZ2YWjcz89zyC5) | 3:04 |
 
-Snapshot ID: `MCwxNTIxMjhkYWU0YjFlMjgzOTBiZTdkOTc1NjI4MzhlNmE4NDc4MzI0`
+Snapshot ID: `MCxmMTI4ZTg4NmMwNDdjMTQzZTU5MmNmZmI4YWE3NzNjYThhODRhNzQ1`

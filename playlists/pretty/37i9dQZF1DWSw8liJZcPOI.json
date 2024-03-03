@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 67838,
+  "num_followers": 67979,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYxNGRmMGU0NTgyMjRjYzlmYTg2ZTUyMmMwNTI2ZjQyNTNkYjhl",
+  "snapshot_id": "MCxiZDE0MzQ2NGU3NzJlMzUzYmU4NWFlMzEyM2QxMjdjMTA0YzAyZjk1",
   "tracks": [
     {
       "added_at": "2024-03-01 04:00:00",
@@ -1863,54 +1863,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
-      },
-      "artists": [
-        {
-          "name": "Njord",
-          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 127147,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1931,22 +1883,50 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "As I Was (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 305691,
-      "name": "As I Was - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
+      },
+      "artists": [
+        {
+          "name": "Njord",
+          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 127147,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -1963,6 +1943,26 @@
       "duration_ms": 149751,
       "name": "Parliament Of Owls",
       "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "As I Was (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 305691,
+      "name": "As I Was - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Autumn Rain Rework",
-        "url": "https://open.spotify.com/album/6rK5Na6YqZTxamjcw7Xtei"
-      },
-      "artists": [
-        {
-          "name": "Vivian Roost",
-          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
-        }
-      ],
-      "duration_ms": 317765,
-      "name": "Autumn Rain Rework",
-      "url": "https://open.spotify.com/track/0xMvwsT9Odisrabj4ceE3K"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "For the Birds: The Birdsong Project, Vol. III",
         "url": "https://open.spotify.com/album/01ocunqirX7p6foVZlzwEg"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 146666,
       "name": "Persist and Persevere",
       "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Autumn Rain Rework",
+        "url": "https://open.spotify.com/album/6rK5Na6YqZTxamjcw7Xtei"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "duration_ms": 317765,
+      "name": "Autumn Rain Rework",
+      "url": "https://open.spotify.com/track/0xMvwsT9Odisrabj4ceE3K"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 240331,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
         "name": "Still Blue",
         "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 374662,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 240331,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -2899,22 +2899,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "MMXIX",
-        "url": "https://open.spotify.com/album/4RhybGFDUu3UkYL0YMU6Wb"
-      },
-      "artists": [
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
-        }
-      ],
-      "duration_ms": 360024,
-      "name": "Gloaming",
-      "url": "https://open.spotify.com/track/3MEdin54eIIkEJoqIC2hyX"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "I'll see you in 21 days",
         "url": "https://open.spotify.com/album/6JQWU4rb25aKO5HuKsWdXi"
       },
@@ -2927,6 +2911,22 @@
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "MMXIX",
+        "url": "https://open.spotify.com/album/4RhybGFDUu3UkYL0YMU6Wb"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 360024,
+      "name": "Gloaming",
+      "url": "https://open.spotify.com/track/3MEdin54eIIkEJoqIC2hyX"
     },
     {
       "added_at": "2024-03-01 04:00:00",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Un Dimanche Orageux",
-        "url": "https://open.spotify.com/album/5CC8lLIuUha1r1HTIIaW3H"
-      },
-      "artists": [
-        {
-          "name": "REYN",
-          "url": "https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS"
-        }
-      ],
-      "duration_ms": 117500,
-      "name": "Un Dimanche Orageux",
-      "url": "https://open.spotify.com/track/1cMUzynWRSC8JwAkohZ9Kr"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "Akal Ki",
         "url": "https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Un Dimanche Orageux",
+        "url": "https://open.spotify.com/album/5CC8lLIuUha1r1HTIIaW3H"
+      },
+      "artists": [
+        {
+          "name": "REYN",
+          "url": "https://open.spotify.com/artist/17HirBkDw4wJyY3NXU0aYS"
+        }
+      ],
+      "duration_ms": 117500,
+      "name": "Un Dimanche Orageux",
+      "url": "https://open.spotify.com/track/1cMUzynWRSC8JwAkohZ9Kr"
     },
     {
       "added_at": "2024-03-01 04:00:00",

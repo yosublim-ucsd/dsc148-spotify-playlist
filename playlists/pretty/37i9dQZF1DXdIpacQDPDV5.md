@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Sultan + Shepard
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,743 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,751 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 15 | [Feel Less](https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Feel Less](https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6) | 4:01 |
 | 16 | [Missing You](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Missing You \(feat\. Nate Smith\)](https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh) | 3:07 |
 | 17 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
-| 18 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/0KVqFNKxJY1SKXfCORwJRt) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
+| 18 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 |
 | 19 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 |
 | 20 | [Wait For The Moment \- Morgin Madison Remix](https://open.spotify.com/track/56IM6oRBJu2gYSyovYcgnj) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Wait For The Moment \(Morgin Madison Remix\)](https://open.spotify.com/album/5s1HuzehKI7S6C4nP73DZ7) | 3:14 |
 | 21 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 70 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 |
 
-Snapshot ID: `MCxhYzIzYjBiNzM5NWU5YmQ0NDIzYTNlYWVjZTkxMDBjN2IzNTA2ODE3`
+Snapshot ID: `MCxhYTIwNGM1YzI2NDczZjMxYzY1NDAzZTE1YzY4N2E2ZDQ2YjAzNWU1`

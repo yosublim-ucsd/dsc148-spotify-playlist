@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 85896,
+  "2024-03-03": 85887,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -2609,6 +2609,28 @@
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng"
+    },
+    {
+      "album": {
+        "name": "High On You (feat. Melissa de Kleine)",
+        "url": "https://open.spotify.com/album/3vXWJUG1LRg0ooFeTvobiG"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Melissa de Kleine",
+          "url": "https://open.spotify.com/artist/1ke8Nab14PYpjaW2OolICA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "High On You (feat. Melissa de Kleine)",
+      "url": "https://open.spotify.com/track/6CosTVW67ji21V02JFmoi2"
     },
     {
       "album": {
@@ -6643,6 +6665,28 @@
       "duration_ms": 201360,
       "name": "Won't Forget This Time ft. John Martin",
       "url": "https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Let Go (Festival Mix)",
+        "url": "https://open.spotify.com/album/0Lk4f8V7oT0f8ZEgOG4W6S"
+      },
+      "artists": [
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        },
+        {
+          "name": "Neyra",
+          "url": "https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Won\u00b4t Let Go - Festival Mix",
+      "url": "https://open.spotify.com/track/4lqqB48xuVR3MXRM3PjUor"
     },
     {
       "album": {

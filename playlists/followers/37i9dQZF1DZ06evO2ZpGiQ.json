@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 416536,
+  "2024-03-03": 416641,
   "date_first_scraped": "2024-01-13",
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
   "name": "This Is Lil Wayne",
@@ -165,7 +165,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 151933,
       "name": "SEVEN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/0pMqb24GW0NLPVkVw8NMVT"

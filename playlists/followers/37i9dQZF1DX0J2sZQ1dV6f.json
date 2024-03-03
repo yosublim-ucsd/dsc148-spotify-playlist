@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 100273,
+  "2024-03-03": 100446,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta.",
   "name": "Electro Corridos",
@@ -1946,6 +1946,32 @@
     },
     {
       "album": {
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+      },
+      "artists": [
+        {
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -3356,6 +3382,28 @@
     },
     {
       "album": {
+        "name": "GPI (Remix)",
+        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
+    },
+    {
+      "album": {
         "name": "GUCCI FENDI",
         "url": "https://open.spotify.com/album/4gq09H4WcVcwhBgvvBsWI8"
       },
@@ -3597,6 +3645,24 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "album": {
@@ -4880,6 +4946,24 @@
     },
     {
       "album": {
+        "name": "Me Visto Caro",
+        "url": "https://open.spotify.com/album/7em6dhgWU8RyW5yq20s7F1"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Me Visto Caro",
+      "url": "https://open.spotify.com/track/5FdXe6NQbBl7lQ50RcS20i"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -4939,6 +5023,32 @@
       "duration_ms": 163883,
       "name": "Melo",
       "url": "https://open.spotify.com/track/4ebqXIKgRTn0z0h1rTnBc8"
+    },
+    {
+      "album": {
+        "name": "Mercedes Cuadrada",
+        "url": "https://open.spotify.com/album/6h6zBzkLZALqUYY9J4SbA8"
+      },
+      "artists": [
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Mercedes Cuadrada",
+      "url": "https://open.spotify.com/track/1gufxXlSBds5zb9UW755Id"
     },
     {
       "album": {

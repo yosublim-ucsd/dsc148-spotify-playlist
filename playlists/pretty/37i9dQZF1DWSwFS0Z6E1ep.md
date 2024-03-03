@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,899 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,022 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,16 +125,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 115 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
 | 116 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
 | 117 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
-| 118 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
-| 119 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |
+| 118 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |
+| 119 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
 | 120 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
 | 121 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
 | 122 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
 | 123 | [Ain't Got No Home](https://open.spotify.com/track/2bBwi0SQowI6sCQyptjJ4U) | [Clarence](https://open.spotify.com/artist/4jIgs40OSNAm3wFNjGzoKb) | [Ain't Got No Home](https://open.spotify.com/album/1GEI9hf2uxMLDaRRI6D8l2) | 2:21 |
 | 124 | [Hey Baby Doll](https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly 50](https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx) | 1:57 |
-| 125 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
+| 125 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 126 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
-| 127 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
+| 127 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
 | 128 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
 | 129 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |
 | 130 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCw3MzFkMWEzYjZjM2MxNmE5Y2I5NmVjZWE0NzVhMTMyNDkwZTRhOGI3`
+Snapshot ID: `MCxlYmVhNTM2YzViNzA0YjhhYTQ0OTQ4YjdiZmY4MGNhYjFkZWU0YWE1`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 72994,
+  "2024-03-03": 73128,
   "date_first_scraped": "2022-05-26",
   "description": "The soundtrack to lazing around.",
   "name": "Lazy Afternoon",
@@ -2907,7 +2907,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
@@ -2969,6 +2969,24 @@
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
+    },
+    {
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
     },
     {
       "album": {

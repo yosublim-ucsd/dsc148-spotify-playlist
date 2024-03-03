@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,117 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,133 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 99 | [Beautiful Day.](https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H) | [Kittikhun P.](https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv) | [Beautiful Day.](https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK) | 1:39 |
 | 100 | [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 |
 
-Snapshot ID: `MCwyMjUxMTliNmRlNTU3MTZmY2IzNDI0ZWRmZGM4MTFmMmZhMWY5OGE3`
+Snapshot ID: `MCwyODNjYjZmYWUzYThiMmVkY2Y0ZjI1ZThlZjM4MWExM2E4MzAxYjc2`

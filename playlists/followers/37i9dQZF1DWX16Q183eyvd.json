@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 38745,
+  "2024-03-03": 38820,
   "date_first_scraped": "2021-12-21",
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
   "name": "Hip-Hop & R&B for Kids",
@@ -1927,6 +1927,24 @@
       "duration_ms": 107808,
       "name": "Shine Bright",
       "url": "https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1"
+    },
+    {
+      "album": {
+        "name": "Sloth Song",
+        "url": "https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160569,
+      "name": "Sloth Song",
+      "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
     },
     {
       "album": {

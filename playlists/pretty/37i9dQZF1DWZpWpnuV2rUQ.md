@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,508 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,610 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 60 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 61 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 |
 | 62 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
-| 63 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
+| 63 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 64 | [Solo Necesito \- Remix](https://open.spotify.com/track/6W8NN9RJUnqmXaEXM5dgBb) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Solo Necesito \(Remix\)](https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm) | 2:43 |
 | 65 | [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Cele Arrabal](https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 |
 | 66 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 99 | [JET\_Set.mp3](https://open.spotify.com/track/2raFBS5ysJMxhd755bvAcf) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:25 |
 | 100 | [Vida y Tiempo](https://open.spotify.com/track/1pLgwnyBgi68NKZNsVYs56) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Vida y Tiempo](https://open.spotify.com/album/7N1SCQo1RKfeToXAinEkgr) | 4:58 |
 
-Snapshot ID: `MCxjMTJiZTM4NmRiMDQyNWM1ZThjMTQ3ZWVkNjYwZDQyZTVhZmFjOGNh`
+Snapshot ID: `MCxiOGE2NmUzYTY3NzA4MGUyY2ZkY2FiMmY4NDVlMzUwNzM2Mzg5YWU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Games We Play
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,007 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,052 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 82 | [Do One](https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Do One](https://open.spotify.com/album/7A7iMGBEB5KY5ZfUV40usr) | 2:21 |
 | 83 | [Brag](https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Brag](https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T) | 3:13 |
 | 84 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 |
-| 85 | [The Same Ordinary](https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [The Same Ordinary](https://open.spotify.com/album/38l16Gbz36o6lS2gPIW8GN) | 1:10 |
+| 85 | [The Same Ordinary](https://open.spotify.com/track/54R07VskSEqrvrtKxn2bW5) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 1:10 |
 | 86 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 |
 | 87 | [A Predetermined Outcome](https://open.spotify.com/track/6KfFTiJskd1N8gsvCbwnxB) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [A Predetermined Outcome](https://open.spotify.com/album/7tFjUyhKAFvoHUXbzZshB8) | 3:25 |
 | 88 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [So Cold](https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [So Cold](https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8) | 3:41 |
 | 100 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 |
 
-Snapshot ID: `MCxkODc1MGRhOWQ3MjczMTM0ZmEyNzRkMmExZWQwNWVjNDEwMTczZDdj`
+Snapshot ID: `MCxhYmUyOTcxMmExMWFmMjE2YzRkODNmNTA2Mjk3NWYzNTU0NzIwMjZm`

@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: cakal
 
-297 songs - 12 hr 55 min
+298 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,8 +234,9 @@
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 | 2023-12-15 |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 | 2023-04-28 |
 | [RaTaTa](https://open.spotify.com/track/0QpE5aWc2gq705lQjjKQoh) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [RaTaTa](https://open.spotify.com/album/1RdmjIxOIDrcH2xnVoJRVa) | 2:03 | 2023-08-10 | 2023-11-11 |
+| [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/3bYADKpgBpTUAYYPOslHtW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:11 | 2024-02-29 |  |
 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/4UwT5GziuMCCtnMHxg0Hsf) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 3:11 | 2024-02-08 | 2024-02-16 |
-| [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 | 2024-02-15 |  |
+| [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 | 2024-02-15 | 2024-03-03 |
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 |  |
 | [ROTTERDAM FREESTYLE](https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [ROTTERDAM FREESTYLE](https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3) | 4:03 | 2023-12-14 | 2024-01-19 |

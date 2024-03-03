@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 233654,
+  "2024-03-03": 233713,
   "date_first_scraped": "2021-12-28",
   "description": "The shape of noise to come.",
   "name": "adrenaline",
@@ -443,6 +443,24 @@
       "duration_ms": 213253,
       "name": "asuka",
       "url": "https://open.spotify.com/track/0iYp1IQm4xoBTvHbJ0H53i"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "album": {
@@ -911,7 +929,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211046,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
@@ -1005,6 +1023,24 @@
       "duration_ms": 207305,
       "name": "Bored Again",
       "url": "https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp"
+    },
+    {
+      "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "album": {
@@ -3103,7 +3139,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 250110,
       "name": "Flacco",
       "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
@@ -3193,7 +3229,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 181951,
       "name": "Fortress",
       "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
@@ -3319,7 +3355,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210973,
       "name": "Future Proof",
       "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
@@ -4043,6 +4079,24 @@
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
+    },
+    {
+      "album": {
+        "name": "hi mute",
+        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
+      },
+      "artists": [
+        {
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164376,
+      "name": "hi mute",
+      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
     },
     {
       "album": {
@@ -5081,10 +5135,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 249640,
       "name": "Lean Into It",
       "url": "https://open.spotify.com/track/6jXiMMb5Hvz1NwITFVblZV"
+    },
+    {
+      "album": {
+        "name": "Leap Years",
+        "url": "https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Leap Years",
+      "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
     },
     {
       "album": {
@@ -5355,6 +5427,24 @@
       "duration_ms": 206605,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM"
+    },
+    {
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/6stziyO40ovFZGQN71pB67"
+      },
+      "artists": [
+        {
+          "name": "LOWLIVES",
+          "url": "https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6"
     },
     {
       "album": {
@@ -5794,6 +5884,24 @@
     },
     {
       "album": {
+        "name": "Til Your Lungs Fall Out",
+        "url": "https://open.spotify.com/album/032Ru084gRFiYPGnvzNLTz"
+      },
+      "artists": [
+        {
+          "name": "Grave Secrets",
+          "url": "https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161851,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV"
+    },
+    {
+      "album": {
         "name": "Morning Haze",
         "url": "https://open.spotify.com/album/1E6rJFpTgage3sExihOADT"
       },
@@ -6133,7 +6241,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152415,
       "name": "Not It",
       "url": "https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi"
@@ -6281,6 +6389,24 @@
       "duration_ms": 216916,
       "name": "Now, Life is Living You",
       "url": "https://open.spotify.com/track/2hsUzg683EDNgfLFcSE1Od"
+    },
+    {
+      "album": {
+        "name": "Nuclear Boy Scout",
+        "url": "https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz"
+      },
+      "artists": [
+        {
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219978,
+      "name": "Nuclear Boy Scout",
+      "url": "https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao"
     },
     {
       "album": {
@@ -7256,6 +7382,24 @@
     },
     {
       "album": {
+        "name": "Overthinking Everything",
+        "url": "https://open.spotify.com/album/4tgOzgaMwxPVQXpG9BIzP2"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114645,
+      "name": "Rug",
+      "url": "https://open.spotify.com/track/5diR0rIuLlwQPwhHr4c7oq"
+    },
+    {
+      "album": {
         "name": "Safe Forever",
         "url": "https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3"
       },
@@ -7613,6 +7757,24 @@
       "duration_ms": 165569,
       "name": "Sitting Confused",
       "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
+    },
+    {
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
     },
     {
       "album": {
@@ -8759,7 +8921,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 70640,
       "name": "The Same Ordinary",
       "url": "https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9"
@@ -8929,7 +9091,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 112245,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/3NB9YhwxlY9RhEUY5Zw2X7"
@@ -9865,7 +10027,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 243733,
       "name": "You\u2019re One Of Us Now",
       "url": "https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw"

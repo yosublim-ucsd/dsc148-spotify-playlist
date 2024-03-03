@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-767 songs - 1 day 8 hr 16 min
+769 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Ma igatsen sind](https://open.spotify.com/track/3tZcp9CA8rJTTHLWhPI2MQ) | [Jelena Sepp](https://open.spotify.com/artist/5HzGoVBpzJaPxpRbhBC6FC) | [Ma igatsen sind](https://open.spotify.com/album/6pbSRvQJbhPSoCrgWtSQaC) | 2:15 | 2022-05-27 | 2023-02-14 |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2022-05-27 | 2024-03-02 |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-05-27 |  |
+| [Making peace](https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Making peace](https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q) | 2:23 | 2024-02-27 |  |
 | [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2022-05-27 |  |
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2022-05-27 | 2023-03-28 |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-05-27 | 2023-03-28 |
@@ -499,7 +500,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-05-27 | 2022-07-21 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2022-05-27 | 2023-01-21 |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2022-05-27 | 2023-03-28 |
-| [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 |  |
+| [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 | 2024-03-03 |
 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 | 2023-02-20 | 2023-10-21 |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-09 |  |
 | [Peace Of Mind](https://open.spotify.com/track/00VV8fObAQ5g6TBxWBytOr) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Peace Of Mind](https://open.spotify.com/album/60O3u4JafnKdAGfNxkwKGW) | 2:30 | 2023-05-19 |  |
@@ -522,6 +523,7 @@
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-27 | 2023-03-13 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-05-27 | 2023-08-15 |
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-25 |  |
+| [Prati](https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Prati](https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU) | 2:25 | 2024-02-27 |  |
 | [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 | 2024-02-20 |
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
@@ -625,7 +627,7 @@
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-05-27 | 2023-06-20 |
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-05-27 | 2023-01-09 |
 | [Stay](https://open.spotify.com/track/39HXQGuVvKb1xk37coVqgb) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Stay](https://open.spotify.com/album/59jBPp7XmMmJqTLVmB1oxK) | 2:37 | 2022-05-27 | 2023-07-28 |
-| [Still Drifting](https://open.spotify.com/track/6QUj5aZj21pFhsT94CCYz1) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Still Drifting](https://open.spotify.com/album/72wXUUjSAGLmQstNGlrGAe) | 2:10 | 2023-04-18 |  |
+| [Still Drifting](https://open.spotify.com/track/6QUj5aZj21pFhsT94CCYz1) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Still Drifting](https://open.spotify.com/album/72wXUUjSAGLmQstNGlrGAe) | 2:10 | 2023-04-18 | 2024-03-03 |
 | [Storr](https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Storr](https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU) | 3:17 | 2022-07-20 | 2023-10-23 |
 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 | 2022-05-27 | 2022-09-24 |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-05-27 | 2022-09-24 |

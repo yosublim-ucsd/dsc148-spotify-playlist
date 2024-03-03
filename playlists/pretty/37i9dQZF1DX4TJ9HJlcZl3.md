@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,729 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,735 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [The Lottery](https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL) | [The Stepkids](https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn) | [Troubadour](https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v) | 3:50 |
 | 50 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 |
 
-Snapshot ID: `MCw0NGYxYWE5MTg1ZTgzYzRlZWU2NTU1NzI4NGViNzkxZWZmNjc5M2Qw`
+Snapshot ID: `MCxmYTVhMGQ4ODkxNDFhZGYwMzMzNjQ0Y2U1NmFjMzAwZmYyMjUzNmRj`

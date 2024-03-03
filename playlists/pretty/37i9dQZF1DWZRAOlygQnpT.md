@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,448 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,501 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 4 | [Mi Pueblo](https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:32 |
 | 5 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 |
 | 6 | [La Hiedra Venenosa](https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:39 |
-| 7 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 |
+| 7 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
 | 8 | [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Enrique Guzmán \(El Llanto del Siglo\)](https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu) | 2:12 |
-| 9 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 |
+| 9 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920) | 2:22 |
 | 10 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 11 | [Popotitos](https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:03 |
 | 12 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 38 | [Fue en un café](https://open.spotify.com/track/36MXZ6wttRMN0wJ0ZewucH) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Nostalgia pop en español](https://open.spotify.com/album/1qvzz0OVAUajh3lLPOuP5H) | 3:10 |
 | 39 | [Mi Primer Amor](https://open.spotify.com/track/0aVecUM3N6lZ70vOgCp3eG) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2) | 2:17 |
 | 40 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 |
-| 41 | [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 |
-| 42 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
+| 41 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
+| 42 | [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 |
 | 43 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
 | 44 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 |
 | 45 | [Muevanse Todos](https://open.spotify.com/track/3xBemMhwDnAIWVD0oT8KnE) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 |
 | 100 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
 
-Snapshot ID: `MCw0MDRhMWU4NWZjOTMyYTA3ZThjODVhZmZkNGE2ODcwOWU2OWNjNjVk`
+Snapshot ID: `MCw5ZTNhY2RiN2Q0M2E4YTM4ZjlhMzVmNzJiYzdkM2JkZDUzNjk5ZmI2`

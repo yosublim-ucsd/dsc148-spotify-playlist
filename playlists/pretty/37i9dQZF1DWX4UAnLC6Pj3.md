@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,562 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,752 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Es Cierto Que Nunca Te Quise](https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats) | 2:20 |
 | 125 | [Pocos Regalos \- En vivo](https://open.spotify.com/track/6qpJBdOOptpj7iOVijc45K) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pocos Regalos \(En vivo\)](https://open.spotify.com/album/4TT4BLanbzA8On89yNnY4t) | 3:11 |
 
-Snapshot ID: `MCwzNTIxMWE2NzA2NjhkMDAwMWFiOWY2NWZlYTZhNmUxZDM2ODhhOGEz`
+Snapshot ID: `MCxiMDQxZDZlMDA4ZjNhOGE4NzI0MWFhYjM1Nzk5MmFjYzBjNmJhMDgy`

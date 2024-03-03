@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,802 likes - 121 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,801 likes - 121 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 58 | [Us during that moment](https://open.spotify.com/track/6z9b1gvsiokokjakZ9jDNK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Us during that moment](https://open.spotify.com/album/3K5qthudFQy4Oc09NH7Nf9) | 5:31 |
 | 59 | [All day](https://open.spotify.com/track/5InT1PM23ZqdmkVazN1Pgb) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [To whom it may concern](https://open.spotify.com/album/5FBql8RASodeavdrQKiSfp) | 3:42 |
 | 60 | [Everything](https://open.spotify.com/track/4mJVcd0bSD4BOaXPjkP13V) | [Han Seung Ju](https://open.spotify.com/artist/7tB1cmoKNKTRIOtDbjn9Om) | [Everything](https://open.spotify.com/album/0oS7hbD9Hbqnz7SkxCd1Ud) | 4:00 |
-| 61 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 |
+| 61 | [Paper Plane](https://open.spotify.com/track/0DB7JrGZS4klU4dN7zSTzO) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/1KAU3MJ6d27czezsWrdx9G) | 4:01 |
 | 62 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
 | 63 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 |
 | 64 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 120 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 121 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCw1YTY4OWVhNWE1OTNiZGI1OTA4OWY3ZDc2MGRlYmVkYmIwMGMzMjgx`
+Snapshot ID: `MCxiNWZhOWY5NzhkYTU4NjU0OTU4Yjg4ZWM0NjcxN2NhYmRjOWY4NWZl`

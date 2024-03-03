@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 173428,
+  "2024-03-03": 173432,
   "date_first_scraped": "2023-02-17",
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
   "name": "This Is Kidz Bop Kids",
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 179247,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"

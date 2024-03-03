@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,417 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,425 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 31 | [Jesus Saves \- Live](https://open.spotify.com/track/2Gv1xrd1QQeZNG99PhVdIx) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:26 |
 | 32 | [I Have Decided](https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 2:46 |
 | 33 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 |
-| 34 | [God's About To Do It \- Live](https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:11 |
-| 35 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
+| 34 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
+| 35 | [God's About To Do It \- Live](https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:11 |
 | 36 | [Here](https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 3:51 |
 | 37 | [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 |
 | 38 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 |
 | 50 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDA1NWVjMTVkZDQ4MjZiMDBjM2FiYTBkZGVmNTRhMGZjMQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBiY2E0MWM5ZDgzY2E5ZTgzYTBjZDFhM2VmODQ1NTlhZQ==`

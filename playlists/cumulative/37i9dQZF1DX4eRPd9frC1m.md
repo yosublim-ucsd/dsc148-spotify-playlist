@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-330 songs - 18 hr 9 min
+331 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Mutation](https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Mutation](https://open.spotify.com/album/6Ci4LwlsCj3LqoQR5AyABC) | 3:43 | 2023-08-18 | 2023-09-10 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Necromancer](https://open.spotify.com/track/6rEDjNSmWMZj6sm1MPJ4kv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Necromancer](https://open.spotify.com/album/5YVDOYztnp9fzagSgCyBBn) | 3:13 | 2021-11-19 | 2022-01-08 |
-| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 |  |
+| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 | 2024-03-03 |
 | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe) | 3:50 | 2023-01-06 | 2023-08-19 |
 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 | 2022-04-22 |  |
 | [NGMF](https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [NGMF](https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN) | 2:42 | 2021-11-19 | 2022-07-28 |
@@ -301,6 +301,7 @@
 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 | 2022-06-10 | 2023-12-16 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [This Could Be Us](https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [This Could Be Us](https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH) | 5:08 | 2021-11-19 | 2022-01-08 |
+| [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 | 2024-03-01 |  |
 | [TIKTOK](https://open.spotify.com/track/0TQ2Sfay7vPm8RclGBVnGi) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/0DKuz4XKK4MSUdY2aVyXw4) | 2:30 | 2021-11-19 | 2022-07-29 |
 | [TIKTOK](https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [TIKTOK](https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3) | 2:30 | 2022-07-22 |  |
 | [TILL I DIE](https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [TILL I DIE](https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo) | 2:51 | 2023-02-24 | 2023-06-12 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin\n",
-  "num_followers": 3072695,
+  "num_followers": 3073061,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQwZDQ5NjMxZTYyMjkxNjI5NTE2MmEwMmJlZjk4ZDExMDY5ZWM0",
+  "snapshot_id": "MCxlMzA2MTM0MDZiNmQyYTVjZDhkMzJkMjFkZWEyZDgxNzFhMGZkYjgw",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "In The Groove",
-        "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 194293,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+        "name": "In The Groove",
+        "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+      "duration_ms": 194293,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Bee Gees' 1st",
         "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 182000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 214040,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 253333,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1659,6 +1643,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
-      },
-      "artists": [
-        {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
+      },
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Velvet Underground (45th Anniversary)",
         "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 339533,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2023-12-21 14:48:21",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Something Else (Deluxe)",
         "url": "https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2"
       },
@@ -2183,18 +2167,34 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2215,34 +2215,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2263,18 +2247,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -2343,38 +2343,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -2391,6 +2359,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2022-08-12 11:06:50",

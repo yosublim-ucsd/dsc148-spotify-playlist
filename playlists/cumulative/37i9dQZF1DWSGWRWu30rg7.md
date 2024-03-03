@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maisha Kanna
 
-3,145 songs - 8 day 1 hr 12 min
+3,146 songs - 8 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1691,7 +1691,8 @@
 | [Makna](https://open.spotify.com/track/4vzCihq9UxGZvlfxgYarbE) | [Berlian](https://open.spotify.com/artist/7AxYMmfcBAjbsU4MyGML7w) | [Makna](https://open.spotify.com/album/0Jwoy4mJzDuC5xmu0fZZDG) | 3:39 | 2022-03-17 | 2022-04-01 |
 | [Malam](https://open.spotify.com/track/4kxe8tAnOXx1IwbQYhWbmF) | [Pestaraya](https://open.spotify.com/artist/14iJos3V6B7CFXpCq6xawN) | [Malam](https://open.spotify.com/album/75seYEK4IFkiunfRYdoIqo) | 4:51 | 2023-01-12 | 2023-02-10 |
 | [Malam Satu Suro](https://open.spotify.com/track/4eMePgTJl4lOi7EOUBSCWf) | [Hiken Of The Apollo](https://open.spotify.com/artist/1WY1GOrgft4o3HAtUxtwTz) | [Malam Satu Suro](https://open.spotify.com/album/0sEnMdGgGsOYm2lxbxzNaD) | 4:52 | 2023-04-27 | 2023-05-19 |
-| [Malam Tak Berjudul](https://open.spotify.com/track/5l0L1zS6LcJ07TEwYDvIhu) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/6uAhSi32ZZ3qwq51fdSYdT) | 3:09 | 2024-02-02 |  |
+| [Malam Tak Berjudul](https://open.spotify.com/track/5l0L1zS6LcJ07TEwYDvIhu) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/6uAhSi32ZZ3qwq51fdSYdT) | 3:09 | 2024-02-02 | 2024-03-03 |
+| [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 | 2024-02-29 |  |
 | [MAMA, I GIVE UP](https://open.spotify.com/track/292FQfuePANWG0rdfrQFdl) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [MAMA, I GIVE UP](https://open.spotify.com/album/0bQN9tDbK0OJ73xkamfyAK) | 3:36 | 2022-05-12 | 2022-05-27 |
 | [Mampu Tanpanya](https://open.spotify.com/track/5Ot1qlVfFLTBN1hDhG5M2B) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY) | [Mampu Tanpanya](https://open.spotify.com/album/5ZblYPTdz6soQiZXoc6TnW) | 3:03 | 2022-10-06 | 2022-11-04 |
 | [Mana Hatimu](https://open.spotify.com/track/19l7GaBxN0zytT2AC7gZ93) | [Marsha Zulkarnain](https://open.spotify.com/artist/79k9SYEjYoUOu4D385aIdq) | [Mana Hatimu](https://open.spotify.com/album/1YhDwRsv3frdSUby1ag1Oh) | 3:37 | 2024-01-25 | 2024-02-09 |

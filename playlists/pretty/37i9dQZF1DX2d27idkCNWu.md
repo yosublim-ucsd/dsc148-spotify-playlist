@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,835 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,826 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 69 | [Cool Kids \- Live from Spotify NYC](https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Spotify Sessions](https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf) | 3:21 |
 | 70 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
 | 71 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic EP](https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy) | 3:53 |
-| 72 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 |
-| 73 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
+| 72 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
+| 73 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 |
 | 74 | [FRIENDS \- Acoustic](https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS \(Acoustic\)](https://open.spotify.com/album/233AbsgzaS416igerB12cS) | 3:29 |
 | 75 | [Better Part of Me](https://open.spotify.com/track/2Qf6BPJNeyKk4O6kUeoAbU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:46 |
 | 76 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
 | 90 | [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 |
 
-Snapshot ID: `MCxhN2MyNDkwZTkxNDFlOGY0ZjEwNGE0OGE3ODIyYzBiY2Q2OWZkZWI1`
+Snapshot ID: `MCwwODE3NTc1MDFlZTQ2MjFlNGEzYmZhMTc4NjBkMTFjMjQyNmFkNjEw`

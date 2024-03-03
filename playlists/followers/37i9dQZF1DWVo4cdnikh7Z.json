@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 660128,
+  "2024-03-03": 660182,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -12199,7 +12199,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 88059,
       "name": "Lingam Raja Lingam (From \"BYRI\")",
       "url": "https://open.spotify.com/track/3d8iAk1T4RPLUtDlZfaWtI"
@@ -22429,6 +22429,28 @@
       "duration_ms": 178064,
       "name": "Tappasu (From \"Hitler\")",
       "url": "https://open.spotify.com/track/5ZixNmjdLf38EpNhoqpJbz"
+    },
+    {
+      "album": {
+        "name": "Joshua Imai Pol Kaakha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HghAZBUP2HIHjYBg9PowE"
+      },
+      "artists": [
+        {
+          "name": "Krishna.K",
+          "url": "https://open.spotify.com/artist/7lUEi4XSbnhAdm2cTf0QJU"
+        },
+        {
+          "name": "Gana Guna",
+          "url": "https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tappasu Neram",
+      "url": "https://open.spotify.com/track/5sBO9sft4twmiwoUZUD6DD"
     },
     {
       "album": {

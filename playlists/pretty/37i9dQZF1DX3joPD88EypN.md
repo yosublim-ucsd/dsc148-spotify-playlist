@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,107 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,139 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [På havets bunn](https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Erland Dahlen](https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn) | [På havets bunn](https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK) | 3:32 |
 | 100 | [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 |
 
-Snapshot ID: `MCw2NDViNzY1Y2IzZDJiZGRjMzE3YmNkZTNjMWY2YTY3OTI1NmExY2Fj`
+Snapshot ID: `MCw0NmU1Y2I3MjIxOWE2ZTI1YjkyYjBmMWEzZDA4YjY3MjNjNWJmYzMx`

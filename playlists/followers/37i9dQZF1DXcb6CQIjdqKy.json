@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1585714,
+  "2024-03-03": 1585821,
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. \n Cover:  <a href=\"spotify:artist:68ra9ISZg5HZYwKaPtKvMp\">Mercy Chinwo</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2180,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156410,
+      "name": "Deeper Waters",
+      "url": "https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
       },
@@ -2943,7 +2961,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 395784,
       "name": "Fill Us Once Again - Live",
       "url": "https://open.spotify.com/track/2DXxLCnsZBIaRrTGmm6kwC"
@@ -4584,6 +4602,28 @@
     },
     {
       "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390020,
+      "name": "He Who Is To Come - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
+    },
+    {
+      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/0ViLrkoDVUzbkXoaSYR1KV"
       },
@@ -5715,7 +5755,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 255796,
       "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
       "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
@@ -5785,6 +5825,28 @@
       "duration_ms": 305768,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/4D2Vn8vmqUFmK6qRdtiBLd"
+    },
+    {
+      "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
     },
     {
       "album": {
@@ -7939,7 +8001,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 372600,
       "name": "Made For More - Live",
       "url": "https://open.spotify.com/track/5P5mU8DN0qNF2Rlhx6P9VW"
@@ -8679,7 +8741,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
@@ -9109,7 +9171,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167207,
-      "name": "No One Loves Me Like You Do (Radio Mix)",
+      "name": "No One Loves Me Like You Do - Radio Mix",
       "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
     },
     {
@@ -9419,6 +9481,24 @@
       "duration_ms": 175661,
       "name": "Only Jesus for my Pain",
       "url": "https://open.spotify.com/track/5bHxlhwBh0ZqUnp5VccIgy"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "album": {
@@ -12098,6 +12178,24 @@
     },
     {
       "album": {
+        "name": "Made For More (Live)",
+        "url": "https://open.spotify.com/album/0TchDjWSD1zqYTJcYbcBZA"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "Thank You Jesus - Live",
+      "url": "https://open.spotify.com/track/0J6stnJiIO8QC6sCQzGZsX"
+    },
+    {
+      "album": {
         "name": "Ordinary Ways",
         "url": "https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I"
       },
@@ -14489,7 +14587,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222169,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"

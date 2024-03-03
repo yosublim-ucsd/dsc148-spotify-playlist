@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 457957,
+  "2024-03-03": 457944,
   "date_first_scraped": "2023-12-14",
   "description": "Break up songs, the best cure for a broken heart!",
   "name": "Breakup Songs \ud83d\udc94",
@@ -1783,6 +1783,24 @@
       "duration_ms": 228758,
       "name": "First Man",
       "url": "https://open.spotify.com/track/6TRt2bniIq0EIlrDlje7b8"
+    },
+    {
+      "album": {
+        "name": "Youth & Family",
+        "url": "https://open.spotify.com/album/77ZxTo0LbmhtZ98b0dE6ka"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153080,
+      "name": "Fly to the Moon",
+      "url": "https://open.spotify.com/track/6SVEgIKTKIRzFpAnDu0GV3"
     },
     {
       "album": {
@@ -4883,6 +4901,24 @@
       "duration_ms": 257963,
       "name": "Starlings",
       "url": "https://open.spotify.com/track/2ZKy6cbPuG91WWWA47ipw1"
+    },
+    {
+      "album": {
+        "name": "Still Yours (From The Doc)",
+        "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158008,
+      "name": "Still Yours (From The Doc)",
+      "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 331228,
+  "2024-03-03": 331367,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
   "name": "Jazz-Funk",
@@ -471,6 +471,28 @@
       "duration_ms": 242949,
       "name": "Biff",
       "url": "https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D"
+    },
+    {
+      "album": {
+        "name": "Big Brother",
+        "url": "https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Daniel Wytanis",
+          "url": "https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361482,
+      "name": "Big Brother",
+      "url": "https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV"
     },
     {
       "album": {
@@ -2034,6 +2056,28 @@
     },
     {
       "album": {
+        "name": "Exotic Rose",
+        "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290341,
+      "name": "Exotic Rose",
+      "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "album": {
         "name": "Expansions",
         "url": "https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm"
       },
@@ -3579,7 +3623,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 293013,
       "name": "Longseller Tornado",
       "url": "https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK"
@@ -4363,7 +4407,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 284250,
       "name": "No, No, No Pt. 2",
       "url": "https://open.spotify.com/track/7APHXq8XGcfgNuTZqZn5Uy"

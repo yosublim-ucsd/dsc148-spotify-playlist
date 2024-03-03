@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Eagle",
-  "num_followers": 118793,
+  "num_followers": 118830,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGFlNjRlOTFkNTY1NjI5Nzg3ODIyNDYxYmYzNDkyMDQ1MTE5NzA0",
+  "snapshot_id": "MCxjMzNjZWZiMGE3OTFlMzc5ZTFmOTY1NDBmMDJlMDQ2ODNhMzNkMmM3",
   "tracks": [
     {
       "added_at": "2023-12-28 06:07:35",
@@ -627,10 +627,18 @@
     {
       "added_at": "2023-09-16 06:39:10",
       "album": {
-        "name": "Kallatho Kaatesinave (From \"Rudramkota\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/0k6PpEYhxbIMQmJNEmMNLp"
+        "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
+        "url": "https://open.spotify.com/album/6i6vtXVWJb6LIZlL36t5XN"
       },
       "artists": [
+        {
+          "name": "U.V.Niranjan",
+          "url": "https://open.spotify.com/artist/1HhXD7tI767VTOcesD5fRf"
+        },
+        {
+          "name": "Vinod Kumar",
+          "url": "https://open.spotify.com/artist/7uqmh3Pn62x0o8whff0egz"
+        },
         {
           "name": "Sri Krishna",
           "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
@@ -638,7 +646,7 @@
       ],
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
-      "url": "https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh"
+      "url": "https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb"
     },
     {
       "added_at": "2023-07-31 07:52:31",

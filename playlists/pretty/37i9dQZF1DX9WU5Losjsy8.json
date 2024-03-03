@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 397102,
+  "num_followers": 397288,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGFlNTQ1MjM3MzA1NmFmZTQzNjhhZWZhMWI0MzRmMThkMmVjZDU3",
+  "snapshot_id": "MCwzMTEwYjA4M2QwODFkYWJlYTdhNDZjY2ZjMzAzMjRhODAxNzZmZGU1",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Culcha Candela",
+        "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Hamma! - Single Edit",
+      "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Culcha Candela",
-        "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
-      },
-      "artists": [
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Hamma! - Single Edit",
-      "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Lea",
         "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 159374,
       "name": "Lea",
       "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
         },
         {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 198160,
-      "name": "PECH & SCHWEFEL",
-      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 191163,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -1143,18 +1159,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6"
+        "name": "Saufen aufm Spielplatz",
+        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "BroyS",
+          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
         }
       ],
-      "duration_ms": 191163,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc"
+      "duration_ms": 240000,
+      "name": "Saufen aufm Spielplatz",
+      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1175,26 +1195,6 @@
       "duration_ms": 155820,
       "name": "Klempner Klaus",
       "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Saufen aufm Spielplatz",
-        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
-      },
-      "artists": [
-        {
-          "name": "BroyS",
-          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
-        },
-        {
-          "name": "Pbb Yea",
-          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Saufen aufm Spielplatz",
-      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Holterdiepolter",
+        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
+      },
+      "artists": [
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Georg Stengel",
+          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Holterdiepolter",
+      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -1459,38 +1479,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Holterdiepolter",
-        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
       "artists": [
         {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
         },
         {
-          "name": "Georg Stengel",
-          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Holterdiepolter",
-      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
-      },
-      "artists": [
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
         {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
         }
       ],
-      "duration_ms": 200314,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2023",

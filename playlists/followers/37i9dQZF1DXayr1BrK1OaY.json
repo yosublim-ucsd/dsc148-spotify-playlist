@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 211489,
+  "2024-03-03": 211634,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -73,6 +73,24 @@
       "duration_ms": 247136,
       "name": "11-11",
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
+    },
+    {
+      "album": {
+        "name": "a little bitter",
+        "url": "https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127968,
+      "name": "a little bitter",
+      "url": "https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P"
     },
     {
       "album": {
@@ -488,6 +506,32 @@
     },
     {
       "album": {
+        "name": "Miracles (Remixed)",
+        "url": "https://open.spotify.com/album/1AIxBTLNu8SaNa0BOylONe"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224992,
+      "name": "Astray - Nicky Elisabeth Remix",
+      "url": "https://open.spotify.com/track/6WcJUCMjHBXkP9vvPpQ0Oy"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -659,7 +703,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
@@ -1197,7 +1241,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183000,
       "name": "Deep Water (feat. EVAN GIIA)",
       "url": "https://open.spotify.com/track/5wHQcpGwuVdpHFwESBeW2w"
@@ -1237,6 +1281,28 @@
       "duration_ms": 231240,
       "name": "Different Ways To Love You",
       "url": "https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb"
+    },
+    {
+      "album": {
+        "name": "don't miss me too much (remixes)",
+        "url": "https://open.spotify.com/album/3E1EF7PnT9AOtijAxG450q"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Aaron Redding",
+          "url": "https://open.spotify.com/artist/1kUNK3Uk9u4GSyXCyJmeXv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "don't miss me too much (Aaron Redding Remix)",
+      "url": "https://open.spotify.com/track/47N2vh7GLGtGrxE7xMBjoh"
     },
     {
       "album": {
@@ -1349,7 +1415,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
@@ -1415,7 +1481,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217036,
       "name": "Felt A Little Like",
       "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
@@ -2289,7 +2355,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176680,
       "name": "i'm hurting ! (deja-vu..)",
       "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
@@ -2455,7 +2521,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
@@ -3063,7 +3129,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD"
@@ -3608,6 +3674,24 @@
     },
     {
       "album": {
+        "name": "on my mind",
+        "url": "https://open.spotify.com/album/0Pqj9pIUFOi2f25hJQZcHh"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157461,
+      "name": "on my mind",
+      "url": "https://open.spotify.com/track/4tTgwybKE9Ybwj1CD0w7rD"
+    },
+    {
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -4055,7 +4139,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 162985,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1"
@@ -4644,6 +4728,32 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM"
+    },
+    {
+      "album": {
         "name": "Juvenile (Remixed)",
         "url": "https://open.spotify.com/album/5BmaIhl8UWLSYYyf2G1FMG"
       },
@@ -5161,7 +5271,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 120000,
       "name": "Thinking Of U",
       "url": "https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY"

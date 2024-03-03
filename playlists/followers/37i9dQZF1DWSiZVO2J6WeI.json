@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 776469,
+  "2024-03-03": 776491,
   "date_first_scraped": "2022-01-17",
   "description": "Hypnotic bliss.",
   "name": "Dreamy Vibes",
@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
@@ -2233,6 +2233,24 @@
       "duration_ms": 135600,
       "name": "Falleg",
       "url": "https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN"
+    },
+    {
+      "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139501,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea"
     },
     {
       "album": {
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 170624,
       "name": "Incondizionatamente",
       "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
@@ -5567,6 +5585,32 @@
       "duration_ms": 185750,
       "name": "Vi m\u00f8tes igjen",
       "url": "https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz"
+    },
+    {
+      "album": {
+        "name": "Viaje a la Serenidad Interior",
+        "url": "https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH"
+      },
+      "artists": [
+        {
+          "name": "Siame",
+          "url": "https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        },
+        {
+          "name": "Sleeping Eye",
+          "url": "https://open.spotify.com/artist/7dMgnhd87CgdkOoh9V5p1t"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129485,
+      "name": "Viaje a la Serenidad Interior",
+      "url": "https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx"
     },
     {
       "album": {

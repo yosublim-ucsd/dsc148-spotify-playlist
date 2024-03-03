@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415496,
+  "num_followers": 415501,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWY3NDJjZTRhNjQ5NWNmOTFiOGFmOGYyNDJjNDVmMGI5YzNkMzdi",
+  "snapshot_id": "MCxhYjkxOGMzZGU0MmYyZDFhZWIxZmUwZmNiZWI3ODIwYjFhZmQxZTlk",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Work Boots and More from Leather",
-        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 169013,
-      "name": "Work Boots",
-      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+        "name": "Work Boots and More from Leather",
+        "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+      "duration_ms": 169013,
+      "name": "Work Boots",
+      "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -995,26 +995,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Kick A Little",
-        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        },
-        {
-          "name": "Rodney Carrington",
-          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
-        },
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 227175,
-      "name": "Kick A Little",
-      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1079,18 +1071,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Kick A Little",
+        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "Rodney Carrington",
+          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
+        },
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 227175,
+      "name": "Kick A Little",
+      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Bottom of It",
-        "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 192743,
-      "name": "Bottom of It",
-      "url": "https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp"
+      "duration_ms": 179613,
+      "name": "Starts in a Bar",
+      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Bottom of It",
+        "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Starts in a Bar",
-      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
+      "duration_ms": 192743,
+      "name": "Bottom of It",
+      "url": "https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp"
     },
     {
       "added_at": "2024-03-01 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 29594,
+  "2024-03-03": 29597,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Qrion's track IDs",
@@ -123,6 +123,28 @@
       "duration_ms": 359024,
       "name": "ADSR - Extended Mix",
       "url": "https://open.spotify.com/track/62sKCTw9PDCX5nr7yWzd8h"
+    },
+    {
+      "album": {
+        "name": "Aircargo",
+        "url": "https://open.spotify.com/album/1RQ5sUC3WV3jMmNgsuw5ud"
+      },
+      "artists": [
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216377,
+      "name": "Aircargo",
+      "url": "https://open.spotify.com/track/5R1nDd34mok4mAzc1iFU0A"
     },
     {
       "album": {
@@ -369,7 +391,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 414773,
       "name": "Battle For Middle You - Maurice Donovan Dub",
       "url": "https://open.spotify.com/track/5OpDFyqbtDcWzLtakZhocn"
@@ -540,6 +562,24 @@
     },
     {
       "album": {
+        "name": "Memories Flowing",
+        "url": "https://open.spotify.com/album/4PwMMMwBBPVsIptFFXjriW"
+      },
+      "artists": [
+        {
+          "name": "Julio Victoria",
+          "url": "https://open.spotify.com/artist/5KNJ4i9KgTauTzDtrnki5O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315639,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/2Pxp1Pe5zQkoClW0l3jIEC"
+    },
+    {
+      "album": {
         "name": "Body Movin'",
         "url": "https://open.spotify.com/album/1wkjX7QnObM0Q5nzd4y09u"
       },
@@ -657,7 +697,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 340642,
       "name": "Bus",
       "url": "https://open.spotify.com/track/7hTKI86bzqfnKfxaOJiWdl"
@@ -687,6 +727,24 @@
       "duration_ms": 209767,
       "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
       "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
+    },
+    {
+      "album": {
+        "name": "Candidasa EP",
+        "url": "https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621398,
+      "name": "Candidasa",
+      "url": "https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU"
     },
     {
       "album": {
@@ -884,6 +942,42 @@
     },
     {
       "album": {
+        "name": "Cosy Mess",
+        "url": "https://open.spotify.com/album/56jgXhCKnRQe45rUVJeW9R"
+      },
+      "artists": [
+        {
+          "name": "Dachshund",
+          "url": "https://open.spotify.com/artist/0UusOWDKVBRFrZoKJdVuWv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418442,
+      "name": "Cosy Mess",
+      "url": "https://open.spotify.com/track/2FBAx59fNmeLJIFsfTqerc"
+    },
+    {
+      "album": {
+        "name": "Youth EP",
+        "url": "https://open.spotify.com/album/1atxySg6dkBJFJkIiCEwgn"
+      },
+      "artists": [
+        {
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215273,
+      "name": "Cyber Suit Suna",
+      "url": "https://open.spotify.com/track/74bOJCBmI8QcWl3Q9E3A7j"
+    },
+    {
+      "album": {
         "name": "Cynnes",
         "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
       },
@@ -913,7 +1007,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 136875,
       "name": "D4",
       "url": "https://open.spotify.com/track/5QGp8HF6J6h2Y4XlCdnexm"
@@ -935,6 +1029,24 @@
       "duration_ms": 240110,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/1aDd5ioq8tzscMo3tYVLfU"
+    },
+    {
+      "album": {
+        "name": "Daydream Repeat",
+        "url": "https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z"
     },
     {
       "album": {
@@ -997,7 +1109,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 259354,
       "name": "DEVOTION - Mansionair Remix",
       "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
@@ -1037,7 +1149,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 331200,
       "name": "Do Me - Peak Time Hour Mix",
       "url": "https://open.spotify.com/track/4bVQemOfUxsgqfVURtnPol"
@@ -1595,7 +1707,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 257647,
       "name": "Extra Time - Villager Remix",
       "url": "https://open.spotify.com/track/0a61d2OLk9gaDAi9gDr776"
@@ -2287,7 +2399,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 217622,
       "name": "Hours",
       "url": "https://open.spotify.com/track/7HVrblhM5xKEx5BO4ONClM"
@@ -2371,7 +2483,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 368613,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/2MfaHhtlFNm4HBJ63P47t4"
@@ -2979,7 +3091,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT"
@@ -3389,7 +3501,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 245715,
       "name": "My Body - TR711",
       "url": "https://open.spotify.com/track/7GNbe0rliPf0O3GyMxew5s"
@@ -3687,7 +3799,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167560,
       "name": "Ohh Baby - David Tort's Dub Tech Mix - Mixed",
       "url": "https://open.spotify.com/track/3ptuqk51FuN2SHB1g9cmW8"
@@ -3855,6 +3967,24 @@
       "duration_ms": 372924,
       "name": "Peace of Mind (Electrosoul)",
       "url": "https://open.spotify.com/track/1VwVBoAHTtKYAqv4Qw1sWN"
+    },
+    {
+      "album": {
+        "name": "Penguin Love Theory",
+        "url": "https://open.spotify.com/album/3EEBi4BV92v9Gbfhx1la7l"
+      },
+      "artists": [
+        {
+          "name": "Archie Ward",
+          "url": "https://open.spotify.com/artist/18KynPUlZ6UHjikJs1uDaA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313493,
+      "name": "Penguin Love Theory",
+      "url": "https://open.spotify.com/track/3bzJhJH6nAzXXdMrxgUOvV"
     },
     {
       "album": {
@@ -4051,6 +4181,32 @@
       "duration_ms": 193864,
       "name": "Proud - Dance System Remix",
       "url": "https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk"
+    },
+    {
+      "album": {
+        "name": "Odysseya",
+        "url": "https://open.spotify.com/album/6AP5oYmAsxdJ4GN3n99fTP"
+      },
+      "artists": [
+        {
+          "name": "M.O.S.",
+          "url": "https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR"
+        },
+        {
+          "name": "Krasa Rosa",
+          "url": "https://open.spotify.com/artist/1RCR5qSXHhPDUoXbv3uUFA"
+        },
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226229,
+      "name": "Purple Sky",
+      "url": "https://open.spotify.com/track/5HfUiLgywaO81gaq2DIx1M"
     },
     {
       "album": {
@@ -4374,6 +4530,24 @@
     },
     {
       "album": {
+        "name": "Picture: Rafael Cerato",
+        "url": "https://open.spotify.com/album/5UBuSzoAu1c2Bw9heEV6DH"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304069,
+      "name": "Say Stop!",
+      "url": "https://open.spotify.com/track/2Z3O2aGJemrtDNSP3v9GlP"
+    },
+    {
+      "album": {
         "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
@@ -4407,6 +4581,28 @@
       "duration_ms": 257424,
       "name": "Seven Six Four",
       "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
+    },
+    {
+      "album": {
+        "name": "Shadows (Paige Remix)",
+        "url": "https://open.spotify.com/album/5kbwIf0iCyPpdqVcIYUJle"
+      },
+      "artists": [
+        {
+          "name": "Michael Anthony",
+          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285245,
+      "name": "Shadows - Paige Remix",
+      "url": "https://open.spotify.com/track/5DPQoGmC0Y759nPGPMMH8Z"
     },
     {
       "album": {
@@ -4531,6 +4727,24 @@
       "duration_ms": 207761,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX"
+    },
+    {
+      "album": {
+        "name": "So... / Outlandos",
+        "url": "https://open.spotify.com/album/4LdWDOzd1BAgwHlz2oOybp"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "So...",
+      "url": "https://open.spotify.com/track/08yr7AX1DLnfewURbJ8S3f"
     },
     {
       "album": {
@@ -4802,6 +5016,28 @@
     },
     {
       "album": {
+        "name": "Sunlight (Rodriguez Jr. Remix)",
+        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199897,
+      "name": "Sunlight - Rodriguez Jr. Remix",
+      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+    },
+    {
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/0Om4E8TRz7Qm7cbC9xScIh"
       },
@@ -4966,6 +5202,24 @@
     },
     {
       "album": {
+        "name": "the fair",
+        "url": "https://open.spotify.com/album/6IeQJ3fXhUKR7ICzUKraVs"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256756,
+      "name": "the fair",
+      "url": "https://open.spotify.com/track/64VMZMSIpzvU78yYw0wXwX"
+    },
+    {
+      "album": {
         "name": "The Freaks Come Out",
         "url": "https://open.spotify.com/album/7qejz62btlQ5SxoQ0CRQTX"
       },
@@ -5071,7 +5325,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 303500,
       "name": "Throw It All",
       "url": "https://open.spotify.com/track/1aOvZ3oLEOOSTUppmrn12e"
@@ -5125,7 +5379,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 335601,
       "name": "Toca's Miracle - 2000 Extended Mix",
       "url": "https://open.spotify.com/track/2u0FbV7bVEsuz2EkpLwKJQ"
@@ -5261,6 +5515,24 @@
       "duration_ms": 250338,
       "name": "Vajkoczy",
       "url": "https://open.spotify.com/track/3KmzZk1OtrY7eNvAliEaiP"
+    },
+    {
+      "album": {
+        "name": "Vanarama Bar",
+        "url": "https://open.spotify.com/album/2uNcWz0zhKreecD9LsbrZR"
+      },
+      "artists": [
+        {
+          "name": "Edmondson",
+          "url": "https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315846,
+      "name": "Vanarama Bar",
+      "url": "https://open.spotify.com/track/4a5ORv1f6smQPftOhIiB2J"
     },
     {
       "album": {
@@ -5653,7 +5925,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 371076,
       "name": "Work - CVMPANILE & Draxx Extended Remix",
       "url": "https://open.spotify.com/track/5DZccyNEsfrSWTP02aWMrU"

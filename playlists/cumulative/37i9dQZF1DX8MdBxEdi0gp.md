@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-224 songs - 12 hr 38 min
+225 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dónde Estás Corazón?](https://open.spotify.com/track/6mIqd7D0OQZn1Fn3UoBdRW) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Personalidad](https://open.spotify.com/album/2Z3yiPCELhCreq4tgPqK9O) | 3:57 | 2024-02-23 |  |
 | [El Andariego](https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:29 | 2024-02-23 |  |
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-12-30 |  |
-| [El cariño que perdí](https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 3:26 | 2022-05-10 |  |
+| [El cariño que perdí](https://open.spotify.com/track/0xLGntT2SAng3TPNYS9RVw) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 3:26 | 2022-05-10 | 2024-03-03 |
 | [El Corazon Es Un Gitano](https://open.spotify.com/track/7nxkNNVzWpuoBHSBoeKoYJ) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [15 Exitos En Espanol](https://open.spotify.com/album/7M4jG2ZAe19dGO8K2b8A9Q) | 3:17 | 2022-12-30 |  |
 | [El Me Mintio](https://open.spotify.com/track/6lpN3TX92cxKtQE1plZdqe) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [Despecho.](https://open.spotify.com/album/1bxSBwa6ryIQFNbC67dwNT) | 3:41 | 2022-05-10 | 2022-11-13 |
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/3DWkS3HT9Z0kE4z1tMGxaJ) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [15 Canciones Favoritas](https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C) | 3:28 | 2022-05-10 | 2022-12-31 |
@@ -190,6 +190,7 @@
 | [Qué Ironía](https://open.spotify.com/track/1iYMRwuL9vFX1R8hPAOtpi) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Sus Grandes Exitos](https://open.spotify.com/album/2Lc1RuuE6ODJ32UTX3JL6W) | 3:14 | 2022-05-10 | 2022-07-29 |
 | [Rayando el Sol](https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:10 | 2022-05-10 |  |
 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 | 2022-05-10 |  |
+| [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 | 2024-02-23 |  |
 | [Rondando Tu Esquina](https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 2:38 | 2024-02-23 |  |
 | [Rosas en el Mar](https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 3:47 | 2023-06-23 |  |
 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2022-05-10 |  |

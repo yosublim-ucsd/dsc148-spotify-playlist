@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,115 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,117 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 | 100 | [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 |
 
-Snapshot ID: `MCwyNzM4OTk0NGE4Y2Q0ODBkN2VmMmRmY2RmODVhOTI4OWQ3NTEzZTU1`
+Snapshot ID: `MCwyOTMzMDNlMTUwOTUwOTg3YmViYzBmNDQ2MmFiNTU0MzAwYWFiODAw`

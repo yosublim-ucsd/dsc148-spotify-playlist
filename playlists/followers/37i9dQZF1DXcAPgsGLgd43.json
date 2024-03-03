@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 3964,
+  "2024-03-03": 3966,
   "date_first_scraped": "2022-05-13",
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
   "name": "Alma",
@@ -131,6 +131,24 @@
       "duration_ms": 168538,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
+    },
+    {
+      "album": {
+        "name": "Ay",
+        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246027,
+      "name": "Ay",
+      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
     },
     {
       "album": {
@@ -485,7 +503,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
@@ -547,10 +565,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "album": {
@@ -715,7 +755,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160000,
       "name": "Casa de Techa",
       "url": "https://open.spotify.com/track/3Lv1oCP6Tsl0mPpC31KrsL"
@@ -1220,6 +1260,32 @@
     },
     {
       "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        },
+        {
+          "name": "Joelii",
+          "url": "https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
       },
@@ -1253,6 +1319,32 @@
       "duration_ms": 228214,
       "name": "Ecua",
       "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
+    },
+    {
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "album": {
@@ -2635,7 +2727,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
@@ -2679,6 +2771,28 @@
       "duration_ms": 201000,
       "name": "Pasilda",
       "url": "https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LATIN MAFIA (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LATIN MAFIA - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {
@@ -2831,7 +2945,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 126707,
       "name": "Quema Quema",
       "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,956 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,044 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
 | 75 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 |
 
-Snapshot ID: `MCw5ZDYwMjIwOGZjOTAzYTY5YzRkMDhjZTZkYzE4ZDc3ZjExYzkxOGI1`
+Snapshot ID: `MCw5ZGEwOTc1MjU5OGI4YzIwZGM1YmM4NWRkYjBjMTY5MmNlOWRmMWM3`

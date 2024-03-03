@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-244 songs - 22 hr 31 min
+245 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 | 2023-11-03 |
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 | 2023-11-03 |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2019-09-24 |  |
+| [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 | 2023-12-15 |  |
 | [We Fall Down \- Live](https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 4:53 | 2018-09-23 | 2023-11-03 |
 | [We Pray for More \(Live\)](https://open.spotify.com/track/3qHDG3DutLqetn3UimelYA) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:03 | 2019-04-30 | 2023-04-10 |
 | [We Pray for More \- Live](https://open.spotify.com/track/0eCtSZMAc4O3HGBmDpl1An) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:03 | 2023-02-21 | 2023-11-03 |
@@ -228,7 +229,7 @@
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 7:29 | 2020-03-31 | 2023-04-14 |
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/5X1UuCoUPxUKL2w81YGN6l) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 7:29 | 2020-03-31 | 2022-11-13 |
 | [Work It Out](https://open.spotify.com/track/5pol8d0lIHv6664Ow4l9XE) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE), [Julanie J](https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD) | [Work It Out](https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV) | 3:04 | 2023-09-15 | 2023-11-03 |
-| [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 | 2023-12-15 |  |
+| [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 | 2023-12-15 | 2024-03-03 |
 | [Wozani Zindlamafa](https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wozani Zindlamafa](https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4) | 4:00 | 2023-09-08 | 2023-11-03 |
 | [WWDD](https://open.spotify.com/track/0sLlBhCGDwMAZKcI53wFty) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO), [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO), [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [WWDD](https://open.spotify.com/album/4tnH6o0fTcjtUBZNrCmvry) | 2:20 | 2022-03-17 | 2023-04-28 |
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2023-06-23 | 2023-12-15 |

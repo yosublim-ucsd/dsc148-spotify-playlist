@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 41959,
+  "num_followers": 42016,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjUwZjE2NTU5NGNlZTVlNzdjNGRhYmM3M2I4NDVhNjUxMDA1NTBh",
+  "snapshot_id": "MCwxZjUwZGRlNDBmYmZjZjE5NDExZmVlY2ZiOWJkZTFiNWIwZWRlYWM0",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Yet",
-        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
       "artists": [
         {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 302042,
-      "name": "Yet",
-      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
+      "duration_ms": 297693,
+      "name": "Goodness of God - Live",
+      "url": "https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "Yet",
+        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
         }
       ],
-      "duration_ms": 297693,
-      "name": "Goodness of God - Live",
-      "url": "https://open.spotify.com/track/6vXOAkNQQ1KLmnC7vGYA0c"
+      "duration_ms": 302042,
+      "name": "Yet",
+      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "How To Start A Housefire (Pt. III)",
-        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+        "name": "Way Too Good",
+        "url": "https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
         }
       ],
-      "duration_ms": 415598,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+      "duration_ms": 161454,
+      "name": "Way Too Good",
+      "url": "https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf"
     }
   ],
   "unique_name": "Gospel Greatness",

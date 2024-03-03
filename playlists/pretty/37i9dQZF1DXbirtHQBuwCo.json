@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BIBI)",
-  "num_followers": 986138,
+  "num_followers": 986161,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM0ZGM0YjUyN2JjZGQ0MDc5YjllMjlhYmYwMDY1YTE4YWZhZTk3",
+  "snapshot_id": "MCxhYzhmMGJjMDI4MjUyZWI1ZTgyMmE0ZmEzZjFkNTMxZTNiNzMyYTVh",
   "tracks": [
     {
       "added_at": "2024-02-13 09:00:00",
@@ -591,30 +591,22 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
       },
       "artists": [
         {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
         },
         {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -671,22 +663,30 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
         },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
+      "duration_ms": 235413,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
     },
     {
       "added_at": "2024-02-13 09:00:00",

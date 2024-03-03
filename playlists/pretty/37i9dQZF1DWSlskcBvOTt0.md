@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,068 likes - 125 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,279 likes - 125 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
 | 125 | [Lean Into The Sunshine](https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5) | [Lean Into The Sunshine](https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k) | 6:06 |
 
-Snapshot ID: `MCw0OTBhNzcyYzhjMzg2YjRhYzVjOTZhNDk5OTE3MzBhMThkZWI0YTFi`
+Snapshot ID: `MCw5MGU5ZGYwMGRiMDZiZmIwN2EwYmFjZjQ4NDRiNTIyOTE1ODkzZWZj`

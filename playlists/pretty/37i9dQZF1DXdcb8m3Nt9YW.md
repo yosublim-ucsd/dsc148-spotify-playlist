@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Marca MP en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,310 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,455 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 |
 | 2 | [Polvo Soy](https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI) | 2:53 |
 | 3 | [Que Me Importa](https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Que Me Importa](https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI) | 3:28 |
-| 4 | [El Rápido](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
+| 4 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
 | 5 | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Banda La Experta](https://open.spotify.com/artist/3fptmCH7rgFpe0Iw6fsor5) | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/album/6kpfWnsv0yxILzTonbcnWP) | 2:42 |
 | 6 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 7 | [Los Sicarios de Joaquín \(En Vivo\)](https://open.spotify.com/track/0GQuMOVI5kqgcWhy3iOPSJ) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Culiacán Deluxe 2 \(En Vivo\)](https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU) | 4:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [La Vitoliza \- En Vivo](https://open.spotify.com/track/78XH3FhZuGedHP5vmH1z9K) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Vitoliza \(En Vivo\)](https://open.spotify.com/album/0yOUmmISiNvYFN79OA58Tz) | 2:59 |
 | 75 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
 
-Snapshot ID: `MCw2N2U2MTMyODRjMWZiZDFmMjdjM2ZjMzNkNDg2YzAyZWY3ODNkYWYy`
+Snapshot ID: `MCw2MDJhOGY2NDc0ODgwZjdmYWE0M2JlYmY5YzlmNmQwMDNiYzUwZGUy`

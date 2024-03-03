@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 107026,
+  "2024-03-03": 107019,
   "date_first_scraped": "2023-12-14",
   "description": "Start your morning right with this collection of songs! Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_GoodMorning_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
   "name": "Good Morning Music",
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174632,
       "name": "Liar Liar (Feat. Bastille)",
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
@@ -1312,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Need Nothing",
+        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147825,
+      "name": "Need Nothing",
+      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
+    },
+    {
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
       },
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187615,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231333,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL"
@@ -1679,6 +1697,24 @@
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },
     {
       "album": {
@@ -1991,6 +2027,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Who Do I Call Now? (Hellbent)",
+        "url": "https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "Who Do I Call Now? (Hellbent)",
+      "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
     },
     {
       "album": {

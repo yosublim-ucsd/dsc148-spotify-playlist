@@ -2505,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        },
+        {
+          "name": "Hillary Lindsey",
+          "url": "https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167437,
+      "name": "Killing Me (feat. Hillary Lindsey)",
+      "url": "https://open.spotify.com/track/6JKSR71t1mLlLYBC8eF1gf"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here",
         "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },

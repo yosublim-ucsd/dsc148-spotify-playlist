@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 78667,
+  "num_followers": 78661,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjNjODUzNjM3MTRhNTVjMmVmNGJhNDExNGU1MjU4ZTE2YjczOGJj",
+  "snapshot_id": "MCxmNjYwNTMzMTAzMDZiZTM0NzliYTEzOTg2NmI0OTk1NWY1MGQ3Yzll",
   "tracks": [
     {
       "added_at": "2023-12-15 05:18:31",
@@ -207,18 +207,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Receive Our King",
-        "url": "https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy"
+        "name": "O Come, O Come Emmanuel (feat. IAMSON)",
+        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
       },
       "artists": [
         {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "iAmSon",
+          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
         }
       ],
-      "duration_ms": 248268,
-      "name": "Come Thou Long Expected Jesus",
-      "url": "https://open.spotify.com/track/177jEwUqgmdmw6uccm6SfJ"
+      "duration_ms": 207906,
+      "name": "O Come, O Come Emmanuel (feat. IAMSON)",
+      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -239,22 +243,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "O Come, O Come Emmanuel (feat. IAMSON)",
-        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
+        "name": "Receive Our King",
+        "url": "https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "iAmSon",
-          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
         }
       ],
-      "duration_ms": 207906,
-      "name": "O Come, O Come Emmanuel (feat. IAMSON)",
-      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
+      "duration_ms": 248268,
+      "name": "Come Thou Long Expected Jesus",
+      "url": "https://open.spotify.com/track/177jEwUqgmdmw6uccm6SfJ"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Behold Messiah",
-        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
+        "name": "Before the King",
+        "url": "https://open.spotify.com/album/2h1OcTgV8kOHmgDt9L9iZA"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Saddleback Worship",
+          "url": "https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD"
+        },
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
         }
       ],
-      "duration_ms": 316386,
-      "name": "Behold Messiah",
-      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
+      "duration_ms": 281323,
+      "name": "Before the King",
+      "url": "https://open.spotify.com/track/7ncXTtHMsR1BI6GjHG9mxk"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Before the King",
-        "url": "https://open.spotify.com/album/2h1OcTgV8kOHmgDt9L9iZA"
+        "name": "Behold Messiah",
+        "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
       },
       "artists": [
         {
-          "name": "Saddleback Worship",
-          "url": "https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD"
-        },
-        {
-          "name": "Madison Watkins",
-          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 281323,
-      "name": "Before the King",
-      "url": "https://open.spotify.com/track/7ncXTtHMsR1BI6GjHG9mxk"
+      "duration_ms": 316386,
+      "name": "Behold Messiah",
+      "url": "https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "Let Love Be The Gift",
+        "url": "https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD"
+      },
+      "artists": [
+        {
+          "name": "Trinity (NL)",
+          "url": "https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "Let Love Be The Gift",
+      "url": "https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Hope Has A Name",
         "url": "https://open.spotify.com/album/33GHItPpQKdgbwPn3oYEGY"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Let Love Be The Gift",
-        "url": "https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD"
-      },
-      "artists": [
-        {
-          "name": "Trinity (NL)",
-          "url": "https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "Let Love Be The Gift",
-      "url": "https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "This Is Christmas",
         "url": "https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 210586,
       "name": "This Is Christmas",
       "url": "https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Christmas Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1295,6 +1279,22 @@
       "duration_ms": 219219,
       "name": "Crown Him With Glory",
       "url": "https://open.spotify.com/track/7Fsu6PtkB1wTd4p2VvIxGj"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Christmas Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "O Come All Ye Faithful (Adore Him)",
+        "url": "https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 279661,
+      "name": "O Come All Ye Faithful (Adore Him)",
+      "url": "https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Let Us Adore Him",
         "url": "https://open.spotify.com/album/6f0fTAKkqIr8cvikTUABV8"
       },
@@ -1663,18 +1679,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "O Come All Ye Faithful (Adore Him)",
-        "url": "https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP"
+        "name": "Advent: Here Now",
+        "url": "https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Abby Vaughn",
+          "url": "https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn"
         }
       ],
-      "duration_ms": 279661,
-      "name": "O Come All Ye Faithful (Adore Him)",
-      "url": "https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr"
+      "duration_ms": 259946,
+      "name": "Prince of Peace (feat. Abby Vaughn)",
+      "url": "https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -1695,26 +1715,6 @@
       "duration_ms": 307261,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/1hLl0Y2I0EXT0umZha8IzW"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Advent: Here Now",
-        "url": "https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Abby Vaughn",
-          "url": "https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Prince of Peace (feat. Abby Vaughn)",
-      "url": "https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "Christ Has Come",
+        "url": "https://open.spotify.com/album/6W4sy3YeZUtTbljn7eFC0p"
+      },
+      "artists": [
+        {
+          "name": "Journey Worship Co.",
+          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+        }
+      ],
+      "duration_ms": 242900,
+      "name": "O Come, O Come Emmanuel (Christ Has Come)",
+      "url": "https://open.spotify.com/track/4NecbctVwdB59CiVjnqsj8"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/0QYMpmSoMUP0zsiqNG3olM"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 289574,
       "name": "Where Is Our King?",
       "url": "https://open.spotify.com/track/5JGMcK2svgA4INnAeZmKuw"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Christ Has Come",
-        "url": "https://open.spotify.com/album/6W4sy3YeZUtTbljn7eFC0p"
-      },
-      "artists": [
-        {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
-        }
-      ],
-      "duration_ms": 242900,
-      "name": "O Come, O Come Emmanuel (Christ Has Come)",
-      "url": "https://open.spotify.com/track/4NecbctVwdB59CiVjnqsj8"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "The Wait Is Over Now",
-        "url": "https://open.spotify.com/album/1mSqdGyk0ey5Khaa35Ipvl"
-      },
-      "artists": [
-        {
-          "name": "Renew Creative",
-          "url": "https://open.spotify.com/artist/5Ks6NwwU5TV0rraF5BOfou"
-        }
-      ],
-      "duration_ms": 266578,
-      "name": "The Wait Is Over Now",
-      "url": "https://open.spotify.com/track/7KEqXN1PZWVmwDYu4k8oF7"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Christmas Communion Song",
         "url": "https://open.spotify.com/album/65bpURdf9c5lcBJBp9it8s"
       },
@@ -2283,22 +2267,18 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Angels We Have Heard On High",
-        "url": "https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP"
+        "name": "The Wait Is Over Now",
+        "url": "https://open.spotify.com/album/1mSqdGyk0ey5Khaa35Ipvl"
       },
       "artists": [
         {
-          "name": "Kingdom Kids",
-          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Renew Creative",
+          "url": "https://open.spotify.com/artist/5Ks6NwwU5TV0rraF5BOfou"
         }
       ],
-      "duration_ms": 197172,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb"
+      "duration_ms": 266578,
+      "name": "The Wait Is Over Now",
+      "url": "https://open.spotify.com/track/7KEqXN1PZWVmwDYu4k8oF7"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2315,6 +2295,26 @@
       "duration_ms": 223058,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "Light Has Come",
-        "url": "https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj"
-      },
-      "artists": [
-        {
-          "name": "New City Collective",
-          "url": "https://open.spotify.com/artist/77LpqlVxuQD1IySatLFg1s"
-        },
-        {
-          "name": "Dave Aubrey",
-          "url": "https://open.spotify.com/artist/0uwvIQev84qq1NOWeqntBg"
-        }
-      ],
-      "duration_ms": 344036,
-      "name": "Light Has Come",
-      "url": "https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Adore Him (Vineyard Worship Christmas)",
         "url": "https://open.spotify.com/album/2RCocGj4TJb3vs9goPVnVG"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 360704,
       "name": "A Great Light",
       "url": "https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Light Has Come",
+        "url": "https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj"
+      },
+      "artists": [
+        {
+          "name": "New City Collective",
+          "url": "https://open.spotify.com/artist/77LpqlVxuQD1IySatLFg1s"
+        },
+        {
+          "name": "Dave Aubrey",
+          "url": "https://open.spotify.com/artist/0uwvIQev84qq1NOWeqntBg"
+        }
+      ],
+      "duration_ms": 344036,
+      "name": "Light Has Come",
+      "url": "https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/7tftkpue2KmWcLOpq3eUeA"
-      },
-      "artists": [
-        {
-          "name": "Todd McVicker",
-          "url": "https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo"
-        }
-      ],
-      "duration_ms": 334759,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/1heoTv5JychgABJHqbMEqB"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
         "name": "Emmanuel (Rejoice!) [Studio Version]",
         "url": "https://open.spotify.com/album/0Kx1kWhX24kBUUCcspFTkV"
       },
@@ -2539,6 +2523,22 @@
     {
       "added_at": "2023-12-15 05:18:31",
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/7tftkpue2KmWcLOpq3eUeA"
+      },
+      "artists": [
+        {
+          "name": "Todd McVicker",
+          "url": "https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo"
+        }
+      ],
+      "duration_ms": 334759,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/1heoTv5JychgABJHqbMEqB"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
         "name": "Christmas Past",
         "url": "https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo"
       },
@@ -2551,6 +2551,22 @@
       "duration_ms": 388475,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE"
+    },
+    {
+      "added_at": "2023-12-15 05:18:31",
+      "album": {
+        "name": "Good Christian Men Rejoice (Born to Reign)",
+        "url": "https://open.spotify.com/album/2WP3QY0LZcOTwzTxMj12jn"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 212039,
+      "name": "Good Christian Men Rejoice (Born to Reign)",
+      "url": "https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp"
     },
     {
       "added_at": "2023-12-15 05:18:31",
@@ -2571,22 +2587,6 @@
       "duration_ms": 325314,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ"
-    },
-    {
-      "added_at": "2023-12-15 05:18:31",
-      "album": {
-        "name": "Good Christian Men Rejoice (Born to Reign)",
-        "url": "https://open.spotify.com/album/2WP3QY0LZcOTwzTxMj12jn"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 212039,
-      "name": "Good Christian Men Rejoice (Born to Reign)",
-      "url": "https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp"
     },
     {
       "added_at": "2023-12-15 05:18:31",

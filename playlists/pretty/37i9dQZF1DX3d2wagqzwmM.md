@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Maddix
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,618 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,039 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 33 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 |
 | 34 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 35 | [Pump Up The Jam](https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Pump Up The Jam](https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x) | 2:36 |
-| 36 | [Fuego](https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Fuego](https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX) | 2:32 |
+| 36 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 |
 | 37 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 |
 | 38 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 |
 | 39 | [Party With The Cops \(feat\. Haley Maze\)](https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Party With The Cops \(feat\. Haley Maze\)](https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB) | 2:38 |
 | 40 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
 | 41 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 |
-| 42 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 |
+| 42 | [Fuego](https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Fuego](https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX) | 2:32 |
 | 43 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 |
 | 44 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 |
 | 45 | [When We Come Alive](https://open.spotify.com/track/0g2XaTyNihXISfqnhuv7HH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [When We Come Alive](https://open.spotify.com/album/3SLVzlIVvgjPdRqkc58WA1) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 |
 | 80 | [Flight 303](https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:34 |
 
-Snapshot ID: `MCwyM2M4MTExYjBjOTRkNTZmODMwNDE5ZGRlMTAwNzUwNjllMWI2NzM0`
+Snapshot ID: `MCxiYWNlY2RmMmYwOGNjY2Q1NDE3MWRlZmY2MGFjNjhiMDcyZjQyNzRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,255 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,248 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 100 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
 
-Snapshot ID: `MCw0ZDNkNWE1OGE2MjViZmUyMmVjYzU5NjZiZDA0YTMwZGNlNmVkNDM3`
+Snapshot ID: `MCw0YzE1YzFmZDE1ZDdlN2IyNTQxNDkyMWNkMjcyNzFmOTM3OTFmMzc4`

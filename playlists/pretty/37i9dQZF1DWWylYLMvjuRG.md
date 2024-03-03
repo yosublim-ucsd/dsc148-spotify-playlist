@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,413 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,148 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 |
 | 150 | [Kiss and Make Up](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:09 |
 
-Snapshot ID: `MCwwNzU0MTM5Mjg2YzRkZTljZjEzZjEzMGVmNDE1YjU5YzcwZDYyZTBm`
+Snapshot ID: `MCw5MDE5MDBlYjJhYzYyOTQ4MDY2NmYyNWJkZTRiMzdjMWY5MDAwNTBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Espineli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,864 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,867 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [veneno en la sangre](https://open.spotify.com/track/5p5og9geOVzlkR2g5AOSoM) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Hardemtk](https://open.spotify.com/artist/60iePhTal0d6zD6mvtd31a) | [veneno en la sangre](https://open.spotify.com/album/22eSIaqgh73sLWnPPleISM) | 2:44 |
 | 75 | [Mi Música Es Muy Triste](https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Mi Música Es Muy Triste](https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk) | 3:33 |
 
-Snapshot ID: `MCwwZjc5Y2Y3NWEyZWViOTUwMjZmYzJjMGU2Y2FmYzE4ZjMxYjE5YmIz`
+Snapshot ID: `MCxjMGQ4MTUwMGFmNDRkNjg5YzFkZGI5OGRhODhjZDJmY2U0MmJlMmVl`

@@ -4,7 +4,7 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 11 min
+80 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2021 y Yo Que Te Amo / Me Encantaría](https://open.spotify.com/track/3vsdKoBJXbWpjvNjV3mVGP) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:43 | 2023-12-16 |  |
 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 | 2022-06-01 |  |
 | [Amor Compartido](https://open.spotify.com/track/0pyuUsxcuBPBEw6x8pAiXt) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Te Pediré Perdón](https://open.spotify.com/album/007n6PgM8fVRXBPbxw8dmh) | 3:13 | 2022-06-03 | 2022-06-07 |
-| [Amándome](https://open.spotify.com/track/126Y0xmvil0XsIGPhwXGoE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:03 | 2022-06-01 |  |
+| [Amándome](https://open.spotify.com/track/126Y0xmvil0XsIGPhwXGoE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:03 | 2022-06-01 | 2024-03-03 |
+| [Amándome](https://open.spotify.com/track/6IQFBLzWfJe5PGKnAfqaUc) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:03 | 2024-03-02 |  |
 | [Bola de Cristal](https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Bola de Cristal](https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg) | 3:10 | 2022-06-01 | 2022-10-13 |
 | [Chiquilina](https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:22 | 2022-06-03 |  |
 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 | 2022-06-01 |  |

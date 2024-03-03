@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Miley Cyrus</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=yfLgwajCQv6oRJ6vNfOFTQ">Pharrell Williams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,615 likes - 74 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,657 likes - 74 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 67 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
 | 68 | [Mbali \(feat\. Sonini, AMAQHAWE, T&T MuziQ, TORQUE MUZIQ\)](https://open.spotify.com/track/5gQNqyBT5FF8lMo9rW7MN2) | [Pushkin RSA](https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7), [Springle](https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F), [AMAQHAWE](https://open.spotify.com/artist/7l99PveYdDE2REAMKj0IZr), [Sonini](https://open.spotify.com/artist/6i3IBdJpZ6MCETwDoU2Z6U), [T&T Muziq](https://open.spotify.com/artist/7osVqUbV5Qb0egnEEnldCS), [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK) | [Mbali \(feat\. Sonini, AMAQHAWE, T&T MuziQ, TORQUE MUZIQ\)](https://open.spotify.com/album/3osOAiU5vkyD5HIoz5lxj8) | 6:28 |
 | 69 | [The Destination](https://open.spotify.com/track/7zkl7cICVdCbLmYlv2xC6y) | [ThackzinDJ](https://open.spotify.com/artist/0bklXcSWnh72t6Uo1RPeGA), [King Caro](https://open.spotify.com/artist/2CrHqEwLg45lbJBFOcRurn) | [The Destination](https://open.spotify.com/album/6TBz1tReei7gePdWimEaIj) | 8:40 |
-| 70 | [BLUE BUCKS](https://open.spotify.com/track/5LtgqjrKPRbtNoQOlbSEPb) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Flow Jones Jr.](https://open.spotify.com/artist/0HWj38yk21UB1HVEwLOxk5) | [BLUE BUCKS](https://open.spotify.com/album/2nTUxIvXdNfstG2dJYbEDd) | 4:03 |
+| 70 | [BLUE BUCKS](https://open.spotify.com/track/5LtgqjrKPRbtNoQOlbSEPb) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [BLUE BUCKS](https://open.spotify.com/album/2nTUxIvXdNfstG2dJYbEDd) | 4:03 |
 | 71 | [DANCING ALONE](https://open.spotify.com/track/0gm4ZGE4DtAVpnJD1Tad8Z) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [DANCING ALONE](https://open.spotify.com/album/4gklkL65scya4vEnQO07ph) | 3:48 |
 | 72 | [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 |
 | 73 | [Like Me](https://open.spotify.com/track/6nMKU3uNB9Q7bk80XKUh8G) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Like Me](https://open.spotify.com/album/2ZAeVAkYsJ5XACYVz7my0c) | 2:17 |
 | 74 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
 
-Snapshot ID: `MCxiODZmMWM4MjU0NTM5NzM0MTlhYjMzMTg0N2Q3ZWZhNDliZmM1YjVj`
+Snapshot ID: `MCwxYmVlNzMyNWMzMzZjYTM5YmY0MTg5NGMwNGYxOWM4YTQ3ZDZmMDY5`

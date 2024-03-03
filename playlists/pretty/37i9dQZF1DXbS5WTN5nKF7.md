@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Pierre Garnier
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,148 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,539 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Beautiful Lie](https://open.spotify.com/track/1W147JEUECRYopp1Rk7SXA) | [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Devon Graves](https://open.spotify.com/artist/1VQkGVKVLNGASF2KeMuDIC), [Grynn](https://open.spotify.com/artist/0E8chKPQ2q0t3HoA4zwYdF) | [Beautiful Lie](https://open.spotify.com/album/24J1DyKLtvgZPeJhcwj12D) | 2:28 |
 | 50 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 |
 
-Snapshot ID: `MCw0YmVmZWRjYzMxOTg5NTdhYjQ4Y2U1NDIyMzU1MzE2MDI5ZmQwNjIy`
+Snapshot ID: `MCw4MDlhOTdmYmM0YmEwZjI4ZjM3NTM5N2IzMTg0ZmRiODdmYTk4MjU0`

@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Eagle
 
-196 songs - 12 hr 48 min
+197 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 | 2022-11-09 | 2023-06-20 |
 | [Kalaya Nijama](https://open.spotify.com/track/449KstCGC8xXHe8M0MFheQ) | [Mohith Rahmanic](https://open.spotify.com/artist/2yDSpzLmRIgYdUDSmMK1X9), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Calling Sahasra](https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je) | 3:40 | 2023-06-09 |  |
 | [Kalisunte](https://open.spotify.com/track/4DHBiVL29RhEhRObEsH8Yl) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1P9HsznpbvQ9z4Kbo5lq6w) | 3:15 | 2022-10-23 | 2023-04-25 |
-| [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Kallatho Kaatesinave \(From "Rudramkota"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0k6PpEYhxbIMQmJNEmMNLp) | 4:39 | 2023-09-16 |  |
+| [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Kallatho Kaatesinave \(From "Rudramkota"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0k6PpEYhxbIMQmJNEmMNLp) | 4:39 | 2023-09-16 | 2024-03-03 |
+| [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb) | [U.V.Niranjan](https://open.spotify.com/artist/1HhXD7tI767VTOcesD5fRf), [Vinod Kumar](https://open.spotify.com/artist/7uqmh3Pn62x0o8whff0egz), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Kallatho Kaatesinave \(From "Rudramkota"\)](https://open.spotify.com/album/6i6vtXVWJb6LIZlL36t5XN) | 4:39 | 2023-09-16 |  |
 | [Kandireega Kalla](https://open.spotify.com/track/16Yk3jO1UJDiPwP31jOdzr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Popcorn](https://open.spotify.com/album/6ktdg1rJf5ovG876PbWZ5G) | 2:24 | 2023-01-31 | 2023-02-21 |
 | [Kannullo Nee Roopame \(From "Writer Padmabhushan"\)](https://open.spotify.com/track/5dXAfDef0gL08Z1ZLYRkil) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Kannullo Nee Roopame \(From "Writer Padmabhushan"\)](https://open.spotify.com/album/6RdPWLc1eRINEDS7CzuiLF) | 3:58 | 2022-07-10 | 2023-04-25 |
 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 | 2023-03-03 | 2024-02-10 |

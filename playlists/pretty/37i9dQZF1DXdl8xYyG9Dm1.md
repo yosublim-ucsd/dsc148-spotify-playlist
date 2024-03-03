@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw"> Black Sherif</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,941 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,096 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
 | 70 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 
-Snapshot ID: `MCw3ZjM2MGJkNTczYmI2OWE2NjMzYjRlOWZmN2MwMTY3MTdmZTZkYTdi`
+Snapshot ID: `MCxlODRhODg3ZTE2Y2M4MGMyNTQxMmEyZTY5MzVjZThmMDVmNjM5MmY4`

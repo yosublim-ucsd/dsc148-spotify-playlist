@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,802 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,883 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 15 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 |
 | 16 | [Vamonos](https://open.spotify.com/track/1kX0I8IyV9lP81e1TTV31W) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Vamonos](https://open.spotify.com/album/0Iu7xrc9ZWf474adXxtcN7) | 2:39 |
 | 17 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/3b9hmdwt0RWluhFm3hLKz8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 4:02 |
-| 18 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 |
+| 18 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 |
 | 19 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 20 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 |
 | 21 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 69 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
 | 70 | [Atardecer](https://open.spotify.com/track/1pw677psLc8OrOdg88Yy2E) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg) | [Atardecer](https://open.spotify.com/album/4TPFhLCLHZHSIUU1y0VCRG) | 3:16 |
 
-Snapshot ID: `MCxkZDk5NzE0YTgyYjRkYjM3N2I1ODRlYWFkY2Y0OTczMGRkZTYzNmIz`
+Snapshot ID: `MCxjZTVkYzhmMGE3Y2VjNjdiNmRlMGE5NTYxNGU3ZGMwNTQzMTA3MjJh`

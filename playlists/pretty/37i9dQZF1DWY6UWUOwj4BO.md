@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,706 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,742 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 50 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 |
 
-Snapshot ID: `MCwyZDU4OTZmYzEzMjhhMjMzZmUwMDIyMWJjNWJkMjY4NzdhZGIxMjQ3`
+Snapshot ID: `MCxmOWQxY2VmN2Q0NDQ1ZjE2MzBjMzBkZGNiMDRlNDc3ZmE4MTJjZmU5`

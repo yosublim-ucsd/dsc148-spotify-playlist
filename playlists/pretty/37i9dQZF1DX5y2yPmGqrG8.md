@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,740 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,804 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 |
 | 2 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 |
 | 3 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 |
-| 4 | [Being Here](https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc) | 1:27 |
+| 4 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 5 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
-| 6 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
+| 6 | [Being Here](https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc) | 1:27 |
 | 7 | [Near Light](https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:28 |
 | 8 | [Naini's Call](https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE) | [ddwy](https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9) | [Sprig Songs](https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd) | 6:55 |
 | 9 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 49 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
 | 50 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
 
-Snapshot ID: `MCw4OTVhY2RkMjY1YTM5ODNmZmU0YTg3NDE2ZjIxNzQ5M2FkOWYzZGQ0`
+Snapshot ID: `MCxjOWYyNzMzNWE3OTE1Mzk0NmQ1MmI0OTFkYTAyYzE1N2NiN2FkYTMx`

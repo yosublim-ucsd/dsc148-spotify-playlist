@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,379 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,420 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 100 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 
-Snapshot ID: `MCw5OGVkMzlhMzY4NmQ2NmIyNTc2NjgzNTE0MDEyNjhmYzYzOWE5MTMw`
+Snapshot ID: `MCwwZTEyNGU3ZWU2OTEwNThkMDk5MDI5NTU4ZmFmMjE0NDRmYzZhNWY1`

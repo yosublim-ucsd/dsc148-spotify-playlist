@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,496 likes - 89 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,568 likes - 89 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 2 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
 | 3 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 |
 | 4 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
-| 5 | [Compute](https://open.spotify.com/track/7LNsgTO7ipNPLE10Nn7iR7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 4:23 |
+| 5 | [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 |
 | 6 | [So Alive \- Nala Remix](https://open.spotify.com/track/3tcDA9gVNj1CvxgLE8V9ej) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [So Alive \(Nala Remix\)](https://open.spotify.com/album/2DMeeelFKn1CCpQySlHzv9) | 5:29 |
 | 7 | [Louder Than A Bomb \- Disfreq Remix](https://open.spotify.com/track/6SPL90S8UtSnNDNIFpuwPl) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Louder Than A Bomb \(Disfreq Remix\)](https://open.spotify.com/album/3kxeuCRlql0lvlkjHGBh22) | 5:00 |
 | 8 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 40 | [Drums Power](https://open.spotify.com/track/3nP0r8TD2xvPut4tT6PNor) | [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Drums Power](https://open.spotify.com/album/3oUVGUTskcRrDCsIDmUwjT) | 3:18 |
 | 41 | [Lazer Beams \- Bontan Remix](https://open.spotify.com/track/5rXOdqkiMHXLuwCKoCfImt) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Harvard Bass](https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Lazer Beams \(Bontan Remix\)](https://open.spotify.com/album/0JSuSCEmCRshZTXxNbQNXC) | 3:32 |
 | 42 | [Where We Started](https://open.spotify.com/track/5KLrzC0YqnXfR781535NAQ) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:21 |
-| 43 | [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 |
+| 43 | [Hope](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA) | 3:41 |
 | 44 | [Hard To Breathe \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Hard To Breathe \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ) | 3:50 |
 | 45 | [Changes \- Acid Radio Mix](https://open.spotify.com/track/60Ypo8vdYPRuJH8QceHmqj) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Changes](https://open.spotify.com/album/0S1ETZOiOPwoHYmJYSCkkT) | 2:45 |
 | 46 | [All That I Lost](https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [All That I Lost](https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo) | 4:19 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 71 | [Danzer](https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1) | 6:05 |
 | 72 | [Pictures](https://open.spotify.com/track/7bd3YmFqevYO3Hi03sPbuN) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Pictures](https://open.spotify.com/album/4HgB0bkbUEBeByio432MQE) | 5:07 |
 | 73 | [Ancova](https://open.spotify.com/track/6spSYkfvz0jHTvNn5b9HNl) | [Mumbai Science](https://open.spotify.com/artist/7jmeOWayhjsGSvY5YNpV65) | [Live At Lowlands](https://open.spotify.com/album/3FOllYiUU9ZM284tHCMEEY) | 5:03 |
-| 74 | [Retrida](https://open.spotify.com/track/7pk9nPyG0qI90l7j3pWnya) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Cabora EP](https://open.spotify.com/album/05eBCMjfdwolF11j6orZaE) | 8:19 |
+| 74 | [Retrida](https://open.spotify.com/track/55umJpgMpJDIiCiDYJyesi) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Cabora EP](https://open.spotify.com/album/7y0YP09fBrKyq8WrWG4inh) | 8:19 |
 | 75 | [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 |
 | 76 | [Sun](https://open.spotify.com/track/0AGHg268yJVHezfrftFFPl) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Sun](https://open.spotify.com/album/6FXMA04M2eRKzQdCPcFNgf) | 4:03 |
 | 77 | [Acamar](https://open.spotify.com/track/2o9fz1ALwGI65oMzueYMUI) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [Acamar EP](https://open.spotify.com/album/04m5xYrkOmtW3jDyvrfxwa) | 8:20 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 88 | [Define \- Cassian Remix](https://open.spotify.com/track/6uA724aKkiX68eVV9G3uGg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Define](https://open.spotify.com/album/60Ebp6R5FhD9oZvnc8YaZ9) | 5:33 |
 | 89 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 |
 
-Snapshot ID: `MCxjYWQ0MDM0ZTg0MTMxZjlhMzVmNTAxMmZlN2FhNTA3ZTFiY2Y1OTUx`
+Snapshot ID: `MCwzZDFkNDM3Yjc1MmFkZDY2NDViOGRiOGRkZjdkZDYzN2I4YjYwZDA0`

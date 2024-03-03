@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-900 songs - 2 day 14 hr 32 min
+901 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Coming Down Again \- Remastered](https://open.spotify.com/track/7wvv3OLPrX0pENjcDDLLbS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 5:54 | 2022-01-05 | 2022-07-29 |
 | [Cool For Cats](https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx) | 3:10 | 2022-01-05 | 2022-09-02 |
 | [Cool For Cats](https://open.spotify.com/track/7zWE4XT8ATao3xxdHtKly4) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/3oWgf409Wl8ToSNB1ilzUg) | 3:10 | 2022-01-05 | 2024-01-14 |
-| [Cool For Cats \- Live at The Fillmore](https://open.spotify.com/track/0Y3CLkHHygWXwhndtkTHin) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/1A5Ln7s3EoFa960XOpOKlJ) | 3:10 | 2022-11-17 |  |
+| [Cool For Cats \- Live at The Fillmore](https://open.spotify.com/track/0Y3CLkHHygWXwhndtkTHin) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/1A5Ln7s3EoFa960XOpOKlJ) | 3:10 | 2022-11-17 | 2024-03-03 |
+| [Cool For Cats \- Live at The Fillmore](https://open.spotify.com/track/7l0OoW4ARrSc34tVpjJWdY) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Spot the Difference \(Deluxe Edition\)](https://open.spotify.com/album/2VWAewyadxNauFDWLQYUvs) | 3:10 | 2022-11-17 |  |
 | [Cosmik Debris](https://open.spotify.com/track/6pqWrRF9K2PHpBmmRSIte4) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 4:15 | 2022-01-05 |  |
 | [Cowboy Song](https://open.spotify.com/track/2H82AQCQNc4TH2yVcYKIID) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 5:14 | 2022-01-05 |  |
 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2022-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 
 > Featuring Tainy, paopao, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 669 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 | 11 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
 | 12 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
 | 13 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 |
-| 14 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 |
+| 14 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 |
 | 15 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 |
 | 16 | [Europeo](https://open.spotify.com/track/5GlqK2fKscwzfho6YwzWi9) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Europeo](https://open.spotify.com/album/7Hr4LAnleUhw2AOGKPjHNW) | 3:10 |
 | 17 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nCTkNS7Llm.md) - [plain]
 | 24 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 |
 | 25 | [No Le Bajamos](https://open.spotify.com/track/5z9BueVXyoqHHFk4eFvlpU) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [No Le Bajamos](https://open.spotify.com/album/10UVmswEcMMI6UjL4oEufc) | 2:44 |
 
-Snapshot ID: `MCxhMmJjNDBkN2E0YTU4ZDA0ZGE1NjcyNDIwNjMzZDlhMzBjZjE2ZjI1`
+Snapshot ID: `MCw3NTVmMTY3NTZiOTdjYWYxMDYxMWU4YjM0MTFkYzQwNTAxZTdiZjI1`

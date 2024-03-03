@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,432 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,552 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 23 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 24 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
 | 25 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
-| 26 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 27 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
+| 26 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
+| 27 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 28 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
 | 29 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 |
 | 30 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 |
 | 63 | [Out All Night](https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G) | [The Pietasters](https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn) | [Willis](https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY) | 3:16 |
 | 64 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
-| 65 | [One More Minute](https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [A Passage In Time \(Explicit Version\)](https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE) | 6:28 |
-| 66 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
+| 65 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
+| 66 | [One More Minute](https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [A Passage In Time \(Explicit Version\)](https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE) | 6:28 |
 | 67 | [Social Drinker](https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:03 |
 | 68 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
 | 69 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 86 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
 | 87 | [You Can't Have All of Me](https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Life Sucks..\. Let's Dance!](https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy) | 2:44 |
 | 88 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
-| 89 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
-| 90 | [Tighten Up](https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR) | 2:39 |
+| 89 | [Tighten Up](https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR) | 2:39 |
+| 90 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
 | 91 | [Round We Go](https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 4:18 |
-| 92 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
+| 92 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
 | 93 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 |
-| 94 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
+| 94 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
 | 95 | [Play Some Ska](https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Another Change of Plan](https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg) | 3:16 |
 | 96 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
 | 97 | [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Evildoers Beware!](https://open.spotify.com/album/0ZF8cAEXlbQNTF7fQM1gPe) | 3:59 |
 | 100 | [I Can't Wait](https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:22 |
 
-Snapshot ID: `MCw4YjM3ZmUzNjM0OGY4MmRmOThlZDA4MDZkNjk2ZTNiMzljMjliZDc2`
+Snapshot ID: `MCw2ZjBmNjkxZWUwYTA4M2E5ZWYyNjk1NGY1OGFiNGY4N2FiYzc5YWNk`

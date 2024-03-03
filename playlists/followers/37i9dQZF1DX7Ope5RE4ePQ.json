@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 445274,
+  "2024-03-03": 445450,
   "date_first_scraped": "2022-04-19",
   "description": "masquerades, moonlit encounters, and locking eyes across the ballroom",
   "name": "royalcore",
@@ -811,6 +811,24 @@
       "duration_ms": 193600,
       "name": "Jazz Suite No. 2: VI. Waltz 2",
       "url": "https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC"
+    },
+    {
+      "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
     },
     {
       "album": {

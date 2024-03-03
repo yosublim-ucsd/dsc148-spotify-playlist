@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 17,
+  "2024-03-03": 17,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -939,6 +939,24 @@
       "duration_ms": 160390,
       "name": "Anger In The Nation",
       "url": "https://open.spotify.com/track/76EpojR09zjVX00daVTxsM"
+    },
+    {
+      "album": {
+        "name": "Anger Is My Acid (Wrath)",
+        "url": "https://open.spotify.com/album/4f2aGncI7gCK24eY40VgeG"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Anger Is My Acid (Wrath)",
+      "url": "https://open.spotify.com/track/0HCWlxXCNWTRBXjawcFYwG"
     },
     {
       "album": {
@@ -5833,6 +5851,28 @@
       "duration_ms": 144300,
       "name": "DUAL BREAKER XX",
       "url": "https://open.spotify.com/track/5GZ4Y1rxkPQtvUQyacov0E"
+    },
+    {
+      "album": {
+        "name": "Dum Dubi Doom (Alaguan Radio Mix)",
+        "url": "https://open.spotify.com/album/5cX8fMM68RvsPdlBgNaevK"
+      },
+      "artists": [
+        {
+          "name": "No Left Turn",
+          "url": "https://open.spotify.com/artist/60oreIOeO1GZOVmPiUtcSX"
+        },
+        {
+          "name": "Alaguan",
+          "url": "https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Dum Dubi Doom - Alaguan Radio Mix",
+      "url": "https://open.spotify.com/track/0wSc5xV7Aau36yx2pgb2JK"
     },
     {
       "album": {
@@ -16026,6 +16066,28 @@
     },
     {
       "album": {
+        "name": "PIXEL PARTY",
+        "url": "https://open.spotify.com/album/7EQxu54EynXz5k7gX7CRri"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        },
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "PIXEL PARTY",
+      "url": "https://open.spotify.com/track/3eWLQHlsQUoPYfKTnB1i1L"
+    },
+    {
+      "album": {
         "name": "Play With The Rhythm",
         "url": "https://open.spotify.com/album/3jqQFwOaAKQX7j7Fl3aXoY"
       },
@@ -16063,6 +16125,24 @@
       "duration_ms": 186600,
       "name": "Playing Terror - Tears of Fury Remix",
       "url": "https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht"
+    },
+    {
+      "album": {
+        "name": "Playing With Fire EP",
+        "url": "https://open.spotify.com/album/3sfbacruRehMkcruWiBab2"
+      },
+      "artists": [
+        {
+          "name": "Kreation",
+          "url": "https://open.spotify.com/artist/3xDNY0vcZ7JBBX5fhdbT83"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/7qAToOokrKtIZsO2X2kJnQ"
     },
     {
       "album": {

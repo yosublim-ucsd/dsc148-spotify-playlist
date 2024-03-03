@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Neo BXD
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,342 likes - 73 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,361 likes - 73 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 6 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
 | 7 | [Acabou, mas tem](https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem](https://open.spotify.com/album/3xhjxB13uDwnFf2kh59wxQ) | 3:55 |
 | 8 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 |
-| 9 | [Suco de Gangorra](https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Suco de Gangorra](https://open.spotify.com/album/4Hoih1dEL4czmn7HVWRtZ4) | 2:31 |
+| 9 | [Suco de Gangorra](https://open.spotify.com/track/40I4pXPRbnM99j81YLP9c6) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Suco de Gangorra](https://open.spotify.com/album/4Hoih1dEL4czmn7HVWRtZ4) | 2:33 |
 | 10 | [A Vida É Um Sopro](https://open.spotify.com/track/39o2h1LzqMWFpBZXpzpJoh) | [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Ovo Manifest](https://open.spotify.com/album/59wbs3hbhBWnk2ot41qkN5) | 4:21 |
 | 11 | [Jogo de Cintura](https://open.spotify.com/track/6SI7M5mlH4xYaheDZjJowY) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Jogo de Cintura](https://open.spotify.com/album/3upWt8VNgoozTEi2hQ5LjH) | 2:43 |
 | 12 | [Pra Sempre](https://open.spotify.com/track/05evoEx0jFaTWKlLJprvz9) | [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Pra Sempre](https://open.spotify.com/album/3MfvLoYo18XVaddy5l6UPJ) | 3:42 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 72 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
 | 73 | [Frenesi](https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [prodbyiniesta](https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Frenesi](https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA) | 3:41 |
 
-Snapshot ID: `MCxlYzFlZDk1ZTRhZDlhOGM5NWFhZTllYzUxM2M1YTdiMTNkMzljMWE1`
+Snapshot ID: `MCwwZWY2Y2FhOTEzNjY4YzkyNWYwZmI5N2RiMmUxOGFlYzE4ZDE2NmFl`

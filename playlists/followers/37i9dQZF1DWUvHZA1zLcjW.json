@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 598593,
+  "2024-03-03": 598717,
   "date_first_scraped": "2022-04-19",
   "description": "Chilled classical tunes to help you relax and unwind.",
   "name": "Chilled Classical",
@@ -1068,6 +1068,36 @@
     },
     {
       "album": {
+        "name": "Brahms & Busoni Violin Concertos",
+        "url": "https://open.spotify.com/album/192CqdyyKrnFuO8U3E0nYZ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Francesca Dego",
+          "url": "https://open.spotify.com/artist/3yb6cUrMO05D2GrrUW8lde"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Dalia Stasevska",
+          "url": "https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521000,
+      "name": "Concerto in D Major, Op. 77: II. Adagio",
+      "url": "https://open.spotify.com/track/0HVX7Itc5H4CnOZP8683Km"
+    },
+    {
+      "album": {
         "name": "Jane Antonia Cornish: Continuum",
         "url": "https://open.spotify.com/album/00aapTRofsjksAH1poSRrj"
       },
@@ -1956,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "Scriabin \u2013 Scarlatti: Singles (Pt. 2)",
+        "url": "https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Julius Asal",
+          "url": "https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "Keyboard Sonata in F Minor, K. 466 - Upright Version",
+      "url": "https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd"
+    },
+    {
+      "album": {
         "name": "Schumann: Kinderszenen; Kreisleriana",
         "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
       },
@@ -2837,6 +2889,24 @@
       "duration_ms": 98083,
       "name": "Naruto: Alone Theme",
       "url": "https://open.spotify.com/track/7iV3JqPBRtXEFka2Uhh9Uj"
+    },
+    {
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/4g8tx2nwYVWfo24xRH5fm8"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/5fe7xaJWVkljq4QjKixmtN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-1,566 songs - 3 day 10 hr 18 min
+1,567 songs - 3 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [Fever Dream](https://open.spotify.com/track/2hyS6YHRSqMp8JygUgUEly) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Fever Dream](https://open.spotify.com/album/61rRtqjm94oGmHdZMMtTMH) | 2:51 | 2021-04-30 | 2021-09-11 |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-18 | 2023-08-26 |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-04-21 | 2023-08-23 |
-| [fifth avenue](https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh) | 2:53 | 2023-11-10 |  |
+| [fifth avenue](https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh) | 2:53 | 2023-11-10 | 2024-03-03 |
+| [fifth avenue](https://open.spotify.com/track/75TMv5EOaXBPoJI1txKTYM) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/3sE8ogSNyN8IQJVVUEb4s3) | 2:53 | 2023-12-01 |  |
 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 | 2023-11-07 | 2024-01-05 |
 | [Figure Me Out](https://open.spotify.com/track/7oGQyQfvAqKmmdoHJW4qYr) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Color Me In](https://open.spotify.com/album/5HNdhH3w2KRYcjWqaxRZ3p) | 3:04 | 2022-10-28 | 2022-12-10 |
 | [fiimy \- fuck it, i miss you](https://open.spotify.com/track/4BWtx4oafnboNpyH1x8zEc) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [fiimy \(fuck it, i miss you\)](https://open.spotify.com/album/4Vygyz6oY8L618erw7bx99) | 3:58 | 2022-02-04 | 2022-03-12 |

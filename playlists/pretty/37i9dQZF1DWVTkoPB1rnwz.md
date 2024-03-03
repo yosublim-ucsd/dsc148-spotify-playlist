@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,527 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,556 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [among the trees](https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [among the trees](https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg) | 1:58 |
 | 100 | [Fire Flys](https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Yunomi](https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu) | [Amaryllis Dream](https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ) | 3:58 |
 
-Snapshot ID: `MCwwY2IyYjVmNTg2YzUwM2NjZDNjM2E4NDRmYzlkNTZjYWJhZGJlNzll`
+Snapshot ID: `MCw2OTA3NGFiM2QyMzhhOGM5ODlhZDg5NjVmNGZjZTJlY2MzYmM0MWQw`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 932319,
+  "2024-03-03": 932474,
   "date_first_scraped": "2021-12-30",
   "description": "Indie soul that's highkey fire ",
   "name": "Lowkey",
@@ -189,7 +189,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187049,
       "name": "2MANYTHINGS (Sa\u00ef T REMIX)",
       "url": "https://open.spotify.com/track/5Lppj7j5HAY0OuVYoNvoZb"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 147692,
       "name": "After The Day Party",
       "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
@@ -937,6 +937,28 @@
       "duration_ms": 223397,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES"
+    },
+    {
+      "album": {
+        "name": "Big Brown Eyes (feat. Orion Sun)",
+        "url": "https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu"
+      },
+      "artists": [
+        {
+          "name": "Nascent",
+          "url": "https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184271,
+      "name": "Big Brown Eyes (feat. Orion Sun)",
+      "url": "https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe"
     },
     {
       "album": {
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
@@ -3822,6 +3844,28 @@
     },
     {
       "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "emil",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181290,
+      "name": "Gave You My All",
+      "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "album": {
         "name": "Gay Face",
         "url": "https://open.spotify.com/album/0O0Hp49Ql9EKpcVPYxVzlf"
       },
@@ -5083,6 +5127,24 @@
       "duration_ms": 187370,
       "name": "I've Been Waiting",
       "url": "https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf"
+    },
+    {
+      "album": {
+        "name": "iBiZA",
+        "url": "https://open.spotify.com/album/5ZYV05mUMvLXgHy2VaVRYw"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "iBiZA",
+      "url": "https://open.spotify.com/track/07OyQam7KlubVztd9tn8so"
     },
     {
       "album": {
@@ -6363,7 +6425,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 131541,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
@@ -6895,6 +6957,28 @@
       "duration_ms": 110789,
       "name": "makeitliveforever",
       "url": "https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO"
+    },
+    {
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4"
+      },
+      "artists": [
+        {
+          "name": "Aka Kelzz",
+          "url": "https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb"
+        },
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132049,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
     },
     {
       "album": {
@@ -8593,7 +8677,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213697,
       "name": "Private Party (feat. Siaira Shawn)",
       "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
@@ -8735,7 +8819,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
@@ -8895,6 +8979,28 @@
       "duration_ms": 238834,
       "name": "Risk",
       "url": "https://open.spotify.com/track/2QDFsehUg5Fui2LOVpCw3Q"
+    },
+    {
+      "album": {
+        "name": "PINS & NEEDLES",
+        "url": "https://open.spotify.com/album/5j2Q1mmOJY7LOfDJvcWS2u"
+      },
+      "artists": [
+        {
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149343,
+      "name": "ROAD RAGE (feat. Wakai)",
+      "url": "https://open.spotify.com/track/6VxLtT1zcFnQ9BnTXQqFo5"
     },
     {
       "album": {
@@ -9499,6 +9605,28 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
     },
     {
       "album": {
@@ -10305,7 +10433,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215861,
       "name": "Summertime - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6Gd9Zzs5d7uALsKynGPwPn"
@@ -11999,6 +12127,28 @@
       "duration_ms": 195800,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "album": {
+        "name": "Wish You Wouldn't",
+        "url": "https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197508,
+      "name": "Wish You Wouldn't",
+      "url": "https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6"
     },
     {
       "album": {

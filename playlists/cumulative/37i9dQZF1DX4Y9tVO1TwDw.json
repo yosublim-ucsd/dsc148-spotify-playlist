@@ -2272,6 +2272,28 @@
     {
       "album": {
         "name": "Forma de Ser",
+        "url": "https://open.spotify.com/album/0O8iAjrqmWHWWb1PwPBpjW"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        },
+        {
+          "name": "Krofon",
+          "url": "https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169301,
+      "name": "Forma de Ser",
+      "url": "https://open.spotify.com/track/4q2OMrJoN5UGzk4HNZqd0n"
+    },
+    {
+      "album": {
+        "name": "Forma de Ser",
         "url": "https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU"
       },
       "artists": [
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 169301,
       "name": "Forma de Ser",
       "url": "https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo"

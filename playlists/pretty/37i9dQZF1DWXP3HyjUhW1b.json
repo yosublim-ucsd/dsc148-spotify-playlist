@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
-  "num_followers": 330138,
+  "num_followers": 330178,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjc0ZTIwMzg1YTU5NzM2YWUwNWY4YTNiMTAyZmE2MmMxZWZlYmM0",
+  "snapshot_id": "MCxhZTFhNTgzNzlhYTQxYTc5YzllMDkwMWQ2YmQ4NWFlYzBmODc3Yzhk",
   "tracks": [
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "En Vivo Para Ti",
-        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "Por Las Calles De Chihuahua - En Vivo",
-      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Boleros 20\u00b0 Aniversario",
         "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 176200,
       "name": "Respeta Mi Dolor",
       "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "En Vivo Para Ti",
+        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1663,6 +1663,22 @@
       "duration_ms": 292400,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1711,22 +1727,6 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1815,38 +1815,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -1863,6 +1831,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 324365,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 209181,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
-      },
-      "artists": [
-        {
-          "name": "Francisco \"Charro\" Avitia",
-          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
+      },
+      "artists": [
+        {
+          "name": "Francisco \"Charro\" Avitia",
+          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
         "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
       },
@@ -2007,34 +2023,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Cuando Dos Almas",
+        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 209181,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
+        },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 271386,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
+      "duration_ms": 186513,
+      "name": "Cuando Dos Almas",
+      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
     }
   ],
   "unique_name": "Cancionero Mexicano",

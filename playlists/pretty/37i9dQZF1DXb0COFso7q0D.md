@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Julieta Venegas & Grupo Marca Registrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,105,371 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,106,227 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 |
 | 60 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
 
-Snapshot ID: `MCxhYmNmOThmYzA4ZDA1ODQ3NWZkNTlhMzZkZTI0NTM0ZTZhNzAwNjM5`
+Snapshot ID: `MCwyNDNkNTgxYWZhNzMyYzIxYTZkY2E5ODgwNGFjMGExMmRkMTA5YzEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,661 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,682 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 70 | [Beer Drinking Blues](https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Rhythm & Booze](https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g) | 2:44 |
 
-Snapshot ID: `MCxmZGRjZTgzODkzOTgzYmQyZDAzYTlkYWI0NzM3MDU5NDkwNjAwY2Yz`
+Snapshot ID: `MCxiMGIyODI1NTkyNzBiY2ZkYTI1NmYwNDdkOWVmYjE3ZjU1OTc2MTAz`

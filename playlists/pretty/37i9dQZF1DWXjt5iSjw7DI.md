@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,827 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,939 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 100 | [Stand by Me \(Live\)](https://open.spotify.com/track/417ooDujEgISrf9ShZD2gS) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Mickey Gilley](https://open.spotify.com/album/3HA9QfL9xB29dafYochezw) | 3:14 |
 | 101 | [Mama Tried \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/5T6QfS0f90DNkeK9KdYRUi) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 2:25 |
 | 102 | [Together Again](https://open.spotify.com/track/4e8DqcbY3ArSECFS1o52UQ) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU) | 2:32 |
-| 103 | [Tennessee Whiskey \- Live](https://open.spotify.com/track/6LkGMUVF5Aa0eIU9IyUNqq) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [First Time Live!](https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp) | 3:02 |
-| 104 | [Mr\. Bojangles](https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 5:04 |
+| 103 | [Mr\. Bojangles](https://open.spotify.com/track/3NwvaXTxi27IPkFNWveDZP) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 5:04 |
+| 104 | [Tennessee Whiskey \- Live](https://open.spotify.com/track/6LkGMUVF5Aa0eIU9IyUNqq) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [First Time Live!](https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp) | 3:02 |
 | 105 | [Me and Bobby McGee \- Live](https://open.spotify.com/track/3d1xCdNqFzJkY6b02ZaUWo) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live From Austin, TX](https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF) | 4:16 |
 | 106 | [Gentle On My Mind \- Live At Garden State Arts Center, 1969](https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live](https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov) | 3:44 |
 | 107 | [Wide Open Spaces \- Live \- 2003](https://open.spotify.com/track/28codLcsqWN5P78dqUgTvw) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Top of the World Tour Live](https://open.spotify.com/album/7zC8Q5FAxjQPwdkBG2wQGu) | 5:42 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 109 | [Honky Tonk Heroes \- Live in Texas \- September 1974](https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 2:56 |
 | 110 | [Family Tradition / Hey, Good Lookin' \- Live](https://open.spotify.com/track/0EFgbjQoXRhVx8ElQqhluv) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Hank Live](https://open.spotify.com/album/452iLBdGqmrI4qdQU0miaS) | 4:15 |
 | 111 | [Country Club \- Live](https://open.spotify.com/track/3ghaKch85cqDYht0nQPXYe) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [A Man and His Guitar \(Live from the Franklin Theatre\)](https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH) | 4:09 |
-| 112 | [No Show Jones \- Live](https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [First Time Live!](https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp) | 2:58 |
-| 113 | [Rodeo Cowboy](https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 |
+| 112 | [Rodeo Cowboy](https://open.spotify.com/track/4Yq2hUmhASFPQ55PTht40h) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 |
+| 113 | [No Show Jones \- Live](https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [First Time Live!](https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp) | 2:58 |
 | 114 | [Rockin' With The Rhythm Of The Rain \- Live](https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Reunion Live](https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV) | 3:10 |
 | 115 | [I Will Always Love You \(Live\)](https://open.spotify.com/track/3eAk0wYAwjhyy6YLfKnQxd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: Live From London](https://open.spotify.com/album/2mAGpWPHQofWAvXBzgwDOG) | 4:22 |
 | 116 | [A Thousand Miles from Nowhere \- Live](https://open.spotify.com/track/6FC69ybRXIc1QBqPnsTeBi) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight Live](https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy) | 4:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Workin' Man Blues \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 2:35 |
 | 150 | [Mi Vida Loca \(My Crazy Life\) \[Live\]](https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [90's Country Legends \- American Classics](https://open.spotify.com/album/4Dix9Eb5BLSQWYmMHzBT0S) | 3:30 |
 
-Snapshot ID: `MCxiMmFiMTkxNWFkNDM4YWI1ZGQzMTg0ZmZlNDM1OTRlODI0YThmZjNi`
+Snapshot ID: `MCxjYThiY2RjYWZjOThhYjlkYjYyODg0MjFiMDNhMDQ3MDhkNmYxYTNl`

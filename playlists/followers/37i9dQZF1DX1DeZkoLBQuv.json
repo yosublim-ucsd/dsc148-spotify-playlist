@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 8226,
+  "2024-03-03": 8226,
   "date_first_scraped": "2022-11-25",
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
   "name": "Louvores de Natal",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 313652,
       "name": "Deus Emanuel",
       "url": "https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 211440,
       "name": "No Humilde Pres\u00e9pio (Away In a Manger)",
       "url": "https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3"

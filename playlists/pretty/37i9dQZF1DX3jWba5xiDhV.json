@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 194850,
+  "num_followers": 195127,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTk0NmY4OTQ4Njk5ZWI2OTcxZjgyY2YxY2I0ZGY0YTVmN2Y1MTVk",
+  "snapshot_id": "MCwzYjNjNTAxNTE2ODcwOWRiM2I4M2JmYTYzNDRmOTEyMzk5YzJlZjg4",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Disco Fizz",
+        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 401773,
       "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
       "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Disco Fizz",
-        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
     },
     {
       "added_at": "2024-02-16 00:01:00",

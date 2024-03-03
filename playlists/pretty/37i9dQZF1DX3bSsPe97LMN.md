@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. El Guero MP, Galvancillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,454 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,461 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 66 | [Tranquilo Y Sencillo](https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [El Nuevo Equipo](https://open.spotify.com/artist/4HX57pJhKXFXfUTbJZrXxb) | [Tranquilo Y Sencillo](https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ) | 3:07 |
 | 67 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
 | 68 | [La Tostada](https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp) | [Los del roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj) | [La Tostada](https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j) | 3:35 |
-| 69 | [La Tempranera \- En Vivo](https://open.spotify.com/track/2IEgnaZvMxU0Bk7oqqoeCB) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 2:28 |
-| 70 | [Truena La Radio](https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Truena La Radio](https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37) | 2:26 |
+| 69 | [Truena La Radio](https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Truena La Radio](https://open.spotify.com/album/6X79Up0ztIAIsxyfstMl37) | 2:26 |
+| 70 | [La Tempranera \- En Vivo](https://open.spotify.com/track/2IEgnaZvMxU0Bk7oqqoeCB) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Puras Sierreñas \(En Vivo\)](https://open.spotify.com/album/6zb4o5tesKSCxibgUpQOIi) | 2:28 |
 | 71 | [A Tu Modo](https://open.spotify.com/track/32NbxVw3vD1qQep7JrXYTh) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [A Tu Modo](https://open.spotify.com/album/0pC8mV4IYPVzHZtIcWs8qS) | 2:14 |
 | 72 | [RULETEANDO](https://open.spotify.com/track/7mK2P7rPNdzBVygHel5O7w) | [Yahir BN](https://open.spotify.com/artist/6w0fot6fDK8XA4kIUDp98l) | [RULETEANDO](https://open.spotify.com/album/7qJvR9PdpkPSVZ5B41x7DH) | 2:43 |
 | 73 | [Te Volvi a Mirar](https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Te Volvi a Mirar](https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t) | 2:48 |
 | 74 | [Si Quieres \- En Vivo](https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [Pa La Amanecida \(En Vivo\)](https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX) | 3:54 |
 | 75 | [Diré](https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Diré](https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe) | 3:17 |
-| 76 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
-| 77 | [Los Chismes](https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Los Chismes](https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI) | 2:34 |
-| 78 | [Tal Vez](https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s) | [Gabo Ponce](https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY) | [Tal Vez](https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly) | 5:23 |
-| 79 | [28 Abriles](https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:33 |
+| 76 | [Los Chismes](https://open.spotify.com/track/39DEc4b2WcKd9aNAM37Xa0) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Los Chismes](https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI) | 2:34 |
+| 77 | [Tal Vez](https://open.spotify.com/track/4KCGkBwcME4GUR96jGvR4s) | [Gabo Ponce](https://open.spotify.com/artist/2Cby4NWU4TyYUK8Lx2LViY) | [Tal Vez](https://open.spotify.com/album/3dKFFChE0pV72EGw3Hhgly) | 5:23 |
+| 78 | [28 Abriles](https://open.spotify.com/track/7t9HSfRTyM6F3Vp94cK5Gl) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:33 |
+| 79 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
 | 80 | [x el 215](https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc) | [Niño Armado](https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ) | [x el 215](https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB) | 3:11 |
 | 81 | [EL CHAPULÍN](https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [NO HAY NADA MÁS](https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC) | 2:30 |
 | 82 | [Malabares \(En Vivo\)](https://open.spotify.com/track/6V5VY9Mo9bYaBd8pFJscno) | [Grupo Formales](https://open.spotify.com/artist/7wm4iq3AWVxAEKVdMh8gmR), [Alto Decibel](https://open.spotify.com/artist/1mh8Lb1tvoN0h0p4LjFJqo) | [En Vivo Desde La Industria, Vol.1](https://open.spotify.com/album/67obrKvFE9ywXXMve78SjR) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Me Gusta Tener de a Dos \(En Vivo\)](https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [En Vivo Desde Houston](https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL) | 2:59 |
 | 100 | [Pregúntale al Diablo](https://open.spotify.com/track/34dr8fWOjiYQlI2mGXeBVH) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [Pregúntale al Diablo](https://open.spotify.com/album/4hdLVZh2WslvvQ3upe1zt5) | 3:42 |
 
-Snapshot ID: `MCxkNThjMWU0NTdhYjhkNTA3NzE2NDFmOWJhMTFhOTdjMTlhNzRjNzM5`
+Snapshot ID: `MCw2ZjkyZDMyOGJhYzJlNWNmMTBiYmNhZWJlODE0MjBiNDZjODc1YTIw`

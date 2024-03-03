@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\), Shin Seong\(신성\), Enoch\(에녹\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,775 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,777 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [처녀 뱃사공](https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw) | [오승근](https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg) | [오승근 Special \`내 나이가 어때서\`](https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be) | 2:37 |
 | 100 | [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 |
 
-Snapshot ID: `MCw0ZjY4NTgxYjQ5NmVjYTU3MDJlNTQwYWM4OTBiMTI5MTM4MTE2ODUw`
+Snapshot ID: `MCxiMmQ2ODgwMDgxODk4MDUzMjMyYjc4YmEzZGJiM2UyNTc1MDY5YzYw`

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 3287579,
+  "2024-03-03": 3288988,
   "date_first_scraped": "2019-09-05",
   "description": "Just good vibes all day long",
   "name": "Good Vibes",
@@ -609,6 +609,24 @@
       "duration_ms": 214325,
       "name": "Amber",
       "url": "https://open.spotify.com/track/6xNkEcbvpPcdSOFKFXNpFL"
+    },
+    {
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "album": {
@@ -5876,6 +5894,24 @@
     },
     {
       "album": {
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
+    },
+    {
+      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/4GqNYTtGw3kX9uq4o4tNep"
       },
@@ -7690,6 +7726,32 @@
     },
     {
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
+    },
+    {
+      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -8733,7 +8795,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 161782,
       "name": "Middle Of The Night",
       "url": "https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2"
@@ -10901,7 +10963,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
@@ -11800,6 +11862,24 @@
     },
     {
       "album": {
+        "name": "Slug",
+        "url": "https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Slug",
+      "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
+    },
+    {
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -12117,6 +12197,24 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303692,
+      "name": "Stand on the Word (Studio Version)",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "album": {
@@ -13640,6 +13738,24 @@
     },
     {
       "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM"
+    },
+    {
+      "album": {
         "name": "Throwaway (with Clairo)",
         "url": "https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk"
       },
@@ -14381,6 +14497,24 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "album": {
+        "name": "Waiting for God in the Garden",
+        "url": "https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR"
+      },
+      "artists": [
+        {
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180081,
+      "name": "Waiting for God in the Garden",
+      "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
     },
     {
       "album": {

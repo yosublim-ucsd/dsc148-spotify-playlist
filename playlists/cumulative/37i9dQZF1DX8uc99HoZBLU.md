@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-314 songs - 16 hr 1 min
+315 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,8 +133,9 @@
 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 | 2021-06-08 | 2022-04-14 |
 | [I Hope to Be Around](https://open.spotify.com/track/2nHgTV1nLGIjqlLxABJTHa) | [Erica Sears](https://open.spotify.com/artist/4Eom6otLBfeYp8vTs4vwhz) | [I Hope to Be Around](https://open.spotify.com/album/34ozWQHlJCvhXmjBp7Db4M) | 3:46 | 2023-08-17 | 2024-02-04 |
 | [I Hope to Be Around](https://open.spotify.com/track/6nHRz8lyRDYHF66PF0L71V) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [I Hope to Be Around](https://open.spotify.com/album/5rnmPISIXnrZeCdRmAAvkM) | 3:46 | 2023-08-17 | 2024-02-15 |
-| [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 | 2022-09-15 |  |
+| [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 | 2022-09-15 | 2024-03-03 |
 | [I Hope To Be Around \- \(live\)](https://open.spotify.com/track/5gnRon2NpsDVEeivCh6EGq) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I) | [I Hope to Be Around \(Live\)](https://open.spotify.com/album/46xpc1LQdAxORGKdNgdYhp) | 3:46 | 2023-08-17 | 2024-02-02 |
+| [I Hope to Be Around \- en](https://open.spotify.com/track/6uhJ2WRvA8JEEoFHVOfDmP) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [I Hope to Be Around \(en\)](https://open.spotify.com/album/0cEW35b1gacjQBnB47kBHI) | 3:46 | 2023-08-17 |  |
 | [I Just Want to Be the One You Love](https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws) | 1:20 | 2021-06-08 | 2022-05-19 |
 | [I Just Want to Be the One You Love](https://open.spotify.com/track/5H92IwQV1tExrJPDXLyt9B) | [Cryst](https://open.spotify.com/artist/4lcbS3LY6esSieMOVMqDZJ) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5BznSldvTpx5T4MnFtvAin) | 2:01 | 2021-06-08 | 2022-04-17 |
 | [I Know a Place](https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [I Know a Place](https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA) | 2:09 | 2021-06-08 | 2022-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,855,182 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,855,983 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 89 | [Double Barrel](https://open.spotify.com/track/3B59dR6lPY1FKbBwsXbcON) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Double Barrel](https://open.spotify.com/album/5OQvRjlsqGSGyhWoKlozbz) | 2:50 |
 | 90 | [Don't Stay Away](https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh), [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [One Life to Live \(Expanded Version\)](https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q) | 2:33 |
 | 91 | [Sweet Sensation](https://open.spotify.com/track/6aC8NTVpetj62Ajixqzlsb) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Rivers of Babylon \(Expanded Version\)](https://open.spotify.com/album/0P2mwcNmZJredvaJHIkT14) | 3:50 |
-| 92 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 |
-| 93 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
+| 92 | [Engine 54](https://open.spotify.com/track/1Miqjanq9I2rPQyR2ptZGu) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG) | 2:39 |
+| 93 | [Satisfaction](https://open.spotify.com/track/20y4i5i8JBwrlre86Om8W9) | [Carl Dawkins](https://open.spotify.com/artist/3VNBXif3AigGxlbXUTrS72) | [Mr Satisfaction \(1966\-1976\)](https://open.spotify.com/album/7Fjj7aplwBum9ytDUuVqdG) | 1:49 |
 | 94 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
 | 95 | [Ba Ba Boom](https://open.spotify.com/track/2RvMpOxSYXbOrrlCATGbs2) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Ba Ba Boom](https://open.spotify.com/album/39ilJtvILiTJIscDiIDapx) | 3:21 |
 | 96 | [The Loser](https://open.spotify.com/track/6ReiEf0vRqmkrdfMtevBQq) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [Psychedelic Train](https://open.spotify.com/album/5EXlwo79cc8jcscqh2yeRn) | 3:35 |
 | 97 | [Suzanne Beware of the Devil](https://open.spotify.com/track/71RlrObaNXUK8EbREgJHm8) | [Dandy Livingstone](https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF) | [Suzanne Beware of the Devil \- The Best of Dandy Livingstone](https://open.spotify.com/album/2OyxYqLTT5HBqd3FxYsmvu) | 2:35 |
 | 98 | [Help Me Make It Through The Night](https://open.spotify.com/track/0pINVERHACBcMBRzFoHysO) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts Of Holt](https://open.spotify.com/album/6AQcKsHGGOE2iVimVgGdE7) | 3:07 |
 | 99 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
-| 100 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
+| 100 | [Under Me Sleng Teng](https://open.spotify.com/track/1YjBJlLZh4wwnfYZCr3jrE) | [Wayne Smith](https://open.spotify.com/artist/7kwcin6f7eYIvo6hG3GEn4) | [Under Me Sleng Teng](https://open.spotify.com/album/43bIT6PuC4DKlvC4iKTWHA) | 4:07 |
 
-Snapshot ID: `MCwxZmFlODA1ZGU0MDFjZDA1NzI5Yjc3NzdkNTQ0OWJiZDdhMDhhNjI0`
+Snapshot ID: `MCw1ZjFiY2EwYTA2NzAzMmE3M2VmYjljMmUyZjJiNzZiY2M2NDlmNjMx`

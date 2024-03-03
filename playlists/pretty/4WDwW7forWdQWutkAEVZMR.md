@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Miley Cyrus, Beyoncé, Harry Styles &amp; more! Cover: Miley Cyrus &amp; Pharrell Williams
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,230 likes - 43 songs - 2 hr 12 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,232 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 3 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 |
 | 4 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 |
 | 5 | [Peacekeeper](https://open.spotify.com/track/2zxqgswn6Swwzi7GNi8ZbP) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [Peacekeeper](https://open.spotify.com/album/0aYKvIl8cM2hYe5Ixbzocg) | 1:54 |
-| 6 | [Good Intentions](https://open.spotify.com/track/505JdlYcBOwaATh7iT3WWV) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Good Intentions](https://open.spotify.com/album/1BstsiYcJJ1YMetykBA1So) | 2:55 |
+| 6 | [good intentions](https://open.spotify.com/track/505JdlYcBOwaATh7iT3WWV) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [good intentions](https://open.spotify.com/album/1BstsiYcJJ1YMetykBA1So) | 2:55 |
 | 7 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 |
 | 8 | [Colder \- Belters Only Remix](https://open.spotify.com/track/2yAl1FrvBbO5FTZvtcqXFJ) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ), [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Colder \(Belters Only Remix\)](https://open.spotify.com/album/7ubLONCWCov8YhxtHfhom1) | 3:01 |
 | 9 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,212 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,224 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
 | 75 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
 
-Snapshot ID: `MCwwYWMxYjFhYjQ4MDlkMmJhZjE0ZDRmY2Y1NDA5OGVlNTI4MjQ0NWVh`
+Snapshot ID: `MCw1ODlkMDIwZTA0MWRhYTI2NDU2MTdkNzFlNWUwMjc1OWNhOTI5NTkz`

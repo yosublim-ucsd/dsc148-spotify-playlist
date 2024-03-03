@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,150 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 18 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
 | 19 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
 | 20 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
-| 21 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
-| 22 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
+| 21 | [Wish Me Well](https://open.spotify.com/track/7prLktT8hh87SJLGneo4ri) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:24 |
+| 22 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
 | 23 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 24 | [Metua](https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Metua](https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3) | 3:49 |
 | 25 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 27 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
 | 28 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
 | 29 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 |
-| 30 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
-| 31 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
-| 32 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
+| 30 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 |
+| 31 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv) | 5:00 |
+| 32 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 | 33 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 |
 | 34 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 |
-| 35 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
-| 36 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
+| 35 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
+| 36 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
 | 37 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 38 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
-| 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 40 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
+| 39 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
+| 40 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 
-Snapshot ID: `MCxlZGMxNDk1NzRhZjkwMDFkNTczODcyOWY4ZDM0NTlhZDk5ODExNDhi`
+Snapshot ID: `MCw0NDI5OGVhY2ZiN2I2Mzk1OTBkYzhkMDk3OTdlY2I1NjI3ZWZkNjIz`

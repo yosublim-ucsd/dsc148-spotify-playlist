@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Gustavo Palafox en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,959 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,025 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Todavia](https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Inquieto Liniaje](https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV) | [Todavia](https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo) | 2:45 |
 | 125 | [El 7](https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El 7](https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd) | 3:45 |
 
-Snapshot ID: `MCw4NTE0N2ZkZjdjZmNlOTI1MTg0ODliNGI5M2FmMGRhZjM3MmUwM2Iy`
+Snapshot ID: `MCxjMjE3MTUzYmQzOTM4MmU5ZGVlMGFhNDM1NDIwNDc0ODM2YjkwNzdk`

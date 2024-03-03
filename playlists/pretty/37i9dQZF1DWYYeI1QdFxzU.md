@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,055 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,139 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 41 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
 | 42 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 |
 | 43 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
-| 44 | [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 |
-| 45 | [Let It Fade](https://open.spotify.com/track/76qL9Iwn8EWfLvOqOtmjmQ) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Let It Fade](https://open.spotify.com/album/0rTwNMgjjuTfA0QgGp4GiG) | 4:08 |
-| 46 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
-| 47 | [Dark Dune](https://open.spotify.com/track/1rDgiUBCoW96HQG8RViZyx) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Dark Dune](https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I) | 5:50 |
-| 48 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
-| 49 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
-| 50 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
+| 44 | [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 |
+| 45 | [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 |
+| 46 | [Let It Fade](https://open.spotify.com/track/76qL9Iwn8EWfLvOqOtmjmQ) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Let It Fade](https://open.spotify.com/album/0rTwNMgjjuTfA0QgGp4GiG) | 4:08 |
+| 47 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
+| 48 | [Dark Dune](https://open.spotify.com/track/1rDgiUBCoW96HQG8RViZyx) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Dark Dune](https://open.spotify.com/album/4mQq8MXtA2uqx2Y6eOEI1I) | 5:50 |
+| 49 | [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 |
+| 50 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 
-Snapshot ID: `MCxhNDE4ZjhjMTRiMDU0NzAzOWI3ZGE1ZGQwMGZhZTdmMWRiN2RjYjM4`
+Snapshot ID: `MCw4NjdmMDRmYWRiMjVhMWI2YTJiNWU1YjgzYWJkMzhkMTQ2NGY3Y2U1`

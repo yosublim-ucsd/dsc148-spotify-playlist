@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. LEGADO 7 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,217 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,322 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 |
 | 125 | [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 |
 
-Snapshot ID: `MCxhMWM2MzZhMWMxNjc1OTlmNmY2NGM4YWYwZDM2MDcwYmYxMDM5MWIz`
+Snapshot ID: `MCw3OTE1ODJjNzUwODU5NzYxY2NkOWM5MmU3ODIxMmE1ZGYwY2I4MjBi`

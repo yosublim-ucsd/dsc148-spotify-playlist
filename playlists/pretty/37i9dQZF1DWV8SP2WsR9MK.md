@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,454 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,532 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [For Toddlers Only](https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Sweet Georgia Peach](https://open.spotify.com/album/5uip0ZOqDmZb6GqFfLpqOw) | 5:18 |
 | 100 | [Walkin' Up](https://open.spotify.com/track/6MVMLpL405L6JXbHXsddGa) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [The Capitol Vaults Jazz Series](https://open.spotify.com/album/6RRyVVMofYvprSf4fJViho) | 3:19 |
 
-Snapshot ID: `MCwyNDJhMDhjNWRjODgwNzZlZjY4NGVhN2IyMWI5ZWI5ZTdiMmU2NmJl`
+Snapshot ID: `MCw0OTIwYWZmZWUwMGExNzdlODcyNGJjMjBjMTVjOWUzNDBjNTY4MTQx`

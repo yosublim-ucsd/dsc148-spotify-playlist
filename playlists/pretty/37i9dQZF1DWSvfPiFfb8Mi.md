@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,724 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,823 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [FWD \(feat\. Rudimental & House Gospel Choir\)](https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj) | 3:01 |
 | 100 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 |
 
-Snapshot ID: `MCwxODBjMzc3ZGMwOGM4ODIwOGMzMDE3MjcxYjExMTI3MTgwMDI2MzA1`
+Snapshot ID: `MCxlNjhmZTRiYjFjZTRhYTUxZGE1ZDJiNWUyM2RmN2I3MTY5YWE4NmVl`

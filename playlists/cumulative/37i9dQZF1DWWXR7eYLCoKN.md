@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-112 songs - 6 hr 31 min
+113 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Vaso Quebrado](https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Onze \(Músicas Inéditas de Adoniran Barbosa\)](https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF) | 3:26 | 2023-07-28 |  |
 | [Vive](https://open.spotify.com/track/27Q2MMzV3wnE3ha02N4Fg4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/3fyFwIi7A4hCq08q2JvMgS) | 5:06 | 2023-11-10 |  |
 | [Vive](https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl) | 5:06 | 2023-07-28 | 2023-12-24 |
-| [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2023-04-28 |  |
+| [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2023-04-28 | 2024-03-03 |
+| [Zé Do Caroço](https://open.spotify.com/track/06LyRh04GT2eHMLShK3nsz) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Welcome To COPACABANA \- The Brazilian Melting Pop](https://open.spotify.com/album/0veFCfLzR5pOgNVXzAXlJQ) | 6:32 | 2024-01-19 |  |
 | [Água de Chuva no Mar \- Do filme "Um Casal Inseparável"](https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Água de Chuva no Mar \(Do filme "Um Casal Inseparável"\)](https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo) | 4:08 | 2023-04-28 |  |
 | [Último Carnaval](https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC) | 2:37 | 2023-07-28 |  |
 

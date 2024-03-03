@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993 likes - 172 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 172 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 83 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
 | 84 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
 | 85 | [Put It to Bed](https://open.spotify.com/track/5KfDCX3PEyU4gJ81n2Mtz9) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Put It to Bed](https://open.spotify.com/album/3Vwnuv0NEc0OTYltcT619a) | 3:34 |
-| 86 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
-| 87 | [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
+| 86 | [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
+| 87 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
 | 88 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 |
 | 89 | [Weekend Millionaires](https://open.spotify.com/track/47hg9HCsnTYbdkd5d5KJMl) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 3:44 |
 | 90 | [Same Time](https://open.spotify.com/track/6QZN4gD7ezuPKX2TNOw28u) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:17 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 120 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 |
 | 121 | [Met Me Now](https://open.spotify.com/track/21g8lqjrecVAqwBHZ91tdI) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Small Town](https://open.spotify.com/album/0SIll9NoQGtfRFmfodvMos) | 3:08 |
 | 122 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
-| 123 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 |
-| 124 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 123 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
+| 124 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 |
 | 125 | [PainHub](https://open.spotify.com/track/1KDIOubFEUaIg1y645HOVD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:15 |
 | 126 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
 | 127 | [Hard 2 Forget](https://open.spotify.com/track/3ryUZShGkAcKw10fxyBaNt) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:25 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 171 | [Crash My Car](https://open.spotify.com/track/2JfyKiGIPCsVe7CtVFqQRI) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Crash My Car](https://open.spotify.com/album/7BtWmsNzP5qOq1uvVLLBCC) | 2:44 |
 | 172 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `Mjg0ODkxMDAsMDAwMDAwMDA5NmE1ZGNlOGNkNzJjYjllNGE3MjliNGRiMzc3MjU3OQ==`
+Snapshot ID: `Mjg0OTA1NDAsMDAwMDAwMDAzMjUxYjY3Y2M3ZmU4Mzg3OWNjMGYyYTYwZWNhODAxYw==`

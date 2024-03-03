@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,539 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,635 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
 | 100 | [7 Miliardi](https://open.spotify.com/track/3r2tnITVum2KF1vLG7cXGa) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r) | 2:47 |
 
-Snapshot ID: `MCwzOGYwYzQ4ZWRhMzcyY2Q4NDA0ZjQwNzlkZDQwYWYyNGJmZjExYTMz`
+Snapshot ID: `MCw2MmY0YzUwN2RjNjVhNGE1ZTJjODFhOGY1MjUyYjViZWI4ZGUwNjJm`

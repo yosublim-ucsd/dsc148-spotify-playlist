@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,713 likes - 113 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 113 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 26 | [Canción Animal](https://open.spotify.com/track/4Ht9U5DfSVdW1J6zCwh0P4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:07 |
 | 27 | [Sobredosis De T.V.](https://open.spotify.com/track/07J7TC2stMffmg5FM3lGQC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:10 |
 | 28 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 |
-| 29 | [Rapto](https://open.spotify.com/track/69Je4J4Gw5AIikOzGqdsDS) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:56 |
-| 30 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 |
+| 29 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 |
+| 30 | [Rapto](https://open.spotify.com/track/69Je4J4Gw5AIikOzGqdsDS) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:56 |
 | 31 | [Sueles Dejarme Solo](https://open.spotify.com/track/7qz2gGwfzqREato14g4tk4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 |
 | 32 | [Beautiful](https://open.spotify.com/track/1R3mCl9ya7FanRNWTeiQUE) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 6:12 |
 | 33 | [Té para Tres](https://open.spotify.com/track/40VoDKKiYXmUgCYYJ9c0lT) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:25 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 54 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
 | 55 | [Al Fin Sucede](https://open.spotify.com/track/4mqP0ZskIHaaV4NHAXBsEy) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:29 |
 | 56 | [Hoy Ya No Soy Yo](https://open.spotify.com/track/1m0obkZfMvfVJtPQ4FrTda) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:08 |
-| 57 | [Mi Novia Tiene Bíceps \- Remasterizado 2007](https://open.spotify.com/track/7kRhtWodPO1Oi0UVuj7Dob) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 |
-| 58 | [Fantasma](https://open.spotify.com/track/2xuDoEEK7tfZMh5Y7gOoTg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:19 |
+| 57 | [Fantasma](https://open.spotify.com/track/2xuDoEEK7tfZMh5Y7gOoTg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:19 |
+| 58 | [Mi Novia Tiene Bíceps \- Remasterizado 2007](https://open.spotify.com/track/7kRhtWodPO1Oi0UVuj7Dob) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 |
 | 59 | [Tele\-Ka \- Remasterizado 2007](https://open.spotify.com/track/5ZDMWyxvoEEi5ofWUjf0NL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:25 |
 | 60 | [En El Borde \- Remasterizado 2007](https://open.spotify.com/track/4WOWzyHpoGvlve7qOQiXHf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 4:42 |
 | 61 | [Imágenes Retro \- Me Verás Volver Gira 2007](https://open.spotify.com/track/3ANCmPnNk0WBxNgBrBpLsp) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:24 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 112 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 113 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `Mjg0ODkxMDAsMDAwMDAwMDBkN2YxMzZhYzI2NmU0ZmYyOWY0NzYxMzFlZWVjMWQ0MA==`
+Snapshot ID: `Mjg0OTA1NDAsMDAwMDAwMDBhMTg3OGExZGE3ZTc3NzE2MmM1MGRmMjc2MDBlNGJlYQ==`

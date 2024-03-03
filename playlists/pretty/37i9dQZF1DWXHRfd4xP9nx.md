@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,068 likes - 250 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,082 likes - 250 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 249 | [Good Night Sleep Rain 3](https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:39 |
 | 250 | [Vienna \(Rain\)](https://open.spotify.com/track/1VFWtXT3a4aCPjq0DXo80v) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Recentered in Nature](https://open.spotify.com/album/454jtT55gdWTo7La069M9j) | 2:48 |
 
-Snapshot ID: `MCw2NWM0ZWExZjk3MmM2ZTliOWZiZmQ2OTkyZmM3MDczMWUyZWQ5Yjg5`
+Snapshot ID: `MCw2NDlmZTdjYmE0ZTkxODEwM2EyZjdiNDg0NDAzYzk0NjY0MjE3Yzdh`

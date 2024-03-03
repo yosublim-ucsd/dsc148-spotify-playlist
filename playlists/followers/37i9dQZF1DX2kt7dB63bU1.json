@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 137090,
+  "2024-03-03": 137145,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -451,6 +451,36 @@
       "duration_ms": 166630,
       "name": "Alice in Wonderland",
       "url": "https://open.spotify.com/track/740uVBdbe9lthL3py12aRJ"
+    },
+    {
+      "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/54g0aYmHUeHrvJdtZRtnwT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206145,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0OX8m4MzzXlra5JQ9jTqi8"
     },
     {
       "album": {
@@ -2970,6 +3000,24 @@
     },
     {
       "album": {
+        "name": "Could We Be Whole",
+        "url": "https://open.spotify.com/album/0Zs5zKQsW2FFjfXtoyGmjk"
+      },
+      "artists": [
+        {
+          "name": "Afra Kane",
+          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "Death in My Dreams",
+      "url": "https://open.spotify.com/track/0PvE4WhqyDQ3yNbG5moaZR"
+    },
+    {
+      "album": {
         "name": "Delta Lady",
         "url": "https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL"
       },
@@ -3183,7 +3231,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242480,
       "name": "Don't Be Mean",
       "url": "https://open.spotify.com/track/4nQWn8Xz3cjaQgZUTA9NqL"
@@ -6143,7 +6191,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 269294,
       "name": "Illumination",
       "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
@@ -7567,7 +7615,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 272589,
       "name": "Lift Up",
       "url": "https://open.spotify.com/track/1tJZ9m3sh63N6A1FVrFogr"
@@ -9499,6 +9547,24 @@
       "duration_ms": 192250,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6n7ooz0vPMRSrxEhmgTkTH"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2uJBZSZBJIqHlvpzzTzXBu"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199742,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
     },
     {
       "album": {

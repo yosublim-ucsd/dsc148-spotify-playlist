@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 241623,
+  "2024-03-03": 242085,
   "date_first_scraped": "2023-02-09",
   "description": "Wander into the magical mix of music, water, birds, and calmness. ",
   "name": "Dreamy Forest Music",
@@ -93,6 +93,24 @@
       "duration_ms": 160937,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ"
+    },
+    {
+      "album": {
+        "name": "Forest Sunrise",
+        "url": "https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5"
+      },
+      "artists": [
+        {
+          "name": "Cooper Sams",
+          "url": "https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "A New Day (by a Forest Stream)",
+      "url": "https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM"
     },
     {
       "album": {
@@ -291,6 +309,24 @@
       "duration_ms": 202570,
       "name": "Aras",
       "url": "https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM"
+    },
+    {
+      "album": {
+        "name": "Arms Reach",
+        "url": "https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Arms Reach",
+      "url": "https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1"
     },
     {
       "album": {
@@ -1194,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "Gentle Waters",
+        "url": "https://open.spotify.com/album/0jeK1UiDDWXiS0YotgdsG6"
+      },
+      "artists": [
+        {
+          "name": "Joseph Rain",
+          "url": "https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Gentle Waters",
+      "url": "https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69"
+    },
+    {
+      "album": {
         "name": "Giolcach Hike",
         "url": "https://open.spotify.com/album/1cF88NLnHIC2Uu87EXfEAu"
       },
@@ -1396,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Heeding",
+        "url": "https://open.spotify.com/album/3TjjJRBakIWpTMeQVtHoWQ"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Heeding",
+      "url": "https://open.spotify.com/track/4szKC2c1OlCvAtzYVeWDyP"
+    },
+    {
+      "album": {
         "name": "Hommage \u00e0 la for\u00eat",
         "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
       },
@@ -1425,7 +1497,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 180041,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU"
@@ -1533,7 +1605,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 172287,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe"
@@ -2577,7 +2649,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Peaceful Weal (by a Babbling Brook)",
       "url": "https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q"
@@ -2833,6 +2905,24 @@
       "duration_ms": 160988,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/3l33BD42cOR4aOFI9PTPQs"
+    },
+    {
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/4tqFubjBcNsN4EL8EgaZE4"
+      },
+      "artists": [
+        {
+          "name": "Abyss\u00e9",
+          "url": "https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168349,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/545OJfzJ8JSXsp9maoiuIB"
     },
     {
       "album": {
@@ -3092,6 +3182,24 @@
     },
     {
       "album": {
+        "name": "Spa Rituals",
+        "url": "https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb"
+      },
+      "artists": [
+        {
+          "name": "Ayivah",
+          "url": "https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151654,
+      "name": "Spa Rituals",
+      "url": "https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP"
+    },
+    {
+      "album": {
         "name": "Queen of Spiritual Sleep",
         "url": "https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit"
       },
@@ -3125,6 +3233,24 @@
       "duration_ms": 193066,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/5mkclihPsbGFJBCEHWdU3K"
+      },
+      "artists": [
+        {
+          "name": "Pouring Voices",
+          "url": "https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188660,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/1x4OI6ufrImrBlO3DlEXWF"
     },
     {
       "album": {

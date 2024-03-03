@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 7066,
+  "2024-03-03": 7067,
   "date_first_scraped": "2021-11-28",
   "description": "Deep Bass - Melodic Bass - Dubstep - 140 - Downtempo - Dance Music - Tribal Trap - Grime - Future Bass",
   "name": "Deep Bass / Melodic Bass / 140",
@@ -1671,6 +1671,24 @@
       "duration_ms": 215681,
       "name": "Get Bun",
       "url": "https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y"
+    },
+    {
+      "album": {
+        "name": "Getting Closer",
+        "url": "https://open.spotify.com/album/0DCQehQSoGLCUNPvj2bSbL"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Getting Closer",
+      "url": "https://open.spotify.com/track/1mzLrbl3iPhvmgoqxrz31c"
     },
     {
       "album": {

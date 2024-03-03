@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,148 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,262 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 64 | [Broken Melodies \- JVKE Remix](https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Broken Melodies \(JVKE Remix\)](https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn) | 3:46 |
 | 65 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 |
 | 66 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 |
-| 67 | [Can I Make You Jealous](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
+| 67 | [Can I Make You Jealous?](https://open.spotify.com/track/43D19QXgBwYITGUSpjET9b) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Can I Make You Jealous?](https://open.spotify.com/album/2xjLlbsjNn35Id76yhgAzo) | 2:44 |
 | 68 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 |
 | 69 | [Iconique](https://open.spotify.com/track/2AwHfYNiI0aDqs51eA3KUr) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Iconique](https://open.spotify.com/album/7ombOGgLGSWIwT07NmcR6W) | 2:32 |
 | 70 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 |
 | 100 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
 
-Snapshot ID: `MCxmYjNkNmE2OTY1MDFjZWFhMWZjMmMyNjhjY2E4ZWE0MWUwYzkxZGU3`
+Snapshot ID: `MCxkYzI3NWRiZGI5NDRjNzBjM2VmNjRlYzM4Yjk2YjRkZGFhNzZkZTI2`

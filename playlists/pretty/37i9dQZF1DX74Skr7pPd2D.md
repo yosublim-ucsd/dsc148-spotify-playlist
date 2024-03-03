@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,217 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,223 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 55 | [Soul Sauce](https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC) | 2:27 |
 | 56 | [Bye Bye Blackbird](https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 6:42 |
 | 57 | [Samba Para Dos](https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Samba Para Dos](https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM) | 10:06 |
-| 58 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
-| 59 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
+| 58 | [Noche De Ronda](https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:40 |
+| 59 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 60 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 |
 | 61 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
 | 62 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MCxlNjFjYzViZmI5MGI1ZDQ4OTBhMTkwN2NkMzhiNmVmYzdlYjQ1Yjg0`
+Snapshot ID: `MCwzNGZhNWI3NDVmYjBhNjU3Njk5NjA3ZjFhOGY2NDUwY2UyYTZkNWJi`

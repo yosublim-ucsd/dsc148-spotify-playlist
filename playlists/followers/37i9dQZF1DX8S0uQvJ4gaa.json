@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1217624,
+  "2024-03-03": 1218138,
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Bailey Zimmerman",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Ryan Hurd",
   "name": "New Boots",
   "tracks": [
     {
@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "2AM in London",
+        "url": "https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "2AM in London",
+      "url": "https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP"
+    },
+    {
+      "album": {
         "name": "3 Feet Tall",
         "url": "https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 222906,
       "name": "3 Feet Tall",
       "url": "https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2"
@@ -797,10 +815,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 169453,
       "name": "After We Broke Up",
       "url": "https://open.spotify.com/track/26YMRlGr9HkK93yjbRjqbZ"
+    },
+    {
+      "album": {
+        "name": "After We Broke Up (feat. Frawley)",
+        "url": "https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        },
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "After We Broke Up - feat. Frawley",
+      "url": "https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN"
     },
     {
       "album": {
@@ -1085,7 +1125,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
@@ -3239,7 +3279,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 259440,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
@@ -3369,6 +3409,24 @@
       "duration_ms": 208357,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/5SGqX9Sd0wsWNdfdrW3EmQ"
+    },
+    {
+      "album": {
+        "name": "Blue Over You",
+        "url": "https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245511,
+      "name": "Blue Over You",
+      "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
     },
     {
       "album": {
@@ -3693,7 +3751,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176347,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/2xB4WMt3zCHoZtC55XdOcu"
@@ -3909,7 +3967,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155173,
       "name": "Breakin' in Boots",
       "url": "https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI"
@@ -4475,6 +4533,24 @@
       "duration_ms": 230032,
       "name": "Call You Names",
       "url": "https://open.spotify.com/track/6CdivH24hdlB5XXC2ZQA2N"
+    },
+    {
+      "album": {
+        "name": "Called Crazy",
+        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199728,
+      "name": "Called Crazy",
+      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
     },
     {
       "album": {
@@ -7995,7 +8071,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184466,
       "name": "Drunk and Hungover",
       "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
@@ -10755,7 +10831,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195933,
       "name": "Go Get Her",
       "url": "https://open.spotify.com/track/1V9vDStzw6C7pXSsIrzER2"
@@ -13111,7 +13187,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194920,
       "name": "heels over head",
       "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
@@ -13133,6 +13209,24 @@
       "duration_ms": 253818,
       "name": "Hell Bent",
       "url": "https://open.spotify.com/track/1b7kvn9vVtwapq3ZQyqYvi"
+    },
+    {
+      "album": {
+        "name": "Hell is a Dance Floor",
+        "url": "https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Hell is a Dance Floor",
+      "url": "https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL"
     },
     {
       "album": {
@@ -13389,7 +13483,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
@@ -14527,6 +14621,24 @@
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
+    },
+    {
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267149,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
     },
     {
       "album": {
@@ -20074,6 +20186,24 @@
     },
     {
       "album": {
+        "name": "Messed Up As Me",
+        "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Messed Up As Me",
+      "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
+    },
+    {
+      "album": {
         "name": "Small Town",
         "url": "https://open.spotify.com/album/7AuIqL1NcIhrCO7WXnMwYg"
       },
@@ -20143,6 +20273,24 @@
       "duration_ms": 225911,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/45kOkBcDspeVUQ48syBlD1"
+    },
+    {
+      "album": {
+        "name": "Midwest Rock & Roll",
+        "url": "https://open.spotify.com/album/1ROseSkx6NaAleh4OIknGf"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231672,
+      "name": "Midwest Rock & Roll",
+      "url": "https://open.spotify.com/track/1bCXJNruuOmSgeoc2kij4S"
     },
     {
       "album": {
@@ -27060,6 +27208,24 @@
     },
     {
       "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+    },
+    {
+      "album": {
         "name": "Smoke In A Bar",
         "url": "https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7"
       },
@@ -27793,6 +27959,24 @@
       "duration_ms": 239000,
       "name": "Sometimes She Stays",
       "url": "https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },
     {
       "album": {
@@ -28809,7 +28993,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 226000,
       "name": "Straight Line",
       "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
@@ -30491,7 +30675,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174274,
       "name": "The Reason I Stay",
       "url": "https://open.spotify.com/track/5t9emg56o3DdxYCVNcG1z4"
@@ -31459,7 +31643,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 230106,
       "name": "Tim + Faith",
       "url": "https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX"
@@ -31611,6 +31795,24 @@
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "album": {
@@ -32185,6 +32387,24 @@
       "duration_ms": 177720,
       "name": "Twang",
       "url": "https://open.spotify.com/track/1XS1SOCah7vnuKqSDxDEdM"
+    },
+    {
+      "album": {
+        "name": "Two Night Stands",
+        "url": "https://open.spotify.com/album/1J8bW7Kc9I45ULQxgs1bv6"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Two Night Stands",
+      "url": "https://open.spotify.com/track/2FEjp5cUHa1UYvwDbC28vQ"
     },
     {
       "album": {
@@ -35003,6 +35223,24 @@
       "duration_ms": 163622,
       "name": "Wine Country",
       "url": "https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK"
+    },
+    {
+      "album": {
+        "name": "Wine Into Whiskey",
+        "url": "https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166343,
+      "name": "Wine Into Whiskey",
+      "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
     },
     {
       "album": {

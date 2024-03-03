@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-74 songs - 3 hr 57 min
+75 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2024-01-26 |  |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-02-23 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-01-26 |  |
+| [SEYA](https://open.spotify.com/track/1Ljb1Bo6Nc9SqdtKdkXHCN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e) | 3:08 | 2024-03-01 |  |
 | [SEYA](https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn) | 3:08 | 2024-02-02 | 2024-03-02 |
-| [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2024-03-01 |  |
+| [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2024-03-01 | 2024-03-03 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2024-01-26 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2024-01-26 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-26 |  |

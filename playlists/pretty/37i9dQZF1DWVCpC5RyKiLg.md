@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,320 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,490 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [É natural \(Participação especial de Bruno Cardoso\) \- Ao vivo](https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Bruno Cardoso](https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:27 |
 | 75 | [1 Metro e 65 \- Ao Vivo](https://open.spotify.com/track/2yhtzzLeMc3t0LgtlZMgS8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto Ao Vivo no Maracanãzinho](https://open.spotify.com/album/3xQrJnXUzbGn4vfeZRmOug) | 3:43 |
 
-Snapshot ID: `MCwxYTAwMzc2NjQ2OGJiZTVhNTYxOTc3MWZlZGUxOTBmNjNlMDdiYzgw`
+Snapshot ID: `MCxjYjVlYjk3Njk5NTRmOTI2NGMxY2IxMGM5YTdhOGQ5ZWIwYWRkMDBm`

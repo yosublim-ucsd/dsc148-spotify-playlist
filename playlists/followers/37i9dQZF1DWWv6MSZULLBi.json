@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 164572,
+  "2024-03-03": 164589,
   "date_first_scraped": "2022-05-14",
   "description": "A laid-back trip in the folk scene. Cover: Shaina Hayes",
   "name": "Folk & Friends",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 261108,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/60Yt8oCAAQFeoFN9tPMmDG"
@@ -1574,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop Loving You (Live from the Treehouse)",
+        "url": "https://open.spotify.com/album/2v06baVYPu4TDtZXXXMltq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Can't Stop Loving You (Live from the Treehouse)",
+      "url": "https://open.spotify.com/track/3qo22ku7j0p8xsMBymHUo4"
+    },
+    {
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1643,6 +1661,24 @@
       "duration_ms": 267029,
       "name": "Cannot Change It All",
       "url": "https://open.spotify.com/track/3o0DkaDAeuO8mXFqdgCVXv"
+    },
+    {
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/1wFREzOReu0HUeh1Ww9Z5J"
+      },
+      "artists": [
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256614,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/1hSQICDWszNYqqH3d6wBeb"
     },
     {
       "album": {
@@ -1967,7 +2003,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
@@ -4123,7 +4159,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236000,
       "name": "Flowers on the Fire Escape",
       "url": "https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0"
@@ -5259,7 +5295,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212480,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7I5lWaa5IhmZ9e2C1CNMeh"
@@ -5371,7 +5407,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 158374,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
@@ -5717,7 +5753,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200202,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR"
@@ -5847,7 +5883,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 210465,
       "name": "In Emerald",
       "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"
@@ -7640,6 +7676,24 @@
     },
     {
       "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "album": {
         "name": "mundane",
         "url": "https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg"
       },
@@ -8221,7 +8275,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 149000,
       "name": "not a king",
       "url": "https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe"
@@ -8261,6 +8315,24 @@
       "duration_ms": 157781,
       "name": "Nothing Really Changes",
       "url": "https://open.spotify.com/track/64W1kfl7LElmefBwllY9T0"
+    },
+    {
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
     },
     {
       "album": {
@@ -8495,7 +8567,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192373,
       "name": "On The Way",
       "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
@@ -9614,6 +9686,24 @@
     },
     {
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/7p46jopEVdyoabBoen57VI"
+    },
+    {
+      "album": {
         "name": "Rotting Fruit",
         "url": "https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc"
       },
@@ -9679,7 +9769,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
@@ -10343,6 +10433,24 @@
       "duration_ms": 223359,
       "name": "Sometimes the Darts Hit the Wall",
       "url": "https://open.spotify.com/track/2NOIMtgcRNmQ2n93ZbyukF"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Somewhere Between",
+      "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
     },
     {
       "album": {
@@ -11851,6 +11959,24 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "album": {

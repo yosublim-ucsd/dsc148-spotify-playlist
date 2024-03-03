@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 131821,
+  "num_followers": 131842,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcwOTRiZTBkMjBlMDNjNjM2YTk4NjI3YjNhNDRhOGNjZWNlNmE5",
+  "snapshot_id": "MCxiNGVmMjAwMGNkNDg2YTc0ZTdiYzljMTZiOWZhMjIyZTgwMTQ1MWFm",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 300676,
-      "name": "Orphan Annie",
-      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Rhinestone Revival",
-        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
       "artists": [
         {
-          "name": "The Kody Norris Show",
-          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 173233,
-      "name": "I Call Her Sunshine",
-      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
       },
       "artists": [
         {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
         }
       ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
+      "duration_ms": 173233,
+      "name": "I Call Her Sunshine",
+      "url": "https://open.spotify.com/track/3kFQ9eRvWehIy2vweECLPY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1651,38 +1651,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "3+ (EP)",
-        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Born To Be With You",
-      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Morning Shift",
         "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
       },
@@ -1715,6 +1683,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "3+ (EP)",
+        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Born To Be With You",
+      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Calling You From My Mountain",
         "url": "https://open.spotify.com/album/3WyCl62CMDBjBleRYVGqnc"
       },
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Maria with a \"J\"",
-        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
       "artists": [
         {
-          "name": "Marija Droze",
-          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 239601,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1775,38 +1779,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
       },
       "artists": [
         {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
+      "duration_ms": 239601,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
     },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
       },
       "artists": [
         {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+      "duration_ms": 256506,
+      "name": "Charlie Pickle",
+      "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
     }
   ],
   "unique_name": "Grass Roots",

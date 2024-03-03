@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,706 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,740 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 60 | [La Tetita](https://open.spotify.com/track/2kOOUxPrMxVNCQrjkBJoMz) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:10 |
 
-Snapshot ID: `MCxlNmU4NmRkNzAyNDY4NjJiYmYxMjc2OWIwODUwNDgxZGFjMGEyMjg4`
+Snapshot ID: `MCw5Mzg0ZDc5ZGNlZjVkMzJlMmI5Y2FkMDBiODQ2ODA5NTA1YmVjNDBh`

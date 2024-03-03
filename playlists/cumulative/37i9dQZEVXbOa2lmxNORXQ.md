@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-916 songs - 2 day 2 hr 16 min
+917 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-08-06 | 2022-08-10 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-10 | 2023-03-19 |
 | [EL PADRINO](https://open.spotify.com/track/0zWkVCi9eFjcVAM839IkCZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:48 | 2021-08-22 | 2021-08-29 |
+| [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 | 2024-03-02 |  |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-07-29 | 2023-08-28 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2023-12-26 | 2024-01-04 |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2021-05-20 | 2021-05-25 |
@@ -581,7 +582,7 @@
 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 | 2023-01-21 | 2023-02-19 |
 | [No Quiero Envejecer](https://open.spotify.com/track/16bO4MDWv0DDTZbtJtepPv) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Música Tropical de Colombia, Vol\. 12](https://open.spotify.com/album/4v3LXqp5JTj71WkOupsxeB) | 3:01 | 2023-12-26 | 2024-01-04 |
 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 | 2022-01-13 | 2022-02-23 |
-| [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-03-21 |  |
+| [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-03-21 | 2024-03-03 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2023-04-19 | 2023-04-21 |
 | [No soy Eterno](https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:31 | 2023-10-10 | 2023-10-14 |
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-05-30 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 427533,
+  "2024-03-03": 427753,
   "date_first_scraped": "2021-12-21",
   "description": "Masterpieces from the world of opera.",
   "name": "Opera Classics",
@@ -5999,6 +5999,36 @@
       "duration_ms": 419573,
       "name": "Wagner: Der fliegende Holl\u00e4nder, WWV 63, Act 2: \"Johohoe! Traft ihr das Schiff im Meere an\" (Senta, Chorus) - Live",
       "url": "https://open.spotify.com/track/1e4TxTGrRwuZqiquUkcxq9"
+    },
+    {
+      "album": {
+        "name": "In the Shadows",
+        "url": "https://open.spotify.com/album/2ShK5CySPE32SfPcPf568H"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Christophe Rousset",
+          "url": "https://open.spotify.com/artist/5JYgjQKgcKOCWvsMztDF2z"
+        },
+        {
+          "name": "Les Talens Lyriques",
+          "url": "https://open.spotify.com/artist/7rfKdyx8vflt0A81D6phEQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349653,
+      "name": "Wagner: Lohengrin: \"Mein lieber Schwan\" (Lohengrin)",
+      "url": "https://open.spotify.com/track/2YENWPn7toTXctqsdRzkUe"
     },
     {
       "album": {

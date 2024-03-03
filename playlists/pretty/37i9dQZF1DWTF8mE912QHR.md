@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTF8mE912QHR.md) - [plain]
 
 > Featuring Nsqk, Quevedo, Mora & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTF8mE912QHR.md) - [plain]
 | 10 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
 | 11 | [SANTOBELLAKO](https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [SANTOBELLAKO](https://open.spotify.com/album/41HE8taCCJIQEysYp0nEzd) | 2:36 |
 | 12 | [si preguntas por mi](https://open.spotify.com/track/5Uoni5ULnC7Aq69DsRR10G) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:35 |
-| 13 | [Tu me calmas](https://open.spotify.com/track/3TuHRT3eT8tYIcN2kQmcNo) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 2:07 |
+| 13 | [Tu me calmas](https://open.spotify.com/track/3TuHRT3eT8tYIcN2kQmcNo) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 2:07 |
 | 14 | [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 |
 | 15 | [EMRATA](https://open.spotify.com/track/4KDVAhmcD0b9Kgo4GHUBZA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:45 |
 | 16 | [HOOKEADO](https://open.spotify.com/track/3sHkuZjIaeLuMYLJAV0UVr) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [DE CERO](https://open.spotify.com/album/0xxxP3nQaHw6JAHUVBvGFi) | 3:17 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTF8mE912QHR.md) - [plain]
 | 19 | [Donde CRJ \- Remix](https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Donde CRJ \(Remix\)](https://open.spotify.com/album/4m0EGRYRzekBkg9pVRNrKN) | 4:16 |
 | 20 | [Hey Chanty](https://open.spotify.com/track/5EWQWiQS2eseBWfgesPEh2) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Hey Chanty](https://open.spotify.com/album/789JJAQJ3JyAzEIF8sUmc0) | 2:40 |
 
-Snapshot ID: `MCxjZjIzZjM5MzU4NTk1ZmQ0MWM4ZjJiNThjZDI0ZWFjYTI4MGRjNGEw`
+Snapshot ID: `MCxjYzg2NzYyZmM0ZjgyNzlhYzk2N2YwZmI3OTM3MmMxMTU3YjVkZmZk`

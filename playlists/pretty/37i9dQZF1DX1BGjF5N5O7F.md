@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,120 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,116 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
 | 50 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 |
 
-Snapshot ID: `MCw5ZTk4MGU3Njk1MGU4NmZmYWFjZTcwNWM0OTk2MDJiMDZjODI5YjYz`
+Snapshot ID: `MCw5NTBjY2UzOTQwOGE0MmVkM2JiOTk0MTgwMDlmYzQ5ZjJmZDZiODg2`

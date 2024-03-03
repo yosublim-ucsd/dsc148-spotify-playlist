@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Ajuliacosta, Duquesa, Mc Luanna, iamlope$$, LAI$ROSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,846 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,865 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 42 | [Aumentando os Lucros](https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:20 |
 | 43 | [Casaco Amiri](https://open.spotify.com/track/18q6sbTMSQGe4R7wn2mCKl) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 2:22 |
 | 44 | [Nós É Rei Não Tem Jeito](https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Fontalis / Nós É Rei Não Tem Jeito](https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl) | 1:31 |
-| 45 | [BLACK DE COR](https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:04 |
+| 45 | [GLOCK DE COR](https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:04 |
 | 46 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
 | 47 | [FILME MAFIOSO](https://open.spotify.com/track/3jDruglRjyE4P2aIZgtm8Y) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Cloudsnobeat](https://open.spotify.com/artist/4tSKK04OWnbdlhJday79wH) | [Bem\-vindo a Armadilha Brasileira](https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU) | 1:45 |
 | 48 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 |
 | 49 | [MÍDIA](https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [MÍDIA](https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq) | 1:56 |
 | 50 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 
-Snapshot ID: `MCwxYjMzODY1NGRiOTE1MmUzMmM1MjhjOTlhZTAxYWQwYjUyMWJmNWQ5`
+Snapshot ID: `MCxkMjZmM2UyODQ4YzYxM2I2YTU2ODBkMWY2YmU2ZDJmMzBhODUzZGIw`

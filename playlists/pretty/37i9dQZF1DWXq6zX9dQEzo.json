@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 215943,
+  "num_followers": 216158,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzhiYTAzY2Y3OGE5NWU4MWE3ZDkyNTdkOGY5ZTUwMWUyOGU5NTM2",
+  "snapshot_id": "MCwyZGM3MTg2ZmFiY2E2NGY3NGQ1MGViODExY2YxZmZiZmUyZjMzYmMx",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:21",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "LOWERCASE TAPE.",
-        "url": "https://open.spotify.com/album/4r8c1dnHiTKnZSgzx9ae9L"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 119297,
-      "name": "STIX",
-      "url": "https://open.spotify.com/track/1EgBhj7zEO8c1IozLh0lN7"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 176579,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "LOWERCASE TAPE.",
+        "url": "https://open.spotify.com/album/4r8c1dnHiTKnZSgzx9ae9L"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 119297,
+      "name": "STIX",
+      "url": "https://open.spotify.com/track/1EgBhj7zEO8c1IozLh0lN7"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -331,30 +331,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
-        "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 242387,
-      "name": "NO WEAPON (feat. Lecrae & Fred Hammond) - REMIX",
-      "url": "https://open.spotify.com/track/1px8pB3hS1xWRsNy25olaM"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Good, Pt. 2",
         "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 217750,
       "name": "Good, Pt. 2",
       "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
+        "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 242387,
+      "name": "NO WEAPON (feat. Lecrae & Fred Hammond) - REMIX",
+      "url": "https://open.spotify.com/track/1px8pB3hS1xWRsNy25olaM"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1031,24 +1031,8 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "STRONGER",
-        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
+        "name": "PLAN PLAN",
+        "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
       "artists": [
         {
@@ -1056,17 +1040,17 @@
           "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
         },
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
         },
         {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
         }
       ],
-      "duration_ms": 132053,
-      "name": "STRONGER",
-      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
+      "duration_ms": 168000,
+      "name": "PLAN PLAN",
+      "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1087,6 +1071,22 @@
       "duration_ms": 200314,
       "name": "Full Metal",
       "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "STRONGER",
+        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 132053,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "ALOT",
         "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 145011,
       "name": "ALOT",
       "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "PLAN PLAN",
-        "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        },
-        {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "PLAN PLAN",
-      "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Lay Up",
-        "url": "https://open.spotify.com/album/2mClPnaQSQmux4OMZyO8mg"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 142582,
-      "name": "Lay Up",
-      "url": "https://open.spotify.com/track/424DYlPB1cJCWiGKjFK5pU"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Affirmations",
         "url": "https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 239266,
       "name": "Up Up Up (Introducing Zach Savage)",
       "url": "https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Lay Up",
+        "url": "https://open.spotify.com/album/2mClPnaQSQmux4OMZyO8mg"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 142582,
+      "name": "Lay Up",
+      "url": "https://open.spotify.com/track/424DYlPB1cJCWiGKjFK5pU"
     },
     {
       "added_at": "2024-02-02 06:01:21",

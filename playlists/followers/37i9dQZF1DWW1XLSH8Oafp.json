@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 245697,
+  "2024-03-03": 245740,
   "date_first_scraped": "2022-01-17",
   "description": "ur on the list bb \ud83e\ude90 featuring Charli XCX",
   "name": "planet rave",
@@ -5203,6 +5203,28 @@
       "duration_ms": 212571,
       "name": "FOREVER - Kareem Ali Remix",
       "url": "https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU"
+    },
+    {
+      "album": {
+        "name": "Forever 2 (Crush Mix)",
+        "url": "https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222621,
+      "name": "Forever 2 (Crush Mix)",
+      "url": "https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L"
     },
     {
       "album": {
@@ -14677,7 +14699,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 124745,
       "name": "Under my Bed",
       "url": "https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj"

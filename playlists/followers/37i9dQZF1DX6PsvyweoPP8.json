@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 218556,
+  "2024-03-03": 218575,
   "date_first_scraped": "2022-03-24",
   "description": "Muito trap feito especialmente para os momentos mais sexys e quentes. [Conte\u00fado Expl\u00edcito]",
   "name": "TRAPando",
@@ -513,7 +513,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 180000,
       "name": "Baby Boy",
       "url": "https://open.spotify.com/track/6YkDNFdJpAXq3qgHYjPMCA"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 202484,
       "name": "CACHOEIRA",
       "url": "https://open.spotify.com/track/34twBt5xY7Rw1C1SFIgkAq"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 168207,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/3YQmqTYphzRVoqsQaJxNWF"
@@ -1680,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Entre N\u00f3s (Duto Camp Apresenta)",
+        "url": "https://open.spotify.com/album/049fCiGKkh9xh8tVLdjvmA"
+      },
+      "artists": [
+        {
+          "name": "Savanah",
+          "url": "https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178392,
+      "name": "Entre N\u00f3s (Duto Camp Apresenta)",
+      "url": "https://open.spotify.com/track/2Ra0RpqaVPYFKwxM508xHW"
+    },
+    {
+      "album": {
         "name": "Eu Presto",
         "url": "https://open.spotify.com/album/0NQrQxJXvtaL7goJG29Z3I"
       },
@@ -1695,6 +1713,32 @@
       "duration_ms": 152470,
       "name": "Eu Presto",
       "url": "https://open.spotify.com/track/2yyG2gtYGsRbkH6BN816ep"
+    },
+    {
+      "album": {
+        "name": "Expl\u00edcito",
+        "url": "https://open.spotify.com/album/110KVzMll2pkSCue4TKblu"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Carol Andrade",
+          "url": "https://open.spotify.com/artist/3fctTsft6lHY1Aqayr1Tj7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200005,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/6NYqvbaeS7XgcUse43r20R"
     },
     {
       "album": {
@@ -2185,7 +2229,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166736,
       "name": "Imprevis\u00edvel",
       "url": "https://open.spotify.com/track/2vn12WOrknKDFf62S53Ivc"
@@ -3420,6 +3464,32 @@
     },
     {
       "album": {
+        "name": "Pega a Flor",
+        "url": "https://open.spotify.com/album/3ytOBP6pUdv34WpUjjmLf1"
+      },
+      "artists": [
+        {
+          "name": "Lil Tec",
+          "url": "https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ"
+        },
+        {
+          "name": "MC Del Piero",
+          "url": "https://open.spotify.com/artist/6g1U7DZMuUOcOOSAEUlWmU"
+        },
+        {
+          "name": "Mc Erikah",
+          "url": "https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134569,
+      "name": "Pega a Flor",
+      "url": "https://open.spotify.com/track/1uHVAFPrdM2KzVRssJH5NN"
+    },
+    {
+      "album": {
         "name": "Perfumes e Bal\u00e3o",
         "url": "https://open.spotify.com/album/2bSZIwIoaRPtMoLk7RUKG0"
       },
@@ -3927,6 +3997,48 @@
       "duration_ms": 234461,
       "name": "Segundo Andar",
       "url": "https://open.spotify.com/track/7rwW1Si2yr1dlLj6G2eDnU"
+    },
+    {
+      "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Sem Censura",
+      "url": "https://open.spotify.com/track/49NyXYwAtRZcjTojDdffrz"
     },
     {
       "album": {

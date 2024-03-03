@@ -4,11 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 14 hr 26 min
+275 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5ewcbH8HRUcbDD0UsXa9by) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RnHxju5IKBQchj1yQW3eu) | 0:00 | 2023-12-30 |  |
+| [](https://open.spotify.com/track/5ewcbH8HRUcbDD0UsXa9by) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1RnHxju5IKBQchj1yQW3eu) | 0:00 | 2023-12-30 | 2024-03-03 |
 | [\(If You Cry\) True Love, True Love \- Single Version](https://open.spotify.com/track/70uRVIOlkJAR0LQ7zvLxxb) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Definitive Soul: The Drifters](https://open.spotify.com/album/4P2Ydg6ObtLrn99a7l3wsO) | 2:18 | 2023-12-30 |  |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 | 2023-12-30 |  |
 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 | 2023-12-30 |  |
@@ -72,6 +72,7 @@
 | [Ferguson Road](https://open.spotify.com/track/3uxZ4AsLRki16vSsb6NytJ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:38 | 2023-12-30 |  |
 | [Free As The Wind](https://open.spotify.com/track/6EGp2ibu1erSO4KdrkgcAd) | [Susan & The Surftones](https://open.spotify.com/artist/1VUnCTjMfvEyUvg2CVx3JE) | [Fluid Drive](https://open.spotify.com/album/6gFsi025x9kfLWZFbmn5sd) | 3:19 | 2023-12-30 |  |
 | [Funny Face](https://open.spotify.com/track/6yJ7h7EThTaR4IYG23XWiA) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Shelley!](https://open.spotify.com/album/3gm0Xom6PrWBT1t6ua7oE0) | 1:59 | 2023-12-30 |  |
+| [Go Away Little Girl \(2023 Remastered\)](https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Essential Classics, Vol\. 16: Steve Lawrence](https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej) | 2:11 | 2024-03-02 |  |
 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 | 2023-12-30 |  |
 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 | 2023-12-30 |  |
 | [Golden Days](https://open.spotify.com/track/7jcInqhfBalnzBRfozpvbJ) | [Kathy Kirby](https://open.spotify.com/artist/1kVx0f62SrfKxKIzXJtTUf) | [The Best Of The EMI Years](https://open.spotify.com/album/4IgZkMxuTkMXiaa6Nq9IJw) | 2:59 | 2023-12-30 |  |

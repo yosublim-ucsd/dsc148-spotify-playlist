@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Meek Mill, That Mexican OT and more\. Cover: Schoolboy Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,901 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,017 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Flawless](https://open.spotify.com/track/3ULaknsaBsXJ61Gltr5RED) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Flawless](https://open.spotify.com/album/3dLSddpwD3nXf0aEz3NnMf) | 2:56 |
 | 50 | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4syEuJtAptgxJZxdmbYtSa) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/60B0F2iSBTAuNUkXVfOgoe) | 2:38 |
 
-Snapshot ID: `MCw1NDk2MTM4NmUwMzVkNzg3YmJhNWU2MzYxODc5MmY0YjI0NjQwMTBi`
+Snapshot ID: `MCw2M2JmNDgzMTA1MzY1NmJhNGM4MDhkOTVkMDhhZWExZjdmZTY4NjVk`

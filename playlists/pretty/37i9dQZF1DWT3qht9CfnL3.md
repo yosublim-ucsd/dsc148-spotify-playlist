@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,054 likes - 91 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,059 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 8 | [REPEAT](https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 2:30 |
 | 9 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 10 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
-| 11 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
+| 11 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
 | 12 | [Como Antes](https://open.spotify.com/track/4xGGG1jWs6x56KZ9A4rS3m) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Como Antes](https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy) | 2:48 |
 | 13 | [SIN PASAPORTE](https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [SIN PASAPORTE](https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS) | 2:08 |
 | 14 | [Ex \(con La Joaqui\)](https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:04 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 90 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
 | 91 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
 
-Snapshot ID: `MCxmMzYxZTQ2ODQxOTFmYmFhNDZkOTMzNWQyN2FhZjgxNmY2ZDA5YjNk`
+Snapshot ID: `MCw2M2QxNDJhZjJjMzVlYzJmM2Q2ZTQ5YjVkZjU2ZjllMjgxY2EzN2Mx`

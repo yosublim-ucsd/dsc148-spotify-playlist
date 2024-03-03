@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con YoSoyMatt.
 
-674 songs - 1 day 12 hr 34 min
+676 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-01-24 | 2023-02-03 |
 | [egodeath](https://open.spotify.com/track/6NL6uKfXQRx4FlY7DCBPJn) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [egodeath](https://open.spotify.com/album/4ryLP6ODKCP7I0uG9gjnjU) | 3:14 | 2023-10-13 | 2024-02-24 |
 | [El diablo](https://open.spotify.com/track/1XXlQWDJNOXPocWP8EpSz5) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [Flore](https://open.spotify.com/album/4AUGw6j268jiJ5Tm8ULPSl) | 3:42 | 2021-12-02 | 2022-01-25 |
-| [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-23 |  |
+| [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-23 | 2024-03-03 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2023-02-17 | 2023-08-26 |
 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 | 2023-08-25 | 2023-09-30 |
 | [El Rey de la Popola \- Spotify Singles](https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:30 | 2021-12-02 | 2022-01-25 |
@@ -384,7 +384,7 @@
 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 | 2023-11-17 |  |
 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 | 2023-02-17 | 2023-03-29 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
-| [Mi Onda](https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Mi Onda/Elen](https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen) | 2:30 | 2024-01-26 |  |
+| [Mi Onda](https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Mi Onda/Elen](https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen) | 2:30 | 2024-01-26 | 2024-03-03 |
 | [Mi Otra Mitad](https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 2:51 | 2022-01-24 | 2022-03-22 |
 | [Miel](https://open.spotify.com/track/3gT7PmnAnGV08uHVcEwONA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:52 | 2023-09-29 | 2023-10-14 |
 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 | 2023-02-17 | 2023-05-13 |
@@ -467,6 +467,7 @@
 | [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 | 2024-02-16 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-29 | 2023-10-14 |
 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 | 2023-11-17 |  |
+| [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 | 2024-03-01 |  |
 | [Papi](https://open.spotify.com/track/0oqSDa2UpnKWwncU8Y9098) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Papi](https://open.spotify.com/album/2TCI9AcDhC6ksP5JMyAv5J) | 3:21 | 2023-09-29 | 2023-10-14 |
 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 | 2023-03-08 | 2023-07-01 |
 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 | 2023-10-13 |  |
@@ -630,6 +631,7 @@
 | [Uhuh Yeah](https://open.spotify.com/track/2vFoOqeMKwLNp5q56TMPSU) | [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ), [Colbie](https://open.spotify.com/artist/4Gt6xGVHlxudOrO4VRuNRm) | [Uhuh Yeah](https://open.spotify.com/album/3tabisoRGn39DsCBNcqKR5) | 3:40 | 2022-01-28 | 2022-04-26 |
 | [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 | 2023-08-25 | 2023-09-30 |
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-08 | 2023-05-13 |
+| [Un Llavero](https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Un Llavero](https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0) | 3:10 | 2024-03-01 |  |
 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 | 2022-10-24 | 2023-02-17 |
 | [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |

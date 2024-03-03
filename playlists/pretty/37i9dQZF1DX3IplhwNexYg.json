@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: IDLES",
-  "num_followers": 114597,
+  "num_followers": 114601,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM5Y2YzOTIxNWQ2YzRiYjAyYWI5YTE2NjA0MmVlZGJhYTZlMGEw",
+  "snapshot_id": "MCxiMjZlM2FiNDMxNmRmZDM3NjkyY2Q2MTA3ODU4MGIzNzIyY2Q0MGJj",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Alesis",
-      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
       "added_at": "2024-02-16 11:38:20",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249751,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249751,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 218027,
+      "name": "Sometimes, I Swear",
+      "url": "https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Pick-Up Full Of Pink Carnations",
-        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Pick-Up Full Of Pink Carnations",
+        "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Theatre",
-        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Theatre",
-      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1039,6 +1055,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Nothing Like",
+        "url": "https://open.spotify.com/album/5gttolwoxCFbYQV8T30p3z"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Nothing Like",
+      "url": "https://open.spotify.com/track/3qVRAYhHqf9LzaYQvtdqOd"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -1071,22 +1103,6 @@
       "duration_ms": 197894,
       "name": "When the Laughter Stops",
       "url": "https://open.spotify.com/track/3aE5Ldum42xgbCrOQsEkty"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Nothing Like",
-        "url": "https://open.spotify.com/album/5gttolwoxCFbYQV8T30p3z"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Nothing Like",
-      "url": "https://open.spotify.com/track/3qVRAYhHqf9LzaYQvtdqOd"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     }
   ],
   "unique_name": "pulp",

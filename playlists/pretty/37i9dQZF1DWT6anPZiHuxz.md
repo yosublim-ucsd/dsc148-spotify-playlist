@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Chasing that runner's high
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,679 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,766 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 53 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 |
 | 54 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 55 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
-| 56 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
-| 57 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 |
+| 56 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 |
+| 57 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 58 | [Turn off the Lights \- Cages Remix](https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt), [Cages](https://open.spotify.com/artist/1Ck15KzRcbdOiyLRvw13QJ) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:28 |
 | 59 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 60 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 99 | [Sunshine \(My Girl\) \- Sofi Tukker Remix](https://open.spotify.com/track/5cdauxzCnViQEruce9myFV) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sunshine \(My Girl\) \[Sofi Tukker Remix\]](https://open.spotify.com/album/2nrkOhanLPb2IAxGWORGh5) | 2:41 |
 | 100 | [Barbra Streisand](https://open.spotify.com/track/6HkmOvGpoYrJ1BdppBNp2t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Quack](https://open.spotify.com/album/2r0wRLEAmOJA4ZUkCyfuW6) | 4:24 |
 
-Snapshot ID: `MCw4ZTAyZjcwZTcxMDY3MWNlZWY4NDFjNTU3YzI4MjUwYmQ5MDI3Yjgy`
+Snapshot ID: `MCw0NWJhNTg1YzQ3NGU0MDc3YjMzNzk3NWVjMzFhOTgxMTdmZjgzNDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Been Stellar
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,246 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,267 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 47 | [Wake to flowers](https://open.spotify.com/track/5rA5NU8FxazgSkXNmMN3KT) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Wake to flowers](https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M) | 2:58 |
 | 48 | [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 |
 | 49 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 |
-| 50 | [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 |
+| 50 | [Mercy](https://open.spotify.com/track/0Y8pSUf21GSadiskxuRhUl) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/0bHyVYXp5wWwo7smsgGBLC) | 3:07 |
 | 51 | [Row, Row](https://open.spotify.com/track/6pluR4e5cY2nUgp1aCNIhl) | [Catskill Mountain Rescue Club](https://open.spotify.com/artist/0D4EUlL2tcrfa8PDYb279b), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Barely Trev](https://open.spotify.com/artist/01mUEpopaowW47Ra1nz55w), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Molly McPhaul](https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL) | [Row, Row](https://open.spotify.com/album/3SvxOiQQqWMbgbzEXRflvV) | 2:54 |
 | 52 | [it's all the same to me .](https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK) | [a blue room](https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [it's all the same to me .](https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1) | 3:45 |
 | 53 | [Obstruction](https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Obstruction](https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Here Forever](https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Here Forever](https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh) | 2:20 |
 | 100 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 
-Snapshot ID: `MCxmOGFjY2NiMDg5OGI0NGM5ZTQ0YTgyZDAxNGYzODU4NDc5YjE0ODYy`
+Snapshot ID: `MCwxNTI5NmJiNGE0MGFjZjBhM2E3OTg1NWExMjdlZDY4NzVmZTAyOTQ3`

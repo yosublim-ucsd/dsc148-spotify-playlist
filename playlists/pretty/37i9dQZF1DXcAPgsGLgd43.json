@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3964,
+  "num_followers": 3966,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOThiZTk2ZWJhMzM1YTk1ODJiNGU5MDQ3OTZiMjAzYTYxOTU4ZGFk",
+  "snapshot_id": "MCwxNmY3YzkzZjc4MGFhYmJjY2ZhMjhmOGFiN2I0YzM5MTgzOTA1ZTE3",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -18,10 +18,6 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
       "duration_ms": 186341,
@@ -260,7 +256,7 @@
           "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
         },
         {
-          "name": "Saiko",
+          "name": "SAIKO",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         },
         {
@@ -603,18 +599,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Asereje",
-        "url": "https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
       "artists": [
         {
-          "name": "Jean Massey",
-          "url": "https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 168538,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Asereje",
+        "url": "https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV"
+      },
+      "artists": [
+        {
+          "name": "Jean Massey",
+          "url": "https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE"
+        }
+      ],
+      "duration_ms": 168538,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
       },
@@ -651,26 +667,6 @@
       "duration_ms": 195952,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -783,6 +779,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Tututu (Radio Edit)",
         "url": "https://open.spotify.com/album/2mnt4Rz0fsBFxT7N6iAnr0"
       },
@@ -815,22 +827,6 @@
       "duration_ms": 127250,
       "name": "Tututu - Radio Edit",
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1187,26 +1183,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Te Recorde",
         "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },
@@ -1223,6 +1199,26 @@
       "duration_ms": 167640,
       "name": "Te Recorde",
       "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1423,22 +1419,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1455,6 +1435,38 @@
       "duration_ms": 175040,
       "name": "Bandolera (feat. Buza)",
       "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1483,22 +1495,6 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Wimbo",
-        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
-      },
-      "artists": [
-        {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Wimbo",
-      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1687,6 +1683,26 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 186713,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Esta Pegao",
         "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
       },
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Tr\u00e1gatelo",
         "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1879,26 +1895,6 @@
       "duration_ms": 157016,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6BmDiFZKXXzlLppoWpInHL"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Tomala",
-        "url": "https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY"
-      },
-      "artists": [
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 140671,
-      "name": "Tomala",
-      "url": "https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD"
     }
   ],
   "unique_name": "Alma",

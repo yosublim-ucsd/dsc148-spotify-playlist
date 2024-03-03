@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 574049,
+  "2024-03-03": 574212,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -3453,7 +3453,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
@@ -3627,6 +3627,32 @@
       "duration_ms": 176000,
       "name": "Cuando Sera",
       "url": "https://open.spotify.com/track/1UmZpd5navRsg2ukqCKJjc"
+    },
+    {
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/150WjuATWqqdVxLeWQrlGV"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
     },
     {
       "album": {
@@ -5703,7 +5729,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -10771,7 +10797,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"

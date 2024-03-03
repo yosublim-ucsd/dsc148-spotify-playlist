@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,291 likes - 141 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,363 likes - 141 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 128 | [Looking For Love](https://open.spotify.com/track/6XVAvyFVpWQAb3qlRpWqzc) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:50 |
 | 129 | [Creep](https://open.spotify.com/track/4V1UIphkLDWNybh1Asyowk) | [Filogy](https://open.spotify.com/artist/3O6xEaGWnalrlF4zZKcoTN), [Briana Timari](https://open.spotify.com/artist/5FuojHOJhkVPLVr9lViA66), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf) | [Creep](https://open.spotify.com/album/2ZmvvbdXqAJGzJCwzq5vW6) | 3:05 |
 | 130 | [Half Life \- Green Ring Remix](https://open.spotify.com/track/3ueYMTQJpfC1L3TpqPrcPv) | [Rosalie](https://open.spotify.com/artist/1A5StMge4I3k1GCmFD1Wh6), [Green Ring](https://open.spotify.com/artist/6oRoO5VGKy4x4lr9Ws2rb7) | [Half Life \(Green Ring Remix\)](https://open.spotify.com/album/0OxJHXjHx5NjUFDQkOE0Z8) | 2:51 |
-| 131 | [Home](https://open.spotify.com/track/3q80kvOm7Q0WueY6gCwhbD) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 3:56 |
+| 131 | [Home](https://open.spotify.com/track/3iF0NHptZFPbz1NjH0nLFD) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 3:56 |
 | 132 | [Through And Through \- Mixed](https://open.spotify.com/track/5fXGKjkv3R5fbBixGdbWni) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 4:30 |
 | 133 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 |
 | 134 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 140 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 |
 | 141 | [Daze](https://open.spotify.com/track/5D83D5FCc9HxtXDFbDsRGa) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Daze](https://open.spotify.com/album/6JRG4pQQa7gmRMEsJSaPs1) | 3:20 |
 
-Snapshot ID: `MCxhNGU0MzkzNjYyMGMyMWY1NTVlZWMxMWQ0ZmUxMGU3ZmY1NzUyMDM4`
+Snapshot ID: `MCw4ZTY5OGM3ZDc3OWFmZWNmNjMwYjhjM2Q4ZWE4YjMxY2IzN2E5ZDcz`

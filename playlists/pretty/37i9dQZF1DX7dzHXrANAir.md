@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,374 likes - 160 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,417 likes - 160 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 102 | [In the Soft Light](https://open.spotify.com/track/3XsCxRtDgJIFN02fcTBxme) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Pigott\-Smith](https://open.spotify.com/artist/7cDm7GQi00juXOwvOKZVbm) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 3:53 |
 | 103 | [Thaw](https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Thaw](https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7) | 3:34 |
 | 104 | [mist](https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 6:33 |
-| 105 | [Gnossienne N°3 \(Variation\)](https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Classical Garden](https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS) | 3:35 |
-| 106 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 |
+| 105 | [Pelikan \- Aukai Rework](https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Pelikan \(Aukai Rework\)](https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp) | 5:32 |
+| 106 | [Gnossienne N°3 \(Variation\)](https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Classical Garden](https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS) | 3:35 |
 | 107 | [Where The Light Touches](https://open.spotify.com/track/1AJZpgI4qHJbsC8s7yfUq1) | [Lindsay Wright](https://open.spotify.com/artist/1cYnArE3YN2suL8k0QDVNc) | [Where the Light Touches](https://open.spotify.com/album/1KFVYNTMDGdzN300QEMonW) | 3:44 |
 | 108 | [Robin's Cello \(Turtle Remix\)](https://open.spotify.com/track/1XLRc2YwqD348gKH0iHsNI) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm), [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Caught a Black Rabbit \- The Remixes](https://open.spotify.com/album/4Tlq2ZWSjTMq5sWeRy438H) | 4:53 |
 | 109 | [Sleepless Wake](https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Sleepless Wake](https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs) | 3:42 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 159 | [Super Hexacordum \- Ensemb7e Version](https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ) | [Chapelier Fou](https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd) | [Ensemb7e](https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU) | 5:18 |
 | 160 | [Unity \- Mike Lazarev CrO2 Reduction](https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9) | [Diana Yukawa](https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7), [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unity \(Mike Lazarev CrO2 Reduction\)](https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR) | 3:50 |
 
-Snapshot ID: `MCxlM2U4ZDk5Zjk2N2VkNTAyN2FkZTUyODlmNDkyMGM1MGE1ZDBhZjVl`
+Snapshot ID: `MCw4MzVjYjkxMTA4OTA1ZjBmNjUzOWU0MDJkMmI0MDQ4Nzg1MjZkYTAz`

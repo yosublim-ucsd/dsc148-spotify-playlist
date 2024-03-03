@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,606 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,913 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 74 | [Forever Yours \- Avicii Tribute](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Avicii Tribute\)](https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y) | 3:13 |
 | 75 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 
-Snapshot ID: `MCwxZjYzY2M0NWEyYWY3M2ExNDQ4ZjdlYzlmZDNlNWJiNzBiNzI4NzU4`
+Snapshot ID: `MCxjMjk1YjEyYzc1NTdhOTViMzAyNTYxNjkzZGQ5NjVmMWZlMmI5ZWFk`

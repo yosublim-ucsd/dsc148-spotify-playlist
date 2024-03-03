@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Marry My Husband\(내 남편과 결혼해줘\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,692 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522,785 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 |
 | 100 | [That's You](https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Destined with You \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A) | 3:51 |
 
-Snapshot ID: `MCxhODNkY2Y2Yzc1NTQ5MjVjZDY0NDQwMTc3YmRkZDBkMWM0YzdkN2Mz`
+Snapshot ID: `MCxhMGQ2MGVhOTI5ZTM4ZjQzYzU5NGMxZTI4MmNiM2NmNDZmNzIwYTJh`

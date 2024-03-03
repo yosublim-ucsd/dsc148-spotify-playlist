@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,861 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,388 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Calle \(feat\. Capo Plaza\)](https://open.spotify.com/track/7C8Yj3WDtN1rBu15xIvRA2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:50 |
 | 50 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
 
-Snapshot ID: `MCxiYWE0YTNkMjNmZGRkNWNiMTVlYjUzYWNmYmVhYTM2YjEzNTRlNDM0`
+Snapshot ID: `MCwwNzU3ZmUxNDJmYThhNzgzZDIzYTI3ODQzMWI0M2NjOTdiZjhmZmU3`

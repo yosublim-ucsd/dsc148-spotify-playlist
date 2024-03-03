@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 281514,
+  "2024-03-03": 281589,
   "date_first_scraped": "2021-12-28",
   "description": "The latest, greatest soundtracks from the big and small screen.",
   "name": "Soundtracked",
@@ -2911,6 +2911,24 @@
       "duration_ms": 142163,
       "name": "Meeting Ruth",
       "url": "https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO"
+    },
+    {
+      "album": {
+        "name": "Spaceman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hdVK33BZMAAtFM428XGqr"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Memory Is A Voyager",
+      "url": "https://open.spotify.com/track/6p5OZvP8NGfKSjdqr5o3g8"
     },
     {
       "album": {

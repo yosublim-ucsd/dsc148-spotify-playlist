@@ -4,7 +4,7 @@
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-69 songs - 2 hr 40 min
+70 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Creep](https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g), [Michael Hazlewood](https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI), [Colin Greenwood](https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS), [Jonathan Greenwood](https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9), [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH), [Thomas Yorke](https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO), [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:20 | 2023-08-31 |  |
 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 | 2023-08-31 | 2024-02-27 |
 | [De Ushuaia a La Quiaca \- 2024 Remaster](https://open.spotify.com/track/4vSbZNwBpZHYAyokxVme7J) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 2:50 | 2024-02-26 |  |
+| [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 | 2024-03-02 |  |
 | [Dream Of Higher Altitudes](https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nanga Parbat \(Original Soundtrack\)](https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa) | 1:15 | 2023-08-31 |  |
 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 | 2023-08-31 |  |
 | [Fleeting](https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us \- Vol\. 2 \(Video Game Soundtrack\)](https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV) | 3:00 | 2024-02-10 |  |

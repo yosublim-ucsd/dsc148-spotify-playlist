@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 309591,
+  "2024-03-03": 309619,
   "date_first_scraped": "2022-01-21",
   "description": "A llorar a la llorer\u00eda.",
   "name": "Hora de la Lloraci\u00f3n",
@@ -109,7 +109,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico - Milan y Sasha",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177133,
       "name": "cu\u00e9ntame una historia de rencor",
       "url": "https://open.spotify.com/track/01g1VurJU8HG6B7vMel0hV"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221333,
       "name": "Est\u00e1bamos Tan Bien",
       "url": "https://open.spotify.com/track/3uRSGfI30pIW4efbKh4age"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 174117,
       "name": "Fin Del Mundo (with Bratty)",
       "url": "https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -1691,6 +1691,24 @@
       "duration_ms": 206915,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/1E6QpX1YCNfyXtZ4e6HUuS"
+    },
+    {
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "album": {
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
@@ -2837,7 +2855,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 157690,
       "name": "nom\u00e1s t\u00fa",
       "url": "https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 201493,
       "name": "Nunca Volvieron",
       "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220480,
       "name": "Odio Que No Te Odio",
       "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
@@ -3139,7 +3157,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192250,
       "name": "Ponte en Mi Lugar",
       "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
@@ -3269,7 +3287,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
@@ -3928,6 +3946,24 @@
     },
     {
       "album": {
+        "name": "Soy un HP",
+        "url": "https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146282,
+      "name": "Soy un HP",
+      "url": "https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn"
+    },
+    {
+      "album": {
         "name": "Mundo de Dos",
         "url": "https://open.spotify.com/album/0wQiLJAm15W5IVKks3Rvqg"
       },
@@ -3993,7 +4029,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
@@ -4053,7 +4089,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
@@ -4321,7 +4357,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -4419,7 +4455,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
@@ -4477,7 +4513,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3"
@@ -4921,7 +4957,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199189,
       "name": "Ya Me Hiciste Mal",
       "url": "https://open.spotify.com/track/6Iui84AizPAWhNTnPpxJfm"

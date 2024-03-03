@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 979939,
+  "2024-03-03": 979927,
   "date_first_scraped": "2022-02-25",
   "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. ",
   "name": "Who We Be",
@@ -8489,10 +8489,36 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 151838,
       "name": "In Love With The Lizzy",
       "url": "https://open.spotify.com/track/3NX0NgmoB77A5L8N2DLjnb"
+    },
+    {
+      "album": {
+        "name": "Stars Aligned",
+        "url": "https://open.spotify.com/album/2w7XUlUZNZ6hmr7tsrUNQy"
+      },
+      "artists": [
+        {
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Youngs Teflon",
+          "url": "https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv"
+        },
+        {
+          "name": "Tiny Boost",
+          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151838,
+      "name": "In Love With The Lizzy",
+      "url": "https://open.spotify.com/track/69GURSt8TM0mwIcmHwsUMY"
     },
     {
       "album": {
@@ -9910,6 +9936,24 @@
     },
     {
       "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
+    },
+    {
+      "album": {
         "name": "Lingo",
         "url": "https://open.spotify.com/album/7phfiGXMdU734rL8SOP6bh"
       },
@@ -10689,10 +10733,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 122670,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/266r66IHeCwkVx9i7UGAyw"
+    },
+    {
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/7hTRt1r8CvY0UFxdlLuhDt"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123472,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/5cwrQTTQ08JwwF8qZV5i3M"
     },
     {
       "album": {

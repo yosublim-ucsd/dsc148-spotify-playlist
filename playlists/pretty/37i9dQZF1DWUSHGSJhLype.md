@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > é o puro suco do verão brasileiroooo / Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,932 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,234 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 77 | [Safadinha \(Ao Vivo\)](https://open.spotify.com/track/1vRgbo55CTq3kA1xiIsJ0q) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:51 |
 | 78 | [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 |
 
-Snapshot ID: `MCwzNTRjOTg3YWYxYzY0NDI4ZjZmYzVjYzdiMDdmNzc2ODYzZjZiNWZi`
+Snapshot ID: `MCxmMjk5ODRmZWNlOTZmNTY5YWNhYmJjMzg1ODQwNTIxZjA5MGMyODA2`

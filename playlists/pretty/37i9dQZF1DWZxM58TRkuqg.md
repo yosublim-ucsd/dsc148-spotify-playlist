@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Last Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,958 likes - 74 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,211 likes - 74 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 73 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 | 74 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCxmMjBiNTA3MDdlNmNiZWFhYjAzODNjYjU2OGYyNDBhYTVlMjE0MmE4`
+Snapshot ID: `MCxjMjhlOTJjNmRkYjg4ZTJhMDk2NzdmOTcyYjk0YzVjODJhMmJlNDJm`

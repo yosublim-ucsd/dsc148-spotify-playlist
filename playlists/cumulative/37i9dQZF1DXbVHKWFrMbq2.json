@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247015,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "album": {
         "name": "Lejos De Todo",
         "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 214300,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 354179,
+  "num_followers": 354196,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi",
+  "snapshot_id": "MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2023-11-24 02:05:30",

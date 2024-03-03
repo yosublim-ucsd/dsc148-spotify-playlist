@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,210 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,271 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Class \(From "Showtime"\)](https://open.spotify.com/track/2SQMlgDzgO7NnxgPWLLnjF) | [Diesby](https://open.spotify.com/artist/44NMZks2mBwJdeE0vw7xbb), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Class \(From "Showtime"\)](https://open.spotify.com/album/5Ft2wLJ40RiRBRzEoYrddU) | 3:16 |
-| 2 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
+| 2 | [Nirmohi](https://open.spotify.com/track/2aOUEwMJ3AjE0iiv81AUkx) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Durgesh R Rajbhatt](https://open.spotify.com/artist/7sE4BlKQa4zVmZm0YTiL4R), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Nirmohi](https://open.spotify.com/album/5aqS3ihrdzcgOvIfHIHAe9) | 3:12 |
 | 3 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 |
 | 4 | [Aa Phir Wahin Chaltey Hain](https://open.spotify.com/track/7h9fgYs1w8wrz2TH8LExMC) | [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aa Phir Wahin Chaltey Hain](https://open.spotify.com/album/2ZvyzhpACXONeuGG2Rni33) | 3:55 |
 | 5 | [Tohfa](https://open.spotify.com/track/606P6909bSGZUD3Ssz28GM) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Shawn](https://open.spotify.com/artist/67hXG9xg1BxpuZIGAOmPeH), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Tohfa](https://open.spotify.com/album/2PqZcgHhCOEIZT3eNgafWc) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Saajan Ve](https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Saajan Ve](https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW) | 2:51 |
 | 50 | [Dastoor](https://open.spotify.com/track/4INechXMli8qPmDg1hItRD) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Dastoor](https://open.spotify.com/album/0MGXB7AjKEuaqZy2rObHle) | 3:16 |
 
-Snapshot ID: `MCxiZGYzNmE0OGVkMzRmMzg1MjQ4MWQ0YzhmZTlmNmQzMzliMDJiYzAy`
+Snapshot ID: `MCxlZmNhN2QzYjUzOWQ1ZTljNGFmY2NmYWEyYTI0YjRjYTYzNWMwMDhj`

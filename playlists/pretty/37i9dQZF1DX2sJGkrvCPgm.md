@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,681 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,672 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 149 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 |
 | 150 | [Joy to the World](https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Blue Rose Code](https://open.spotify.com/artist/3fALQUIY93XYP9h7JyPeeb), [Norrie MacIver](https://open.spotify.com/artist/1Z2xJmAUbB6S5b1dZySWHp) | [Come Behold: Christmas Collaborations](https://open.spotify.com/album/6oaRMjkCHhJql0hanPBhcZ) | 3:57 |
 
-Snapshot ID: `MCw0NTE0YjNhYTA4YWJlMmQxYTI4MTZjNWE5NGM0ZjUxYzRkZDE5Yjcx`
+Snapshot ID: `MCw5YzU3ODdkOTkzZTdjOTA2MTBhZmZlMDQ1NzRiODU5ZDI2ZDBmOTY4`

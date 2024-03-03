@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,655,657 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,655,764 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 149 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 150 | [Skylab District](https://open.spotify.com/track/6qq6zcWNuEiHr2EAjDphCj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Skylab District](https://open.spotify.com/album/6IuZGPDhRwO1vDHZ4rc6eD) | 3:37 |
 
-Snapshot ID: `MCxjZWMwYzZmNWEzYTk5NTMxN2FhZWI4M2VhOGI3MmZhY2RlNDY0Yjkz`
+Snapshot ID: `MCw4MmRjOGVkMDk2ZjNhNDQxOTkxNWJjMjY0OTM5ZWYwYjI1YWM2NWYy`

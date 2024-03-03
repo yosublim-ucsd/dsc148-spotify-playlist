@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 15393,
+  "2024-03-03": 15400,
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Zola",
+  "description": "Le rap francophone est en forme. Photo: Werenoi, Damso",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 219053,
       "name": "1942",
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156055,
       "name": "Ayenne",
       "url": "https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 216333,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS"
@@ -1165,6 +1165,24 @@
       "duration_ms": 149315,
       "name": "Ghini",
       "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
+    },
+    {
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/7BsUyHowfyfP4EnSWh5WHL"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144576,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn"
     },
     {
       "album": {
@@ -1898,6 +1916,28 @@
     },
     {
       "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/2kN4ObBi98ZytvgI5A4hLC"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242869,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/1VaEcnh2GuY5JXrJNhJiFe"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -2089,6 +2129,28 @@
       "duration_ms": 178520,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
+    },
+    {
+      "album": {
+        "name": "Pyramide",
+        "url": "https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208405,
+      "name": "Pyramide",
+      "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
     },
     {
       "album": {

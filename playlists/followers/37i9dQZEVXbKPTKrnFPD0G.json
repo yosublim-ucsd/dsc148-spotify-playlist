@@ -1,9 +1,31 @@
 {
-  "2024-03-02": 73645,
+  "2024-03-03": 73693,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Argentina.",
   "name": "Top Songs - Argentina",
   "tracks": [
+    {
+      "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "30 GRADOS",
+      "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
+    },
     {
       "album": {
         "name": "LA NENA DE ARGENTINA",
@@ -179,10 +201,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "album": {
@@ -219,6 +263,50 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
+    },
+    {
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/150WjuATWqqdVxLeWQrlGV"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
+    },
+    {
+      "album": {
+        "name": "Partyson",
+        "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco"
     },
     {
       "album": {
@@ -293,7 +381,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 270869,
       "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) - Remix",
       "url": "https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F"
@@ -825,7 +913,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167419,
       "name": "L\u00e1grimas | CROSSOVER #4",
       "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
@@ -933,6 +1021,36 @@
       "duration_ms": 168000,
       "name": "Mentiras | CROSSOVER #3",
       "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "album": {
+        "name": "Casi Angeles",
+        "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
+      },
+      "artists": [
+        {
+          "name": "ORO600",
+          "url": "https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "0-600",
+          "url": "https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd"
+        },
+        {
+          "name": "Orodembow",
+          "url": "https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Nena Sad",
+      "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
     },
     {
       "album": {
@@ -1099,7 +1217,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162397,
       "name": "PRINCESITA DE ...",
       "url": "https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6"
@@ -1224,6 +1342,28 @@
     },
     {
       "album": {
+        "name": "Rara Vez",
+        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
+      },
+      "artists": [
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128677,
+      "name": "Rara Vez",
+      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "album": {
         "name": "ROZE | DJ TAO Turreo Sessions #22",
         "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
@@ -1261,7 +1401,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 157830,
       "name": "Salgo a Bailar",
       "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
@@ -1331,7 +1471,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207157,
       "name": "Tacos Gucci",
       "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"

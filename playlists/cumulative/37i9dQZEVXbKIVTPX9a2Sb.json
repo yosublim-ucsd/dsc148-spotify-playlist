@@ -10718,7 +10718,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -18571,6 +18571,36 @@
     },
     {
       "album": {
+        "name": "M\u00e1m \u0165a r\u00e1d",
+        "url": "https://open.spotify.com/album/1gmtE1ZKZ8cTj8Uewl8HMv"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "\u0160orty",
+          "url": "https://open.spotify.com/artist/6uh7cpdCXlT2GVYVfFa3sp"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216825,
+      "name": "M\u00e1m \u0165a r\u00e1d",
+      "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
+    },
+    {
+      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/7ghNPD080WPQqy7gYiPT8E"
       },
@@ -24312,7 +24342,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -26388,7 +26418,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -27552,7 +27582,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 210245,
       "name": "Stroj",
       "url": "https://open.spotify.com/track/6LhuehVA6IXU92z4q01lDU"
@@ -32028,7 +32058,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"

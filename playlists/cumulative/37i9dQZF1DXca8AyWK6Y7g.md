@@ -4,7 +4,7 @@
 
 > Living life! Cover: Brynn Cartelli
 
-1,966 songs - 4 day 3 hr 13 min
+1,968 songs - 4 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Did It Hurt?](https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Did It Hurt?](https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD) | 2:44 | 2022-12-09 | 2023-03-25 |
 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-04-26 | 2021-11-20 |
 | [die without u](https://open.spotify.com/track/0vco9GaTEbNP8fC2lafd4s) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [die without u](https://open.spotify.com/album/37RfLZM8Lk0k1kpuIOOGqq) | 2:49 | 2021-08-19 | 2021-10-16 |
-| [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 | 2023-04-07 |  |
+| [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 | 2023-04-07 | 2024-03-03 |
 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-11-10 | 2024-01-05 |
 | [dirty dancing](https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [dirty dancing](https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7) | 2:39 | 2022-07-18 | 2022-08-13 |
 | [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 | 2023-09-01 |
@@ -453,6 +453,7 @@
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
 | [Do You Ever?](https://open.spotify.com/track/28z5NTRP3n4O0zkZ5WY2sZ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Do You Ever?](https://open.spotify.com/album/4D7z82Wsbd3yynOjO7XHtd) | 2:30 | 2019-11-01 | 2021-02-13 |
 | [Do You Think About Us?](https://open.spotify.com/track/6s5o5mxQbXEa2hW2SM5NBn) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Do You Think About Us?](https://open.spotify.com/album/6Rltb5R38rbvChgQyWlvQW) | 4:05 | 2019-05-26\* | 2019-08-13 |
+| [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 | 2024-03-01 |  |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2021-11-19 | 2022-03-12 |
 | [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 | 2022-11-11 | 2022-11-16 |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-02 | 2024-01-05 |
@@ -942,7 +943,7 @@
 | [Julian, king of manhattan](https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Julian, king of manhattan](https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP) | 2:08 | 2022-07-01 | 2022-07-09 |
 | [Jump to Fall](https://open.spotify.com/track/23BwqOEvkwfnOawh1VGedD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Jump to Fall](https://open.spotify.com/album/1ZEEGv1mpRFdMDStKkQ5ZO) | 3:45 | 2021-11-05 | 2022-01-15 |
 | [JUNE](https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [JUNE](https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ) | 3:32 | 2020-08-11 | 2021-11-10 |
-| [Jungle Type Love](https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Jungle Type Love](https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis) | 2:29 | 2024-02-16 |  |
+| [Jungle Type Love](https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Jungle Type Love](https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis) | 2:29 | 2024-02-16 | 2024-03-03 |
 | [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 | 2023-09-22 | 2023-10-24 |
 | [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 | 2023-09-05 |  |
 | [Just A Kiss \(Muah\)](https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Just A Kiss \(Muah\)](https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy) | 2:36 | 2022-10-28 | 2023-01-28 |
@@ -1102,6 +1103,7 @@
 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 | 2020-06-13 | 2021-04-13 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-24 | 2021-11-20 |
 | [Make It Thru the Day.](https://open.spotify.com/track/5i0S6dVDfTRGpjfVwBHIbU) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Make It Thru the Day.](https://open.spotify.com/album/3o7pxHq7wPCb1hRCq37POT) | 2:54 | 2020-04-21 | 2020-09-30 |
+| [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-01 |  |
 | [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 | 2024-02-16 |  |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-09 |  |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-03-11 |

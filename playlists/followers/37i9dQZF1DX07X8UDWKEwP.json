@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 251530,
+  "2024-03-03": 251545,
   "date_first_scraped": "2022-01-10",
   "description": "Lo nuevo del mundo tropical. Cover: Sergio George & Jay Wheeler",
   "name": "el nuevo tropical",
@@ -319,7 +319,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
@@ -1420,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/6xkLnGHLBUsS06WQYZYFIL"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200629,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/1GOFHt8jjPbafarU82Ihsj"
+    },
+    {
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -2103,7 +2121,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 209302,
       "name": "El Idiota",
       "url": "https://open.spotify.com/track/6BAWPd5RhdrTZKsCLfrXQ5"
@@ -3587,7 +3605,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 188467,
       "name": "Los Sabanales 3.0",
       "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk0ZIifT5Nf.md) - [plain]
 
 > Featuring Cruz Cafuné, Mora, Rels B & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk0ZIifT5Nf.md) - [plain]
 | 5 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 6 | [GATA](https://open.spotify.com/track/3cNykCGMtO3gPSZkmA0y2P) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [GATA](https://open.spotify.com/album/6X6z1AzV3GaufVgRogGkMv) | 2:11 |
 | 7 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 |
-| 8 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
+| 8 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 |
 | 9 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 10 | [Subliminal](https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Sammy](https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp) | [Subliminal](https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50) | 3:22 |
 | 11 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk0ZIifT5Nf.md) - [plain]
 | 24 | [No Dice Na'](https://open.spotify.com/track/1JZ8bH1RCRqepLSR8HLcfr) | [DreamyBaby](https://open.spotify.com/artist/0eoD8oTKamUPrgSKNxRewE) | [CUMPLEAÑOS](https://open.spotify.com/album/4hhZgb0s5TtKFazP2Vo9vr) | 3:48 |
 | 25 | [jukiada](https://open.spotify.com/track/1o069EXYorALqprEPFrjqu) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [jukiada](https://open.spotify.com/album/2mch4cEQ6AiGuDeTfqFr3A) | 3:15 |
 
-Snapshot ID: `MCw0ZDM2NmZiNjIwYTcxNjE2MDg4OWYwZjUxZTc2MDg5N2VhZjcxZmE5`
+Snapshot ID: `MCxiMDFiN2IyNDIyOWQ4MjUxODQwYWI2MDE3ZTJhM2U4NDdjMzZkMjk0`

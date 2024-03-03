@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586632,
+  "num_followers": 2586786,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjZiNmY4YzgwZGM2MDVhOGRlMTliZDQ3ZDQzNzE3YjIzYTYyM2M5",
+  "snapshot_id": "MCw2YmEzNjg3ZDRhZWMzMDRmN2FjMzdjMTIyNGM3Mzg2NGYyNjIwZmFi",
   "tracks": [
     {
       "added_at": "2024-03-01 18:48:38",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-03-01 18:48:38",
       "album": {
+        "name": "PEACE LOVE & WUBZ",
+        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Cojaxx",
+          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "PEACE LOVE & WUBZ",
+      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
+    },
+    {
+      "added_at": "2024-03-01 18:48:38",
+      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
-    },
-    {
-      "added_at": "2024-03-01 18:48:38",
-      "album": {
-        "name": "PEACE LOVE & WUBZ",
-        "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Cojaxx",
-          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "PEACE LOVE & WUBZ",
-      "url": "https://open.spotify.com/track/0Mcts4Xh4FKZXOIy9tAjbA"
     },
     {
       "added_at": "2024-03-01 18:48:38",
@@ -971,30 +971,6 @@
     {
       "added_at": "2024-03-01 18:48:38",
       "album": {
-        "name": "HEADSH\u00d6T",
-        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
-      },
-      "artists": [
-        {
-          "name": "8\u00d68",
-          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
-        },
-        {
-          "name": "Sh\u00f6ckface",
-          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 157036,
-      "name": "HEADSH\u00d6T",
-      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2024-03-01 18:48:38",
-      "album": {
         "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
         "url": "https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 226849,
       "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
       "url": "https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi"
+    },
+    {
+      "added_at": "2024-03-01 18:48:38",
+      "album": {
+        "name": "HEADSH\u00d6T",
+        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
+      },
+      "artists": [
+        {
+          "name": "8\u00d68",
+          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
+        },
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157036,
+      "name": "HEADSH\u00d6T",
+      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
       "added_at": "2024-03-01 18:48:38",
@@ -1459,6 +1459,30 @@
     {
       "added_at": "2024-03-01 18:48:38",
       "album": {
+        "name": "Thrilla",
+        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "duration_ms": 134222,
+      "name": "Thrilla",
+      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
+    },
+    {
+      "added_at": "2024-03-01 18:48:38",
+      "album": {
         "name": "Moshpit / Comin For Ya Neck",
         "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
       },
@@ -1507,26 +1531,6 @@
     {
       "added_at": "2024-03-01 18:48:38",
       "album": {
-        "name": "REDLIGHT (VIP)",
-        "url": "https://open.spotify.com/album/6PzcABQ8AD86QvMzDtBWIV"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 199118,
-      "name": "REDLIGHT - VIP",
-      "url": "https://open.spotify.com/track/1b1TQHFL6lSFh8hb1mgiHs"
-    },
-    {
-      "added_at": "2024-03-01 18:48:38",
-      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
       },
@@ -1571,22 +1575,22 @@
     {
       "added_at": "2024-03-01 18:48:38",
       "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+        "name": "REDLIGHT (VIP)",
+        "url": "https://open.spotify.com/album/6PzcABQ8AD86QvMzDtBWIV"
       },
       "artists": [
         {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
         }
       ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
+      "duration_ms": 199118,
+      "name": "REDLIGHT - VIP",
+      "url": "https://open.spotify.com/track/1b1TQHFL6lSFh8hb1mgiHs"
     }
   ],
   "unique_name": "Hype",

@@ -4,7 +4,7 @@
 
 > This is Ajuliacosta\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 10 min
+24 songs - 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 | 2023-12-30 |  |
 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 | 2024-02-16 |  |
 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 | 2023-12-30 |  |
+| [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 | 2024-03-02 |  |
 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Prod\. iamlope$$](https://open.spotify.com/artist/0adF8Mjq7JyknO5OYWVVN3) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 | 2023-12-30 |  |
 | [Mil e uma Treta](https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 1:58 | 2023-12-30 | 2024-02-17 |
 | [Mina Chavosa](https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Diabelsmusic](https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA) | [Mina Chavosa](https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB) | 3:37 | 2023-12-30 |  |

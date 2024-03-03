@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 525457,
+  "2024-03-03": 525529,
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: TRI.BE (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ADORA x NATTY of KISS OF LIFE (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -1774,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "dusk twilight 2024",
+        "url": "https://open.spotify.com/album/1EOmX9zvLs5mF2ei16d2R7"
+      },
+      "artists": [
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+        },
+        {
+          "name": "NATTY (KISS OF LIFE)",
+          "url": "https://open.spotify.com/artist/4s8F1LKiyDPt0NacvMI7rx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "dusk twilight (feat.NATTY (KISS OF LIFE))",
+      "url": "https://open.spotify.com/track/4wzzsbTftX8NPnhIV1kH3A"
+    },
+    {
+      "album": {
         "name": "OH MY GIRL 6th Mini Album [REMEMBER ME]",
         "url": "https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E"
       },
@@ -2937,7 +2959,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 153506,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ"
@@ -4563,7 +4585,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 202040,
       "name": "Power Up",
       "url": "https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"
@@ -5933,7 +5955,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 187226,
       "name": "Thinkin' About You",
       "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"

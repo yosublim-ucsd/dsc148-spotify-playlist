@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 530179,
+  "num_followers": 530385,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjRkMWNhOTkyZWJkOTZhMTg5MTY0ODhkNmM2ZjM4NGFlODMyZmQ5",
+  "snapshot_id": "MCxkNmU2Y2E3Y2E0YTZhMTVkNzAyOTlhM2U4MjYxOWMxYThkMGJhNzA1",
   "tracks": [
     {
       "added_at": "2024-03-01 01:23:07",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-03-01 01:23:07",
       "album": {
-        "name": "Zero a Cem",
-        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Zero a Cem",
-      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
-    },
-    {
-      "added_at": "2024-03-01 01:23:07",
-      "album": {
         "name": "Ensaio Ac\u00fastico",
         "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "added_at": "2024-03-01 01:23:07",
+      "album": {
+        "name": "Zero a Cem",
+        "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Zero a Cem",
+      "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
       "added_at": "2024-03-01 01:23:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Sofia Camara
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,263 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,293 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 |
 | 100 | [Delayed Reaction](https://open.spotify.com/track/54aVxRwyXVMcXw02TanBEi) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Delayed Reaction](https://open.spotify.com/album/1UcyntOu6kiFcpal7Lyz1h) | 3:34 |
 
-Snapshot ID: `MCxhMWJkYTIyZDAzZjAxYzI0OTIyNWFmM2M1NjBmOTkzNDVmYjQ5ODEx`
+Snapshot ID: `MCwwOGFiOWY0ZDNlNmNlZjU0M2I5MWQ5ZmVkMDQzZGI0NGZiMjMzZmMy`

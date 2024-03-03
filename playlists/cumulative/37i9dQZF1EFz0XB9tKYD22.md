@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-306 songs - 18 hr 19 min
+307 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Jonesin'](https://open.spotify.com/track/0ebjRWVCjmmYgp4NnHGl8O) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:31 | 2024-02-27 |  |
 | [Keep On Movin' On](https://open.spotify.com/track/3NGqAMhYpoqF1tg0Bm8Ozm) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [Keep On Movin' On](https://open.spotify.com/album/3IhRVPjXGfaJfmjSLVmfDN) | 2:38 | 2024-02-27 |  |
 | [Keep Us Safe](https://open.spotify.com/track/0kB7qEUgE7H9FlM7vIElfX) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [Stand By Me](https://open.spotify.com/album/2sJR7qAA6tIf92QQ7i9R4X) | 3:53 | 2024-02-27 |  |
+| [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6JKSR71t1mLlLYBC8eF1gf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:47 | 2024-03-02 |  |
 | [Knockin' Boots](https://open.spotify.com/track/2opQESZb7JsRKCvWMBPeuv) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:20 | 2024-02-27 |  |
 | [Kryptonite \(In the Style of 3 Doors Down\) \[Karaoke Version\]](https://open.spotify.com/track/4iwzGRD8xVbkl4O97gmQf9) | [The Karaoke Channel](https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ) | [The Karaoke Channel \- Modern Rock, Vol\. 1](https://open.spotify.com/album/3oHDClX8I1rdkzIKA5goFj) | 3:55 | 2024-02-27 |  |
 | [Legends](https://open.spotify.com/track/1Zlm5elepl7xOAPBUI3bj9) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 4:03 | 2024-02-27 |  |

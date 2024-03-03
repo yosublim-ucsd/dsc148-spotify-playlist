@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 107801,
+  "2024-03-03": 107798,
   "date_first_scraped": "2019-09-29",
   "description": "Favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
   "name": " Obama\u2019s Summer Playlist 2024",
@@ -4981,7 +4981,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 197432,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/3veYT9ZXC2r1nHoDkAIbYm"
@@ -22936,6 +22936,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/07leSzyiSFr32RDiGjc4nt"
+      },
+      "artists": [
+        {
+          "name": "Heyhmann",
+          "url": "https://open.spotify.com/artist/6iQICOTmuhVXfMhz4oQPDA"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164452,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4PrnKfyAzn2k6x64RBjcwx"
+    },
+    {
+      "album": {
         "name": "Hopelessly in Love (With You)",
         "url": "https://open.spotify.com/album/3tisxssRaAW76Fys0cRfWs"
       },
@@ -27445,7 +27463,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176296,
       "name": "Knew Better",
       "url": "https://open.spotify.com/track/3Zi4HysszlC31G4xWcY4cb"
@@ -27957,6 +27975,28 @@
       "duration_ms": 196415,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/1CdLBMtqP3zlGkDu7hmVKs"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/3HSITI4ZSBoNeF0UM3wUkR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Spaniol",
+          "url": "https://open.spotify.com/artist/3iAplrLi5nb8MFtWTTauy2"
+        },
+        {
+          "name": "Nego Joe",
+          "url": "https://open.spotify.com/artist/2vVeFw5Wf5O8OISxXUUdWQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170312,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/4g5okF1U7kHn4owUn5oKxT"
     },
     {
       "album": {
@@ -48915,6 +48955,24 @@
       "duration_ms": 194373,
       "name": "Tell Me Everything",
       "url": "https://open.spotify.com/track/08yk0Ru7MajIvDNctERJGh"
+    },
+    {
+      "album": {
+        "name": "Tell Me, Tell Me",
+        "url": "https://open.spotify.com/album/0Zd09ukj28is6KgjNdbw60"
+      },
+      "artists": [
+        {
+          "name": "Soulah the Legend",
+          "url": "https://open.spotify.com/artist/4eSjv2NrpwpUEbtVUJc4QA"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194193,
+      "name": "Tell Me, Tell Me",
+      "url": "https://open.spotify.com/track/0RG7Q9LdBk5pGqtwmzOckd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,203 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,265 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 81 | [Love Is Here To Stay](https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Great Britain's](https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR) | 2:50 |
 | 82 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
 | 83 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
-| 84 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
-| 85 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
+| 84 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
+| 85 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
 | 86 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
 | 87 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
 | 88 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 |
 | 100 | [Now He Sings, Now He Sobs](https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 7:03 |
 
-Snapshot ID: `MCwzN2FjNDE0MDgzYmZhZmQ3YWIxZTJhNGQwMTM5NzJmYTNhYjkxZTdl`
+Snapshot ID: `MCw2YTU3ZjBmZmJlOGMwNWNjYWI0ZGNlNjg4NjJjMTk3MTQ3Yjg4Y2Iz`

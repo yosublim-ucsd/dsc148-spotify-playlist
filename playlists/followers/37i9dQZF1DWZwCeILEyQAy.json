@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 490103,
+  "2024-03-03": 490107,
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Monaleo",
+  "description": "Real Rap. All Pressure. Cover: GloRilla",
   "name": "Pressure",
   "tracks": [
     {
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 125985,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1YkoBxoq3uilcJSmKFucoh"
@@ -4317,7 +4317,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204590,
       "name": "Hatin on Me",
       "url": "https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv"
@@ -6668,6 +6668,24 @@
     },
     {
       "album": {
+        "name": "Nope",
+        "url": "https://open.spotify.com/album/1NO4uBq5OmyZI7QEL7E3D2"
+      },
+      "artists": [
+        {
+          "name": "Big Mali",
+          "url": "https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Nope",
+      "url": "https://open.spotify.com/track/2Dk60dibBIvEMqBbTZA9wU"
+    },
+    {
+      "album": {
         "name": "NOPE SHEMIX",
         "url": "https://open.spotify.com/album/4ZiFbZdutLc1d9jhJWmVT0"
       },
@@ -8958,6 +8976,24 @@
     },
     {
       "album": {
+        "name": "Snitch K",
+        "url": "https://open.spotify.com/album/6hzXBPuCKjZJY5pzdwPjOH"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Snitch K",
+      "url": "https://open.spotify.com/track/2f1G0cLnVkm6lwpOI6wAF1"
+    },
+    {
+      "album": {
         "name": "So DISRESPECTFUL",
         "url": "https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP"
       },
@@ -9513,7 +9549,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 153600,
       "name": "Tap",
       "url": "https://open.spotify.com/track/3wAVYv1QABXSDIwH1R5581"
@@ -10255,6 +10291,24 @@
       "duration_ms": 169465,
       "name": "Unh Unh",
       "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+    },
+    {
+      "album": {
+        "name": "UP, LIT. FREESTYLE",
+        "url": "https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116191,
+      "name": "UP, LIT. FREESTYLE",
+      "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
     },
     {
       "album": {

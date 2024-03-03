@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Eric Church's hit album "The Outsiders" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,049 likes - 200 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,296 likes - 200 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Somewhere In My Car](https://open.spotify.com/track/50nzorQ9gi2md8UpFi8aJT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse](https://open.spotify.com/album/5rESCws46ubPJlqOeb30Rv) | 3:56 |
 | 200 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
 
-Snapshot ID: `MCwzMDVjMmEyZDZmNWNjNDBhOWViMTcyZTQ0MzE2M2Q3YWQzOGRiMGEw`
+Snapshot ID: `MCwwZTk2Y2U5NjllN2ZlNDAzZmVlOTY0NjljZTI4NjQ3MmIyZGMzZThi`

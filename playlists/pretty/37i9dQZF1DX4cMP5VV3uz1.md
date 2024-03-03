@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,504 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,570 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 49 | [No Tomorrow \- P Money X Whiney Remix](https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [No Tomorrow \(P Money x Whiney Remix\)](https://open.spotify.com/album/05lBv1T8JVw4LGyxFHGjVg) | 4:09 |
 | 50 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 | 51 | [Voodoo People \- Pendulum Mix](https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:07 |
-| 52 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
-| 53 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 |
+| 52 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 |
+| 53 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 54 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 |
 | 55 | [Diamond Therapy](https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Diamond Therapy](https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep) | 3:19 |
 | 56 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 72 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 |
 | 73 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
 | 74 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 |
-| 75 | [Party Muscle](https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Party Muscle](https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG) | 2:02 |
+| 75 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 |
 
-Snapshot ID: `MCxmZmE0NjA0MDAzMDE0NDVmOGFlZjI1YzhkYTg5MmIyNzcyYzZkOWI4`
+Snapshot ID: `MCw4YWJlZDVlYjUzM2FiZjEzNDIzOGUwYWZiNmQwYWNhZjI3YTAyNmYy`

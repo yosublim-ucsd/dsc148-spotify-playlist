@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,381 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,506 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 26 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 27 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 28 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
-| 29 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
-| 30 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 29 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 30 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
 | 31 | [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 |
 | 32 | [12:34 AM](https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [12:34 AM](https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ) | 2:07 |
 | 33 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 91 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
 | 92 | [Escalator](https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:26 |
 | 93 | [SOULCRUSHER](https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SOULCRUSHER](https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC) | 2:51 |
-| 94 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 |
-| 95 | [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 |
+| 94 | [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 |
+| 95 | [U DON'T KNOW ME LIKE THAT](https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD I](https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4) | 3:29 |
 | 96 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
 | 97 | [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 |
 | 98 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
 | 99 | [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 |
 | 100 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 |
 
-Snapshot ID: `MCw4ZDA4YzIzM2FmNzZmZDlkMDE1ZjVlYWQxZTM1MWRmZDAwNmQ5MjY5`
+Snapshot ID: `MCw1MDRjNzZhMmY4NGFhYzJkMTcwOWI3MTM1ZjIyMTdhYmEwMWRiODBj`

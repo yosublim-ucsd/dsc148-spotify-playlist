@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 132952,
+  "2024-03-03": 132992,
   "date_first_scraped": "2022-01-10",
   "description": "That bouncy, groovy, dancey sound.",
   "name": "Choice Edit",
@@ -233,6 +233,28 @@
       "duration_ms": 193000,
       "name": "2MANYTHINGS",
       "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+    },
+    {
+      "album": {
+        "name": "2MANYTHINGS: THE REMIXES",
+        "url": "https://open.spotify.com/album/5OOaZNOHz119UubN7ApUnN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        },
+        {
+          "name": "OSSAMMOT",
+          "url": "https://open.spotify.com/artist/7cAtd5Z3f7rXHEEc41JUZu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121825,
+      "name": "2MANYTHINGS (OSSAMMOT REMIX)",
+      "url": "https://open.spotify.com/track/0wOsB4123gesYUDTdORBca"
     },
     {
       "album": {
@@ -771,6 +793,28 @@
       "duration_ms": 160855,
       "name": "BACK 2 U",
       "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
+    },
+    {
+      "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "album": {
@@ -1700,6 +1744,40 @@
     },
     {
       "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Flexulant",
+          "url": "https://open.spotify.com/artist/7KPkt13eGzrIOc8jShZzSi"
+        },
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Rahrah Gabor",
+          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286014,
+      "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor & Brazy",
+      "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
+    },
+    {
+      "album": {
         "name": "Coconut Oil",
         "url": "https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5"
       },
@@ -1953,7 +2031,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
@@ -1989,7 +2067,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207194,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
@@ -2580,6 +2658,28 @@
     },
     {
       "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "DJ LHC",
+          "url": "https://open.spotify.com/artist/61VSnArkfcbZGg2s0Czttx"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "Far Away - DJ LHC Remix",
+      "url": "https://open.spotify.com/track/1B5ovXacMs6OGHaIvFjcr3"
+    },
+    {
+      "album": {
         "name": "fav flav (with Duckwrth)",
         "url": "https://open.spotify.com/album/6FqXFMDYQfxOCoX8Ame8az"
       },
@@ -2877,7 +2977,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242560,
       "name": "Fun For Free",
       "url": "https://open.spotify.com/track/5xt79pHKHlA9VvPH5uKpB5"
@@ -4488,6 +4588,24 @@
     },
     {
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9"
+    },
+    {
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -4601,7 +4719,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 225937,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
@@ -6505,7 +6623,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 155906,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
@@ -6765,7 +6883,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 162724,
       "name": "Strawberry Perfume (feat. Essosa)",
       "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
@@ -7439,6 +7557,32 @@
       "duration_ms": 259173,
       "name": "Time (feat. Rhye)",
       "url": "https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA"
+    },
+    {
+      "album": {
+        "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+        "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+      "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
     },
     {
       "album": {

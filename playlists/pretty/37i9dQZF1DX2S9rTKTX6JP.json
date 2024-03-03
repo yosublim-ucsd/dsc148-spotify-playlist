@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 671232,
+  "num_followers": 671351,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNThiMWRiMWJjYTRhZDE1NzQyZmM5NTAxMmVlY2Q0MWI2MGM4YTIw",
+  "snapshot_id": "MCwxYzM0NDk5NWQzZGVkYjQzOTU5MDk4Mjg3ZDI5MjFkZDc1YTQ2N2Y1",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Fashion Nugget",
-        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
-      },
-      "artists": [
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Punk Goes 90's, Vol. 2",
         "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 225920,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "What Doesn't Kill Us",
+        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 206227,
+      "name": "(I Just) Died in Your Arms",
+      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Temple of Love (feat. VV)",
         "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "What Doesn't Kill Us",
-        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 206227,
-      "name": "(I Just) Died in Your Arms",
-      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
+        "name": "You're Living All Over Me",
+        "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
         }
       ],
-      "duration_ms": 321040,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
+      "duration_ms": 173560,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "You're Living All Over Me",
-        "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
       },
       "artists": [
         {
-          "name": "Dinosaur Jr.",
-          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+      "duration_ms": 321040,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Decade II: Rock & Acoustic",
         "url": "https://open.spotify.com/album/2KTwK7D7uge6M1x6PzKHfi"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 198545,
       "name": "Numb (Acoustic)",
       "url": "https://open.spotify.com/track/4D6amyd3ONcv28VBe07xsk"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2104,6 +2104,22 @@
       "added_at": "2024-02-12 05:08:07",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -2119,22 +2135,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 284935,
-      "name": "The Only Exception - Spotify Single",
-      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "The Chain (from Gears 5)",
         "url": "https://open.spotify.com/album/0oP07JNydHXvXKegHE675I"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 252170,
       "name": "The Chain (from Gears 5)",
       "url": "https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
         "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 276013,
       "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
       "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2024-02-12 05:08:07",

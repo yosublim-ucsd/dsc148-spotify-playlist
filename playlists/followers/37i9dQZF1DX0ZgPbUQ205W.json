@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 86602,
+  "2024-03-03": 86622,
   "date_first_scraped": "2021-12-21",
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
   "name": "Calming Jazz",
@@ -3889,10 +3889,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 352493,
       "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
       "url": "https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u"
+    },
+    {
+      "album": {
+        "name": "Owl Song",
+        "url": "https://open.spotify.com/album/6HYZUqe4sXwIu5VWlfaV2E"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Herlin Riley",
+          "url": "https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352493,
+      "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
+      "url": "https://open.spotify.com/track/7vyk70KJhqVIogTOQjYq03"
     },
     {
       "album": {

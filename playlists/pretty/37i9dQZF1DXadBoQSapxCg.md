@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,935 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,946 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 16 | [Aladdin](https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aladdin](https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk) | 2:34 |
 | 17 | [Lingerie](https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Lingerie](https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx) | 3:29 |
 | 18 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 |
-| 19 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
-| 20 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
+| 19 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
+| 20 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
 | 21 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
 | 22 | [Love 66](https://open.spotify.com/track/6xqEi8MYklEc6N2sU61lqY) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Love 66](https://open.spotify.com/album/74xvo4Pvay6Adp8h1NHEPp) | 5:22 |
 | 23 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
 | 60 | [STR!PP3R](https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [STR!PP3R](https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9) | 3:07 |
 
-Snapshot ID: `MCw5YTYyNDZhYjFiYjljYThkNzUzOWExYzBmMTFjZWQ0NTdlOGNiNmRm`
+Snapshot ID: `MCxlZDIzYWVmZGUwNTliYzUzNGRiMTdjMzUwYmQyNDJhY2FjYzAyNWIw`

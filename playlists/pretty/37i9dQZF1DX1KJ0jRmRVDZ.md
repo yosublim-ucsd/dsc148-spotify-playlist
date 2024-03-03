@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,984 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,018 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 21 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 22 | [マンネリウィークエンド](https://open.spotify.com/track/34qr8Cp46RRSzDAPYpHf1u) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [FAKE SWING 2](https://open.spotify.com/album/08agBb2R2sUIaqPGpzNI25) | 3:13 |
 | 23 | [星めぐる詩](https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [星めぐる詩](https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC) | 3:21 |
-| 24 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I), [azami](https://open.spotify.com/artist/6kmpJx7mGUinlMlN9O0ROz) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 |
+| 24 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 |
 | 25 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
 | 26 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 27 | [咆哮](https://open.spotify.com/track/2SLEhOE9H8krvYCUyKuWKr) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [咆哮](https://open.spotify.com/album/4D6LjQuzHmoEDOgyww5GCO) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
 | 50 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 
-Snapshot ID: `MCxhZDIxMWI2ZDdmMTA2YjEyYjJiMTVmZTk3MTJkNzdmODE5YjQyZTU2`
+Snapshot ID: `MCwxMGExYWUzMDJkYmM4ZDRlZjA1YjM0NjNjNTAxZjAwNDBhMTIwYTdi`

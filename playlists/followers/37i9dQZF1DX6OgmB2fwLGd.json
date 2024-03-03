@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1396635,
+  "2024-03-03": 1396701,
   "date_first_scraped": "2021-12-21",
   "description": "The rap soundtrack to the internet. Cover: BossMan Dlow",
   "name": "Internet People",
@@ -1637,6 +1637,28 @@
       "duration_ms": 158896,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D"
+    },
+    {
+      "album": {
+        "name": "Back It Up and Dump It (Dump Truck)",
+        "url": "https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM"
+      },
+      "artists": [
+        {
+          "name": "GC Eternal",
+          "url": "https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02"
+        },
+        {
+          "name": "Kinfolk Thugs",
+          "url": "https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Back It up and Dump It (Dump Truck)",
+      "url": "https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7"
     },
     {
       "album": {
@@ -3940,6 +3962,28 @@
     },
     {
       "album": {
+        "name": "CULLINAN GANG (feat. Icewear Vezzo)",
+        "url": "https://open.spotify.com/album/60B0F2iSBTAuNUkXVfOgoe"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158314,
+      "name": "CULLINAN GANG (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/4syEuJtAptgxJZxdmbYtSa"
+    },
+    {
+      "album": {
         "name": "Get Jiggy Or Die Tryin'",
         "url": "https://open.spotify.com/album/2NnUQwSQvBQSxu5MY9hhBX"
       },
@@ -4111,7 +4155,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236251,
       "name": "Darkest Before Dawn",
       "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
@@ -6731,7 +6775,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 216774,
       "name": "Give Em A Show",
       "url": "https://open.spotify.com/track/5l6eIWTmwDkadW03IDbYIe"
@@ -17210,6 +17254,28 @@
     },
     {
       "album": {
+        "name": "TWO CUPS / RUN",
+        "url": "https://open.spotify.com/album/1ojmaTDM119BDyn330YPsm"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Ms. Tee",
+          "url": "https://open.spotify.com/artist/1jCiiLYzfQzEYwTViMhfDP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "two cups (feat. Ms. Tee)",
+      "url": "https://open.spotify.com/track/4kpJhEL1V8pgqz3vJTj5Tu"
+    },
+    {
+      "album": {
         "name": "U Neva",
         "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
       },
@@ -18617,7 +18683,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 132519,
       "name": "You Is Not Havin",
       "url": "https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF"

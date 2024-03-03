@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 102683,
+  "num_followers": 102759,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTgyZDg3ZTlmMTk5Yzk5ODk0NTRjMDcxZGIxMDJmMjY5ODdiZDM4",
+  "snapshot_id": "MCwyYTU0OGM3MTk2OTM2YmM3ZDExNzdjYzEwMjY4MjAzZWIzYjEyNzMy",
   "tracks": [
     {
       "added_at": "2024-02-21 15:19:48",
@@ -923,34 +923,6 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
-        "name": "Saxophone Colossus",
-        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Doug Watkins",
-          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 389293,
-      "name": "You Don't Know What Love Is - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1to5IySvboywOgXW9jCjDn"
-    },
-    {
-      "added_at": "2024-02-21 15:19:48",
-      "album": {
         "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
         "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
@@ -987,6 +959,34 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2024-02-21 15:19:48",
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 389293,
+      "name": "You Don't Know What Love Is - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1to5IySvboywOgXW9jCjDn"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2024-02-21 15:19:48",
+      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 365666,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a"
-    },
-    {
-      "added_at": "2024-02-21 15:19:48",
-      "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
-    },
-    {
-      "added_at": "2024-02-21 15:19:48",
-      "album": {
         "name": "Our Man In Jazz",
         "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 195133,
       "name": "I Could Write a Book - Remastered 1999",
       "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
+    },
+    {
+      "added_at": "2024-02-21 15:19:48",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Our Love Is Here To Stay - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3WBOCI8zM5SKfTXq41wM4e"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
         }
       ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
+      "duration_ms": 320693,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1xm6smpnum5PTvl4QL1tsJ"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
-    },
-    {
-      "added_at": "2024-02-21 15:19:48",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Can't We Be Friends",
-      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+      "duration_ms": 427826,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2024-02-21 15:19:48",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Can't We Be Friends",
+      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2024-02-21 15:19:48",
+      "album": {
         "name": "Anticipation",
         "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
       },
@@ -1975,22 +1975,6 @@
       "duration_ms": 276131,
       "name": "Falling in Love with Love",
       "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
-    },
-    {
-      "added_at": "2024-02-21 15:19:48",
-      "album": {
-        "name": "A Night At The Village Vanguard (Remastered 1999/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 501906,
-      "name": "Old Devil Moon - Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
     },
     {
       "added_at": "2024-02-21 15:19:48",
@@ -2095,6 +2079,22 @@
       "duration_ms": 185240,
       "name": "Long Ago (And Far Away)",
       "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
+    },
+    {
+      "added_at": "2024-02-21 15:19:48",
+      "album": {
+        "name": "A Night At The Village Vanguard (Remastered 1999/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3n8HGJWCilq2qvLOPEzFoK"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 501906,
+      "name": "Old Devil Moon - Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/551EJFvoCz8P80pFeyx9e0"
     },
     {
       "added_at": "2024-02-21 15:19:48",

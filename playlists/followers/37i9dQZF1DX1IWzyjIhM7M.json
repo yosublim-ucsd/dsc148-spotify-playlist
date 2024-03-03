@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 2040,
+  "2024-03-03": 2086,
   "date_first_scraped": "2024-01-11",
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
   "name": "Fresh Finds: Class of 2023",
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192461,
       "name": "Looking At Me",
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
@@ -1465,6 +1465,28 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "album": {
+        "name": "rocketship",
+        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "rocketship",
+      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
     },
     {
       "album": {

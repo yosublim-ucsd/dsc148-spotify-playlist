@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,949 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,961 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 99 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
 | 100 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 |
 
-Snapshot ID: `MCw2MmEyZjc5ODgxOWM4MjdmMDZkN2MyNTJlOWVkYjYwNzUyNGJiOWU4`
+Snapshot ID: `MCw5MTI2ZjFmZDcxOTk2NDJiYjk4ZDc2NzgyYTUyMDAwNWFmMDJmMTdj`

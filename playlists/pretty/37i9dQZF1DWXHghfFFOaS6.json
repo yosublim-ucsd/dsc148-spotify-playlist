@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 326742,
+  "num_followers": 326804,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj",
+  "snapshot_id": "MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In the Hand of the Inevitable",
-        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
-      },
-      "artists": [
-        {
-          "name": "James Taylor Quartet",
-          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
-        }
-      ],
-      "duration_ms": 294240,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Galactica Rush",
         "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 320693,
       "name": "Whirl Keeps Turning",
       "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In the Hand of the Inevitable",
+        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+      },
+      "artists": [
+        {
+          "name": "James Taylor Quartet",
+          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "I-Level",
-        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
-      },
-      "artists": [
-        {
-          "name": "iLEVEL",
-          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
-        }
-      ],
-      "duration_ms": 241539,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "I-Level",
+        "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
+      },
+      "artists": [
+        {
+          "name": "iLEVEL",
+          "url": "https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE"
+        }
+      ],
+      "duration_ms": 241539,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220026,
       "name": "Datskat",
       "url": "https://open.spotify.com/track/0Fn75FpPmRi6WN7utBJHct"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Rubberband EP",
         "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
+      },
+      "artists": [
+        {
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",

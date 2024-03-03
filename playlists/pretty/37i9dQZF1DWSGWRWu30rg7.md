@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maisha Kanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,373 likes - 93 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,382 likes - 93 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 88 | [This Valentine](https://open.spotify.com/track/59HPkvtEFpXsz2IzngY1qn) | [Chris Noel](https://open.spotify.com/artist/2Xi9fdcA9w27KYBtSXS356) | [This Valentine](https://open.spotify.com/album/4WgAP9VaZuRvHN1RJFC14J) | 3:04 |
 | 89 | [Something To Lose](https://open.spotify.com/track/22CDHq1Z1jcRs6hkIY9w6u) | [BRIE](https://open.spotify.com/artist/47msIOxKx5K1glHoU4PDst) | [Something To Lose](https://open.spotify.com/album/5IJSpJa7DG8i9E5iLUD78Z) | 3:09 |
 | 90 | [Hapuskan Dia](https://open.spotify.com/track/0KQPNyjeX3Sft3fNFdZz1v) | [Atya Faudina](https://open.spotify.com/artist/4jSqElVUvCzDPWnJIgbDGj) | [Hapuskan Dia](https://open.spotify.com/album/29MjT2PYR5tC3SjF3g6RXM) | 3:22 |
-| 91 | [Malam Tak Berjudul](https://open.spotify.com/track/5l0L1zS6LcJ07TEwYDvIhu) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/6uAhSi32ZZ3qwq51fdSYdT) | 3:09 |
+| 91 | [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 |
 | 92 | [Ice & Fire](https://open.spotify.com/track/672Y7jhCxTAk3vKe54jXBi) | [Maliq Adam](https://open.spotify.com/artist/2zvxf23vbqa8NaJlqY2st9) | [Ice & Fire](https://open.spotify.com/album/1ojxBG6nygWoFH51xxDQfv) | 3:11 |
 | 93 | [Tertipu Lagi](https://open.spotify.com/track/7MGdfibu9nL01I0VyOuBLG) | [Kasir](https://open.spotify.com/artist/0cAxFJLU6ONNLDgJyD6j1N) | [Tertipu Lagi](https://open.spotify.com/album/75hmfVZINdjKj8yVLvFx9o) | 4:23 |
 
-Snapshot ID: `MCwyZjUzODU5NzVhNTI5ODI3ZjBmN2UwZGVmMzgwNWUwMzgyYjRkMDJh`
+Snapshot ID: `MCw2Y2ExODExYTFiOTgyYmEyNDU3OThkOWYzMGQ3MmYwYmVjNGIxZTBh`

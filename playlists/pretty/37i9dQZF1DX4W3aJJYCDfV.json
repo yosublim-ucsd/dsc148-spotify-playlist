@@ -1,12 +1,12 @@
 {
   "description": "Brand new music Charli XCX (pictured), Fred again.., Skepta and more!",
-  "num_followers": 847188,
+  "num_followers": 847243,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDMzZmVhYWZmZDNhMDZlODdlYTI2ZmYwNGNkNGI0ZDk1NzEwOTQx",
+  "snapshot_id": "MCxhZGIxZTgxNzRhNDM3NTZkODVlMTk5YzVhMzE0YTk4ZDY2ZDU3YTVh",
   "tracks": [
     {
       "added_at": "2024-03-01 00:00:00",
@@ -1816,12 +1816,12 @@
           "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
         },
         {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
           "name": "Daley",
           "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
       "duration_ms": 236112,

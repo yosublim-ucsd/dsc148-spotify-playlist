@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 457456,
+  "num_followers": 457527,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2ZiNjFhNzUzM2VkMTIwMjU3MjM4MjcwZDA0MmQ2ZjFmNDE5OWQw",
+  "snapshot_id": "MCwxNjY1ODUzMDBiYjVmZGMzZWNmZTY5YWQxOGE2OGZlMzBjY2Y2Yzcz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -427,22 +427,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sessions 2",
-        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
       },
       "artists": [
         {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        },
-        {
-          "name": "Rick Flair",
-          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Vibrant Air",
-      "url": "https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec"
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+        "name": "Sessions 2",
+        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
       },
       "artists": [
         {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        },
+        {
+          "name": "Rick Flair",
+          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
         }
       ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+      "duration_ms": 251000,
+      "name": "Vibrant Air",
+      "url": "https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Ocean Drift",
-        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Ocean Drift",
-      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 138000,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Social Distancing EP",
+        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
+      },
+      "artists": [
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
+        }
+      ],
+      "duration_ms": 312304,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "I Knew It",
         "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Social Distancing EP",
-        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
       "artists": [
         {
-          "name": "Babsy",
-          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
         }
       ],
-      "duration_ms": 312304,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c"
+      },
+      "artists": [
+        {
+          "name": "Ayla Nova",
+          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c"
-      },
-      "artists": [
-        {
-          "name": "Ayla Nova",
-          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
     }
   ],
   "unique_name": "Lo-Fi House",

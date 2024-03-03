@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 704091,
+  "num_followers": 704141,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjA5M2JkMDI1ZmNjYzU2MjVhMWFmMjcwZGJjYTNiNDM4Y2FmMTA1",
+  "snapshot_id": "MCwzZDk3Y2RmYmZhZmY1NGMxNDNiYjJiMDk0NmQ0NjgxYzgzYThmYjY0",
   "tracks": [
     {
       "added_at": "2024-02-23 00:01:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        }
+      ],
+      "duration_ms": 135796,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Liquor & Cigarettes (feat. ArrDee)",
         "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Slay",
-          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
-        }
-      ],
-      "duration_ms": 135796,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1093,6 +1093,26 @@
       "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "2 RUFF, Vol. 1",
+        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Selecta (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
+    },
+    {
       "added_at": "2024-02-14 11:37:11",
       "album": {
         "name": "Life Lesson",
@@ -1139,6 +1159,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
       },
@@ -1159,42 +1195,6 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "2 RUFF, Vol. 1",
-        "url": "https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Selecta (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1219,26 +1219,6 @@
       "duration_ms": 153817,
       "name": "Won't Forget You",
       "url": "https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Make Me Feel Good",
-        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 197472,
-      "name": "Make Me Feel Good",
-      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 162727,
       "name": "Take U",
       "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Make Me Feel Good",
+        "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 197472,
+      "name": "Make Me Feel Good",
+      "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1845,6 +1845,22 @@
       "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
+      },
+      "artists": [
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG"
+    },
+    {
       "added_at": "2024-02-14 11:37:11",
       "album": {
         "name": "Signals",
@@ -1863,22 +1879,6 @@
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Want U",
-        "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
-      },
-      "artists": [
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "Want U",
-      "url": "https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG"
     },
     {
       "added_at": "2024-02-23 00:01:00",

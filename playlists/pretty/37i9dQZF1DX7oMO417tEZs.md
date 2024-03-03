@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems by artists carving their own lane\. cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,345 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,360 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Bad Habit](https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 2:47 |
 | 100 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
 
-Snapshot ID: `MCxhNTNjYmQzMDMzMjhkZmZiMDE1ZWRlZTJjZjM2YmM1MzljZDViNzdl`
+Snapshot ID: `MCwwMzNkZGE5Yzc5NjY2MzAxMjViZTgxOGE0MDIxYWI5MWY5OWI1NWVl`

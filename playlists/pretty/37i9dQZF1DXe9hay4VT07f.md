@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,837 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,971 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 70 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
 | 71 | [Narcissistic](https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Narcissistic](https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz) | 3:02 |
 | 72 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
-| 73 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
-| 74 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
-| 75 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
-| 76 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
+| 73 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
+| 74 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 |
+| 75 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 |
+| 76 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
 | 77 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 |
 | 78 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
 | 79 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 91 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 92 | [Unfaithful Games](https://open.spotify.com/track/1kZ5wCFlcuV7qN2abxU3LO) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Unfaithful Games](https://open.spotify.com/album/0QDzewuAi0KMRc1oYzQCc9) | 2:42 |
 | 93 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
-| 94 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
-| 95 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
-| 96 | [MOB STYLE](https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [MOB STYLE](https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX) | 2:26 |
-| 97 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 94 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
+| 95 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
+| 96 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 97 | [MOB STYLE](https://open.spotify.com/track/0AUUF6ugbAqypdR5rHjgxZ) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [MOB STYLE](https://open.spotify.com/album/7ru4iUaCzq9CyvVCZvj1fX) | 2:26 |
 | 98 | [Owner](https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Intro](https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR) | 3:23 |
-| 99 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
-| 100 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
+| 99 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
+| 100 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 
-Snapshot ID: `MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3`
+Snapshot ID: `MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4`

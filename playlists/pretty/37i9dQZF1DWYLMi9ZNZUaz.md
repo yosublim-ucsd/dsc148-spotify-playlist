@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,040 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,087 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 |
 | 50 | [Anh Đã Lớn Hơn Thế Nhiều](https://open.spotify.com/track/2cz7Y3oZBxzzoNWEdkKbkO) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Michelle Ngn](https://open.spotify.com/artist/4UNxVBu6nZNsJOnCA2CDEi) | [Anh Đã Lớn Hơn Thế Nhiều](https://open.spotify.com/album/6rENYaeiQqfJQdc1gfceyO) | 5:15 |
 
-Snapshot ID: `MCw1NjdiNzdkNTUyOWVjZjA5OTI1YmUzOGQ5YzE3ODQ1NDA2Y2M0MGFk`
+Snapshot ID: `MCxkNWE0YjA4OThkZDczM2VhMDJhNDAxMDIxYTI1NWYyMDFkZDg1M2Uy`

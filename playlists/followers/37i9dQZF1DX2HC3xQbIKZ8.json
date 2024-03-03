@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 116712,
+  "2024-03-03": 116734,
   "date_first_scraped": "2023-12-10",
   "description": "Reggae, roots and dub. Relax, you're on island time.",
   "name": "Island Time",
@@ -559,6 +559,28 @@
     {
       "album": {
         "name": "Island Time",
+        "url": "https://open.spotify.com/album/6XPgI2N1Q503rpmryupG7X"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh"
+        },
+        {
+          "name": "Mikey Mayz",
+          "url": "https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197633,
+      "name": "Island Time",
+      "url": "https://open.spotify.com/track/2Q7BeBOjX5Jcr9nnk2hUxj"
+    },
+    {
+      "album": {
+        "name": "Island Time",
         "url": "https://open.spotify.com/album/7exhCuvKXeXAvTNU2Ilanl"
       },
       "artists": [
@@ -573,7 +595,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 197633,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/5Q6AGkHl0YrEr2S4U0v9NS"
@@ -1347,10 +1369,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 236826,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/2RaD5S9RsfE7ejbvEa8Kwi"
+    },
+    {
+      "album": {
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4xoHtnUcBU8hxdloQAfeEj"
+      },
+      "artists": [
+        {
+          "name": "Israel Starr",
+          "url": "https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5uqMY6WG2JqLZsRoaG1iMY"
     },
     {
       "album": {
@@ -1547,6 +1587,32 @@
     {
       "album": {
         "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4xoHtnUcBU8hxdloQAfeEj"
+      },
+      "artists": [
+        {
+          "name": "Israel Starr",
+          "url": "https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui"
+        },
+        {
+          "name": "Lomez Brown",
+          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
+        },
+        {
+          "name": "Natural Roots",
+          "url": "https://open.spotify.com/artist/1hC9SW169JUL2LNLGwRdy0"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "Spiritual Healing",
+      "url": "https://open.spotify.com/track/4xM4DyJiINR2uZkWC7Tkgm"
+    },
+    {
+      "album": {
+        "name": "Keepers of the Flame",
         "url": "https://open.spotify.com/album/48sBiiWcETqvuPAVhVCpYN"
       },
       "artists": [
@@ -1565,7 +1631,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 279333,
       "name": "Spiritual Healing",
       "url": "https://open.spotify.com/track/7A30hdrFnzHGhzGxkaxNNj"

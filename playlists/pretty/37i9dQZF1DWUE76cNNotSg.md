@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,713 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,844 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Summer Days \- Roosevelt Remix](https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 3:28 |
 | 100 | [Downtown](https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol) | 4:45 |
 
-Snapshot ID: `MCw3OTI3MzJiMTY4YjI5MjJkMjkzYjI5NjhlMzJlZjI1YzdmZGI1OWEz`
+Snapshot ID: `MCxkZjdmNDJmYWRkY2UzZTA3ODAxNThiMWZiNjBkMWI2NzhhYzIwYzYw`

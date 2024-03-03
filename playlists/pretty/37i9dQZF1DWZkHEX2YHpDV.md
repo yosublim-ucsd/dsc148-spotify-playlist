@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,115 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,172 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,17 +72,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 62 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 |
 | 63 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 |
 | 64 | [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 |
-| 65 | [blame me for everything](https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 2:13 |
-| 66 | [Castaway](https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Castaway](https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw) | 3:18 |
+| 65 | [Castaway](https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Castaway](https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw) | 3:18 |
+| 66 | [blame me for everything](https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 2:13 |
 | 67 | [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 |
 | 68 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 69 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 70 | [Call My Name](https://open.spotify.com/track/5betEwymOveIl6bzmtFLle) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Call My Name](https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC) | 3:50 |
 | 71 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
 | 72 | [Are You Impressed?](https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 3:07 |
-| 73 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 |
-| 74 | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:24 |
-| 75 | [The Devils](https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Devils](https://open.spotify.com/album/0kxLHTDaFDLpU5aBD510ww) | 3:43 |
+| 73 | [The Devils](https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Devils](https://open.spotify.com/album/0kxLHTDaFDLpU5aBD510ww) | 3:43 |
+| 74 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 |
+| 75 | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Left You In Minnesota](https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP) | 2:24 |
 | 76 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
 | 77 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 |
 | 78 | [Haunted](https://open.spotify.com/track/3IXur29Br7NhKlMDQgckTv) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:43 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 108 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
 | 109 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 |
 | 110 | [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 |
-| 111 | [Safe Side](https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Connor Musarra](https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4) | [Origami](https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE) | 2:37 |
-| 112 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 |
+| 111 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 |
+| 112 | [Safe Side](https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO), [Connor Musarra](https://open.spotify.com/artist/5NXojGjcyIaQTMFElFqna4) | [Origami](https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE) | 2:37 |
 | 113 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
 | 114 | [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 |
 | 115 | [SSX Trickmont](https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [SSX Trickmont](https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn) | 3:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 150 | [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 |
 
-Snapshot ID: `MCxkZjY1MGM5YzgzMDVmZWMxYWFiNGQyY2ExMDc4ODFjNzVjNmU4ZjI0`
+Snapshot ID: `MCw1N2E5ZTlmOGEzZTUwNTNiNGI4ZmVlNWFiYzI2OGExODIzZjE4OTFj`

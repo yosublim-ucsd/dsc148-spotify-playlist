@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 46 min
+62 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,9 +44,10 @@
 | [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 |  |
 | [Prisma](https://open.spotify.com/track/28azbjBNeQAUv060KuGomn) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:37 | 2023-12-13 |  |
 | [Proveito](https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6) | 3:36 | 2023-09-18 |  |
-| [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 | 2024-02-03 | 2024-03-01 |
+| [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 | 2024-02-03 |  |
 | [Raio de Sol](https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Raio de Sol](https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt) | 2:52 | 2023-09-18 | 2023-12-30 |
 | [Resposta](https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:32 | 2024-02-23 |  |
+| [Rua 12](https://open.spotify.com/track/0da1jFMV4cYzJ6O8nYrwpV) | [Guido Cnr](https://open.spotify.com/artist/4JgXTHTZATg8VPsqQuaJ9W), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Pepzi](https://open.spotify.com/artist/0UA5ouG9CGXcO3q1yXCOdx) | [Herdeiros R12](https://open.spotify.com/album/2z8OjtuFek85pEGbg8PEaB) | 4:09 | 2024-03-02 |  |
 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 | 2023-09-18 |  |
 | [SALVE](https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:08 | 2023-09-18 |  |
 | [Se A Rua Fosse Minha](https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa) | [Florence Lil Flowers](https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fp](https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC) | [POPART](https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG) | 3:13 | 2023-09-18 |  |

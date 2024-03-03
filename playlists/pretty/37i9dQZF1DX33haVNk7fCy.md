@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,504 likes - 81 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,550 likes - 81 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 54 | [Chandni Raat](https://open.spotify.com/track/15aFp4GkPuHOhRBeHgU2ix) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chandni Raat](https://open.spotify.com/album/2N5srDsaz5fMLlazLTtAaY) | 3:45 |
 | 55 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 |
 | 56 | [Aahatein](https://open.spotify.com/track/3dQjCswDedsHNxdaOhcfiz) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:27 |
-| 57 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 |
-| 58 | [Rihaee](https://open.spotify.com/track/5lyJgRJwhK9SD7F444LPtW) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3cwskKGP4ZNX7fZ6h1RzgG) | 3:02 |
+| 57 | [Rihaee](https://open.spotify.com/track/5lyJgRJwhK9SD7F444LPtW) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3cwskKGP4ZNX7fZ6h1RzgG) | 3:02 |
+| 58 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 |
 | 59 | [Koi Jaane Na](https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/2rNs9qqP3dovmTUuNPXJwT) | 4:16 |
 | 60 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
 | 61 | [Ajnabee](https://open.spotify.com/track/0pQ1hgyLofFLNzE4hvjENi) | [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Ajnabee](https://open.spotify.com/album/1WGbCAsg44CV0JLld94m7g) | 3:01 |
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 71 | [Kitna Tha Roka](https://open.spotify.com/track/1Al9f0Dpm7b2pTl1iglDob) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Kitna Tha Roka](https://open.spotify.com/album/0Izwjjcs0pfPSh4xRX444g) | 3:19 |
 | 72 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 73 | [Unke bina \(Raw\)](https://open.spotify.com/track/6wffrK1ortJuuY0A9OFsIO) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/7cBbRXEXIXfLOF3ZPLe2l3) | 2:28 |
-| 74 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 |
-| 75 | [Maahi Mera](https://open.spotify.com/track/5nQghGvvTCO5QddWAI7cqy) | [Jersxy](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Maahi Mera](https://open.spotify.com/album/6l02cl7Igp5PnMlF8ho5kn) | 4:15 |
-| 76 | [Duur Hai Wo](https://open.spotify.com/track/3olwUushs40IlG40wbBsvr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/3Jrd8GXryjIK39nm5BIlUj) | 4:42 |
+| 74 | [Duur Hai Wo](https://open.spotify.com/track/3olwUushs40IlG40wbBsvr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/3Jrd8GXryjIK39nm5BIlUj) | 4:42 |
+| 75 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 |
+| 76 | [Maahi Mera](https://open.spotify.com/track/5nQghGvvTCO5QddWAI7cqy) | [Jersxy](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Maahi Mera](https://open.spotify.com/album/6l02cl7Igp5PnMlF8ho5kn) | 4:15 |
 | 77 | [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 |
 | 78 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 |
 | 79 | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN) | 4:37 |
 | 80 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 81 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCw4OGEzOTA1MDZjYWNjMTA4MTMzMWI5Yzk5N2IwZDY0MzE2YjliNTJi`
+Snapshot ID: `MCxhMDFkZmQ3NjRmODI3ZGU1MGU3NDJmYzUwNjUxODJkMGU1ZWMzZDIx`

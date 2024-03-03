@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1197334,
+  "2024-03-03": 1197523,
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Megan Thee Stallion",
+  "description": "The hottest out the south. Cover: Don Toliver",
   "name": "No Cap",
   "tracks": [
     {
@@ -361,7 +361,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166034,
       "name": "5 Dubs",
       "url": "https://open.spotify.com/track/0ynpggZye9Kv6yssO9htU8"
@@ -1557,6 +1557,24 @@
       "duration_ms": 158431,
       "name": "Backstage Passes (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/47sdHvCWzCbtMZtRMirlfb"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114524,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/73xrEvZAv5p4AalSpYSYgP"
     },
     {
       "album": {
@@ -3004,6 +3022,24 @@
     },
     {
       "album": {
+        "name": "Loose Screw",
+        "url": "https://open.spotify.com/album/2lKoLKbKgCNdmss4PcidQq"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149864,
+      "name": "Breezy Take Off",
+      "url": "https://open.spotify.com/track/4qFy0uDvjsuCqQaoI5jaqE"
+    },
+    {
+      "album": {
         "name": "Colors Teaser",
         "url": "https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I"
       },
@@ -3692,6 +3728,28 @@
     },
     {
       "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138806,
+      "name": "Chicken Strips & Ass (feat. Paul Wall)",
+      "url": "https://open.spotify.com/track/0grAgpSkkjJksa8Pt7vgK0"
+    },
+    {
+      "album": {
         "name": "Chocolate Rain",
         "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
@@ -4241,6 +4299,28 @@
       "duration_ms": 145657,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/5uFJduSeHmCttOQzpaCgnu"
+    },
+    {
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Trapboy Freddy",
+          "url": "https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161406,
+      "name": "Cowboy In A Escalade (feat. Trapboy Freddy)",
+      "url": "https://open.spotify.com/track/1XGEutQSlHS9Q0q0EPWNRi"
     },
     {
       "album": {
@@ -5517,6 +5597,28 @@
       "duration_ms": 170688,
       "name": "EMOJI",
       "url": "https://open.spotify.com/track/1KFXQEYaDjNDwgHSG2rqFa"
+    },
+    {
+      "album": {
+        "name": "After TTBR",
+        "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177699,
+      "name": "Enough Ammo (Remix) [feat. Young Nudy]",
+      "url": "https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx"
     },
     {
       "album": {
@@ -7770,6 +7872,24 @@
     },
     {
       "album": {
+        "name": "GRAMMY PARTY",
+        "url": "https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110881,
+      "name": "GRAMMY PARTY",
+      "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
+    },
+    {
+      "album": {
         "name": "Greatness",
         "url": "https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p"
       },
@@ -8714,6 +8834,28 @@
     },
     {
       "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/1yKM0mzIww5Fofrx5WnGNA"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187344,
+      "name": "Hot Spot",
+      "url": "https://open.spotify.com/track/2q5E2qgXkrLg1KPiWXYoWl"
+    },
+    {
+      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -9611,7 +9753,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 165161,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7"
@@ -10075,6 +10217,28 @@
       "duration_ms": 278443,
       "name": "JUST SAY THAT (Remix) (feat. Quavo & GloRilla)",
       "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
+    },
+    {
+      "album": {
+        "name": "ScoreGod",
+        "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174579,
+      "name": "Just Want You (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu"
     },
     {
       "album": {
@@ -12279,7 +12443,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 154074,
       "name": "mister misfit but aint missed a fit in months",
       "url": "https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi"
@@ -13873,7 +14037,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 104727,
       "name": "Now or Neva (feat. Moneybagg Yo & YTB Fatt)",
       "url": "https://open.spotify.com/track/7rx8jrF9kvwIr2lQIMPZLG"
@@ -16201,7 +16365,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156161,
       "name": "Ring Ring (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/6Ipsr1V5eaa09Vh24uHyEf"
@@ -17791,7 +17955,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
@@ -19422,6 +19586,24 @@
     },
     {
       "album": {
+        "name": "The P*ssy Song",
+        "url": "https://open.spotify.com/album/7hut1MKOSHcWIXdN6jSmQf"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177705,
+      "name": "The P*ssy Song",
+      "url": "https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi"
+    },
+    {
+      "album": {
         "name": "The Secret Recipe",
         "url": "https://open.spotify.com/album/53Iy26weUBJoSBssWcfP3q"
       },
@@ -20336,6 +20518,28 @@
     },
     {
       "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
+    },
+    {
+      "album": {
         "name": "Type Shit",
         "url": "https://open.spotify.com/album/3h0p70b802WYT4ddD6j949"
       },
@@ -20669,6 +20873,24 @@
       "duration_ms": 218205,
       "name": "UonU (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "album": {
+        "name": "UP, LIT. FREESTYLE",
+        "url": "https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116191,
+      "name": "UP, LIT. FREESTYLE",
+      "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,331 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,389 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 |
 | 100 | [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 |
 
-Snapshot ID: `MCwwOGFmMjM4ZDIyZjhmYTZmOTUzYTRjOTg0ZTZiMzQ4NDAxZjNhZTVi`
+Snapshot ID: `MCwyZTM4NDVjMmIxZDQ4ZTFlNDUxYzM4MzI0YjQ4YTRhMmVlMzFiN2Qw`

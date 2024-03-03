@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 311345,
+  "2024-03-03": 311669,
   "date_first_scraped": "2022-09-15",
   "description": "The songs from the 2000s that will make you dance all summer long!",
   "name": "Summer Hits of the 00s",
@@ -1546,6 +1546,24 @@
     },
     {
       "album": {
+        "name": "D-D-Don't Don't Stop the Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 326960,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8"

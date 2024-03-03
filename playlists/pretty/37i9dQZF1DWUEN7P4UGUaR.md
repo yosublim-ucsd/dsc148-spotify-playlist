@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: MOGMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,906 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,916 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [Awake](https://open.spotify.com/track/4ppSvQRAPYr3sRP9KQPBaD) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [The Awakening \(Alpha Edition\)](https://open.spotify.com/album/4LLnxDNz2HsBKM0GhXfXaC) | 8:06 |
 | 50 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
 
-Snapshot ID: `MCw1MTlmODczNzA1MThjODY1MGM5ZmVlMzk1MTExNTM4ZTA1MDdhOTlh`
+Snapshot ID: `MCwwZGJlMTg0MGU4MGRmYWRmMTZiMDU5ZDcwYTIxNjVlZmNiOTI3NGI0`

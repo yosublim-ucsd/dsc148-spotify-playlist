@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,885 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,907 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 90 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 | 91 | [Dancing Elephants](https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 5:18 |
 | 92 | [Gem](https://open.spotify.com/track/6hJhUQW7VtRSpFFCMOuNXx) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/6IBZWEdXKc9XFaugGU9kxj) | 4:14 |
-| 93 | [FLOOR](https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [FLOOR](https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc) | 2:05 |
-| 94 | [Body Move](https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed) | 2:56 |
-| 95 | [Janet](https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80) | 1:55 |
-| 96 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 |
-| 97 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |
-| 98 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
-| 99 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
-| 100 | [nice](https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:30 |
+| 93 | [Body Move](https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed) | 2:56 |
+| 94 | [Janet](https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Janet](https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80) | 1:55 |
+| 95 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 |
+| 96 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |
+| 97 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
+| 98 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
+| 99 | [nice](https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:30 |
+| 100 | [UDANCE?](https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD) | [BELOVED SUN](https://open.spotify.com/artist/5ejUXQs8sLvPSsoHGT0ni5), [Sol Galeano](https://open.spotify.com/artist/5dwUkFojGBdjXyxS5hm6zi), [SUPER INTRA](https://open.spotify.com/artist/3kl13sZISNqnE6Bukukfl6) | [CRYING AROUND AND IN COLOR](https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN) | 1:07 |
 
-Snapshot ID: `MCw0MmJkODUxODJlYWVjYWFkMzFmMTA3NDQxM2I4NWRkYzgzZGZlY2U5`
+Snapshot ID: `MCwxYWE4OTczNzdhZjhkMjM1ZjFkMGM5NDczZmVkNTI1ZDEyOTlkNzE1`

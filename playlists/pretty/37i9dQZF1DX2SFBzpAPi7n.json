@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Lee go do(\uc774\uace0\ub3c4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 235683,
+  "num_followers": 235702,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQwYmU0YjU3NWI3Y2E2ZjUwMmViYWE0ZWE5ZWQ1ZmZiMGU3Yjkz",
+  "snapshot_id": "MCwwMjg5YjU5MGE4MTM5YWFmMjAxYTc1NWQwZDMyYzM0YjA3YzIxYTVl",
   "tracks": [
     {
       "added_at": "2024-02-22 09:21:25",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-02-22 09:21:25",
       "album": {
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g"
+    },
+    {
+      "added_at": "2024-02-22 09:21:25",
+      "album": {
         "name": "Episode1 : Love",
         "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 242200,
       "name": "Smoke Sprite (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
-    },
-    {
-      "added_at": "2024-02-22 09:21:25",
-      "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g"
     },
     {
       "added_at": "2024-02-22 09:21:25",
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-02-22 09:21:25",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
-    },
-    {
-      "added_at": "2024-02-22 09:21:25",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2024-02-22 09:21:25",
-      "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
       },
@@ -379,6 +347,22 @@
     {
       "added_at": "2024-02-22 09:21:25",
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2024-02-22 09:21:25",
+      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2024-02-22 09:21:25",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2024-02-22 09:21:25",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-02-22 09:21:25",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+        "name": "Livelock",
+        "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+      "duration_ms": 200573,
+      "name": "Break the Brake",
+      "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
     },
     {
       "added_at": "2024-02-22 09:21:25",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-02-22 09:21:25",
       "album": {
-        "name": "Livelock",
-        "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Break the Brake",
-      "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2024-02-22 09:21:25",

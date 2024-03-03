@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 198683,
+  "2024-03-03": 198768,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Brazil.",
   "name": "Top Songs - Brazil",
@@ -47,10 +47,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167034,
       "name": "30 Cadeados - Ao Vivo",
       "url": "https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr"
+    },
+    {
+      "album": {
+        "name": "Fortaleza, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147988,
+      "name": "A Cerveja Abre Sozinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
     },
     {
       "album": {
@@ -87,6 +105,36 @@
       "duration_ms": 172548,
       "name": "Anestesiado - Ao Vivo",
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
+    },
+    {
+      "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "Aquariano Nato",
+      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
       "album": {
@@ -183,7 +231,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 156377,
       "name": "Beijo Equivocado",
       "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
@@ -587,10 +635,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166189,
       "name": "Fronteira - Ao Vivo",
       "url": "https://open.spotify.com/track/1xjy8WRyYUkayJcyyWQpYe"
+    },
+    {
+      "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166189,
+      "name": "Fronteira - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IvsDK2p7Kq3aDrVtESDIg"
     },
     {
       "album": {
@@ -797,10 +867,36 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 206538,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5"
+    },
+    {
+      "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF"
     },
     {
       "album": {
@@ -943,7 +1039,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 166490,
       "name": "Manda um Oi - Ao Vivo",
       "url": "https://open.spotify.com/track/0HlioiDYWAqP6p73XFUOP7"
@@ -1358,6 +1454,44 @@
     },
     {
       "album": {
+        "name": "Rol\u00e9 na Favela de Nave",
+        "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Didi",
+          "url": "https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "MC Smith",
+          "url": "https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rol\u00e9 na Favela de Nave",
+      "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
+    },
+    {
+      "album": {
         "name": "Ciclone",
         "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
       },
@@ -1409,7 +1543,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 194582,
       "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
       "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"
@@ -1557,10 +1691,36 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167551,
       "name": "Torce o Olho - Ao Vivo",
       "url": "https://open.spotify.com/track/4ykvcYpoXid0u9rvzZzNy8"
+    },
+    {
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
     },
     {
       "album": {
@@ -1579,7 +1739,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
@@ -1597,10 +1757,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177327,
       "name": "T\u00f4 Voltando - (Boiadeira Internacional)",
       "url": "https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ"
+    },
+    {
+      "album": {
+        "name": "Boiadeira Internacional (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177327,
+      "name": "T\u00f4 Voltando - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cpVTiwTPN1FTUeQkVoxTS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 13 | [Don't Worry \(feat\. Ink\)](https://open.spotify.com/track/2MUTyvTF8gnrxz4KKNHkCo) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 6:41 |
 | 14 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 |
 | 15 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 |
-| 16 | [Magnolias](https://open.spotify.com/track/0VrVlWutHnOk0QLeO7gD77) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:22 |
-| 17 | [Can't Get Enough](https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
+| 16 | [Can't Get Enough](https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
+| 17 | [Magnolias](https://open.spotify.com/track/0VrVlWutHnOk0QLeO7gD77) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:22 |
 | 18 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
 | 19 | [Power of Money \(feat\. Ink\)](https://open.spotify.com/track/26z0PyPWLQNDByatk2GRuJ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Ink](https://open.spotify.com/artist/3Fv2hilkIgkziuz8U1LeJk) | [White Friday \(CM9\)](https://open.spotify.com/album/2NLkWfzw3YmRGBhqPqtAvW) | 3:44 |
 | 20 | [Hear Me \(feat\. Ink\)](https://open.spotify.com/track/7sFWuqjE6nFlKQxVVWcXUq) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:58 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 29 | [Hummingbird](https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 2:45 |
 | 30 | [Broken Like Me](https://open.spotify.com/track/00HNVblyBbbKCzJZhxofeW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:16 |
 | 31 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 |
-| 32 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
-| 33 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 |
+| 32 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 |
+| 33 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 34 | [Paid In Full](https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ) | [DJ Bubba](https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Paid In Full](https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG) | 2:51 |
 | 35 | [Landslide](https://open.spotify.com/track/4ACXc7diLQP7kQcoTgh0d1) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:34 |
 | 36 | [Mi Amour](https://open.spotify.com/track/2HeeT7iaAay4KADoEGDyUB) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 5:06 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 40 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 41 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
 
-Snapshot ID: `Mjg0ODkxMDAsMDAwMDAwMDA2ZDY2YWVlYmUwMTg3ODAxMmQ2NWFhZmI4OTk5YTUzMA==`
+Snapshot ID: `Mjg0OTA1NDAsMDAwMDAwMDAwNmI2OGIyZjMxY2QzODQyNmRkNGRmYzk2NDgxMTk4Mw==`

@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 109017,
+  "2024-03-03": 109026,
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Jane Penny",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Afternoon Bike Ride",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -755,7 +755,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 184116,
       "name": "BEZU",
       "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
@@ -3726,6 +3726,24 @@
     },
     {
       "album": {
+        "name": "L'\u00eele aux bleuets",
+        "url": "https://open.spotify.com/album/2qGx04164PdegOfarPyxvP"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205145,
+      "name": "L'\u00eele aux bleuets",
+      "url": "https://open.spotify.com/track/4QkVqjrBrvoGemP2vnQbNV"
+    },
+    {
+      "album": {
         "name": "Entre mes insomnies",
         "url": "https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4"
       },
@@ -3933,7 +3951,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 231358,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
@@ -4533,7 +4551,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 195950,
       "name": "Messages",
       "url": "https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2"
@@ -7178,6 +7196,24 @@
     },
     {
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi"
+    },
+    {
+      "album": {
         "name": "Ton appartement",
         "url": "https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5"
       },
@@ -7735,6 +7771,24 @@
       "duration_ms": 186544,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm"
+    },
+    {
+      "album": {
+        "name": "Wear You Out",
+        "url": "https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6"
+      },
+      "artists": [
+        {
+          "name": "Jane Penny",
+          "url": "https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Wear You Out",
+      "url": "https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ"
     },
     {
       "album": {

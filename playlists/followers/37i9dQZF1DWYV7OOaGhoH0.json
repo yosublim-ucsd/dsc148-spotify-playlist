@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 1835901,
+  "2024-03-03": 1835960,
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Hurray For The Riff Raff",
+  "description": "The best in folk & acoustic today featuring music from Hollow Coves",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -357,6 +357,24 @@
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
+    },
+    {
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226740,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ"
     },
     {
       "album": {
@@ -3683,7 +3701,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 221365,
       "name": "Hey Honey",
       "url": "https://open.spotify.com/track/3b6wfWCEwHRRhtop1sWcci"
@@ -5881,6 +5899,24 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
+    },
+    {
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
     },
     {
       "album": {
@@ -8729,7 +8765,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 176666,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"

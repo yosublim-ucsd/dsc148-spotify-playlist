@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 287276,
+  "2024-03-03": 287333,
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: <a href=\"spotify:artist:7zJL978NtANOysfGY21ty6\">Ghetts</a>",
+  "description": "Damn son, where'd ya find this?",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "3 Feet High and Rising (35th Anniversary)",
+        "url": "https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115573,
+      "name": "Ain't Hip to be Labelled a Hippie",
+      "url": "https://open.spotify.com/track/7GXfFKWwrHf4tNWGMDzaUw"
+    },
+    {
+      "album": {
         "name": "Long Live The Kane",
         "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
       },
@@ -715,6 +733,36 @@
       "duration_ms": 193541,
       "name": "All the Bodies",
       "url": "https://open.spotify.com/track/7k3uGY23tBS23OxVldzuzG"
+    },
+    {
+      "album": {
+        "name": "Amalfi Drive (feat. Compton's Most Wanted)",
+        "url": "https://open.spotify.com/album/7wM9S44x4OCMEjCH4mmeOC"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231856,
+      "name": "Amalfi Drive (feat. Compton's Most Wanted)",
+      "url": "https://open.spotify.com/track/03qcAVAmRbItMm8iOafAVd"
     },
     {
       "album": {
@@ -2451,7 +2499,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 161480,
       "name": "CrasH",
       "url": "https://open.spotify.com/track/6BKAKoo7J2vwJGZJs5dhGD"
@@ -2776,6 +2824,28 @@
     },
     {
       "album": {
+        "name": "Rap Prime Minister",
+        "url": "https://open.spotify.com/album/6ZaDIXpcrSf9Go71ajgKSv"
+      },
+      "artists": [
+        {
+          "name": "Maestro Fresh Wes",
+          "url": "https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247761,
+      "name": "Dearly Departed (feat. Kardinal Offishall)",
+      "url": "https://open.spotify.com/track/2N8W9E0kgsshDBOT7dbnkP"
+    },
+    {
+      "album": {
         "name": "Death & Taxes",
         "url": "https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT"
       },
@@ -2813,7 +2883,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 175648,
       "name": "DeNiro & Pesci",
       "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
@@ -3747,7 +3817,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 167149,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2Ikg6hRQOa6e29sq5xWhM8"
@@ -5215,7 +5285,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 192000,
       "name": "Hold My Own",
       "url": "https://open.spotify.com/track/27oJdWOvU6T4qykqyvlWqv"
@@ -5885,7 +5955,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212906,
       "name": "Infinity Fill Goose Down",
       "url": "https://open.spotify.com/track/7yTJVke07Gn9xB1nMpACep"
@@ -8378,6 +8448,28 @@
     },
     {
       "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "album": {
         "name": "The OF Tape Vol. 2",
         "url": "https://open.spotify.com/album/7ibEo7IK9E9mi2sU5rJNDC"
       },
@@ -8521,6 +8613,28 @@
       "duration_ms": 164158,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2aKdhAWm1SX4B7KY5QuGB6"
+    },
+    {
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/0QILRA13pn8Q153pYd1wSD"
+      },
+      "artists": [
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        },
+        {
+          "name": "J Scienide",
+          "url": "https://open.spotify.com/artist/08CiAfgh0Lb06zxgUl8ghj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/4CTZL2R4fy8tvo1g9ia3Io"
     },
     {
       "album": {
@@ -9073,6 +9187,32 @@
       "duration_ms": 237108,
       "name": "Politics As Usual",
       "url": "https://open.spotify.com/track/29aELZNPrbzYrxVyA98sFz"
+    },
+    {
+      "album": {
+        "name": "Pon Road",
+        "url": "https://open.spotify.com/album/2r7vJvqbBdn993bKJ6c3N3"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "Beaug\u00e9",
+          "url": "https://open.spotify.com/artist/6UoxwRNjvxDOSQIAcJbhQL"
+        },
+        {
+          "name": "SUPERDRAMAGO!",
+          "url": "https://open.spotify.com/artist/6Yw9aVk8PGH9EKBAp92F4h"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282097,
+      "name": "Pon Road",
+      "url": "https://open.spotify.com/track/10lG3uJjTO282l4JJR2HJk"
     },
     {
       "album": {
@@ -10934,6 +11074,28 @@
     },
     {
       "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G"
+    },
+    {
+      "album": {
         "name": "Still Here (feat. Cordae)",
         "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
       },
@@ -12687,7 +12849,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 130731,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda"

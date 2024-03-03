@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674,289 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,674,388 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 100 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
 
-Snapshot ID: `MCw0YTY3NzA5MzA3NmFmZDdlODMyM2Q3MWFmMDEzNjc5Mzk5MjExYmQ2`
+Snapshot ID: `MCxiMzU4NDg4M2M0NTVhZDg2NzFlY2UwMGI2NjY4YTk0MzY1MzY5NzU3`

@@ -4,7 +4,7 @@
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-70 songs - 3 hr 43 min
+71 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-12-18 | 2024-02-06 |
 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 | 2023-12-18 | 2024-02-10 |
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-09 |  |
-| [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 | 2024-02-27 |  |
+| [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 | 2024-02-27 | 2024-03-03 |
 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:31 | 2024-02-23 |  |
 | [Caballo De Troya](https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Chente Ydrach](https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN) | [Caballo De Troya](https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL) | 2:01 | 2024-02-09 | 2024-02-11 |
 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 | 2024-01-12 | 2024-01-20 |
@@ -23,7 +23,7 @@
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
 | [CORLEONE](https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Saliendo del Planeta](https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf) | 3:12 | 2023-12-18 | 2024-01-13 |
 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 | 2024-01-19 | 2024-02-17 |
-| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 |  |
+| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 |  |
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2024-02-05 | 2024-02-10 |
 | [El Idiota](https://open.spotify.com/track/6BAWPd5RhdrTZKsCLfrXQ5) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [El Idiota](https://open.spotify.com/album/4D6E1KROX5VpRvAajqHjOG) | 3:29 | 2024-02-23 | 2024-02-25 |
 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 | 2023-12-27 | 2024-02-10 |
@@ -53,6 +53,7 @@
 | [Pa Ti Estoy](https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:26 | 2023-12-18 | 2024-02-10 |
 | [Pasado Mañana](https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Pasado Mañana](https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM) | 2:17 | 2024-02-16 |  |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-12-18 | 2024-02-24 |
+| [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-01 |  |
 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 | 2024-01-31 |  |
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-12-18 | 2024-02-06 |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-18 | 2024-02-24 |

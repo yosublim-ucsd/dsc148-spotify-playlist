@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones chill para ayudarte a bajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,670 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,690 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 68 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
 | 69 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 |
 | 70 | [Lejos De Todo](https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lejos De Todo](https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz) | 2:58 |
-| 71 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 |
-| 72 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
-| 73 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
-| 74 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
-| 75 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
+| 71 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
+| 72 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 |
+| 73 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
+| 74 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
+| 75 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
 
-Snapshot ID: `MCxlZjY2ZGY5ZWU2M2RmNmYzN2Q3Y2M4ODA2NTU0YWIzM2FmMTk5Njk3`
+Snapshot ID: `MCwxMWQ0MTk3NDlmYTFiZGFhNDY5OGViNDFmNTY5MjMyMWY0MThhOGY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Malik Montana & Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,541 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,801 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 10 | [10 Carros](https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [10 Carros](https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI) | 2:21 |
 | 11 | [Faut pas](https://open.spotify.com/track/48d98Nlj1XKXxzo9KDBx0H) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Faut pas](https://open.spotify.com/album/6RlAxkB6DUlh0XPab49uXn) | 2:18 |
 | 12 | [Algo Muy Raro](https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Algo Muy Raro](https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO) | 3:09 |
-| 13 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 |
+| 13 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 |
 | 14 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 15 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
 | 16 | [Pistola](https://open.spotify.com/track/4jW72qHZVelkIGc7fmomfd) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Pistola](https://open.spotify.com/album/5wrfraX6bmAm9N4K3pmdZt) | 2:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 89 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 90 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 
-Snapshot ID: `MCxmYzBkNTFkN2Y3MDEwNDNlZjdmZjE0OGFjMmI4MmUyNzJlZjRlY2Vm`
+Snapshot ID: `MCwyNWZjODkyMzQwYThiYWUyNTliZGNhMzIxYmEyMTI5ZWY4OTAwMzgw`

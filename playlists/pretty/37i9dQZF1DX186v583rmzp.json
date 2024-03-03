@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8403324,
+  "num_followers": 8405598,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJmOWY3OWM1ZWVmM2ViNmJjOTgzNGU3NGZhN2I3YWFiYTUzOTM0",
+  "snapshot_id": "MCxiOWYxMzg2Njg4NmQyMDI5MDIwMGM5ZWRlZjYwMjExYzA0N2ZiYjRl",
   "tracks": [
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
         "name": "Hard To Earn",
         "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Hell On Earth",
-        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Hell on Earth (Front Lines)",
-      "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+        "name": "Hell On Earth",
+        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
       "artists": [
         {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+      "duration_ms": 274093,
+      "name": "Hell on Earth (Front Lines)",
+      "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 293933,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "Conspiracy (PA)",
-        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
-      },
-      "artists": [
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274937,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2024-01-26 08:36:28",

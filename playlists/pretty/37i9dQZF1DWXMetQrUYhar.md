@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,925 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,930 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 48 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 |
 | 49 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 |
 | 50 | [I Can Hardly Speak](https://open.spotify.com/track/6RE0waxUF2FpqFmcUlJI1O) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Spotify Singles](https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9) | 3:59 |
-| 51 | [Cartoon Earthquake](https://open.spotify.com/track/12FPiYpIFVzZOUu5zB71LT) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:25 |
-| 52 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 |
-| 53 | [hey! \- Spotify Singles](https://open.spotify.com/track/2v8DsnCstW8WyDwrUywzhP) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/1XwXxE28acZ8c4brt8CReD) | 2:13 |
+| 51 | [hey! \- Spotify Singles](https://open.spotify.com/track/2v8DsnCstW8WyDwrUywzhP) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/1XwXxE28acZ8c4brt8CReD) | 2:13 |
+| 52 | [Cartoon Earthquake](https://open.spotify.com/track/12FPiYpIFVzZOUu5zB71LT) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:25 |
+| 53 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 |
 | 54 | [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 |
 | 55 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 |
 | 56 | [Stayaway \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 4:11 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 58 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 |
 | 59 | [Friday Morning \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 6:36 |
 | 60 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 |
-| 61 | [Give Yourself A Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/3xfiakKOICUZr8sAFvHnxQ) | 4:05 |
-| 62 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 |
+| 61 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 |
+| 62 | [Give Yourself A Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/3xfiakKOICUZr8sAFvHnxQ) | 4:05 |
 | 63 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 |
 | 64 | [Don’t You \(Forget About Me\) \- live from Abbey Road Studios, London](https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Spotify Singles](https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X) | 3:59 |
 | 65 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Telepatía \- Spotify Singles](https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 2:53 |
 | 125 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 |
 
-Snapshot ID: `MCxlOTRmNTUxNWViMjE1Mzg1YzhhZjlmOTY1OGMzODgxNDk2MWJhNjg2`
+Snapshot ID: `MCwwZGE5YjYyMTFlYjc4ODk4ZDRiZjg0ODgxNDU2ZmVjYmQxMDQ0ZGZm`

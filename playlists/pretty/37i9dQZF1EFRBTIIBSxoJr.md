@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 120 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 22 | [OFF MY FACE](https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:29 |
 | 23 | [Grows Old](https://open.spotify.com/track/148qBp6yeeA2oq28xTZZ7e) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:56 |
 | 24 | [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 |
-| 25 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
-| 26 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
+| 25 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
+| 26 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 |
 | 27 | [Luna](https://open.spotify.com/track/1p1Khl8dIlu4t8H4irtGme) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:28 |
 | 28 | [Never Letting Go](https://open.spotify.com/track/0ioKRStsEBHQsHPb0N9kAE) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Moon Willis](https://open.spotify.com/artist/4QsYLEjgSItbA6PI2i8xAU), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Never Letting Go](https://open.spotify.com/album/2b5HwXYmdfZB6CkxteIM7J) | 3:55 |
 | 29 | [Cocaine](https://open.spotify.com/track/0ZjWz3lufHaVRXURSspnfw) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 119 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 120 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDBkNmY3YWJmZDEwYzQzNWM0ZDY2ZGYzMTU3ZmI1ODA3Yw==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDAwZDlmNWQ1ZTYwMDZjYjk3NDUwZjE0ZTBjNGRhNWFlOQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1777173,
+  "num_followers": 1777154,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTE3NTBlM2JkMDExOWM5NzU5N2Q3ZTk0YzI4Nzk4NzczYTg3YjU1",
+  "snapshot_id": "MCxmYTUzNjlhOTU5ZjNhNWI2NWFhYzc5OTY5OTE2YWIxZmQ2ZGRlZWE0",
   "tracks": [
     {
       "added_at": "2024-01-16 15:05:04",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Football",
-        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Football",
-      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Work Out",
         "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 291776,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Fits Of Laughter",
         "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
@@ -1323,6 +1303,22 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 217946,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
     },
     {
       "added_at": "2024-01-16 15:05:04",

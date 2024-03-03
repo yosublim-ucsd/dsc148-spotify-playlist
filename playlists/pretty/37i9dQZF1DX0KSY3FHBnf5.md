@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,376 likes - 138 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,581 likes - 138 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 61 | [the light will never leave](https://open.spotify.com/track/1vQsYNVBSnS5rlPjp37Xwt) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [the light will never leave](https://open.spotify.com/album/1iuFnNgfkmAPUJuRiDh2DI) | 1:56 |
 | 62 | [before winter's call](https://open.spotify.com/track/2fjDbaKZyssMrgjAfCXxNG) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [before winter's call](https://open.spotify.com/album/56sJTZ8VE5PrKVZN997433) | 2:20 |
 | 63 | [whispa \- slowed](https://open.spotify.com/track/1IzDFO9iFkTtiL4wN6B03R) | [echo boi](https://open.spotify.com/artist/3pLgSyPwng015fy5T1QLoq), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [whispa](https://open.spotify.com/album/3lkhSMZbaIrzQTENABk6TS) | 3:19 |
-| 64 | [i miss u](https://open.spotify.com/track/3D56JZdSpVr6fU68PGJjjb) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [i miss u](https://open.spotify.com/album/2tndH9k21LcIZO949Lgu4K) | 1:57 |
+| 64 | [i miss u](https://open.spotify.com/track/5bLEOjaCQJTGAoqEI4VJJH) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [i miss u](https://open.spotify.com/album/2t8KHOAzyob3lG6kvUp9sv) | 1:57 |
 | 65 | [childhood](https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [childhood](https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj) | 2:09 |
 | 66 | [don't cry](https://open.spotify.com/track/390pDDdZhxnt4ND9t0th86) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [don't cry](https://open.spotify.com/album/7yBKwlVI3Oaq1cAi6Qu8Ul) | 2:25 |
 | 67 | [dreamland](https://open.spotify.com/track/1B5KRBMc8IjInoXEFuGZhq) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [dreamland](https://open.spotify.com/album/3m96oQ2ZoFp2cmqEZWMdjf) | 1:56 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 137 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 |
 | 138 | [lost](https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [lost](https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM) | 2:02 |
 
-Snapshot ID: `MCxhMzk0ZDhiMjNhNWY4N2Y0YzMwNTVhNDQ3OWFkMDYzYjkyZGI5YjMy`
+Snapshot ID: `MCxhZTIwYmJhNmQ0NTNkZmIwZDBlOWNjOTliOTZiMDM1Yzg5ZmQ1MTI4`

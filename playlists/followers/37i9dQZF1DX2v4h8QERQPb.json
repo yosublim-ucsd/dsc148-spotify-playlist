@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 195297,
+  "2024-03-03": 195545,
   "date_first_scraped": "2022-01-24",
   "description": "Rimas argentinas. Foto: Trueno.",
   "name": "Hip Hop Argento",
@@ -1063,6 +1063,24 @@
       "duration_ms": 82424,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/2aG5jnSGJVLrutTzGfk0US"
+    },
+    {
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx"
+      },
+      "artists": [
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166625,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/0fMcU9JmcBeWVMzqbE7PU8"
     },
     {
       "album": {
@@ -2799,7 +2817,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 152000,
       "name": "LQRA Session #8",
       "url": "https://open.spotify.com/track/1Z65FyDTWd2DAi5ZcowZ52"

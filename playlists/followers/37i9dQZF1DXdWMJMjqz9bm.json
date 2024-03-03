@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 216894,
+  "2024-03-03": 216925,
   "date_first_scraped": "2022-02-06",
   "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
   "name": "Varsity Bars",
@@ -10105,6 +10105,24 @@
       "duration_ms": 166000,
       "name": "Sunday In Soho",
       "url": "https://open.spotify.com/track/3lLiqdaYoNwxN0TQjlPv9b"
+    },
+    {
+      "album": {
+        "name": "sunfalls (am + pm)",
+        "url": "https://open.spotify.com/album/0JImpPCrD21mUTA3uXcKsH"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216870,
+      "name": "sunfalls pm",
+      "url": "https://open.spotify.com/track/0u4pHpK3WcNR8hBft7FSpM"
     },
     {
       "album": {

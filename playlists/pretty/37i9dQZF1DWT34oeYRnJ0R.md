@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Chesca & Dalex
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,777 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,784 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 9 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 10 | [ASALTO](https://open.spotify.com/track/1FRKLNcBuCwfQ4rsVkt7SY) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [ASALTO](https://open.spotify.com/album/5oEA7ihiHM6Vbik2H9R9qO) | 2:26 |
 | 11 | [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 |
-| 12 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
+| 12 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 13 | [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 |
 | 14 | [Tanto](https://open.spotify.com/track/2KIqca02uQb7ZyNTTXxCta) | [Mateo](https://open.spotify.com/artist/4gGVqmtKzWbub2v1NJFSgL), [YNG LGNDZ](https://open.spotify.com/artist/1w2oGzpOHgn6dzF6dW5zmT), [Myztiko](https://open.spotify.com/artist/2aZII4u5vhdDD2aCKvPfnU) | [Tanto](https://open.spotify.com/album/00Bf49WY3xdwfBvZ43kGmB) | 3:11 |
 | 15 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Hace Un Mes](https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:53 |
 | 100 | [PÍDELO](https://open.spotify.com/track/4evX4mo8KG2bJ3p6iJNfyK) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:49 |
 
-Snapshot ID: `MCw5OGI5N2RmZGQ0ZDViYmY4Mzg2ZjUxMTEyMTJiNzZiZTRjMWRkZGYx`
+Snapshot ID: `MCxiNDdjM2E4NThkOTFlMGIzZmFjZTAxMmJjOGNhOTRkMTU4Mzk0NDZl`

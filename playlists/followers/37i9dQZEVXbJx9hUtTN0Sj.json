@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 23040,
+  "2024-03-03": 23036,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -57,6 +57,24 @@
       "duration_ms": 140360,
       "name": "4x4 merco",
       "url": "https://open.spotify.com/track/25Z3RdDDniDJRt9Bb79yB7"
+    },
+    {
+      "album": {
+        "name": "Acid Cry",
+        "url": "https://open.spotify.com/album/1mDhi4pdNILU4hxVBWTiAa"
+      },
+      "artists": [
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145800,
+      "name": "Acid Cry",
+      "url": "https://open.spotify.com/track/6cP6IST6zj0sPIDOjmA1JZ"
     },
     {
       "album": {
@@ -1532,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "La Foule (Le Monde Mix)",
+        "url": "https://open.spotify.com/album/38zm4QMrXL4VnZVMsrZT7C"
+      },
+      "artists": [
+        {
+          "name": "TR3NACRIA",
+          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        },
+        {
+          "name": "StereoKilla",
+          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112380,
+      "name": "La Foule (Le Monde Mix)",
+      "url": "https://open.spotify.com/track/3TAodHlgfoNpH5cg2JTMnh"
+    },
+    {
+      "album": {
         "name": "La noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
       },
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 171655,
       "name": "Streken",
       "url": "https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ"
@@ -3146,6 +3186,24 @@
     },
     {
       "album": {
+        "name": "The Great Calm",
+        "url": "https://open.spotify.com/album/1w15arh3IDcdr970N7TTMf"
+      },
+      "artists": [
+        {
+          "name": "Whispering Sons",
+          "url": "https://open.spotify.com/artist/2iIBcGbTd24FtVwuP9o2OT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282306,
+      "name": "Walking, Flying",
+      "url": "https://open.spotify.com/track/2JDjqqzsIaMxQogKNbTuFE"
+    },
+    {
+      "album": {
         "name": "Wall Of Eyes",
         "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
       },
@@ -3277,7 +3335,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"

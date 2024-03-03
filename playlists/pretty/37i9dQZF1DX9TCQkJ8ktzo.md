@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,172 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,195 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 22 | [Adios Nonino](https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [El Tango](https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF) | 4:58 |
 | 23 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
 | 24 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
-| 25 | [Acompáñame](https://open.spotify.com/track/4CWYYlpeOMeY5qYdIWoZER) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocío Dúrcal \- Sus éxitos de los 60 Vol\. 1](https://open.spotify.com/album/0UBvTmsWLGKuJIVOWoPHRi) | 3:36 |
+| 25 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
 | 26 | [Palabra de Rey](https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:28 |
-| 27 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
+| 27 | [Acompáñame](https://open.spotify.com/track/4CWYYlpeOMeY5qYdIWoZER) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocío Dúrcal \- Sus éxitos de los 60 Vol\. 1](https://open.spotify.com/album/0UBvTmsWLGKuJIVOWoPHRi) | 3:36 |
 | 28 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 29 | [Amigo Organillero](https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Y Todavia Te Quiero](https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG) | 3:11 |
 | 30 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Agujetas de Color de Rosa](https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:48 |
 | 50 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
 
-Snapshot ID: `MCxiZDQ0MWU4ZTE0N2UxZDI5OGE1NDdmYTg0NzVmY2U0ZTQxODk4ODYw`
+Snapshot ID: `MCwwZjY1N2IzZTY4ZTY4Y2FhYzQ0YTk3NWNkMWYzZTYwNjgyNWE1ZDY1`

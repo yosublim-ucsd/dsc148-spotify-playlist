@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 448068,
+  "2024-03-03": 448279,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -901,6 +901,24 @@
       "duration_ms": 474390,
       "name": "Away",
       "url": "https://open.spotify.com/track/1R277vjeyNAZQ1dLPcuSlU"
+    },
+    {
+      "album": {
+        "name": "Ay",
+        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246027,
+      "name": "Ay",
+      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
     },
     {
       "album": {
@@ -2509,6 +2527,28 @@
       "duration_ms": 430250,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe"
+    },
+    {
+      "album": {
+        "name": "Darling (with Aloe Blacc)",
+        "url": "https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272542,
+      "name": "Darling (with Aloe Blacc)",
+      "url": "https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv"
     },
     {
       "album": {
@@ -8871,7 +8911,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 324057,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y"
@@ -10933,7 +10973,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 251671,
       "name": "The Veil",
       "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"

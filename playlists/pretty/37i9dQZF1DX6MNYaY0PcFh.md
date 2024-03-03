@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,932 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,949 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 23 | [Lean On U](https://open.spotify.com/track/26L3AY8of95gl70zbMS47C) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Nothing Without Your Love](https://open.spotify.com/album/421tY7OWB0RLpSCLe5Xdaq) | 4:04 |
 | 24 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 | 25 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 |
-| 26 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
-| 27 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
+| 26 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
+| 27 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 28 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 |
 | 29 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 30 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 52 | [Don't Ya Want It](https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Garage Queen EP](https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig) | 3:03 |
 | 53 | [Arrival](https://open.spotify.com/track/5utzfRVETLaJUETsgPyUBX) | [Yemi](https://open.spotify.com/artist/21ujgB2lJW9NT1D46pWuDj), [Edward White](https://open.spotify.com/artist/5hS9c3HfGey4nXQxjcrCS1) | [Arrival](https://open.spotify.com/album/0Dn3aTnI80EYspDqrUTFDS) | 3:46 |
 | 54 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
-| 55 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
-| 56 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
+| 55 | [Love Me, Leave Me Alone](https://open.spotify.com/track/55MckToyWVSitUdMySgApN) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Love Me, Leave Me Alone](https://open.spotify.com/album/2qryqXKgPDQ55TwPKzbGMM) | 3:13 |
+| 56 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
 | 57 | [Near U](https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ) | [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Near U](https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a) | 4:32 |
-| 58 | [Flex](https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Flex](https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY) | 2:50 |
-| 59 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
+| 58 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
+| 59 | [Flex](https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Flex](https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY) | 2:50 |
 | 60 | [Brighter Days](https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Estate Royalty](https://open.spotify.com/album/5A53s3TnstEoTDmwO9CwOb) | 2:32 |
 
-Snapshot ID: `MCw3ZmRjMWYwOTZiNDJhOWFjYjVkZjBmMjYzMjEzMmQ0YWZkYzM1N2Q0`
+Snapshot ID: `MCw3Yjg0MzJlYTdmZGU1ZmYxMmU3MTVhY2UwYTgxOWNmMDg2MTM3YzE4`

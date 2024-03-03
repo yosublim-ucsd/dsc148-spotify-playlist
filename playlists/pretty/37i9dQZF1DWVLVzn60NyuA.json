@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 291944,
+  "num_followers": 292041,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTBkMTc5OTJjNDljMGNiNzRiZjIwZmZkMGY1NWMyNjdjZGRjNTli",
+  "snapshot_id": "MCw5YzliNGY0OTcwOWMxMzNiYzU1ZTQ4YmU0Zjg4MWE5MGQwMDBhMmNm",
   "tracks": [
     {
       "added_at": "2024-02-23 20:37:13",
@@ -2715,6 +2715,22 @@
     {
       "added_at": "2024-02-23 20:37:13",
       "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2024-02-23 20:37:13",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
-    },
-    {
-      "added_at": "2024-02-23 20:37:13",
-      "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2024-02-23 20:37:13",

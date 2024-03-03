@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,363 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,515 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 6 | [MIROTIC](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [MIROTIC \- The 4th Album](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) | 3:28 |
 | 7 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
 | 8 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:52 |
-| 9 | [Bad Girl Good Girl](https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c) | 3:37 |
-| 10 | [Touch my body](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [TOUCH N MOVE](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) | 3:26 |
+| 9 | [Touch my body](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [TOUCH N MOVE](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) | 3:26 |
+| 10 | [Bad Girl Good Girl](https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c) | 3:37 |
 | 11 | [Abracadabra](https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Sound G.](https://open.spotify.com/album/01ylpNorWq5UkR5Vd0XBqw) | 3:02 |
 | 12 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
 | 13 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 79 | [10 Out of 10](https://open.spotify.com/track/0aIDuCLgytKidMtXhNp7Z6) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [1:59PM](https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG) | 3:23 |
 | 80 | [Sixth Sense](https://open.spotify.com/track/2HT3UJvQ6Gz290CfYVxSLr) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [SIXTH SENSE](https://open.spotify.com/album/5QZs6z6IWgE5dj28fzfx47) | 3:47 |
 | 81 | [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 |
-| 82 | [Amigo](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Amigo \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 2:59 |
-| 83 | [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 |
+| 82 | [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 |
+| 83 | [Amigo](https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Amigo \- The 1st Album Repackage](https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K) | 2:59 |
 | 84 | [여자 대통령](https://open.spotify.com/track/0cFGAeKZriFUSwg1b0CIY7) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [여자 대통령](https://open.spotify.com/album/6u4OXPhdT6eQa9jrNnhfPX) | 3:32 |
 | 85 | [Stay](https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF) | 3:20 |
 | 86 | [Madonna](https://open.spotify.com/track/5FxdI27T3lOVPjLPFQHuTC) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Madonna](https://open.spotify.com/album/6V58DuiHAaCtuAi27HEam4) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 99 | [Black & White](https://open.spotify.com/track/3fvZGpslpQexu8e8AsKgCU) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:28 |
 | 100 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 |
 
-Snapshot ID: `MCw0ZTIxZmM2MTE5YzJkODBkNzgzMDczNzdlYTViNjFkMGU3ZjlkYzc5`
+Snapshot ID: `MCwyMzZlYzhkZTEwZjExOWY5MTVkOWY4YTc0Yjk1ZGQ4MGExN2Q1OTBm`

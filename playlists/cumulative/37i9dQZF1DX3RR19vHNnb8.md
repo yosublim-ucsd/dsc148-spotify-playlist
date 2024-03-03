@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-159 songs - 8 hr 1 min
+160 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-30 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-30 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-07 |  |
-| [Feel Good](https://open.spotify.com/track/2YDRLaRfmwdtwfcg0nVLeO) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Feel Good](https://open.spotify.com/album/5TrjLIYChGEUMbJIu4UVwk) | 2:33 | 2023-12-22 |  |
+| [Feel Good](https://open.spotify.com/track/2YDRLaRfmwdtwfcg0nVLeO) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Feel Good](https://open.spotify.com/album/5TrjLIYChGEUMbJIu4UVwk) | 2:33 | 2023-12-22 | 2024-03-03 |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2021-06-07 | 2023-10-18 |
 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 | 2021-06-07 |  |
 | [Fuck That](https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 2:30 | 2023-09-15 | 2023-10-18 |
@@ -89,6 +89,7 @@
 | [LEAN!](https://open.spotify.com/track/0VSLiEDoFqM40mHGduBAWO) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ECEE](https://open.spotify.com/artist/4Fjy32nOkX6jFJlDjSjabL), [Rhoma BTW](https://open.spotify.com/artist/2J7GsZDs3M7SRN81uJvHPH), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Osapa London \- Deluxe](https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa) | 3:19 | 2023-12-08 | 2024-01-24 |
 | [Libation](https://open.spotify.com/track/1pW1mCvwTTfUApDfpOpnuh) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf) | [Libation](https://open.spotify.com/album/0Cdd7GZbPmWtafTvPX8YBJ) | 2:43 | 2023-10-17 | 2023-10-19 |
 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-20 |  |
+| [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-07 | 2023-10-18 |
 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 | 2021-09-09 | 2023-10-18 |
 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 | 2023-11-10 | 2023-11-17 |

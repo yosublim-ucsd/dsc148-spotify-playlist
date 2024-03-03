@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144118,
+  "num_followers": 144132,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTFlMWU2YmJkYWRhZDUxMWZmZGIxNTFiMWMzZmRiODJhOTk0OTNj",
+  "snapshot_id": "MCxjNjgzNmM5NGEzMGI0NzdhZTMwYzMxMTdjYWVkYTIzNzZiODcyYzlm",
   "tracks": [
     {
       "added_at": "2024-02-29 21:23:15",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
         "name": "M\u00e1s Que Amigas",
         "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "This is un volc\u00e1n",
-        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
       },
       "artists": [
         {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
         }
       ],
-      "duration_ms": 206808,
-      "name": "This is un volc\u00e1n",
-      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -503,6 +487,22 @@
       "duration_ms": 168320,
       "name": "poco a poquito",
       "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
+        "name": "This is un volc\u00e1n",
+        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "This is un volc\u00e1n",
+      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
         "name": "Lonely Fans",
         "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "COLAPSO",
-        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "COLAPSO",
-      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 260618,
       "name": "La Experiencia",
       "url": "https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
+        "name": "COLAPSO",
+        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "COLAPSO",
+      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
+        "name": "He comprado \u2741",
+        "url": "https://open.spotify.com/album/0akDqokr6VrFDIAOISbJmg"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "He comprado \u2741",
+      "url": "https://open.spotify.com/track/4gHEWRY8kkg6XuDOiiydgG"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 182903,
       "name": "Male",
       "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 147808,
-      "name": "Fuckgurl",
-      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 147808,
+      "name": "Fuckgurl",
+      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 265005,
       "name": "Nudo",
       "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
-        "name": "He comprado \u2741",
-        "url": "https://open.spotify.com/album/0akDqokr6VrFDIAOISbJmg"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "He comprado \u2741",
-      "url": "https://open.spotify.com/track/4gHEWRY8kkg6XuDOiiydgG"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
         "name": "La Santa Patrona de los Corazones Negros",
         "url": "https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
       "artists": [
         {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
         }
       ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -1235,6 +1219,22 @@
       "duration_ms": 195157,
       "name": "Muy tarde",
       "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -1259,28 +1259,8 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "Detonaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Detonaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
+        "name": "Alquiler",
+        "url": "https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI"
       },
       "artists": [
         {
@@ -1288,25 +1268,9 @@
           "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 133648,
-      "name": "Pisteando",
-      "url": "https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt"
-    },
-    {
-      "added_at": "2024-02-29 21:23:15",
-      "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Suspiros",
-      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+      "duration_ms": 155210,
+      "name": "Alquiler",
+      "url": "https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g"
     },
     {
       "added_at": "2024-02-29 21:23:15",
@@ -1331,6 +1295,42 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
+        "name": "Detonaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Detonaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+    },
+    {
+      "added_at": "2024-02-29 21:23:15",
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2024-02-29 21:23:15",
       "album": {
-        "name": "Y vos dec\u00eds que me gust\u00e1s",
-        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 153320,
-      "name": "Y vos dec\u00eds que me gust\u00e1s",
-      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+      "duration_ms": 133648,
+      "name": "Pisteando",
+      "url": "https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt"
     }
   ],
   "unique_name": "Mujeres del Indie",

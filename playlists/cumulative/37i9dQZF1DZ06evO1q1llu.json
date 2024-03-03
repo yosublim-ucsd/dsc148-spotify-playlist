@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Still Yours (From The Doc)",
+        "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158008,
+      "name": "Still Yours (From The Doc)",
+      "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },

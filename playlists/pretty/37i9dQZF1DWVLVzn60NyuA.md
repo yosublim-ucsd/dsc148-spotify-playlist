@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,944 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,041 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 140 | [Ojoro](https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ojoro](https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ) | 3:12 |
 | 141 | [Nobody Knows](https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Nobody Knows](https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G) | 2:36 |
 | 142 | [911](https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [911](https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3) | 2:49 |
-| 143 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 |
-| 144 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
+| 143 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
+| 144 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 |
 | 145 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 |
 | 146 | [C'est Cuit](https://open.spotify.com/track/2FoYKMOfK4M8H9Am3GumqL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Major Lazer Essentials](https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl) | 2:36 |
 | 147 | [Midnight Boom \- with ChocQuibTown & Afro B](https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Midnight Boom \(with ChocQuibTown & Afro B\)](https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk) | 3:40 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [Meliza](https://open.spotify.com/track/7dQFi51rjTv7ZqCKXU7uvp) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/5H7N7wIDlfGlgqC2DzQDi1) | 3:32 |
 | 150 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 |
 
-Snapshot ID: `MCw5YTBkMTc5OTJjNDljMGNiNzRiZjIwZmZkMGY1NWMyNjdjZGRjNTli`
+Snapshot ID: `MCw5YzliNGY0OTcwOWMxMzNiYzU1ZTQ4YmU0Zjg4MWE5MGQwMDBhMmNm`

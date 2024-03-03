@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,307 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,315 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 9 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
 | 10 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 |
 | 11 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
-| 12 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
-| 13 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
+| 12 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
+| 13 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
 | 14 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
 | 15 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 |
 | 16 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 36 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
 | 37 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 38 | [Sere nere](https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 4:24 |
-| 39 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
-| 40 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
+| 39 | [Dove e quando](https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Good Vibes](https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg) | 3:10 |
+| 40 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
 | 41 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 |
 | 42 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
 | 43 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 74 | [Ti Vorrei Sollevare](https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx) | 4:27 |
 | 75 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 |
 | 76 | [Almeno tu nell'universo](https://open.spotify.com/track/6kM1hV9AHul6j6t3mu7zIV) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Martini Mia...](https://open.spotify.com/album/4K0sJHHnxLeyoUlfSjMgpB) | 5:06 |
-| 77 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 |
+| 77 | [Vieni A Vedere Perchè](https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Bagus](https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6) | 4:13 |
 | 78 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 |
-| 79 | [Vieni A Vedere Perchè](https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Bagus](https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6) | 4:13 |
+| 79 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 |
 | 80 | [La Descrizione Di Un Attimo](https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:29 |
 | 81 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
 | 82 | [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 99 | [Blu \(feat\. Elisa\)](https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 2:45 |
 | 100 | [If Only](https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sì \(Deluxe\)](https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5) | 3:37 |
 
-Snapshot ID: `MCxkYzhhNDEwYWJjODFiZGQ4YTcwNjAyNTk0ODg3NWY0ZGY5NzJhN2M1`
+Snapshot ID: `MCwwODZmNThhM2M1NWJkMGM5MWY5ODE0Y2I2ZTFhYzY5YWM5Y2I3YTU0`

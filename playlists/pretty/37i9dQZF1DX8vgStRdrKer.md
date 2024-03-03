@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=SjvNJWYbT\-KTxeInoXu7kg">Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,722 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 49 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
 | 50 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 |
 
-Snapshot ID: `MCw1ZWFjYjk0M2VjZTZhMzM3M2NmNzA0N2IwNGFmYzIwYzVhOGYwMmJm`
+Snapshot ID: `MCxjYmM0MjBhZDJlYWRhMWE3NjllMzFiNzQyNzI4YWNiZjdkMmI5YjY0`

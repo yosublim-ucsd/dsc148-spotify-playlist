@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mildlife\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,227 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,228 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 89 | [Fikir \(ፍቅር\)](https://open.spotify.com/track/7yDHAkTXtgprxoT3ooYAyY) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Fikir \(ፍቅር\)](https://open.spotify.com/album/3FKXfmfK50IkSP9GOLUSwK) | 2:45 |
 | 90 | [Get Go](https://open.spotify.com/track/3OF4KDRiroiviEw0MOC8Zf) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE), [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:08 |
 
-Snapshot ID: `MCxmOGIwNzNhMmM5YjI5NWNlNjA1ZTJmOGMwNDY0ZTYyYzM0ZjQ2Yjk4`
+Snapshot ID: `MCwxODlhMTU2MzY5ZjkzNmRjNTJhYmQxN2U1YTAyOTc5Mjk4YmRkNjlj`

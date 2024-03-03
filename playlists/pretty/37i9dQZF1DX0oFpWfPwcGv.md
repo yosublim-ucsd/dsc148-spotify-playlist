@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,949 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,981 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 31 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 |
 | 32 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 |
 | 33 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
-| 34 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
-| 35 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
-| 36 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
-| 37 | [Come to Me](https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Come to Me](https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1) | 9:50 |
-| 38 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
-| 39 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
+| 34 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 35 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
+| 36 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
+| 37 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
+| 38 | [Come to Me](https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk) | [France Joli](https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr) | [Come to Me](https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1) | 9:50 |
+| 39 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
 | 40 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 |
-| 41 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
-| 42 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 41 | [Saturday Night, Sunday Morning](https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Ready To Roll](https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9) | 3:55 |
+| 42 | [I'm Caught up \(In a One Night Love Affair\) \- 12” Edit](https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [I'm Caught Up \(In a One Night Love Affair\)](https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG) | 7:26 |
 | 43 | [Turn the Beat Around \- 7" Single Edit](https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [Never Gonna Let You Go \(Expanded Edition\)](https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC) | 3:24 |
 | 44 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
 | 45 | [Let No Man Put Asunder \(Shep Pettibone 12" Mix\)](https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 8:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 75 | [Moment of My Life \(12'' Version\)](https://open.spotify.com/track/3K70DJ1PgpZYDGE67CZBAX) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/4RPGPhmqCeFZZbFvZRg0Sh) | 6:32 |
 
-Snapshot ID: `MCwwYWQ0ZmRlZmUwYjIyOWJjZDA4YjJmMzhhN2Y5YjNiZmI3NjhhMTk5`
+Snapshot ID: `MCw5YjcwYjg0YTBiNWYwMDVhZTI0MTA0YTExODQ3ZmVlYTJjNDA0NmVi`

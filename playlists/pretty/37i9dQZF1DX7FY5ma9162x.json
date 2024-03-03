@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Drake",
-  "num_followers": 252571,
+  "num_followers": 252667,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzYyOWI4NTBjZWVjMDczYzcxOTI2NjU1Y2NjNjA0ZmFlMjdiNDg4",
+  "snapshot_id": "MCxiYWZhYWRiYzNmMmU2MGYyYmNiNzBlNWNlMjliZGJlM2U5YWJmNWIw",
   "tracks": [
     {
       "added_at": "2024-02-28 18:42:36",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-28 18:42:36",
       "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+    },
+    {
+      "added_at": "2024-02-28 18:42:36",
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
-    },
-    {
-      "added_at": "2024-02-28 18:42:36",
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": "2024-02-28 18:42:36",

@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-430 songs - 1 day 2 hr 23 min
+431 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 | 2021-03-12 |  |
 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 | 2022-11-11 |  |
 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 | 2021-03-12 | 2022-04-21 |
+| [Crash into Me](https://open.spotify.com/track/0rzjZgdcj0F18uusGIekCa) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Other Stuff](https://open.spotify.com/album/31gUo1VnM0u0GyHMOALfNQ) | 2:52 | 2023-10-13 |  |
 | [Crash into Me](https://open.spotify.com/track/22Gnce47RGM3cZZDPea2Up) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Crash Into Me](https://open.spotify.com/album/4KErWwuPdnGOxE4ciibgxP) | 2:52 | 2021-03-12 | 2022-07-28 |
 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 | 2021-03-12 |  |
 | [Crazy Train](https://open.spotify.com/track/6OLeTuJ0u10taGHONnYAFS) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Crazy Train](https://open.spotify.com/album/1cLNbzbBPli2mmJOtK6Fwf) | 4:12 | 2021-03-12 | 2022-07-23 |
@@ -371,7 +372,7 @@
 | [This Must Be The Place \- Talking Heads Cover](https://open.spotify.com/track/7lb3KFSZJQmClYK9NjDcPl) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [This Must Be The Place \(Talking Heads Cover\)](https://open.spotify.com/album/5CVd6HJNljPHLdjq4cDih2) | 3:24 | 2021-03-12 | 2022-07-20 |
 | [This Time Around](https://open.spotify.com/track/0FS8j0Ft1O5Dik7NfogTGf) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [This Time Around](https://open.spotify.com/album/3zsAhHvn0VOa7G9HPFauVC) | 4:04 | 2021-03-12 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-03-12 | 2023-08-09 |
-| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 |  |
+| [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 | 2023-05-26 | 2024-03-03 |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-03-12 | 2022-08-10 |
 | [Time After Time](https://open.spotify.com/track/3HDZQxaCWGJPw3fVVmFGIO) | [Cigar Cigarette](https://open.spotify.com/artist/6WGuOKz6ZtJRcioWOMy9My), [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Time After Time](https://open.spotify.com/album/66GlghGOJDomu7fXWrkEWo) | 4:19 | 2021-04-19 | 2022-04-11 |
 | [Time Out of Mind](https://open.spotify.com/track/495mG0890vzv6TGc4Fltxd) | [Lou Hayter](https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM) | [Time Out of Mind](https://open.spotify.com/album/3RQ11zU2MBm5mz5xEHXGRB) | 3:39 | 2021-03-12 | 2022-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 106374,
+  "num_followers": 106417,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2U4ZDk5Zjk2N2VkNTAyN2FkZTUyODlmNDkyMGM1MGE1ZDBhZjVl",
+  "snapshot_id": "MCw4MzVjYjkxMTA4OTA1ZjBmNjUzOWU0MDJkMmI0MDQ4Nzg1MjZkYTAz",
   "tracks": [
     {
       "added_at": "2024-03-01 04:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-03-01 04:00:00",
       "album": {
-        "name": "Classical Garden",
-        "url": "https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Gnossienne N\u00b03 (Variation)",
-      "url": "https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM"
-    },
-    {
-      "added_at": "2024-03-01 04:00:00",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 332633,
       "name": "Pelikan - Aukai Rework",
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
+    },
+    {
+      "added_at": "2024-03-01 04:00:00",
+      "album": {
+        "name": "Classical Garden",
+        "url": "https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Gnossienne N\u00b03 (Variation)",
+      "url": "https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM"
     },
     {
       "added_at": "2024-03-01 04:00:00",

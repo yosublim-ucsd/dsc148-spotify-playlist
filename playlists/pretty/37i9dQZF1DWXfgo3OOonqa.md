@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,918 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,963 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Stockholm, Sweden](https://open.spotify.com/track/4OXBckSyWWg75ge5zrVS3D) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Stockholm, Sweden](https://open.spotify.com/album/2jeuty9zm7vBzzDnsNsmEn) | 2:40 |
 | 100 | [Heartless](https://open.spotify.com/track/79x6bjemiP14D0mYRfrNgr) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [Heartless](https://open.spotify.com/album/2hKdmqtrvIYeN6DVSNKCVf) | 2:29 |
 
-Snapshot ID: `MCxlOTA5N2QwOWVjZDZmOGJkOGU4ZDFhODJkMGI1YTg0N2QwYTI4N2U3`
+Snapshot ID: `MCw5YzI3MWU4Yzg1NzE1ZWQ4ZDYzZmI2NmUxMWY1YmZkNDYzNzQzOWRi`

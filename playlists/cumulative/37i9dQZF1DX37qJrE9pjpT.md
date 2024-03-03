@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Darassa
 
-132 songs - 7 hr 34 min
+133 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Mdhambi](https://open.spotify.com/track/2KAaty1XUWrsELJHLDZKOg) | [Dicazzi](https://open.spotify.com/artist/4hWi07h5D1vykcvmWFUZCo) | [Mdhambi](https://open.spotify.com/album/5IsxHtDjpP0t6XEViVu2KE) | 2:45 | 2023-10-20 |  |
 | [Metaphysics](https://open.spotify.com/track/1f5XEWL9QF3RGlnBQ2ZqwL) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Old Skool Local](https://open.spotify.com/artist/43y0iNSEYUKnAXh1XdV23X) | [Metaphysics](https://open.spotify.com/album/5X38tXa491DTPdAug4cC9S) | 2:19 | 2022-10-21 | 2023-08-29 |
 | [Mkombozi](https://open.spotify.com/track/63fzbBiU1WOH2eo08NuE4v) | [Roma Mkatoliki](https://open.spotify.com/artist/5vt0v1SOjFGt55GNikLTGf), [One Six](https://open.spotify.com/artist/5oK19m1uaieCFzIc08pvE2) | [Mkombozi](https://open.spotify.com/album/1mR4CK7GYeg5ge0KjJkdXT) | 4:13 | 2022-03-28 | 2022-10-22 |
-| [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 | 2022-03-28 |  |
+| [Money walk \(Mwendo wa cash\)](https://open.spotify.com/track/22Yraq4HqJHdU0pTvLlQEt) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Money walk \(Mwendo wa cash\)](https://open.spotify.com/album/1b4r2l7V1UWD8Wr9gQe7ZE) | 3:17 | 2024-02-09 |  |
+| [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 | 2022-03-28 | 2024-03-03 |
 | [MOTHERLAND](https://open.spotify.com/track/7eV8MXnMxQUM2ekPOWTtBR) | [EUGKEN](https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV), [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI) | [MOTHERLAND](https://open.spotify.com/album/16ZlMhsSJn5eJVz8xKFrdi) | 2:47 | 2023-09-15 | 2024-01-20 |
 | [Mr Xmas III](https://open.spotify.com/track/3UIKevjNLmMIAMIQ6gqaJb) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [Roma Mkatoliki](https://open.spotify.com/artist/5vt0v1SOjFGt55GNikLTGf), [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV) | [Mr Xmas III](https://open.spotify.com/album/1XwFNhqHCMroHW8wBcUTlL) | 6:53 | 2024-01-19 |  |
 | [Mtaalamu Wa Rap](https://open.spotify.com/track/5xs0u2Ia3VqDDHGceQ4wVT) | [Ramsoh Latinho](https://open.spotify.com/artist/2B4JNL5FcalKZHt2FBSAlb) | [The Nyaturu Legend](https://open.spotify.com/album/0CZqKgoAg2MBzBDP0lpVqo) | 3:37 | 2023-12-08 |  |

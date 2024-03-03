@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,282 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,545 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 46 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 47 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
 | 48 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
-| 49 | [Roze](https://open.spotify.com/track/0JNPCThIHsG8zphORbTR16) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/3F380dBX1laVxluSsl2Zf9) | 3:04 |
+| 49 | [Roze](https://open.spotify.com/track/01N44Vg2hHhp2U4KXN7xzc) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/0fFVpuIf6YJudZ0Uukne82) | 3:04 |
 | 50 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 
-Snapshot ID: `MCw2MjgwZGM5OWQxODUyOTUxYjhjMWMzNzg3OTI5ZGEzMzg3OTY4ZjI4`
+Snapshot ID: `MCwzNDllM2JhOGZkNjdmNjYyMTBlYjFjNTY0ZjM5MzU1ZDA5NTg3YTc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,540 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,554 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 86 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
 | 87 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
 | 88 | [Cuestión De Tiempo](https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:38 |
-| 89 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
-| 90 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
+| 89 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
+| 90 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 91 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
 | 92 | [Mentiroso \- Versión Mariachi](https://open.spotify.com/track/6n1eCxU7vkkK0BeUc2fKlG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 3:51 |
 | 93 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 |
 | 100 | [Dime Qué Se Siente](https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Dime Qué Se Siente](https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP) | 2:41 |
 
-Snapshot ID: `MCxjNTQ4YTM3MjYzNjc3ZmZmZWQ0MTk3ZjBiM2JmM2Q5YzhiYWFmODgy`
+Snapshot ID: `MCw0YTEwYmYyOTlhNzAzZTMwMmNkMDgyMjY0ZGNhYjdhZjVjMGRiODQ1`

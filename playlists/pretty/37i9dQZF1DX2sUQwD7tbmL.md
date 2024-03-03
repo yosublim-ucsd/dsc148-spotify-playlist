@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,795 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002,064 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |
 | 150 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
 
-Snapshot ID: `MCxhZGVlMzg2ZGM3YTUzY2FmNTYxMDE3YjU3OTM3MTJmN2IxMGEyN2Y0`
+Snapshot ID: `MCxiZjUwMDBiOGJlODMzYjM3MDNjYWUwNGEyNGQzOGViZDBjMzA3YmUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,403,324 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,405,598 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 73 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
 | 74 | [What You Want \(feat\. Total\)](https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 4:02 |
 | 75 | [Feel Me Flow](https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Poverty's Paradise \(25th Anniversary \- Remastered\)](https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV) | 3:32 |
-| 76 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
-| 77 | [Hell on Earth \(Front Lines\)](https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:34 |
+| 76 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
+| 77 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 |
 | 78 | [Award Tour \(feat\. Trugoy The Dove\)](https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Trugoy The Dove](https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:46 |
-| 79 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
+| 79 | [Hell on Earth \(Front Lines\)](https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:34 |
 | 80 | [Guilty Conscience](https://open.spotify.com/track/6da04YB906XonC6IQNC44u) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:19 |
 | 81 | [Shadowboxin'](https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 3:29 |
 | 82 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 94 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
 | 95 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
 | 96 | [Can I Get A...](https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 5:09 |
-| 97 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 |
-| 98 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
-| 99 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
+| 97 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
+| 98 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 |
+| 99 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 100 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 
-Snapshot ID: `MCw4OWJmOWY3OWM1ZWVmM2ViNmJjOTgzNGU3NGZhN2I3YWFiYTUzOTM0`
+Snapshot ID: `MCxiOWYxMzg2Njg4NmQyMDI5MDIwMGM5ZWRlZjYwMjExYzA0N2ZiYjRl`

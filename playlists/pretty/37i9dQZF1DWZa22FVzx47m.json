@@ -1,12 +1,12 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 393044,
+  "num_followers": 393148,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWExM2FiNjdhNTkxYzdkM2JmYzlkNmZlN2RlZDhkNDg0OWQ5NTMw",
+  "snapshot_id": "MCwyNWUzYWVjN2YwMmExZDUyZDVmMDg1YzA2ODQ4NTI3NGY0MWI4OWVh",
   "tracks": [
     {
       "added_at": "2024-02-23 18:39:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
         "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
         }
       ],
-      "duration_ms": 289866,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -715,6 +699,22 @@
       "duration_ms": 213146,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6yjsa6c8nSGQqXF12vFSpp"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Cruz de Navajas",
-      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Cruz de Navajas",
+      "url": "https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
       "artists": [
         {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 210186,
-      "name": "A Puro Dolor - Balada",
-      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1003,6 +1003,22 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "A Puro Dolor - Balada",
+      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1055,22 +1071,6 @@
       "duration_ms": 196040,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 323026,
       "name": "Y, \u00bfSi fuera ella?",
       "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
+      "duration_ms": 194480,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
@@ -1499,18 +1483,34 @@
     {
       "added_at": "2024-02-23 18:39:58",
       "album": {
-        "name": "Nada De Nada (Edici\u00f3n de lujo)",
-        "url": "https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
-          "name": "Marco di Mauro",
-          "url": "https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 250544,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg"
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1527,6 +1527,22 @@
       "duration_ms": 244000,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
+    },
+    {
+      "added_at": "2024-02-23 18:39:58",
+      "album": {
+        "name": "Nada De Nada (Edici\u00f3n de lujo)",
+        "url": "https://open.spotify.com/album/6oHnCzahK7EHvqfFbI1vVE"
+      },
+      "artists": [
+        {
+          "name": "Marco di Mauro",
+          "url": "https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK"
+        }
+      ],
+      "duration_ms": 250544,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/4oAXfBdNH0qHr32w82E8dg"
     },
     {
       "added_at": "2024-02-23 18:39:58",
@@ -1579,22 +1595,6 @@
       "duration_ms": 217360,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/4yQYtOS4WKsemq83DEj8ie"
-    },
-    {
-      "added_at": "2024-02-23 18:39:58",
-      "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG"
     },
     {
       "added_at": "2024-02-23 18:39:58",

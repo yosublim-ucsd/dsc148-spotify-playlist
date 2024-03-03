@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387404,
+  "num_followers": 387433,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTI5ZjE3ZWIyZmI5ODcwYWU0NTk1ZGVlYTAxODRiZTAxYmZjZjAy",
+  "snapshot_id": "MCwyZTczODhiYTg2MTg0MjVhOTNlZTcwZjI3MmZjN2FjNDBmZjU3ZDZk",
   "tracks": [
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "\u30e9\u30f3\u30bf\u30f3",
-        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "\u30e9\u30f3\u30bf\u30f3",
-      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
-    },
-    {
-      "added_at": "2024-02-29 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-02-29 15:00:00",
+      "album": {
+        "name": "\u30e9\u30f3\u30bf\u30f3",
+        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "\u30e9\u30f3\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "HELLO (from The Tiger's Apprentice)",
-        "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
+        "name": "Team Tomodachi",
+        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
       },
       "artists": [
         {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
         }
       ],
-      "duration_ms": 153065,
-      "name": "HELLO (from The Tiger's Apprentice)",
-      "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+      "duration_ms": 152288,
+      "name": "Team Tomodachi",
+      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Team Tomodachi",
-        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
+        "name": "HELLO (from The Tiger's Apprentice)",
+        "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
       "artists": [
         {
-          "name": "Yuki Chiba",
-          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 152288,
-      "name": "Team Tomodachi",
-      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
+      "duration_ms": 153065,
+      "name": "HELLO (from The Tiger's Apprentice)",
+      "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
         {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
     },
     {
       "added_at": "2024-02-29 15:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-02-29 15:00:00",
       "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-02-29 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada.",
-  "num_followers": 102223,
+  "num_followers": 102252,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjVhYTY4YjFhYzEyMTdlZTRjNDk3M2JkYzc4ZjM0OGFmY2MzZmQz",
+  "snapshot_id": "MCwzNmMyMzg0ODQxZDZlOWFmODA3NzI3ZjQxYWQyZTRlNzJmZWJmYWZm",
   "tracks": [
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Con La Mirada",
-        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Con La Mirada",
-      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
         "name": "No te quiebres Vidrio (En Vivo)",
         "url": "https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 223813,
       "name": "Sin Valor - En Vivo",
       "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "Con La Mirada",
+        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Con La Mirada",
+      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
     },
     {
       "added_at": "2024-03-01 17:15:36",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-01 17:15:36",
       "album": {
-        "name": "Directito A Mi Herida (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 175521,
-      "name": "Directito A Mi Herida - En Vivo",
-      "url": "https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E"
-    },
-    {
-      "added_at": "2024-03-01 17:15:36",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 221830,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt"
+    },
+    {
+      "added_at": "2024-03-01 17:15:36",
+      "album": {
+        "name": "Directito A Mi Herida (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6N4SDyj0WsINr9V05TLT"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 175521,
+      "name": "Directito A Mi Herida - En Vivo",
+      "url": "https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

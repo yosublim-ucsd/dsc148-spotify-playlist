@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 30064,
+  "2024-03-03": 30078,
   "date_first_scraped": "2022-12-29",
   "description": "Are you ready for the floor? Cover: F3miii",
   "name": "Indie Dancefloor",
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 273994,
       "name": "A Dream I Have",
       "url": "https://open.spotify.com/track/4YaezxWIpJd3Po2LHYhGVd"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 326029,
       "name": "All About You (feat. Foster The People) - Tensnake Remix",
       "url": "https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213998,
       "name": "Curiosity (Dawn)",
       "url": "https://open.spotify.com/track/5LTx2spPrYmQp9ArW5LYMc"
@@ -545,10 +545,28 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 305204,
       "name": "Day We Met - Betonkust Remix",
       "url": "https://open.spotify.com/track/1VdeCgpIm4qRcSDvtIK5Jv"
+    },
+    {
+      "album": {
+        "name": "Discotheque",
+        "url": "https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405480,
+      "name": "Discotheque",
+      "url": "https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI"
     },
     {
       "album": {
@@ -571,6 +589,24 @@
       "duration_ms": 376000,
       "name": "Doctor Doctor - The English Gentlemen Remix",
       "url": "https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL"
+    },
+    {
+      "album": {
+        "name": "Don't Turn Around",
+        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171699,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
       "album": {
@@ -625,6 +661,28 @@
       "duration_ms": 289315,
       "name": "Electric Cutz",
       "url": "https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ"
+    },
+    {
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "album": {
@@ -686,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
+    },
+    {
+      "album": {
         "name": "Hannah (the sun)",
         "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
       },
@@ -701,6 +777,32 @@
       "duration_ms": 196796,
       "name": "Hannah (the sun)",
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "album": {
+        "name": "I Believe In Love Again (Jex Opolis Remix)",
+        "url": "https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199696,
+      "name": "I Believe In Love Again - Jex Opolis Remix Edit",
+      "url": "https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu"
     },
     {
       "album": {
@@ -759,10 +861,28 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 335121,
       "name": "I Want It - 1-800 GIRLS Remix",
       "url": "https://open.spotify.com/track/1IKXUhtnQEG3V4zy43WDK8"
+    },
+    {
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "album": {
@@ -795,7 +915,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 256695,
       "name": "It's Over - Edit",
       "url": "https://open.spotify.com/track/1RLeNp25m5qaGCtF97p5r1"
@@ -1037,7 +1157,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 213246,
       "name": "Mister Magic",
       "url": "https://open.spotify.com/track/2EDdM9Cd6gDzGGejBqxpse"
@@ -1081,6 +1201,24 @@
       "duration_ms": 323785,
       "name": "New World (Flow)",
       "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
+    },
+    {
+      "album": {
+        "name": "Ninetynine",
+        "url": "https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200708,
+      "name": "Ninetynine",
+      "url": "https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn"
     },
     {
       "album": {
@@ -1171,10 +1309,32 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 326106,
       "name": "On and On (Till the End of Us)",
       "url": "https://open.spotify.com/track/7EpEum94WKQsGwqsYbwzQc"
+    },
+    {
+      "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
     },
     {
       "album": {
@@ -1587,7 +1747,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 199066,
       "name": "Start up Nation",
       "url": "https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK"
@@ -1744,6 +1904,24 @@
     },
     {
       "album": {
+        "name": "Tried So Hard",
+        "url": "https://open.spotify.com/album/4J0xQrJ6To6po0WpYQYgC4"
+      },
+      "artists": [
+        {
+          "name": "Youngr",
+          "url": "https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277487,
+      "name": "Tried So Hard",
+      "url": "https://open.spotify.com/track/4r1xQ0GTLDXSYdKXme91bj"
+    },
+    {
+      "album": {
         "name": "Turn It Into Love",
         "url": "https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v"
       },
@@ -1869,7 +2047,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 215319,
       "name": "Wendy's Yard",
       "url": "https://open.spotify.com/track/50vGM1YiEN3aWv8zLsfqXF"
@@ -1909,6 +2087,24 @@
       "duration_ms": 205859,
       "name": "Wild Night",
       "url": "https://open.spotify.com/track/13gxt7JI2OH5vvJthc9vXH"
+    },
+    {
+      "album": {
+        "name": "You Never Take Me Dancing",
+        "url": "https://open.spotify.com/album/4aEINAY37QrEjuUM0xxGVP"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346688,
+      "name": "You Never Take Me Dancing",
+      "url": "https://open.spotify.com/track/4pUen16NDnHuTTwhFKnRDM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj"

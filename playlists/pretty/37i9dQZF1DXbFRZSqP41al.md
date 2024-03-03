@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417,699 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,417,689 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [One For the Money](https://open.spotify.com/track/0TgUsThAVzuvVPnJ1rSDYK) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful \(Deluxe\)](https://open.spotify.com/album/48xjFATaPupk0gYqgNaNRv) | 3:19 |
 | 50 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 
-Snapshot ID: `MCxhNzhiODMxZjBkMDM2YjE1MDhjYTk1YmNlY2M5OGFmOWRlMzQwYWUx`
+Snapshot ID: `MCxlYWVmNWJmODM4N2JkZjhkYmQzYTA1YmQ0MzMyMzU5MGRlNGM5MDYz`

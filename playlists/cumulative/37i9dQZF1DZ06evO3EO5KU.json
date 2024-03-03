@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Luces, C\u00e1mara y Acci\u00f3n",
+        "url": "https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179486,
+      "name": "Luces, C\u00e1mara y Acci\u00f3n",
+      "url": "https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab"
+    },
+    {
+      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
       },

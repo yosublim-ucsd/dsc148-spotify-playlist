@@ -1,7 +1,7 @@
 {
-  "2024-03-02": 48863,
+  "2024-03-03": 49003,
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis and Tone Stith",
+  "description": "R&B of the moment by the artists of the future. Cover: Dende",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -558,6 +558,28 @@
     },
     {
       "album": {
+        "name": "Sad Songs For Winter",
+        "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/0HjgS1pbPhuNrlPkda9INO"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Anonymous",
+      "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
+    },
+    {
+      "album": {
         "name": "Another",
         "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
       },
@@ -613,6 +635,28 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
+    },
+    {
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116389,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
     },
     {
       "album": {
@@ -4125,7 +4169,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177534,
       "name": "Fantasy (Give It All)",
       "url": "https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut"
@@ -6226,6 +6270,28 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Know (Remix)",
+        "url": "https://open.spotify.com/album/0k0rGyoaunyLPKf3Jg2x47"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
+        {
+          "name": "Tarriona 'Tank' Ball",
+          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "I Just Wanna Know - Remix",
+      "url": "https://open.spotify.com/track/6urgrE1xiLMHrnG19NaCtz"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
@@ -7239,7 +7305,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177786,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4fECQCAJRoonwoGXi898an"
@@ -8044,6 +8110,28 @@
     },
     {
       "album": {
+        "name": "Love It Here",
+        "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247912,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/4kV6qAPbj0lzykZekhfjzE"
+    },
+    {
+      "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
       },
@@ -8153,7 +8241,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177500,
       "name": "Love Outloud",
       "url": "https://open.spotify.com/track/5bsGugP8WQoG2J4Dnyxgpl"
@@ -9487,7 +9575,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 138000,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2"
@@ -11996,6 +12084,28 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "album": {
         "name": "Slow Dancing",
         "url": "https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV"
       },
@@ -13758,6 +13868,28 @@
     },
     {
       "album": {
+        "name": "Touchin\u2019 (feat. Busta Rhymes)",
+        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224675,
+      "name": "Touchin\u2019 (feat. Busta Rhymes)",
+      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
+    },
+    {
+      "album": {
         "name": "Triggers",
         "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
       },
@@ -15257,6 +15389,32 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
+      "album": {
+        "name": "You Don't Call Me",
+        "url": "https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM"
+      },
+      "artists": [
+        {
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147295,
+      "name": "You Don't Call Me",
+      "url": "https://open.spotify.com/track/1t7bjA1KnsOmxIbvfi7WMc"
     },
     {
       "album": {

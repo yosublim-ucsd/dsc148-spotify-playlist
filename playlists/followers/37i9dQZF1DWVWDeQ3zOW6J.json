@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 42136,
+  "2024-03-03": 42158,
   "date_first_scraped": "2022-07-19",
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
   "name": "Cocina con Salsa",
@@ -543,7 +543,7 @@
       ],
       "date_added": "2020-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 287586,
       "name": "Cui Cui",
       "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"

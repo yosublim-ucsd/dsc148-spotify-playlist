@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 360,
+  "2024-03-03": 363,
   "date_first_scraped": "2024-02-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1\">Ilsey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ilsey",
@@ -943,6 +943,24 @@
       "duration_ms": 162985,
       "name": "Goin Up (feat. DyCy)",
       "url": "https://open.spotify.com/track/6ZXO2ZFcAFmkFoJpMIwzGa"
+    },
+    {
+      "album": {
+        "name": "ANALYSIS PARALYSIS",
+        "url": "https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118140,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5"
     },
     {
       "album": {

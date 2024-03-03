@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,347,215 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,347,372 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Running Low](https://open.spotify.com/track/2ePgwid1o7NKDpUmNGC69b) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Revisited\)](https://open.spotify.com/album/11fLgnq2LE8p5hzo8urweI) | 4:34 |
 | 150 | [Wasted](https://open.spotify.com/track/5tajmvqHF6YW1iiUFzKpCB) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 3:04 |
 
-Snapshot ID: `MCxlNTdhZmRjMTU0MDZjYmRhZWJiYmQ3YjUxYjdkNWQ1MTlkYmRkZTgw`
+Snapshot ID: `MCxlNjBiYTYwOGM2YjhkMDEzNWViZDk4ZjJlZWNiM2NiYTE5OWQzZjNm`

@@ -301,8 +301,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 291 | [Time Wave Zero](https://open.spotify.com/track/1IT1QXgq61RFe1E1hWXMIH) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:23 |
 | 292 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
 | 293 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
-| 294 | [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 |
-| 295 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
+| 294 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
+| 295 | [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 |
 | 296 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
 | 297 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
 | 298 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 311 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 312 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDAyODJmMGM3OTdhNTVhM2FkZTZmNzQ4ZjBhODdmNmQzYg==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDAzYTM5N2YyM2U5NDI5ZTYxYWM4YzA2MmE5ODgyNWVmYg==`

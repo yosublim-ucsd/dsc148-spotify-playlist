@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 86240,
+  "num_followers": 86376,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOThhMjhmYmM4MTdmYWE2OGJjNjdhMzc4MmE2M2E0MTE4OGUzMDQ2",
+  "snapshot_id": "MCw3OTk3NGJkNjMwZjUyNmI2ZTgwNTY1YjM5N2Y1NWI1NTBhYTQ4ZjVm",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Heavier",
-        "url": "https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Heavier",
-      "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "V I B R A T I O N",
         "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 169831,
       "name": "V I B R A T I O N (w/ Shift K3Y)",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Heavier",
+        "url": "https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Heavier",
+      "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "A STRANGER",
-        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "A STRANGER",
-      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
     },
     {
       "added_at": "2023-11-20 15:00:00",

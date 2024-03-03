@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 94322,
+  "num_followers": 94363,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRjOGQyMDc1YjMxZDdlYmI2MmNhYzU2MDdhM2EzYWQ3ODM2MTIy",
+  "snapshot_id": "MCwxMmY3YWM4YjBhNGVkMDE1NWIxY2M4NTE3NzIxOGE2ODFmMTU4ZTdh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -131,6 +131,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Pensaba en Ti",
+        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 198008,
       "name": "De Fiesta",
       "url": "https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Pensaba en Ti",
-        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "No Hay Limites",
-        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
-      },
-      "artists": [
-        {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
-        }
-      ],
-      "duration_ms": 236874,
-      "name": "Tu Voz Hablar",
-      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 204013,
       "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
       "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "No Hay Limites",
+        "url": "https://open.spotify.com/album/3N6elW02iDWzxTPgtVfoLM"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "duration_ms": 236874,
+      "name": "Tu Voz Hablar",
+      "url": "https://open.spotify.com/track/3hyyH3leQgUZxgwNNSyvR7"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Fiesta Celestia: Amado Mio",
+        "url": "https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "duration_ms": 282984,
+      "name": "Tengo un Nuevo Amor - Salsa",
+      "url": "https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Vuelve a So\u00f1ar - EP",
         "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Fiesta Celestia: Amado Mio",
-        "url": "https://open.spotify.com/album/7Gj3EgSIJwN5K4inknXu2k"
-      },
-      "artists": [
-        {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
-        }
-      ],
-      "duration_ms": 282984,
-      "name": "Tengo un Nuevo Amor - Salsa",
-      "url": "https://open.spotify.com/track/3q7EWUE6DHVF3MUPc5kx5X"
     },
     {
       "added_at": "2020-11-24 13:23:55",

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 261835,
+  "num_followers": 261826,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2MyNDkwZTkxNDFlOGY0ZjEwNGE0OGE3ODIyYzBiY2Q2OWZkZWI1",
+  "snapshot_id": "MCwwODE3NTc1MDFlZTQ2MjFlNGEzYmZhMTc4NjBkMTFjMjQyNmFkNjEw",
   "tracks": [
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Pointless - Strings Acoustic",
-      "url": "https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Pointless - Strings Acoustic",
+      "url": "https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF"
     },
     {
       "added_at": "2023-12-01 03:00:00",

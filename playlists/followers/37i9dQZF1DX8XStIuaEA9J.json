@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 173575,
+  "2024-03-03": 173655,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Ado",
   "name": "Teen Culture",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 200625,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 220856,
       "name": "Ambiguous",
       "url": "https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9"
@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
@@ -3345,7 +3363,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 204916,
       "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok"
@@ -4537,7 +4555,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 212666,
       "name": "\u604b\u3092\u3057\u3066\u3044\u308b\u307f\u305f\u3044\u306a\u306e",
       "url": "https://open.spotify.com/track/1FAAimaATfHm0tXomtOgDs"

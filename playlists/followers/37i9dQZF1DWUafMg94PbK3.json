@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 10457,
+  "2024-03-03": 10483,
   "date_first_scraped": "2022-04-19",
   "description": "If you're driving a car, flying a plane, or riding a bus - these songs about transportation are for you.",
   "name": "Traffic Jam",
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "I Love My Garbage Truck",
+        "url": "https://open.spotify.com/album/6Hij9YO3vsLCiNuO38woCm"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166491,
+      "name": "I Love My Garbage Truck",
+      "url": "https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3"
+    },
+    {
+      "album": {
         "name": "Wee Sing In the Car",
         "url": "https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM"
       },
@@ -841,6 +859,24 @@
       "duration_ms": 74960,
       "name": "Let's Go For a Ride",
       "url": "https://open.spotify.com/track/5PubI4gBAyms9yfChFjMP2"
+    },
+    {
+      "album": {
+        "name": "Acoustic Adventures",
+        "url": "https://open.spotify.com/album/4rYU8RoFHKio4aHeCYCzUb"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Let\u2019s Drive - Acoustic",
+      "url": "https://open.spotify.com/track/7xAPNbxoHpksH9tfVe0OAB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-893 songs - 1 day 10 hr 44 min
+894 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Building](https://open.spotify.com/track/6OZ3MPodudMKFDndMrvGiT) | [Aywee Tha Seed](https://open.spotify.com/artist/2YAav0Cd12Zf7fh1cQYi62) | [Building](https://open.spotify.com/album/0qhJu9J9ui5YTqjahdXQ3s) | 1:21 | 2022-06-24 | 2022-07-08 |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2023-11-17 |  |
 | [Bulls](https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x) | [New Gate](https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay) | [Bulls](https://open.spotify.com/album/3koh0TI5LLhJ2bkD0smZ3f) | 2:34 | 2022-04-15 | 2022-04-22 |
+| [burgundy](https://open.spotify.com/track/6S1YJasKYbX3sR8J5jltjY) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [burgundy](https://open.spotify.com/album/6NZoyh9sgrsnBezKv0rF5J) | 2:31 | 2024-03-01 |  |
 | [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2022-04-15 | 2023-09-22 |
 | [Butternut Cake](https://open.spotify.com/track/6jaeklBeX4iRE3YO1Nsk4U) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Butternut Cake](https://open.spotify.com/album/4pHMXFrovfUgJcbGmeHVYf) | 2:13 | 2022-08-05 | 2022-09-30 |
 | [Buzzer Beater](https://open.spotify.com/track/2yuBW2Empy4JejMW4UCkdG) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Buzzer Beater](https://open.spotify.com/album/6jKTUyGaxaUMYp4nhtZlkB) | 2:26 | 2022-04-15 | 2023-12-08 |
@@ -655,7 +656,7 @@
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2023-07-20 |
-| [Shallow Pools](https://open.spotify.com/track/0UzMLYcdzMb7jp5lZQ5X6g) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Onsen](https://open.spotify.com/album/70WpXKSt4kBPwLBXPy9sBi) | 2:16 | 2022-12-16 |  |
+| [Shallow Pools](https://open.spotify.com/track/0UzMLYcdzMb7jp5lZQ5X6g) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Onsen](https://open.spotify.com/album/70WpXKSt4kBPwLBXPy9sBi) | 2:16 | 2022-12-16 | 2024-03-03 |
 | [Shape](https://open.spotify.com/track/4dvUJBDK0b96VmCjJ6318U) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/4VTfhlLlVm20hgXj5t2NfC) | 1:48 | 2022-10-28 | 2022-11-25 |
 | [Shape](https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/20odQgHpucqurWxbT3JX8O) | 1:48 | 2022-12-09 | 2023-11-24 |
 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 | 2022-12-14 |

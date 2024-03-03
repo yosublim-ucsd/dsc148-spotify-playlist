@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 33378,
+  "num_followers": 33416,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzEzYWRjYzU4MDZkNmM0MTI1NWU4ODQwM2EzZjVjZjhmNGQ4NWE3",
+  "snapshot_id": "MCxjZmViN2VjOTUxNWI0YjA0NjQ4NWFiZjE5ZDJmNmVmNTZhZDM4OThi",
   "tracks": [
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Noreaga",
+        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 487218,
+      "name": "Noreaga",
+      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 189672,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Noreaga",
-        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 487218,
-      "name": "Noreaga",
-      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Space Is The Place",
-        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 385511,
-      "name": "Space Is The Place",
-      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Sublime Tech House, Vol. 20",
         "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Space Is The Place",
+        "url": "https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 385511,
+      "name": "Space Is The Place",
+      "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -1739,26 +1755,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Do One EP",
-        "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "0121 Do One",
-      "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "We Bring It",
         "url": "https://open.spotify.com/album/16kmKC1uHic7yNNY9lQlPd"
       },
@@ -1779,18 +1775,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+        "name": "Do One EP",
+        "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
       },
       "artists": [
         {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
         }
       ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
+      "duration_ms": 189473,
+      "name": "0121 Do One",
+      "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
       },
       "artists": [
         {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+      "duration_ms": 164340,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
     }
   ],
   "unique_name": "Minimal Tech",

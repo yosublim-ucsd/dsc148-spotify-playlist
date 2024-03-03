@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,531 likes - 124 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,585 likes - 124 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 70 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
 | 71 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 72 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
-| 73 | [Toast to Our Differences \(feat\. Shungudzo, Protoje & Hak Baker\)](https://open.spotify.com/track/695kvY0b7RypIKs9uiRKp5) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 4:14 |
-| 74 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
+| 73 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
+| 74 | [Toast to Our Differences \(feat\. Shungudzo, Protoje & Hak Baker\)](https://open.spotify.com/track/695kvY0b7RypIKs9uiRKp5) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 4:14 |
 | 75 | [The Fruits](https://open.spotify.com/track/5VvnRNKALQhnfDcbslgk3h) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 3:10 |
 | 76 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 77 | [Wife Me](https://open.spotify.com/track/0pqlci982oEcavayQKZDQW) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:08 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 123 | [Magic](https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [Mixed Emotions](https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7) | 3:30 |
 | 124 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 
-Snapshot ID: `Mjg0ODkwOTAsMDAwMDAwMDBmN2FmOTRjYTJiYjgzZjFmMDc1YzkxYTYzNzljMjVhNQ==`
+Snapshot ID: `Mjg0OTA1MzAsMDAwMDAwMDA5NjRhNmNiMGQ3YmIxYWRjNTQyMDM3NWM5ZGVlYzA0YQ==`

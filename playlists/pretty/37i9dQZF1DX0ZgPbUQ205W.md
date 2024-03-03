@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,602 likes - 200 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,622 likes - 200 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [IX\. waiting](https://open.spotify.com/track/02Yn3VzHXqt7AR05dHbdkY) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:14 |
 | 200 | [Liten Jazzballong Revisited](https://open.spotify.com/track/4r5PvENy5EBuslP0KIlsO9) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Revisited](https://open.spotify.com/album/2YrkkjesHFyXvlWDi9ODLh) | 6:11 |
 
-Snapshot ID: `MCxiNTEzYmU0NWQ1NzgwMGU4ZTRiZjI4MjhhOGE0ZjU5ODUyNzQxNjhl`
+Snapshot ID: `MCwxMTEzMWQ4ZjZhODc3ZjI5ZTVmMDc2OGNlMTgwMDEwMDJkZTZlNWI5`

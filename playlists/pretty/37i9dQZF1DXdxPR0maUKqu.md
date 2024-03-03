@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,741 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,760 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 49 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
 | 50 | [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 |
 
-Snapshot ID: `MCw0NTlhNmM3OTk0MzQ3YzE2Y2UzZDU1YTEyMTIyNDk4ZjM1OTUxNDQ4`
+Snapshot ID: `MCw4ODFjMWRiMDY0NzBmNTI3OWQ4NGZkZWY1ZjRjNGY2MTUyMGVjMDlk`

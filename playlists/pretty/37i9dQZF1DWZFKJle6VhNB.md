@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,186 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,259 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
 | 100 | [Vem Neném \(Ao Vivo\)](https://open.spotify.com/track/6a6hIUCbzYNQgxGFae2iBX) | [XANDDY HARMONIA](https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J) | [Harmonia do Samba \(Ao Vivo\)](https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76) | 4:50 |
 
-Snapshot ID: `MCw2NzM1N2Y0MDliNGU3MmZhNTg2ZWQ5NWFkMzI3OGY2YTBlYmM5MTgy`
+Snapshot ID: `MCxlMWRiNWFlNmUxNDU2NTAyZTljOTBlNzIxOWJlYmRlODU5MzliM2Jm`

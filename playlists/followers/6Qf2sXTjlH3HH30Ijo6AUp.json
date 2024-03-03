@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 494493,
+  "2024-03-03": 494483,
   "date_first_scraped": "2022-06-10",
   "description": "Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin\u2019 good \ud83d\ude0a \ud83d\ude0a \ud83d\ude0a Perfect for road trips and singing in the shower! ",
   "name": "100 Uplifting Songs",
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
@@ -2673,6 +2673,24 @@
       "duration_ms": 214745,
       "name": "me",
       "url": "https://open.spotify.com/track/7c3YpeSFcXPKvhvSTDF7qK"
+    },
+    {
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "album": {

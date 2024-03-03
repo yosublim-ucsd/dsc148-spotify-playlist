@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Omar Montes, Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,455 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,487 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 4 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 5 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 6 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 |
-| 7 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
+| 7 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
 | 8 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 |
 | 9 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 10 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 28 | [Suerte ;\)](https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suerte ;\)](https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ) | 2:44 |
 | 29 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |
 | 30 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
-| 31 | [Si no fuera por ti](https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Si no fuera por ti](https://open.spotify.com/album/5rYq6aRlL38zL8ZGHkNHZT) | 2:51 |
-| 32 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
-| 33 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
+| 31 | [BLACK OPIUM](https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA) | 2:36 |
+| 32 | [Si no fuera por ti](https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Si no fuera por ti](https://open.spotify.com/album/5rYq6aRlL38zL8ZGHkNHZT) | 2:51 |
+| 33 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
 | 34 | [Te echo de \-](https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Te echo de \-](https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN) | 2:56 |
 | 35 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
 | 36 | [Astronauta](https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Astronauta](https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 48 | [Baby Boo](https://open.spotify.com/track/0sjwNDuHyfLruYofOWObNj) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Baby Boo](https://open.spotify.com/album/3YdVtDgk9uBnrPxfj2WMYu) | 2:47 |
 | 49 | [EL FORASTERO](https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [EL FORASTERO](https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7) | 2:43 |
 
-Snapshot ID: `MCwyZTNmNDI2ZTE3NmM3YTFjOTMzYjY4Yzc2NmNkOWY2NDUyNjAyNjY2`
+Snapshot ID: `MCw4NTk3OTQxMDdkM2IxOTIxMzM5ZDkxYTYyN2I4ODkwZGM5NDZjMDUx`

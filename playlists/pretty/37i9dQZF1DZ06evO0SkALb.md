@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,147 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,151 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 31 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
 | 32 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 |
 | 33 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
-| 34 | [Unforgettable \- Live](https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \(Unplugged\) Philadelphia \- Chicago \- Detroit \[Live\]](https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi) | 2:00 |
-| 35 | [If I Were A Magician](https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:03 |
-| 36 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
-| 37 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 |
-| 38 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 |
-| 39 | [After The Lights Go Down Low](https://open.spotify.com/track/0wUvmSed5xOamtUlTvdIHC) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 2:35 |
-| 40 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
-| 41 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
-| 42 | [Be Anything \(But Be Mine\)](https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:43 |
+| 34 | [If I Were A Magician](https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 3:03 |
+| 35 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
+| 36 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 |
+| 37 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 |
+| 38 | [After The Lights Go Down Low](https://open.spotify.com/track/0wUvmSed5xOamtUlTvdIHC) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 2:35 |
+| 39 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
+| 40 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
+| 41 | [Be Anything \(But Be Mine\)](https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:43 |
+| 42 | [Georgia on My Mind](https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Rhymes and Reasons](https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I) | 3:20 |
 | 43 | [Stormy Weather \(Keeps Rainin' All The Time\) \- 2006 Remaster](https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:02 |
-| 44 | [Georgia on My Mind](https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Rhymes and Reasons](https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I) | 3:20 |
-| 45 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
-| 46 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
-| 47 | [Early Morning Love](https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 5:41 |
+| 44 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
+| 45 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
+| 46 | [Early Morning Love](https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 5:41 |
+| 47 | [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 |
 | 48 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
 | 49 | [I Wish It Were Yesterday](https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:27 |
 | 50 | [Two Years Of Torture](https://open.spotify.com/track/2h0PMVMul2UYYkef8i0OHZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [At Last](https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb) | 2:49 |
 
-Snapshot ID: `Mjg0ODgyOTAsMDAwMDAwMDAzNjljYzllMGFlYzY2MDM4MjA1ZjM4YjFjYzg1NWVlOQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDAwODQ4NjM2NjFhZDA5MWVkMWZkNjRiMmYxZTZmZmFhMA==`

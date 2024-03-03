@@ -8589,7 +8589,25 @@
     },
     {
       "album": {
-        "name": "El R\u00e1pido",
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
+    },
+    {
+      "album": {
+        "name": "El R\u00e1pido (En vivo)",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
       "artists": [
@@ -8610,26 +8628,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208405,
-      "name": "El R\u00e1pido",
+      "name": "El R\u00e1pido - En vivo",
       "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
     },
     {
       "album": {

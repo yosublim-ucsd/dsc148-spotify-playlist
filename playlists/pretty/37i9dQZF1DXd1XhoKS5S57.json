@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12388,
+  "num_followers": 12404,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3",
+  "snapshot_id": "MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Colour The Small One (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/2Bo0hh0yoQReC4reJav5DT"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 182626,
       "name": "Milkshake - Radio Mix",
       "url": "https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Colour The Small One (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/2Bo0hh0yoQReC4reJav5DT"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
-        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
       "artists": [
         {
-          "name": "Trag\u00e9die",
-          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 216493,
-      "name": "Sexy pour moi! - Mix 2",
-      "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
+      "duration_ms": 206106,
+      "name": "Trick Me - Club Mix",
+      "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
     }
   ],
   "unique_name": "Top Hits France 2004",

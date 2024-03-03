@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,201 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,254 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 |
 | 2 | [Panasea](https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Panasea](https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp) | 4:31 |
 | 3 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 |
-| 4 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 |
-| 5 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
+| 4 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
+| 5 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 |
 | 6 | [Untuk Mencintaimu](https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Lelaki Hebat](https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9) | 3:29 |
 | 7 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 |
 | 8 | [Bawalah Cintaku](https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [The One](https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg) | 3:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 41 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
 | 42 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 | 43 | [Dealova](https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:24 |
-| 44 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 |
-| 45 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
-| 46 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
-| 47 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
+| 44 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 |
+| 45 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
+| 46 | [Perempuanku](https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em) | [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:55 |
+| 47 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 |
 | 48 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 |
 | 49 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 |
 | 50 | [Tercipta Untukku](https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 4:25 |
 
-Snapshot ID: `MCxlNmIwZmRkM2MxNjYwYzAyY2ZhNGVkMThjMDkxZTI1Y2UxMzlhMDI3`
+Snapshot ID: `MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx`

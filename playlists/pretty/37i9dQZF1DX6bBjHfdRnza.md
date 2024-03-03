@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Val Fleury\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,038 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,092 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 |
 | 85 | [Go Through Everything](https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Go Through Everything](https://open.spotify.com/album/4G5JyNCJaem1oORudvs3RZ) | 3:24 |
 
-Snapshot ID: `MCwwY2U0MjQwNzJjZjdlOWQ4ZTY1ZGNiZWU0NmE3NGNkMDg4NDhmMTVi`
+Snapshot ID: `MCw1ZjdmNjZkZTViNTYxZmRhYjhkMWNkNjRjYTBlNGU2MGNiMDNlNzhj`

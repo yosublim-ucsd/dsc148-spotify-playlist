@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,580 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 2 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 3 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
 | 4 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
-| 5 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 |
-| 6 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 |
+| 5 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 |
+| 6 | [Break from Toronto](https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 1:39 |
 | 7 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 |
 | 8 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
 | 9 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 96 | [Molly](https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 2:44 |
 | 97 | [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 |
 | 98 | [Gassed Up](https://open.spotify.com/track/6JjEVlMkfHWMeYavkEYzNO) | [Nebu Kiniza](https://open.spotify.com/artist/5lCY3tqdQxbeg5igSlObaT) | [Gassed Up](https://open.spotify.com/album/6YCcGxz3l1shgr3F7XbNee) | 3:13 |
-| 99 | [Leave Em Alone \(Layton Greene, Lil Baby feat\. City Girls, PnB Rock\)](https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:51 |
-| 100 | [Resume](https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Resume](https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw) | 3:55 |
+| 99 | [Resume](https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Resume](https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw) | 3:55 |
+| 100 | [Leave Em Alone \(Layton Greene, Lil Baby feat\. City Girls, PnB Rock\)](https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:51 |
 
-Snapshot ID: `MCw0NDU2Njg2NmVjNzZhZjg4N2JjYjhjMTkzZDgwMjMyZDc1OGZkNTg3`
+Snapshot ID: `MCw4NTY0NzMxZGI1OGM3NjViZTM4YzNmOWQ0OTY4MDIzNWQ2YjkwNzM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,634 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,657 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 |
 | 70 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 
-Snapshot ID: `MCwxOTQxZmQ3YmRkYmRiY2E0NzYzZjQ5Y2VhNzc2YmQ0NjEzMGNmMDlj`
+Snapshot ID: `MCw5YjI5YzhkNDgyZmZhOGVmMGZlMTI1YTdiN2MzN2RmNWRhZjI0NGM1`

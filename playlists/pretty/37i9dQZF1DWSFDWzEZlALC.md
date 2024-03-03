@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,286 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,452 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wie ich es sag](https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX), [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Wie ich es sag](https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9) | 3:03 |
 | 75 | [laster](https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ), [wurms](https://open.spotify.com/artist/1NRxQqay9yZbV1ofu3Okbo) | [laster](https://open.spotify.com/album/5xW9CEKTYheABRLqRlairz) | 2:32 |
 
-Snapshot ID: `MCxkZGVjNGNjYzE1YWFkMjFiYmUzMGJlODdhZWMyOTU3ZmE3NmRjMThk`
+Snapshot ID: `MCw0MmYyZDRkNjg3NjEyMjg1MjAxOTc0YzA3ZmQ2YWM4Y2ZkYzcyZmU3`

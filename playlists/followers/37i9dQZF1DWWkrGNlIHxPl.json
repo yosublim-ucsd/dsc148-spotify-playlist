@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 152993,
+  "2024-03-03": 153056,
   "date_first_scraped": "2021-12-28",
   "description": "Global crossovers by/with Arab artists. Cover: MC Abdul & Saint Levant",
   "name": "Arab X",
@@ -2193,6 +2193,28 @@
       "duration_ms": 159914,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk"
+    },
+    {
+      "album": {
+        "name": "Good Torture (with Elyanna)",
+        "url": "https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Good Torture (with Elyanna)",
+      "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
     },
     {
       "album": {

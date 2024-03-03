@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1820284,
+  "num_followers": 1820321,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzgzZTQ0MDJjMjNmODZkNjBlYjM4NjEyNjkzMzI4MDhkNDc1NzA3",
+  "snapshot_id": "MCwyNGRiMDUzZTExOWViZGM4YjYxMWViNTdmOGE4Y2UxZjE0MDkzYjBi",
   "tracks": [
     {
       "added_at": "2024-01-16 15:48:48",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-01-16 15:48:48",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2024-01-16 15:48:48",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
+    },
+    {
+      "added_at": "2024-01-16 15:48:48",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2024-01-16 15:48:48",

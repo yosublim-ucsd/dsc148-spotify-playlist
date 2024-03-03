@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 3680715,
+  "2024-03-03": 3680766,
   "date_first_scraped": "2019-05-26",
   "description": "Let your worries and cares slip away.",
   "name": "Relax & Unwind",
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
@@ -1153,6 +1153,24 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/6E7MY8plyVrd0RWUDl63Kn"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "album": {
@@ -2382,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/0wGgedJFjmtZpWTKhDq0Ic"
+    },
+    {
+      "album": {
         "name": "Like Gold",
         "url": "https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol"
       },
@@ -2865,7 +2901,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
@@ -3575,7 +3611,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 242076,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F"
@@ -3942,6 +3978,24 @@
     },
     {
       "album": {
+        "name": "Scared To Start (Sun Mountain Sessions)",
+        "url": "https://open.spotify.com/album/2qO3jeAQVCgoECuwTOohmw"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Scared To Start - Sun Mountain Sessions",
+      "url": "https://open.spotify.com/track/0xVwILVFkJ1JECDhRUQB57"
+    },
+    {
+      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
       },
@@ -4007,7 +4061,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 177546,
       "name": "Sink;Swim",
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
@@ -5039,7 +5093,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 137293,
       "name": "True North",
       "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"

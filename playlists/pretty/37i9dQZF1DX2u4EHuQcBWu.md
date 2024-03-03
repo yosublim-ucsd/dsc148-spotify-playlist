@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,544 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,587 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 35 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
 | 36 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
 | 37 | [Nada Pasó](https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:39 |
-| 38 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 |
+| 38 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 39 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 |
 | 40 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
 | 41 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 43 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
 | 44 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
 | 45 | [Latinoamérica Es un Pueblo al Sur de Estados Unidos](https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:02 |
-| 46 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
+| 46 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 |
 | 47 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
 | 48 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 |
 | 49 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 63 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
 | 64 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 65 | [Resistiré](https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp) | [Fiskales Ad\-Hok](https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5) | [Fiesta](https://open.spotify.com/album/4N7aFyo10qOsLA6hV2b4RL) | 2:08 |
-| 66 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
-| 67 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
+| 66 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
+| 67 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
 | 68 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 |
 | 69 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
 | 70 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 100 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
 
-Snapshot ID: `MCwyM2UwOWZkOTcxMWVmYjhmYjQxNzA5NTU3NGZkNTg3N2RmODdlZDA2`
+Snapshot ID: `MCwyODllZGRhMzE4ODEzYWM0NzdiYzAxM2FlOGNkMWE2M2E2Y2Q0Mjdm`

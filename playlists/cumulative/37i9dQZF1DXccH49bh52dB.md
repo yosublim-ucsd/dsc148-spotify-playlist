@@ -4,7 +4,7 @@
 
 > The softer side of dance.
 
-216 songs - 12 hr 26 min
+217 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 | 2022-01-18 |  |
 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 | 2021-02-26 |  |
 | [Hold The Line \(feat\. A R I Z O N A\)](https://open.spotify.com/track/6EBlOYNcZ8MrdEov9lEdV6) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:51 | 2021-02-26 | 2023-07-15 |
-| [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 | 2023-07-07 |  |
+| [Hope](https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/1EwIXhUeYRrx1fHmL4wOzX) | 3:41 | 2023-07-07 | 2024-03-03 |
+| [Hope](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA) | 3:41 | 2024-03-01 |  |
 | [Hope](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:00 | 2021-02-26 |  |
 | [How Hard I Try](https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 3:18 | 2022-01-18 | 2023-07-15 |
 | [How Hard I Try](https://open.spotify.com/track/0eM28VT5EVi49J5b4h9qOn) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Dawn EP](https://open.spotify.com/album/0tLCK5jxAQ6MklecDKkmzY) | 3:18 | 2022-01-18 | 2022-11-13 |

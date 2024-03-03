@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,441 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,568 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 |
 | 50 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 
-Snapshot ID: `MTcwODAzODAwMCwwMDAwMDAwMGY1NjFmNjZhOTZkZWMzNGE1YzM2NGNjZTMwNzRlMDMw`
+Snapshot ID: `MCw1NzdiZGRhNWIyYTY0OGU0YmJjNGI2MzQzYjM1MzY2ZmZmZDc3MDk3`

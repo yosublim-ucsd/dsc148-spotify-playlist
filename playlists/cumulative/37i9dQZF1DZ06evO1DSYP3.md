@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 27 min
+54 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 | 2024-01-29 |  |
 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 | 2024-01-29 |  |
 | [My Bitch \(feat\. Kamaiyah\)](https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:28 | 2024-01-29 |  |
-| [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 | 2024-01-29 |  |
+| [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 | 2024-01-29 | 2024-03-03 |
 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 | 2024-01-29 |  |
 | [One Thing](https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 1:35 | 2024-01-29 |  |
 | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx) | [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [FREDOBAGZ](https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0) | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob) | 2:29 | 2024-01-29 | 2024-02-24 |
@@ -55,6 +55,7 @@
 | [Too Different](https://open.spotify.com/track/17Ndqn6KNo8CgtHhxn5kAB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA \(Deluxe\)](https://open.spotify.com/album/0l7PE85JIGm7g3OSjR2TNO) | 1:41 | 2024-01-29 |  |
 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 | 2024-01-29 |  |
 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 | 2024-01-29 |  |
+| [Trying Me](https://open.spotify.com/track/4XgeghQAOvnb4WzgIW1OJb) | [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Trying Me](https://open.spotify.com/album/6pI4FHyb3ZXNtfqgyZGWbZ) | 2:29 | 2024-03-02 |  |
 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 | 2024-01-29 |  |
 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 | 2024-01-29 |  |
 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 | 2024-01-29 |  |

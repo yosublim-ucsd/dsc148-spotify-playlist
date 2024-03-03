@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,410 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,485 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 45 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 46 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
 | 47 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
-| 48 | [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 |
-| 49 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
-| 50 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
-| 51 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
+| 48 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
+| 49 | [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 |
+| 50 | [WRAITH](https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:19 |
+| 51 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
 | 52 | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Welcome To Hell \(feat\. Emmure\)](https://open.spotify.com/album/6IWNoXgJxkGaACypuELOAz) | 2:41 |
 | 53 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 54 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 60 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
 | 61 | [Heads Off](https://open.spotify.com/track/6YscsgZWCPcceessZBN1di) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/2sLZl4r0twETeUTk88BOU7) | 4:31 |
 | 62 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
-| 63 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
-| 64 | [be no one](https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [overstimulation brain porridge](https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn) | 4:21 |
+| 63 | [be no one](https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [overstimulation brain porridge](https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn) | 4:21 |
+| 64 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 65 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 66 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
 | 67 | [Contact](https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/3TyWQxMev9f93qXzTj1N8Z) | 3:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 97 | [Sun Up To Sun Down \- Remix](https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Sun Up To Sun Down \(Remix\)](https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8) | 2:28 |
 | 98 | [ABYSS](https://open.spotify.com/track/7J7M7bscbyKo7WQSwnry7s) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:31 |
 | 99 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
-| 100 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
+| 100 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
 
-Snapshot ID: `MCw5OGFkM2UyOTgyZTI2YTlkZmZlZmUyYjdmYjdkYTllYTE3ZGRjZWE0`
+Snapshot ID: `MCxkZjEzMTY5YTk1ZDVjMGU1NWM5NWQwYmJjMmQ0ZjU4ZjViOTkxOGVk`

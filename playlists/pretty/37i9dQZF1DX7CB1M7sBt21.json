@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 10128,
+  "num_followers": 10192,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGI5MDdjZWRkNmRhMzFhM2RhYjhkMDQ5ZTVmZDA1ZjY0MWUxMjIx",
+  "snapshot_id": "MCxkMDFkMDZjN2FiZTc4OWYxMTdmMDBjNDFiZjk1ZWYzOWJmNGE1MzQ1",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Oldskool Sound",
-        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 216363,
-      "name": "Oldskool Sound",
-      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Oldskool Sound",
+        "url": "https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 216363,
+      "name": "Oldskool Sound",
+      "url": "https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 199408,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Skip",
         "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 151520,
       "name": "Skip",
       "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 199408,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 159375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 132682,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -1515,30 +1535,6 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1563,6 +1559,30 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Dance All Over Me",
         "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
       },
@@ -1579,6 +1599,26 @@
       "duration_ms": 165120,
       "name": "Dance All Over Me - Jax Jones Remix",
       "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
+        "name": "Monster (with Alok)",
+        "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "Monster (with Alok)",
+      "url": "https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed"
     },
     {
       "added_at": "2024-02-29 23:00:00",
@@ -1623,46 +1663,6 @@
       "duration_ms": 141387,
       "name": "The Logical Song (feat. Julia Hallasen)",
       "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 166898,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
-        "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        }
-      ],
-      "duration_ms": 140078,
-      "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
-      "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

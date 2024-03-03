@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 175903,
+  "num_followers": 175928,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzAyODk0ODg5ZTkyZmZjNmY0YzRmZmM4YmE2NjRiOWNmMjM1MWE0",
+  "snapshot_id": "MCwyOTExMzQ0MWY2NDAxZWJjY2RlMzU1YjNjY2IxMjFhOGRiMzMwZDBk",
   "tracks": [
     {
       "added_at": "2023-10-12 20:02:07",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 250073,
-      "name": "Malas Amistades",
-      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 188341,
       "name": "Suin Romanticon",
       "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Gran Santiago",
-        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
-      },
-      "artists": [
-        {
-          "name": "Teleradio Donoso",
-          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
-        }
-      ],
-      "duration_ms": 228098,
-      "name": "Eras mi persona favorita",
-      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "I'm Your Empress Of",
         "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 160000,
       "name": "Love Is A Drug",
       "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Gran Santiago",
+        "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
+      },
+      "artists": [
+        {
+          "name": "Teleradio Donoso",
+          "url": "https://open.spotify.com/artist/6SwRy6PTx8ehNGCdcDp3mt"
+        }
+      ],
+      "duration_ms": 228098,
+      "name": "Eras mi persona favorita",
+      "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 225920,
       "name": "Bailar Bien, Bailar Mal",
       "url": "https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "jard\u00edn de flores",
         "url": "https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nefertiti",
         "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 293453,
       "name": "Mariposa De Coalcom\u00e1n",
       "url": "https://open.spotify.com/track/746EOusLLWulE6bWw41iAH"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
     }
   ],
   "unique_name": "Latin Indie Classics",

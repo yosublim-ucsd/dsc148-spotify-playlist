@@ -96,7 +96,7 @@
     {
       "album": {
         "name": "Beautiful Love (\u539f\u5275\u7248)",
-        "url": "https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ"
+        "url": "https://open.spotify.com/album/5jWafSKTLJyeb8YVlCvhPx"
       },
       "artists": [
         {
@@ -107,6 +107,24 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285028,
+      "name": "Beautiful Love (\u539f\u5275\u7248)",
+      "url": "https://open.spotify.com/track/4WXkpZtQhznXkUUM88PDrC"
+    },
+    {
+      "album": {
+        "name": "Beautiful Love (\u539f\u5275\u7248)",
+        "url": "https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u6c81",
+          "url": "https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-03",
       "duration_ms": 285028,
       "name": "Beautiful Love (\u539f\u5275\u7248)",
       "url": "https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l"

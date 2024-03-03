@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1228311,
+  "num_followers": 1229615,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGFiM2M1ZDVlZWUwYTRhOGI5NjQ4MjgwM2NkN2QzNGE3YjM4MzVl",
+  "snapshot_id": "MCxlODIwZmYwYTc3MDhhMGM3YjJmYWJjNmYyZDVjNWIzYjhlMDgyY2Yx",
   "tracks": [
     {
       "added_at": "2024-01-05 17:40:54",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
+        "name": "The Lost Soul Down (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "duration_ms": 241111,
+      "name": "The Lost Soul Down - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 150660,
       "name": "snowfall (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
-        "name": "The Lost Soul Down (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
-      },
-      "artists": [
-        {
-          "name": "NBSPLV",
-          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
-        }
-      ],
-      "duration_ms": 241111,
-      "name": "The Lost Soul Down - Slowed & Reverb",
-      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
     },
     {
       "added_at": "2024-01-05 17:40:54",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-01-05 17:40:54",
       "album": {
-        "name": "CRYSTALS (Remixes)",
-        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
-      },
-      "artists": [
-        {
-          "name": "PR1SVX",
-          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
-        }
-      ],
-      "duration_ms": 75833,
-      "name": "CRYSTALS (Slowed)",
-      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
-    },
-    {
-      "added_at": "2024-01-05 17:40:54",
-      "album": {
         "name": "Never Let Go (Of Me) [Heist Edit]",
         "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 94028,
       "name": "Never Let Go (Of Me) - Slowed",
       "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
+    },
+    {
+      "added_at": "2024-01-05 17:40:54",
+      "album": {
+        "name": "CRYSTALS (Remixes)",
+        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "duration_ms": 75833,
+      "name": "CRYSTALS (Slowed)",
+      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
     },
     {
       "added_at": "2024-01-05 17:40:54",

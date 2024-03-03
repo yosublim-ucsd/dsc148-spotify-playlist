@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-140 songs - 8 hr 31 min
+141 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Nowhere](https://open.spotify.com/track/4kTZxgvVmd7K7aHIWCbC9z) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Nowhere](https://open.spotify.com/album/3koUyscDUfW9sJsrdQZqk6) | 3:26 | 2023-08-05 |  |
 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 | 2022-07-04 |  |
 | [Only we know…](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Only we know…](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 | 2022-11-01 |  |
-| [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 |  |
+| [Paper Plane](https://open.spotify.com/track/0DB7JrGZS4klU4dN7zSTzO) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/1KAU3MJ6d27czezsWrdx9G) | 4:01 | 2023-11-03 |  |
+| [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 | 2024-03-03 |
 | [Petal](https://open.spotify.com/track/32FYSYIIpc1j6To2Qgl4hq) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/4YuNLaeHfW3p5tzSaEiFB1) | 4:04 | 2022-07-04 |  |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2022-07-04 |  |
 | [Sad Ending](https://open.spotify.com/track/2GlWK4iniHxyFvVSWYsC4j) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/5ZgWAPNaBkkZ6huR1caLv3) | 3:15 | 2023-08-05 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 1475431,
+  "2024-03-03": 1475838,
   "date_first_scraped": "2021-12-30",
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
   "name": "sad girl starter pack",
@@ -3908,6 +3908,24 @@
     },
     {
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "album": {
         "name": "Garden Spider",
         "url": "https://open.spotify.com/album/2Rce9iaorOTzyyPSRjJsz5"
       },
@@ -5251,7 +5269,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-02",
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"

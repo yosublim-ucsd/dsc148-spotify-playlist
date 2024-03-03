@@ -1,5 +1,5 @@
 {
-  "2024-03-02": 262492,
+  "2024-03-03": 262637,
   "date_first_scraped": "2021-12-28",
   "description": "Relaxing classical piano.",
   "name": "Classical Piano",
@@ -287,6 +287,28 @@
       "duration_ms": 90373,
       "name": "5 Lieder, Op. 49: No. 4, Wiegenlied (Arr. Reger for Piano)",
       "url": "https://open.spotify.com/track/2tCVMrhDkCgaEBQtNjOvis"
+    },
+    {
+      "album": {
+        "name": "Strauss: 5 Piano Pieces Op. 3, TrV 105: No. 1, Andante",
+        "url": "https://open.spotify.com/album/0F1u2TnD7187KGZYuWwNe1"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291973,
+      "name": "5 Piano Pieces Op. 3, TrV 105: No. 1, Andante",
+      "url": "https://open.spotify.com/track/1udE8BlEoI3vEiM5HnOAMt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 43 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,453 likes - 43 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 12 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 |
 | 13 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 |
 | 14 | [El Mundo Puede Esperar](https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Mundo Puede Esperar](https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y) | 2:41 |
-| 15 | [Dejarnos Ir](https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:42 |
-| 16 | [lilia](https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
+| 15 | [lilia](https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
+| 16 | [Dejarnos Ir](https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:42 |
 | 17 | [OPUESTOS](https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
 | 18 | [Idiota](https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Una Caricia](https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f) | 3:28 |
 | 19 | [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 26 | [OPTEMOS](https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [OPTEMOS](https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR) | 2:58 |
 | 27 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 |
 | 28 | [beso](https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:50 |
-| 29 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
-| 30 | [Este Final](https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:25 |
+| 29 | [Este Final](https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:25 |
+| 30 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
 | 31 | [Hbls Mucho](https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:39 |
 | 32 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
 | 33 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 42 | [Hasta la Fantasía](https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:23 |
 | 43 | [Control](https://open.spotify.com/track/6eEzLREEDhrE4ib9JSTNcv) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:00 |
 
-Snapshot ID: `Mjg0ODgyODksMDAwMDAwMDA4N2FjMDA1N2Y0YmQ2ZGNlNmQ3MTNhNGZmYmFiZjQzOQ==`
+Snapshot ID: `Mjg0ODk3MzUsMDAwMDAwMDBlOGY5MDQyMzRlOTk1YTJkNWNlODEzZjEwMDQ3NDI1Nw==`
