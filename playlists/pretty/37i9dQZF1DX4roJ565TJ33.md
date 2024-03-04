@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,014 likes - 153 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,017 likes - 153 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 12 | [Julians vals](https://open.spotify.com/track/6rbdsIILzJpsPv8cZDbpkg) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Julians vals / Signes psalm](https://open.spotify.com/album/0xcdkqLctNQ9JL4bIHlqx8) | 3:39 |
 | 13 | [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 |
 | 14 | [Västertorps Hjärta](https://open.spotify.com/track/3ROvgS56VoCFcafLOFO6GZ) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Light Wood, Dark Strings](https://open.spotify.com/album/2JSTNVXcog7ywG3iG3xIiG) | 5:58 |
-| 15 | [Someday My Prince Will Come](https://open.spotify.com/track/7aca2yqdCObxfeIo9mZowU) | [Sara Aldén](https://open.spotify.com/artist/0o6Us7eXQeb43ShOAYLRpN), [Daniel Andersson](https://open.spotify.com/artist/1qARouNIdXCPBKudfGFuC6), [August Björn](https://open.spotify.com/artist/6sUCF9k9erkUjpUaLbJtw8) | [Someday My Prince Will Come](https://open.spotify.com/album/2Zh3u7Mh7NqlgSCr0qioT7) | 4:31 |
+| 15 | [Someday My Prince Will Come](https://open.spotify.com/track/7aca2yqdCObxfeIo9mZowU) | [Sara Aldén](https://open.spotify.com/artist/0o6Us7eXQeb43ShOAYLRpN), [Daniel Andersson](https://open.spotify.com/artist/2OnJYr3MfWsrF963xvPhyF), [August Björn](https://open.spotify.com/artist/6sUCF9k9erkUjpUaLbJtw8) | [Someday My Prince Will Come](https://open.spotify.com/album/2Zh3u7Mh7NqlgSCr0qioT7) | 4:31 |
 | 16 | [Ledsen](https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ) | [John Nilsson](https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr) | [Ledsen](https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ) | 5:30 |
 | 17 | [Wedding](https://open.spotify.com/track/6bzSmAhfNxRtivvL8jHGvO) | [Ale Möller](https://open.spotify.com/artist/5kWZBRi1mL1QA414GqLllw), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD), [Olle Linder](https://open.spotify.com/artist/3DnXgG6Wr1VxhsP543vnug) | [Day Tripper / Wedding](https://open.spotify.com/album/2vso9u23A2kQqEDa9st5xs) | 4:22 |
 | 18 | [The Red Flower](https://open.spotify.com/track/7GnMqc1a6ihMtsxoORY8j6) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Sphere](https://open.spotify.com/album/3oscM0FRk7HYeMAA6jDA0J) | 6:16 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 152 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 153 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCxlZmI1Y2Q4NWIwYTUzMTU5OWY0ZDhlMWIxZDc5YTc2ZGQ2YjRkMjJm`
+Snapshot ID: `MCxkMTY2NTZiMTVkN2ZlN2VmMWRhZTE5NjQwNTU2Y2Y0YzY1ZDM3NDZj`

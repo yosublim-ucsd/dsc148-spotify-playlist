@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=DGNkf\_77RySgppJ9XZwZaQ">Miley Cyrus</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=yfLgwajCQv6oRJ6vNfOFTQ">Pharrell Williams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,657 likes - 74 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,692 likes - 74 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 10 | [iSgila Mkhuba \(feat\. Sykes, Skillz\)](https://open.spotify.com/track/0Y6zY99VKlaPwSwg33Gfa2) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Skillz](https://open.spotify.com/artist/2os4b63L32lEcMr2kkk36n), [SYKES](https://open.spotify.com/artist/0jQCL3PGTu3kvhLPkxocws) | [Warriors Of Afro](https://open.spotify.com/album/2gnadT0ZxAhdE9DvJihhyW) | 4:20 |
 | 11 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 |
 | 12 | [Colours](https://open.spotify.com/track/4XwYu993Xz2w9DR9erQuaz) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [Colours](https://open.spotify.com/album/4nIImpQMtyOPeYs9WdNnvx) | 3:07 |
-| 13 | [Box Of Stars Pt\. 1](https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 5:16 |
+| 13 | [Box Of Stars Pt\. 1 \(feat\. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi\)](https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 5:16 |
 | 14 | [B27](https://open.spotify.com/track/2oXnWipLEQOeS1b10Frd3t) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [B27](https://open.spotify.com/album/5dw5CkaR95xfNBuzvJcVL1) | 4:24 |
 | 15 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
 | 16 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Like Me](https://open.spotify.com/track/6nMKU3uNB9Q7bk80XKUh8G) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Like Me](https://open.spotify.com/album/2ZAeVAkYsJ5XACYVz7my0c) | 2:17 |
 | 74 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
 
-Snapshot ID: `MCwxYmVlNzMyNWMzMzZjYTM5YmY0MTg5NGMwNGYxOWM4YTQ3ZDZmMDY5`
+Snapshot ID: `MCxiODZmMWM4MjU0NTM5NzM0MTlhYjMzMTg0N2Q3ZWZhNDliZmM1YjVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,993 likes - 99 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,007 likes - 99 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 3 | [AKO](https://open.spotify.com/track/3jHedBtPaDC4JnbuRDuESI) | [Kidney Fuji](https://open.spotify.com/artist/5ImlGMjtl8oe8VVdjY2mwd) | [AKO](https://open.spotify.com/album/3MjGApVWk8UmIt1FMcnMAf) | 1:57 |
 | 4 | [Rarri](https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 3:06 |
 | 5 | [Sexy](https://open.spotify.com/track/1N8QbTJO5ED2ShArjBSMDy) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/5ya278NuTWU7pUzBOiI9lv) | 3:30 |
-| 6 | [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 |
+| 6 | [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 |
 | 7 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
 | 8 | [Hana Celeb](https://open.spotify.com/track/4pj3xcOIRVnCjbFDjayFJ5) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Miyabi](https://open.spotify.com/artist/4uiejZ8T3YciiSnHEsEB5q) | [DEPRESSION](https://open.spotify.com/album/2DLYLmxDYNpqziSBJ1AMXE) | 3:14 |
 | 9 | [DAIKYUJYO](https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [DAIKYUJYO](https://open.spotify.com/album/21OL83ryv1xqNXiQ5aoQii) | 3:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
 | 99 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCw0ODYyMjdkOTMwOWFjZmJlMGYxNzRiOGIzNzRkOGZiZmQ2NGMyOTdj`
+Snapshot ID: `MCxhZTRjMjY4YmQ4YzBiNjMzYTQyYmEyNDA5NWQ1YTFiYjdhNDhjNGE4`

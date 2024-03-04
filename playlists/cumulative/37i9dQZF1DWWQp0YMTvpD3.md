@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-352 songs - 17 hr 33 min
+356 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,9 @@
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 | 2023-07-15 |
 | [Close To Me](https://open.spotify.com/track/28T738J7MBniDTJsHjLCXD) | [Aselec](https://open.spotify.com/artist/6sieT8D35Oae3wuL26bA4Z) | [Close To Me](https://open.spotify.com/album/78J95MXdIW6WW8g38M6B1l) | 2:51 | 2022-08-19 |  |
 | [Cloud Number Five](https://open.spotify.com/track/4ulT6vEjfMzTAxbiNYhm7C) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [Cloud Number Five](https://open.spotify.com/album/2LpnJdn48aBAPVJY8xJYeB) | 3:26 | 2022-06-24 |  |
+| [Coco Beach](https://open.spotify.com/track/2Vj4oHCZ2i01a5hR6GgChq) | [Narbonne](https://open.spotify.com/artist/67YpdlqdEUGf3xJGIGudLr) | [Coco Beach](https://open.spotify.com/album/7gAtT1TV1JvMVQsHA1kHtt) | 2:05 | 2024-03-03 |  |
 | [Cold Desert](https://open.spotify.com/track/0Fc8JaRVZWGmNQ3E0O8fgw) | [Onyoso](https://open.spotify.com/artist/3hOMAARcMkxkZ5iLA5MWl8) | [Cold Desert](https://open.spotify.com/album/7yYiEMCtoSYc8QenoAg1il) | 4:24 | 2022-09-23 |  |
+| [Costal Sunset](https://open.spotify.com/track/3fvmkcEGSopCoehQj3BdQx) | [8twenty](https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg) | [Costal Sunset](https://open.spotify.com/album/5vGPfKclHVB1VaYOY36UDX) | 2:42 | 2024-03-03 |  |
 | [Crash 'n' Bang](https://open.spotify.com/track/6wwZ1KnWfvyBthA7SKUQuN) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Crash 'n' Bang](https://open.spotify.com/album/1qAmUXomV26eUkkbvtLT4z) | 2:54 | 2022-12-16 |  |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
@@ -93,6 +95,7 @@
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2021-10-12 | 2022-02-12 |
 | [Dreams](https://open.spotify.com/track/3WnsrngoR8opauzEOnYXVJ) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Dreams](https://open.spotify.com/album/2b2uUCQBke5wtPskEnyzYP) | 3:42 | 2022-02-11 | 2022-07-29 |
 | [EivissAA](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [LEO](https://open.spotify.com/album/7FgB0swov64l8PpCprNOh7) | 3:34 | 2022-12-16 |  |
+| [Elevate](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i) | [Molinerd](https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi) | [Elevate](https://open.spotify.com/album/60JP4dV59LJPj1jZC6FwRq) | 2:38 | 2024-03-03 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-02-11 |  |
 | [Energy](https://open.spotify.com/track/17VY5byeYgBvfFO9gJEcs6) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate](https://open.spotify.com/album/1oQTiTw7scoVOY5B1Vi5jY) | 2:33 | 2023-03-17 |  |
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 | 2022-10-07 |
@@ -148,6 +151,7 @@
 | [i need myspace](https://open.spotify.com/track/3chffdXDrx8jsT3hpCnbAA) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [i need myspace](https://open.spotify.com/album/03x5kDCaUWMProXLgV0suf) | 2:17 | 2023-01-06 |  |
 | [I Set Myself Adrift](https://open.spotify.com/track/1HTjv0mwEjLpzl2mkUQTzi) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:17 | 2023-05-22 | 2023-10-06 |
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 | 2023-07-15 |
+| [Iconic](https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv) | [Monic](https://open.spotify.com/artist/2dGAYuA2ivFR4BDhbQSIXv) | [Iconic](https://open.spotify.com/album/6LqVXBp6RwTJC9drUmnJZp) | 2:04 | 2024-03-03 |  |
 | [Illusions](https://open.spotify.com/track/190gn9RjC9PkJVpMKkBLMe) | [Liquid Lasso](https://open.spotify.com/artist/5W6TvKu7TeFtdU9CTf7UOe) | [Illusions](https://open.spotify.com/album/11VRjUkzZb8gefEPxFnjdU) | 3:19 | 2022-02-11 |  |
 | [Imagination](https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Imagination](https://open.spotify.com/album/7azMMhLw5xBgBi0Ir7uaOH) | 2:29 | 2023-09-15 |  |
 | [Immortal](https://open.spotify.com/track/6aju9nXf2qF3Lexo6iYoFJ) | [MaTa](https://open.spotify.com/artist/4VXVu0C94fy1xLwfTTb7fr) | [Immortal](https://open.spotify.com/album/4R2XKRYpevbMhFwMG8YvyF) | 6:18 | 2022-06-17 | 2022-07-29 |

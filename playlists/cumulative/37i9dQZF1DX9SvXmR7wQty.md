@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Marie\-Mai
 
-2,353 songs - 5 day 5 hr 39 min
+2,354 songs - 5 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,6 +1299,7 @@
 | [Localisé](https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Chef D'orchestre](https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1) | 2:51 | 2023-07-28 | 2023-09-30 |
 | [Loin](https://open.spotify.com/track/7gdQI1FFUsACxdd4jPL7Xr) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Loin](https://open.spotify.com/album/602HrkUZTIwwSdzDLraN0r) | 3:01 | 2022-04-22 | 2022-04-29 |
 | [Loin](https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Insomnia](https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS) | 3:22 | 2023-04-07 | 2023-05-13 |
+| [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 | 2024-03-01 |  |
 | [Loin de la guenille](https://open.spotify.com/track/208JeNNblyObOwyELA4R1o) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Loin de la guenille](https://open.spotify.com/album/41oj3WILNBUCB5nZLLjPwT) | 3:42 | 2022-03-25 | 2022-04-02 |
 | [Loin de moi](https://open.spotify.com/track/39n7S9oaAPZ9JyVYaadset) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Loin de moi](https://open.spotify.com/album/3hwZ6kczuObzQxBBBk23CW) | 2:46 | 2023-10-13 | 2023-10-21 |
 | [Loketo](https://open.spotify.com/track/0x60ynvg0eu85HcWGtNJtX) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ) | [Loketo](https://open.spotify.com/album/15JPyHGuRzm6g9gzYwWxvy) | 3:44 | 2022-07-01 | 2022-07-23 |
@@ -1668,7 +1669,7 @@
 | [Phénix \(vue par Misstress Barbara\) \- Remix](https://open.spotify.com/track/05ZPFP5leyssyzHkvFZvCA) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Phénix \(vue par Misstress Barbara\) \[Remix\]](https://open.spotify.com/album/3pG19W4oJwhWxuGbD4DNOw) | 5:24 | 2022-05-20 | 2022-05-28 |
 | [Phénomène phéromonal](https://open.spotify.com/track/2LhrfB4j2zwAOebTmeFoiE) | [Rémi Chassé](https://open.spotify.com/artist/4ZHPSX8wbALZv186ysJ37P) | [Phénomène phéromonal](https://open.spotify.com/album/7wbCIkCo8dA397tYBtgKSw) | 2:48 | 2023-02-24 | 2023-03-11 |
 | [Pickup](https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Pickup](https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc) | 3:40 | 2022-05-06 | 2022-05-20 |
-| [Picoler](https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Picoler](https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3) | 3:09 | 2024-02-16 |  |
+| [Picoler](https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Picoler](https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3) | 3:09 | 2024-02-16 | 2024-03-04 |
 | [Picture \- French Version](https://open.spotify.com/track/42eGuftLmeGQ44BPzfJP0t) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Mc12](https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN) | [Picture \(French Version\)](https://open.spotify.com/album/4AJYkJBdEoPdOW45mW8eRO) | 2:38 | 2022-03-25 | 2022-04-09 |
 | [Pigalle](https://open.spotify.com/track/61CqSFg78pMYNSJpqHOzQr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Pigalle](https://open.spotify.com/album/22AW5DN7qVOybGo4JKx2Ku) | 4:19 | 2023-02-03 | 2023-02-18 |
 | [Pile ou face](https://open.spotify.com/track/2FuCqBjuBEvxczXxBePZIn) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Pile ou face](https://open.spotify.com/album/46l1EyQdPcjmvaeemxpTjr) | 3:25 | 2022-02-11 | 2022-02-19 |

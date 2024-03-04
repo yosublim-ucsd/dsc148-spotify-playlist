@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-288 songs - 11 hr 40 min
+289 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 | 2023-10-27 |  |
 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 | 2024-01-19 |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 | 2023-09-19 |
+| [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 | 2024-03-01 |  |
 | [Dream Train](https://open.spotify.com/track/37HHr2vkEH7DTCDf6C8GPL) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Dream Train](https://open.spotify.com/album/5qHCl97YrFtVlwDNoIYfwC) | 2:14 | 2024-01-12 |  |
 | [dreamers](https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [dreamers](https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO) | 2:33 | 2023-10-27 |  |
 | [Dreaming](https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc) | [Neotic](https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd) | [Siberia](https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl) | 1:46 | 2020-11-12 |  |
@@ -242,7 +243,7 @@
 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 | 2020-11-12 | 2024-03-01 |
 | [Soul Finding](https://open.spotify.com/track/27fX7qVg3MCQ6DEqgB4Rro) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Soul Finding](https://open.spotify.com/album/5ryb80Ksf3SBCw4OzA5Pun) | 1:41 | 2020-11-12 | 2022-07-29 |
 | [Soul of Serenity](https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Soul of Serenity](https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT) | 2:12 | 2023-10-27 |  |
-| [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 | 2022-07-08 |  |
+| [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 | 2022-07-08 | 2024-03-04 |
 | [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 | 2023-10-27 |  |
 | [Spirited](https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo) | [Ninjoi.](https://open.spotify.com/artist/5L2CHkxMyK5JxdWzjKcI6K) | [Benkyou](https://open.spotify.com/album/2RBCfGDmRd88hyRBwNBQ6c) | 2:19 | 2020-11-12 | 2023-10-29 |
 | [Spirits](https://open.spotify.com/track/0bHMYI8BEs739S51ZrZ6yy) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/2QB4GAeIBuGkxUNnUQQNBU) | 2:24 | 2021-10-29 |  |

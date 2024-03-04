@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-424 songs - 1 day 2 hr 36 min
+425 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Breaking Skin](https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [The Return](https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA) | 2:54 | 2022-06-17 | 2023-11-11 |
 | [Breaking Skin](https://open.spotify.com/track/4sCvTmUx2f1FC6Qds5GKIm) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Breaking Skin](https://open.spotify.com/album/6AREv57v8nBZFdpPok7o9M) | 2:54 | 2021-12-28 | 2022-07-18 |
 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 | 2021-11-12 | 2023-11-11 |
+| [Breathe Again](https://open.spotify.com/track/5KfXH2tHeTqIX9WvJwXTz1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 3:11 | 2024-01-19 |  |
 | [Broken](https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:20 | 2021-11-12 | 2023-06-06 |
 | [Broken Heart](https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU) | 3:07 | 2023-07-25 |  |
 | [Broken Heart](https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/0b4KJR48ZibGZafb5sviX3) | 3:07 | 2021-11-12 | 2023-08-31 |
@@ -305,7 +306,7 @@
 | [Rational Gaze](https://open.spotify.com/track/5uqr3lCMWkyQx6yTvoMl4F) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Nothing](https://open.spotify.com/album/4ucDcX8iPgBKY9zAJyHOjy) | 5:04 | 2022-11-02 | 2023-02-02 |
 | [READY TO DIE](https://open.spotify.com/track/0FnsGa4AZ9XlW92BHfz8yg) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [READY TO DIE](https://open.spotify.com/album/45uDqpJtxEdoiQFDkmYnjM) | 4:06 | 2022-07-13 | 2022-07-29 |
 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 | 2022-07-13 | 2022-11-03 |
-| [Remember We Die](https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Memento Mori](https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn) | 3:45 | 2021-11-12 |  |
+| [Remember We Die](https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Memento Mori](https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn) | 3:45 | 2021-11-12 | 2024-03-04 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-11-12 | 2023-11-11 |
 | [Resentment](https://open.spotify.com/track/7pK1CcGiz41Bi0qZ1cIXft) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Resentment](https://open.spotify.com/album/01K6XMRFJFP3lfQOkGjCnd) | 3:28 | 2021-11-12 | 2022-07-29 |
 | [Rickets](https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 2:42 | 2022-07-13 | 2022-10-22 |

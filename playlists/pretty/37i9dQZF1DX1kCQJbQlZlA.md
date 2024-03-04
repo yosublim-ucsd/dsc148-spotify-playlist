@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,149 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,151 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Cô Thắm Không Về](https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Sinike](https://open.spotify.com/artist/3mAay4lwZOLZMoTEYHcPCY) | [Cô Thắm Không Về](https://open.spotify.com/album/69XDEOQH8BkHfHAZ5bZNn8) | 4:14 |
 | 75 | [Tình Quê \(feat\. Huỳnh Nguyễn Công Bằng\)](https://open.spotify.com/track/2q1CALWcpLvH5JAv50RclK) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:12 |
 
-Snapshot ID: `MCxhZWQyMDQ0MTQ4MzZiZDMxZWNjMDMyNGJkMDJkYzkwMzU2Yjc0ZTE4`
+Snapshot ID: `MCxkZjMwZTNlNTA4MjM1ZmJhNGQ2ZjIyMzA4ODE4MWQ1YWFjNzFiNDE1`

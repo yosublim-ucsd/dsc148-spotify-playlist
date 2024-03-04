@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,148 songs - 2 day 12 hr 38 min
+1,150 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@
 | [Now We're Even](https://open.spotify.com/track/7qpDY56Q1TaByNCFEC352t) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Now We're Even](https://open.spotify.com/album/5TSXG1TFNWYVbyvOz2dsch) | 2:20 | 2022-03-25 | 2022-08-22 |
 | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl) | 3:59 | 2022-01-14 | 2022-07-17 |
 | [Numb](https://open.spotify.com/track/2lzW1ZzQLuj9zVVx8d9neL) | [Lukr](https://open.spotify.com/artist/6VPUQ3UqHxeeVvROl2kZqb), [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt) | [Numb](https://open.spotify.com/album/4NGj4Yy0wj0yfmbhCgkCWV) | 3:36 | 2022-03-25 | 2022-04-21 |
-| [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-28 |  |
+| [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-28 | 2024-03-04 |
 | [Numb](https://open.spotify.com/track/6cAfDyLZ3QYHVdVxMZKPl1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Numb](https://open.spotify.com/album/0747YzEM47zpjBxHEWX8ho) | 2:26 | 2021-12-10 | 2022-05-20 |
 | [Numb Without You](https://open.spotify.com/track/22aSl53GhZ1y0R4neQ11pd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [You Are OK](https://open.spotify.com/album/0DRUOQBsax8QLUVctbEIAT) | 3:32 | 2021-12-10 | 2022-06-08 |
 | [Oaklands Finest Glass Beaches](https://open.spotify.com/track/7npNvZnmP6lmVH0TcVJuRC) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [Oaklands Finest Glass Beaches](https://open.spotify.com/album/6R88hYGnHoU0jzGwAtJZtq) | 3:39 | 2023-12-08 | 2023-12-12 |
@@ -759,7 +759,7 @@
 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 | 2023-10-23 | 2024-01-20 |
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2023-10-28 |
 | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/track/2cWMwxmJ2TPuPLcNQdEaq5) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Awsten Knight](https://open.spotify.com/artist/6ORwdLfpd4q9V1BlktwYfZ) | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/album/1qqoHvXacvsatI0g8bO2L7) | 2:50 | 2021-12-10 | 2022-06-18 |
-| [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 |  |
+| [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2024-03-04 |
 | [phuck u](https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [phuck u](https://open.spotify.com/album/7Ft8Bqn9YSbK1GS4iT2M0k) | 2:41 | 2021-12-10 | 2022-07-29 |
 | [PILL BREAKER \(feat\. blackbear & Machine Gun Kelly\)](https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 2:57 | 2021-12-10 | 2022-05-24 |
 | [Pillbox Hill](https://open.spotify.com/track/6fF8MC0N5q8bpcXnsj45Wy) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Dependent](https://open.spotify.com/album/5Xxw0o24d4VYOwHmDovXmp) | 3:43 | 2021-12-10 | 2022-07-07 |
@@ -830,6 +830,7 @@
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-10 | 2022-07-23 |
 | [Scavenger](https://open.spotify.com/track/1Fu8yPptxIAtk8nDLVkGgG) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Scavenger](https://open.spotify.com/album/62sY6CmLFmREYxwdLcviOO) | 3:09 | 2021-12-10 | 2022-07-29 |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-10-27 |  |
+| [Secondary Worship](https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Secondary Worship](https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt) | 3:46 | 2024-03-01 |  |
 | [Sedona](https://open.spotify.com/track/21rOdbcj8Y7glIazuWel2e) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Sedona](https://open.spotify.com/album/6h0DXUi7906RJZRrE2SYLW) | 3:09 | 2021-12-10 | 2022-07-06 |
 | [See You In Heaven](https://open.spotify.com/track/1UpyR5Uxyr8NDB1iPRtEaQ) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Down the Rabbit Hole](https://open.spotify.com/album/0lga9vn7QRzM8yT687V1z0) | 4:12 | 2021-12-10 | 2022-07-26 |
 | [Seed \(Rosemarie\)](https://open.spotify.com/track/5o0ahcfMrZiYHgXqBK3MWu) | [Certainty](https://open.spotify.com/artist/7EV1shS1eQmwnlC5iYMYuo) | [Temporary Love](https://open.spotify.com/album/59HyUqcYq4MkGWKGL7VuXQ) | 4:15 | 2022-04-01 | 2022-04-21 |
@@ -877,6 +878,7 @@
 | [Sip](https://open.spotify.com/track/0U2ZccdS3slNAlnfvdHVhB) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Sip](https://open.spotify.com/album/04JFngJN3HmBwJPsYPvSW5) | 3:22 | 2021-12-10 | 2022-07-24 |
 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 | 2023-04-10 |  |
 | [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 | 2023-04-10 |  |
+| [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 | 2024-03-01 |  |
 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 | 2021-12-10 | 2023-04-11 |
 | [Skinny Dipping](https://open.spotify.com/track/7s7xOgct7HWsNjGO3YOtqt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 2:49 | 2021-12-10 | 2022-01-15 |
 | [Sleepless in Orlando](https://open.spotify.com/track/7qkmoS3QRYDCdr747Jed08) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [Say I'm What You Want](https://open.spotify.com/album/0XnbnViPiLqJUd6ZwReA9T) | 4:16 | 2021-12-10 | 2022-05-11 |

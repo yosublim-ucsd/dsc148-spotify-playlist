@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,839 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,917 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Today](https://open.spotify.com/track/0N38B0Dd6W87kjZTkPlT2D) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [fred irie](https://open.spotify.com/artist/2FXTublmZxD7viKxbfSHAJ) | [Today](https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb) | 2:27 |
 | 50 | [Demain](https://open.spotify.com/track/6lMQd3dNLrCpY5a8yTLGbe) | [Teevii](https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp) | [Demain](https://open.spotify.com/album/6mMhB9sJE16rioPmpxRbud) | 3:09 |
 
-Snapshot ID: `MCw4NjE4MmI1M2ZiZTA4MDBhOTUyYTkyNTA4MWJiMDNlNjkyYjg0OTAy`
+Snapshot ID: `MCwwZWRmMTUyZTcxMDFkMTk5N2U0ZjMyMGFiNTFjOGNlZjFlMTcwN2Fj`

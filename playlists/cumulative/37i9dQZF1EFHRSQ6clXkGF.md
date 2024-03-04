@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-45 songs - 3 hr 10 min
+46 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Jericho](https://open.spotify.com/track/4RRPR9BulqJfyPll9CTJPa) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 3:45 | 2024-01-29 |  |
 | [La corde et les chaussons](https://open.spotify.com/track/3HsI1oiEHgpB5gxvZVnROX) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 5:09 | 2024-01-29 |  |
 | [Ladies' Man](https://open.spotify.com/track/6gk3nMocQXCGIwbSrdAFq1) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [redisCOVERed](https://open.spotify.com/album/361B52mkiwOy22cpp2zElU) | 3:31 | 2024-01-29 |  |
-| [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 | 2024-01-29 |  |
+| [Last Time I Saw Richard](https://open.spotify.com/track/4s1x3pWfCAxk2lBNWyF9ke) | [Daphne Ashbrook](https://open.spotify.com/artist/0tBVVhB5xEnOOc2dELd7Jw) | [All Good Dreamers](https://open.spotify.com/album/4TqQoUdD0Yuiqm8iDl02gj) | 3:46 | 2024-03-03 |  |
+| [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 | 2024-01-29 | 2024-03-04 |
 | [Le grand parking](https://open.spotify.com/track/2iYqLxOoxGPhWgcmTIC0Uy) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [La Fleur Aux Dents](https://open.spotify.com/album/4v4KFFVfqx1cUgJ0ZFoV71) | 2:13 | 2024-01-29 |  |
 | [Loves Cries](https://open.spotify.com/track/3CCnAVDn8jLBYv6N0zOeHo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Sunny Sunday \(Live on the radio, Glendale CA 25 Oct ‘94\)](https://open.spotify.com/album/2XF1uJH7Slc9faVZoMOahV) | 3:56 | 2024-01-29 |  |
 | [My World Is...](https://open.spotify.com/track/1xb836z7cKQ18ltAIKb5lr) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Below The Heavens](https://open.spotify.com/album/5svD0PDZ12uj3wTKkdBFMd) | 3:42 | 2024-01-29 |  |

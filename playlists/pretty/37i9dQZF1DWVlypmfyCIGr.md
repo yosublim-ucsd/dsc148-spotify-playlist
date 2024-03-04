@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 暴動クラブ
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,449 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,471 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Jellyfish](https://open.spotify.com/track/389o6ubDDpPvhNUaLl22tL) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Jellyfish](https://open.spotify.com/album/6ieIuzXf3cN3GH0Nzh7Y98) | 3:05 |
 | 80 | [Melting](https://open.spotify.com/track/4wAMnxBJZ8CqRhz0Bzc0Au) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/0yxz56r9ktKU3fPXeWnkfp) | 5:00 |
 
-Snapshot ID: `MCw2N2VhMzNjOTBjM2Q0OGY3ZWE5NDVjYjdjMzRiNmI1OWRiMjIxZGMy`
+Snapshot ID: `MCw0NzBmMzRiNTM3MDAwNTFiYjAwY2ZiMmE2ZjUxMzJmZDZiNjI5Mjg1`

@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-151 songs - 9 hr 40 min
+152 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,11 @@
 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Double Take \- Chris Tomlin](https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d) | 4:27 | 2023-05-27 |  |
 | [Ang Diyos Ay Mabuti](https://open.spotify.com/track/3k6TZZVVK0Ov6fmDoZZQys) | [Robert David](https://open.spotify.com/artist/3Aff0dbbzT8t92q4cWukBU) | [Ang Diyos Ay Mabuti](https://open.spotify.com/album/2pTA1H0KWESL0pnAY8aVjX) | 11:00 | 2023-05-27 |  |
 | [Ang Tanging Alay Ko](https://open.spotify.com/track/6qADtStzPZknVfFlEzw0aI) | [Choir Ng Bayan](https://open.spotify.com/artist/66rv3EzSQVPaAj2G4A7TXe), [Gary Granada](https://open.spotify.com/artist/2Xqthg2v6S4swstru8dliM) | [Choir Ng Bayan 2017](https://open.spotify.com/album/5MOfU0SX4T0Hi63ByoHlv0) | 4:29 | 2023-05-27 |  |
-| [Anima Christi](https://open.spotify.com/track/6zSiX5IaRAFXS2hYQ0CCHo) | [Edward Opinaldo](https://open.spotify.com/artist/2pgl8YDKgxin8UFZoWc12G), [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [The Best of Bukas Palad, Vol\. 2](https://open.spotify.com/album/2IXih4ywSYeExf95GXMigb) | 2:28 | 2023-05-27 |  |
+| [Anima Christi](https://open.spotify.com/track/6zSiX5IaRAFXS2hYQ0CCHo) | [Edward Opinaldo](https://open.spotify.com/artist/2pgl8YDKgxin8UFZoWc12G), [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [The Best of Bukas Palad, Vol\. 2](https://open.spotify.com/album/2IXih4ywSYeExf95GXMigb) | 2:28 | 2023-05-27 | 2024-03-04 |
 | [Anima Christi](https://open.spotify.com/track/0kin90TjdevfDBkEJQoc8e) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Dennis Van Grospe](https://open.spotify.com/artist/4X6hbnYy9CBR5kBBdZcNww), [Tricia Tan](https://open.spotify.com/artist/1Q3fc54EULbcn8dke1Zxn5) | [Anima Christi](https://open.spotify.com/album/1SmO3qtTpuWaDI1U6ofVK0) | 4:18 | 2023-05-27 | 2024-02-28 |
 | [Anima Christi](https://open.spotify.com/track/3GPqoFneu5vnaWhH3zE6rX) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Dennis Van Grospe](https://open.spotify.com/artist/4X6hbnYy9CBR5kBBdZcNww), [Tricia Tan](https://open.spotify.com/artist/1Q3fc54EULbcn8dke1Zxn5) | [Anima Christi](https://open.spotify.com/album/1f99zZgoUy8qk0JjWDoR9G) | 4:18 | 2023-05-27 |  |
 | [Anima Christi](https://open.spotify.com/track/3OlrK93edwpcZyLGgkW2HA) | [Philippine Madrigal Singers](https://open.spotify.com/artist/3xNrKoP8hKOaNJgMFkSVxW) | [Acclamation](https://open.spotify.com/album/0fNCn7GZDFyIHBwfj7ORfG) | 3:23 | 2023-05-27 |  |
+| [Anima Christi \(Based on a 14th century prayer, author unknown, but attributed to Pope John XXII\)](https://open.spotify.com/track/7ugjOxjIyZS9wsPhDbfsq0) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Edward Opinaldo](https://open.spotify.com/artist/2pgl8YDKgxin8UFZoWc12G) | [The Best of Bukas Palad, Vol\. 2 \(Songs in English\) Silver Anniversary Edition](https://open.spotify.com/album/1JoScDpurDeNV2n7azpQBN) | 2:27 | 2023-05-27 |  |
 | [Anima Christi \- From "The Best Of Bukas Palad"](https://open.spotify.com/track/2AkUscUa3JK2z9qhuE4jYq) | [Jesuit Music Ministry](https://open.spotify.com/artist/1uuFddQffRild1ln1W0u8v) | [Prayers Of Adoration](https://open.spotify.com/album/0kMIBfjrULZ31UAaiNTi8s) | 2:27 | 2023-05-27 | 2024-02-28 |
 | [Ave Maria](https://open.spotify.com/track/5RpkqG5pG6F3twW89jZrVN) | [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [The Best of Himig Heswita](https://open.spotify.com/album/1UisCmHotQMsETnew729pL) | 3:18 | 2023-05-27 | 2024-02-28 |
 | [Ave Maria](https://open.spotify.com/track/7qwLMGubInZvBHmozGH1u8) | [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [The Best of Himig Heswita](https://open.spotify.com/album/4GWdOVJz8t8QsXNqGDY2uj) | 3:18 | 2023-05-27 |  |

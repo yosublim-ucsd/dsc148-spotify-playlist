@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 974810,
+  "2024-03-04": 974836,
   "date_first_scraped": "2021-12-21",
   "description": "slow burners for late nights",
   "name": "late night vibes",
@@ -7971,10 +7971,28 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 169846,
       "name": "MUTUAL",
       "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
+    },
+    {
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/5KMM5rZU1frov5gNAHL8GE"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "MUTUAL",
+      "url": "https://open.spotify.com/track/7ssXkZztV1Fe60nO1pvTiK"
     },
     {
       "album": {

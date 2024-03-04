@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: GULZAAR CHHANIWALA
 
-190 songs - 10 hr 4 min
+191 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-06-16 |  |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-03-28 | 2023-04-29 |
 | [No Tension](https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension \- Single](https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L) | 3:45 | 2023-12-14 | 2024-02-11 |
+| [No Tension](https://open.spotify.com/track/6mXGWMfVqcDd1uvaPK3y7J) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension](https://open.spotify.com/album/23F9FHnyfGhXc2mUh8kmzc) | 3:45 | 2024-03-01 |  |
 | [No Worries](https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [No Worries](https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C) | 2:52 | 2023-04-18 | 2023-06-11 |
 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 | 2023-12-14 | 2024-02-27 |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-03-28 |  |
@@ -192,7 +193,7 @@
 | [Unstoppable](https://open.spotify.com/track/6IePbDU29ymA3unC9NoETt) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Unstoppable](https://open.spotify.com/album/2iVLy5zu6a1W3gz8VK4azB) | 3:19 | 2023-10-09 |  |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-10-06 |  |
 | [Up\-14 J & G](https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Up\-14 J & G](https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm) | 2:17 | 2024-01-26 |  |
-| [Up12 to Jh14](https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF) | [Shikriwal](https://open.spotify.com/artist/0CinOHFWu7nAChXK9KH9Oa), [Total Deep](https://open.spotify.com/artist/6sRIh4YXmBX5EjTzQ9zmLf) | [Cactus](https://open.spotify.com/album/6QlGN5FPWk3VM3i3ugVfKN) | 2:54 | 2024-01-26 |  |
+| [Up12 to Jh14](https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF) | [Shikriwal](https://open.spotify.com/artist/0CinOHFWu7nAChXK9KH9Oa), [Total Deep](https://open.spotify.com/artist/6sRIh4YXmBX5EjTzQ9zmLf) | [Cactus](https://open.spotify.com/album/6QlGN5FPWk3VM3i3ugVfKN) | 2:54 | 2024-01-26 | 2024-03-04 |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 |  |
 | [Vehem](https://open.spotify.com/track/6ZvrPAj3CE6yEi6IPP5Vjh) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Vehem](https://open.spotify.com/album/7yAES0qSOCdfBs045ZwmiU) | 2:57 | 2023-11-21 |  |
 | [World War](https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl), [Chaahat](https://open.spotify.com/artist/0Rmepg7H9PGYIDlR6wG1Iy), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Tem Aan Do](https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw) | 2:56 | 2023-12-22 |  |

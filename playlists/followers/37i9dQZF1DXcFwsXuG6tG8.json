@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 10619,
+  "2024-03-04": 10630,
   "date_first_scraped": "2023-08-01",
   "description": "y el soundtrack suena as\u00ed...",
   "name": "mi vida es una peli",
@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Llevo Dentro",
+        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267198,
+      "name": "Lo Que Llevo Dentro",
+      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
+    },
+    {
+      "album": {
         "name": "Los Mejores A\u00f1os",
         "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
@@ -1077,10 +1095,6 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
       "date_added": "2024-03-01",
@@ -1385,7 +1399,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 191924,
       "name": "Si Volviera A Conocerte",
       "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"

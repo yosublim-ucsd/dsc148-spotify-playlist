@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: moon tang \(Hong Kong\)
 
-1,192 songs - 2 day 23 hr 38 min
+1,193 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 | 2023-08-10 | 2023-10-23 |
 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 | 2022-10-06 | 2022-12-02 |
 | [In Another Life](https://open.spotify.com/track/6ZG2g4sjqypmAguMMJLb43) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [F\(OOL\)](https://open.spotify.com/album/6kFvVCVMZJwxLHVEG7oEuf) | 4:07 | 2023-06-08 | 2023-07-21 |
-| [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-08-31 |  |
+| [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-08-31 | 2024-03-04 |
 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-10-06 | 2023-03-25 |
 | [In The Clouds](https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [The Great Regression](https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG) | 2:55 | 2023-09-21 | 2024-01-19 |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 | 2022-08-19 |
@@ -956,6 +956,7 @@
 | [This Is Where I Leave You](https://open.spotify.com/track/1XdkU9HeHcHaKxLjIjP7c0) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO) | [This Is Where I Leave You](https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE) | 4:05 | 2022-05-26 | 2022-07-08 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-06 | 2022-06-17 |
 | [Tide 浪潮](https://open.spotify.com/track/6es950hmW1IihWmczL2XQW) | [Fayzz](https://open.spotify.com/artist/3ZY9K4EgThtyd66T3156Tt) | [Days Gone](https://open.spotify.com/album/5Y6c45Zme1R0FiEce3Z6c0) | 6:11 | 2023-11-30 | 2023-12-22 |
+| [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 6:15 | 2024-03-03 |  |
 | [Time Machine](https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [DatBaddie](https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ) | [Time Machine](https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV) | 3:21 | 2023-09-15 | 2023-09-22 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 |  |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 |  |

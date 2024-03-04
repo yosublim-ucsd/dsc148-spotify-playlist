@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,419 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,426 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Discovery](https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Discovery](https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY) | 4:20 |
 | 80 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 |
 
-Snapshot ID: `MCw1ZjQwYjFjNDI5NjRkODFlYzc2MjIxMTRhZWVlMGQxMzBlOGRlNTQw`
+Snapshot ID: `MCw5NDYwZGIxYmM1ZDQwNmY1YmQ3NDQ3NTgzNWI2MzBhYWZmZTVhZDRm`

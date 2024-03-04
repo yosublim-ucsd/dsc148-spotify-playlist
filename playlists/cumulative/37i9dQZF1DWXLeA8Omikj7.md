@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-911 songs - 2 day 17 hr 28 min
+912 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [The Visitor](https://open.spotify.com/track/6cpOIIgk3nZ30imud87dGK) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [The Visitor](https://open.spotify.com/album/6DRui3Vpj3UrFYAdwwxpma) | 5:21 | 2019-06-19\* | 2022-04-17 |
 | [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 | 2019-05-26\* | 2024-01-04 |
 | [The Wave \- Radio Edit](https://open.spotify.com/track/26psGKOS3wq1K4D1aqGLd3) | [Good Lee](https://open.spotify.com/artist/5yOhJjcBmxlZxXI4clQqPM) | [The Wave](https://open.spotify.com/album/0t8Eyq5An1RO8s2sveygQy) | 4:05 | 2021-05-09 | 2022-07-28 |
+| [there is beauty when you allow yourself to see](https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [when the quiet comes](https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor) | 5:27 | 2024-03-01 |  |
 | [There is Nowhere](https://open.spotify.com/track/5RfgXcobIzarx0SXf0GGrZ) | [Spaces Between](https://open.spotify.com/artist/1TSp1wQomRLNzQd8bju17n) | [Black Blood](https://open.spotify.com/album/3t6EKSoRByx4yvbavuYBsB) | 4:30 | 2019-06-21 | 2020-10-22 |
 | [Thin Floors And Tall Ceilings](https://open.spotify.com/track/1zyMwU1NtRDkuQWthUbGsL) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 2:58 | 2019-06-19\* | 2020-10-22 |
 | [this again..](https://open.spotify.com/track/4jUTKYm8WUK3nUox8UuAau) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [this again..](https://open.spotify.com/album/5lEGj39nfCkHLp1hO4AUcF) | 2:15 | 2019-06-19\* | 2020-10-19 |
@@ -858,7 +859,7 @@
 | [Unfold](https://open.spotify.com/track/1pjhH2uNzPutjfnsfIJeM7) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [SOLEDAD opus 32 no.1](https://open.spotify.com/album/0ncYB6tqLOLK84L3IXBLX0) | 5:49 | 2023-09-29 |  |
 | [Unheard Melodies \- Edit](https://open.spotify.com/track/6OsFIzpJHX0hm6iKe6nBEk) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies \(Edit\)](https://open.spotify.com/album/6TVbn66BvAaVfrGo6viNJz) | 4:40 | 2021-10-01 | 2022-07-28 |
 | [Universal Intimacy](https://open.spotify.com/track/6XOfGeiQZ2KtsmAjONNiSf) | [Blackboxx](https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z) | [Universal Intimacy](https://open.spotify.com/album/5llHezVu0mwMid1enatLm5) | 3:20 | 2021-01-27 | 2022-07-29 |
-| [Universal Intimacy](https://open.spotify.com/track/54yAYWaPxtoashe2VHADMh) | [Blackboxx](https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z) | [Universal Intimacy](https://open.spotify.com/album/48O04HiwbV1hpsiJpvsUvv) | 3:20 | 2023-09-29 |  |
+| [Universal Intimacy](https://open.spotify.com/track/54yAYWaPxtoashe2VHADMh) | [Blackboxx](https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z) | [Universal Intimacy](https://open.spotify.com/album/48O04HiwbV1hpsiJpvsUvv) | 3:20 | 2023-09-29 | 2024-03-04 |
 | [Upside Down](https://open.spotify.com/track/7GXO38sbsOtZcL4C2HCEMa) | [Sickly](https://open.spotify.com/artist/3k24mdavtODXKeri9H3225) | [Upside Down](https://open.spotify.com/album/6vKbYd6hDaD4Zfbtc7dytA) | 2:48 | 2019-06-19\* | 2020-10-22 |
 | [Utica](https://open.spotify.com/track/59hbIFjDvlLvODQHpOFMr2) | [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Cast](https://open.spotify.com/album/30sesh6c0bgrUUBlPxlS16) | 1:57 | 2020-11-13 | 2022-06-30 |
 | [Vanishing](https://open.spotify.com/track/00UgFIO4qgu7i6DSC8AWhf) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Progressions](https://open.spotify.com/album/0tDBNxkzpitmbuLemjpwdi) | 1:16 | 2020-08-26 |  |

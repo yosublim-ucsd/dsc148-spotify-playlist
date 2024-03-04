@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 297434,
+  "num_followers": 297575,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzcxZjEyZjZiOTcyZTk0YzNjNTI0YmFlM2IwNzJlOGIwN2RmMTk4",
+  "snapshot_id": "MCw2ZDBiZWFkYmM2OWY4Y2E5ZTY3MTY1ZTJlMTJjMjBjMjYwYzVkZjQx",
   "tracks": [
     {
       "added_at": "2024-02-26 06:29:30",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Talking Timbuktu",
-        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+        "name": "Ak\u00f6",
+        "url": "https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx"
       },
       "artists": [
         {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+          "name": "Blick Bassy",
+          "url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E"
         }
       ],
-      "duration_ms": 429973,
-      "name": "Ai Du (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+      "duration_ms": 124054,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Ak\u00f6",
-        "url": "https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx"
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
       },
       "artists": [
         {
-          "name": "Blick Bassy",
-          "url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 124054,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr"
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Mogoya",
+      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Ali & Toumani",
         "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Mogoya",
-        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
-      },
-      "artists": [
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Mogoya",
-      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Bedia",
         "url": "https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 151826,
       "name": "Pk 18",
       "url": "https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Tarha Tadagh",
+      "url": "https://open.spotify.com/track/13mRdBKMwgZEHnwp72SbJg"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -287,38 +303,6 @@
       "duration_ms": 228782,
       "name": "Degg Gui (feat. Flavia Coelho & Fixi)",
       "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Tarha Tadagh",
-      "url": "https://open.spotify.com/track/13mRdBKMwgZEHnwp72SbJg"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Talking Timbuktu",
-        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Bonde (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -423,38 +407,18 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
       },
       "artists": [
         {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Segu Blue",
-        "url": "https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP"
-      },
-      "artists": [
-        {
-          "name": "Bassekou Kouyate",
-          "url": "https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ"
-        },
-        {
-          "name": "Ngoni ba",
-          "url": "https://open.spotify.com/artist/2wgNtcVFxnFkxrjpPZxXiw"
-        }
-      ],
-      "duration_ms": 106680,
-      "name": "Tabali te",
-      "url": "https://open.spotify.com/track/6F28CLAzz6JwhfkBjyEgKx"
+      "duration_ms": 328826,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -475,6 +439,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "Segu Blue",
+        "url": "https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP"
+      },
+      "artists": [
+        {
+          "name": "Bassekou Kouyate",
+          "url": "https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ"
+        },
+        {
+          "name": "Ngoni ba",
+          "url": "https://open.spotify.com/artist/2wgNtcVFxnFkxrjpPZxXiw"
+        }
+      ],
+      "duration_ms": 106680,
+      "name": "Tabali te",
+      "url": "https://open.spotify.com/track/6F28CLAzz6JwhfkBjyEgKx"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -519,22 +519,6 @@
       "duration_ms": 304080,
       "name": "Akaline",
       "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -575,6 +559,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Kidal",
         "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
-        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
-        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Haiyu - Bonus Track",
-      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
         "name": "Alkibar",
         "url": "https://open.spotify.com/album/3IB6LdmFdPmXT0WFDufx1D"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 274626,
       "name": "Alasidi",
       "url": "https://open.spotify.com/track/07S3LkvTWmZ8tq00EUnIPZ"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
+        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
+        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Haiyu - Bonus Track",
+      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
     },
     {
       "added_at": "2024-02-26 06:29:30",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-02-26 06:29:30",
       "album": {
+        "name": "Motherland - The Score",
+        "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
+      },
+      "artists": [
+        {
+          "name": "Sona Jobarteh",
+          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
+        }
+      ],
+      "duration_ms": 283964,
+      "name": "Hizab",
+      "url": "https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl"
+    },
+    {
+      "added_at": "2024-02-26 06:29:30",
+      "album": {
         "name": "Sequana",
         "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 257972,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
-    },
-    {
-      "added_at": "2024-02-26 06:29:30",
-      "album": {
-        "name": "Motherland - The Score",
-        "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
-      },
-      "artists": [
-        {
-          "name": "Sona Jobarteh",
-          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
-        }
-      ],
-      "duration_ms": 283964,
-      "name": "Hizab",
-      "url": "https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl"
     },
     {
       "added_at": "2024-02-26 06:29:30",

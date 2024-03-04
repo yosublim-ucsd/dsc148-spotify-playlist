@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 143214,
+  "2024-03-04": 143277,
   "date_first_scraped": "2023-07-10",
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
   "name": "Samba & \u00e1gua fresca",
@@ -2207,10 +2207,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
+    },
+    {
+      "album": {
+        "name": "Welcome To COPACABANA - The Brazilian Melting Pop",
+        "url": "https://open.spotify.com/album/0veFCfLzR5pOgNVXzAXlJQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392866,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/06LyRh04GT2eHMLShK3nsz"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 188725,
+  "2024-03-04": 188805,
   "date_first_scraped": "2023-11-11",
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
   "name": "This Is Rod Wave",
@@ -663,6 +663,28 @@
       "duration_ms": 163080,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
+    },
+    {
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Richer (feat. Polo G)",
+      "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
     },
     {
       "album": {

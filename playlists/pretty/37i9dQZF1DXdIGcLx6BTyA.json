@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31826,
+  "num_followers": 31833,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1",
+  "snapshot_id": "MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1",
   "tracks": [
     {
       "added_at": "2021-07-06 14:22:02",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Adobe Sessions",
-        "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 230012,
-      "name": "Loud and Heavy",
-      "url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Adobe Sessions",
+        "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 230012,
+      "name": "Loud and Heavy",
+      "url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -283,6 +283,38 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -315,38 +347,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 205973,
       "name": "Make It A Good One",
       "url": "https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -955,18 +955,22 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Rollin' On",
-        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
+        "name": "All American Made",
+        "url": "https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN"
       },
       "artists": [
         {
-          "name": "Jesse Daniel",
-          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Rollin' On",
-      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
+      "duration_ms": 379855,
+      "name": "Learning to Lose (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -987,22 +991,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "All American Made",
-        "url": "https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN"
+        "name": "Rollin' On",
+        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
         }
       ],
-      "duration_ms": 379855,
-      "name": "Learning to Lose (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
+      "duration_ms": 249706,
+      "name": "Rollin' On",
+      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
     },
     {
       "added_at": "2021-07-06 14:22:02",

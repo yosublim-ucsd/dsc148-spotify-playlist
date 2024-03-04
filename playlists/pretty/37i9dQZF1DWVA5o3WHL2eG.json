@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33017,
+  "num_followers": 33023,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZkODk0MWQ1MzIzZjMyZGIzMjE2YTEyMWE1ZjIxYTg1M2EyMjAz",
+  "snapshot_id": "MCxjZGE0MjkyNjE4MjE1ZjQ5ODhkOWEyMDg5YzM2OTA0ODdmMDJlOTE3",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
+      },
+      "artists": [
+        {
+          "name": "MOLLY SUE",
+          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "find mich",
         "url": "https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 124850,
       "name": "find mich",
       "url": "https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
-      },
-      "artists": [
-        {
-          "name": "MOLLY SUE",
-          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Verliebt",
-        "url": "https://open.spotify.com/album/3fF0G5h70G8Eng17dvBqHB"
-      },
-      "artists": [
-        {
-          "name": "Nessa",
-          "url": "https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Verliebt",
-      "url": "https://open.spotify.com/track/46js6V1sFA6QwINdtO00r9"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Like I Was Never Here",
         "url": "https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 218100,
       "name": "Like I Was Never Here",
       "url": "https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Verliebt",
+        "url": "https://open.spotify.com/album/3fF0G5h70G8Eng17dvBqHB"
+      },
+      "artists": [
+        {
+          "name": "Nessa",
+          "url": "https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Verliebt",
+      "url": "https://open.spotify.com/track/46js6V1sFA6QwINdtO00r9"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "stop",
-        "url": "https://open.spotify.com/album/2Z9pZ4SzER5upYlOafaVA2"
+        "name": "AMY WINEHOUZE",
+        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
       },
       "artists": [
         {
-          "name": "BABYJOY",
-          "url": "https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH"
-        },
-        {
-          "name": "Cato",
-          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
         }
       ],
-      "duration_ms": 166480,
-      "name": "stop",
-      "url": "https://open.spotify.com/track/6e11eeiUT3dUCoeg5OLvD5"
+      "duration_ms": 156147,
+      "name": "Gangster tanzen nicht",
+      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -467,34 +463,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "AMY WINEHOUZE",
-        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
+        "name": "stop",
+        "url": "https://open.spotify.com/album/2Z9pZ4SzER5upYlOafaVA2"
       },
       "artists": [
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 156147,
-      "name": "Gangster tanzen nicht",
-      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
-      },
-      "artists": [
+          "name": "BABYJOY",
+          "url": "https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH"
+        },
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
         }
       ],
-      "duration_ms": 187853,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
+      "duration_ms": 166480,
+      "name": "stop",
+      "url": "https://open.spotify.com/track/6e11eeiUT3dUCoeg5OLvD5"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -515,18 +499,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "boys who go to therapy",
-        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
       },
       "artists": [
         {
-          "name": "PENNY X",
-          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 148000,
-      "name": "boys who go to therapy",
-      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
+      "duration_ms": 187853,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "boys who go to therapy",
+        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
+      },
+      "artists": [
+        {
+          "name": "PENNY X",
+          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "boys who go to therapy",
+      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "Zeit steht",
         "url": "https://open.spotify.com/album/1yO3lLVbRky3el8nFBfWZw"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 200288,
       "name": "Zeit Steht",
       "url": "https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "MONEY BAGS",
-        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
-      },
-      "artists": [
-        {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
-        }
-      ],
-      "duration_ms": 150167,
-      "name": "MONEY BAGS",
-      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -607,6 +591,22 @@
       "duration_ms": 142988,
       "name": "SCHWARZLICHT",
       "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "MONEY BAGS",
+        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 150167,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Sie tanzt allein",
         "url": "https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204200,
       "name": "Sie tanzt allein",
       "url": "https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9"
     },
     {
       "added_at": "2024-02-14 00:00:00",

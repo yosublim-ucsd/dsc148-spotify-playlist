@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,545 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,803 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 15 | [Eeee](https://open.spotify.com/track/3bMVSeSOCkppgrhNZYMxZy) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:38 |
 | 16 | [LIPSI HI](https://open.spotify.com/track/5WRxMKZW5ioEvwLa39Ucjp) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [QUEEN OF RAP](https://open.spotify.com/album/4lvy6drxoogEkNehP9RLwR) | 1:50 |
 | 17 | [Famous](https://open.spotify.com/track/19HA9J80qZfIkAnp2g8N2S) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:54 |
-| 18 | [Marakesh](https://open.spotify.com/track/3PUSmmtTQct6kxCW5bG9lD) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG), [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN) | [GoodFellas](https://open.spotify.com/album/4sp5LD0Nt2t3eZGI70K26O) | 1:50 |
+| 18 | [Marakesh](https://open.spotify.com/track/1vvujQbNlS7jKcyYvBrGXC) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG), [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN) | [GoodFellas](https://open.spotify.com/album/2l293TecF04aBxVyazbxp0) | 1:50 |
 | 19 | [5:00 AM](https://open.spotify.com/track/3VrsQ6PAcP2eDJKhP1m7fa) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [5:00 AM](https://open.spotify.com/album/0j42aJ2EUyOPIZ9WwLznY5) | 2:19 |
 | 20 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 | 21 | [Zovite Doktore](https://open.spotify.com/track/7H0iSWyOdHwDZwqUAt0PlR) | [Relja](https://open.spotify.com/artist/6WDICXAWOWnKzhABntLJ09), [Nucci](https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze) | [Zovite Doktore](https://open.spotify.com/album/0pcM591iJUegc7VFk23eDG) | 2:58 |
-| 22 | [Coco](https://open.spotify.com/track/68UUvouqmZQk002KIUq5O6) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Coco](https://open.spotify.com/album/0eoghwWb7oDZW09yCNjyq0) | 2:57 |
+| 22 | [Coco](https://open.spotify.com/track/0nvYeHQGSWA8iY2C5bkhtq) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Coco](https://open.spotify.com/album/52hXUigH2JmLwoadPO5ZlU) | 2:57 |
 | 23 | [Odakle Sam Ja](https://open.spotify.com/track/0uAL0BS2rHCH9BwqYVnhp3) | [Coby](https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F), [Rimski](https://open.spotify.com/artist/431KEVcAHxXyC94cgMy9MZ) | [Odakle Sam Ja](https://open.spotify.com/album/2JeA3zDZqUedykLdgEezos) | 3:13 |
 | 24 | [Whoopty](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE) | 2:03 |
 | 25 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 35 | [Poljupci u zoru](https://open.spotify.com/track/5Upnv2VWlVqZlWrLGJ1c8L) | [Hurricane](https://open.spotify.com/artist/1vhshb6p5AJSSgAj2LLnpA) | [Poljupci u zoru](https://open.spotify.com/album/5JCq4hk6SJFVrmdeigwPdr) | 3:04 |
 | 36 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 37 | [Sava i Dunav](https://open.spotify.com/track/64IFiUCsksRiHrUwfPKw6H) | [Henny](https://open.spotify.com/artist/2y1hE8dFL9AyW2Zs7K5UiI), [Breskvica](https://open.spotify.com/artist/58Wsq5pz5tOvWXBR8hOfxg) | [Sava i Dunav](https://open.spotify.com/album/7nLuexYdfkseqBpYKpztJG) | 2:39 |
-| 38 | [Klinka](https://open.spotify.com/track/4nfgnTHd2tmzgBwHtPgVGj) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Kruna](https://open.spotify.com/album/6ZNPsnBBnsH1ya9ssMgriG) | 3:37 |
+| 38 | [Klinka](https://open.spotify.com/track/3tPb7MlApzaXGT8ClUm4oe) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Kruna](https://open.spotify.com/album/1pu1fUAXOcsGKf0ni52E2h) | 3:37 |
 | 39 | [Melodrama](https://open.spotify.com/track/2rNbjQH1kE7pKKdLSBfTzf) | [Cyrus Reynolds](https://open.spotify.com/artist/7HhHoOktRK8VtqM7Kx7DgK), [Connor Vance](https://open.spotify.com/artist/05Bc1I4oKFKN0MPIgHbyJ3) | [Song of the Ancients](https://open.spotify.com/album/0iib4gfpTUYIr6Qnxs1OiU) | 1:35 |
 | 40 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 41 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Roze](https://open.spotify.com/track/01N44Vg2hHhp2U4KXN7xzc) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/0fFVpuIf6YJudZ0Uukne82) | 3:04 |
 | 50 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 
-Snapshot ID: `MCwzNDllM2JhOGZkNjdmNjYyMTBlYjFjNTY0ZjM5MzU1ZDA5NTg3YTc5`
+Snapshot ID: `MCw2MjgwZGM5OWQxODUyOTUxYjhjMWMzNzg3OTI5ZGEzMzg3OTY4ZjI4`

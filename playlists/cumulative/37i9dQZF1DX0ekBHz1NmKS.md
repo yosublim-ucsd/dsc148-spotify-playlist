@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,059 songs - 2 day 7 hr 34 min
+1,060 songs - 2 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Den sista sången](https://open.spotify.com/track/7FJTO6oq9y2U9y5mtTPNGU) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Den sista sången](https://open.spotify.com/album/1BSCYFMPa8Vdano6qM0M9G) | 2:21 | 2024-02-15 |  |
 | [Desdemona](https://open.spotify.com/track/04BZvhzMnVcoAk6e6HkFyz) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Desdemona](https://open.spotify.com/album/177I1pOtq136S60hS1XR6A) | 3:16 | 2021-12-16 | 2022-04-02 |
 | [Det gick för fort](https://open.spotify.com/track/2IP86vuYJ7yaEEk0Z6dbI5) | [NIMT](https://open.spotify.com/artist/5lFSHgxz53iq69mFl0gJuY) | [Det gick för fort](https://open.spotify.com/album/1x1zdgftoj6RTOoRvL3ABa) | 2:34 | 2023-11-16 | 2024-02-09 |
-| [Det här ska dom få fa\-an för \- Från filmen "Håkan Bråkan 2"](https://open.spotify.com/track/2oBc1QrxsWLSQ6rPekjb2T) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Det här ska dom få fa\-an för \(Från filmen "Håkan Bråkan 2"\)](https://open.spotify.com/album/6kW6gQlPBa53JAczZVaU8O) | 2:55 | 2024-02-08 |  |
+| [Det här ska dom få fa\-an för \- Från filmen "Håkan Bråkan 2"](https://open.spotify.com/track/2oBc1QrxsWLSQ6rPekjb2T) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Det här ska dom få fa\-an för \(Från filmen "Håkan Bråkan 2"\)](https://open.spotify.com/album/6kW6gQlPBa53JAczZVaU8O) | 2:55 | 2024-02-08 | 2024-03-04 |
 | [Det kommer bli bra](https://open.spotify.com/track/5U5hlK1E0ozMOtd1cynRnH) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Paradis](https://open.spotify.com/album/5n92UT4wznUdPlFx6sw7Ir) | 2:50 | 2022-09-15 | 2022-09-30 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Det var då, det var det](https://open.spotify.com/track/7iR7p8Gop4fQz1bjyOIkla) | [Sveavägen](https://open.spotify.com/artist/4rvYitP1XmElnNQyQPEw9g) | [Det var då, det var det](https://open.spotify.com/album/3KNWjo9bMW6leyuOUFSWo6) | 3:09 | 2021-12-16 | 2022-01-14 |
@@ -696,6 +696,7 @@
 | [Painkiller](https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Painkiller](https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI) | 2:24 | 2023-11-30 | 2024-02-09 |
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-06-21 |
 | [Pannkaksfrukost](https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Pannkaksfrukost](https://open.spotify.com/album/24BGAjPh4QNr4brfBFgeM0) | 2:14 | 2024-02-02 | 2024-03-03 |
+| [Pappa](https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Pappa](https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek) | 3:01 | 2024-03-02 |  |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |

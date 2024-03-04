@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 195702,
+  "2024-03-04": 195700,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -5710,6 +5710,24 @@
     },
     {
       "album": {
+        "name": "F\u00e5nga natten",
+        "url": "https://open.spotify.com/album/3RFGJ7SIzjuvnSl2V1ZeQF"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159993,
+      "name": "F\u00e5nga natten",
+      "url": "https://open.spotify.com/track/7dVIISnf2eOzvhJwYk8svJ"
+    },
+    {
+      "album": {
         "name": "F\u00f6ljer du med mig?",
         "url": "https://open.spotify.com/album/1c29dfWK6lleOZ7St3oxbi"
       },
@@ -9073,7 +9091,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 203676,
       "name": "JUSSI",
       "url": "https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE"
@@ -9761,6 +9779,24 @@
       "duration_ms": 142816,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/6DS1xAYtMbwfMx0b8IlYIk"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/397UhnGh97cGwsx4Gezkja"
+      },
+      "artists": [
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6H19ohMkGqD9PmcUUa0MdF"
     },
     {
       "album": {
@@ -11031,7 +11067,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 154155,
       "name": "Miles away",
       "url": "https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF"
@@ -11291,7 +11327,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 154374,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31"
@@ -12823,7 +12859,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 134000,
       "name": "Pannkaksfrukost",
       "url": "https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7"
@@ -14719,6 +14755,24 @@
       "duration_ms": 171084,
       "name": "Smile for You",
       "url": "https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo"
+    },
+    {
+      "album": {
+        "name": "Smutsiga gatan",
+        "url": "https://open.spotify.com/album/3eUh5F1nyhrzRQWPSUfNsW"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Smutsiga gatan",
+      "url": "https://open.spotify.com/track/1I3mihzVo5lliG4Vit9Yhk"
     },
     {
       "album": {
@@ -17021,6 +17075,28 @@
       "duration_ms": 197333,
       "name": "THERAPY",
       "url": "https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2"
+    },
+    {
+      "album": {
+        "name": "There To Me",
+        "url": "https://open.spotify.com/album/0DxIxH5Yv3K5dj4SDvwity"
+      },
+      "artists": [
+        {
+          "name": "OLSSON",
+          "url": "https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "There To Me",
+      "url": "https://open.spotify.com/track/7IysNJRQHLK7bszZBiosw2"
     },
     {
       "album": {

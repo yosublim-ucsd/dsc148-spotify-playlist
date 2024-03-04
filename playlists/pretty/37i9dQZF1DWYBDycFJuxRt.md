@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Saucy Dog \*👉 <a href="https://spice.eplus.jp/articles/326671?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,021 likes - 79 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,063 likes - 79 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [プリズム](https://open.spotify.com/track/0LHstseQM1R0i3rCHD1Q8x) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [プリズム](https://open.spotify.com/album/1j0U81lNEF11yzsqPQAVCN) | 3:55 |
 | 79 | [Umaikotodekiteru \-That's How it Works\- \- Vocalful ver.](https://open.spotify.com/track/0xZVvdQNQI9jDmLgfQ36K4) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Utamamire \-Vocalful Versions\-](https://open.spotify.com/album/6sib0I4ID9cI5SvNwUiT8H) | 3:40 |
 
-Snapshot ID: `MCw3NzU5NDY0ODYzOGZiNWEwMzQ3OGYzMzc4MjVhN2RjZDNlOTg4OGNj`
+Snapshot ID: `MCw1NGUyNDhmODA0YTE0YWZlNGUzNmM5OTMzMTcyNGQ0Njc4MzhlYjVl`

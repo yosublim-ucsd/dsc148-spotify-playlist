@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Bronson Diamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,946 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,998 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [Chill](https://open.spotify.com/track/1kTYELly3Zlf2zFWFu2oW4) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Any Less Anymore](https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5) | 3:06 |
 | 85 | [Get You Backroads](https://open.spotify.com/track/0FqqU2QL808TP8TLFgBYVQ) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Get You Backroads](https://open.spotify.com/album/56fBEp4OU1DW43AxHZfLae) | 3:08 |
 
-Snapshot ID: `MCwwNDc2NmUzYWMwMDBlNzMwM2E0ZWU3YWI3MjJhNDg3ZmVlY2JkNjY2`
+Snapshot ID: `MCwyMWZjOTcwMjAyYWNmYmY5ZjQ2MzEwNGY1YmQxZGRmNjYxNGQxZGFk`

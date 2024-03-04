@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Mildlife\. Artwork: Isu Kim
 
-3,123 songs - 7 day 3 hr 25 min
+3,124 songs - 7 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3121,7 +3121,8 @@
 | [Your New Girl](https://open.spotify.com/track/5KPxwy1XLHvLBcc4Rnexyp) | [FELONY.](https://open.spotify.com/artist/1i9pNz3sJuxa6vWz60Dgd4) | [Your New Girl](https://open.spotify.com/album/50BNWynXrXLgeVo52aSTgZ) | 4:33 | 2023-07-19 | 2023-08-10 |
 | [Your Show](https://open.spotify.com/track/5osR0GYvGYTvCNhBjJWpjX) | [Lisa Caruso](https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T) | [Your Show](https://open.spotify.com/album/6NW8khlJaowZavJ0l15QfT) | 3:29 | 2023-08-23 | 2023-09-14 |
 | [your touch \(sped up\)](https://open.spotify.com/track/77sjRcB3jeAeZ8D2V7Gmsy) | [zandros](https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q), [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [your touch \(sped up\)](https://open.spotify.com/album/2ITuWcPjv1GNjXagN3rr3Z) | 2:20 | 2022-05-11 | 2022-06-01 |
-| [Yourself](https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/1v7TNMLqaXnJPcCASnFVps) | 6:22 | 2024-01-25 |  |
+| [Yourself](https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/1v7TNMLqaXnJPcCASnFVps) | 6:22 | 2024-01-25 | 2024-03-04 |
+| [Yourself](https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 6:22 | 2024-03-01 |  |
 | [Yourself](https://open.spotify.com/track/6haJYpF2OvFMn4OhQJcO6I) | [Ruby May Moon](https://open.spotify.com/artist/0EXsIxcmyOEr9VxKwhaatp) | [Ruby May Moments](https://open.spotify.com/album/3F5evqDcelOp5BDuJyIjUo) | 6:41 | 2022-05-25 | 2023-01-13 |
 | [Youth Disaster](https://open.spotify.com/track/4apiK6MzpIWYhd7SeBWBOG) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf) | [Youth Disaster](https://open.spotify.com/album/0g9ozbaaQNc2SnV3pyaXH4) | 3:27 | 2022-03-01 | 2022-03-24 |
 | [YUCK! \- Short Stack Version](https://open.spotify.com/track/15tcUWHdxMrNPR2Qgsmprh) | [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf), [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [YUCK! \(Short Stack Version\)](https://open.spotify.com/album/38Oy7JQtqO6RiljdH0TnRw) | 2:47 | 2023-09-06 | 2023-09-21 |

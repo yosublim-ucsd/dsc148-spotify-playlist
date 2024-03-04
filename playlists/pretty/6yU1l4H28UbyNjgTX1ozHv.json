@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTEzMiw5M2MxOTY4MWVjYWI5YjAyMThiOTM0NjUyNWIxNWFkNWExMjUyYjg5",
+  "snapshot_id": "MTIxOCwwMWRjNThjMDJlMzE1OTgxMThlMzdkODhiYzdjMzExNzVhNGQ4Y2Mx",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO"
     },
     {
-      "added_at": "2019-12-21 07:31:27",
+      "added_at": "2024-03-03 18:12:09",
       "album": {
-        "name": "Walking On Sunshine",
-        "url": "https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE"
+        "name": "Lean on Me",
+        "url": "https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw"
       },
       "artists": [
         {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+          "name": "Joseph Vincent",
+          "url": "https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I"
         }
       ],
-      "duration_ms": 151768,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH"
+      "duration_ms": 115211,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz"
     },
     {
       "added_at": "2023-11-12 08:09:39",
@@ -57,86 +57,6 @@
       "url": "https://open.spotify.com/track/7p6wCoyhLOd3njCFK9hYVP"
     },
     {
-      "added_at": "2024-01-12 12:53:02",
-      "album": {
-        "name": "You Sexy Thing (Acoustic)",
-        "url": "https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z"
-      },
-      "artists": [
-        {
-          "name": "Thomas Law",
-          "url": "https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "You Sexy Thing - Acoustic",
-      "url": "https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN"
-    },
-    {
-      "added_at": "2024-02-19 06:55:59",
-      "album": {
-        "name": "I'm a Believer (Acoustic)",
-        "url": "https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F"
-      },
-      "artists": [
-        {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
-        }
-      ],
-      "duration_ms": 173050,
-      "name": "I'm a Believer - Acoustic",
-      "url": "https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA"
-    },
-    {
-      "added_at": "2023-05-09 06:16:07",
-      "album": {
-        "name": "Pop Acoustic Chill Out",
-        "url": "https://open.spotify.com/album/1oPwxUkOSJPfD7mXPWKC1v"
-      },
-      "artists": [
-        {
-          "name": "Nora & Will",
-          "url": "https://open.spotify.com/artist/7cvGxq0fxExeN11zWh59OL"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Go Your Own Way (Acoustic)",
-      "url": "https://open.spotify.com/track/5nQtUF2gQhSvGk8ENAFAr5"
-    },
-    {
-      "added_at": "2023-10-07 07:15:26",
-      "album": {
-        "name": "Johnny B. Goode (Acoustic)",
-        "url": "https://open.spotify.com/album/27WsOWzMOLYQvpR3I5fy0z"
-      },
-      "artists": [
-        {
-          "name": "Mack Myles",
-          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
-        }
-      ],
-      "duration_ms": 134156,
-      "name": "Johnny B. Goode - Acoustic",
-      "url": "https://open.spotify.com/track/7L1QTZWRJNnbOO7qyHUEeB"
-    },
-    {
-      "added_at": "2023-08-04 07:20:59",
-      "album": {
-        "name": "This Will Be (An Everlasting Love) [Acoustic]",
-        "url": "https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp"
-      },
-      "artists": [
-        {
-          "name": "Mateo Oxley",
-          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
-        }
-      ],
-      "duration_ms": 139617,
-      "name": "This Will Be (An Everlasting Love) - Acoustic",
-      "url": "https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk"
-    },
-    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "True Colours",
@@ -153,40 +73,20 @@
       "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
-      "added_at": "2023-10-27 07:07:48",
+      "added_at": "2024-01-12 12:53:02",
       "album": {
-        "name": "Up Where We Belong (Acoustic)",
-        "url": "https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m"
+        "name": "You Sexy Thing (Acoustic)",
+        "url": "https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z"
       },
       "artists": [
         {
-          "name": "Callum J Wright",
-          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
-        },
-        {
-          "name": "Molly Hocking",
-          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+          "name": "Thomas Law",
+          "url": "https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO"
         }
       ],
-      "duration_ms": 206096,
-      "name": "Up Where We Belong - Acoustic",
-      "url": "https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt"
-    },
-    {
-      "added_at": "2023-11-17 13:33:03",
-      "album": {
-        "name": "Let's Stay Together (Acoustic)",
-        "url": "https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb"
-      },
-      "artists": [
-        {
-          "name": "Blame Jones",
-          "url": "https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY"
-        }
-      ],
-      "duration_ms": 182616,
-      "name": "Let's Stay Together - Acoustic",
-      "url": "https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM"
+      "duration_ms": 192913,
+      "name": "You Sexy Thing - Acoustic",
+      "url": "https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -209,20 +109,104 @@
       "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
     },
     {
-      "added_at": "2023-04-21 20:15:36",
+      "added_at": "2024-02-19 06:55:59",
       "album": {
-        "name": "California Dreamin' (Acoustic)",
-        "url": "https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg"
+        "name": "I'm a Believer (Acoustic)",
+        "url": "https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F"
       },
       "artists": [
         {
-          "name": "Beth",
-          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
         }
       ],
-      "duration_ms": 152158,
-      "name": "California Dreamin' - Acoustic",
-      "url": "https://open.spotify.com/track/5dx6uQJsxVDQSyQ2E1cDBw"
+      "duration_ms": 173050,
+      "name": "I'm a Believer - Acoustic",
+      "url": "https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
+    },
+    {
+      "added_at": "2023-10-07 07:15:26",
+      "album": {
+        "name": "Johnny B. Goode (Acoustic)",
+        "url": "https://open.spotify.com/album/27WsOWzMOLYQvpR3I5fy0z"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "duration_ms": 134156,
+      "name": "Johnny B. Goode - Acoustic",
+      "url": "https://open.spotify.com/track/7L1QTZWRJNnbOO7qyHUEeB"
+    },
+    {
+      "added_at": "2023-10-27 07:07:48",
+      "album": {
+        "name": "Up Where We Belong (Acoustic)",
+        "url": "https://open.spotify.com/album/6Ph3mgUyosIR8nZ84rUJ1m"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        },
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        }
+      ],
+      "duration_ms": 206096,
+      "name": "Up Where We Belong - Acoustic",
+      "url": "https://open.spotify.com/track/5RRPw7aHDXmbKjaaOIzuLt"
+    },
+    {
+      "added_at": "2020-04-27 06:40:28",
+      "album": {
+        "name": "What a Time To Be Alive",
+        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Just You and I - Acoustic",
+      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
+    },
+    {
+      "added_at": "2023-11-17 13:33:03",
+      "album": {
+        "name": "Let's Stay Together (Acoustic)",
+        "url": "https://open.spotify.com/album/1YfNCzcnrr7nbQGvttzpkb"
+      },
+      "artists": [
+        {
+          "name": "Blame Jones",
+          "url": "https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY"
+        }
+      ],
+      "duration_ms": 182616,
+      "name": "Let's Stay Together - Acoustic",
+      "url": "https://open.spotify.com/track/2BUbXK85KECrYtSWEzoxFM"
     },
     {
       "added_at": "2024-02-09 13:08:23",
@@ -243,18 +227,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
+      "duration_ms": 282093,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H"
     },
     {
       "added_at": "2024-01-12 12:39:52",
@@ -293,20 +277,20 @@
       "url": "https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4"
     },
     {
-      "added_at": "2020-04-27 06:40:28",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "What a Time To Be Alive",
-        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa"
       },
       "artists": [
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 198101,
-      "name": "Just You and I - Acoustic",
-      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
+      "duration_ms": 193280,
+      "name": "Last Request (Recorded at Bush Studios) - Live; Acoustic",
+      "url": "https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ"
     },
     {
       "added_at": "2023-04-01 05:48:56",
@@ -343,18 +327,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t"
       },
       "artists": [
         {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
         }
       ],
-      "duration_ms": 282093,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H"
+      "duration_ms": 243093,
+      "name": "Say Something - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV"
     },
     {
       "added_at": "2024-02-09 13:21:12",
@@ -371,6 +355,22 @@
       "duration_ms": 204175,
       "name": "Halo - Acoustic",
       "url": "https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
     },
     {
       "added_at": "2023-12-09 06:57:24",
@@ -391,18 +391,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Live Sessions",
-        "url": "https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa"
+        "name": "Every Second Counts",
+        "url": "https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Last Request (Recorded at Bush Studios) - Live; Acoustic",
-      "url": "https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ"
+      "duration_ms": 233280,
+      "name": "Hey There Delilah - Bonus Track",
+      "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN"
     },
     {
       "added_at": "2023-12-15 05:59:36",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt"
     },
     {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+    },
+    {
       "added_at": "2023-03-23 11:57:58",
       "album": {
         "name": "Flowers (Acoustic)",
@@ -439,6 +455,22 @@
       "duration_ms": 223712,
       "name": "Flowers - Acoustic",
       "url": "https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Me Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
       "added_at": "2023-05-29 04:50:01",
@@ -459,18 +491,54 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t"
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 243093,
-      "name": "Say Something - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV"
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+    },
+    {
+      "added_at": "2023-09-10 20:00:23",
+      "album": {
+        "name": "You Get What You Give (Acoustic)",
+        "url": "https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj"
+      },
+      "artists": [
+        {
+          "name": "Plamina",
+          "url": "https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp"
+        }
+      ],
+      "duration_ms": 190271,
+      "name": "You Get What You Give - Acoustic",
+      "url": "https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Make Me (Cry) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Make Me (Cry) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
     },
     {
       "added_at": "2024-02-09 13:07:31",
@@ -489,6 +557,26 @@
       "url": "https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i"
     },
     {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Perfect Strangers (Acoustic)",
+        "url": "https://open.spotify.com/album/3q6OSra2h56Q7YMHNgZr3P"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/10g2KYRNWnxFLfjIqMTRyV"
+    },
+    {
       "added_at": "2023-02-26 20:22:41",
       "album": {
         "name": "I Forgot That You Existed (Acoustic)",
@@ -505,6 +593,22 @@
       "url": "https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c"
     },
     {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
       "added_at": "2023-05-29 04:52:17",
       "album": {
         "name": "I Wanna Dance with Somebody (Who Loves Me) [Acoustic]",
@@ -519,6 +623,30 @@
       "duration_ms": 192544,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - Acoustic",
       "url": "https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Wrecking Ball (Acoustic)",
+        "url": "https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN"
+      },
+      "artists": [
+        {
+          "name": "Two Worlds",
+          "url": "https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB"
+        },
+        {
+          "name": "Nick Voelker",
+          "url": "https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3"
+        },
+        {
+          "name": "Adiel Mitchell",
+          "url": "https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Wrecking Ball - Acoustic",
+      "url": "https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE"
     },
     {
       "added_at": "2023-01-06 21:30:36",
@@ -543,18 +671,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
+      "duration_ms": 261666,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
     },
     {
       "added_at": "2023-09-02 18:26:06",
@@ -577,40 +705,20 @@
       "url": "https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP"
     },
     {
-      "added_at": "2023-04-10 06:01:00",
-      "album": {
-        "name": "True Colours (Acoustic)",
-        "url": "https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O"
-      },
-      "artists": [
-        {
-          "name": "Amber Leigh Irish",
-          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
-        },
-        {
-          "name": "Paul Canning",
-          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
-        }
-      ],
-      "duration_ms": 186687,
-      "name": "True Colours - Acoustic",
-      "url": "https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos"
-    },
-    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Every Second Counts",
-        "url": "https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 233280,
-      "name": "Hey There Delilah - Bonus Track",
-      "url": "https://open.spotify.com/track/3DWOTqMQGp5q75fnVsWwaN"
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
     },
     {
       "added_at": "2024-02-09 13:18:55",
@@ -629,52 +737,20 @@
       "url": "https://open.spotify.com/track/3LfAycjUKSLw3mCzMXCpO1"
     },
     {
-      "added_at": "2023-03-31 06:37:46",
-      "album": {
-        "name": "Respect (Acoustic)",
-        "url": "https://open.spotify.com/album/2V4GPW1tBQjSXYycFOYnHI"
-      },
-      "artists": [
-        {
-          "name": "Jae Hall",
-          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
-        }
-      ],
-      "duration_ms": 156321,
-      "name": "Respect - Acoustic",
-      "url": "https://open.spotify.com/track/22ihU3hpmt2tTp68Ns7yMi"
-    },
-    {
-      "added_at": "2023-09-10 20:00:23",
-      "album": {
-        "name": "You Get What You Give (Acoustic)",
-        "url": "https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj"
-      },
-      "artists": [
-        {
-          "name": "Plamina",
-          "url": "https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp"
-        }
-      ],
-      "duration_ms": 190271,
-      "name": "You Get What You Give - Acoustic",
-      "url": "https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH"
-    },
-    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Me Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
+      "duration_ms": 190013,
+      "name": "You're Gonna Live Forever in Me",
+      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
     },
     {
       "added_at": "2023-05-06 10:44:09",
@@ -699,18 +775,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+        "name": "Mercy (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+      "duration_ms": 221200,
+      "name": "Mercy - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr"
     },
     {
       "added_at": "2023-01-20 21:23:10",
@@ -731,38 +807,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi"
+        "name": "Bitter Sweet Symphony",
+        "url": "https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
-    },
-    {
-      "added_at": "2024-02-23 19:37:30",
-      "album": {
-        "name": "Never Gonna Give You Up (Acoustic Live Session)",
-        "url": "https://open.spotify.com/album/6Ol46XddMOINuLH5liivU0"
-      },
-      "artists": [
-        {
-          "name": "Bottlemoth",
-          "url": "https://open.spotify.com/artist/08Ed5qtdJSM4RqlqhPbgeq"
-        },
-        {
-          "name": "STABAL",
-          "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Never Gonna Give You Up - Acoustic Live Session",
-      "url": "https://open.spotify.com/track/0YotL4I236UOrsXNab0Twe"
+      "duration_ms": 202035,
+      "name": "Bitter Sweet Symphony",
+      "url": "https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx"
     },
     {
       "added_at": "2024-02-02 12:51:22",
@@ -783,70 +839,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Make Me (Cry) [Acoustic Version]",
-        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
+        "name": "Heaven Is a Place on Earth",
+        "url": "https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Make Me (Cry) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 261666,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
-    },
-    {
-      "added_at": "2023-02-27 06:41:19",
-      "album": {
-        "name": "Dynamite (Acoustic)",
-        "url": "https://open.spotify.com/album/3LkWkVr25xk7njvmrYHuML"
-      },
-      "artists": [
-        {
-          "name": "Hannah's Yard",
-          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
-        }
-      ],
-      "duration_ms": 155904,
-      "name": "Dynamite - Acoustic",
-      "url": "https://open.spotify.com/track/7pgxSWFaZqPukb2oes8M5W"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Bitter Sweet Symphony",
-        "url": "https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 202035,
-      "name": "Bitter Sweet Symphony",
-      "url": "https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx"
+      "duration_ms": 193333,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY"
     },
     {
       "added_at": "2021-10-11 18:26:39",
@@ -879,22 +883,6 @@
       "duration_ms": 166917,
       "name": "All the Small Things - Acoustic",
       "url": "https://open.spotify.com/track/3l4bwhzSFGV2WSE475EOnh"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Heaven Is a Place on Earth",
-        "url": "https://open.spotify.com/album/0kkxOv9HJxOquoIxt0QDPm"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/08OaKNPulJY5P2czPt7PKY"
     },
     {
       "added_at": "2021-08-01 19:07:15",
@@ -933,36 +921,20 @@
       "url": "https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy"
     },
     {
-      "added_at": "2019-10-13 06:38:53",
+      "added_at": "2024-02-09 13:25:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+        "name": "I'd Do Anything for Love (But I Won't Do That) [Acoustic]",
+        "url": "https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
         }
       ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2023-03-17 08:19:52",
-      "album": {
-        "name": "Daydream Believer (Acoustic)",
-        "url": "https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE"
-      },
-      "artists": [
-        {
-          "name": "Grace George",
-          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
-        }
-      ],
-      "duration_ms": 133220,
-      "name": "Daydream Believer - Acoustic",
-      "url": "https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy"
+      "duration_ms": 178213,
+      "name": "I'd Do Anything for Love (But I Won't Do That) - Acoustic",
+      "url": "https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR"
     },
     {
       "added_at": "2020-10-01 14:30:17",
@@ -981,20 +953,36 @@
       "url": "https://open.spotify.com/track/4qxXipoHUokPaPX1YWs47q"
     },
     {
-      "added_at": "2024-02-09 13:25:08",
+      "added_at": "2023-03-24 06:59:18",
       "album": {
-        "name": "I'd Do Anything for Love (But I Won't Do That) [Acoustic]",
-        "url": "https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY"
+        "name": "Everybody Wants to Rule the World (Acoustic)",
+        "url": "https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a"
       },
       "artists": [
         {
-          "name": "Mateo Oxley",
-          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
         }
       ],
-      "duration_ms": 178213,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Acoustic",
-      "url": "https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR"
+      "duration_ms": 144764,
+      "name": "Everybody Wants to Rule the World - Acoustic",
+      "url": "https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav"
+    },
+    {
+      "added_at": "2021-08-05 23:13:23",
+      "album": {
+        "name": "My Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Alvord",
+          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1045,70 +1033,6 @@
       "url": "https://open.spotify.com/track/5IaTbmfClU9YmW9vjZr86l"
     },
     {
-      "added_at": "2023-03-24 06:59:18",
-      "album": {
-        "name": "Everybody Wants to Rule the World (Acoustic)",
-        "url": "https://open.spotify.com/album/42v30LBLeJfQDdedtZCD4a"
-      },
-      "artists": [
-        {
-          "name": "Kevin Simm",
-          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
-        }
-      ],
-      "duration_ms": 144764,
-      "name": "Everybody Wants to Rule the World - Acoustic",
-      "url": "https://open.spotify.com/track/3wy5ytqKxQxUYFgx5NAFav"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo"
-    },
-    {
-      "added_at": "2021-08-05 23:13:23",
-      "album": {
-        "name": "My Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Alvord",
-          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Live Acoustic EP",
-        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209741,
-      "name": "New Rules - Piano, Acoustic; Live",
-      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
-    },
-    {
       "added_at": "2023-02-24 07:10:53",
       "album": {
         "name": "Complicated (Acoustic)",
@@ -1127,18 +1051,18 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/5og5ncNgq9dH4JBauZyCBs"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0Z0gcy8fZUhsyPCgrPJwHo"
     },
     {
       "added_at": "2021-05-28 15:10:40",
@@ -1159,38 +1083,50 @@
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Cover Collaborations, Vol. 3",
-        "url": "https://open.spotify.com/album/23tEU9zTAsxwR2fbY2dT8K"
+        "name": "Live Acoustic EP",
+        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 260186,
-      "name": "Photograph (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/6Pbh08Uo0o51ha2JOW8KtE"
+      "duration_ms": 209741,
+      "name": "New Rules - Piano, Acoustic; Live",
+      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
+    },
+    {
+      "added_at": "2024-01-12 13:22:33",
+      "album": {
+        "name": "Return of the Mack (Acoustic)",
+        "url": "https://open.spotify.com/album/7N03j9hxXiVFVJFcsvRvU3"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "duration_ms": 147058,
+      "name": "Return of the Mack - Acoustic",
+      "url": "https://open.spotify.com/track/7M06L3WJ9yw5nuIVxFA2km"
     },
     {
       "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe"
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
     },
     {
       "added_at": "2022-10-14 20:22:53",
@@ -1213,20 +1149,76 @@
       "url": "https://open.spotify.com/track/2txpvBA1zpZAfWS5AUZYLR"
     },
     {
-      "added_at": "2024-01-12 13:22:33",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Return of the Mack (Acoustic)",
-        "url": "https://open.spotify.com/album/7N03j9hxXiVFVJFcsvRvU3"
+        "name": "Cover Collaborations, Vol. 3",
+        "url": "https://open.spotify.com/album/23tEU9zTAsxwR2fbY2dT8K"
       },
       "artists": [
         {
-          "name": "Mack Myles",
-          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 147058,
-      "name": "Return of the Mack - Acoustic",
-      "url": "https://open.spotify.com/track/7M06L3WJ9yw5nuIVxFA2km"
+      "duration_ms": 260186,
+      "name": "Photograph (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/6Pbh08Uo0o51ha2JOW8KtE"
+    },
+    {
+      "added_at": "2023-01-06 21:32:57",
+      "album": {
+        "name": "All I Have to Do Is Dream (Acoustic)",
+        "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "duration_ms": 132490,
+      "name": "All I Have to Do Is Dream - Acoustic",
+      "url": "https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD"
+    },
+    {
+      "added_at": "2019-10-13 06:38:53",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 234135,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
+    },
+    {
+      "added_at": "2021-08-20 06:14:49",
+      "album": {
+        "name": "I Knew You Were Waiting (For Me) [Acoustic]",
+        "url": "https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "I Knew You Were Waiting (For Me) - Acoustic",
+      "url": "https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1277,22 +1269,6 @@
       "url": "https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P"
     },
     {
-      "added_at": "2023-01-06 21:32:57",
-      "album": {
-        "name": "All I Have to Do Is Dream (Acoustic)",
-        "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
-      },
-      "artists": [
-        {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
-        }
-      ],
-      "duration_ms": 132490,
-      "name": "All I Have to Do Is Dream - Acoustic",
-      "url": "https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD"
-    },
-    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "Linger (Acoustic)",
@@ -1307,26 +1283,6 @@
       "duration_ms": 166666,
       "name": "Linger (Acoustic)",
       "url": "https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3"
-    },
-    {
-      "added_at": "2021-08-20 06:14:49",
-      "album": {
-        "name": "I Knew You Were Waiting (For Me) [Acoustic]",
-        "url": "https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        },
-        {
-          "name": "Hannah's Yard",
-          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "I Knew You Were Waiting (For Me) - Acoustic",
-      "url": "https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1441,20 +1397,20 @@
       "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
     },
     {
-      "added_at": "2020-08-08 06:56:17",
+      "added_at": "2021-04-23 07:12:43",
       "album": {
-        "name": "The Best (Acoustic)",
-        "url": "https://open.spotify.com/album/0zydjTR0i385HRexojYc5s"
+        "name": "I Still Haven't Found What I'm Looking For (Acoustic)",
+        "url": "https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB"
       },
       "artists": [
         {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+          "name": "Hailey Gardiner",
+          "url": "https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc"
         }
       ],
-      "duration_ms": 218542,
-      "name": "The Best - Acoustic",
-      "url": "https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG"
+      "duration_ms": 174651,
+      "name": "I Still Haven't Found What I'm Looking For - Acoustic",
+      "url": "https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1473,20 +1429,20 @@
       "url": "https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS"
     },
     {
-      "added_at": "2021-04-23 07:12:43",
+      "added_at": "2023-09-30 12:29:38",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For (Acoustic)",
-        "url": "https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB"
+        "name": "Lay All Your Love On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq"
       },
       "artists": [
         {
-          "name": "Hailey Gardiner",
-          "url": "https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc"
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
         }
       ],
-      "duration_ms": 174651,
-      "name": "I Still Haven't Found What I'm Looking For - Acoustic",
-      "url": "https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY"
+      "duration_ms": 164934,
+      "name": "Lay All Your Love On Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1519,22 +1475,6 @@
       "duration_ms": 222972,
       "name": "Only You - Acoustic",
       "url": "https://open.spotify.com/track/1VhvvVUUsdvHOg03lGTARR"
-    },
-    {
-      "added_at": "2023-09-30 12:29:38",
-      "album": {
-        "name": "Lay All Your Love On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/23eHCOC9NKTFtAf8dX3VMq"
-      },
-      "artists": [
-        {
-          "name": "Molly Hocking",
-          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
-        }
-      ],
-      "duration_ms": 164934,
-      "name": "Lay All Your Love On Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Id2vDi41Z3NhY0vM1GMT9"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1621,20 +1561,20 @@
       "url": "https://open.spotify.com/track/4f13aRetwXvYfiALLZyQg0"
     },
     {
-      "added_at": "2020-11-14 09:26:52",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Hey, Soul Sister (Acoustic)",
-        "url": "https://open.spotify.com/album/32lSvUMKuLxKeQKRU1stmB"
+        "name": "Mr Blue Sky (Acoustic)",
+        "url": "https://open.spotify.com/album/0qemjRVIImUJxiEvOo8mfZ"
       },
       "artists": [
         {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
         }
       ],
-      "duration_ms": 198762,
-      "name": "Hey, Soul Sister - Acoustic",
-      "url": "https://open.spotify.com/track/0kIqUDiAD6k4Zu1RdMPFmw"
+      "duration_ms": 181147,
+      "name": "Mr Blue Sky - Acoustic",
+      "url": "https://open.spotify.com/track/2HUQikp6TKzN4lOAaXjqAe"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1653,20 +1593,20 @@
       "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
-      "added_at": "2019-10-13 06:38:53",
+      "added_at": "2020-12-24 17:09:03",
       "album": {
-        "name": "Foundations Acoustic",
-        "url": "https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei"
+        "name": "Mad World (Acoustic)",
+        "url": "https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i"
       },
       "artists": [
         {
-          "name": "Alex Francis",
-          "url": "https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa"
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
         }
       ],
-      "duration_ms": 205649,
-      "name": "You Make My Dreams - Acoustic",
-      "url": "https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD"
+      "duration_ms": 180831,
+      "name": "Mad World - Acoustic",
+      "url": "https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1685,20 +1625,20 @@
       "url": "https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B"
     },
     {
-      "added_at": "2019-10-13 06:38:53",
+      "added_at": "2019-11-16 07:43:06",
       "album": {
-        "name": "Mr Blue Sky (Acoustic)",
-        "url": "https://open.spotify.com/album/0qemjRVIImUJxiEvOo8mfZ"
+        "name": "Ring of Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v"
       },
       "artists": [
         {
-          "name": "Adam Christopher",
-          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+          "name": "Retreat",
+          "url": "https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB"
         }
       ],
-      "duration_ms": 181147,
-      "name": "Mr Blue Sky - Acoustic",
-      "url": "https://open.spotify.com/track/2HUQikp6TKzN4lOAaXjqAe"
+      "duration_ms": 185320,
+      "name": "Ring of Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1749,20 +1689,20 @@
       "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
     },
     {
-      "added_at": "2020-12-24 17:09:03",
+      "added_at": "2021-04-13 19:06:10",
       "album": {
-        "name": "Mad World (Acoustic)",
-        "url": "https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i"
+        "name": "Smells Like Teen Spirit (Acoustic)",
+        "url": "https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu"
       },
       "artists": [
         {
-          "name": "Jae Hall",
-          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+          "name": "Ben Weighill",
+          "url": "https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb"
         }
       ],
-      "duration_ms": 180831,
-      "name": "Mad World - Acoustic",
-      "url": "https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj"
+      "duration_ms": 150857,
+      "name": "Smells Like Teen Spirit - Acoustic",
+      "url": "https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1813,20 +1753,20 @@
       "url": "https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj"
     },
     {
-      "added_at": "2019-11-16 07:43:06",
+      "added_at": "2020-02-21 19:36:11",
       "album": {
-        "name": "Ring of Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/5C8Z4XQ2mBq5WIlOeXlN1v"
+        "name": "Don\u2019t Look Back In Anger (Acoustic)",
+        "url": "https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c"
       },
       "artists": [
         {
-          "name": "Retreat",
-          "url": "https://open.spotify.com/artist/5j5G6aCjRNizjNQKjf2PTB"
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
         }
       ],
-      "duration_ms": 185320,
-      "name": "Ring of Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0MwVyvX8zBCFzLxSD0typJ"
+      "duration_ms": 209496,
+      "name": "Don\u2019t Look Back In Anger - Acoustic",
+      "url": "https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1845,6 +1785,26 @@
       "url": "https://open.spotify.com/track/5YXTMX6nkvtg0kSJpZmVTw"
     },
     {
+      "added_at": "2024-02-16 19:38:39",
+      "album": {
+        "name": "Happy Together (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        },
+        {
+          "name": "Every Season",
+          "url": "https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL"
+        }
+      ],
+      "duration_ms": 166842,
+      "name": "Happy Together - Acoustic Version",
+      "url": "https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX"
+    },
+    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "Human (Remixes)",
@@ -1861,20 +1821,20 @@
       "url": "https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H"
     },
     {
-      "added_at": "2021-04-13 19:06:10",
+      "added_at": "2021-04-08 19:14:17",
       "album": {
-        "name": "Smells Like Teen Spirit (Acoustic)",
-        "url": "https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu"
+        "name": "She's Electric (Acoustic)",
+        "url": "https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E"
       },
       "artists": [
         {
-          "name": "Ben Weighill",
-          "url": "https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb"
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Smells Like Teen Spirit - Acoustic",
-      "url": "https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr"
+      "duration_ms": 216462,
+      "name": "She's Electric - Acoustic",
+      "url": "https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1893,20 +1853,20 @@
       "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
     },
     {
-      "added_at": "2020-02-21 19:36:11",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Don\u2019t Look Back In Anger (Acoustic)",
-        "url": "https://open.spotify.com/album/0OQ08gOxNKQF2REAMJcz7c"
+        "name": "Don't Speak (Acoustic)",
+        "url": "https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy"
       },
       "artists": [
         {
-          "name": "John Adams",
-          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+          "name": "Beth",
+          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
         }
       ],
-      "duration_ms": 209496,
-      "name": "Don\u2019t Look Back In Anger - Acoustic",
-      "url": "https://open.spotify.com/track/3PkHsRaRZSkIEVc3UmJu16"
+      "duration_ms": 140128,
+      "name": "Don't Speak - Acoustic",
+      "url": "https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -1933,20 +1893,20 @@
       "url": "https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo"
     },
     {
-      "added_at": "2022-04-22 18:29:54",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Easy (Acoustic)",
-        "url": "https://open.spotify.com/album/2sjrCsghv6PcqrHG8gcksc"
+        "name": "Covers Vol. 1 (Acoustic)",
+        "url": "https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1"
       },
       "artists": [
         {
-          "name": "Mack Myles",
-          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+          "name": "Blame Jones",
+          "url": "https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY"
         }
       ],
-      "duration_ms": 183648,
-      "name": "Easy - Acoustic",
-      "url": "https://open.spotify.com/track/3p2HCeGDR7XmSp2yl7UOI4"
+      "duration_ms": 163149,
+      "name": "Champagne Supernova - Acoustic",
+      "url": "https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -2001,20 +1961,20 @@
       "url": "https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK"
     },
     {
-      "added_at": "2021-05-24 19:31:32",
+      "added_at": "2019-10-13 06:38:53",
       "album": {
-        "name": "Baby I'm Yours (Acoustic)",
-        "url": "https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
       "artists": [
         {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 119000,
-      "name": "Baby I'm Yours - Acoustic",
-      "url": "https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -2031,182 +1991,6 @@
       "duration_ms": 292186,
       "name": "Magnetised - Acoustic",
       "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
-    },
-    {
-      "added_at": "2024-02-16 19:38:39",
-      "album": {
-        "name": "Happy Together (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1a5AqcZv2OzcqdCXAUGBSL"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        },
-        {
-          "name": "Every Season",
-          "url": "https://open.spotify.com/artist/4MxjNT9GjBN3FCgnAIpeZL"
-        }
-      ],
-      "duration_ms": 166842,
-      "name": "Happy Together - Acoustic Version",
-      "url": "https://open.spotify.com/track/5Pz83RIax2yWBDGTm0PNRX"
-    },
-    {
-      "added_at": "2021-04-08 19:14:17",
-      "album": {
-        "name": "She's Electric (Acoustic)",
-        "url": "https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E"
-      },
-      "artists": [
-        {
-          "name": "Paul Canning",
-          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
-        }
-      ],
-      "duration_ms": 216462,
-      "name": "She's Electric - Acoustic",
-      "url": "https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Perfect Strangers (Acoustic)",
-        "url": "https://open.spotify.com/album/3q6OSra2h56Q7YMHNgZr3P"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 191206,
-      "name": "Perfect Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/10g2KYRNWnxFLfjIqMTRyV"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Don't Speak (Acoustic)",
-        "url": "https://open.spotify.com/album/5j7PmYcdv8uHKESf2Byzdy"
-      },
-      "artists": [
-        {
-          "name": "Beth",
-          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Don't Speak - Acoustic",
-      "url": "https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "You're Gonna Live Forever in Me",
-      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Covers Vol. 1 (Acoustic)",
-        "url": "https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1"
-      },
-      "artists": [
-        {
-          "name": "Blame Jones",
-          "url": "https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Champagne Supernova - Acoustic",
-      "url": "https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Wrecking Ball (Acoustic)",
-        "url": "https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN"
-      },
-      "artists": [
-        {
-          "name": "Two Worlds",
-          "url": "https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB"
-        },
-        {
-          "name": "Nick Voelker",
-          "url": "https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3"
-        },
-        {
-          "name": "Adiel Mitchell",
-          "url": "https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Wrecking Ball - Acoustic",
-      "url": "https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE"
-    },
-    {
-      "added_at": "2019-10-13 06:38:53",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     }
   ],
   "unique_name": "Acoustic Driving Songs",

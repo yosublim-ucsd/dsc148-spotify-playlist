@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 369697,
+  "2024-03-04": 369753,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
   "name": "Ibiza Sunset",
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 276506,
       "name": "Feels Like This",
       "url": "https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 195040,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/6wppmoqQvk2rUGzKim8K5Y"

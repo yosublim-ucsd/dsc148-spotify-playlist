@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Long live the king\. Listen to music from and inspired by Agent Elvis, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,973 likes - 78 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,070 likes - 78 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 77 | [Memphis, Tennessee](https://open.spotify.com/track/4cLQusV6v3i6YLpl4QOJqN) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee), [Craig Robinson](https://open.spotify.com/artist/5KYG3pjlHT4zdP42vJsk6s) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 2:36 |
 | 78 | [Elvis In Hawaii](https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 0:57 |
 
-Snapshot ID: `MCxlMzEzMWFmYzAxNjhhNDEwMjZiZWIwZmQxNDIxNDAzM2I1NTkzNTgw`
+Snapshot ID: `MCxjOWE5MmQ5MjAxM2JiZDE0MDE0NGE2MWJkYjhlNjMxNTQyOTI3ZmZk`

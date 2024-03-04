@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,058 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,094 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 10 | [Stuck On You](https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Stuck On You](https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5) | 3:33 |
 | 11 | [Livin' It Up](https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB) | [Dizgo](https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj) | [Melt](https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN) | 8:00 |
 | 12 | [Lap Mule](https://open.spotify.com/track/2qJzXsTqPTsnE4ocGMZRa1) | [Andreas Rydman](https://open.spotify.com/artist/2cPRL66TE5ukYhnokSkzPg), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lap Mule](https://open.spotify.com/album/2Mf5kcese7yHo1lyypZFjf) | 5:02 |
-| 13 | [Yourself](https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/1v7TNMLqaXnJPcCASnFVps) | 6:22 |
+| 13 | [Yourself](https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 6:22 |
 | 14 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 |
 | 15 | [Fludias](https://open.spotify.com/track/094cZWfxSIguNUNADtqb9Z) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Fludias](https://open.spotify.com/album/7sZv59H1TWVzeMfnAjDfBt) | 6:55 |
 | 16 | [Bottom of the Hill](https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS) | [River Spell](https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46) | [Bottom of the Hill](https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C) | 6:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCw3MjIxNTA3ZGRjZTMzODYzNDFjZjI1NDBjYzFhNDc2NDdmZWU1N2Y0`
+Snapshot ID: `MCwzNDhkMzZlNDUxMTMyYTRlODE2OTNiYjQ4MmFmZmJiZmVmOTk0NjI2`

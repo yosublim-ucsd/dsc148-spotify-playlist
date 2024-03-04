@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Miley Cyrus, Beyoncé, Harry Styles &amp; more! Cover: Miley Cyrus &amp; Pharrell Williams
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,232 likes - 43 songs - 2 hr 12 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,231 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Tolü Makay\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,464 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,585 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Safe & Sound](https://open.spotify.com/track/1DRYQw4p4ZFWAqeR0zUfqA) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Safe & Sound](https://open.spotify.com/album/2G3XbmCG2vnASKfxfRbvps) | 2:54 |
 | 100 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 
-Snapshot ID: `MCxiZjE0OWViMmFjOTczNDdiNzZhNDk2MTZjYTBkOWY3MWM4MmRhNjFm`
+Snapshot ID: `MCwyZTVjZDY3YjA1OWRjODdhZmRhNDA1MzBiZTY1NjU4MGE0ZWRjM2E1`

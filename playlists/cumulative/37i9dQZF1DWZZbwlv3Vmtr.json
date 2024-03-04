@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Echovision",
+        "url": "https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W"
+      },
+      "artists": [
+        {
+          "name": "FreakBeats",
+          "url": "https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Echovision",
+      "url": "https://open.spotify.com/track/1kPlZE0QL6gzMkykmEz0Zv"
+    },
+    {
+      "album": {
         "name": "El Cl\u00e1sico",
         "url": "https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b"
       },
@@ -12075,6 +12093,24 @@
     },
     {
       "album": {
+        "name": "School Of Rytmus",
+        "url": "https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f"
+      },
+      "artists": [
+        {
+          "name": "Valgre",
+          "url": "https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145862,
+      "name": "School Of Rytmus",
+      "url": "https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9"
+    },
+    {
+      "album": {
         "name": "Sea of Thoughts",
         "url": "https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B"
       },
@@ -14128,7 +14164,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 134573,
       "name": "Superman in the Tree",
       "url": "https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv"
@@ -15886,7 +15922,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 111428,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz"

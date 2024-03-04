@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-309 songs - 14 hr 24 min
+310 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Gentle Spring Rain](https://open.spotify.com/track/7r9YUR97y7anYj1NpC3ReR) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4JYZA9jYxok2OfXWe0P44v) | 3:29 | 2022-10-27 | 2023-12-21 |
 | [Gentle Trickle \(Rain\)](https://open.spotify.com/track/4DXNO0AfE3FPr5PUpubnsx) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 3:01 | 2023-12-20 |  |
 | [Get Away Rain](https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Misty Rain](https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu) | 3:28 | 2022-10-27 |  |
+| [Glenview Rain](https://open.spotify.com/track/0iFVd3DemTrFMdnOrLU953) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:51 | 2023-12-20 |  |
 | [Good Night Sleep Rain 1](https://open.spotify.com/track/1bxooa4BimoiDDFBScAIgD) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:21 | 2022-10-27 |  |
-| [Good Night Sleep Rain 3](https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:39 | 2022-10-27 |  |
+| [Good Night Sleep Rain 3](https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Good Night Sleep Rain](https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb) | 2:39 | 2022-10-27 | 2024-03-04 |
 | [Good Weather Ahead](https://open.spotify.com/track/3qEIPYO8qu0KFTlPqFpSiu) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [The Hand Made Thunder](https://open.spotify.com/album/5IKxRPK8tUwawR5arR7S3N) | 2:08 | 2023-12-20 |  |
 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 | 2023-12-20 |  |
 | [Grim Falls](https://open.spotify.com/track/5Pn9DRYhdyqbghfMqrgK5F) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Grim Falls](https://open.spotify.com/album/0I6Icxj5K4T7KKDhy8lejC) | 2:11 | 2023-12-20 |  |

@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-170 songs - 9 hr 18 min
+171 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Djavu](https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tertto](https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr), [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Djavu](https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq) | 4:11 | 2024-01-26 |  |
 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 | 2021-11-12 |  |
 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 | 2023-03-24 | 2023-06-24 |
-| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 |  |
+| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 | 2024-03-04 |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2021-11-12 |  |
 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 | 2022-06-17 | 2023-10-14 |
 | [Estrela do Bairro](https://open.spotify.com/track/1QhYZN26nrWchzfbURdaNv) | [Real Ale](https://open.spotify.com/artist/1xhLnO5zKiQGUu4o9xvBzi), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [Estrela do Bairro](https://open.spotify.com/album/3mrtDkRPrqu2jCAjRLlAO9) | 3:08 | 2024-01-12 | 2024-02-17 |
@@ -86,6 +86,7 @@
 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 | 2023-10-13 |  |
 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 | 2021-11-12 |  |
 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [Zoli](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 | 2021-11-12 |  |
+| [Mar Azul](https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW) | [Mar Azul](https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli) | 1:45 | 2024-03-01 |  |
 | [Marquinha](https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1) | [Yan Silvestre](https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Marquinha](https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp) | 2:00 | 2023-01-13 | 2023-04-09 |
 | [Marshmallow](https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Marshmallow](https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT) | 2:22 | 2022-06-03 | 2022-08-13 |
 | [Marília Mendonça](https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Marília Mendonça](https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs) | 1:53 | 2021-11-12 | 2023-02-04 |

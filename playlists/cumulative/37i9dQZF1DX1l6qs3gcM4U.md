@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje.
 
-350 songs - 20 hr 53 min
+351 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All I Have](https://open.spotify.com/track/5VB3K5qgvXlfkKaxUVMyvu) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [All I Have](https://open.spotify.com/album/7KAOO3P9VCHO0gG0B5kIWZ) | 4:00 | 2021-12-10 | 2022-07-25 |
 | [Alquimia](https://open.spotify.com/track/1bu6VC2sSihmP8kiHg89fl) | [Idelsa](https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Alquimia](https://open.spotify.com/album/0HBCHTI8Ny7qWtKET7YKvY) | 3:46 | 2022-02-11 | 2022-04-07 |
 | [Always](https://open.spotify.com/track/6Fhr7jGP1IfSHynLeFNoMu) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Always](https://open.spotify.com/album/0YY6MqbJd4TWaqiH8Xsvyp) | 4:10 | 2022-04-29 | 2022-05-09 |
+| [Ama de Novu](https://open.spotify.com/track/1vmP2IDpxqN5vu3Lh1fYhT) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Ama de Novu](https://open.spotify.com/album/5Aj0fwe1a9GnzlDkP8hNhr) | 3:30 | 2024-02-23 |  |
 | [Amo\-Te](https://open.spotify.com/track/5PCMiD1Ueel9dHB56hEkxZ) | [Jazzy Rhodes](https://open.spotify.com/artist/4Jmpc3XWrGfzMXKYlQOrFG), [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69) | [Amo\-Te](https://open.spotify.com/album/2qL8ao6taagISusBR1Z2pO) | 3:23 | 2022-02-11 | 2022-07-20 |
 | [Ansiedade](https://open.spotify.com/track/4syuRr00gJt48uBY3XKJMz) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt) | [Ansiedade](https://open.spotify.com/album/61Mb2cWHMPmDQVIQj771R8) | 3:30 | 2024-02-19 |  |
 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 | 2021-12-10 |  |
@@ -75,7 +76,7 @@
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
 | [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
-| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 |  |
+| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 | 2024-03-04 |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 | 2022-07-22 | 2023-07-18 |
 | [Could've Been \- Kizomba](https://open.spotify.com/track/1F1EJj1aVtbeI0y0hcFtRh) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Could've Been \(Kizomba\)](https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj) | 4:30 | 2021-12-10 | 2022-04-15 |

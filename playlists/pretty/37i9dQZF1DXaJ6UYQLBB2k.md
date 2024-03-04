@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,579 likes - 60 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,660 likes - 60 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Devotion](https://open.spotify.com/track/3TqPXLCzNOut0dQs94n8tx) | [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/7GQRTfCMfDYV7ay3L3HTOc) | 8:51 |
-| 2 | [Madison](https://open.spotify.com/track/5Btgc68US7H8c9AWGaWyo5) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc), [Adam Wiltzie](https://open.spotify.com/artist/5v27ybSj18HYkL7jc7BSIv) | [Music for Nitrous Oxide](https://open.spotify.com/album/0M1g1pY65GnVJSV7uJs43Y) | 9:28 |
+| 2 | [Madison](https://open.spotify.com/track/5Btgc68US7H8c9AWGaWyo5) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Music for Nitrous Oxide](https://open.spotify.com/album/0M1g1pY65GnVJSV7uJs43Y) | 9:28 |
 | 3 | [Shinsen](https://open.spotify.com/track/00J8P1V7Vbwyh8QLnvbGAL) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:33 |
 | 4 | [Surfacing](https://open.spotify.com/track/6YATWkNk120ofMCau5ePPx) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 13:17 |
 | 5 | [I\. F\. A.](https://open.spotify.com/track/3B9xVOucABB6Jc9KJuD3Ej) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 59 | [Near & Far Away](https://open.spotify.com/track/3B6Wm7UhJ7tmydqpdI4jod) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 5:47 |
 | 60 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 
-Snapshot ID: `MCw3YTk5MzM5NDhkMDcwZDFlNGIyZDMzMTU3MzRhYWE2YjVmNjQ4Yjhm`
+Snapshot ID: `MCw3NDYzMGE0N2Q1YTEyNmM4N2QwMzBkYTBiMzA0ZTAxMWMxZDE3YzBh`

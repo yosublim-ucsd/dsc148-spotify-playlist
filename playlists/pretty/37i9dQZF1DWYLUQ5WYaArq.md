@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > a playlist for your pre or post party, either way, celebrate with PRIDE 🏳️‍🌈
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,752 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,741 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Leather Lover](https://open.spotify.com/track/6dh0z4DbRLqCDlThv4Se60) | [General Electrik](https://open.spotify.com/artist/22blHFzoDnRMcwKnBNxyoM), [Andy Rantzen](https://open.spotify.com/artist/0JB0gu9r44nDQdov58H5sB) | [3AM Spares](https://open.spotify.com/album/3zy6L8YUPABdO2c7BWGL7m) | 5:53 |
 | 50 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 |
 
-Snapshot ID: `MCwwNWNiZWE5MGI1NDE5MGRjNWJlYWJlNmQ4ZmU1ZWUyMzk0Y2ViMjVi`
+Snapshot ID: `MCwxNGIwMjZjZjQyNTUzY2IwMTQ5OWUxZjRmNTJjMmU2YzE2YmI5MjZm`

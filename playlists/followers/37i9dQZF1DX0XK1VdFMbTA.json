@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 147169,
+  "2024-03-04": 147201,
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd",
   "name": "Deep Dive: 70s Rock",
@@ -2725,10 +2725,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 190093,
       "name": "Cool For Cats - Live at The Fillmore",
       "url": "https://open.spotify.com/track/0Y3CLkHHygWXwhndtkTHin"
+    },
+    {
+      "album": {
+        "name": "Spot the Difference (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VWAewyadxNauFDWLQYUvs"
+      },
+      "artists": [
+        {
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Cool For Cats - Live at The Fillmore",
+      "url": "https://open.spotify.com/track/7l0OoW4ARrSc34tVpjJWdY"
     },
     {
       "album": {

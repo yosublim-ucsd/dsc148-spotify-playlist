@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > rock at its loudest\. turn it up ⬆️ Cover: Papa Roach
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,480 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,566 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 76 | [10,000 Volts](https://open.spotify.com/track/4eJdMXViYA7SYKD499AvNF) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [10,000 Volts](https://open.spotify.com/album/56EuOSiYmNoJH22peRBwdf) | 3:24 |
 | 77 | [I Still Believe](https://open.spotify.com/track/1atc0z1xkg02bSjkfkpOUv) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [I Still Believe](https://open.spotify.com/album/5yK0LHapGQcaUFeyKkjfZG) | 2:54 |
 
-Snapshot ID: `MCxjNzI1NjkxYmU5NTIwMDUzNWY0NjViZjE5NTFiYzU3YzE3ZDE1Y2Qy`
+Snapshot ID: `MCwxM2FkMDk1Y2MyZDdmNTc4NGNlNTZiNzQzNDMxMjI1ODc5M2VlYjBk`

@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 39,
+  "2024-03-04": 39,
   "date_first_scraped": "2023-10-18",
   "description": "",
   "name": "Worldly",
@@ -2847,6 +2847,24 @@
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
+    },
+    {
+      "album": {
+        "name": "D.I.S.C.O.",
+        "url": "https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv"
+      },
+      "artists": [
+        {
+          "name": "Ottawan",
+          "url": "https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301453,
+      "name": "D.I.S.C.O.",
+      "url": "https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR"
     },
     {
       "album": {

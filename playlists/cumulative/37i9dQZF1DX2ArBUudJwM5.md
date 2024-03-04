@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen.
 
-898 songs - 2 day 0 hr 20 min
+899 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-11-30 |  |
 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 | 2022-09-07 | 2023-08-23 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-11-07 | 2022-12-01 |
-| [EGO](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [EGO](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 | 2023-11-29 |  |
+| [Ego](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Ego](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 | 2023-11-29 |  |
 | [Ego](https://open.spotify.com/track/5Iku361RKkGY4j2Bs0fpcg) | [Nube de magallanes](https://open.spotify.com/artist/5ZvzaUuX9L4BzMUvmMhFul) | [Ego](https://open.spotify.com/album/0RdnnfVy7EYNJpJw4iknOY) | 3:01 | 2023-06-05 | 2023-07-06 |
 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 | 2022-09-07 | 2023-10-05 |
 | [El Astronauta](https://open.spotify.com/track/6OLPDgbtcZe84Aqc5fbik5) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 2:44 | 2023-01-04 | 2023-02-02 |
@@ -495,7 +495,7 @@
 | [Luna Llena](https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Luna Llena](https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd) | 3:45 | 2021-12-17 | 2022-04-07 |
 | [Lunes por la Madrugada](https://open.spotify.com/track/7fAM6f4gDo73w71CE0rP9N) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Malinalli](https://open.spotify.com/album/2rLanUjDqMJoDxCSz9IgFr) | 2:52 | 2022-07-06 | 2022-08-04 |
 | [Luro y Mitre](https://open.spotify.com/track/6i6YBRXm0VTFiv2kZIgVCi) | [Shitstem](https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo) | [Luro y Mitre](https://open.spotify.com/album/4m3KbfH4VtQkyiwRWG4gId) | 3:41 | 2021-12-17 | 2022-01-06 |
-| [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 | 2023-07-05 |  |
+| [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 | 2023-07-05 | 2024-03-04 |
 | [Lxs Frikis](https://open.spotify.com/track/1p4WmjWW56HzDz5CxaRVYs) | [La Negra Buggiani](https://open.spotify.com/artist/2DwAWHzRcLRtEAumThBOCB), [Tinx](https://open.spotify.com/artist/4Sppxqjz2b8Gk7ACi2WlOn) | [Del Barrio a la Tarima](https://open.spotify.com/album/0OXCgo2aIBPP7U5peZX3w1) | 3:35 | 2021-12-17 | 2022-01-06 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-05-03 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-03-08 | 2022-12-01 |
@@ -664,6 +664,7 @@
 | [Piedra Libre](https://open.spotify.com/track/6FQ9S8MWXD1QwD9efri79z) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Piedra Libre](https://open.spotify.com/album/36TzB5H81zUh5Bz9JJlupk) | 3:33 | 2023-01-04 | 2023-02-02 |
 | [Piel](https://open.spotify.com/track/40dep5por7ZPGoxyMd1yLl) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [Piel](https://open.spotify.com/album/3XorXyWLurHALWui65CIu7) | 3:04 | 2022-05-04 | 2022-09-09 |
 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 | 2023-10-04 | 2023-11-09 |
+| [PINCHÓ](https://open.spotify.com/track/71I1bYl7FCMSFstGsaMudX) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/40k3kQTJXh7RNGVzJahIUs) | 3:05 | 2024-01-10 |  |
 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 | 2022-10-06 | 2022-11-08 |
 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 | 2022-03-08 | 2022-12-01 |
 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 | 2022-01-05 | 2023-02-02 |

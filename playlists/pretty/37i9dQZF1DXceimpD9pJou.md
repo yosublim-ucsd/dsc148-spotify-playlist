@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> y <a href="spotify:artist:0oaW8w858ZIyAnhDIskEqw">Barajas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,700 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,741 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Acoustic \- Live Session](https://open.spotify.com/track/2EWtUCKbvP4HTpyYPMkhb2) | [Obyone](https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa) | [Acoustic \(Live Session\)](https://open.spotify.com/album/326qox5uBwd8evL1tc9yyQ) | 11:10 |
 | 100 | [Bendiciones Divina](https://open.spotify.com/track/1uPBlVu3xis6EGY0gIxaOH) | [Nation Worship](https://open.spotify.com/artist/2iKsHU710u5B7IDURtD5M8) | [Bendiciones Divina](https://open.spotify.com/album/2YITLDKInRv4QUEO3xqIvz) | 1:53 |
 
-Snapshot ID: `MCwzYmMyY2E3ODJlZDM0MTExNTMwM2JiMGI5ZmVlYmJlYjk2Y2QxNTI2`
+Snapshot ID: `MCw3ZDg2YzhhODIyNGJmODFiN2JlNWIzNWU0ZjI5NTNiNTVjNjM1YzIz`

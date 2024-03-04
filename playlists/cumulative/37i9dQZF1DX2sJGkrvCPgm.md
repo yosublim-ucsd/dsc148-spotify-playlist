@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-347 songs - 21 hr 52 min
+348 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/track/3WWs6x4AK4prP8qqkcAmtP) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/album/6MwhhGgZ4Hjr6NXfDZOlFx) | 4:24 | 2021-12-24 | 2022-07-14 |
 | [O Little Town Of Bethlehem \(Emmanuel\)](https://open.spotify.com/track/2NQNo4nnxkjEfEqOQ51dkS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Merry Christmas To You \(Great Big Family Edition\)](https://open.spotify.com/album/1oQisAUbNQh9hNsNLzF9Pv) | 4:11 | 2021-12-24 | 2022-07-28 |
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
+| [One Star](https://open.spotify.com/track/061rInV3JahtzBKknjgSmd) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [One Star](https://open.spotify.com/album/4tGlatbBw1IJRnpoKHzrqU) | 2:46 | 2023-12-15 |  |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-24 |  |
 | [Prince Of Heaven](https://open.spotify.com/track/4Ukgts8jEXRnQkC2Qmem6A) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Christmas: The Peace Project](https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o) | 6:12 | 2021-12-24 |  |
 | [Put a Little Love in Your Heart](https://open.spotify.com/track/7hOkqng0xelPCUCkdt8MWq) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Put a Little Love in Your Heart](https://open.spotify.com/album/4XW5GfhUdQ9gtNk4vg1I9s) | 3:08 | 2021-12-24 | 2022-11-27 |
@@ -340,7 +341,7 @@
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 | 2023-07-22 |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 | 2022-11-29 |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 | 2022-12-22 |
-| [White Christmas](https://open.spotify.com/track/7fFMvnJG640z6pQCGWedni) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Merry Christmas To You](https://open.spotify.com/album/5c8FhlS5GCowEoNh3559p9) | 3:31 | 2023-12-15 |  |
+| [White Christmas](https://open.spotify.com/track/7fFMvnJG640z6pQCGWedni) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Merry Christmas To You](https://open.spotify.com/album/5c8FhlS5GCowEoNh3559p9) | 3:31 | 2023-12-15 | 2024-03-04 |
 | [White Christmas](https://open.spotify.com/track/5j6eigKLRQgr3lP9sdsUsL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [White Christmas](https://open.spotify.com/album/53UaQ99zUPZUbFOyqtrGii) | 4:13 | 2023-11-17 |  |
 | [White Christmas \- feat\. Francesca Battistelli](https://open.spotify.com/track/0gU0EA4TbIjhQKM6fN7IXU) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Merry Christmas To You](https://open.spotify.com/album/5tF68h8vrUySWLXoUTc8gC) | 3:31 | 2021-12-24 | 2022-07-25 |
 | [White Forests](https://open.spotify.com/track/1MVRfEyXw9U7csWWfVFUwA) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 2:43 | 2021-12-24 | 2022-07-24 |

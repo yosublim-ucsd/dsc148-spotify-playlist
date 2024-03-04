@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover:  Only U
 
-528 songs - 1 day 3 hr 4 min
+529 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [ENERGY SONG](https://open.spotify.com/track/0mQXPMmV7Pq4jvHyKPydOh) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [CHALLENGER](https://open.spotify.com/album/39VgHgvLOmMS9OSV8H1BdP) | 2:37 | 2023-10-17 | 2023-11-01 |
 | [ENERGY SONG](https://open.spotify.com/track/61sk82mNl7QBvUftq94MD5) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [CHALLENGER](https://open.spotify.com/album/05975PE0clbjLhyuBj7FiM) | 2:37 | 2023-10-17 | 2023-10-19 |
 | [Enough/Hun](https://open.spotify.com/track/1ZsDKol51tsXYXxuJ3FxTk) | [Moment Joon](https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll), [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW) | [Only Built 4 Human Links](https://open.spotify.com/album/2bj1CgbnCLkwS6PuLNpOCA) | 3:12 | 2023-12-28 | 2024-01-10 |
-| [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 | 2024-02-28 |  |
+| [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 | 2024-02-28 |  |
 | [ENTP](https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt) | 2:01 | 2024-02-28 | 2024-02-29 |
 | [Erika](https://open.spotify.com/track/2Jq181EBmECAZizq23U0GL) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML) | [Fear](https://open.spotify.com/album/1ZfPw1YQ24RP3CAu0MTqov) | 3:35 | 2024-02-22 |  |
 | [Eternity \- feat\. Dove](https://open.spotify.com/track/0hgFEg1GC8bmkMi4jYPptm) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dove](https://open.spotify.com/artist/749Lj97lUEji1r45Fkdvb4) | [Eternity \(feat\. Dove\)](https://open.spotify.com/album/5V0dVjADMWlNUk9JXB0sOv) | 2:38 | 2024-01-18 | 2024-01-24 |
@@ -222,7 +222,8 @@
 | [HIT MAKER !!!](https://open.spotify.com/track/7wwrSDeyJcfV5RGvFEnTSn) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR), [INMAN](https://open.spotify.com/artist/7H3Q0yXmSNmxMHSUpGZKqg) | [MILLION](https://open.spotify.com/album/3bwTq9fUTp70YVcEeaHLZm) | 3:48 | 2023-09-21 | 2023-12-06 |
 | [Hope](https://open.spotify.com/track/3pA9teCcxI6k42jaWQPmxn) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1VLFfDuuqsC3xYyeKtzQnW) | 2:52 | 2023-10-24 | 2023-11-01 |
 | [Hope](https://open.spotify.com/track/5TB7HUODhKV1SVnEJQRrBP) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [Hope](https://open.spotify.com/album/1XSBe1dxP8HEB1npsFcPQc) | 2:52 | 2023-10-24 | 2023-10-26 |
-| [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-14 |  |
+| [HOT BOYZ](https://open.spotify.com/track/6f38jDhKaxNmFE6iQ2WOQz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:13 | 2024-02-29 |  |
+| [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-14 | 2024-03-04 |
 | [HOT BOYZ](https://open.spotify.com/track/6dOwdgtWFX9KEFM59qK5Xu) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/6F3VNe4DapsN9o9mU61Gof) | 2:13 | 2024-02-14 | 2024-02-15 |
 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 | 2024-01-23 |  |
 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 | 2023-12-26 | 2024-01-12 |

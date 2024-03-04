@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Meek Mill, That Mexican OT and more\. Cover: Schoolboy Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,017 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,121 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Enough Ammo \(Remix\) \[feat\. Young Nudy\]](https://open.spotify.com/track/3KhzBmmD2uvj46uU4GUZXx) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:57 |
 | 24 | [Live From Da Deep End \(feat\. Black Kray\)](https://open.spotify.com/track/0emzIVyxMRBwJOH1N8qwZn) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Black Kray](https://open.spotify.com/artist/7EmyqxxYZltYLKFk9sAHzM) | [Live From Da Deep End](https://open.spotify.com/album/2wd8bZfdg08HNSkCH1IVyO) | 2:58 |
 | 25 | [Smearious](https://open.spotify.com/track/6jaumuvzitwJKxGJEFfKjM) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Smearious](https://open.spotify.com/album/7HfAJzlbOFRiRh3YjUHajx) | 2:03 |
-| 26 | [Mama Said \(feat\. SleazyWorld Go\)](https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:59 |
+| 26 | [Mama Said \(feat\. SleazyWorld Go\)](https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:57 |
 | 27 | [Coi Leray](https://open.spotify.com/track/4OOu0Q1GXS4doeSI6RTCJl) | [Rarri](https://open.spotify.com/artist/4P2n49979tST2XdOxYcM6h), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal) | [Coi Leray](https://open.spotify.com/album/7htaUb7jdoEhqzzdhMowee) | 3:48 |
 | 28 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 |
 | 29 | [Ain't Hip to be Labelled a Hippie](https://open.spotify.com/track/7GXfFKWwrHf4tNWGMDzaUw) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising \(35th Anniversary\)](https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Flawless](https://open.spotify.com/track/3ULaknsaBsXJ61Gltr5RED) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Flawless](https://open.spotify.com/album/3dLSddpwD3nXf0aEz3NnMf) | 2:56 |
 | 50 | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4syEuJtAptgxJZxdmbYtSa) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [CULLINAN GANG \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/60B0F2iSBTAuNUkXVfOgoe) | 2:38 |
 
-Snapshot ID: `MCw2M2JmNDgzMTA1MzY1NmJhNGM4MDhkOTVkMDhhZWExZjdmZTY4NjVk`
+Snapshot ID: `MCw1NDk2MTM4NmUwMzVkNzg3YmJhNWU2MzYxODc5MmY0YjI0NjQwMTBi`

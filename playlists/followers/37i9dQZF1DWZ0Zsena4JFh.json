@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 119703,
+  "2024-03-04": 119723,
   "date_first_scraped": "2023-08-09",
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. MGMT en portada.",
   "name": "Indielandia",
@@ -813,7 +813,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 86169,
       "name": "Feeling Good Today",
       "url": "https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx"
@@ -2545,7 +2545,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"

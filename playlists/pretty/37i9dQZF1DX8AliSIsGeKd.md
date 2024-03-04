@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Monika Kruse
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,826 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,939 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Hold On](https://open.spotify.com/track/6gvOGuQckd1UoDU75WTnDx) | [Dave Seaman](https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73), [Shola Phillips](https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3) | [Hold On](https://open.spotify.com/album/2c9Yhje0VJyim3VwoBHmnr) | 4:04 |
 | 80 | [About Love \- Kadosh Remix](https://open.spotify.com/track/0RiBPTf94I0tATDNCmHf48) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Speakwave](https://open.spotify.com/artist/2Rn9AHu76qqn3BTSEkdm9Y), [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W) | [About Love \(Kadosh Remix\)](https://open.spotify.com/album/5SW43YqROwX3lOhpPRFGZg) | 5:13 |
 
-Snapshot ID: `MCwwZmJlZTgzY2UzOTg0ZDAxZDIwMDY0NzEzZGY4YjhkMTYxMWQ2NGU5`
+Snapshot ID: `MCwzZjYxMDJmZmJiOWY1NzE2OGI4ZWUxODgyMWViMTlmODA2MjAwMmY4`

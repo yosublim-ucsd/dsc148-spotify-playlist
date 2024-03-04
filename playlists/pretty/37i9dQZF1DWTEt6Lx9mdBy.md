@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEt6Lx9mdBy.md) - [plain]
 
 > "Music to chill me out and raise my spirit." Cover: Zion Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEt6Lx9mdBy.md) - [plain]
 | 29 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 |
 | 30 | [Kings Never Die](https://open.spotify.com/track/4uX7M3U4I1nsZ7SFM4XNCn) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Southpaw \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru) | 4:56 |
 
-Snapshot ID: `MCxhZWQzOGY4ZTcxMDcyOWM4NzZhMzU0ODRiMTE0NjU1NjA4MDlmOGZl`
+Snapshot ID: `MCwwYTRiMzE0ZTg0ZTliNWZmNmI1NGMxZTlhMzg5ZjQxZjY0MDM1ZmM1`

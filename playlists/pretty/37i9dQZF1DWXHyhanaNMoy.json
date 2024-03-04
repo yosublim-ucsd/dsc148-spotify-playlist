@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: KATNUF",
-  "num_followers": 320422,
+  "num_followers": 320431,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWZiYWM5NGY3NzUwOGI5N2ZhOTA0YzE4YzcwZjVkZWE0ZWYzMDVl",
+  "snapshot_id": "MCw2Yzg3NGJhNzdkZDRmNjg5Y2Y3NzJkMzA0ZDhmNmExMWQ5ZjQ0N2Zh",
   "tracks": [
     {
       "added_at": "2024-02-29 23:00:00",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-02-29 23:00:00",
       "album": {
+        "name": "Beter dan je Ex",
+        "url": "https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1"
+      },
+      "artists": [
+        {
+          "name": "Andrea Rafaella",
+          "url": "https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq"
+        },
+        {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        }
+      ],
+      "duration_ms": 135627,
+      "name": "Beter dan je Ex",
+      "url": "https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI"
+    },
+    {
+      "added_at": "2024-02-29 23:00:00",
+      "album": {
         "name": "Delulu",
         "url": "https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 153750,
       "name": "\u00c9galit\u00e9",
       "url": "https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI"
-    },
-    {
-      "added_at": "2024-02-29 23:00:00",
-      "album": {
-        "name": "Beter dan je Ex",
-        "url": "https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1"
-      },
-      "artists": [
-        {
-          "name": "Andrea Rafaella",
-          "url": "https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq"
-        },
-        {
-          "name": "Burleson",
-          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
-        }
-      ],
-      "duration_ms": 135627,
-      "name": "Beter dan je Ex",
-      "url": "https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI"
     },
     {
       "added_at": "2024-02-29 23:00:00",

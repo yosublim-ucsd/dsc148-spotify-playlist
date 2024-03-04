@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 3354224,
+  "2024-03-04": 3354429,
   "date_first_scraped": "2021-12-21",
   "description": "You say guilty, we say non stop bangers!",
   "name": "Guilty Pleasures",
@@ -2111,7 +2111,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
@@ -2931,7 +2931,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 213106,
       "name": "Gives You Hell",
       "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"

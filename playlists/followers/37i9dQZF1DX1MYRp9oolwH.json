@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 118830,
+  "2024-03-04": 118881,
   "date_first_scraped": "2023-02-14",
   "description": "Bringing out the best of latest love tracks\nCover : Eagle",
   "name": "Latest Romance Telugu",
@@ -1723,10 +1723,36 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
       "url": "https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh"
+    },
+    {
+      "album": {
+        "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
+        "url": "https://open.spotify.com/album/6i6vtXVWJb6LIZlL36t5XN"
+      },
+      "artists": [
+        {
+          "name": "U.V.Niranjan",
+          "url": "https://open.spotify.com/artist/1HhXD7tI767VTOcesD5fRf"
+        },
+        {
+          "name": "Vinod Kumar",
+          "url": "https://open.spotify.com/artist/7uqmh3Pn62x0o8whff0egz"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279670,
+      "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
+      "url": "https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb"
     },
     {
       "album": {

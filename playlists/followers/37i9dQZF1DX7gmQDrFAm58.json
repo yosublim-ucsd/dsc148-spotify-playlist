@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 87624,
+  "2024-03-04": 87618,
   "date_first_scraped": "2023-12-08",
   "description": "Sons para seu beb\u00ea dormir e relaxar / Sonidos para relajar a tu beb\u00e9",
   "name": "Nana Nen\u00ea",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 114675,
       "name": "A Little Nap",
       "url": "https://open.spotify.com/track/604Nji4PqTq7mNPx0WaU4S"
@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79691,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS"
+    },
+    {
+      "album": {
         "name": "Anytime Soon",
         "url": "https://open.spotify.com/album/7FJ0LJLQqTMqRcRnOZPWkN"
       },
@@ -507,6 +525,24 @@
       "duration_ms": 111893,
       "name": "Baby Miracle",
       "url": "https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec"
+    },
+    {
+      "album": {
+        "name": "Baby shark",
+        "url": "https://open.spotify.com/album/5vLfJKN5JC2Ipf7oXXXh4r"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bainscroft",
+          "url": "https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95374,
+      "name": "Baby shark",
+      "url": "https://open.spotify.com/track/3L5NdDhcagFkwLcMpbTDHK"
     },
     {
       "album": {
@@ -2451,7 +2487,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 84002,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/5R0Ltvrb5N8FnXOIbLUAos"
@@ -2523,7 +2559,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "How Much Is That Doggie In The Window?",
       "url": "https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1"
@@ -3243,10 +3279,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 140004,
       "name": "Le Petit Prince",
       "url": "https://open.spotify.com/track/4cURU7zDTEfQEvoth8abKj"
+    },
+    {
+      "album": {
+        "name": "Left And Right",
+        "url": "https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1"
+      },
+      "artists": [
+        {
+          "name": "Francine Miller",
+          "url": "https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Left And Right",
+      "url": "https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr"
     },
     {
       "album": {
@@ -5504,6 +5558,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Clouds",
+        "url": "https://open.spotify.com/album/0iSkJupalfCNNeLEMjW1P2"
+      },
+      "artists": [
+        {
+          "name": "Petra Mogensen",
+          "url": "https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71257,
+      "name": "Sleepy Clouds",
+      "url": "https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u"
+    },
+    {
+      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/17Y1MU2PaCHr2Tyr1tljXn"
       },
@@ -5569,7 +5641,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 141637,
       "name": "Sleepy Teddy",
       "url": "https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3"
@@ -6055,7 +6127,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 93500,
       "name": "The alphabet song",
       "url": "https://open.spotify.com/track/74GqJ7aet6OgNHltJF0dnk"
@@ -6728,6 +6800,24 @@
     },
     {
       "album": {
+        "name": "Under the stars",
+        "url": "https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93374,
+      "name": "Under the stars",
+      "url": "https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k"
+    },
+    {
+      "album": {
         "name": "Underneath My Bed",
         "url": "https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx"
       },
@@ -7171,7 +7261,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 107626,
       "name": "You Put A Smile On My Face",
       "url": "https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT"

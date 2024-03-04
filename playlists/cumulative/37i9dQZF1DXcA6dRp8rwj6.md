@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: ScHoolboy Q \)
 
-1,864 songs - 3 day 22 hr 22 min
+1,865 songs - 3 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,8 @@
 | [Hop Out The V!](https://open.spotify.com/track/6lDAYnMU80ULvsP6vDA2xT) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu) | [Hop Out The V!](https://open.spotify.com/album/6jOO9YBwY6KGdDVCIdTRur) | 1:37 | 2024-01-11 | 2024-02-23 |
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-02-16 | 2023-03-25 |
 | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/track/34hQD28WymyIZBJDZNh5zF) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/album/2mer205w0rPUj3mYvud2G8) | 3:52 | 2022-01-20 | 2022-01-28 |
-| [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-15 |  |
+| [HOT BOYZ](https://open.spotify.com/track/6f38jDhKaxNmFE6iQ2WOQz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:13 | 2024-02-29 |  |
+| [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-15 | 2024-03-04 |
 | [HOT PLANET](https://open.spotify.com/track/5DgL7Iz88RjLTYv0llQREe) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/2uu0WGNU7qSTfhhEMcY3aM) | 3:23 | 2022-12-01 | 2023-01-20 |
 | [HOT PLANET](https://open.spotify.com/track/5zcKsnFo11Hh4sgZ7NTQrC) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD, HBU?](https://open.spotify.com/album/5zErQTgiVZNE5SpR1Pw2Ae) | 3:23 | 2022-12-01 | 2022-12-03 |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-04-14 | 2023-06-09 |

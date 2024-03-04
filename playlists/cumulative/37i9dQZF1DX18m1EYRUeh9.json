@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Chorus",
+        "url": "https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582566,
+      "name": "Return To Centaurus",
+      "url": "https://open.spotify.com/track/0eYbnFAoXGyJEHfmqHfMXQ"
+    },
+    {
+      "album": {
         "name": "Return To Centaurus",
         "url": "https://open.spotify.com/album/259Nkot64XM40bU3tEyQFb"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 582566,
       "name": "Return To Centaurus",
       "url": "https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw"

@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "BUTTERFLY",
+        "url": "https://open.spotify.com/album/6xX4zgm5VTiTDKlHOfaq9b"
+      },
+      "artists": [
+        {
+          "name": "Jaron",
+          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/5BFkwIgIA7SRqR8kfldnni"
+    },
+    {
+      "album": {
         "name": "BXG STEPPA [VIP]",
         "url": "https://open.spotify.com/album/0Lole64pMwTaqeXibtSZuI"
       },

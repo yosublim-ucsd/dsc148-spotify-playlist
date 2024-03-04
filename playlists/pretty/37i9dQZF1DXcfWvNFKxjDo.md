@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jess Bays, Jem Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,723 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,813 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Slim Shady](https://open.spotify.com/track/0OdUo9w8jeAOuOUtnGwJJv) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Slim Shady](https://open.spotify.com/album/21k7KeTJQt3xbx4ykAnfDm) | 2:45 |
 | 75 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 |
 
-Snapshot ID: `MCxlZmY3NDY3N2E5ZGYxMGEyOGJlZTU1ZTQzMzBiYjM2ZTNkNTE3YTQ2`
+Snapshot ID: `MCxlMDBlOTdmMDZjZjg2YjRkZDNiZWViYTkzOTQ2OGRiNDZiMjBhY2Qw`

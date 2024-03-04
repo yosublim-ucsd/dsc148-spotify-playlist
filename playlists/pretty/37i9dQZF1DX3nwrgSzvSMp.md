@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,127 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,126 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 5 | [Icnocuicatl](https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 3:15 |
 | 6 | [Xochipitzahuatl](https://open.spotify.com/track/6rVy3D7PEXq4rhLLwbx0i1) | [Sones de Mexico Ensemble](https://open.spotify.com/artist/5lxgKqVd4v6cu4WiE3NWJF) | [13 Baktun](https://open.spotify.com/album/1Q8CDRMwu9GCWfsvbRMb2G) | 2:41 |
 | 7 | [Venadito Azul](https://open.spotify.com/track/67V2u9yDO1PDFjbDC0QVVV) | [Tzotzollin](https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx) | [Mexihkateokwikameh, Sacred Songs Of The Aztecs](https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt) | 2:17 |
-| 8 | [Birth Song for Quetzalcoatl](https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Mayan Ancestral Music \- Healing Music for Mother Earth](https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq) | 6:52 |
+| 8 | [Nightingale\. Music for the Moon and Stars.](https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Codex \- Music of Ancient Mexico](https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl) | 3:47 |
 | 9 | [Flauta Grande de Colima y Caracol Azteca](https://open.spotify.com/track/0tGIHFgNu2kKuyWcJE5gug) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 0:52 |
 | 10 | [Suite al Culto Solar \- Xochiyaoyoloh](https://open.spotify.com/track/1Z3pQdIz4n1aqKqWXncPGT) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 5:35 |
 | 11 | [Juego de Pelota](https://open.spotify.com/track/3DJjJNBcBbUjEKwy4HOIIQ) | [Ehecatl](https://open.spotify.com/artist/0U9dywhQ4PRbBn82jXGy15) | [Flauta Indígena de México](https://open.spotify.com/album/4o3JpQsSZ4aIqegl1V2XBH) | 3:45 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 14 | [The New Fire](https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Música Prehispánica](https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z) | 2:45 |
 | 15 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:35 |
 | 16 | [Josefinita](https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS) | [Rocío Próspero](https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l) | [Antología de la Música P'urhepecha, Vol\. VII](https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc) | 2:33 |
-| 17 | [Nightingale\. Music for the Moon and Stars.](https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Codex \- Music of Ancient Mexico](https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl) | 3:47 |
+| 17 | [Birth Song for Quetzalcoatl](https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj) | [Xavier Quijas Yxayotl](https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f) | [Mayan Ancestral Music \- Healing Music for Mother Earth](https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq) | 6:52 |
 | 18 | [Jajvel](https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Slajem K'op](https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb) | [K'op Kuxul](https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB) | 3:25 |
 | 19 | [Feast In the Mountain](https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Prehispanic Music](https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A) | 2:52 |
 | 20 | [Suite al Culto Solar \- In Altepetl Tonal](https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii) | [Luis Perez](https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS) | [Ipan In Xiktli Metztli \(México Mágico Cósmico, en el Ombligo de la Luna\)](https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N) | 3:20 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nwrgSzvSMp.md) - [plain]
 | 29 | [Ofrenda a Huitzilopoxtli](https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Cantos y Danzas](https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq) | 2:16 |
 | 30 | [Ritual Consagrado a los Dioses](https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T) | [El Príncipe Azteca](https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca) | [Música Prehispánica y Mestiza de México](https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs) | 2:33 |
 
-Snapshot ID: `MCxmZjgzMmU3MWY5ZWUyMWY5MmRjZTliMmM1YmI0NGUxODJhNTUyZWNi`
+Snapshot ID: `MCwxM2Q3YjlhMDM4ODk2MWI0NDRjYTk3MTdjNGFkOGI4NDYzYTBjOWRl`

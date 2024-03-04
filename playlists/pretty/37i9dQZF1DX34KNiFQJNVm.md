@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Simone Mendes, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,052 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,481 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 14 | [Pegada Bruta \(Ao Vivo\)](https://open.spotify.com/track/25aZXsNEI6bjp9EwAE2sUr) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [DVD X PEDRINHO, VOL\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2U0SzzCUC7Himj7JSaeNrR) | 3:03 |
 | 15 | [Cenas Obscenas](https://open.spotify.com/track/0OPJEQq12ytxKQAZedFWFG) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj), [Dj Kaio Lopes](https://open.spotify.com/artist/3clPt2S8kgKCRxb2XMajSY), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW) | [Cenas Obscenas](https://open.spotify.com/album/7MevNLsPX52bggVTS4I9H1) | 2:51 |
 | 16 | [Ar Geladinho](https://open.spotify.com/track/6ZIRVECxKUNgyXW01as1S3) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Ar Geladinho](https://open.spotify.com/album/3npV1jTIlw2eAYXZlsxd4I) | 2:25 |
-| 17 | [FaceTime \- Acústico Verano](https://open.spotify.com/track/6WgY7LfqTf5zLqtZ77zow3) | [Alex Stela](https://open.spotify.com/artist/4BcrDQxu6BPbBvMtkMce2X), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Roça Music](https://open.spotify.com/artist/1WBku55LS4RG8Fb7tryM7f) | [Acústico Verano](https://open.spotify.com/album/4QABublhvO8KVyrTZ6LUqR) | 2:44 |
+| 17 | [FaceTime \- Acústico Verano](https://open.spotify.com/track/0fBrxt8u86JWfltWvoDWs6) | [Alex Stela](https://open.spotify.com/artist/4BcrDQxu6BPbBvMtkMce2X), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Roça Music](https://open.spotify.com/artist/1WBku55LS4RG8Fb7tryM7f) | [FaceTime \(Acústico Verano\)](https://open.spotify.com/album/2f1Ndf3NQEt0sAuRTpckb5) | 2:44 |
 | 18 | [Namoro de Portão \- Ao Vivo](https://open.spotify.com/track/0X4RecvHtMRMigihLFerpI) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl), [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Namoro de Portão \(Ao Vivo\)](https://open.spotify.com/album/6Of9dPQsWmCmsUrMByIfMG) | 2:54 |
 | 19 | [Coração Que Bate No Chão \- Ao Vivo](https://open.spotify.com/track/1JQPxJkGBq9X1uPxIekJQ0) | [John Amplificado](https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Coração Que Bate No Chão \(Ao Vivo\)](https://open.spotify.com/album/0X6eomrxbBB1XSgVxGZgxS) | 2:29 |
 | 20 | [Serial Driller FREESTYLE](https://open.spotify.com/track/4L8tWeVnrEy2VwUObknirz) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Serial Driller FREESTYLE](https://open.spotify.com/album/2Juhi1Hjs2Ygjr8sAYskNv) | 1:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [011](https://open.spotify.com/track/6vzfS8S7UQxvUfevpfJmEh) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [011](https://open.spotify.com/album/0luKo86kXd3Iy4IR6DYCXh) | 2:15 |
 | 75 | [Amor Todinho](https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Amor Todinho](https://open.spotify.com/album/6twToesubSRehurAORMXrC) | 2:37 |
 
-Snapshot ID: `MCw4NGU0OGUxZDM5MDNlZWI4NzNlZDQ1NmIwMjY0MzA4ZjU4MWU3NGFk`
+Snapshot ID: `MCw4YmIyYjhlNmIyMzYyMzY4ZTZkNDExZDNiMmMyODczZmVjZWQyMDhj`

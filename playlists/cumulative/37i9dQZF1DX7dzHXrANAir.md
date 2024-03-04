@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-291 songs - 21 hr 16 min
+292 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Midnight Bird](https://open.spotify.com/track/19cnp0bp1q3kclOhLAZZYm) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1), [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Aisling Brouwer](https://open.spotify.com/artist/0laJTSeaECNmGVvVVXH6wn) | [Midnight Bird](https://open.spotify.com/album/0XwTUqzAD9cqMnKFjRhHbe) | 3:48 | 2021-12-10 | 2022-07-23 |
 | [Midnight Moon \(feat\. GDRN\)](https://open.spotify.com/track/1IQziDbS49gXwDERs4RABR) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [Midnight Moon \(feat\. GDRN\)](https://open.spotify.com/album/49ntRLx0d0j1sm2XKScafw) | 4:10 | 2021-12-10 | 2022-04-02 |
 | [Minquiers](https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc) | [Minihi](https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0) | [Recaptures](https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc) | 3:30 | 2021-12-10 |  |
+| [Mirror 8](https://open.spotify.com/track/77AIHy7pkYwRKfa1nM6hlR) | [Michael A\. Muller](https://open.spotify.com/artist/2jNobg3ln4Ylaokr4C3qoU), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Mirror Music](https://open.spotify.com/album/32Hr30Ahgal5QIXdpOcvNE) | 3:36 | 2024-03-01 |  |
 | [Mishkin](https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [Mishkin & Septuagint](https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc) | 3:15 | 2021-12-10 |  |
 | [mist](https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 6:33 | 2022-01-21 |  |
 | [Mists Inhabit This Place](https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Mists Inhabit This Place](https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv) | 3:50 | 2021-12-10 |  |
@@ -273,7 +274,7 @@
 | [Transformotion](https://open.spotify.com/track/4RBecpK3zimf5RLUMof1f2) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Environ Me](https://open.spotify.com/album/2VPgmbUGnO0kj2LjYg50cb) | 4:02 | 2021-12-10 | 2022-04-01 |
 | [Traveller \- Lambert rework](https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Traveller \(Lambert rework\)](https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql) | 3:20 | 2022-10-07 |  |
 | [Trouble](https://open.spotify.com/track/7w5O56SCgNMVt9O9CsO1FV) | [Lissom](https://open.spotify.com/artist/5BRxWwvhe1BxvK6fs4V0dx), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Trouble](https://open.spotify.com/album/5vCMVucMnkg9OMZ46TD6o2) | 2:56 | 2022-03-25 | 2022-04-21 |
-| [Unity \- Mike Lazarev CrO2 Reduction](https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9) | [Diana Yukawa](https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7), [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unity \(Mike Lazarev CrO2 Reduction\)](https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR) | 3:50 | 2023-06-30 |  |
+| [Unity \- Mike Lazarev CrO2 Reduction](https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9) | [Diana Yukawa](https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7), [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unity \(Mike Lazarev CrO2 Reduction\)](https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR) | 3:50 | 2023-06-30 | 2024-03-04 |
 | [Universal Kiss](https://open.spotify.com/track/407KvBaY2r2ctmZpY1KufZ) | [Benedikt Schiefer](https://open.spotify.com/artist/4OaysEYNmI6UIEkyplEcNH) | [Universal Kiss](https://open.spotify.com/album/7DARwzaOmIIiVJUSzNdXWt) | 9:18 | 2022-01-07 | 2022-07-29 |
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2021-12-10 | 2022-03-31 |
 | [Vale](https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/0rhtrkctOlgmZkAX44BaGN) | 6:28 | 2021-12-10 | 2022-07-22 |

@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 303052,
+  "2024-03-04": 303107,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music from the wide world of punk. Cover: Games We Play",
   "name": "All New Punk",
@@ -26491,10 +26491,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 70640,
       "name": "The Same Ordinary",
       "url": "https://open.spotify.com/track/13sPX6OiDxFJnpf0LMyfp9"
+    },
+    {
+      "album": {
+        "name": "Rationale",
+        "url": "https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV"
+      },
+      "artists": [
+        {
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70640,
+      "name": "The Same Ordinary",
+      "url": "https://open.spotify.com/track/54R07VskSEqrvrtKxn2bW5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,939 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,936 likes - 90 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 4 | [All Our Love](https://open.spotify.com/track/1l3J5RTiqDY82Rzk7rr7mh) | [Ateneo Chamber Singers](https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U) | [Acclaim \(A Mass Setting for Ordinary Time\)](https://open.spotify.com/album/7rdJBNpOu8DPt8qcJLCAu5) | 3:09 |
 | 5 | [PAGDULOG](https://open.spotify.com/track/3pOMnjZKrBA3lq3eY0yRAL) | [Cherise Katriel](https://open.spotify.com/artist/5w0v3Y4sMwMokCwiHeVDIN) | [PAGDULOG](https://open.spotify.com/album/2rx7FBCHpOBtKIo6fSase6) | 4:51 |
 | 6 | [UNANG NAGMAHAL](https://open.spotify.com/track/3VIiWwTZ7XzJTdyFaRUIsr) | [Louie Anne Culala](https://open.spotify.com/artist/3qADbqmOVfRmzv9LcYESGB) | [UNANG NAGMAHAL](https://open.spotify.com/album/4dD8oQwWpg4eiDfXZlXpVs) | 4:55 |
-| 7 | [Anima Christi](https://open.spotify.com/track/6zSiX5IaRAFXS2hYQ0CCHo) | [Edward Opinaldo](https://open.spotify.com/artist/2pgl8YDKgxin8UFZoWc12G), [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [The Best of Bukas Palad, Vol\. 2](https://open.spotify.com/album/2IXih4ywSYeExf95GXMigb) | 2:28 |
+| 7 | [Anima Christi \(Based on a 14th century prayer, author unknown, but attributed to Pope John XXII\)](https://open.spotify.com/track/7ugjOxjIyZS9wsPhDbfsq0) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Edward Opinaldo](https://open.spotify.com/artist/2pgl8YDKgxin8UFZoWc12G) | [The Best of Bukas Palad, Vol\. 2 \(Songs in English\) Silver Anniversary Edition](https://open.spotify.com/album/1JoScDpurDeNV2n7azpQBN) | 2:27 |
 | 8 | [Christify](https://open.spotify.com/track/0BSr9bG0NIzuowGiILn4H1) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Christify](https://open.spotify.com/album/0l5oSU4YihW50BsxVbkeEa) | 3:03 |
 | 9 | [Tungo Sa'yo](https://open.spotify.com/track/4sHcUvNf3lwDaibrFdqum9) | [Bituin Escalante](https://open.spotify.com/artist/0lyIvVIJZWM6K64it2HqWk), [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX) | [Tungo Sa'yo](https://open.spotify.com/album/3YLfQuufMs7a0OrHAisBBn) | 4:59 |
 | 10 | [I Will Sing Forever](https://open.spotify.com/track/5pdvm1sHM4j8WtROer0Gbk) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [The Best of Bukas Palad, Vol\. 2](https://open.spotify.com/album/2IXih4ywSYeExf95GXMigb) | 3:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 89 | [Ama Namin](https://open.spotify.com/track/6SstAWN7LeRAH2lfAtSVZd) | [Tres Hermanas](https://open.spotify.com/artist/3rXT3DX9OeNMfH8Thivxrk) | [Songs for the Mass](https://open.spotify.com/album/2YycKytwh2xBObANYCLfHQ) | 2:11 |
 | 90 | [Mercy and Compassion](https://open.spotify.com/track/6t9kdQ3OOVABGIshMn0Qz2) | [Fr\. Raul G\. Caga SVD](https://open.spotify.com/artist/2zioTijO3b2H3KX9w9DmmL), [Cardinal Chito G\. Tagle](https://open.spotify.com/artist/1qoIwahhPAnFxTgdFlN1r1) | [Gracious Mercy](https://open.spotify.com/album/5QmW5R7GK9ynG4AYCmcxDt) | 5:14 |
 
-Snapshot ID: `MCw5OWEwYTg1M2Y5NWMzZTA3OWM5ZGY1YjZiZjA2MGNkNzhjMmVhM2U0`
+Snapshot ID: `MCxhZDI0OWNlMmNmNDA4NzVhNzBlMjNhYWJiZTJhOTU1ZDQ0ZWMwMDNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring <a href="spotify:artist:7tYKF4w9nC0nq9CsPZTHyP">SZA</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,730 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,734 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 75 | [Kinks](https://open.spotify.com/track/6biOWQ7B2x5VDxfZrQxg44) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Kinks](https://open.spotify.com/album/38xAsoxCRO7zuPsGfZi4Wv) | 3:33 |
 
-Snapshot ID: `MCwwZDhjM2VkNTdiODAyOTcwZTcwMmNmNTRlZTQ4YWE1OThlZmVmMzNl`
+Snapshot ID: `MCw0Yjc1ZjExZDU5ODI2MDJkMWU4MzQxNWIyMjY0YmRhMzc5MWUwOWNh`

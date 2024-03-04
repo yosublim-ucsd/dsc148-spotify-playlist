@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,626 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,633 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU) | 3:20 |
 | 80 | [Madness](https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Madness](https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E) | 3:30 |
 
-Snapshot ID: `MCxmM2FmMGRmOTZlYzMwMmM5MTBjNTVkNTJlMWRjNTA4NDQ3MWIyMTU0`
+Snapshot ID: `MCw1MzMwZGFlMzdjMmFhN2JlMTIzYzBkODdmOWI5OGJjZWNhYjkzM2Zl`

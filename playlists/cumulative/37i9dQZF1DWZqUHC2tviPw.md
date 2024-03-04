@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-219 songs - 9 hr 59 min
+221 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,11 @@
 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 | 2021-11-11 |  |
 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 | 2021-11-11 | 2023-01-20 |
 | [Eternity](https://open.spotify.com/track/1IvwJ7EdCOCHPpjN6p1Zkl) | [MOE Beats](https://open.spotify.com/artist/0LkgnZ47qj38fmsGoGCrRU) | [Eternity](https://open.spotify.com/album/10eGLIyggbHDmJmHPa7LGJ) | 3:10 | 2022-06-17 | 2023-01-20 |
+| [Everybody Panic](https://open.spotify.com/track/6RDaFSIFqw6QYeWmeK1d9K) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Everybody Panic](https://open.spotify.com/album/1KZI0zlNR3EKm4DKeY8Ixl) | 2:06 | 2024-03-03 |  |
 | [Face It](https://open.spotify.com/track/4ZXF3d2gryQUhiVfNOTM56) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:59 | 2022-04-08 |  |
 | [Face Shot](https://open.spotify.com/track/4MVhRwIat6P6WrTxbnLFbZ) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Face Shot](https://open.spotify.com/album/5GU1xNaOnJlkFM5IkoSKai) | 1:49 | 2021-11-11 |  |
 | [Failed the Test](https://open.spotify.com/track/4Qp7Gjxh7G0BlVccDsS0VI) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Failed the Test](https://open.spotify.com/album/4qgKi4Q0d8uSVvf0U1KN4C) | 2:52 | 2021-11-11 |  |
+| [Fairy Pond](https://open.spotify.com/track/5ZgXlhqIAByj5WzpADJiZz) | [ImLike](https://open.spotify.com/artist/75iPPsNFrudjBCDIQlzRkV) | [Fairy Pond](https://open.spotify.com/album/1lfcXMFGG32LOgfhWvPGjm) | 2:35 | 2024-03-03 |  |
 | [Fever Dreams](https://open.spotify.com/track/1uNVuaX9XHbaHO4cO75XUE) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:09 | 2021-11-11 |  |
 | [Find Your Own Way](https://open.spotify.com/track/1Sm6NMqZxCu9uKQ7rvJKs3) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Find Your Own Way](https://open.spotify.com/album/1dih45nT3fXu29empKFZrb) | 2:53 | 2022-06-17 |  |
 | [First Half](https://open.spotify.com/track/4EVDMXXJs143jposTpJjxu) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Somewhere](https://open.spotify.com/album/0WaZ8LL66jyGceZHhjeGJC) | 2:47 | 2021-11-11 |  |

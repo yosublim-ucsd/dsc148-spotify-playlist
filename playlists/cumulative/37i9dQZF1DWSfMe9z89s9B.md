@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Asha Imuno
 
-1,102 songs - 2 day 10 hr 37 min
+1,104 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 | 2024-01-12 |  |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/3TWE0jIXNuI2DVa5Y1fKRf) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/0dIY9BClkUUgfe7zthyBVv) | 2:35 | 2023-04-28 | 2023-10-25 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL) | 2:35 | 2023-04-28 |  |
+| [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-03-01 |  |
 | [BILL$ \(SPED UP\)](https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 2:00 | 2022-09-09 | 2023-02-18 |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-04-30 | 2022-08-06 |
 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 | 2022-08-05 | 2022-10-30 |
@@ -725,7 +726,7 @@
 | [Pasadena](https://open.spotify.com/track/0LFKnn56aITNeS2PRyGBFp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Pasadena](https://open.spotify.com/album/6yrsnGQwaT2YlWNAOntPz8) | 2:57 | 2021-06-04 | 2022-07-10 |
 | [Passport \- シングル版](https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Passport \(シングル版\)](https://open.spotify.com/album/3YyA7QcOAdQaWne8E4SF6k) | 3:02 | 2021-03-19 | 2022-01-02 |
 | [Patient](https://open.spotify.com/track/730CcAUVjw3qLxvaBfB7qf) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Patient](https://open.spotify.com/album/0bj3ttjgVGDYOEtJLA4Bar) | 4:04 | 2022-04-01 | 2022-06-08 |
-| [Peppermint](https://open.spotify.com/track/3rp0lvWmmT8Z1mKk0K7lfW) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Peppermint](https://open.spotify.com/album/5RyFH5vqNg3W3YWCSTZU09) | 2:53 | 2023-10-13 |  |
+| [Peppermint](https://open.spotify.com/track/3rp0lvWmmT8Z1mKk0K7lfW) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Peppermint](https://open.spotify.com/album/5RyFH5vqNg3W3YWCSTZU09) | 2:53 | 2023-10-13 | 2024-03-04 |
 | [Perfect](https://open.spotify.com/track/4dGRpl0xZg9C9aesFhlsoe) | [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Clearly Confused](https://open.spotify.com/album/15DzB3KZMXfo7cpoWXxjJh) | 2:25 | 2021-08-13 | 2022-01-07 |
 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2022-09-23 |  |
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 | 2023-10-07 |
@@ -760,6 +761,7 @@
 | [Pray](https://open.spotify.com/track/4xXADPkERks2COmdLe8yd0) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:55 | 2023-10-20 |  |
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-02 | 2022-09-10 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-21 | 2023-09-02 |
+| [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-03-01 |  |
 | [Pretty](https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Pretty](https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp) | 3:25 | 2023-04-21 | 2024-01-28 |
 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 | 2023-07-28 | 2023-12-09 |
 | [Pretty Like You](https://open.spotify.com/track/6IksI018PglNFPUL40pxit) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Private Room](https://open.spotify.com/album/4tiRp1HukUk0ZN8OfF30Zw) | 2:34 | 2023-04-21 | 2024-02-24 |
@@ -811,7 +813,7 @@
 | [royal flush](https://open.spotify.com/track/7bNbfwfW69j5vNmJ1JvNqi) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [royal flush](https://open.spotify.com/album/53MJQwS7ZbaMIC6Kfsa32U) | 2:26 | 2021-04-02 | 2022-01-29 |
 | [RUBBER BANDS](https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [RUBBER BANDS](https://open.spotify.com/album/4zqb97nYx9h7x9hO307476) | 2:51 | 2021-05-14 | 2022-04-12 |
 | [Run](https://open.spotify.com/track/7Jtf2RpwDW654tbp6bbIA3) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:59 | 2023-05-12 | 2023-09-09 |
-| [running](https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [running](https://open.spotify.com/album/11O3GQQAOAVvsqrUnbtXgl) | 3:20 | 2023-12-01 |  |
+| [running](https://open.spotify.com/track/2c28pB1VU06vVgOF5fzcTB) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [running](https://open.spotify.com/album/11O3GQQAOAVvsqrUnbtXgl) | 3:20 | 2023-12-01 | 2024-03-04 |
 | [Running In A Circle](https://open.spotify.com/track/2UEAjm1sDcJe9BMZaRr8x9) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Running In A Circle](https://open.spotify.com/album/1ir1Q3x9UIYnrkyt9LkMYq) | 3:39 | 2023-11-19 | 2024-01-11 |
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-16 |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-14 | 2022-07-29 |

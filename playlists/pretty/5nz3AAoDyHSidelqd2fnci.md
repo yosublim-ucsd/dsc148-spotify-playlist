@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 58 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 |
-| 2 | [Mambo de Machaguay](https://open.spotify.com/track/7oapbuQr2xcofyvWsbmXTk) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/4Ui6DT2pWq7Fugb9VpJgZM) | 4:53 |
-| 3 | [Rain](https://open.spotify.com/track/3AqwbzPzbAd10BvC78nSYO) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Boy Who Knew Too Much](https://open.spotify.com/album/0kWIUG0jqOsKQCcDJZQ9G0) | 3:43 |
-| 4 | [Long Road To Ruin](https://open.spotify.com/track/4Hv5jUXVQveCj36wN6dPmD) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 3:48 |
-| 5 | [14 Years](https://open.spotify.com/track/6kuMNhZdF7GgGvmioGc5g2) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/5NL0MCTSbQtO13G62ofWAf) | 4:21 |
-| 6 | [skyskysky](https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [skyskysky](https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8) | 2:23 |
-| 7 | [The Negative One](https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:25 |
-| 8 | [Prove Me Right](https://open.spotify.com/track/0t3IA88SWvS4W7zAfxgKA4) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Challenger](https://open.spotify.com/album/6qfsRtzIJdze9OsooWVNXE) | 4:09 |
-| 9 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
-| 10 | [This Was My Life](https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:43 |
-| 11 | [Ted The Mechanic](https://open.spotify.com/track/5OoJyXsNLr8x6MU1qTlruz) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 4:19 |
-| 12 | [About A Girl \- Remastered](https://open.spotify.com/track/0zeqKbySjKbfW5jyl3PMsW) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/1TjncssmpzxUYTZic79o7T) | 2:48 |
+| 1 | [Generation Dead](https://open.spotify.com/track/67cxl7KB5IG6dsWAZvmWJ2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/3QGWtX1z0GAuAVIFAFcGUM) | 3:43 |
+| 2 | [Crazy \- LP Edit](https://open.spotify.com/track/4kPtKY0eOZcxfehet2aiYK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best of Aerosmith: Devil's Got a New Disguise](https://open.spotify.com/album/4kxrUUfNn4zgpSIchf06EP) | 4:03 |
+| 3 | [Fotos y Autógrafos](https://open.spotify.com/track/4cH9m3wxUWgkIzbLPByL24) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni por la Razon, Ni por la Fuerza \- Antologia](https://open.spotify.com/album/3lw3Fh1bzFCGQaDRE1AguX) | 3:29 |
+| 4 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 |
+| 5 | [Bleed It Out](https://open.spotify.com/track/3yT0WjcKrZnJkTv2sjIQaB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes To Midnight](https://open.spotify.com/album/5Lct07PzJt9QJGsY7JOrPX) | 2:44 |
+| 6 | [Partita in C Major: Gigue](https://open.spotify.com/track/3nWbL8WpxaoJxfBxcCnFms) | [Tyler Hawkins](https://open.spotify.com/artist/6UVaQ6rZvJoKnDMlEXyonx), [Christopher Irvine](https://open.spotify.com/artist/4h0HfIayKkogqCic5PUKrx) | [Georg Philipp Telemann Lute Duets for Classical Guitar](https://open.spotify.com/album/233eqIMGit9gAegpmLg7r6) | 1:32 |
+| 7 | [tnteen](https://open.spotify.com/track/4jMfntwDOIdSRz7kmeCgpG) | [feeo](https://open.spotify.com/artist/03aiitie1Nvoq2vvHF3kLR) | [tnteen](https://open.spotify.com/album/73iDgH6wMxJbKUC6UPt7G4) | 3:55 |
+| 8 | [Hurt](https://open.spotify.com/track/4HbVVd2D3HKYe7PR0uEn1q) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/4zvKUPP4GO4Q6GcAlhtvfF) | 6:14 |
+| 9 | [Fibbs](https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Fibbs](https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l) | 3:28 |
+| 10 | [Sube a Nacer Conmigo Hermano](https://open.spotify.com/track/4fvBHLNI8Ssmzll6uXdaOr) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas De Macchu Picchu](https://open.spotify.com/album/454rwJ7uRe7q5VW7dUj1XH) | 4:47 |
+| 11 | [Seven Days](https://open.spotify.com/track/2j55B9EwLrsYZDlTJIXrDU) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 3:24 |
+| 12 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
 
-Snapshot ID: `NDUsMDk1N2NjZGFiZmU4NzFlNDE4YTNhMWEzMWFiZWZmNTI0NTJlZmM4Yg==`
+Snapshot ID: `NDYsZTAzOGUwNjE0ZWU0ZjdhYjZkYzZlOWQ1OGI4Y2I2NWU5YjlmYWRjYg==`

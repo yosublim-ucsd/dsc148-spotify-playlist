@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 1067116,
+  "2024-03-04": 1067180,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -4107,7 +4107,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 160258,
       "name": "BOULEVARD",
       "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
@@ -4991,10 +4991,36 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 198421,
       "name": "Capolavoro",
       "url": "https://open.spotify.com/track/7eJmxii4Ez8scjzDF0V9v6"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Capra a tre Teste (feat. Tony boy & Artie 5ive)",
+      "url": "https://open.spotify.com/track/29XfSJE6jSzceVjUdH3i2c"
     },
     {
       "album": {
@@ -8406,6 +8432,28 @@
     },
     {
       "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "Denaro (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/2SEAbXqFtdTwkzgAb5Ci80"
+    },
+    {
+      "album": {
         "name": "Fastlife 4",
         "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
       },
@@ -9684,6 +9732,24 @@
     },
     {
       "album": {
+        "name": "Pianeta di Miller",
+        "url": "https://open.spotify.com/album/3Y88LAOJxcLSiqfztL6HGO"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/4QRWBM7LFWHhIUU8b1O6GK"
+    },
+    {
+      "album": {
         "name": "DUE ALTALENE",
         "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
       },
@@ -9695,7 +9761,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 197142,
       "name": "DUE ALTALENE",
       "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
@@ -10342,6 +10408,32 @@
     },
     {
       "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/6jN6FwPrMDKLgHbU9OyTrt"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Eva (feat. Tedua)",
+      "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
+    },
+    {
+      "album": {
         "name": "EVERYDAY (feat. Shiva, ANNA, Geolier)",
         "url": "https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs"
       },
@@ -10395,6 +10487,32 @@
       "duration_ms": 244536,
       "name": "Everyday Everynight (feat. Gazo, Russ Millions)",
       "url": "https://open.spotify.com/track/21VIZmEptg8NOr3M0g2slT"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Ex Angelo (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq"
     },
     {
       "album": {
@@ -10757,7 +10875,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -11627,7 +11745,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 152000,
       "name": "Fortuna (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0"
@@ -14477,7 +14595,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 216685,
       "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
       "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
@@ -14525,7 +14643,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
@@ -14612,6 +14730,24 @@
     },
     {
       "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Il Signore delle Mosche",
+      "url": "https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq"
+    },
+    {
+      "album": {
         "name": "ALI",
         "url": "https://open.spotify.com/album/5wYCns6K6csMAkZhx3Ierm"
       },
@@ -14627,6 +14763,28 @@
       "duration_ms": 170588,
       "name": "Il tuo nome",
       "url": "https://open.spotify.com/track/2RVdq0QXC4JxU0X51ZQYaH"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Fido Guido",
+          "url": "https://open.spotify.com/artist/1b6blY2zesXu8QpeTUorPW"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Ilva (Fume scure rmx) (feat. Fido Guido)",
+      "url": "https://open.spotify.com/track/3qVXFPzGHZrZDvCK75USxg"
     },
     {
       "album": {
@@ -15021,7 +15179,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 206805,
       "name": "Insta Lova",
       "url": "https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r"
@@ -16063,7 +16221,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 172050,
       "name": "l'amore in bocca",
       "url": "https://open.spotify.com/track/6QnX3AZkvOzwQt0fdS6cZT"
@@ -16103,10 +16261,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 138205,
       "name": "L'Anticristo",
       "url": "https://open.spotify.com/track/3EqoXoBVHpIrw7ZFWqF6P6"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "L'Anticristo",
+      "url": "https://open.spotify.com/track/7CWoRDIMfhEbfYzdD9noJm"
     },
     {
       "album": {
@@ -17035,7 +17211,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 189406,
       "name": "La rabbia non ti basta",
       "url": "https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu"
@@ -18174,6 +18350,24 @@
     },
     {
       "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
+    },
+    {
+      "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
       },
@@ -18649,6 +18843,24 @@
       "duration_ms": 173293,
       "name": "Luce a Roma (feat. Side Baby)",
       "url": "https://open.spotify.com/track/5tAZWIV2ADm9WI2VTp440C"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Lucifero",
+      "url": "https://open.spotify.com/track/7rpdxZxGIego0dmDxD8NBu"
     },
     {
       "album": {
@@ -21517,7 +21729,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 186126,
       "name": "MOON (feat. Capo Plaza & Tony Boy)",
       "url": "https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY"
@@ -22171,6 +22383,28 @@
       "duration_ms": 175626,
       "name": "NEMESI (feat. BLANCO)",
       "url": "https://open.spotify.com/track/4QBXMgfDKmmVrYEqICIPxJ"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185016,
+      "name": "Nemico (feat. Ernia)",
+      "url": "https://open.spotify.com/track/5FvsnJflCxiroIDIO31VIF"
     },
     {
       "album": {
@@ -24413,6 +24647,24 @@
       "duration_ms": 174893,
       "name": "Paganini",
       "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/2QamAlQF2RUcRNMNzZ2Ub7"
     },
     {
       "album": {
@@ -26899,7 +27151,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 176516,
       "name": "RAGAZZI FUORI",
       "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
@@ -27761,7 +28013,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 162684,
       "name": "ROSSOFUOCO",
       "url": "https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24"
@@ -28761,6 +29013,32 @@
       "duration_ms": 175946,
       "name": "Senza Sogni (feat. Elisa)",
       "url": "https://open.spotify.com/track/7GkfSdH9lsigvCs1rSS3Ag"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Servizio (feat. Papa V & Noyz Narcos)",
+      "url": "https://open.spotify.com/track/6yuUPjVYC04HlX1pFlC4NF"
     },
     {
       "album": {
@@ -31427,7 +31705,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 174461,
       "name": "TEKKEN (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
@@ -31461,6 +31739,28 @@
       "duration_ms": 196046,
       "name": "TEMPORALE (feat. Ketama126, Izi & Luche)",
       "url": "https://open.spotify.com/track/6CSNzPgC41ttk0RERlfr3f"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185759,
+      "name": "Terr1 (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6ugkgVN1IE83oz4flojGiw"
     },
     {
       "album": {
@@ -35245,6 +35545,24 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185759,
+      "name": "Yung 3p 4",
+      "url": "https://open.spotify.com/track/3QCIdXmwSgQtHR7v7o3M9A"
     },
     {
       "album": {

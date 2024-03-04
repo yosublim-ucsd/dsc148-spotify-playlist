@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-560 songs - 23 hr 53 min
+564 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Crystal Cove](https://open.spotify.com/track/0yYIIB8T7xqEEzU9OaiBoy) | [Amoni](https://open.spotify.com/artist/4Z0C1HBoGZVlJenbBxwZK0) | [Crystal Cove](https://open.spotify.com/album/2LAjL7RIenYm4LzBRggBI6) | 2:36 | 2021-11-10 | 2022-05-14 |
 | [CTRL\_ALT\_DLT](https://open.spotify.com/track/0I2jQDgn5wU64mTWv9HHfN) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [CTRL\_ALT\_DLT](https://open.spotify.com/album/5qXcWxc4SEuUhVIIYBmU35) | 2:36 | 2022-12-09 |  |
 | [Daybreak](https://open.spotify.com/track/0M9qQqSanWzklFfbUOKUEZ) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Dreamscapes](https://open.spotify.com/album/2odLQ4nP5FWjyH7jpHsKVh) | 2:03 | 2023-02-17 |  |
+| [Daydreaming on Purpose](https://open.spotify.com/track/2pouZmjx5cWzQvJ6meCs5K) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Daydreaming on Purpose](https://open.spotify.com/album/0dfzslawutUwmCAR1gpGhY) | 2:28 | 2024-03-03 |  |
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-02-17 |  |
 | [Dazzle](https://open.spotify.com/track/7wivunAmLKAfZ9j2fQrt31) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Radiance](https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me) | 3:12 | 2021-11-10 | 2022-06-03 |
 | [Deductivism](https://open.spotify.com/track/44YPc6y7Wnh3Ochz19gVcF) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Axioms](https://open.spotify.com/album/51bUK9WeQYek8YkJ4kgWik) | 3:05 | 2021-11-10 | 2022-07-01 |
@@ -391,6 +392,7 @@
 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 | 2021-11-10 |  |
 | [Radio Beats](https://open.spotify.com/track/1kam4Z5I1d0Ia7u6sAgxSk) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Radio Beats](https://open.spotify.com/album/4mwnukawHOuhJRQT03qZUI) | 2:16 | 2021-11-10 | 2022-07-08 |
 | [Rainbow Roadtrip](https://open.spotify.com/track/2ZJEPURa12Zyhj5X2r8DGT) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rainbow Roadtrip](https://open.spotify.com/album/5EFl9RAEIWatfOHJcM3HPR) | 3:31 | 2021-11-10 | 2022-08-20 |
+| [Re\-Entry](https://open.spotify.com/track/2pujLQU1KjAGrbvGAavxEn) | [Hugo Size](https://open.spotify.com/artist/1uXGeDPWDL61wJ5CX5Zxnk) | [Re\-Entry](https://open.spotify.com/album/0O60xsKYuhazj6iGa2YnUx) | 3:26 | 2024-03-03 |  |
 | [Real Artist](https://open.spotify.com/track/13uiS7Ku1hhcU6F6DRIwAL) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:01 | 2022-05-10 | 2022-09-02 |
 | [Real space](https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk) | [Etherealz](https://open.spotify.com/artist/0aIHVgvyg6RLaXkbg52RN8) | [Real space](https://open.spotify.com/album/3y8sIzjrmZe2UEQ2QV3RRg) | 1:59 | 2021-11-10 | 2022-06-03 |
 | [Recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 | 2022-10-07 |  |
@@ -451,6 +453,7 @@
 | [slippers](https://open.spotify.com/track/28N9lVoqujpj2Mt3UxZHuv) | [Klarelvs](https://open.spotify.com/artist/4oymGV3Uifc3uYwgTngoMA) | [slippers](https://open.spotify.com/album/1fKCZuGVthQz5ohbtIWM4k) | 2:03 | 2023-02-17 |  |
 | [Slow Melting Wax](https://open.spotify.com/track/5ieZlCwuzLyAOeSNHMBbRd) | [Exo\-Wave](https://open.spotify.com/artist/4FxnAF8rROaK9CluAvRDQs) | [Slow Melting Wax](https://open.spotify.com/album/7Iv5tp4PVwyuxLOTLnUrum) | 3:43 | 2021-11-10 | 2022-07-01 |
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-11-10 | 2022-07-01 |
+| [Smile Parade](https://open.spotify.com/track/5AKdtHpbMjotVxUEqBXiX8) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Smile Parade](https://open.spotify.com/album/0SjBxbhdGMVb2asDgoaSOs) | 2:21 | 2024-03-03 |  |
 | [Smooth](https://open.spotify.com/track/0BZA9vcgNU7xsGSAHxahuG) | [Happy Soulboy](https://open.spotify.com/artist/1GMd4zizPNAvdnaNojdWER) | [Smooth](https://open.spotify.com/album/5zQpW1QCaC2Ehsx6yVg169) | 2:45 | 2022-11-25 | 2023-12-05 |
 | [Smooth Mind](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Smooth Mind](https://open.spotify.com/album/5uQibIak3bvGti5AEvePm5) | 2:58 | 2021-11-10 | 2022-07-08 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2021-11-10 | 2022-05-11 |
@@ -561,6 +564,7 @@
 | [Winders](https://open.spotify.com/track/5kzCtOR9QZrH9s0sGgimQL) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Mother](https://open.spotify.com/album/0463JilwEzOU63LM4NLvDh) | 2:59 | 2023-03-17 |  |
 | [Window in Time](https://open.spotify.com/track/45M34uxWB4RGb9Nh16luLs) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Window in Time](https://open.spotify.com/album/59rKbmjCHpwkGniq34qANA) | 3:07 | 2022-10-07 |  |
 | [Winds & Shadows](https://open.spotify.com/track/04BL0Jfx1yLRPpSjMKmG4f) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Yoga Rhythms](https://open.spotify.com/album/1Nh8BT4uBroLsLi0l5THgw) | 4:46 | 2022-11-25 | 2023-08-05 |
+| [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 | 2024-03-03 |  |
 | [Years Go By](https://open.spotify.com/track/5ypcyyCy6uXaeKrbdpmaY8) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Years Go By](https://open.spotify.com/album/6AnT3tJePFHQAlIFAdpvD5) | 1:57 | 2021-11-10 | 2022-07-01 |
 | [your pillow](https://open.spotify.com/track/5bM9yqaHGpWYLKTJznFZFU) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [your pillow / geodesis](https://open.spotify.com/album/5V6MjlAOq8akXPb7vifrXe) | 2:19 | 2022-05-10 | 2023-01-13 |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |

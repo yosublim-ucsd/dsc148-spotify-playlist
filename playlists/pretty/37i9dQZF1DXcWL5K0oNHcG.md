@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Jasmine Myra\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,744 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,795 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Plasma](https://open.spotify.com/track/0tN87uXOyp6KjCfUVms7o5) | [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO), [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Locana](https://open.spotify.com/album/2BrwUF0cl17iaUZBSQcwqL) | 2:22 |
 | 50 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 |
 
-Snapshot ID: `MCw2ZjMwZjYzNWFiYWE4MmU5NTRkN2IzZjhhMmJlOTE0M2Q3OTYyZDZj`
+Snapshot ID: `MCw0ODg3Mzg3ZTE5OGQzNTc3MGFjOGRmNTE5MWNkZTQxODFjZjdiMDU0`

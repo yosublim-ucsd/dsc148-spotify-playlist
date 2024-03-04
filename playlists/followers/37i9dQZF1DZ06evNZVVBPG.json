@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 2256864,
+  "2024-03-04": 2257504,
   "date_first_scraped": "2023-09-10",
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
   "name": "This Is Lana Del Rey",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 243187,
       "name": "Dark Paradise",
       "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 290625,
       "name": "Music To Watch Boys To",
       "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 214573,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"

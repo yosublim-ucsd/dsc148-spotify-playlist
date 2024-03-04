@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 102805,
+  "2024-03-04": 102840,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -1785,6 +1785,32 @@
       "duration_ms": 171595,
       "name": "Allo Class",
       "url": "https://open.spotify.com/track/6BRcfiMW72tcTFde2gsPUZ"
+    },
+    {
+      "album": {
+        "name": "Kyrios Nekrikos Part II",
+        "url": "https://open.spotify.com/album/5ilOCCMbFnwx4Awv4FqZll"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Alloi Kosmoi",
+      "url": "https://open.spotify.com/track/5GWh1kkFB7nm3EoCO0jnjP"
     },
     {
       "album": {
@@ -9079,6 +9105,32 @@
       "duration_ms": 159340,
       "name": "Euro Gangsta",
       "url": "https://open.spotify.com/track/0ifihkLHfnm6Ym3jekzZQv"
+    },
+    {
+      "album": {
+        "name": "Kyrios Nekrikos Part II",
+        "url": "https://open.spotify.com/album/5ilOCCMbFnwx4Awv4FqZll"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214878,
+      "name": "Euxes Kai Katares",
+      "url": "https://open.spotify.com/track/4T1tpeElOeJnBu41JKQkzA"
     },
     {
       "album": {
@@ -17755,7 +17807,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 165000,
       "name": "ME N U",
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
@@ -24027,7 +24079,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -24740,6 +24792,36 @@
     },
     {
       "album": {
+        "name": "Kyrios Nekrikos Part II",
+        "url": "https://open.spotify.com/album/5ilOCCMbFnwx4Awv4FqZll"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        },
+        {
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/1EXpoSpKElvsvgaRR6J9rV"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185609,
+      "name": "San Th Prwth Fora",
+      "url": "https://open.spotify.com/track/7L0wpByUzDyj8uLzGPtTjW"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -25139,7 +25221,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 201832,
       "name": "SHIESTY MASK",
       "url": "https://open.spotify.com/track/5h5s32wsc8YMWwTO9QHPTO"

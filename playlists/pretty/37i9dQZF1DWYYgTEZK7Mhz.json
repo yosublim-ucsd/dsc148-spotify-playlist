@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 26969,
+  "num_followers": 27007,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDM5YzIzMzRhMWMxNmQ4ZjQ2ZmQ3ZmEzM2RlNzUxYzE1MDM1Yjk2",
+  "snapshot_id": "MCwwMWNiMGUxNjRiOGRhNjE4YTgyNjE0ZmQwMTU1MGRjYjJlZDE4ZTJj",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
+        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "The Best Righeira",
         "url": "https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 113853,
       "name": "Stasera mi butto",
       "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "40 Grandi Successi",
-        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Fontana",
-          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Il Mondo",
-      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Donna Felicita'",
         "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 127333,
       "name": "Donna Felicita'",
       "url": "https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "40 Grandi Successi",
+        "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "I Grandi Successi: Gianni Pettenati",
-        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
-      },
-      "artists": [
-        {
-          "name": "Gianni Pettenati",
-          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Bandiera gialla",
-      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rita Pavone (Gli Indimenticabili)",
         "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 137573,
       "name": "Il ballo del mattone",
       "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "I Grandi Successi: Gianni Pettenati",
+        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
+      },
+      "artists": [
+        {
+          "name": "Gianni Pettenati",
+          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Bandiera gialla",
+      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
     },
     {
       "added_at": "2023-06-05 07:42:38",

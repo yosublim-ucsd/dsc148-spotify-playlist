@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 137655,
+  "num_followers": 137696,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGRlNDZkNzJiYTliYTE5ZTFhODdiZjMwMmQwMjc2YTVjOWQ3OWVh",
+  "snapshot_id": "MCw1MWEyODgwNjQ4Yzg2NDA3YjVmMTgwMjcwOTNiNzU2OGQwZTQxN2U1",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -347,22 +347,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Someday (Electric)",
-      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Masters Of Modern Blues",
         "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Someday (Electric)",
+      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -555,6 +555,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Lonesome Blues",
+        "url": "https://open.spotify.com/album/04EOFvLpk32AFaI2TrwzrP"
+      },
+      "artists": [
+        {
+          "name": "Johnny B. Moore",
+          "url": "https://open.spotify.com/artist/1FIws8DXI9Bfv29LBhcRWX"
+        }
+      ],
+      "duration_ms": 443053,
+      "name": "Lonesome Blues",
+      "url": "https://open.spotify.com/track/4SP7Fdwo42okQx8dzWJYjM"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 241400,
       "name": "Ain't Times Hard",
       "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Lonesome Blues",
-        "url": "https://open.spotify.com/album/04EOFvLpk32AFaI2TrwzrP"
-      },
-      "artists": [
-        {
-          "name": "Johnny B. Moore",
-          "url": "https://open.spotify.com/artist/1FIws8DXI9Bfv29LBhcRWX"
-        }
-      ],
-      "duration_ms": 443053,
-      "name": "Lonesome Blues",
-      "url": "https://open.spotify.com/track/4SP7Fdwo42okQx8dzWJYjM"
     },
     {
       "added_at": "2018-02-27 18:08:29",

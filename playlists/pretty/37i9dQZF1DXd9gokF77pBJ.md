@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,356 likes - 76 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,373 likes - 76 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 59 | [Love Will Find A Way \(Sweet Embrace Mix\)](https://open.spotify.com/track/234kIB2hcDSYZWZkDpLD3D) | [Stardust](https://open.spotify.com/artist/6JiJYbOH31U7J567GGfDGB) | [Love Will Find A Way / Blazin'](https://open.spotify.com/album/7wCa2L2PITK18E0cw0m6Ni) | 5:36 |
 | 60 | [Mami Wata \- Joaquin's Deep Dub](https://open.spotify.com/track/76dQ905bupGubdO360M02z) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Mami Wata \- Joaquin Joe Claussell Sacred Rhythm and Cosmic Arts Remixes](https://open.spotify.com/album/70FiWOPKH1IOfXbhAUjfxv) | 6:04 |
 | 61 | [Galaxy](https://open.spotify.com/track/4zfhJbVnybVmMBiGSNKrJp) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Sci\-Fi Jazz Directions](https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M) | 6:08 |
-| 62 | [Musica](https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Musica](https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY) | 5:49 |
+| 62 | [Musica](https://open.spotify.com/track/3dVJb81RGXQmCP076vsB6a) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 5:49 |
 | 63 | [Dancing With My Shadow \- 7 Inch](https://open.spotify.com/track/3BPbkbu23iOsD6l8QmQoTP) | [Forrest](https://open.spotify.com/artist/7Bs3TbhvBrFDw0wZvwY5bL) | [Dancing With My Shadow](https://open.spotify.com/album/15D31cOEacAhI5cRSHV8Lr) | 3:27 |
 | 64 | [Cati\-Ca\-Too](https://open.spotify.com/track/3j28W78vLi9q7oAqWzvx81) | [MISTRAL.](https://open.spotify.com/artist/7GX2gCRXdMjTZCVmt3yr9Q) | [Best Of MISTRAL \(Including: Starship 109 / Jamie / Neon City ..\)](https://open.spotify.com/album/3nkmTIv52U2tyFAOqK4nhR) | 3:20 |
 | 65 | [Lady](https://open.spotify.com/track/21c6VaSdHstvuC547cFMSp) | [Herman Jones](https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY) | [Purple Snow: Forecasting the Minneapolis Sound](https://open.spotify.com/album/0hjM7gK3iuIFTcP6NmkFeg) | 4:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 75 | [Kleeer Sailin'](https://open.spotify.com/track/1bz52q7h1fvnI4ateALFd5) | [Kleeer](https://open.spotify.com/artist/0zaWqD1H9Rk0P14iF5oDnY) | [I Love to Dance](https://open.spotify.com/album/1gPTUwpJZd6hpwP7Ar2RTM) | 5:36 |
 | 76 | [Mi Dimentico](https://open.spotify.com/track/7ksPIQ2ezAi1aU52UDa3gD) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX) | [Mi Dimentico](https://open.spotify.com/album/5Yv09FVSp3Xvayzds4CEkb) | 4:44 |
 
-Snapshot ID: `MCxjMDUzYTA1ZmZlNjkwNjI1NTM4ZjczZDVlODRmZGNhMTU5OWRkNzkz`
+Snapshot ID: `MCxhNzNhMDY1NmZjNmQyZjhlY2IyYWFmMThlMTBiYzNlMDk0Y2IxMTk3`

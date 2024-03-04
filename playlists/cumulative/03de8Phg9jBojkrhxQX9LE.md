@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-612 songs - 1 day 10 hr 34 min
+613 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bringing Me Home \- OMNOM Remix](https://open.spotify.com/track/0MqW3v6dcZkbJ6ijxG5dTi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home \(OMNOM Remix\)](https://open.spotify.com/album/0gAVyF2Fl2xnwOx7iK29Xl) | 3:31 | 2024-01-05 | 2024-02-03 |
 | [Bullet In The Gun](https://open.spotify.com/track/0dok66k0nNtCDUsNsLtyDW) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Bullet In The Gun](https://open.spotify.com/album/3FIpkOxhugh05Uw962sbXI) | 3:14 | 2024-01-19 | 2024-02-17 |
 | [Burning Doghouse](https://open.spotify.com/track/4FGtOCJV6ExayepusoUTpl) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Burning Doghouse](https://open.spotify.com/album/0dE9NXYwSE1236aycODSNd) | 2:09 | 2024-03-01 |  |
+| [BUTTERFLY](https://open.spotify.com/track/5BFkwIgIA7SRqR8kfldnni) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [BUTTERFLY](https://open.spotify.com/album/6xX4zgm5VTiTDKlHOfaq9b) | 2:42 | 2024-03-03 |  |
 | [BXG STEPPA \[VIP\]](https://open.spotify.com/track/3B0x50YE3hv4opeTfp10Xq) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [BXG STEPPA \[VIP\]](https://open.spotify.com/album/0Lole64pMwTaqeXibtSZuI) | 1:59 | 2023-12-29 | 2024-02-03 |
 | [Can I Say \- DJ Edit](https://open.spotify.com/track/5QfJSFIIlLYd5HR2rROAQg) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Can I Say \(DJ Edit\)](https://open.spotify.com/album/6UnvmbpHmaWFZsoFWofcdw) | 4:16 | 2023-11-24 | 2024-01-06 |
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-02-16 |  |

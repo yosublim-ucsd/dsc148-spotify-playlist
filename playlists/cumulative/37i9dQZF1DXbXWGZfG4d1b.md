@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 |  |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 | 2024-03-04 |
 | [5.50](https://open.spotify.com/track/5Qzd02IfWH9afRgik7N5pa) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [5.50 / Esto es todo](https://open.spotify.com/album/4dlkaPMJVi1S9PhJaunyXT) | 3:45 | 2022-07-01 | 2022-07-29 |
 | [5A](https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:25 | 2022-07-01 |  |
 | [800 Vueltas Envolventes](https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7) | [Juan Mango](https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I) | [Ochocientos Envolventes al Sol](https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po) | 4:10 | 2022-07-01 |  |
@@ -191,7 +191,7 @@
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |
-| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 | 2024-03-01 |
+| [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 | 2023-10-26 |  |
 | [Esquimal](https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Esquimal](https://open.spotify.com/album/6zRi2AG39CM1mOejGVHqhv) | 3:20 | 2023-06-16 | 2023-07-15 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 | 2023-06-10 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-07-01 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "christmas always makes me cry",
-  "num_followers": 23793,
+  "num_followers": 23786,
   "original_name": "sad xmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTkyOTg0YzExMDkwZWNjMDVmYTY3YjZkMWQ3MjhiMGU1ODUyYWFh",
+  "snapshot_id": "MCwxYjk5NmRiZDgwYTFiZTY4NGY1MjZkYTA5YmE0OWZjNTI3NjU5N2Vm",
   "tracks": [
     {
       "added_at": "2023-11-21 19:42:27",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
+        "name": "Every Holiday",
+        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 224275,
+      "name": "Every Holiday",
+      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+    },
+    {
+      "added_at": "2023-11-21 19:42:27",
+      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 178533,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp"
-    },
-    {
-      "added_at": "2023-11-21 19:42:27",
-      "album": {
-        "name": "Every Holiday",
-        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 224275,
-      "name": "Every Holiday",
-      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
     },
     {
       "added_at": "2023-11-21 19:42:27",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-11-21 19:42:27",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+        "name": "baby jesus is nobody\u2019s baby now",
+        "url": "https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "The Jimmy Joyce Singers",
-          "url": "https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Whatever Happened To Christmas?",
-      "url": "https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed"
+      "duration_ms": 215065,
+      "name": "baby jesus is nobody\u2019s baby now",
+      "url": "https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr"
     }
   ],
   "unique_name": "sad xmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,096 likes - 254 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,148 likes - 254 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 253 | [Flying Away](https://open.spotify.com/track/505RGkIHxks1JwyFVbVwu1) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Flying Away](https://open.spotify.com/album/45WPaf7peQdC8QmW0sCB2T) | 3:05 |
 | 254 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 |
 
-Snapshot ID: `MCwxNDc0ZjMxMmJhY2M3ZjgzNzFmNGViYjIxMGRiYzFjNzVmM2EwZTEx`
+Snapshot ID: `MCxmNGU4NDJhZjYzMzE1NTBhMWQ0MjQ1NzdjYmIyZGY4NDJlMGQxNDYy`

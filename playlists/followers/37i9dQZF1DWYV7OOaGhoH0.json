@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 1835960,
+  "2024-03-04": 1836004,
   "date_first_scraped": "2021-12-28",
   "description": "The best in folk & acoustic today featuring music from Hollow Coves",
   "name": "Roots Rising",
@@ -5711,10 +5711,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
+    },
+    {
+      "album": {
+        "name": "my friend's toyota",
+        "url": "https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "my friend's toyota",
+      "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
     },
     {
       "album": {

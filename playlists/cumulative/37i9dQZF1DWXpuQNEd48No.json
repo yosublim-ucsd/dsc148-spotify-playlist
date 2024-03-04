@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "No Tension",
+        "url": "https://open.spotify.com/album/23F9FHnyfGhXc2mUh8kmzc"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "No Tension",
+      "url": "https://open.spotify.com/track/6mXGWMfVqcDd1uvaPK3y7J"
+    },
+    {
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C"
       },
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 174985,
       "name": "Up12 to Jh14",
       "url": "https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF"

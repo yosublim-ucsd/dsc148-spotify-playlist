@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 726,
+  "2024-03-04": 727,
   "date_first_scraped": "2024-01-30",
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
   "name": "This Is Danny Felix",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 224400,
       "name": "La Chona - En Vivo",
       "url": "https://open.spotify.com/track/3Lrw6HpAN3sUnlcZU7AmQt"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "La F****g Ola",
       "url": "https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 171933,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2A1O05xCTx3gzPVqTfV1cP"
@@ -1051,6 +1051,24 @@
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Nom\u00e1s Live",
+        "url": "https://open.spotify.com/album/3DjJVXAcfVMOixi8slv9gT"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297586,
+      "name": "Se Mam\u00f3 El Becerro - Live",
+      "url": "https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip"
     },
     {
       "album": {

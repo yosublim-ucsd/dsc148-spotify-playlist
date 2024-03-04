@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3BAgmPNIK5IJl7zMK1wvMA">That Mexican OT</a>
 
-1,582 songs - 2 day 23 hr 0 min
+1,583 songs - 2 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,7 +1560,8 @@
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2022-07-16 |
 | [Wop](https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Wop](https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo) | 2:53 | 2022-04-22 | 2022-06-18 |
 | [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 | 2023-02-19 | 2023-04-01 |
-| [Wop Wop](https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Wop Wop](https://open.spotify.com/album/4ZEblJvTAE6sWq8fDnqeEZ) | 3:43 | 2024-01-26 |  |
+| [Wop Wop](https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Wop Wop](https://open.spotify.com/album/4ZEblJvTAE6sWq8fDnqeEZ) | 3:43 | 2024-01-26 | 2024-03-04 |
+| [Wop Wop](https://open.spotify.com/track/12D9IFgV6Dmo6Qx9DbcQxK) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:43 | 2024-03-01 |  |
 | [Workin](https://open.spotify.com/track/6uYs9BaaR0gWqFGP3Gw5Vy) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Workin](https://open.spotify.com/album/0vqB5bvxtquqB5g87MNDw9) | 3:04 | 2023-11-10 | 2023-11-18 |
 | [Worldwide](https://open.spotify.com/track/3LPRQj9WTRnpCBVPy5kKTn) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Worldwide](https://open.spotify.com/album/2N8XuavIz610jzUVbdsNHf) | 2:49 | 2023-03-10 | 2023-03-25 |
 | [Worth It](https://open.spotify.com/track/6XDhfiUGjaT7JOaejy0MNs) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Strictly Business](https://open.spotify.com/album/2Vph7ciC10smi7peA4s7e2) | 3:22 | 2022-10-14 | 2022-11-12 |

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-168 songs - 9 hr 14 min
+169 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Harmonic Science](https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF) | [Dowling](https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb) | [Harmonic Science](https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U) | 4:00 | 2023-12-01 |  |
 | [Heading Back](https://open.spotify.com/track/3QT6mUIoG5ejZSazN5uoNb) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Severance](https://open.spotify.com/album/3z1oTe3iJBfBeFggxJulyZ) | 3:48 | 2024-02-05 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 | 2023-07-18 |
+| [How I Follow](https://open.spotify.com/track/2JEGk8aWyAenSptDVIuRGh) | [Chelle Ives](https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ) | [How I Follow](https://open.spotify.com/album/6GZ0NGOgrTbQVbDfXF2yD9) | 6:55 | 2024-03-04 |  |
 | [I Kinda Like It](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [I Kinda Like It](https://open.spotify.com/album/4Fl0fWnj9sqmEI8mN3dIOu) | 2:27 | 2023-10-20 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
 | [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 | 2023-03-10 |

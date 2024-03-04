@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Mildlife\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,228 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,232 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 51 | [Call Me Stupid](https://open.spotify.com/track/4fXHEdEmxMsCP4tB3LvZpi) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Call Me Stupid](https://open.spotify.com/album/2iWoEWnknZLRDWDaLQU3T2) | 2:26 |
 | 52 | [Want2](https://open.spotify.com/track/2qf55Lm6n8gBm3YPOFYTUc) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Want2](https://open.spotify.com/album/4oOCI4s4ZcmUUZXb2koQGr) | 3:01 |
 | 53 | [Care 4 U](https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Care 4 U](https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE) | 4:33 |
-| 54 | [Yourself](https://open.spotify.com/track/1O4yehjLg3jPR4USEvX7Wn) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Yourself](https://open.spotify.com/album/1v7TNMLqaXnJPcCASnFVps) | 6:22 |
+| 54 | [Yourself](https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 6:22 |
 | 55 | [Ancestor](https://open.spotify.com/track/12f8y4w9qMUiDKFSu4Bl1s) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad) | [Ancestor](https://open.spotify.com/album/5Mw7WIukuA4EI99clsT2qo) | 3:51 |
 | 56 | [Quicksand](https://open.spotify.com/track/00kiHOZaULxjYAIGlFawXJ) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Quicksand](https://open.spotify.com/album/7lt2U4Y8IoU9iiPuVHAqep) | 3:32 |
 | 57 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 89 | [Fikir \(ፍቅር\)](https://open.spotify.com/track/7yDHAkTXtgprxoT3ooYAyY) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Fikir \(ፍቅር\)](https://open.spotify.com/album/3FKXfmfK50IkSP9GOLUSwK) | 2:45 |
 | 90 | [Get Go](https://open.spotify.com/track/3OF4KDRiroiviEw0MOC8Zf) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE), [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:08 |
 
-Snapshot ID: `MCwxODlhMTU2MzY5ZjkzNmRjNTJhYmQxN2U1YTAyOTc5Mjk4YmRkNjlj`
+Snapshot ID: `MCxmOGIwNzNhMmM5YjI5NWNlNjA1ZTJmOGMwNDY0ZTYyYzM0ZjQ2Yjk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Julia Q Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,199 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,201 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Divine](https://open.spotify.com/track/7HC7zNnDFCVMbDdMY5TaHH) | [Iyann](https://open.spotify.com/artist/7yxN1vpq35MDcvRPn1JDhk) | [Divine](https://open.spotify.com/album/1kxVg1bUrvjgrpglff3JWU) | 3:15 |
 | 100 | [unta tinoud](https://open.spotify.com/track/58qYsyGGRLfK4lf1xp5CSb) | [Jade Makawili](https://open.spotify.com/artist/1ddKtJoBQplzrpVxs9JYxn), [Casey Vil](https://open.spotify.com/artist/5lIIMhZPaxs9qstHGMH0EL) | [unta tinoud](https://open.spotify.com/album/272ZZuiLOUscSUirhtSfxc) | 2:50 |
 
-Snapshot ID: `MCxkZGUxYTBmNzhmZDJlOTBmYzM1OTdkYjhmNDFkZGQyZmVlZTRjMWVj`
+Snapshot ID: `MCxiM2I3MDRlMjMwNjJhZGJhNDI2NmUzOGVkNGQwYTM4ZWY5NjNlYWFh`

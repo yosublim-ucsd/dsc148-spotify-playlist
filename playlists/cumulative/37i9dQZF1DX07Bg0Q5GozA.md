@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Einmusik, Zoot Woman
 
-664 songs - 1 day 22 hr 15 min
+666 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Miroir Miroir](https://open.spotify.com/track/1kJwO4j2LdHy5T6i6mqC58) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Miroir Miroir](https://open.spotify.com/album/10oEaifUVgy4XR1DjgC2kO) | 3:32 | 2023-09-07 | 2023-10-28 |
 | [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 | 2023-11-17 |
 | [Mirror \- Christian Löffler Remix](https://open.spotify.com/track/5dwuKtaVqHaTL9L3E5XIzE) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Mirror \(Christian Löffler Remix\)](https://open.spotify.com/album/1ViMEfq5OEBe8ggSSu95IJ) | 3:35 | 2022-12-15 | 2023-02-10 |
-| [Mirrors](https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4) | 3:41 | 2024-01-04 |  |
+| [Mirrors](https://open.spotify.com/track/2Ki0bQiWB2F09S0BiS079l) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU) | 3:41 | 2024-02-22 |  |
+| [Mirrors](https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4) | 3:41 | 2024-01-04 | 2024-03-04 |
 | [Mirrors](https://open.spotify.com/track/66c9EmPAVDQpzYkuyzRx1W) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/1aIKBiopPzB5YP5tkQ2KHd) | 3:41 | 2024-01-04 | 2024-01-06 |
 | [Miura](https://open.spotify.com/track/7wu4CDoKfHqbaJCNO2qvza) | [Metro Area](https://open.spotify.com/artist/3KTzs16kNylBR78QZSkiyx) | [Metro Area \(15th Anniversary Edition\)](https://open.spotify.com/album/1sqdqvNwrtex7Y604obpcG) | 6:44 | 2022-12-30 | 2023-01-02 |
 | [Moments](https://open.spotify.com/track/6ExEbMM3BpqiChkdZcoWiG) | [Caravãna Sun](https://open.spotify.com/artist/7F4dzBK58Tn0o3MBZWxUr3) | [Moments](https://open.spotify.com/album/5SZB5SONupAqDsIU3IUQpl) | 3:20 | 2023-06-01 | 2023-07-21 |
@@ -600,7 +601,8 @@
 | [Trippin Up](https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Trippin Up](https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh) | 2:57 | 2023-03-09 | 2023-07-21 |
 | [Troubled Waters](https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Troubled Waters](https://open.spotify.com/album/4qGnakmFR0KXlnRoFgdb7h) | 3:54 | 2023-07-13 | 2023-09-29 |
 | [Tru Dancing](https://open.spotify.com/track/0M5nj7eG7QcDrdlzOv86c3) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:45 | 2022-12-30 | 2023-01-02 |
-| [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-02 |  |
+| [Trust Again](https://open.spotify.com/track/4jWmuRuc4O3I1VL5hjVb8u) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/7m8RhieJSh0apbpWfEx0dW) | 3:50 | 2024-02-22 |  |
+| [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-02 | 2024-03-04 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-07-28 |
 | [Tunnelvision](https://open.spotify.com/track/295HRmApiL8F7DJtBJtjFN) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Tunnelvision](https://open.spotify.com/album/3ozkX0tqjKaE8KnrbiUcQL) | 3:19 | 2023-08-24 | 2023-09-29 |
 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 | 2023-07-27 | 2023-09-29 |

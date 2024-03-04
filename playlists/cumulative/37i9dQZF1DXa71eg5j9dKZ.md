@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: SG Lewis
 
-919 songs - 2 day 16 hr 36 min
+920 songs - 2 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,7 +841,8 @@
 | [Trusss](https://open.spotify.com/track/7leuXSMQ87WJPRLUH3WuC3) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Trusss](https://open.spotify.com/album/4FRGOOtsSNL8Yu56M98MdE) | 4:20 | 2022-04-01 | 2022-05-13 |
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2021-11-24\* | 2022-03-05 |
 | [Trust](https://open.spotify.com/track/7r6ncyvcnNompBYgkQzmxp) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Trust EP](https://open.spotify.com/album/6hyUbx7yrv3RIf6akVuTeO) | 5:45 | 2021-11-24\* | 2021-12-03 |
-| [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-03 |  |
+| [Trust Again](https://open.spotify.com/track/4jWmuRuc4O3I1VL5hjVb8u) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/7m8RhieJSh0apbpWfEx0dW) | 3:50 | 2024-02-02 |  |
+| [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 | 2023-11-03 | 2024-03-04 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-11-10 |
 | [Tundra](https://open.spotify.com/track/1p67VZuRPOIPMWoe385GSg) | [Myna Cycles](https://open.spotify.com/artist/5zhFh3TVP5rGgHoT5TcIDj), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tundra](https://open.spotify.com/album/7nds0PbTtOhcBjfky7FmDz) | 4:52 | 2022-07-07 | 2022-09-30 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-07-29 | 2022-11-11 |

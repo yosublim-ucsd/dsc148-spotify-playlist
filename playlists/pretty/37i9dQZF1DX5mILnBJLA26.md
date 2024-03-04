@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=mqi\_Wtu4S\-6hG\_nVj3fxJQ">Masterpiece YVK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,805 likes - 54 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,691 likes - 54 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 53 | [Ngizwile](https://open.spotify.com/track/0AtUfScqL8UjpRGI2Mt4BI) | [Deejaykgosi](https://open.spotify.com/artist/5Od5IwIPUgfunOlyI5W5OG), [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6), [Lington](https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc), [iam.psalm](https://open.spotify.com/artist/5SV8LM9R5vXcbiMc1hqD6p), [Phemelo Saxer](https://open.spotify.com/artist/3lTwknAWayG7aB9f5K8D3T) | [Ngizwile](https://open.spotify.com/album/01w1uOYCaLaQy12rIi5XJ1) | 5:34 |
 | 54 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 
-Snapshot ID: `MCxiOGJiZjAxOWRjYTBmMGU5ZGM3YTk4MzQ2MjgxNmI2NmUzZDMzOTU3`
+Snapshot ID: `MCwyOTQzY2RhOTIwYzIwYTViZjZmNzJiOGM1MGE4ZGE3MjMwZmY4NWZi`

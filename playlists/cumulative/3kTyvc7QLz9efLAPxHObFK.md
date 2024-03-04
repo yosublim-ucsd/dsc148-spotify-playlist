@@ -4,7 +4,7 @@
 
 > 
 
-1,156 songs - 2 day 16 hr 42 min
+1,157 songs - 2 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Kerofobia](https://open.spotify.com/track/1KTF1HechU4bO2optLplhF) | [Sirio](https://open.spotify.com/artist/79KCDHU3ea3UKNfGJ651y6) | [Frenchcore World](https://open.spotify.com/album/1EOVvoCHJO0RuYPrmTOhFt) | 3:26 | 2022-11-21 |  |
 | [Kicks Like This](https://open.spotify.com/track/5Tlya3m7X5mR4BgzKPmx7D) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Luna](https://open.spotify.com/artist/2LpNxLq1O4FAMBagy5t582) | [Kicks Like This](https://open.spotify.com/album/3LTKDZ1fi2vMPrCyB8awfk) | 3:13 | 2023-07-28 |  |
 | [KIKIKAIKAI](https://open.spotify.com/track/2R13ip0tbVOkaOyMNJwHK5) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KIKIKAIKAI](https://open.spotify.com/album/1sNHUsQwe27TwXNbju1ayz) | 3:06 | 2023-04-10 |  |
+| [KILLA](https://open.spotify.com/track/4skfYDsDruOC9gFrEh21rT) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [KILLA](https://open.spotify.com/album/6zlGrf0MUOkaByDyPtuU8n) | 3:18 | 2024-03-03 |  |
 | [Knight Rider \- Extended Mix](https://open.spotify.com/track/154JgLui3jz0R0kd05pImU) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:34 | 2022-08-10 |  |
 | [KOKUSHIMUSOU](https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KOKUSHIMUSOU](https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg) | 3:14 | 2023-05-01 |  |
 | [La Bomba \- 2023 Refix](https://open.spotify.com/track/1VDaYGhQvWnWq1RVUtoHJV) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 3:59 | 2023-10-20 |  |

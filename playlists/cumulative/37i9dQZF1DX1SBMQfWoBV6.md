@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-85 songs - 6 hr 13 min
+86 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 | 2023-01-31 |  |
 | [Berlin](https://open.spotify.com/track/2ydduzcA723lZ4K9DLq8io) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Entrainment, Pt\. 1](https://open.spotify.com/album/72HmKF1GsLmqCcGgCDFnOV) | 3:55 | 2023-01-31 |  |
 | [Caved Out](https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 4:09 | 2023-05-19 |  |
+| [Circular](https://open.spotify.com/track/1t4i03W2XqBB1utNwzxJu4) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Circular](https://open.spotify.com/album/20TgQ8xgWoHQKl8xbWWxt9) | 3:25 | 2024-03-04 |  |
 | [Conversion](https://open.spotify.com/track/2GSbqrO1pSvi46KnEV8t7Q) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Conversion \- Dream House Mix](https://open.spotify.com/album/1YAQjuaR4OMMFq7Mk1QI5X) | 2:31 | 2023-11-24 |  |
 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 | 2023-01-31 |  |
 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 | 2023-01-31 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 8678,
+  "2024-03-04": 8681,
   "date_first_scraped": "2021-12-29",
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
   "name": "This Is Patoranking",
@@ -941,6 +941,32 @@
       "duration_ms": 191945,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/6S1W6Ll9DEAFMsQYoiem4l"
+    },
+    {
+      "album": {
+        "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+        "url": "https://open.spotify.com/album/0PGerhN0CDzcLWVQ4NmNV3"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182914,
+      "name": "I Believe (feat. Patoranking & Silly Walks Discotheque)",
+      "url": "https://open.spotify.com/track/63Usxhj16VSx7FuNQVF1eX"
     },
     {
       "album": {

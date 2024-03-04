@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Israel & Rodolffo, Simone Mendes, MC Hariel e muito mais!
 
-9,999 songs - 21 day 2 hr 2 min
+10,000 songs - 21 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3248,7 +3248,8 @@
 | [Face ID](https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Face ID](https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI) | 2:32 | 2022-11-18 | 2022-11-26 |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-14 | 2022-10-22 |
 | [Faces Of Samba](https://open.spotify.com/track/42H9u98Pf29c7PyItnvfgk) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Hobbs](https://open.spotify.com/artist/5izQDZpuxtd7vXyukOuktl) | [Faces Of Samba](https://open.spotify.com/album/2lug5vM21vrr2dQTgtFZ7n) | 3:46 | 2022-08-12 | 2022-08-20 |
-| [FaceTime \- Acústico Verano](https://open.spotify.com/track/6WgY7LfqTf5zLqtZ77zow3) | [Alex Stela](https://open.spotify.com/artist/4BcrDQxu6BPbBvMtkMce2X), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Roça Music](https://open.spotify.com/artist/1WBku55LS4RG8Fb7tryM7f) | [Acústico Verano](https://open.spotify.com/album/4QABublhvO8KVyrTZ6LUqR) | 2:44 | 2024-03-01 |  |
+| [FaceTime \- Acústico Verano](https://open.spotify.com/track/0fBrxt8u86JWfltWvoDWs6) | [Alex Stela](https://open.spotify.com/artist/4BcrDQxu6BPbBvMtkMce2X), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Roça Music](https://open.spotify.com/artist/1WBku55LS4RG8Fb7tryM7f) | [FaceTime \(Acústico Verano\)](https://open.spotify.com/album/2f1Ndf3NQEt0sAuRTpckb5) | 2:44 | 2024-03-01 |  |
+| [FaceTime \- Acústico Verano](https://open.spotify.com/track/6WgY7LfqTf5zLqtZ77zow3) | [Alex Stela](https://open.spotify.com/artist/4BcrDQxu6BPbBvMtkMce2X), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Roça Music](https://open.spotify.com/artist/1WBku55LS4RG8Fb7tryM7f) | [Acústico Verano](https://open.spotify.com/album/4QABublhvO8KVyrTZ6LUqR) | 2:44 | 2024-03-01 | 2024-03-04 |
 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 | 2023-02-03 | 2023-02-11 |
 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 | 2022-06-10 | 2022-06-18 |
 | [Facilmente](https://open.spotify.com/track/2CLo6klI712QzLU9299P4j) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [DJ Vida](https://open.spotify.com/artist/2Ykfzf6bCd9QpEgfBUAOg0) | [Facilmente](https://open.spotify.com/album/0P0KO4wx05vy7jx515YLOF) | 2:14 | 2023-06-09 | 2023-06-17 |

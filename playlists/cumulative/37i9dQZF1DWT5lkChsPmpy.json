@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Boardwalk",
+        "url": "https://open.spotify.com/album/5OtHbV551CLGJthd8s9C0G"
+      },
+      "artists": [
+        {
+          "name": "Lagonda",
+          "url": "https://open.spotify.com/artist/3snpwtqBUGw0TDTmdq2IyI"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143033,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/1shjpWCrYP6ExIpgCpaf3P"
+    },
+    {
+      "album": {
         "name": "Ambrosial",
         "url": "https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9"
       },
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 118811,
       "name": "Doors",
       "url": "https://open.spotify.com/track/6PwFc2F0CDiOK1QGjON7vG"
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 96358,
       "name": "King is Back",
       "url": "https://open.spotify.com/track/6f1A8KGvHFxBIrRVSIyBPf"
@@ -6043,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/6WE2SguoidmTrZtYXrEAoU"
+      },
+      "artists": [
+        {
+          "name": "Yavuz Grill",
+          "url": "https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/7mv5cFn0qM2Mlx3BLqy3Zp"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt"
       },
@@ -6112,6 +6148,24 @@
       "duration_ms": 261461,
       "name": "Retronym",
       "url": "https://open.spotify.com/track/3jqzty9EQ5TRe3UzhrtwVU"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/7y38qm3CFyQNWJdo8xb2zm"
+      },
+      "artists": [
+        {
+          "name": "Mandy Mars",
+          "url": "https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah"
     },
     {
       "album": {
@@ -7872,6 +7926,24 @@
       "duration_ms": 195157,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/4f7tC6G41h7QXEvLsJDXEO"
+      },
+      "artists": [
+        {
+          "name": "Pascal Marcel",
+          "url": "https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131320,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/4OxrNowK5VDQzcstmh0lXs"
     },
     {
       "album": {

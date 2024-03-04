@@ -4437,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "The Original Hits",
+        "url": "https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawrence",
+          "url": "https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Walking Proud",
+      "url": "https://open.spotify.com/track/24ojoYJmIgv2wun96LhrMM"
+    },
+    {
+      "album": {
         "name": "The Notorious Byrd Brothers",
         "url": "https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B"
       },

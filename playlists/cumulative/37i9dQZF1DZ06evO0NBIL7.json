@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 208693,
       "name": "Animal Skin",
       "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
@@ -182,6 +182,24 @@
       "duration_ms": 226602,
       "name": "Coma Happy",
       "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
+    },
+    {
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/7s3cD6z3nQeDd3YrEbEGdM"
     },
     {
       "album": {

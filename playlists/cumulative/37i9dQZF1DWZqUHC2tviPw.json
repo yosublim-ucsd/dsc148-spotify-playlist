@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Everybody Panic",
+        "url": "https://open.spotify.com/album/1KZI0zlNR3EKm4DKeY8Ixl"
+      },
+      "artists": [
+        {
+          "name": "Ava Low",
+          "url": "https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Everybody Panic",
+      "url": "https://open.spotify.com/track/6RDaFSIFqw6QYeWmeK1d9K"
+    },
+    {
+      "album": {
         "name": "Love for Drill",
         "url": "https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6"
       },
@@ -1226,6 +1244,24 @@
       "duration_ms": 172431,
       "name": "Failed the Test",
       "url": "https://open.spotify.com/track/4Qp7Gjxh7G0BlVccDsS0VI"
+    },
+    {
+      "album": {
+        "name": "Fairy Pond",
+        "url": "https://open.spotify.com/album/1lfcXMFGG32LOgfhWvPGjm"
+      },
+      "artists": [
+        {
+          "name": "ImLike",
+          "url": "https://open.spotify.com/artist/75iPPsNFrudjBCDIQlzRkV"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Fairy Pond",
+      "url": "https://open.spotify.com/track/5ZgXlhqIAByj5WzpADJiZz"
     },
     {
       "album": {

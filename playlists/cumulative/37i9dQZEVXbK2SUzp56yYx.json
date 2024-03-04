@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
@@ -949,6 +949,28 @@
     },
     {
       "album": {
+        "name": "KRUSHSEXX",
+        "url": "https://open.spotify.com/album/0pjk79vhRixuMAx0fIuCi1"
+      },
+      "artists": [
+        {
+          "name": "nightfxrce",
+          "url": "https://open.spotify.com/artist/0zPcNpNWxJ8KZutFU26dfW"
+        },
+        {
+          "name": "dvspair",
+          "url": "https://open.spotify.com/artist/3z0A4imcC68KLhZGn4uwzw"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "KRUSHSEXX - SLOWED + REVERB",
+      "url": "https://open.spotify.com/track/27s4TayyokpSazOtWd06zX"
+    },
+    {
+      "album": {
         "name": "Glockoma 2 (Deluxe)",
         "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
       },
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 990928,
       "name": "Live @ Need 4 Beat",
       "url": "https://open.spotify.com/track/2O6fZ1UQeoH7DrmeUbYmWc"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 99657,
       "name": "Shit Too",
       "url": "https://open.spotify.com/track/2sJFHMF9oJB19WpAZLy0xv"
@@ -2554,7 +2576,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 65860,
       "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
       "url": "https://open.spotify.com/track/0IQECQhJWfIlbSGcbppdmU"
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 204900,
       "name": "\u043d\u0435\u043c\u0435\u0440\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM"
@@ -2830,6 +2852,24 @@
       "duration_ms": 154331,
       "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
       "url": "https://open.spotify.com/track/7M8qQTJ5A0aplpepOFOCRg"
+    },
+    {
+      "album": {
+        "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
+        "url": "https://open.spotify.com/album/38sQiIMTSrnTAwyFiF1ypd"
+      },
+      "artists": [
+        {
+          "name": "LIL MORPY",
+          "url": "https://open.spotify.com/artist/0ZdOYfCEkjCfKS7gvMYWAJ"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154331,
+      "name": "\u041e\u043d\u0430 \u043f\u0438\u0448\u0435\u0442 \u043c\u043d\u0435 Wassup",
+      "url": "https://open.spotify.com/track/7sqP5P6w4GP9eRWc9c7k8J"
     },
     {
       "album": {
@@ -3163,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u043b\u0438\u0437\u043d\u0435\u0446\u044b: Eros",
+        "url": "https://open.spotify.com/album/0jx4ijVcpEc878dr2NjTef"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u0436\u0438\u0437\u0443\u0441",
+          "url": "https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246802,
+      "name": "\u0427\u0442\u043e \u043c\u044b \u0441 \u0442\u043e\u0431\u043e\u0439 \u043d\u0430\u0434\u0435\u043b\u0430\u043b\u0438?",
+      "url": "https://open.spotify.com/track/1HqQLEjXdnhsi8EvoljM69"
+    },
+    {
+      "album": {
         "name": "\u0427\u0451\u0440\u043d\u044b\u0439 \u0434\u0438\u043f\u043b\u043e\u043c",
         "url": "https://open.spotify.com/album/3cMF6t6dHVydVtMFMHSai0"
       },
@@ -3228,7 +3286,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 157666,
       "name": "\u042e\u0440\u0444\u0430\u043a",
       "url": "https://open.spotify.com/track/7hcU2QzT149fKRIuX0SitB"
@@ -3250,6 +3308,32 @@
       "duration_ms": 165600,
       "name": "\u042f \u0438\u0434\u0443 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
       "url": "https://open.spotify.com/track/41QD3JUCrI1H3SRolaBtln"
+    },
+    {
+      "album": {
+        "name": "Jumpstyle in my vein",
+        "url": "https://open.spotify.com/album/34LV441T7AqrKKH1xFISzq"
+      },
+      "artists": [
+        {
+          "name": "Dayerteq",
+          "url": "https://open.spotify.com/artist/1fmBphPpwm9K2udLEXPXsd"
+        },
+        {
+          "name": "5mewmet",
+          "url": "https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih"
+        },
+        {
+          "name": "dj trippie flameboy",
+          "url": "https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "\u042f \u0442\u0430\u043a \u043e\u0431\u043e\u0436\u0430\u044e",
+      "url": "https://open.spotify.com/track/56cpeTsQ0VR0K6Wh74u1vm"
     },
     {
       "album": {

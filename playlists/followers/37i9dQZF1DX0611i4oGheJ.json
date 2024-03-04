@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 440971,
+  "2024-03-04": 441107,
   "date_first_scraped": "2021-12-21",
   "description": "Sweet gems to help you slow down and savor your day.",
   "name": "Soft & Slow",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 195540,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
@@ -4517,7 +4517,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 174546,
       "name": "Tenderhearted",
       "url": "https://open.spotify.com/track/4dvDPY5piE0KexzgjEtfef"
@@ -4989,6 +4989,28 @@
       "duration_ms": 228000,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
+    },
+    {
+      "album": {
+        "name": "The Great Irish Songbook",
+        "url": "https://open.spotify.com/album/7ngRumkLaxTRd7vNsirCns"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        },
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326159,
+      "name": "The West Coast of Clare",
+      "url": "https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0"
     },
     {
       "album": {

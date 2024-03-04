@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-764 songs - 1 day 19 hr 8 min
+767 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Breeze](https://open.spotify.com/track/2u64mCX07czQKLrjkQ7ZJD) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Breeze](https://open.spotify.com/album/6cTbwrLHI97yvxpYljT08L) | 2:19 | 2022-10-14 |  |
 | [Breezin](https://open.spotify.com/track/3wUHfX5JyU1ipP9BOXBLB5) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [Breezin](https://open.spotify.com/album/1OiSBgpilimYhIUmfuOpuZ) | 3:08 | 2020-04-03\* | 2021-03-25 |
 | [Brigante \- Nhar Remix](https://open.spotify.com/track/2ff87EDRvp1GIY60XVLxwp) | [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ), [Nhar](https://open.spotify.com/artist/3jBKevKXny3azNKbbYH5Wx) | [Classic Trick Remixes](https://open.spotify.com/album/3dt8hfbp81UuduKrLSKGCA) | 6:00 | 2020-04-03\* | 2021-03-06 |
+| [bright and breezy](https://open.spotify.com/track/1uRStsqQYCBXd1X8fc9n4u) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [bright and breezy](https://open.spotify.com/album/2PDJRNkV7vxrNz1Icyajji) | 2:17 | 2024-03-04 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-20 |  |
 | [bubbly fun](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bubbly fun](https://open.spotify.com/album/4cN9GCj0Q9bohgKoXWQhjO) | 2:48 | 2022-08-19 |  |
 | [Bubbly Vibes](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Bubbly Vibes](https://open.spotify.com/album/6e2RkxY6bYkhuT0tmsGKod) | 3:03 | 2023-03-10 |  |
@@ -761,6 +762,7 @@
 | [wish u were here](https://open.spotify.com/track/61nH9WsvcwQJio8J2lDGvq) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [wish u were here](https://open.spotify.com/album/1LkWvUprh75G4ZYTqc9Wcv) | 2:12 | 2022-09-09 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2020-04-03\* | 2022-04-06 |
 | [With You](https://open.spotify.com/track/5kTmzoBxzCfNVYncjgUnPs) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [With You](https://open.spotify.com/album/3gV97FIq9Y9DZQEymC8mI4) | 2:49 | 2020-10-27 | 2022-06-24 |
+| [Wonder More](https://open.spotify.com/track/6Ex4RotAvWFZ8Gs72DTOGI) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Wonder More](https://open.spotify.com/album/7spk3K6Q5V2mmpNa6x3pF7) | 2:59 | 2024-03-04 |  |
 | [Wonderland](https://open.spotify.com/track/35NXCV8pnH2PMGBJw4WM6i) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Wonderland](https://open.spotify.com/album/4mUaHKnvqRotURBNspjer4) | 4:23 | 2021-02-10 | 2021-09-22 |
 | [Woodland](https://open.spotify.com/track/7hHrKHSTH6QFoKWl4xdZhx) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Woodland](https://open.spotify.com/album/3jeXBKbRQdPtQm924oDr4t) | 3:37 | 2020-11-27 | 2021-01-05 |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-08 |
@@ -771,6 +773,7 @@
 | [Yacón](https://open.spotify.com/track/58jP9gzcaqt9h1pfYmfm1q) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Yacón](https://open.spotify.com/album/4IXfVfPSUcrYoZ7CEC8cw5) | 6:21 | 2021-01-18 | 2021-03-06 |
 | [Yeehaw Slap](https://open.spotify.com/track/3ypgFxGFG23ZAksYMrAps7) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Yeehaw Slap](https://open.spotify.com/album/7GCvl4SaZCU4lHI4StaCSz) | 2:15 | 2020-04-21 | 2020-05-06 |
 | [Yeesh Euphemism](https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:05 | 2022-07-29 |  |
+| [Youthful Spring](https://open.spotify.com/track/3nZUPm6rUYOpN0zaH66fpw) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Youthful Spring](https://open.spotify.com/album/4AxiTEfNRYC1Ga0aZyYTal) | 3:15 | 2024-03-04 |  |
 | [Zanzibar](https://open.spotify.com/track/4kOFxbQua6DmmLopfex76W) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:22 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2020-04-03. Prior content cannot be recovered.

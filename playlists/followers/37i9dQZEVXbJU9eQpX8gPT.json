@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 50627,
+  "2024-03-04": 50667,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 228925,
       "name": "Abala Ya Bali",
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
@@ -20831,6 +20831,32 @@
     {
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/1Ljb1Bo6Nc9SqdtKdkXHCN"
+    },
+    {
+      "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
       },
       "artists": [
@@ -20901,7 +20927,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 188484,
       "name": "Seya",
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
@@ -24209,6 +24235,24 @@
       "duration_ms": 150379,
       "name": "UNICEF",
       "url": "https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE"
+    },
+    {
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai"
     },
     {
       "album": {

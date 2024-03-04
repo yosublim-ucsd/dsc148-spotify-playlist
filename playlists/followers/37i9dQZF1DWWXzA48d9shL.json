@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 571383,
+  "2024-03-04": 571570,
   "date_first_scraped": "2022-01-10",
   "description": "Rap from hell. Cover: Scrim from $uicideboy$",
   "name": "TIRADE",
@@ -4189,10 +4189,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 150383,
       "name": "GANJA GOBLIN",
       "url": "https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH"
+    },
+    {
+      "album": {
+        "name": "GANJA GOBLIN",
+        "url": "https://open.spotify.com/album/503xD5jcJZEK7Ckf3vDpL2"
+      },
+      "artists": [
+        {
+          "name": "Pranav.Wav",
+          "url": "https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150383,
+      "name": "GANJA GOBLIN",
+      "url": "https://open.spotify.com/track/4QF5JIoChpdZZajgYHNT6a"
     },
     {
       "album": {

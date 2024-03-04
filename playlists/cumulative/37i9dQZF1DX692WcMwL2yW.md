@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-359 songs - 16 hr 35 min
+361 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2021-10-14 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2021-10-14 |  |
 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2022-01-27 |  |
+| [Angkor](https://open.spotify.com/track/0IWY56s9dZhZZSxIw3Czjp) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Angkor](https://open.spotify.com/album/7FyYflIF9gmE0swyvlYqnf) | 2:44 | 2024-03-03 |  |
 | [AnimEl](https://open.spotify.com/track/1mXWDNhr5fBS38wnXqsh8A) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [AnimEl](https://open.spotify.com/album/4jSNKcvNrswodMWYtZkL50) | 2:57 | 2022-02-18 |  |
 | [Apocalypse](https://open.spotify.com/track/5u0XFEuy08KLJIxawYnkjo) | [BlackFrost](https://open.spotify.com/artist/1Wmkb9aWIvUb2h7q6MSHzI) | [Awakening](https://open.spotify.com/album/44i8vDWmQGXQwoK33zeXTS) | 2:03 | 2021-04-26\* | 2021-09-10 |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-09-10 | 2024-02-14 |
@@ -238,6 +239,7 @@
 | [Peer Pressure](https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Peer Pressure](https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19) | 3:24 | 2022-11-25 |  |
 | [Perfect Dream](https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Perfect Dream](https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe) | 2:19 | 2022-12-09 |  |
 | [Perfection](https://open.spotify.com/track/3cgmk4PnyagSVS0snpSHBf) | [Carl Down](https://open.spotify.com/artist/3SUWaiyM09qqsnBkfm6lPv) | [Perfection](https://open.spotify.com/album/6DO8231AhivEuWarU7JeJz) | 1:32 | 2021-04-26\* | 2022-04-22 |
+| [Pharaoh](https://open.spotify.com/track/6glmt72gPUUCCzM4CLVI3r) | [No Man In Sight](https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL) | [Pharaoh](https://open.spotify.com/album/3UcEzc5ejYRwDsXfqJuztv) | 2:24 | 2024-03-03 |  |
 | [PITS](https://open.spotify.com/track/0mjK7y2U7jDEaQTrPytWpi) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [PITS](https://open.spotify.com/album/0S2NAqlM9yKiAaCYB6EGsp) | 2:20 | 2023-07-19 |  |
 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 | 2023-07-19 |  |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-10 |  |

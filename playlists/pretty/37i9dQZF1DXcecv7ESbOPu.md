@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,544 likes - 124 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,594 likes - 124 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 43 | [Holiday \(feat\. Keenan Te\)](https://open.spotify.com/track/6IO56FACaMvp3dxZI6HQh4) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Youth & Family](https://open.spotify.com/album/77ZxTo0LbmhtZ98b0dE6ka) | 2:22 |
 | 44 | [Burning Up](https://open.spotify.com/track/4DbHVRP9SmDDgAVOsyd3dK) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Burning Up](https://open.spotify.com/album/1ELuoEtFFtnfHQSM1Hr7T4) | 2:21 |
 | 45 | [INGEN ANNAN](https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [INGEN ANNAN](https://open.spotify.com/album/7A170JHkGo9IGaTydd1txD) | 1:58 |
-| 46 | [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 |
+| 46 | [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 |
 | 47 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 |
 | 48 | [Patadas de Ahogado / LATIN MAFIA \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATIN MAFIA \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 49 | [RICK JAMES](https://open.spotify.com/track/6Ec2OByuXokwfYDS9c7jaa) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Plastic Toy](https://open.spotify.com/artist/5V9hwHev8mPXMe66QmyKJp) | [RICK JAMES](https://open.spotify.com/album/5Im4GlvVqdY1hynYOEb9fu) | 3:44 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 123 | [Holding On](https://open.spotify.com/track/0dlMTThgSAKFVJckS2wVyV) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Parallel Realms](https://open.spotify.com/album/6gkh9oOIjRJ24JXKSX9LWp) | 3:11 |
 | 124 | [Money \(mixtape\)](https://open.spotify.com/track/5RxryVM6717QpUSr3OoRhT) | [PAPA Sound](https://open.spotify.com/artist/2kZZNz7W2Qs6kXVEM7T8oj), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Mixtape, Vol\. 1](https://open.spotify.com/album/30Nz3sb8Xcf5dHoFsmx15C) | 1:10 |
 
-Snapshot ID: `MCwyNThlMDVlNmZjNzFkNTFkMmNhYjgwY2M3YTA4OGY2MGFiYzYyYmQz`
+Snapshot ID: `MCw1YjM5OTkxZDFiYjZmMzQ4MTI2NzY4YmNhNDdhYTZmNTM2ZmYxODE5`

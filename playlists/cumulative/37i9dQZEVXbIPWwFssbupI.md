@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,745 songs - 3 day 20 hr 24 min
+1,746 songs - 3 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Aghju capitu](https://open.spotify.com/track/6c14gGZ5ujZdVLXAjqtCc5) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 2:57 | 2021-12-12 | 2021-12-14 |
 | [AhGars!](https://open.spotify.com/track/01Vz9TC2qmgZEjlBnVQoyb) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:46 | 2022-03-20 | 2022-03-25 |
 | [Ailleurs](https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:45 | 2023-10-29 | 2024-02-04 |
-| [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 | 2024-03-02 |  |
+| [Aimée pour de vrai \(Héléna\)](https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2023](https://open.spotify.com/album/7nwA9NO0wjD68jgpeimgcC) | 3:08 | 2024-03-02 | 2024-03-04 |
 | [Air tlanta](https://open.spotify.com/track/0OpYhWobCaNYkzTwj92Ohl) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:20 | 2021-09-12 | 2021-09-13 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2023-11-04 | 2023-11-09 |
 | [Akimbo](https://open.spotify.com/track/0GHN9qDtUXOctlf96tzivw) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/2JWtcWOPqE9NRXv0O6DCLU) | 2:30 | 2021-10-30 | 2021-11-14 |
@@ -266,7 +266,7 @@
 | [BXL ZOO](https://open.spotify.com/track/7BO3y8lmogACezwHqZ1HTB) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 3:21 | 2021-05-03 | 2021-05-06 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-14 | 2021-06-16 |
 | [Bébéboa](https://open.spotify.com/track/37elS4BnxlVk2Ow5ig3LO9) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:02 | 2021-11-21 | 2021-12-05 |
-| [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-11-27 |  |
+| [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-11-27 | 2024-03-04 |
 | [Bénigni](https://open.spotify.com/track/5skq6S2fpV8u7HmbIkqCVO) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:53 | 2024-02-10 | 2024-02-15 |
 | [Bénéfice](https://open.spotify.com/track/6V5p28BkOfLRblaSQIDLHz) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Voltaire](https://open.spotify.com/album/3RpTSDBWkDbgl6bJEG6s1b) | 2:54 | 2023-01-24 | 2023-01-26 |
 | [Bétoile](https://open.spotify.com/track/4gY7xgejZaSBIZu6oFomJb) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 3:30 | 2021-09-12 | 2021-09-13 |
@@ -1284,6 +1284,7 @@
 | [POP \(feat\. Guy2bezbar\)](https://open.spotify.com/track/4IaKD3xuTWise6IxscuDHY) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:33 | 2022-03-20 | 2022-03-25 |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2023-10-28 |  |
 | [Portes Suicide](https://open.spotify.com/track/6ZcKyt3c0bnJjn4igDFrzf) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:47 | 2022-11-05 | 2022-11-19 |
+| [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-03-03 |  |
 | [Postiché](https://open.spotify.com/track/5bh2UVFvbc6UITYgrQZY6v) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 4:36 | 2023-12-09 | 2024-01-21 |
 | [Poupée Russe](https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Montagnes Russes](https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN) | 2:39 | 2022-12-11 | 2022-12-20 |
 | [Pour de faux](https://open.spotify.com/track/6ySYehW8e6YRC6Cyw453SV) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 4:53 | 2022-09-17 | 2022-09-25 |
@@ -1684,7 +1685,7 @@
 | [Vrai / Faux](https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:55 | 2021-11-14 | 2021-11-20 |
 | [Vroum Vroum](https://open.spotify.com/track/6sRPU30pj9A6G1pBXqzQkM) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Vroum Vroum](https://open.spotify.com/album/0cPGWnwGhDm4SAV8h2Ot6l) | 3:06 | 2021-03-27 | 2021-06-13 |
 | [Vroum Vroum](https://open.spotify.com/track/1TmuaS1lnCUf7yCLk2hwDT) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Dernier souffle](https://open.spotify.com/album/0pMvd6rQonhDJT4ELR9GJE) | 3:06 | 2021-06-13 | 2021-07-25 |
-| [Vulgaire](https://open.spotify.com/track/77Yu4sCHueO0bSJZZ5Dx31) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 1:22 | 2024-02-28 | 2024-03-01 |
+| [Vulgaire](https://open.spotify.com/track/77Yu4sCHueO0bSJZZ5Dx31) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 1:22 | 2024-02-28 |  |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2021-12-05 | 2022-12-04 |
 | [VVV](https://open.spotify.com/track/0Q1ZthgaRH9sLIHHDrzX4X) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ULTRA](https://open.spotify.com/album/6BpbeB9VUpEBID5maQ8sHl) | 2:55 | 2021-03-27\* | 2021-03-27 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2021-12-05 | 2022-05-27 |

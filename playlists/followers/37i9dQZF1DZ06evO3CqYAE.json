@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 8336,
+  "2024-03-04": 8354,
   "date_first_scraped": "2023-04-03",
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
   "name": "This Is Mercy Chinwo",
@@ -765,6 +765,24 @@
       "duration_ms": 246674,
       "name": "Onememma (feat. Chioma Jesus)",
       "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
+    },
+    {
+      "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312980,
+      "name": "Only You Satisfy",
+      "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
     },
     {
       "album": {

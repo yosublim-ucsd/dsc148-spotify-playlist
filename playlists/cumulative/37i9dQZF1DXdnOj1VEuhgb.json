@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 108252,
       "name": "HAA\u203c\ufe0f",
       "url": "https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw"
@@ -3088,6 +3088,24 @@
       "duration_ms": 196173,
       "name": "Kay\u0131p Y\u0131llar\u0131m",
       "url": "https://open.spotify.com/track/1Sfh7w7AYCUWw7Y3tET2MV"
+    },
+    {
+      "album": {
+        "name": "Kennedy'i Ben Vurdum",
+        "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138363,
+      "name": "Kennedy'i Ben Vurdum",
+      "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
     },
     {
       "album": {

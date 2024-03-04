@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: KATNUF
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,422 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,431 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 9 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 |
 | 10 | [My Type](https://open.spotify.com/track/6OG7hyl1LZv2dq9QXX7WEv) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [My Type](https://open.spotify.com/album/5RrcjQOHU4p7Buzgkj1cvq) | 2:55 |
 | 11 | [Can't Let Go](https://open.spotify.com/track/230BRmQgwbiSijUbm04V6Q) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Can't Let Go](https://open.spotify.com/album/4UgjilQyPmOKVgbOkhsViD) | 2:38 |
-| 12 | [Delulu](https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Delulu](https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE) | 2:31 |
-| 13 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 |
-| 14 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
-| 15 | [Ik Haat Je](https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nour](https://open.spotify.com/artist/6WTbF37PMzLOtx9yllkyDq) | [Nafsi \(Pt\. II\)](https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq) | 2:56 |
-| 16 | [Égalité](https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/5cW90rGxu6denjf08pebZw) | 2:33 |
-| 17 | [Beter dan je Ex](https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Beter dan je Ex](https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1) | 2:15 |
+| 12 | [Beter dan je Ex](https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Beter dan je Ex](https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1) | 2:15 |
+| 13 | [Delulu](https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Delulu](https://open.spotify.com/album/09IFfWicVoOYZm1YIWKlIE) | 2:31 |
+| 14 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 |
+| 15 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
+| 16 | [Ik Haat Je](https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nour](https://open.spotify.com/artist/6WTbF37PMzLOtx9yllkyDq) | [Nafsi \(Pt\. II\)](https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq) | 2:56 |
+| 17 | [Égalité](https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/5cW90rGxu6denjf08pebZw) | 2:33 |
 | 18 | [Porfotto](https://open.spotify.com/track/2IyhJLITOeAnoGfHOXwiaX) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Porfotto](https://open.spotify.com/album/58Ebu4NvLqJtgrXe8t3B3G) | 2:26 |
 | 19 | [goodtime.\. \(1942\)](https://open.spotify.com/track/3m4NDPdt9tLZOuorsNV9xr) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [goodtime.\. \(1942\)](https://open.spotify.com/album/7Efb0D02vmKaUpj1ZJCipc) | 2:02 |
 | 20 | [Tempa](https://open.spotify.com/track/1F0G5fBghV6AILiRvkJ7Is) | [Kalibiboy D](https://open.spotify.com/artist/3WVqcOKgdST367tFuk2lzm), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [DeanMartins](https://open.spotify.com/artist/7MQdpAGnTyjJ9aDnyeijs1) | [Tempa](https://open.spotify.com/album/15I2QVFUturm3O0Gf7jNhw) | 2:41 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 61 | [Fine Girl](https://open.spotify.com/track/2Oc9pIhy8XFFbF5DhfeBKr) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Fine Girl](https://open.spotify.com/album/3z19Y2z4vtaoYGdcVyYX2e) | 3:11 |
 | 62 | [Sweety Darling](https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Sweety Darling](https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S) | 3:07 |
 
-Snapshot ID: `MCwwNWZiYWM5NGY3NzUwOGI5N2ZhOTA0YzE4YzcwZjVkZWE0ZWYzMDVl`
+Snapshot ID: `MCw2Yzg3NGJhNzdkZDRmNjg5Y2Y3NzJkMzA0ZDhmNmExMWQ5ZjQ0N2Zh`

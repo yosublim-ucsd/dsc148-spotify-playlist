@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 41659,
+  "2024-03-04": 41668,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Iceland.",
   "name": "Top 50 - Iceland",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 190613,
       "name": "10 DJ\u00d6FLAR",
       "url": "https://open.spotify.com/track/5k1jLjr0O6FVehGAPqhHf3"
@@ -9167,7 +9167,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -13449,6 +13449,32 @@
       "duration_ms": 159506,
       "name": "HVA\u00d0 ME\u00d0 \u00deA\u00d0",
       "url": "https://open.spotify.com/track/41GPfbg5RaQDelOtemb74m"
+    },
+    {
+      "album": {
+        "name": "Hva\u00f0 me\u00f0 \u00feig?",
+        "url": "https://open.spotify.com/album/2NWyXlP1pmVQW5HMmJsrPL"
+      },
+      "artists": [
+        {
+          "name": "NUSSUN",
+          "url": "https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx"
+        },
+        {
+          "name": "H\u00daG\u00d3",
+          "url": "https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI"
+        },
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148658,
+      "name": "Hva\u00f0 me\u00f0 \u00feig?",
+      "url": "https://open.spotify.com/track/34sUp0Qv7GQzjTiufBMbJz"
     },
     {
       "album": {
@@ -22835,7 +22861,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -24995,6 +25021,28 @@
       "duration_ms": 144385,
       "name": "Sama",
       "url": "https://open.spotify.com/track/5ofoMtQs9488yo5lIcZlsH"
+    },
+    {
+      "album": {
+        "name": "Sama um",
+        "url": "https://open.spotify.com/album/7dn9xXKT3qSNXmBvh61IN8"
+      },
+      "artists": [
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134026,
+      "name": "Sama um",
+      "url": "https://open.spotify.com/track/4yUnGQmxjQFyxQHLf0GjRw"
     },
     {
       "album": {
@@ -27691,6 +27739,24 @@
       "duration_ms": 181198,
       "name": "Stingum af",
       "url": "https://open.spotify.com/track/0ms9fbjzBb27eS18maly1x"
+    },
+    {
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/3Du9Z49GDYuLyIN4BlPBwQ"
+      },
+      "artists": [
+        {
+          "name": "ANITA",
+          "url": "https://open.spotify.com/artist/6gRZCPQeaEMD0bMJ4BaAkI"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181198,
+      "name": "Stingum af",
+      "url": "https://open.spotify.com/track/1J8DLoeSrUqQFGzRX2fs7l"
     },
     {
       "album": {
@@ -30618,6 +30684,24 @@
     },
     {
       "album": {
+        "name": "Into The Atmosphere",
+        "url": "https://open.spotify.com/album/1doe84iE45pa6V1DjSUhac"
+      },
+      "artists": [
+        {
+          "name": "Sigga \u00d3zk",
+          "url": "https://open.spotify.com/artist/73J7dlqdZeEGsO1yEU1c47"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163701,
+      "name": "Um allan alheiminn",
+      "url": "https://open.spotify.com/track/4op0U8ixb81UGRoBEFEMbg"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2024",
         "url": "https://open.spotify.com/album/2CpsVSq2J9fxB2drEiBSco"
       },
@@ -31223,7 +31307,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 174155,
       "name": "Vera \u00c9g",
       "url": "https://open.spotify.com/track/60lzrcUBhZBwgAatLdj51P"

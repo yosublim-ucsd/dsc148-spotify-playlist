@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Misha Omar
 
-9,564 songs - 21 day 19 hr 57 min
+9,565 songs - 21 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5392,7 +5392,7 @@
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-03 | 2022-11-11 |
 | [My Mind And I](https://open.spotify.com/track/7dY47rtIuUBPjx7Dthz7y4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [My Mind And I](https://open.spotify.com/album/6xpVfrlAOlGrYNPFP9qrKa) | 3:09 | 2024-01-25 | 2024-02-02 |
 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:12 | 2022-06-02 | 2022-06-10 |
-| [My Nature](https://open.spotify.com/track/3FggIxYORMVsvvKT1nT1Xa) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [A Cheetah Hunting In Slow Motion](https://open.spotify.com/album/1aUHNQpRl05kj8WrokDDPl) | 2:50 | 2024-02-29 |  |
+| [My Nature](https://open.spotify.com/track/3FggIxYORMVsvvKT1nT1Xa) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [A Cheetah Hunting In Slow Motion](https://open.spotify.com/album/1aUHNQpRl05kj8WrokDDPl) | 2:50 | 2024-02-29 |  |
 | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/4pYD9GWj75w065wGuRgiMK) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Peace \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/3hj55sEE1Mj07Us2zsYcW2) | 3:19 | 2022-02-17 | 2022-02-25 |
 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 | 2022-04-07 | 2022-04-15 |
 | [My Season](https://open.spotify.com/track/4WWHRUCVq8v0ESD5mFKy3a) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [My Season](https://open.spotify.com/album/3NfFeSSRMQlW2tgqwaE1G6) | 2:58 | 2023-10-26 | 2023-11-03 |
@@ -5966,9 +5966,10 @@
 | [Over the Sea](https://open.spotify.com/track/0yxq8tWNMnEuVLrubXpZuW) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Over the Sea](https://open.spotify.com/album/5zXNaA05GSxZmvfAtBqltq) | 3:21 | 2022-08-18 | 2022-08-26 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 | 2023-01-20 |
 | [Over You](https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Over You](https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI) | 3:27 | 2023-11-23 | 2023-12-01 |
-| [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 | 2024-02-29 |  |
+| [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 | 2024-02-29 | 2024-03-04 |
 | [Over You](https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl), [Joshua Wong](https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK) | [Over You](https://open.spotify.com/album/549aG93aYXXywD71wj36Sw) | 3:32 | 2023-03-09 | 2023-03-18 |
 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-01-11 | 2024-01-19 |
+| [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 | 2024-02-29 |  |
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-02-29 |  |
 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 | 2023-06-22 | 2023-06-30 |
 | [Overdrive](https://open.spotify.com/track/7er9w4TmVRiRB0yttHS3XW) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Overdrive](https://open.spotify.com/album/66x3Gd2WqIxAwAMeINVt9A) | 2:42 | 2022-06-09 | 2022-06-17 |

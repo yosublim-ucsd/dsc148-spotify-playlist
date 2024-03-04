@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Jayson Tatum",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: LeBron James",
   "name": "Locked In",
   "tracks": [
     {
@@ -5704,10 +5704,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 196457,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/0r0KV3E7CjM0F5gH6Ku9Hf"
+    },
+    {
+      "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196457,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/3qbCktPeVi8YHw265AQCZk"
     },
     {
       "album": {

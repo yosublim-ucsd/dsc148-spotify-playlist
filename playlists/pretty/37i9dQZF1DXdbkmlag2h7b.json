@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632360,
+  "num_followers": 632403,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNhZjc5NzI2YjU3NTE1YTc0YmM2NTQ3M2JlZDZjMDljYWQ5Njlj",
+  "snapshot_id": "MCw1NGY5OWFhNzYzNTM0OGM5M2E1YmE0NWQxNGU1YTNiZmVhOWZiYjE1",
   "tracks": [
     {
       "added_at": "2024-02-22 17:41:30",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
+        "name": "Falling Blue Stars",
+        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
+      },
+      "artists": [
+        {
+          "name": "Sal Lastra",
+          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Falling Blue Stars",
+      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
         "name": "String Of Light",
         "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
@@ -203,6 +219,22 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
+      },
+      "artists": [
+        {
+          "name": "Aerin Villegas",
+          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -215,22 +247,6 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "Falling Blue Stars",
-        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
-      },
-      "artists": [
-        {
-          "name": "Sal Lastra",
-          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Falling Blue Stars",
-      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -263,22 +279,6 @@
       "duration_ms": 158550,
       "name": "Surrounded By Clouds",
       "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
-      },
-      "artists": [
-        {
-          "name": "Aerin Villegas",
-          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Serum",
         "url": "https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 224000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
-      },
-      "artists": [
-        {
-          "name": "Bayesian",
-          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Nebulae",
-      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Rugare",
         "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 188691,
       "name": "Rugare",
       "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 188940,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Elementaries",
-        "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
       "artists": [
         {
-          "name": "Michel LeBond",
-          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
-        },
-        {
-          "name": "Max Schrammel",
-          "url": "https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg"
+          "name": "Tom Ellenhag",
+          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
         }
       ],
-      "duration_ms": 182783,
-      "name": "Raising Life",
-      "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+      "duration_ms": 175661,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
+        "name": "Elementaries",
+        "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
       "artists": [
         {
-          "name": "Tom Ellenhag",
-          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
+          "name": "Michel LeBond",
+          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
+        },
+        {
+          "name": "Max Schrammel",
+          "url": "https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg"
         }
       ],
-      "duration_ms": 175661,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+      "duration_ms": 182783,
+      "name": "Raising Life",
+      "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1587,34 +1587,34 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Longevity",
-        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
       },
       "artists": [
         {
-          "name": "Jonas Sandberg",
-          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
+          "name": "Claes Nilsson",
+          "url": "https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9"
         }
       ],
-      "duration_ms": 214951,
-      "name": "Longevity",
-      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
+      "duration_ms": 150550,
+      "name": "Gotham (acoustic)",
+      "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
     },
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Tranquillo",
-        "url": "https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ"
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
       "artists": [
         {
-          "name": "Nicol\u00f3 Lorenzo",
-          "url": "https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt"
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
         }
       ],
-      "duration_ms": 131339,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/4WukGsbJZHciloJygVdG63"
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     }
   ],
   "unique_name": "DayDreamer",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114276,
+  "num_followers": 114298,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjlmYjc1NzI4NDA4NjRmMmFhM2E2MjgyNTVkNDcwNmVlOGRmMzc5",
+  "snapshot_id": "MCxjZWViZWI5NDExNmIyYzdiNTI3NDAyYjllZmY0MWQzNTUwZGQyNThh",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+        "name": "Al Rojo Vivo",
+        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
       },
       "artists": [
         {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
+      "duration_ms": 197093,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -391,22 +407,6 @@
       "duration_ms": 214586,
       "name": "Cada D\u00eda",
       "url": "https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
-      },
-      "artists": [
-        {
-          "name": "Los Roller's",
-          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
-        }
-      ],
-      "duration_ms": 152237,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4"
       },
       "artists": [
         {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+          "name": "Los Roller's",
+          "url": "https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt"
         }
       ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+      "duration_ms": 152237,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -479,6 +479,38 @@
       "duration_ms": 211240,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -535,22 +567,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 195693,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Al Rojo Vivo",
-        "url": "https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Armadura De Rosas",
-        "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
-      },
-      "artists": [
-        {
-          "name": "Negros",
-          "url": "https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4"
-        },
-        {
-          "name": "Alina Vargas",
-          "url": "https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "En Un Solo Dia",
-      "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 233038,
       "name": "Amarte a la antigua",
       "url": "https://open.spotify.com/track/5aHoyryz0I6llzRyhPyEQR"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Armadura De Rosas",
+        "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
+      },
+      "artists": [
+        {
+          "name": "Negros",
+          "url": "https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4"
+        },
+        {
+          "name": "Alina Vargas",
+          "url": "https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "En Un Solo Dia",
+      "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
     },
     {
       "added_at": "2024-01-12 16:17:07",

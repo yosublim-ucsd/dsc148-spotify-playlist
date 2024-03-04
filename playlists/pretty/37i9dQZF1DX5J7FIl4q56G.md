@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Ministry
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,817 likes - 56 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,856 likes - 56 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 4 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 |
 | 5 | [Many Doors to Hell](https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Mandrake Project](https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy) | 4:48 |
 | 6 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 |
-| 7 | [Finsterwacht](https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Finsterwacht](https://open.spotify.com/album/0QtW38XI6FzPFmVaKuxjsK) | 9:20 |
+| 7 | [Finsterwacht](https://open.spotify.com/track/0Ktmk5jp4r6ym9hT2bWlQM) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Blind Guardian](https://open.spotify.com/artist/0VP103S1fTqI5breuKOGy5) | [Finsterwacht](https://open.spotify.com/album/0QtW38XI6FzPFmVaKuxjsK) | 9:20 |
 | 8 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 |
 | 9 | [Timebomb](https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Timebomb](https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY) | 3:20 |
 | 10 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Hateful Thing](https://open.spotify.com/track/2wX7Gg3OmC6FZ2Z19GeYiX) | [The Talon](https://open.spotify.com/artist/2Tjzc5qmjZitZGevgFdBQj) | [Hateful Thing](https://open.spotify.com/album/6vVqC6kfgbgCE0L6Uy0EAF) | 3:16 |
 | 56 | [E.X.I.T.](https://open.spotify.com/track/4f2hClEenwgWD0y3BPdBtu) | [While Oceans Burn](https://open.spotify.com/artist/4FKHhRVQJg6ya19DuFbrf7) | [E.X.I.T.](https://open.spotify.com/album/2hOqIZNiEjjeryQ617JhcO) | 3:18 |
 
-Snapshot ID: `MCwwYmJiODQyNDQ2OWQ4YTEyNTkxYzk5YzU0MzdhODYyOTc3MjJmYzA4`
+Snapshot ID: `MCwxYTg0ZjdmNWJhNzM4MTczNWJlMmQyNTBiZDhmNzgxNmE3ZjQ3NGE5`

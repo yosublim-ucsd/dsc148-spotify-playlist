@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 83092,
+  "2024-03-04": 83147,
   "date_first_scraped": "2022-10-27",
   "description": "The best indie songs from all decades for your Halloween party",
   "name": "Indie Halloween",
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
@@ -1797,6 +1797,24 @@
       "duration_ms": 280133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR"
+    },
+    {
+      "album": {
+        "name": "Keep On Your Mean Side",
+        "url": "https://open.spotify.com/album/6igSL7RFTwQYPdgiYXImOs"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/51VuzlsigtGe7bfZgxWOQS"
     },
     {
       "album": {

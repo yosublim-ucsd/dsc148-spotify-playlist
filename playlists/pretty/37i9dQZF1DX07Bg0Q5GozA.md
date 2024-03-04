@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Einmusik, Zoot Woman
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,276 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,299 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 14 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
 | 15 | [String Theory \- COMA Remix](https://open.spotify.com/track/1VaBSndZ9bzF2FJmMY1kzK) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV), [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [String Theory \(COMA Remix\)](https://open.spotify.com/album/7GabLAzkTt0cN9UZBRpydv) | 5:01 |
 | 16 | [Stranger](https://open.spotify.com/track/4Q5SsnyPrmuZNTY446rrED) | [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [Stranger](https://open.spotify.com/album/2QSLgJSggpcGg4p7Q2fIjL) | 3:27 |
-| 17 | [Mirrors](https://open.spotify.com/track/5vDsymAEOh3HsOhpfF15mK) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Mirrors](https://open.spotify.com/album/0Dfm5ShomZztfnPqEtt5K4) | 3:41 |
+| 17 | [Mirrors](https://open.spotify.com/track/2Ki0bQiWB2F09S0BiS079l) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/album/4li43Kruh0Mrh0SGsIipvU) | 3:41 |
 | 18 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 19 | [Violently Patient](https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq) | 5:23 |
 | 20 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 57 | [What Is](https://open.spotify.com/track/11zDGt3Mhbz7Sb9lJldLUN) | [Biljana Pais](https://open.spotify.com/artist/54hMzUSwvZ8usarv0mHXaA), [Null](https://open.spotify.com/artist/1KSQpTzlMeDLlqMo0zm84t) | [What Is](https://open.spotify.com/album/73KSYqiJC3u0UdkslT9lHc) | 9:07 |
 | 58 | [Petit Jour](https://open.spotify.com/track/583rPY4dNkNk1ED40KAnht) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [A Bunch Of Random Songs](https://open.spotify.com/album/2eJhNaKLtPnYKsr9MDT6hn) | 1:52 |
 | 59 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
-| 60 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 |
+| 60 | [Trust Again](https://open.spotify.com/track/4jWmuRuc4O3I1VL5hjVb8u) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/7m8RhieJSh0apbpWfEx0dW) | 3:50 |
 | 61 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 |
 | 62 | [Tides \- Edit](https://open.spotify.com/track/0LrMnzCsLwwcr1G1cvKmjv) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Tides](https://open.spotify.com/album/6hI7CZX9GP86DgvYuJxEU1) | 3:29 |
 | 63 | [My Only Love](https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [My Only Love](https://open.spotify.com/album/0oo9DANNKIwWW1SgNNL3mY) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 |
 | 75 | [Next Life](https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:52 |
 
-Snapshot ID: `MCw0MGE1MzFjMTMxNmVkNTIyMjZjZDdhNmZiMWQxZjljZDFhOGI1YTY5`
+Snapshot ID: `MCw3ODc1ZTA1MDA2ZmQyNTE1MTAxZWY0OTc1NmQ3NjcwZDcyMzVhZGFl`

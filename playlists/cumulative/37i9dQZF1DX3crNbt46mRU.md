@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Leony
 
-11,004 songs - 22 day 22 hr 57 min
+11,005 songs - 22 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7344,8 +7344,9 @@
 | [Over The Moon](https://open.spotify.com/track/4sp721FZr1KrQS7wwyJ1Q2) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Over The Moon](https://open.spotify.com/album/1AWDEudFi6oHl41usPGUYW) | 3:05 | 2023-10-26 | 2023-11-03 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-13 | 2023-01-20 |
 | [Over You](https://open.spotify.com/track/5taWS1rNgxDbnYotCGyg28) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Over You](https://open.spotify.com/album/647LXIG083ChlUMRtPjiLo) | 2:59 | 2023-11-30 | 2023-12-08 |
-| [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 | 2024-02-29 |  |
+| [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 | 2024-02-29 | 2024-03-04 |
 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-01-11 | 2024-01-19 |
+| [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 | 2024-02-29 |  |
 | [Over You \(feat\. Moss Kena\)](https://open.spotify.com/track/5nMILCCyJX41ARcYhewC9c) | [Sharam Jey](https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt), [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Over You \(feat\. Moss Kena\)](https://open.spotify.com/album/2BWENBjeZDJHgUHikuzTXX) | 2:56 | 2022-07-29 | 2022-08-05 |
 | [OVER YOU \- TC/TC](https://open.spotify.com/track/2o2DVGwdsT1yMUigt2oO6j) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [TC/TC Edition 002](https://open.spotify.com/album/6juCC1SNV4XiKJraqeuBym) | 3:21 | 2023-12-14 | 2023-12-22 |
 | [Over You / Over Me](https://open.spotify.com/track/6LUOkPUPkrW7kIgDIqrKbp) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Over You / Over Me](https://open.spotify.com/album/3xXNdXeZSeVVbq06oGfrzw) | 2:29 | 2022-11-24 | 2022-12-02 |

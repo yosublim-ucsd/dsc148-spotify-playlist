@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,020 likes - 66 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 66 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 65 | [No Me Gusta Hablar](https://open.spotify.com/track/2G6fO9jyYNsJc5r4ENpQTG) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Ando En Lo Mío](https://open.spotify.com/album/2tEVr2cieLQYhf4WZMGz6v) | 2:57 |
 | 66 | [No Te Escondas](https://open.spotify.com/track/1rzUpHfdHOuAaI4shpsvlI) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Ando En Lo Mío](https://open.spotify.com/album/2tEVr2cieLQYhf4WZMGz6v) | 3:14 |
 
-Snapshot ID: `MCw2ZjVjYmYwZWYyNTczZDdkZTY1MTM2NDg5ZTFjYTMyMDgwM2JiYWU4`
+Snapshot ID: `MCxhZmM2YzViODU2YjkxMGZiZTQ0NTI3ZTFhMjlmZDdhMzgyYTg3MDA1`

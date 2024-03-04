@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 99541,
       "name": "Beautiful Day.",
       "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
@@ -2118,6 +2118,24 @@
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+    },
+    {
+      "album": {
+        "name": "What if we never met",
+        "url": "https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127750,
+      "name": "What if we never met",
+      "url": "https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j"
     },
     {
       "album": {

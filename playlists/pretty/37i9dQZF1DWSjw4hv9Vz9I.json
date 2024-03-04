@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 131064,
+  "num_followers": 131107,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4",
+  "snapshot_id": "MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -253,38 +253,6 @@
       "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "State Line",
-      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Highroad",
@@ -303,18 +271,34 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+      "duration_ms": 172400,
+      "name": "State Line",
+      "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -331,6 +315,22 @@
       "duration_ms": 265586,
       "name": "Rita Is Gone",
       "url": "https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "How Do You Do",
-        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 218413,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
-    },
-    {
       "added_at": "2022-12-13 18:45:33",
       "album": {
         "name": "Tomorrow's Gonna Come",
@@ -395,6 +379,22 @@
       "duration_ms": 218613,
       "name": "Rome",
       "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 218413,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -429,10 +429,10 @@
       "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Flow with It (You Got Me Feeling Like)",
-      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
+      "duration_ms": 283879,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
     },
     {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "That Was Yesterday",
@@ -561,22 +577,6 @@
       "url": "https://open.spotify.com/track/10dqk0DIortXmB4hR1j9JG"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "The Dip",
@@ -593,10 +593,10 @@
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 283879,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
+      "duration_ms": 196866,
+      "name": "Flow with It (You Got Me Feeling Like)",
+      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Love Lines",
@@ -831,6 +815,22 @@
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -855,6 +855,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Are You Ready to Love Me?",
+      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "It's Only Us",
         "url": "https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 298973,
       "name": "It's Only Us",
       "url": "https://open.spotify.com/track/5z4Yope4ol84bdZtw1Eo4D"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Are You Ready to Love Me?",
-      "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Uncommon Good",
+        "url": "https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "duration_ms": 277550,
+      "name": "Up Top",
+      "url": "https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Wolf Den",
         "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 177906,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/2H0s28N3rendfnepsj48C6"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "The Shapes I'm In",
-        "url": "https://open.spotify.com/album/2IuEv7SRKYayOZ6CKUzdZE"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 146897,
-      "name": "All This Space",
-      "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1025,36 +1025,20 @@
       "url": "https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Uncommon Good",
-        "url": "https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7"
+        "name": "The Shapes I'm In",
+        "url": "https://open.spotify.com/album/2IuEv7SRKYayOZ6CKUzdZE"
       },
       "artists": [
         {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 277550,
-      "name": "Up Top",
-      "url": "https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
+      "duration_ms": 146897,
+      "name": "All This Space",
+      "url": "https://open.spotify.com/track/0Y36El0k8fS2myogTVGXKP"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1071,6 +1055,22 @@
       "duration_ms": 212680,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Young Sick Camellia",
@@ -1139,6 +1123,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/419J8whWlrbG1sA0ezN0IV"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "It Rains Love",
+        "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "It Rains Love",
+      "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Schvitz",
@@ -1227,22 +1243,6 @@
       "duration_ms": 172607,
       "name": "All That\u2019s Left of Me Is You",
       "url": "https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "It Rains Love",
-        "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "It Rains Love",
-      "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/2egHeaeAhGjsZ4PUc4A1Xa"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Ice Cream & Cigarettes",
         "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 137320,
       "name": "In Love (Don't Mess Things Up)",
       "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/2egHeaeAhGjsZ4PUc4A1Xa"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/5xRlNALFbZ7gaWGlySwfTM"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Sonny Cleveland",
+        "url": "https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe"
+      },
+      "artists": [
+        {
+          "name": "Sonny Cleveland",
+          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
+        }
+      ],
+      "duration_ms": 207524,
+      "name": "If It Ain't Broke",
+      "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
+    },
+    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "If Words Were Flowers",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Sonny Cleveland",
-        "url": "https://open.spotify.com/album/5Slt4CVhQJmKAeTuBrpNwe"
-      },
-      "artists": [
-        {
-          "name": "Sonny Cleveland",
-          "url": "https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA"
-        }
-      ],
-      "duration_ms": 207524,
-      "name": "If It Ain't Broke",
-      "url": "https://open.spotify.com/track/1j0HKSgtePIKdk8HNFlmkX"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/3RDFHeCLGf0U6AsFJ4HigI"
       },
@@ -1467,134 +1467,6 @@
       "duration_ms": 204500,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/71xdcSZMYmrBzw0RVnvJEF"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "My Name Is Earl",
-        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
-    },
-    {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 182821,
-      "name": "Woman (Single Edit)",
-      "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Homemade Lemonade",
-        "url": "https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm"
-      },
-      "artists": [
-        {
-          "name": "Theo Lawrence and The Hearts",
-          "url": "https://open.spotify.com/artist/6bo2HtqA2nv4hdO20GZsei"
-        }
-      ],
-      "duration_ms": 226780,
-      "name": "Heaven To Me",
-      "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "The Alien Coast",
-        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 204548,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1619,6 +1491,102 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "My Name Is Earl",
+        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 182821,
+      "name": "Woman (Single Edit)",
+      "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Homemade Lemonade",
+        "url": "https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm"
+      },
+      "artists": [
+        {
+          "name": "Theo Lawrence and The Hearts",
+          "url": "https://open.spotify.com/artist/6bo2HtqA2nv4hdO20GZsei"
+        }
+      ],
+      "duration_ms": 226780,
+      "name": "Heaven To Me",
+      "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Honest Man",
         "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -1745,6 +1745,26 @@
       "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/28RthxTMjXJ4YdtCcmIs6u"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/1j2SzxQ79JgqOizEp3eqhY"
+        }
+      ],
+      "duration_ms": 195350,
+      "name": "More",
+      "url": "https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Blue",
@@ -1765,24 +1785,20 @@
       "url": "https://open.spotify.com/track/65sa0neBH78VDdpcnze68p"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/28RthxTMjXJ4YdtCcmIs6u"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Sammy Johnson",
-          "url": "https://open.spotify.com/artist/1j2SzxQ79JgqOizEp3eqhY"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 195350,
-      "name": "More",
-      "url": "https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4"
+      "duration_ms": 204747,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -1855,22 +1871,6 @@
       "duration_ms": 216333,
       "name": "Who Knows Who",
       "url": "https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 204747,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Weather Below",
-        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
+        "name": "How Did I Get Here?",
+        "url": "https://open.spotify.com/album/4ZxulZ8Ns2KHeFbX6sQ6Dz"
       },
       "artists": [
         {
-          "name": "Sister Sparrow",
-          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
+          "name": "LaRose Jackson",
+          "url": "https://open.spotify.com/artist/0Bcp6BnrbGucLguN2G5ERK"
         }
       ],
-      "duration_ms": 212320,
-      "name": "Mama Knows",
-      "url": "https://open.spotify.com/track/7kaCWJKoIz2GUB6Rslbl0p"
+      "duration_ms": 158077,
+      "name": "How Did I Get Here?",
+      "url": "https://open.spotify.com/track/0RKQnH9IsHGraKtomDG980"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "The Weather Below",
+        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
+      },
+      "artists": [
+        {
+          "name": "Sister Sparrow",
+          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Mama Knows",
+      "url": "https://open.spotify.com/track/7kaCWJKoIz2GUB6Rslbl0p"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "a tree planted by water",
         "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 228926,
       "name": "Feel The Need",
       "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "How Did I Get Here?",
-        "url": "https://open.spotify.com/album/4ZxulZ8Ns2KHeFbX6sQ6Dz"
-      },
-      "artists": [
-        {
-          "name": "LaRose Jackson",
-          "url": "https://open.spotify.com/artist/0Bcp6BnrbGucLguN2G5ERK"
-        }
-      ],
-      "duration_ms": 158077,
-      "name": "How Did I Get Here?",
-      "url": "https://open.spotify.com/track/0RKQnH9IsHGraKtomDG980"
     }
   ],
   "unique_name": "Retro Road Trip",

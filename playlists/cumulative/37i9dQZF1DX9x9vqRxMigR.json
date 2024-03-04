@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Kuetu",
+        "url": "https://open.spotify.com/album/5zR12lUd1lLmj8ISD1S9uz"
+      },
+      "artists": [
+        {
+          "name": "Naxx Bitota",
+          "url": "https://open.spotify.com/artist/4RE1cbM7QrwxStzXrOCkJv"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241557,
+      "name": "Maamu",
+      "url": "https://open.spotify.com/track/38Rnv18CuI7C6W5MTsbZ4w"
+    },
+    {
+      "album": {
         "name": "Nada Nuevo Bajo el Sol",
         "url": "https://open.spotify.com/album/0oheEoja31fb3jN7bLaHR5"
       },
@@ -9068,7 +9086,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 344649,
       "name": "Sirius B",
       "url": "https://open.spotify.com/track/3YsBVs3FsDSxH8kpo2mQIP"

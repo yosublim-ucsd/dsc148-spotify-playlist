@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 144354,
+  "num_followers": 144726,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODIzOGE1NGI1ZjZlMWRhNzBmNGQ5YmI1NTdkMWQ1MTUwYTRhOWZh",
+  "snapshot_id": "MCxiNzk3NWI0MjE5ODkzYzVjMGVjNzA5MWZlMzgyZjk0NjA0OWZkOGE2",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Never Lost",
-        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 315538,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Ready to Fly",
         "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 190026,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Never Lost",
+        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 315538,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
     },
     {
       "added_at": "2023-02-07 17:43:16",

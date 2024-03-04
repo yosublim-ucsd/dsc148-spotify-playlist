@@ -1,9 +1,31 @@
 {
-  "2024-03-03": 1343,
+  "2024-03-04": 1344,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
   "tracks": [
+    {
+      "album": {
+        "name": "Amathole",
+        "url": "https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487804,
+      "name": "Amathole",
+      "url": "https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2"
+    },
     {
       "album": {
         "name": "Amathole",
@@ -21,7 +43,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 487804,
       "name": "Amathole",
       "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
@@ -377,7 +399,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 90692,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
@@ -417,7 +439,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 323075,
       "name": "Find You feat. Ida Dillan",
       "url": "https://open.spotify.com/track/2lKZhpcfZeWeDfAtBUbKHD"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
@@ -695,7 +717,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -1129,6 +1151,10 @@
         {
           "name": "vtze archive",
           "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
         }
       ],
       "date_added": "2024-02-29",
@@ -1247,7 +1273,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 117603,
       "name": "MOVE YO BODY (sped up)",
       "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
@@ -1381,7 +1407,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 169846,
       "name": "November",
       "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
@@ -1571,7 +1597,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -1661,6 +1687,24 @@
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
+        "name": "Shit Too",
+        "url": "https://open.spotify.com/album/42QjSVzgpUkNnW7jKVVIxm"
+      },
+      "artists": [
+        {
+          "name": "onthesky",
+          "url": "https://open.spotify.com/artist/7ceKI67w4IRCQKUvFItTVw"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99657,
+      "name": "Shit Too",
+      "url": "https://open.spotify.com/track/2sJFHMF9oJB19WpAZLy0xv"
     },
     {
       "album": {
@@ -2696,6 +2740,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u043e\u043c\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/0u6NpdGJSd1zhSqwOqnoFG"
+      },
+      "artists": [
+        {
+          "name": "CREAM SODA",
+          "url": "https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226617,
+      "name": "\u041d\u0438\u043a\u0430\u043a\u0438\u0445 \u0411\u043e\u043b\u044c\u0448\u0435 \u0412\u0435\u0447\u0435\u0440\u0438\u043d\u043e\u043a",
+      "url": "https://open.spotify.com/track/4XJ0xSJtI7HKVe3qqoYX5E"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u044e\u0442 \u0434\u043d\u0438",
         "url": "https://open.spotify.com/album/3hlcGQiOyJ894PPOIgew45"
       },
@@ -2707,7 +2769,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 107717,
       "name": "\u041e\u043d \u0433\u0435\u043d\u0438\u0430\u043b\u0435\u043d",
       "url": "https://open.spotify.com/track/6nkxIA8MKHQT6R8nI63c9u"
@@ -3149,7 +3211,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/1VdZa83wmycr1fi86O8vh7"
@@ -3167,7 +3229,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 157666,
       "name": "\u042e\u0440\u0444\u0430\u043a",
       "url": "https://open.spotify.com/track/7hcU2QzT149fKRIuX0SitB"

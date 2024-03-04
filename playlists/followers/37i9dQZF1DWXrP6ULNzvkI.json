@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 6206,
+  "2024-03-04": 6207,
   "date_first_scraped": "2023-01-19",
   "description": "Our editors' picks of the best Fresh Finds tracks from around the world this year. Cover: Katherine Li #SpotifyWrapped",
   "name": "Fresh Finds: Class of 2022",
@@ -443,10 +443,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 370946,
       "name": "Essa Mina",
       "url": "https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT"
+    },
+    {
+      "album": {
+        "name": "Four to the Floor 23",
+        "url": "https://open.spotify.com/album/2u3mb3CZ1ZAufllAIQ2Zy4"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Essa Mina",
+      "url": "https://open.spotify.com/track/6dOgG8Pmiv3jRgJsz4Nkf2"
     },
     {
       "album": {

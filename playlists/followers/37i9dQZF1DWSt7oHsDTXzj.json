@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 182343,
+  "2024-03-04": 182317,
   "date_first_scraped": "2021-12-28",
   "description": "The ultimate seasonal (indie) playlist. ",
   "name": "Indie Christmas",
@@ -3889,7 +3889,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
@@ -3943,7 +3943,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 256773,
       "name": "When I Get Home for Christmas",
       "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"

@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 183000,
       "name": "3ALAMI",
       "url": "https://open.spotify.com/track/6SNXfPwMUeq7kti2203Po1"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 228925,
       "name": "Abala Ya Bali",
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
@@ -4001,6 +4001,28 @@
     },
     {
       "album": {
+        "name": "CA VA CHANGER",
+        "url": "https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        }
+      ],
+      "date_added": "2024-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232643,
+      "name": "CA VA CHANGER",
+      "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
+    },
+    {
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/1iGBzkAEeVfMuhoagrgEsP"
       },
@@ -6546,7 +6568,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 212000,
       "name": "DON CORLEONE",
       "url": "https://open.spotify.com/track/2wTLmzA0AfXYNJiwHaPIZa"
@@ -13356,7 +13378,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-04",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -22596,7 +22618,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"

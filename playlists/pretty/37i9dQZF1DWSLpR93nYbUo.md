@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,047 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,050 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 19 | [Take Another One](https://open.spotify.com/track/31Ig4NrUgsQDKbdGNROY45) | [Doche](https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf) | [Take Another One](https://open.spotify.com/album/1HclTpHPkgrg9RWZf13xLP) | 2:45 |
 | 20 | [USER \- Original Mix](https://open.spotify.com/track/4yRl21DdVy0MJdMXOhAg9O) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [USER](https://open.spotify.com/album/3I2Tpmvq74OnufD3JzBpho) | 5:07 |
 | 21 | [Collapse](https://open.spotify.com/track/4tTXKlq8TADdbjkA21YThx) | [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH) | [Collapse](https://open.spotify.com/album/2csn3ac1mcHWk3OBZoJVym) | 3:44 |
-| 22 | [Summer Of Love \- Rework](https://open.spotify.com/track/4g0rY8RkJ2T7lXZ4eDqDhk) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love](https://open.spotify.com/album/5xW3uXf60HhnVho8sdJube) | 3:12 |
+| 22 | [Summer Of Love \- Rework](https://open.spotify.com/track/1PmBNr3lkfQbC8V59Y1vmT) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love](https://open.spotify.com/album/5254hbNLICqX71dsjsYR6o) | 3:12 |
 | 23 | [Bailalo](https://open.spotify.com/track/7s2Hlm1v8apXqFJo4Gj64t) | [Lamooc](https://open.spotify.com/artist/7Fd7GoXHkgFZWinY7QA5hx) | [Bailalo](https://open.spotify.com/album/2zLL8VkoFe0AOu2Qj6JrTw) | 3:00 |
 | 24 | [You Gonna](https://open.spotify.com/track/62PpvrrCJpHqn1JVIBlLHp) | [The Fish House](https://open.spotify.com/artist/0TXfVIHlCROnWuH89PfnJj) | [You Gonna](https://open.spotify.com/album/6D99pdgHXLkPlQjJn8JDE5) | 2:11 |
 | 25 | [Cupid](https://open.spotify.com/track/2WAkKuNKKCsGc7EOVmgxzP) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Cupid](https://open.spotify.com/album/0H2dpkiKzML5jOkf7fu6ic) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 |
 | 70 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 
-Snapshot ID: `MCw5OGZjNGIxNDA3MDQ4NmUxOTc3NzVjZGE3YmU0MThkZTBjMzljNjc3`
+Snapshot ID: `MCxmNDdhNjI5NjBmZjkyMzAyOTcyYTI3YTEzMGU2NWQxYmRiNTE0MjE3`

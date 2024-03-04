@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Pandorea
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,124 likes - 81 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,128 likes - 81 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 13 | [PER FORTUNA CHE CI SONO IO](https://open.spotify.com/track/6jACDurC6Zhjvt6fKJstZl) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g) | [PER FORTUNA CHE CI SONO IO](https://open.spotify.com/album/5JKZCBRT8KzQaG1mTwmPFF) | 3:39 |
 | 14 | [Memory](https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP) | [Tiger! Shit! Tiger! Tiger!](https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed) | [Bloom](https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm) | 5:47 |
 | 15 | [Male Cane](https://open.spotify.com/track/2glgD5Pu1kYfAtLyfU6NoZ) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Male Cane](https://open.spotify.com/album/17snaUPkFYcJ81a6RVdGYT) | 3:09 |
-| 16 | [PMA](https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O) | [LVCRIME](https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez), [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [PMA](https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO) | 3:01 |
+| 16 | [PMA](https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O) | [LVCRIME](https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez), [Positive](https://open.spotify.com/artist/5gTEF9XXWhko4kb8kvYUi6) | [PMA](https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO) | 3:01 |
 | 17 | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/track/5tZdJhXY8z7AthEIsn5KUs) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/album/2Ls2f0KJmFdKv0fRNzS2lT) | 1:55 |
 | 18 | [IO](https://open.spotify.com/track/6HILJjnY3pu5IJJrkoAbNu) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [IO](https://open.spotify.com/album/3EerWadIv1eDMhFduhPilL) | 2:42 |
 | 19 | [E...Ancora tu](https://open.spotify.com/track/0uHEZvGeu5Az4Py2913e0L) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [E...Ancora tu / Quanto dolore ci servirà per smettere d'amare](https://open.spotify.com/album/0rR6tQ4punCrLxvCWhiufI) | 3:55 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 80 | [camera mia](https://open.spotify.com/track/6tO3uimbnU4Gi6bWFBpXEf) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [camera mia](https://open.spotify.com/album/571FxFPUBR2Da8oMcEXMce) | 4:03 |
 | 81 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 
-Snapshot ID: `MCxjY2ZkNzQ4ZGU1ODRkNDNhYzM0MmQ2ODMzNzIwZWMxOGM3MDMzYWZh`
+Snapshot ID: `MCxmYTNhOTU3YmM4Nzk3YzNmNjdjZTY1NGE0ZWZhZmFjZGQ0MzNlMWVj`

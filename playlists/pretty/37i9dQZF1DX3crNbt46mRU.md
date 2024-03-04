@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,415 likes - 99 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,419 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 77 | [Howling At The Moon](https://open.spotify.com/track/30rTr4V0by8k9YRaVxpKy0) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Howling At The Moon](https://open.spotify.com/album/51e9VEH1NuVzhpXkeFbMod) | 3:52 |
 | 78 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
 | 79 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 |
-| 80 | [Over You](https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 2:53 |
+| 80 | [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 |
 | 81 | [Für Noel](https://open.spotify.com/track/6Tgq6QgQBNPScKb0R0B3xA) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Für Noel](https://open.spotify.com/album/0ZWlbdrR3ZiWYuzPOqLjGJ) | 2:39 |
 | 82 | [99](https://open.spotify.com/track/0SJggKGs2R3UQgBV2re8Ci) | [Batuhan Kanay](https://open.spotify.com/artist/03BH1eefB3KijASPen4jn5) | [99](https://open.spotify.com/album/1pesU8MTMhHVpuQY4DZquM) | 2:36 |
 | 83 | [Alone At Last](https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [47](https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Alles vorbei](https://open.spotify.com/track/6ClrnkqYt9NSC4sXiTogZb) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Alles vorbei](https://open.spotify.com/album/4EgBZMsRsTq6Kcz3HuogYq) | 2:00 |
 | 99 | [remember \(my name\)](https://open.spotify.com/track/5pXJ82WRuuoizkkW1RJZuz) | [multiplayer](https://open.spotify.com/artist/3s5XnLtcMr2F9CiOBlgbed) | [remember \(my name\)](https://open.spotify.com/album/5HWldIPagbJh75wIJ876ie) | 2:13 |
 
-Snapshot ID: `MCw4YzNiN2I5MjJiNzM2Zjk2YTAzZjZmZTg4ZWQxNjJmMTk1NzcwNDRi`
+Snapshot ID: `MCw2M2RmZWQ3NTI5NDkzYzYwYWQ4OGM4YmQzMzI2NWNlZjhiNzg2MTZk`

@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "How I Follow",
+        "url": "https://open.spotify.com/album/6GZ0NGOgrTbQVbDfXF2yD9"
+      },
+      "artists": [
+        {
+          "name": "Chelle Ives",
+          "url": "https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415055,
+      "name": "How I Follow",
+      "url": "https://open.spotify.com/track/2JEGk8aWyAenSptDVIuRGh"
+    },
+    {
+      "album": {
         "name": "I Kinda Like It",
         "url": "https://open.spotify.com/album/4Fl0fWnj9sqmEI8mN3dIOu"
       },

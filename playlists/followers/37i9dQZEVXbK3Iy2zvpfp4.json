@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 4609,
+  "2024-03-04": 4609,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -3295,7 +3295,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
@@ -7297,7 +7297,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 142080,
       "name": "DARK ARIA <LV2>",
       "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
@@ -11197,6 +11197,24 @@
     {
       "album": {
         "name": "Gangster",
+        "url": "https://open.spotify.com/album/5VOHGLZ3T7qWxlIfuDpe8i"
+      },
+      "artists": [
+        {
+          "name": "Nico Benz",
+          "url": "https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184166,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/4jP0rMryObcZ58N2sTFEnG"
+    },
+    {
+      "album": {
+        "name": "Gangster",
         "url": "https://open.spotify.com/album/0OExuZI0PvSakCNVCyujbE"
       },
       "artists": [
@@ -11211,24 +11229,6 @@
       "duration_ms": 184166,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/67WqF7aOqgsjjPdspYpn18"
-    },
-    {
-      "album": {
-        "name": "Gangster",
-        "url": "https://open.spotify.com/album/5VOHGLZ3T7qWxlIfuDpe8i"
-      },
-      "artists": [
-        {
-          "name": "Nico Benz",
-          "url": "https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W"
-        }
-      ],
-      "date_added": "2024-02-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184346,
-      "name": "Gangster",
-      "url": "https://open.spotify.com/track/4jP0rMryObcZ58N2sTFEnG"
     },
     {
       "album": {
@@ -26243,7 +26243,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 177230,
       "name": "PROTECTION CHARM",
       "url": "https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA"
@@ -28754,6 +28754,32 @@
     },
     {
       "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/1Ljb1Bo6Nc9SqdtKdkXHCN"
+    },
+    {
+      "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
       },
@@ -28773,7 +28799,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 188484,
       "name": "Seya",
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
@@ -37791,6 +37817,24 @@
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
+    },
+    {
+      "album": {
+        "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Remixes)",
+        "url": "https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238595,
+      "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW"
     },
     {
       "album": {

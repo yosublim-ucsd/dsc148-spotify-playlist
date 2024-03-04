@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,861 songs - 2 day 22 hr 57 min
+1,863 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Cosiness](https://open.spotify.com/track/271aCriufcy9de7q9J0vMD) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Cosiness](https://open.spotify.com/album/2xyUPtl6EUBTLMEtWacEUC) | 2:12 | 2023-04-20 |  |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2022-09-16 |  |
 | [Costa Calma](https://open.spotify.com/track/24NZxpbfzt63NTDghVS43j) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Costa Calma](https://open.spotify.com/album/2J4NHehoXZvV1fgPNFnL7H) | 2:20 | 2022-05-27 | 2022-11-12 |
+| [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 |  |
 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 |  |
 | [Cozy Pillow Whispers](https://open.spotify.com/track/5e6u0cpQHk9JOGsolbcgpQ) | [Mr Sleep](https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD) | [Cozy Pillow Whispers](https://open.spotify.com/album/1XcsHA50vlwJaKpSXLnOoz) | 2:04 | 2024-01-12 |  |
 | [Cravings](https://open.spotify.com/track/0iGfk7XZl6YCXEsHNGOuYc) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Cravings](https://open.spotify.com/album/0i2saFNmr3DXFWvwVC72hm) | 1:36 | 2022-11-18 | 2023-09-16 |
@@ -1204,7 +1205,7 @@
 | [Oven Baked](https://open.spotify.com/track/7zUpfB9iEen3mp01g540aQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Oven Baked](https://open.spotify.com/album/2D9pQSvdx0FBHThlO6OHSI) | 2:05 | 2022-12-23 | 2024-03-01 |
 | [Over My Head](https://open.spotify.com/track/3KdnmcIQAsKz6leGGvhziU) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Over My Head](https://open.spotify.com/album/0ksVtSB4NBXsQwLbHevVAX) | 1:07 | 2022-10-07 | 2023-01-13 |
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
-| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 |  |
+| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 | 2024-03-04 |
 | [Pacific Highway](https://open.spotify.com/track/6zflxqdtATYTIWGoOQKZZv) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Pacific Highway](https://open.spotify.com/album/5TePX9AcqnHsVlqvS1BWFa) | 2:18 | 2022-11-25 | 2023-09-16 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-04-20 | 2023-09-29 |
 | [Palm Breeze](https://open.spotify.com/track/5gm3EF9cktGnOPkTnK3SNe) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Palm Breeze](https://open.spotify.com/album/5kTR2SstqSeZm39niVH0jc) | 1:49 | 2022-04-15 | 2022-09-02 |
@@ -1303,6 +1304,7 @@
 | [Purity Of Mountain](https://open.spotify.com/track/3suiDAiG53bMdlILyKc0DT) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Purity Of Mountain](https://open.spotify.com/album/7JG5zE2IwShFXGiJbFyYQ2) | 2:17 | 2023-03-24 | 2024-02-09 |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2022-04-15 | 2023-02-14 |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
+| [purpose](https://open.spotify.com/track/3PTOLEY1ePZC1jEIXVsKUF) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [purpose](https://open.spotify.com/album/3zKixwSv83Sho0KtDRteju) | 2:24 | 2024-03-01 |  |
 | [Puzzle Games](https://open.spotify.com/track/1hU8XWa2YZiQQK78ypYZNP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Puzzle Games](https://open.spotify.com/album/7o7ujWd4hMX1EfVaXSfgNi) | 1:48 | 2023-03-20 | 2024-02-02 |
 | [pássaro](https://open.spotify.com/track/2M7EWn8Wer8ERj8LWWr73l) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [pássaro](https://open.spotify.com/album/6EvrdQnoT8sEAmCfN8elzk) | 1:46 | 2022-07-29 | 2022-08-19 |
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
@@ -1477,7 +1479,7 @@
 | [Snowflakes](https://open.spotify.com/track/2y0qzhtfsdGqYjsfKIh2kP) | [Fyre Bath](https://open.spotify.com/artist/1f29BRRWVJwf2PtNFWF3lK) | [Snowflakes](https://open.spotify.com/album/2PYdJp6yFkA1zegp52eHHp) | 2:33 | 2023-07-13 |  |
 | [snowskiing](https://open.spotify.com/track/6kJCXQEhZdVR5wZ010LWvs) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [snowskiing](https://open.spotify.com/album/0gQGpLcIulOqJy2UwfOskP) | 2:52 | 2022-12-16 | 2023-09-16 |
 | [sofa pretty good](https://open.spotify.com/track/2fqGIW69iH9zPtwTHVcLMM) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [sofa pretty good](https://open.spotify.com/album/6EY9QyyvvyTYvKdorHsxkt) | 2:01 | 2022-12-02 |  |
-| [Soft Light](https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Soft Light](https://open.spotify.com/album/5FtyeuqHAhq5wLfKZ8TFD5) | 2:38 | 2023-04-20 |  |
+| [Soft Light](https://open.spotify.com/track/2Wsb2fbA8no8F1Xe6BJiTT) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Soft Light](https://open.spotify.com/album/5FtyeuqHAhq5wLfKZ8TFD5) | 2:38 | 2023-04-20 | 2024-03-04 |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2022-04-15 | 2022-05-27 |
 | [Softly Spoken](https://open.spotify.com/track/2MUyfYFjFfoHmQ1LnsNOU0) | [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77), [floridomi](https://open.spotify.com/artist/4I3pwCrFsOXd1laaCNzziZ), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Softly Spoken](https://open.spotify.com/album/0SBcRk7L26ySFBEMYWujkB) | 2:12 | 2022-12-02 | 2023-09-16 |
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |

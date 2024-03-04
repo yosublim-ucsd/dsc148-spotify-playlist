@@ -4,7 +4,7 @@
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, nashley\)
 
-259 songs - 11 hr 34 min
+260 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 | 2022-07-28 |  |
 | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/track/4HRrnbzrZJEXJYYuI1HU2S) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [ASPETTANDO IL MIRACOLO](https://open.spotify.com/album/1ENGxtMXehMFKiMtvLnD1Y) | 3:10 | 2023-02-23 | 2023-04-28 |
 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 | 2023-11-24 |  |
-| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 |  |
+| [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 | 2024-03-04 |
 | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/track/5R6CBDrtdq73zYmSs3BgTR) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/album/1StOOfB2TRMIYzHQaq6kNU) | 2:26 | 2022-12-05 | 2023-03-25 |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-04-21 |  |
 | [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 | 2023-02-01 |
@@ -91,6 +91,7 @@
 | [Futuro](https://open.spotify.com/track/73dvpFQXtONS3r2YjvRYxM) | [GiovaneRoyce](https://open.spotify.com/artist/2pLKg64jV4OpTtx95KhMDL) | [Futuro](https://open.spotify.com/album/5yZc4Yg7MEWRyLrXm2CUoW) | 2:17 | 2022-04-21 | 2023-02-25 |
 | [ghost boy](https://open.spotify.com/track/3YchUDysu9jfzeSRG8st77) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [ghost boy](https://open.spotify.com/album/2545TGqg1nJAujH5xPqJzm) | 2:10 | 2024-01-18 |  |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2022-04-21 |  |
+| [giusti nei momenti sbagliati](https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [giusti nei momenti sbagliati](https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq) | 1:59 | 2024-02-29 |  |
 | [GOODBYE](https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:07 | 2022-07-01 | 2023-11-03 |
 | [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2023-04-05 | 2023-12-07 |
 | [gusto,, paranoia !](https://open.spotify.com/track/5hO7SFzboofb2rKNtA5QHg) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [gusto,, paranoia !](https://open.spotify.com/album/2s5apPv6vDludn70FLeIu3) | 2:38 | 2022-04-21 | 2022-12-15 |

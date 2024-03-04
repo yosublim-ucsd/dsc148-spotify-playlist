@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55435,
+  "num_followers": 55453,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
+  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -211,18 +211,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Fearless Flyers",
-        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
+        "name": "Zapp",
+        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
       },
       "artists": [
         {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
         }
       ],
-      "duration_ms": 124565,
-      "name": "Ace of Aces",
-      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
+      "duration_ms": 311120,
+      "name": "More Bounce to the Ounce",
+      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -243,22 +243,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Zapp",
-        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 311120,
-      "name": "More Bounce to the Ounce",
-      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Fearless Flyers",
+        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        }
+      ],
+      "duration_ms": 124565,
+      "name": "Ace of Aces",
+      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Standing On The Verge Of Getting It On",
-        "url": "https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf"
-      },
-      "artists": [
-        {
-          "name": "Funkadelic",
-          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
-        }
-      ],
-      "duration_ms": 310143,
-      "name": "Standing On The Verge Of Getting It On",
-      "url": "https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Live!",
         "url": "https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 337680,
       "name": "Too Hot Ta Trot",
       "url": "https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Standing On The Verge Of Getting It On",
+        "url": "https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf"
+      },
+      "artists": [
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "duration_ms": 310143,
+      "name": "Standing On The Verge Of Getting It On",
+      "url": "https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -843,6 +843,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Jeannie's Getdown",
+        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 186348,
+      "name": "A Message from the Meters",
+      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Sign \"O\" the Times",
         "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 261945,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Jeannie's Getdown",
-        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
-      },
-      "artists": [
-        {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 186348,
-      "name": "A Message from the Meters",
-      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -983,22 +983,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Bedrock",
-        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
-      },
-      "artists": [
-        {
-          "name": "Diggin' Dirt",
-          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
-        }
-      ],
-      "duration_ms": 351953,
-      "name": "Leather Tramp",
-      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 234800,
       "name": "Let's Work",
       "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
+      },
+      "artists": [
+        {
+          "name": "Diggin' Dirt",
+          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
+        }
+      ],
+      "duration_ms": 351953,
+      "name": "Leather Tramp",
+      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
-      },
-      "artists": [
-        {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
-        }
-      ],
-      "duration_ms": 271054,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "One of These Days",
         "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 211988,
       "name": "Take It Back (feat. Doc Brown)",
       "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        }
+      ],
+      "duration_ms": 271054,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Chasing Gold",
-        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wilson",
-          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
-        }
-      ],
-      "duration_ms": 274237,
-      "name": "Word Is Out",
-      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mindblastin'",
         "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 261184,
       "name": "Mindblastin'",
       "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Chasing Gold",
+        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wilson",
+          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
+        }
+      ],
+      "duration_ms": 274237,
+      "name": "Word Is Out",
+      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
     },
     {
       "added_at": "2019-08-22 14:26:16",

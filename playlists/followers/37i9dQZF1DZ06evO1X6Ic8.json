@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 766659,
+  "2024-03-04": 766765,
   "date_first_scraped": "2023-03-20",
   "description": "This is The 1975. The essential tracks, all in one playlist.",
   "name": "This Is The 1975",
@@ -699,6 +699,24 @@
       "duration_ms": 225955,
       "name": "Sincerity Is Scary",
       "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
+    },
+    {
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2024-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240109,
+      "name": "So Far (It's Alright)",
+      "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
     },
     {
       "album": {

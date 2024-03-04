@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 237745,
+  "2024-03-04": 237885,
   "date_first_scraped": "2022-06-05",
   "description": "it's St Swithin's day \ud83c\udf27\ufe0f",
   "name": "pov (2)",
@@ -19281,6 +19281,24 @@
     {
       "album": {
         "name": "Odyssey",
+        "url": "https://open.spotify.com/album/7mfbMl5alfZ4JSKFEeSCCU"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/1hluiNWBgIB2lVDhZu53LG"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
         "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
       },
       "artists": [
@@ -19291,7 +19309,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 212881,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"

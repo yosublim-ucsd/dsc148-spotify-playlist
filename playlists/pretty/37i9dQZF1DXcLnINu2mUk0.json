@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles com Bispo e Van Zee.",
-  "num_followers": 44281,
+  "num_followers": 44292,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTUyZjBhMzFmNjE3Mjg1MWRkZWQ3N2UxMDYxMTVkMmZjMDViM2Ez",
+  "snapshot_id": "MCw5NDNhYzI3YmEyNDVkOGY0NjQ2OWNjOGExNWFmNGFkZTE1OTI3ZWY3",
   "tracks": [
     {
       "added_at": "2024-03-01 00:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-01 00:00:00",
       "album": {
+        "name": "Sonhos e Diamantes",
+        "url": "https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Sonhos e Diamantes",
+      "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
+    },
+    {
+      "added_at": "2024-03-01 00:00:00",
+      "album": {
         "name": "Leonor",
         "url": "https://open.spotify.com/album/6rNBKnFgPS7APToqmXIGjS"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-03-01 00:00:00",
       "album": {
-        "name": "Sonhos e Diamantes",
-        "url": "https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym"
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1"
       },
       "artists": [
         {
-          "name": "Londone",
-          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+          "name": "SHINY",
+          "url": "https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i"
         }
       ],
-      "duration_ms": 184444,
-      "name": "Sonhos e Diamantes",
-      "url": "https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN"
+      "duration_ms": 236065,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl"
     },
     {
       "added_at": "2024-03-01 00:00:00",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2024-03-01 00:00:00",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1"
+        "name": "O Que N\u00f3s Fomos",
+        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
       "artists": [
         {
-          "name": "SHINY",
-          "url": "https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i"
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
         }
       ],
-      "duration_ms": 236065,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl"
+      "duration_ms": 158081,
+      "name": "O Que N\u00f3s Fomos",
+      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
     },
     {
       "added_at": "2024-03-01 00:00:00",
@@ -1379,22 +1395,6 @@
       "duration_ms": 154800,
       "name": "Pedi Amor",
       "url": "https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU"
-    },
-    {
-      "added_at": "2024-03-01 00:00:00",
-      "album": {
-        "name": "O Que N\u00f3s Fomos",
-        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
-      },
-      "artists": [
-        {
-          "name": "Blutab",
-          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "O Que N\u00f3s Fomos",
-      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
     },
     {
       "added_at": "2024-03-01 00:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-03-03": 462272,
+  "2024-03-04": 462346,
   "date_first_scraped": "2023-07-29",
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
   "name": "This Is Mariah Carey",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 240773,
       "name": "Forever",
       "url": "https://open.spotify.com/track/74EIDs3yEsMR1gcUmFD4FB"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 307000,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 209266,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-03",
       "duration_ms": 301573,
       "name": "The Prince Of Egypt (When You Believe)",
       "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"

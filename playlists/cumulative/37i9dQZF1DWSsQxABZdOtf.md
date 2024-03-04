@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-376 songs - 21 hr 31 min
+377 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Dushi Bida](https://open.spotify.com/track/2sgoZa1C2kXvyIuU7m8HvA) | [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p), [Humphrey Dennis](https://open.spotify.com/artist/6BcgdXb4SkZ1Rusdb8IckU) | [Dushi Bida](https://open.spotify.com/album/2BDnwuBlDEF7EcGnGHKA8Z) | 2:29 | 2023-08-17 | 2024-01-17 |
 | [Dust](https://open.spotify.com/track/2P5k4HyETUJqYbMDXZdkp4) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Dust](https://open.spotify.com/album/31GMSYmGczriDXzpWt14Xm) | 5:05 | 2022-09-08 | 2022-11-19 |
 | [E Is 4 Freak](https://open.spotify.com/track/4B3CQBwsuHkDlzDa6QbvRL) | [e\-freq](https://open.spotify.com/artist/76xSdk01m9OdaqzeZlP5M3), [DJ Haus](https://open.spotify.com/artist/6rcgwmnS7bnZBf7Tywp3fb), [Mak & Pasteman](https://open.spotify.com/artist/72D2yFt9Tjzt1ryReiggXG) | [Dance Trax, Vol\. 43](https://open.spotify.com/album/5laJvi0IkkcANUi8BgZ9oX) | 4:07 | 2022-11-18 | 2023-04-19 |
+| [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-03-03 |  |
 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-11-18 | 2023-04-19 |
 | [ei09k](https://open.spotify.com/track/1pFnl6KUbchUVIO0qnfmAR) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr) | [ei09k](https://open.spotify.com/album/4ypqx5yGNtpVUnw96LtPV8) | 3:10 | 2022-11-18 | 2023-04-19 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-08-17 | 2023-11-24 |

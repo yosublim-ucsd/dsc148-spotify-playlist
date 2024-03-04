@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-65 songs - 3 hr 21 min
+66 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Hearts & Minds](https://open.spotify.com/track/41WEPTo5oPvOZGc1grXUQx) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Hearts & Minds](https://open.spotify.com/album/7dAAkcOthaV2P5hgxvaGvJ) | 4:02 | 2022-03-24 |  |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-24 |  |
 | [Hide](https://open.spotify.com/track/7x1RSzh3EmnIgJzqJCQtd3) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Hide](https://open.spotify.com/album/3AY7vjgNINaKOGOF00Jwrr) | 3:00 | 2022-03-24 |  |
-| [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 | 2022-03-24 |  |
+| [How Does The Story Go?](https://open.spotify.com/track/4rb81e5B3wqKKiha0GESxW) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [A Modern Job](https://open.spotify.com/album/5h3feDMBZTUcxVrTffm1On) | 2:28 | 2022-03-24 |  |
+| [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 | 2022-03-24 | 2024-03-04 |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-03-24 |  |
 | [I Hope You're Happy](https://open.spotify.com/track/0R8clsMFyCYRN7iYRKTiuE) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0GrNWYEjMvterOotBAbkNa) | 2:59 | 2022-03-24 | 2022-07-29 |
 | [I Hope You're Happy](https://open.spotify.com/track/0hg5kJOSZNT0PcUL89ORHS) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0XJzwar2Xg8a0IEHqC7Lty) | 2:59 | 2022-03-24 | 2022-09-28 |

@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6988,
+  "num_followers": 6989,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0",
+  "snapshot_id": "MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi",
   "tracks": [
     {
       "added_at": "2024-01-29 17:19:17",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "PLAYMAKER PT.2",
         "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 165719,
       "name": "PLAYMAKER PT.2",
       "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 176508,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
-      },
-      "artists": [
-        {
-          "name": "Henao",
-          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
-        }
-      ],
-      "duration_ms": 185017,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "Forma de Ser",
         "url": "https://open.spotify.com/album/0O8iAjrqmWHWWb1PwPBpjW"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 169301,
       "name": "Forma de Ser",
       "url": "https://open.spotify.com/track/4q2OMrJoN5UGzk4HNZqd0n"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
+      },
+      "artists": [
+        {
+          "name": "Henao",
+          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
+        }
+      ],
+      "duration_ms": 185017,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
     },
     {
       "added_at": "2024-01-29 17:19:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bartolini, Tripolare in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,927 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,942 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 28 | [omg, lol](https://open.spotify.com/track/5klZLG9n6iZ9GPpEil9GwV) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [omg, lol](https://open.spotify.com/album/08DEirI7Hu33vxLoVZUzIz) | 2:35 |
 | 29 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 |
 | 30 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
-| 31 | [PMA](https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O) | [LVCRIME](https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez), [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [PMA](https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO) | 3:01 |
+| 31 | [PMA](https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O) | [LVCRIME](https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez), [Positive](https://open.spotify.com/artist/5gTEF9XXWhko4kb8kvYUi6) | [PMA](https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO) | 3:01 |
 | 32 | [dimora perfetta](https://open.spotify.com/track/1OemJTmnCkmIU3t8SRM81V) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [dimora perfetta](https://open.spotify.com/album/3G47fU6nHDI6gX2tCzBAMt) | 2:59 |
 | 33 | [RUSH HOUR](https://open.spotify.com/track/4mqaKeh3TLwWYzAPzFgP0t) | [SoDa](https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [RUSH HOUR](https://open.spotify.com/album/0uLtfC5LHjs2GQ7yqfE2Fw) | 2:12 |
 | 34 | [1\(999\)](https://open.spotify.com/track/2B4AHeXveBU4rRzrFildm8) | [DBMC](https://open.spotify.com/artist/2Ozu0CSaKM2RwAGN4NJDc8) | [1\(999\)](https://open.spotify.com/album/1e3oTezK52FkoBBFmOwatW) | 2:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [ANIME // LACRIME](https://open.spotify.com/track/2uXMhura9A8WAQ6hJhwWVb) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb) | [ANIME // LACRIME](https://open.spotify.com/album/0nNR2YC1WWGwxjd4X4KbJU) | 2:58 |
 | 70 | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/track/2MYVS1724Vd9x3JISFCUeC) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H) | [NARCISISTA BAMBINA DEPRESSA](https://open.spotify.com/album/3kmnImSBKrya26vvpXolO0) | 2:05 |
 
-Snapshot ID: `MCw2YTllYjlhMDkzMzE5ZWE4MDg4ZTc2ZjZiNzE4MzEyMDUxZDczNWI3`
+Snapshot ID: `MCw4OTdlODBkMGI1ZTM4MDA5ZGRjMGQzOWQxYjY0ZWJlZGQ4YmE0MzE2`

@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Misha Omar",
-  "num_followers": 61502,
+  "num_followers": 61513,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmVhMzk1MzkyZGU3ZTQ4Yjk4ZDgxZDI5ZmRhODQ1NWM0MjU5MzI0",
+  "snapshot_id": "MCwyMDhkMjhjZWYwZDBmY2M4YTg1NjBlZGE5MGUzZmI0OGQ1OTgyNmVh",
   "tracks": [
     {
       "added_at": "2024-02-29 16:00:00",
@@ -48,7 +48,7 @@
       "added_at": "2024-02-29 16:00:00",
       "album": {
         "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
       "artists": [
         {
@@ -65,8 +65,8 @@
         }
       ],
       "duration_ms": 173053,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2k98PByaA4w3aEcFpmFsQe"
+      "name": "Over You (feat. aespa & Chris Martin)",
+      "url": "https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ"
     },
     {
       "added_at": "2024-02-29 16:00:00",
@@ -546,6 +546,10 @@
         {
           "name": "Chloe George",
           "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
         }
       ],
       "duration_ms": 170515,

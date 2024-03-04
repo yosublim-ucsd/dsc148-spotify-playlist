@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-195 songs - 11 hr 18 min
+196 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 | 2022-08-18 |  |
 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 | 2023-08-18 |  |
 | [If You Love Me Like You Say](https://open.spotify.com/track/2qbmaHldMNGcFK76X0H2KX) | [The Sully Band](https://open.spotify.com/artist/5AlTmU7ksSCynwuOc7RdG9), [Anthony Cullins](https://open.spotify.com/artist/5WIJjBPoGRDI0owB3R7K2Q) | [If You Love Me Like You Say](https://open.spotify.com/album/4kHTyJ2x7vC6fCprM7xhkZ) | 3:16 | 2022-01-07 | 2022-02-18 |
+| [ILa\-View](https://open.spotify.com/track/3FA6NLfuZ76xGTuQ8WR7BR) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Exorcist](https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL) | 4:01 | 2023-11-24 |  |
 | [It Ain't Right](https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [Emil Balsgaard](https://open.spotify.com/artist/58Bm8EjagDqKAvFTgGIEXM) | [Taking the Good with the Bad](https://open.spotify.com/album/4zke14lsydYilEMk2CuoDn) | 3:04 | 2023-08-18 |  |
 | [It's My Fault, Darling \- Remastered](https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:53 | 2021-12-20 |  |
 | [I’ve Been Walkin’](https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8) | 2:34 | 2021-12-20 | 2022-07-28 |
@@ -186,7 +187,7 @@
 | [Time to Get Movin'](https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY) | 3:37 | 2022-05-27 | 2022-07-28 |
 | [Too Old To Grow Up](https://open.spotify.com/track/2V3azyKH2p0Y95rhTO78U8) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 3:21 | 2023-11-24 |  |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2023-12-24 |
-| [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 | 2023-08-18 |  |
+| [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 | 2023-08-18 | 2024-03-04 |
 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 | 2022-08-18 |  |
 | [Two Headed Woman](https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:41 | 2022-11-17 |  |
 | [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 | 2023-08-04 |  |

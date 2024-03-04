@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123979,
+  "num_followers": 124001,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGQ5ZDE2MTllOTJiNzAzZWY0MmE1NzllZTczZGRjNGE2ZTBmNmZl",
+  "snapshot_id": "MCxmYjc3NTNiMzU2ZTM4MTU4MTQ5YjdkZTNiMzcxM2IzZWJhYzVmM2Vi",
   "tracks": [
     {
       "added_at": "2024-02-29 16:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
-        "name": "\u6642\u5149\u539a\u79ae",
-        "url": "https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f"
-      },
-      "artists": [
-        {
-          "name": "Kelly Chen",
-          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
-        }
-      ],
-      "duration_ms": 231371,
-      "name": "\u6642\u5149\u539a\u79ae",
-      "url": "https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9"
-    },
-    {
-      "added_at": "2024-02-29 16:00:00",
-      "album": {
         "name": "\u7d66\u5929\u738b\u661f",
         "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
@@ -607,18 +591,34 @@
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+        "name": "\u6642\u5149\u539a\u79ae",
+        "url": "https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f"
       },
       "artists": [
         {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
         }
       ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+      "duration_ms": 231371,
+      "name": "\u6642\u5149\u539a\u79ae",
+      "url": "https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9"
+    },
+    {
+      "added_at": "2024-02-29 16:00:00",
+      "album": {
+        "name": "\u88dd\u5e40",
+        "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
+      },
+      "artists": [
+        {
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "\u88dd\u5e40",
+      "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
     },
     {
       "added_at": "2024-02-29 16:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
-        "name": "\u88dd\u5e40",
-        "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
       "artists": [
         {
-          "name": "Crispy\u8106\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
         }
       ],
-      "duration_ms": 245000,
-      "name": "\u88dd\u5e40",
-      "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2024-02-29 16:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-29 16:00:00",
       "album": {
-        "name": "\u4e00\u5207\u5e73\u5e38",
-        "url": "https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ"
-      },
-      "artists": [
-        {
-          "name": "Dadado Huang",
-          "url": "https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN"
-        }
-      ],
-      "duration_ms": 246263,
-      "name": "\u60f3\u56de\u5bb6\u7684\u6642\u5019",
-      "url": "https://open.spotify.com/track/3qBCr8BDyEqEZjSDNGW5op"
-    },
-    {
-      "added_at": "2024-02-29 16:00:00",
-      "album": {
         "name": "\u9858\u6eab\u67d4\u7684\u4f60\u88ab\u4e16\u754c\u6eab\u67d4\u4ee5\u5f85 (Demo)",
         "url": "https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 186780,
       "name": "Miss missed Love",
       "url": "https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur"
+    },
+    {
+      "added_at": "2024-02-29 16:00:00",
+      "album": {
+        "name": "\u4e00\u5207\u5e73\u5e38",
+        "url": "https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ"
+      },
+      "artists": [
+        {
+          "name": "Dadado Huang",
+          "url": "https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN"
+        }
+      ],
+      "duration_ms": 246263,
+      "name": "\u60f3\u56de\u5bb6\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/3qBCr8BDyEqEZjSDNGW5op"
     },
     {
       "added_at": "2024-02-29 16:00:00",

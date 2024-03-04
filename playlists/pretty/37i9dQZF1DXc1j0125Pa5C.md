@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,744 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,947 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Você Pode / Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music, EP 01 \(Ao Vivo\)](https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h) | 4:19 |
 | 75 | [Chegamos Ao Fim / Além do Meu Querer / Fim da Tristeza \- Ao Vivo](https://open.spotify.com/track/0AGCb8UOErEkIWxmqx07E1) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Samba Pro Meu Povo: Bloco Referências \(Ao Vivo\)](https://open.spotify.com/album/1g1Jqje9vE1uUYJzb74UKt) | 4:35 |
 
-Snapshot ID: `MCw2M2Y2YzRlMTJhMzY2NjJkNTQ3YTVkOTVhMzJjNDA0ZTVhMDUxMGJk`
+Snapshot ID: `MCxmYjRmMGNhYzY3YjYwMzE1YjhhYWNlMjEwMzg2M2U4ZDFhZjk3YjEz`

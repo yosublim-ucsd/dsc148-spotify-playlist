@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Queen Cult
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,608 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,611 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 54 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 |
 | 55 | [Willow Tree](https://open.spotify.com/track/5erHAJLOI0IVgix6U2QPfL) | [DARLAH](https://open.spotify.com/artist/3mPFxrzHrRcZrFFFoMwXCG) | [Human Nature](https://open.spotify.com/album/7tN9HGssvTd1CiOMWL7k72) | 3:19 |
 
-Snapshot ID: `MCw3Y2Y2MDBiZDQ0YmRkYWYwOWY4MmI0Nzg2MjJkZTlmODNmYmE2NzI1`
+Snapshot ID: `MCwzZDkwOGU4NGQyODkzZmYxMjBlMzc0ODlkZDdjOTg5ZDJkNzU4NGQ4`

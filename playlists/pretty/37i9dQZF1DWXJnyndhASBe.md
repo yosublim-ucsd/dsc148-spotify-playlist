@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Gibbs, Opał
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,472 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,740 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 | 50 | [Tuptanie](https://open.spotify.com/track/3vfs6d1jMNRt160lC9v32t) | [Popek](https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz), [Razgonov](https://open.spotify.com/artist/1E7LpsS1t2p1jlAvco4i15), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Tuptanie](https://open.spotify.com/album/72UXBc5oCuhyjviuJP3PyL) | 2:48 |
 
-Snapshot ID: `MCw2OGZlOWY2ODRlMjg1OWZlNTExY2ZiYjhhNDA4MWM5YmE0ZDE2Y2E2`
+Snapshot ID: `MCxlMmQ1OGRlNjgzZTQzYTJlNjcyNTFlMDQwNGQ0ZDY2Y2Q2MDA3MTEz`

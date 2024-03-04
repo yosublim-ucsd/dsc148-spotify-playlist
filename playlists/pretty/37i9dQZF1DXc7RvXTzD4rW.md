@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 大西亜玖璃 \(Aguri Ōnishi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,147 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Universe](https://open.spotify.com/track/5ia4dmh1nNWx7VsUdzRNLu) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/2hyCWFxpPWVoWHZSXqGOOM) | 3:49 |
 | 50 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 |
 
-Snapshot ID: `MCxjNDQzN2IyZjE4MDVhYTM1NDI2MTEzYzA0MDIzMWI5ZjllMjZiZjc2`
+Snapshot ID: `MCxhYzlmMjY1ZjMyMzU1MDg1YmRiNzk5ZjU0YzQwZjQ2NjI4NDE2MDI5`
